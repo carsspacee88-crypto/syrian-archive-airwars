@@ -1,0 +1,26 @@
+{
+  "attempt_history": [
+    {
+      "attempt": 1,
+      "elapsed_seconds": 0.035,
+      "error": "http_403",
+      "result": "http_error",
+      "retrieved_at": "2026-07-31T18:10:03+00:00",
+      "status": 403
+    }
+  ],
+  "attempts": 1,
+  "body_decoded_from": null,
+  "bytes": 1540,
+  "content_hash": "2ae608b786e88b048208a81ba25afd0ba966315122344ddefe0d6246f1c78a8d",
+  "content_type": "text/html; charset=utf-8",
+  "elapsed_seconds": 0.035,
+  "error": "http_403",
+  "final_url": "https://airwars.org/civilian-casualties/debsyr250613a-june-13-2025/",
+  "ok": false,
+  "response_content_encoding": "",
+  "retrieved_at": "2026-07-31T18:10:03+00:00",
+  "status": 403,
+  "url": "https://airwars.org/civilian-casualties/debsyr250613a-june-13-2025/",
+  "waiting_seconds": 0.749
+}

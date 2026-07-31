@@ -1,0 +1,26 @@
+{
+  "attempt_history": [
+    {
+      "attempt": 1,
+      "elapsed_seconds": 0.024,
+      "error": "http_403",
+      "result": "http_error",
+      "retrieved_at": "2026-07-31T18:08:52+00:00",
+      "status": 403
+    }
+  ],
+  "attempts": 1,
+  "body_decoded_from": null,
+  "bytes": 1530,
+  "content_hash": "9e77266ebb6dac41ddd9f126ded560d808dc04728ddb82822705b5028d61e584",
+  "content_type": "text/html; charset=utf-8",
+  "elapsed_seconds": 0.024,
+  "error": "http_403",
+  "final_url": "https://airwars.org/civilian-casualties/iris250616b-june-26-2025/",
+  "ok": false,
+  "response_content_encoding": "",
+  "retrieved_at": "2026-07-31T18:08:52+00:00",
+  "status": 403,
+  "url": "https://airwars.org/civilian-casualties/iris250616b-june-26-2025/",
+  "waiting_seconds": 0.749
+}

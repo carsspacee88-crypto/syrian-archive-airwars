@@ -52,6 +52,7 @@
       "url": "https://airwars.org/belligerent/turkish-military/"
     }
   ],
+  "additional_notes": "",
   "airwars_id": "403523",
   "alleged_belligerent": "Turkish Military",
   "alleged_belligerent_ar": "الجيش التركي",
@@ -212,10 +213,274 @@
   "internal_id": "airwars-403523",
   "latitude": null,
   "legacy_completeness_status": "complete",
+  "legacy_incident_fields": {
+    "آخر تعديل": "2026-05-27",
+    "أطفال جرحى — حد أدنى": 4,
+    "أطفال جرحى — حد أعلى": 4,
+    "أطفال قتلى — حد أدنى": 4,
+    "أطفال قتلى — حد أعلى": 5,
+    "البنية المتضررة — الأصل": "Residential",
+    "البنية المتضررة — عربي": "سكني",
+    "التسلسل": 4,
+    "الجهة العسكرية — الأصل": "Turkish Military",
+    "الجهة العسكرية — عربي": "الجيش التركي",
+    "الدولة": "سوريا",
+    "المنطقة — الأصل": "Aleppo",
+    "المنطقة — عربي": "حلب",
+    "الموقع بالإنجليزية": "village of Khirab Ashk in the Kobani countryside",
+    "الموقع بالعربية": "قرية خراب عشك بريف",
+    "تاريخ الحادثة": "2026-01-26",
+    "تاريخ النشر": "2026-05-07",
+    "تفاصيل الصفحة الداخلية محفوظة": "نعم",
+    "حالة التحديد — الأصل": "Unassigned",
+    "حالة التحديد — عربي": "غير مسند",
+    "حالة الحادثة — الأصل": "Researched",
+    "حالة الحادثة — عربي": "تم البحث والتوثيق",
+    "حالة نسبة الضربة — الأصل": "Contested strike",
+    "حالة نسبة الضربة — عربي": "ضربة متنازع على نسبتها",
+    "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+    "رجال جرحى — حد أدنى": 1,
+    "رجال جرحى — حد أعلى": 1,
+    "رمز الحادثة": "TS798",
+    "سبب الوفاة/الإصابة — الأصل": "Heavy weapons and explosive munitions",
+    "سبب الوفاة/الإصابة — عربي": "أسلحة ثقيلة وذخائر متفجرة",
+    "ضرر مدني مُبلغ — الأصل": "Yes",
+    "ضرر مدني مُبلغ — عربي": "نعم",
+    "عدد الروابط الإضافية": 3,
+    "عدد المصادر المفككة": 0,
+    "عدد الوسائط": 0,
+    "قوة الأدلة — الأصل": "Contested",
+    "قوة الأدلة — عربي": "متنازع عليه",
+    "مدنيون جرحى — حد أدنى": 5,
+    "مدنيون جرحى — حد أعلى": 7,
+    "مدنيون قتلى — حد أدنى": 5,
+    "مدنيون قتلى — حد أعلى": 8,
+    "معرّف Airwars": "403523",
+    "ملخص عربي منظم": "حادثة مسجلة بتاريخ 2026-01-26 في قرية خراب عشك بريف. الجهة المنسوبة: الجيش التركي. نوع الضربة: غارة جوية، ضربة بطائرة مسيّرة. المدنيون القتلى المبلّغ عنهم: 5–8؛ المدنيون الجرحى المبلّغ عنهم: 5–7. قوة الأدلة: متنازع عليه.",
+    "نساء جرحى — حد أدنى": 2,
+    "نساء جرحى — حد أعلى": 2,
+    "نساء قتلى — حد أدنى": 3,
+    "نساء قتلى — حد أعلى": 4,
+    "نوع التاريخ — الأصل": "date",
+    "نوع التاريخ — عربي": "تاريخ محدد",
+    "نوع الضربة — الأصل": "Airstrike, Drone Strike",
+    "نوع الضربة — عربي": "غارة جوية، ضربة بطائرة مسيّرة"
+  },
+  "legacy_page_fields": [
+    {
+      "اسم الحقل — الأصل": "Conflict",
+      "اسم الحقل — عربي": "النزاع",
+      "القيمة — الأصل": "Turkish Military in Iraq & Syria\n\nTS798",
+      "القيمة — عربي": "الجيش التركي في العراق وسوريا\n\nTS798",
+      "ترتيب الحقل": 1,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رابط قيمة الحقل": "https://airwars.org/conflict/turkish-military-in-iraq-and-syria/",
+      "رمز الحادثة": "TS798",
+      "نطاق الحقل": "رأس صفحة الحادثة"
+    },
+    {
+      "اسم الحقل — الأصل": "Incident Code",
+      "اسم الحقل — عربي": "رمز الحادثة",
+      "القيمة — الأصل": "TS798",
+      "القيمة — عربي": "TS798",
+      "ترتيب الحقل": 2,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رمز الحادثة": "TS798",
+      "نطاق الحقل": "رأس صفحة الحادثة"
+    },
+    {
+      "اسم الحقل — الأصل": "Incident Date",
+      "اسم الحقل — عربي": "تاريخ الحادثة",
+      "القيمة — الأصل": "26 January 2026",
+      "القيمة — عربي": "26 يناير 2026",
+      "ترتيب الحقل": 3,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رمز الحادثة": "TS798",
+      "نطاق الحقل": "رأس صفحة الحادثة"
+    },
+    {
+      "اسم الحقل — الأصل": "Location",
+      "اسم الحقل — عربي": "الموقع",
+      "القيمة — الأصل": "village of Khirab Ashk in the Kobani countryside, Aleppo, Syria\n\nقرية خراب عشك بريف",
+      "القيمة — عربي": "قرية خراب عشك بريف كوباني، حلب، سوريا\n\nقرية ريف خراب عشك",
+      "ترتيب الحقل": 4,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رمز الحادثة": "TS798",
+      "نطاق الحقل": "رأس صفحة الحادثة"
+    },
+    {
+      "اسم الحقل — الأصل": "Incident Status",
+      "اسم الحقل — عربي": "حالة الحادثة",
+      "القيمة — الأصل": "Assessed",
+      "القيمة — عربي": "تم تقييمها",
+      "ترتيب الحقل": 5,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رمز الحادثة": "TS798",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Country",
+      "اسم الحقل — عربي": "الدولة",
+      "القيمة — الأصل": "Syria",
+      "القيمة — عربي": "سوريا",
+      "ترتيب الحقل": 6,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رابط قيمة الحقل": "https://airwars.org/country/syria/",
+      "رمز الحادثة": "TS798",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Military Actor",
+      "اسم الحقل — عربي": "الجهة العسكرية",
+      "القيمة — الأصل": "Turkish Military",
+      "القيمة — عربي": "الجيش التركي",
+      "ترتيب الحقل": 7,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رابط قيمة الحقل": "https://airwars.org/belligerent/turkish-military/",
+      "رمز الحادثة": "TS798",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Strike Type",
+      "اسم الحقل — عربي": "نوع الضربة",
+      "القيمة — الأصل": "Airstrike (Drone Strike)",
+      "القيمة — عربي": "غارة جوية (ضربة بدون طيار)",
+      "ترتيب الحقل": 8,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رمز الحادثة": "TS798",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Strike Status",
+      "اسم الحقل — عربي": "حالة نسبة الضربة",
+      "القيمة — الأصل": "Contested strike",
+      "القيمة — عربي": "ضربة متنازع على نسبتها",
+      "ترتيب الحقل": 9,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رمز الحادثة": "TS798",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Civilian Harm Reported",
+      "اسم الحقل — عربي": "الإبلاغ عن ضرر مدني",
+      "القيمة — الأصل": "Yes",
+      "القيمة — عربي": "نعم",
+      "ترتيب الحقل": 10,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رمز الحادثة": "TS798",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Civilian Harm Status",
+      "اسم الحقل — عربي": "قوة أدلة الضرر المدني",
+      "القيمة — الأصل": "Contested Competing claims of responsibility e.g. multiple belligerents, or casualties also attributed to ground forces.",
+      "القيمة — عربي": "المطالبات المتنافسة بالمسؤولية، على سبيل المثال. العديد من المتحاربين، أو الإصابات تُعزى أيضًا إلى القوات البرية.",
+      "ترتيب الحقل": 11,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رمز الحادثة": "TS798",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Causes of Death / Injury",
+      "اسم الحقل — عربي": "أسباب الوفاة أو الإصابة",
+      "القيمة — الأصل": "Heavy weapons and explosive munitions",
+      "القيمة — عربي": "أسلحة ثقيلة وذخائر متفجرة",
+      "ترتيب الحقل": 12,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رمز الحادثة": "TS798",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Civilians reported killed",
+      "اسم الحقل — عربي": "المدنيون المبلّغ عن مقتلهم",
+      "القيمة — الأصل": "5–8\n\n(4–5 Children, 3–4 Women)",
+      "القيمة — عربي": "5-8\n\n(4-5 أطفال، 3-4 نساء)",
+      "ترتيب الحقل": 13,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رمز الحادثة": "TS798",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Civilians reported injured",
+      "اسم الحقل — عربي": "المدنيون المبلّغ عن إصابتهم",
+      "القيمة — الأصل": "5–7\n\n(4 Children, 2 Women, 1 Man)",
+      "القيمة — عربي": "5-7\n\n(4 أطفال، امرأتان، رجل واحد)",
+      "ترتيب الحقل": 14,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رمز الحادثة": "TS798",
+      "نطاق الحقل": "المعلومات الأساسية"
+    }
+  ],
+  "legacy_page_sections": [
+    {
+      "ترتيب القسم": 1,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رمز الحادثة": "TS798",
+      "طول النص بالحروف": 194,
+      "عنوان القسم — الأصل": "Incident Header",
+      "عنوان القسم — عربي": "بيانات الحادثة",
+      "معرّف القسم": "header"
+    },
+    {
+      "ترتيب القسم": 2,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رمز الحادثة": "TS798",
+      "طول النص بالحروف": 524,
+      "عنوان القسم — الأصل": "Key Information",
+      "عنوان القسم — عربي": "المعلومات الأساسية",
+      "معرّف القسم": "key-information"
+    },
+    {
+      "ترتيب القسم": 3,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رمز الحادثة": "TS798",
+      "طول النص بالحروف": 2709,
+      "عنوان القسم — الأصل": "Airwars Assessment",
+      "عنوان القسم — عربي": "تقييم إيروورز",
+      "معرّف القسم": "assessment"
+    },
+    {
+      "ترتيب القسم": 4,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رمز الحادثة": "TS798",
+      "طول النص بالحروف": 963,
+      "عنوان القسم — الأصل": "Victims",
+      "عنوان القسم — عربي": "الضحايا",
+      "معرّف القسم": "victims"
+    },
+    {
+      "ترتيب القسم": 5,
+      "تسلسل الحادثة": 4,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "رمز الحادثة": "TS798",
+      "طول النص بالحروف": 336,
+      "عنوان القسم — الأصل": "Military Statements",
+      "عنوان القسم — عربي": "البيانات العسكرية",
+      "معرّف القسم": "strike-reports"
+    }
+  ],
   "legacy_sequence": 4,
   "legacy_snapshot": {
     "completion": "complete",
-    "migrated_at": "2026-07-31T11:02:55+00:00",
+    "migrated_at": "2026-07-31T17:58:28+00:00",
     "sequence": 4,
     "source_type": "legacy_import",
     "workbook_sha256": "1e748659feb1fb597ccbebdc11e75ff7e63870f57c84bfc728b059677baa3ef6"
@@ -231,40 +496,100 @@
   ],
   "narrative": "",
   "narrative_ar": "حادثة مسجلة بتاريخ 2026-01-26 في قرية خراب عشك بريف. الجهة المنسوبة: الجيش التركي. نوع الضربة: غارة جوية، ضربة بطائرة مسيّرة. المدنيون القتلى المبلّغ عنهم: 5–8؛ المدنيون الجرحى المبلّغ عنهم: 5–7. قوة الأدلة: متنازع عليه.",
+  "narrative_original": "",
+  "narrative_original_language": "und",
   "original_source_url": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
-  "parser_version": "1.0.0",
+  "parser_version": "1.1.0",
+  "pilot": {
+    "in_scope": true,
+    "name": "first-100-complete-content",
+    "parser_version": "1.0.0",
+    "sequence": 4
+  },
   "retrieval_status": {
     "airwars_endpoint": {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.019,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T17:58:29+00:00",
+          "status": 403
+        }
+      ],
       "attempts": 1,
-      "bytes": 103,
-      "content_hash": "f261423d1da97890ff6bfccd31ff4ee0b74f69351cf75095fbe791cb16cbf5bd",
-      "content_type": "text/html",
-      "elapsed_seconds": 2.274,
+      "body_decoded_from": null,
+      "bytes": 1895,
+      "content_hash": "bf7c6a377548cc7a66553a109f180581995d15f295d643cb3e573b1fcd912f14",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.019,
       "error": "http_403",
       "final_url": "https://airwars.org/wp-json/wp/v2/civ?include=403523&_fields=id%2Cslug%2Clink%2Cdate%2Cmodified%2Cstatus%2Ctitle%2Ccontent%2Cexcerpt%2Cacf",
       "ok": false,
-      "retrieved_at": "2026-07-31T11:02:58+00:00",
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T17:58:29+00:00",
       "status": 403,
-      "url": "https://airwars.org/wp-json/wp/v2/civ?include=403523&_fields=id%2Cslug%2Clink%2Cdate%2Cmodified%2Cstatus%2Ctitle%2Ccontent%2Cexcerpt%2Cacf"
+      "url": "https://airwars.org/wp-json/wp/v2/civ?include=403523&_fields=id%2Cslug%2Clink%2Cdate%2Cmodified%2Cstatus%2Ctitle%2Ccontent%2Cexcerpt%2Cacf",
+      "waiting_seconds": 0.734
     },
     "archive_page": {
-      "error": "no_wayback_capture_found",
+      "cdx_lookup": {
+        "attempt_history": [
+          {
+            "attempt": 1,
+            "elapsed_seconds": 10.013,
+            "error": "URLError: <urlopen error timed out>",
+            "result": "network_error",
+            "retrieved_at": "2026-07-31T17:58:41+00:00",
+            "status": null
+          }
+        ],
+        "attempts": 1,
+        "body_decoded_from": null,
+        "bytes": 0,
+        "content_hash": null,
+        "content_type": "",
+        "elapsed_seconds": 10.013,
+        "error": "URLError: <urlopen error timed out>",
+        "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fairwars.org%2Fcivilian-casualties%2Fts798-january-26-2026%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+        "ok": false,
+        "response_content_encoding": "",
+        "retrieved_at": "2026-07-31T17:58:41+00:00",
+        "status": null,
+        "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fairwars.org%2Fcivilian-casualties%2Fts798-january-26-2026%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+        "waiting_seconds": 0.749
+      },
+      "error": "wayback_lookup_failed",
       "ok": false,
-      "retrieved_at": "2026-07-31T11:03:08+00:00",
+      "retrieved_at": "2026-07-31T17:58:41+00:00",
       "status": null
     },
     "live_page": {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.023,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T17:58:30+00:00",
+          "status": 403
+        }
+      ],
       "attempts": 1,
-      "bytes": 103,
-      "content_hash": "f261423d1da97890ff6bfccd31ff4ee0b74f69351cf75095fbe791cb16cbf5bd",
-      "content_type": "text/html",
-      "elapsed_seconds": 2.079,
+      "body_decoded_from": null,
+      "bytes": 1515,
+      "content_hash": "c73e46fcc064e07bef5c904c8a8d16ec6bf2520a27b6ea7e40f7470b855dc31c",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.023,
       "error": "http_403",
       "final_url": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
       "ok": false,
-      "retrieved_at": "2026-07-31T11:03:01+00:00",
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T17:58:30+00:00",
       "status": 403,
-      "url": "https://airwars.org/civilian-casualties/ts798-january-26-2026/"
+      "url": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "waiting_seconds": 0.749
     },
     "overall": "blocked"
   },
@@ -273,12 +598,16 @@
     "missing_latitude",
     "missing_longitude"
   ],
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "source_last_modified": "2026-05-27",
   "source_sections": [],
   "sources": [],
   "strike_type": "Airstrike, Drone Strike",
   "strike_type_ar": "غارة جوية، ضربة بطائرة مسيّرة",
+  "timing": {
+    "text_extraction_seconds": 0.0
+  },
+  "translation": {},
   "victims": [
     {
       "additional_information": "",

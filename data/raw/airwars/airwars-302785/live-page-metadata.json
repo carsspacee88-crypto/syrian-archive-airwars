@@ -1,0 +1,26 @@
+{
+  "attempt_history": [
+    {
+      "attempt": 1,
+      "elapsed_seconds": 0.027,
+      "error": "http_403",
+      "result": "http_error",
+      "retrieved_at": "2026-07-31T18:14:12+00:00",
+      "status": 403
+    }
+  ],
+  "attempts": 1,
+  "body_decoded_from": null,
+  "bytes": 1505,
+  "content_hash": "7897dafdf25de0e8e30fee9f66dd48b6750430d73e78905d1ec61ec0d8de4364",
+  "content_type": "text/html; charset=utf-8",
+  "elapsed_seconds": 0.027,
+  "error": "http_403",
+  "final_url": "https://airwars.org/civilian-casualties/ts797-march-24-2025/",
+  "ok": false,
+  "response_content_encoding": "",
+  "retrieved_at": "2026-07-31T18:14:12+00:00",
+  "status": 403,
+  "url": "https://airwars.org/civilian-casualties/ts797-march-24-2025/",
+  "waiting_seconds": 0.749
+}

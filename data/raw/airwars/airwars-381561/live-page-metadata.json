@@ -1,0 +1,26 @@
+{
+  "attempt_history": [
+    {
+      "attempt": 1,
+      "elapsed_seconds": 0.022,
+      "error": "http_403",
+      "result": "http_error",
+      "retrieved_at": "2026-07-31T18:09:36+00:00",
+      "status": 403
+    }
+  ],
+  "attempts": 1,
+  "body_decoded_from": null,
+  "bytes": 1515,
+  "content_hash": "78fafed7bed1ca00a33438d269207e97a8eda95ac789916a9ce4e4bb27932cdc",
+  "content_type": "text/html; charset=utf-8",
+  "elapsed_seconds": 0.022,
+  "error": "http_403",
+  "final_url": "https://airwars.org/civilian-casualties/ncs0146a-june-14-2025/",
+  "ok": false,
+  "response_content_encoding": "",
+  "retrieved_at": "2026-07-31T18:09:36+00:00",
+  "status": 403,
+  "url": "https://airwars.org/civilian-casualties/ncs0146a-june-14-2025/",
+  "waiting_seconds": 0.749
+}

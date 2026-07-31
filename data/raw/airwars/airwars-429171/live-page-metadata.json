@@ -1,13 +1,26 @@
 {
+  "attempt_history": [
+    {
+      "attempt": 1,
+      "elapsed_seconds": 0.035,
+      "error": "http_403",
+      "result": "http_error",
+      "retrieved_at": "2026-07-31T17:58:17+00:00",
+      "status": 403
+    }
+  ],
   "attempts": 1,
-  "bytes": 103,
-  "content_hash": "f261423d1da97890ff6bfccd31ff4ee0b74f69351cf75095fbe791cb16cbf5bd",
-  "content_type": "text/html",
-  "elapsed_seconds": 2.456,
+  "body_decoded_from": null,
+  "bytes": 1560,
+  "content_hash": "013d74cb0a2e75540e9aeb067d77d524668a5113cc1b68b3a69ae7f2639903e1",
+  "content_type": "text/html; charset=utf-8",
+  "elapsed_seconds": 0.035,
   "error": "http_403",
   "final_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
   "ok": false,
-  "retrieved_at": "2026-07-31T11:02:32+00:00",
+  "response_content_encoding": "",
+  "retrieved_at": "2026-07-31T17:58:17+00:00",
   "status": 403,
-  "url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/"
+  "url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+  "waiting_seconds": 0.749
 }

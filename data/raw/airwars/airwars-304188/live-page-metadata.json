@@ -1,0 +1,26 @@
+{
+  "attempt_history": [
+    {
+      "attempt": 1,
+      "elapsed_seconds": 0.021,
+      "error": "http_403",
+      "result": "http_error",
+      "retrieved_at": "2026-07-31T18:15:14+00:00",
+      "status": 403
+    }
+  ],
+  "attempts": 1,
+  "body_decoded_from": null,
+  "bytes": 1505,
+  "content_hash": "e1afb09837df2f95b518f6927b75620dea4a15c87eedd658622df58ddbb5db11",
+  "content_type": "text/html; charset=utf-8",
+  "elapsed_seconds": 0.021,
+  "error": "http_403",
+  "final_url": "https://airwars.org/civilian-casualties/ts796-march-16-2025/",
+  "ok": false,
+  "response_content_encoding": "",
+  "retrieved_at": "2026-07-31T18:15:14+00:00",
+  "status": 403,
+  "url": "https://airwars.org/civilian-casualties/ts796-march-16-2025/",
+  "waiting_seconds": 0.749
+}
