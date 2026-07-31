@@ -1,0 +1,99 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/yjCdG"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.013,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T19:00:26+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 982613,
+      "content_hash": "5a5a712294a4ef99f1ccd721e88b8249d8c43da309f9905c54ac4a59c7df2b8a",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.013,
+      "error": null,
+      "final_url": "https://www.facebook.com/Syrian.USA/posts/pfbid02tJJq4AdkNtYfjxAqHv4YJYJkP1ihGdtG9L9Ff7xLHqhrudSDdVdwgeEPVxJbtDJgl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:00:26+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/Syrian.USA/posts/pfbid02tJJq4AdkNtYfjxAqHv4YJYJkP1ihGdtG9L9Ff7xLHqhrudSDdVdwgeEPVxJbtDJgl",
+      "waiting_seconds": 0.734
+    }
+  ],
+  "author": "Syrian community page in America",
+  "captions": [],
+  "content_hash": "5a3faf0235d798fea1e456c8f03616bd6a11e3ada4b819c9cf7e4fb1c2d2d9c9",
+  "content_variants": [
+    {
+      "bytes": 195,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T19:00:26+00:00",
+      "sha256": "5a3faf0235d798fea1e456c8f03616bd6a11e3ada4b819c9cf7e4fb1c2d2d9c9",
+      "source_url": "https://www.facebook.com/Syrian.USA/posts/pfbid02tJJq4AdkNtYfjxAqHv4YJYJkP1ihGdtG9L9Ff7xLHqhrudSDdVdwgeEPVxJbtDJgl",
+      "text": "‎The Syrian Community in the USA صفحة الجالية السورية في امريكا‎'s Post\n\nThe Syrian Community in the USA صفحة الجالية السورية في امريكا\n\n1y"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Syrian.USA/posts/pfbid02tJJq4AdkNtYfjxAqHv4YJYJkP1ihGdtG9L9Ff7xLHqhrudSDdVdwgeEPVxJbtDJgl",
+  "incident_ids": [
+    "airwars-142194"
+  ],
+  "incident_sequences": [
+    80
+  ],
+  "normalized_url": "https://www.facebook.com/Syrian.USA/posts/pfbid02tJJq4AdkNtYfjxAqHv4YJYJkP1ihGdtG9L9Ff7xLHqhrudSDdVdwgeEPVxJbtDJgl",
+  "observed_original_urls": [
+    "https://www.facebook.com/Syrian.USA/posts/pfbid02tJJq4AdkNtYfjxAqHv4YJYJkP1ihGdtG9L9Ff7xLHqhrudSDdVdwgeEPVxJbtDJgl"
+  ],
+  "original_url": "https://www.facebook.com/Syrian.USA/posts/pfbid02tJJq4AdkNtYfjxAqHv4YJYJkP1ihGdtG9L9Ff7xLHqhrudSDdVdwgeEPVxJbtDJgl",
+  "page_title": "التلفزيون العربي... - The Syrian Community in the USA صفحة الجالية السورية في امريكا Facebook Shared with Public Verified account Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy075-march-25-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-142194",
+      "incident_sequence": 80,
+      "observed_original_url": "https://www.facebook.com/Syrian.USA/posts/pfbid02tJJq4AdkNtYfjxAqHv4YJYJkP1ihGdtG9L9Ff7xLHqhrudSDdVdwgeEPVxJbtDJgl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Syrian community page in America",
+  "publisher_ar": "Syrian community page in America",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T19:00:26+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-ecc86a91cd78adabad1acd1c",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/Syrian.USA/posts/pfbid02tJJq4AdkNtYfjxAqHv4YJYJkP1ihGdtG9L9Ff7xLHqhrudSDdVdwgeEPVxJbtDJgl",
+  "text_ar": "",
+  "text_original": "‎The Syrian Community in the USA صفحة الجالية السورية في امريكا‎'s Post\n\nThe Syrian Community in the USA صفحة الجالية السورية في امريكا\n\n1y",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00408
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

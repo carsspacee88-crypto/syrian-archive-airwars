@@ -1,0 +1,158 @@
+{
+  "airwars_source_ids": [
+    "308542",
+    "308344"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-alsumaria-tv-al-sumaria-tv-2025-02-26-185500/",
+    "https://airwars.org/source/www-alsumaria-tv-2025-02-26-185500-2/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 31-33: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T19:01:31+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 31-33: ordinal not in range(128)",
+      "final_url": "https://www.alsumaria.tv/news/international/517787/قسد-تعلن-مقتل-12-شخصا-بقصف-تركي-في-سوريا",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:01:31+00:00",
+      "status": null,
+      "url": "https://www.alsumaria.tv/news/international/517787/قسد-تعلن-مقتل-12-شخصا-بقصف-تركي-في-سوريا",
+      "waiting_seconds": 0.72
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/www-alsumaria-tv-al-sumaria-tv-2025-02-26-185500/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:01:31+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/www-alsumaria-tv-al-sumaria-tv-2025-02-26-185500/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/www-alsumaria-tv-2025-02-26-185500-2/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:01:31+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/www-alsumaria-tv-2025-02-26-185500-2/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_role": "wayback_lookup",
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "ok": false,
+      "retrieved_at": "2026-07-31T19:01:31+00:00"
+    }
+  ],
+  "author": "Al-Sumaria TV",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 31-33: ordinal not in range(128)",
+  "final_redirected_url": "https://www.alsumaria.tv/news/international/517787/قسد-تعلن-مقتل-12-شخصا-بقصف-تركي-في-سوريا",
+  "incident_ids": [
+    "airwars-308525",
+    "airwars-290203"
+  ],
+  "incident_sequences": [
+    94,
+    95
+  ],
+  "normalized_url": "https://www.alsumaria.tv/news/international/517787/قسد-تعلن-مقتل-12-شخصا-بقصف-تركي-في-سوريا",
+  "observed_original_urls": [
+    "https://www.alsumaria.tv/news/international/517787/قسد-تعلن-مقتل-12-شخصا-بقصف-تركي-في-سوريا"
+  ],
+  "original_url": "https://www.alsumaria.tv/news/international/517787/قسد-تعلن-مقتل-12-شخصا-بقصف-تركي-في-سوريا",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts793-february-26-2025/",
+      "airwars_source_id": "308542",
+      "incident_id": "airwars-308525",
+      "incident_sequence": 94,
+      "observed_original_url": "https://www.alsumaria.tv/news/international/517787/قسد-تعلن-مقتل-12-شخصا-بقصف-تركي-في-سوريا",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts792-february-26-2025/",
+      "airwars_source_id": "308344",
+      "incident_id": "airwars-290203",
+      "incident_sequence": 95,
+      "observed_original_url": "https://www.alsumaria.tv/news/international/517787/قسد-تعلن-مقتل-12-شخصا-بقصف-تركي-في-سوريا",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "26 فبراير 2025",
+  "publisher": "Al-Sumaria TV",
+  "publisher_ar": "Al-Sumaria TV",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T19:01:31+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-f465f36245660180fa20ed11",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.alsumaria.tv/news/international/517787/قسد-تعلن-مقتل-12-شخصا-بقصف-تركي-في-سوريا",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

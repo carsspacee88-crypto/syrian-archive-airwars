@@ -1,0 +1,144 @@
+{
+  "airwars_source_ids": [
+    "363418"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/nahermedia-net-naher-media-2025-02-24-192707/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-9: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:59:54+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-9: ordinal not in range(128)",
+      "final_url": "https://nahermedia.net/عملية-أمنية-للتحالف-الدولي-شمالي-دير-ا/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:59:54+00:00",
+      "status": null,
+      "url": "https://nahermedia.net/عملية-أمنية-للتحالف-الدولي-شمالي-دير-ا/",
+      "waiting_seconds": 0.736
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.038,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:59:55+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1565,
+      "content_hash": "387c419b83115c8723440df51e36e9aeffb40a59b778da0b6d985f555ba04705",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.038,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/nahermedia-net-naher-media-2025-02-24-192707/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:59:55+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/nahermedia-net-naher-media-2025-02-24-192707/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.157,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T19:00:06+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.157,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fnahermedia.net%2F%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%AF%D9%8A%D8%B1-%D8%A7%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:00:06+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fnahermedia.net%2F%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%AF%D9%8A%D8%B1-%D8%A7%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "naher media",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-9: ordinal not in range(128)",
+  "final_redirected_url": "https://nahermedia.net/عملية-أمنية-للتحالف-الدولي-شمالي-دير-ا/",
+  "incident_ids": [
+    "airwars-367997"
+  ],
+  "incident_sequences": [
+    100
+  ],
+  "normalized_url": "https://nahermedia.net/عملية-أمنية-للتحالف-الدولي-شمالي-دير-ا/",
+  "observed_original_urls": [
+    "https://nahermedia.net/عملية-أمنية-للتحالف-الدولي-شمالي-دير-ا/"
+  ],
+  "original_url": "https://nahermedia.net/عملية-أمنية-للتحالف-الدولي-شمالي-دير-ا/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0130-february-23-2025/",
+      "airwars_source_id": "363418",
+      "incident_id": "airwars-367997",
+      "incident_sequence": 100,
+      "observed_original_url": "https://nahermedia.net/عملية-أمنية-للتحالف-الدولي-شمالي-دير-ا/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "24 فبراير 2025",
+  "publisher": "near media",
+  "publisher_ar": "near media",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:59:54+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-eb4c80158b80d73341df4b95",
+  "source_type": "news_article",
+  "stable_id_basis": "https://nahermedia.net/عملية-أمنية-للتحالف-الدولي-شمالي-دير-ا/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

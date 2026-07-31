@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "275344"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-farzat77-1972263970162790865-2025-09-28-113548/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.245,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T19:01:51+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 78495,
+      "content_hash": "1d6a488f0662d5c78d7b8569a0ac3817fc043c8f26d7fcfe2e9acc305ae4f551",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.245,
+      "error": null,
+      "final_url": "https://x.com/farzat77/status/1972263970162790865",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:01:51+00:00",
+      "status": 200,
+      "url": "https://x.com/farzat77/status/1972263970162790865",
+      "waiting_seconds": 0.734
+    }
+  ],
+  "author": "https://x.com/farzat77",
+  "captions": [],
+  "content_hash": "3ed4349c4bcab15a934e86d3ff07068c1f8639aeb66146c84d829c5c5280ab98",
+  "content_variants": [
+    {
+      "bytes": 255,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T19:01:51+00:00",
+      "sha256": "3ed4349c4bcab15a934e86d3ff07068c1f8639aeb66146c84d829c5c5280ab98",
+      "source_url": "https://x.com/farzat77/status/1972263970162790865",
+      "text": "Post\n\nPost\n\nGHIAS FARZAT@farzat77🟠 ادلب ـ التمانعة\n\n🟠 طيران التحالف الدولي يستهدف موقعاً بغارة في محيط بلدة التمانعة بريف ادلب الجنوبي11:35 AM · Sep 28, 2025204Views14"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/farzat77/status/1972263970162790865",
+  "incident_ids": [
+    "airwars-287562"
+  ],
+  "incident_sequences": [
+    39
+  ],
+  "normalized_url": "https://x.com/farzat77/status/1972263970162790865",
+  "observed_original_urls": [
+    "https://x.com/farzat77/status/1972263970162790865"
+  ],
+  "original_url": "https://x.com/farzat77/status/1972263970162790865",
+  "page_title": "GHIAS FARZAT on X: \"🟠 ادلب ـ التمانعة\n\n🟠 طيران التحالف الدولي يستهدف موقعاً بغارة في محيط بلدة التمانعة بريف ادلب الجنوبي https://t.co/jPrjBB5nSy\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2013-september-28-2025/",
+      "airwars_source_id": "275344",
+      "incident_id": "airwars-287562",
+      "incident_sequence": 39,
+      "observed_original_url": "https://x.com/farzat77/status/1972263970162790865",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-09-28T11:35:48.000Z",
+  "publisher": "farzat77",
+  "publisher_ar": "farzat77",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T19:01:51+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-f69641d542a50550b9211581",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/farzat77/status/1972263970162790865",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nGHIAS FARZAT@farzat77🟠 ادلب ـ التمانعة\n\n🟠 طيران التحالف الدولي يستهدف موقعاً بغارة في محيط بلدة التمانعة بريف ادلب الجنوبي11:35 AM · Sep 28, 2025204Views14",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001832
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

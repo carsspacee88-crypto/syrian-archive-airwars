@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "275348"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-rian_almasri-1972253789739790828-2025-09-28-105520/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.194,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:59:33+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 61339,
+      "content_hash": "9bcfc7f7448f4e857eae7dfd3dd65602281924a75236d3d84b72c708d3163507",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.194,
+      "error": null,
+      "final_url": "https://x.com/Rian_almasri/status/1972253789739790828",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:59:33+00:00",
+      "status": 200,
+      "url": "https://x.com/Rian_almasri/status/1972253789739790828",
+      "waiting_seconds": 0.737
+    }
+  ],
+  "author": "Rian_almasri",
+  "captions": [],
+  "content_hash": "bea5db6d631b18d6a09b6b9599f72cabec9f44fd19c1709ef120cddfaec5aa2e",
+  "content_variants": [
+    {
+      "bytes": 29,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:59:33+00:00",
+      "sha256": "bea5db6d631b18d6a09b6b9599f72cabec9f44fd19c1709ef120cddfaec5aa2e",
+      "source_url": "https://x.com/Rian_almasri/status/1972253789739790828",
+      "text": "PostLog inSign upPost229Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Rian_almasri/status/1972253789739790828",
+  "incident_ids": [
+    "airwars-287562"
+  ],
+  "incident_sequences": [
+    39
+  ],
+  "normalized_url": "https://x.com/Rian_almasri/status/1972253789739790828",
+  "observed_original_urls": [
+    "https://x.com/Rian_almasri/status/1972253789739790828"
+  ],
+  "original_url": "https://x.com/Rian_almasri/status/1972253789739790828",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2013-september-28-2025/",
+      "airwars_source_id": "275348",
+      "incident_id": "airwars-287562",
+      "incident_sequence": 39,
+      "observed_original_url": "https://x.com/Rian_almasri/status/1972253789739790828",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "28 سبتمبر 2025",
+  "publisher": "Rian_almasri",
+  "publisher_ar": "Rian_almasri",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:59:33+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-ea10c5d99d4e09745f5f9107",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Rian_almasri/status/1972253789739790828",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost229Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001222
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

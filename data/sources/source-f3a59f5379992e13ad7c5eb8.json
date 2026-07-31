@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "187491"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-syrianumayyad-1932359960282722482-2025-06-10-085130/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.189,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T19:01:24+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 61747,
+      "content_hash": "efda84f5df1692a128bdb9bdd3d084888a419ada30e78d8f5003c323a4a597b5",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.189,
+      "error": null,
+      "final_url": "https://x.com/SyrianUmayyad/status/1932359960282722482",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:01:24+00:00",
+      "status": 200,
+      "url": "https://x.com/SyrianUmayyad/status/1932359960282722482",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "SyrianUmayyad",
+  "captions": [],
+  "content_hash": "9faac7068309e49d17a5c8ec04ab540a1192ec85dfeb33f663ef51016fbd1454",
+  "content_variants": [
+    {
+      "bytes": 35,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T19:01:24+00:00",
+      "sha256": "9faac7068309e49d17a5c8ec04ab540a1192ec85dfeb33f663ef51016fbd1454",
+      "source_url": "https://x.com/SyrianUmayyad/status/1932359960282722482",
+      "text": "PostLog inSign upPost00:00880Views8"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyrianUmayyad/status/1932359960282722482",
+  "incident_ids": [
+    "airwars-190695"
+  ],
+  "incident_sequences": [
+    66
+  ],
+  "normalized_url": "https://x.com/SyrianUmayyad/status/1932359960282722482",
+  "observed_original_urls": [
+    "https://x.com/SyrianUmayyad/status/1932359960282722482"
+  ],
+  "original_url": "https://x.com/SyrianUmayyad/status/1932359960282722482",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2009-june-10-2025/",
+      "airwars_source_id": "187491",
+      "incident_id": "airwars-190695",
+      "incident_sequence": 66,
+      "observed_original_url": "https://x.com/SyrianUmayyad/status/1932359960282722482",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "10 يونيو 2025",
+  "publisher": "SyrianUmayyad",
+  "publisher_ar": "SyrianUmayyad",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T19:01:24+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-f3a59f5379992e13ad7c5eb8",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyrianUmayyad/status/1932359960282722482",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost00:00880Views8",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001234
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

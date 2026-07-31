@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "315371"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-jaleannews-1982081494433571322-2025-10-25-134708/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.242,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:59:32+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 76873,
+      "content_hash": "28d6df6244a9f92f38098204b012dcaa86062df799f8e5131db580b1b525517d",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.242,
+      "error": null,
+      "final_url": "https://x.com/jaleannews/status/1982081494433571322",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:59:32+00:00",
+      "status": 200,
+      "url": "https://x.com/jaleannews/status/1982081494433571322",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "https://x.com/jaleannews",
+  "captions": [],
+  "content_hash": "e94c0a9ad3ccf5d9b38c88f6a380022215ddc96834fd165e00caa11ef66a1fa1",
+  "content_variants": [
+    {
+      "bytes": 269,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:59:32+00:00",
+      "sha256": "e94c0a9ad3ccf5d9b38c88f6a380022215ddc96834fd165e00caa11ef66a1fa1",
+      "source_url": "https://x.com/jaleannews/status/1982081494433571322",
+      "text": "Post\n\nPost\n\nJalwan جلوان@jaleannews#جلوان #Jalwan\n#سورية\nالتحالف الدولي ينفذ عملية إنزال في بلدة الشحيل بمحافظة دير الزور ويعتقل المدعو محمود الفنخ1:47 PM · Oct 25, 202530Views2"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/jaleannews/status/1982081494433571322",
+  "incident_ids": [
+    "airwars-386630"
+  ],
+  "incident_sequences": [
+    31
+  ],
+  "normalized_url": "https://x.com/jaleannews/status/1982081494433571322",
+  "observed_original_urls": [
+    "https://x.com/jaleannews/status/1982081494433571322"
+  ],
+  "original_url": "https://x.com/jaleannews/status/1982081494433571322",
+  "page_title": "Jalwan جلوان on X: \"#جلوان #Jalwan\n#سورية\nالتحالف الدولي ينفذ عملية إنزال في بلدة الشحيل بمحافظة دير الزور ويعتقل المدعو محمود الفنخ\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0162-october-25-2025/",
+      "airwars_source_id": "315371",
+      "incident_id": "airwars-386630",
+      "incident_sequence": 31,
+      "observed_original_url": "https://x.com/jaleannews/status/1982081494433571322",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-10-25T13:47:08.000Z",
+  "publisher": "jaleannews",
+  "publisher_ar": "jaleannews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:59:32+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-e9ce11a5a369d428ef48dee3",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/jaleannews/status/1982081494433571322",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nJalwan جلوان@jaleannews#جلوان #Jalwan\n#سورية\nالتحالف الدولي ينفذ عملية إنزال في بلدة الشحيل بمحافظة دير الزور ويعتقل المدعو محمود الفنخ1:47 PM · Oct 25, 202530Views2",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001456
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

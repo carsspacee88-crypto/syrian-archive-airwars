@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "176331"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-newsisrael13-1934469327425560832-2025-06-16-043323/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.297,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T19:00:10+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 80276,
+      "content_hash": "f841bca08427e54b65f966aed2b6c7def1433000d08d9ed71d0950adbe4e830b",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.297,
+      "error": null,
+      "final_url": "https://x.com/newsisrael13/status/1934469327425560832",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:00:10+00:00",
+      "status": 200,
+      "url": "https://x.com/newsisrael13/status/1934469327425560832",
+      "waiting_seconds": 0.737
+    }
+  ],
+  "author": "https://x.com/newsisrael13",
+  "captions": [],
+  "content_hash": "83c781c6b4fa516badbc4eeeb59623ea252c14e7bde926e3f37888ebb79b1c99",
+  "content_variants": [
+    {
+      "bytes": 327,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T19:00:10+00:00",
+      "sha256": "83c781c6b4fa516badbc4eeeb59623ea252c14e7bde926e3f37888ebb79b1c99",
+      "source_url": "https://x.com/newsisrael13/status/1934469327425560832",
+      "text": "Post\n\nPost\n\nחדשות 13@newsisrael13תמונת המצב לאחר המטח מאיראן: 4 הרוגים ו-2 פצועים קשה ב-4 זירות נפילה בגוש דן וזירה אחת בחיפה, שם 3 עדיין מוגדרים מנותקי קשר | כל העדכונים\nbit.ly/3ZyyIW74:33 AM · Jun 16, 20253.8KViews161"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/newsisrael13/status/1934469327425560832",
+  "incident_ids": [
+    "airwars-229045"
+  ],
+  "incident_sequences": [
+    55
+  ],
+  "normalized_url": "https://x.com/newsisrael13/status/1934469327425560832",
+  "observed_original_urls": [
+    "https://x.com/newsisrael13/status/1934469327425560832"
+  ],
+  "original_url": "https://x.com/newsisrael13/status/1934469327425560832",
+  "page_title": "חדשות 13 on X: \"תמונת המצב לאחר המטח מאיראן: 4 הרוגים ו-2 פצועים קשה ב-4 זירות נפילה בגוש דן וזירה אחת בחיפה, שם 3 עדיין מוגדרים מנותקי קשר | כל העדכונים\nhttps://t.co/MFUAE4vwzG https://t.co/qh9IQjWPrv\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/iris250616b-june-26-2025/",
+      "airwars_source_id": "176331",
+      "incident_id": "airwars-229045",
+      "incident_sequence": 55,
+      "observed_original_url": "https://x.com/newsisrael13/status/1934469327425560832",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-06-16T04:33:23.000Z",
+  "publisher": "newsisrael13",
+  "publisher_ar": "newsisrael13",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T19:00:10+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-ec7006abb2e142af928f7560",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/newsisrael13/status/1934469327425560832",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nחדשות 13@newsisrael13תמונת המצב לאחר המטח מאיראן: 4 הרוגים ו-2 פצועים קשה ב-4 זירות נפילה בגוש דן וזירה אחת בחיפה, שם 3 עדיין מוגדרים מנותקי קשר | כל העדכונים\nbit.ly/3ZyyIW74:33 AM · Jun 16, 20253.8KViews161",
+  "text_original_language": "he",
+  "timing": {
+    "text_extraction_seconds": 0.001575
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

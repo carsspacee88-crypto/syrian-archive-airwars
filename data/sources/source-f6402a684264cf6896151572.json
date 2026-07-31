@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "297528"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d9%85%d8%b4%d8%aa%d9%86%d9%88%d8%b1-2025-10-23-204200/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.881,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T19:01:48+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 973683,
+      "content_hash": "817c151c7ceda132e7136067f3abdd2042d523055be3a91ac4b406feb121bbc5",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.881,
+      "error": null,
+      "final_url": "https://www.facebook.com/100070431637036/videos/1545354573457851/",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:01:48+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?ref=saved&v=1545354573457851",
+      "waiting_seconds": 0.737
+    }
+  ],
+  "author": "مشتنور",
+  "captions": [],
+  "content_hash": "0fae9275a9d3a9f96cdd6b83d7e14b01d0f83d509e0dd20933c54971d7f1234a",
+  "content_variants": [
+    {
+      "bytes": 358,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T19:01:48+00:00",
+      "sha256": "0fae9275a9d3a9f96cdd6b83d7e14b01d0f83d509e0dd20933c54971d7f1234a",
+      "source_url": "https://www.facebook.com/100070431637036/videos/1545354573457851/",
+      "text": "#قامشلي_تربسية المشهد من تدخل الطيران من خبر نشرنا قبل ساعات حول الأشتباكات بين الاسايش والاهالي #كرهوك ادى الى مقتل محمود هليّل الشاهر الشمّري وجرح ولداه علي وعلاء وعدد من العناصر الاسايش | مشتنور"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/100070431637036/videos/1545354573457851/",
+  "incident_ids": [
+    "airwars-297455"
+  ],
+  "incident_sequences": [
+    32
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?ref=saved&v=1545354573457851",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?ref=saved&v=1545354573457851"
+  ],
+  "original_url": "https://www.facebook.com/watch/?ref=saved&v=1545354573457851",
+  "page_title": "#قامشلي_تربسية المشهد من تدخل الطيران من خبر نشرنا قبل ساعات حول الأشتباكات بين الاسايش والاهالي #كرهوك ادى الى مقتل محمود هليّل الشاهر الشمّري وجرح ولداه علي وعلاء وعدد من العناصر الاسايش | مشتنور",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2015-october-23-2025/",
+      "airwars_source_id": "297528",
+      "incident_id": "airwars-297455",
+      "incident_sequence": 32,
+      "observed_original_url": "https://www.facebook.com/watch/?ref=saved&v=1545354573457851",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "23 أكتوبر 2025",
+  "publisher": "Mishtanour",
+  "publisher_ar": "مشتنور",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T19:01:48+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-f6402a684264cf6896151572",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?ref=saved&v=1545354573457851",
+  "text_ar": "",
+  "text_original": "#قامشلي_تربسية المشهد من تدخل الطيران من خبر نشرنا قبل ساعات حول الأشتباكات بين الاسايش والاهالي #كرهوك ادى الى مقتل محمود هليّل الشاهر الشمّري وجرح ولداه علي وعلاء وعدد من العناصر الاسايش | مشتنور",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003698
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "272619"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d9%87%d9%8a%d9%87%d8%a7%d8%aa-%d9%85%d9%86%d8%a7-%d8%a7%d9%84%d8%b0%d9%84%d9%87-pfbid0j6pxm7kptrhr1l6q8aysharftib2u1pizftvwuwkc2vmtppnuvvpgqnhu6tnk3uvl-2025-07-16-090000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.478,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T19:01:45+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 312319,
+      "content_hash": "858f3a31b7c87eb36d99e19446e6fd939f90a1b6d9318ac32764d349834b8e78",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.478,
+      "error": null,
+      "final_url": "https://www.facebook.com/hyhat.mna.aldhlh.358233/posts/pfbid0J6Pxm7KPtrhr1L6Q8AYShaRFTiB2u1PizfTvWUWkC2VmTPPNuvVPgQNHu6tnk3UVl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:01:45+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/hyhat.mna.aldhlh.358233/posts/pfbid0J6Pxm7KPtrhr1L6Q8AYShaRFTiB2u1PizfTvWUWkC2VmTPPNuvVPgQNHu6tnk3UVl",
+      "waiting_seconds": 0.736
+    }
+  ],
+  "author": "هيهات منا الذله",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T19:01:45+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/hyhat.mna.aldhlh.358233/posts/pfbid0J6Pxm7KPtrhr1L6Q8AYShaRFTiB2u1PizfTvWUWkC2VmTPPNuvVPgQNHu6tnk3UVl",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/hyhat.mna.aldhlh.358233/posts/pfbid0J6Pxm7KPtrhr1L6Q8AYShaRFTiB2u1PizfTvWUWkC2VmTPPNuvVPgQNHu6tnk3UVl",
+  "incident_ids": [
+    "airwars-276124"
+  ],
+  "incident_sequences": [
+    51
+  ],
+  "normalized_url": "https://www.facebook.com/hyhat.mna.aldhlh.358233/posts/pfbid0J6Pxm7KPtrhr1L6Q8AYShaRFTiB2u1PizfTvWUWkC2VmTPPNuvVPgQNHu6tnk3UVl",
+  "observed_original_urls": [
+    "https://www.facebook.com/hyhat.mna.aldhlh.358233/posts/pfbid0J6Pxm7KPtrhr1L6Q8AYShaRFTiB2u1PizfTvWUWkC2VmTPPNuvVPgQNHu6tnk3UVl"
+  ],
+  "original_url": "https://www.facebook.com/hyhat.mna.aldhlh.358233/posts/pfbid0J6Pxm7KPtrhr1L6Q8AYShaRFTiB2u1PizfTvWUWkC2VmTPPNuvVPgQNHu6tnk3UVl",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy084-july-16-2025/",
+      "airwars_source_id": "272619",
+      "incident_id": "airwars-276124",
+      "incident_sequence": 51,
+      "observed_original_url": "https://www.facebook.com/hyhat.mna.aldhlh.358233/posts/pfbid0J6Pxm7KPtrhr1L6Q8AYShaRFTiB2u1PizfTvWUWkC2VmTPPNuvVPgQNHu6tnk3UVl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "16 يوليو 2025",
+  "publisher": "Oh, the humiliation of us!",
+  "publisher_ar": "هيهات منا الذله",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T19:01:45+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-f615acdd817d879d3c3e0993",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/hyhat.mna.aldhlh.358233/posts/pfbid0J6Pxm7KPtrhr1L6Q8AYShaRFTiB2u1PizfTvWUWkC2VmTPPNuvVPgQNHu6tnk3UVl",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001064
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
