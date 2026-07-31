@@ -1,10 +1,10 @@
 {
   "comparison": {
-    "actual_collection_wall_seconds": 464.901,
+    "actual_collection_wall_seconds": 465.95,
     "baseline": "first-100 serial collector normalized to this incident and source count",
     "baseline_equivalent_seconds": 1510.91,
-    "speedup_factor": 3.25,
-    "time_saved_seconds": 1046.009
+    "speedup_factor": 3.243,
+    "time_saved_seconds": 1044.96
   },
   "configuration": {
     "global_workers": 6,
@@ -251,14 +251,14 @@
       "waiting_seconds": 257.35
     }
   },
-  "generated_at": "2026-07-31T20:34:41+00:00",
+  "generated_at": "2026-07-31T20:47:52+00:00",
   "incidents": {
     "count": 50,
     "mean_seconds": 0.695,
     "status_counts": {
       "blocked": 50
     },
-    "wall_seconds": 35.112
+    "wall_seconds": 35.201
   },
   "media_binaries_downloaded": 0,
   "scope": {
@@ -277,7 +277,7 @@
     },
     "texts_preserved": 357,
     "unique": 481,
-    "wall_seconds": 429.789
+    "wall_seconds": 430.749
   },
   "translation_policy": "disabled_by_user",
   "validation": {
