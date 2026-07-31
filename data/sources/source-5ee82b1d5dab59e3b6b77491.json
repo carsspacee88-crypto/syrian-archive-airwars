@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "312439"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%b1%d8%a7%d8%af%d9%8a%d9%88-%d8%b7%d9%8a%d9%81-pfbid0agfgqze8gunhcj6f9gsr19pnd3gprtwvj4ojmbv7newbvvfglfw99nyjnshxphydl-2025-09-04-090000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.618,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:36:18+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 723661,
+      "content_hash": "ea11a274995f9638c8a48f3732cb26d77d9f5faa84adc647bcce66bd6fd51e5c",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.618,
+      "error": null,
+      "final_url": "https://www.facebook.com/tayf.fm/posts/pfbid0AGfGqzE8gunhcJ6f9gsr19PNd3gprTwVj4ojMBV7NeWbVVFGLFW99nYJNshXpHYDl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:36:18+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/tayf.fm/posts/pfbid0AGfGqzE8gunhcJ6f9gsr19PNd3gprTwVj4ojMBV7NeWbVVFGLFW99nYJNshXpHYDl",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "راديو طيف",
+  "captions": [],
+  "content_hash": "dabe52065c5c9227507229599585240092964cd0c66b4c8d64c52af971962de8",
+  "content_variants": [
+    {
+      "bytes": 459,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:36:18+00:00",
+      "sha256": "dabe52065c5c9227507229599585240092964cd0c66b4c8d64c52af971962de8",
+      "source_url": "https://www.facebook.com/tayf.fm/posts/pfbid0AGfGqzE8gunhcJ6f9gsr19PNd3gprTwVj4ojMBV7NeWbVVFGLFW99nYJNshXpHYDl",
+      "text": "راديو طيف - لقطات من موقع استهداف سيارة بطائرة مسيرة على...\nFacebook‎راديو طيف‎'s Post\n\nراديو طيفSeptember 4, 2025 · Shared with Publicلقطات من موقع استهداف سيارة بطائرة مسيرة على طريق مطار حلب الدولي #سوريا #راديو_طيف+2All reactions:1281 comment6 sharesLikeCommentMost relevant﻿خالد المصريمن المستهدف47w"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/tayf.fm/posts/pfbid0AGfGqzE8gunhcJ6f9gsr19PNd3gprTwVj4ojMBV7NeWbVVFGLFW99nYJNshXpHYDl",
+  "incident_ids": [
+    "airwars-386622"
+  ],
+  "incident_sequences": [
+    42
+  ],
+  "normalized_url": "https://www.facebook.com/tayf.fm/posts/pfbid0AGfGqzE8gunhcJ6f9gsr19PNd3gprTwVj4ojMBV7NeWbVVFGLFW99nYJNshXpHYDl",
+  "observed_original_urls": [
+    "https://www.facebook.com/tayf.fm/posts/pfbid0AGfGqzE8gunhcJ6f9gsr19PNd3gprTwVj4ojMBV7NeWbVVFGLFW99nYJNshXpHYDl"
+  ],
+  "original_url": "https://www.facebook.com/tayf.fm/posts/pfbid0AGfGqzE8gunhcJ6f9gsr19PNd3gprTwVj4ojMBV7NeWbVVFGLFW99nYJNshXpHYDl",
+  "page_title": "راديو طيف - لقطات من موقع استهداف سيارة بطائرة مسيرة على... Facebook Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0156-september-4-2025/",
+      "airwars_source_id": "312439",
+      "incident_id": "airwars-386622",
+      "incident_sequence": 42,
+      "observed_original_url": "https://www.facebook.com/tayf.fm/posts/pfbid0AGfGqzE8gunhcJ6f9gsr19PNd3gprTwVj4ojMBV7NeWbVVFGLFW99nYJNshXpHYDl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "4 سبتمبر 2025",
+  "publisher": "Spectrum Radio",
+  "publisher_ar": "راديو طيف",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:36:18+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-5ee82b1d5dab59e3b6b77491",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/tayf.fm/posts/pfbid0AGfGqzE8gunhcJ6f9gsr19PNd3gprTwVj4ojMBV7NeWbVVFGLFW99nYJNshXpHYDl",
+  "text_ar": "",
+  "text_original": "راديو طيف - لقطات من موقع استهداف سيارة بطائرة مسيرة على...\nFacebook‎راديو طيف‎'s Post\n\nراديو طيفSeptember 4, 2025 · Shared with Publicلقطات من موقع استهداف سيارة بطائرة مسيرة على طريق مطار حلب الدولي #سوريا #راديو_طيف+2All reactions:1281 comment6 sharesLikeCommentMost relevant﻿خالد المصريمن المستهدف47w",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003403
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

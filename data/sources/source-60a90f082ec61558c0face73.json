@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "275340"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-aa_arabic-1972300261936033856-2025-09-28-140000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.268,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:36:27+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 81158,
+      "content_hash": "3bff15b03af736a480535c6c27ce90ee5904f55b2a7407e0e139b48070c4103a",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.268,
+      "error": null,
+      "final_url": "https://x.com/aa_arabic/status/1972300261936033856",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:36:27+00:00",
+      "status": 200,
+      "url": "https://x.com/aa_arabic/status/1972300261936033856",
+      "waiting_seconds": 0.735
+    }
+  ],
+  "author": "https://x.com/aa_arabic",
+  "captions": [],
+  "content_hash": "598b25c15b59cddc24484da99a3a0157bdde1d6a6c5d04e5410f9f3f707a9adf",
+  "content_variants": [
+    {
+      "bytes": 310,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:36:27+00:00",
+      "sha256": "598b25c15b59cddc24484da99a3a0157bdde1d6a6c5d04e5410f9f3f707a9adf",
+      "source_url": "https://x.com/aa_arabic/status/1972300261936033856",
+      "text": "Post\n\nPost\n\nAnadolu العربية@aa_arabicقناة \"الإخبارية\" الرسمية السورية تفيد بمقتل شخص جراء غارة جوية استهدفت منزله في بلدة التمانعة بريف إدلب شمالي البلاد.\nv.aa.com.tr/37014122:00 PM · Sep 28, 20251.6KViews1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/aa_arabic/status/1972300261936033856",
+  "incident_ids": [
+    "airwars-287562"
+  ],
+  "incident_sequences": [
+    39
+  ],
+  "normalized_url": "https://x.com/aa_arabic/status/1972300261936033856",
+  "observed_original_urls": [
+    "https://x.com/aa_arabic/status/1972300261936033856"
+  ],
+  "original_url": "https://x.com/aa_arabic/status/1972300261936033856",
+  "page_title": "Anadolu العربية on X: \"قناة \"الإخبارية\" الرسمية السورية تفيد بمقتل شخص جراء غارة جوية استهدفت منزله في بلدة التمانعة بريف إدلب شمالي البلاد.\nhttps://t.co/Nc2fLT8S0K https://t.co/kHHohkcNwS\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2013-september-28-2025/",
+      "airwars_source_id": "275340",
+      "incident_id": "airwars-287562",
+      "incident_sequence": 39,
+      "observed_original_url": "https://x.com/aa_arabic/status/1972300261936033856",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-09-28T14:00:00.000Z",
+  "publisher": "aa_arabic",
+  "publisher_ar": "aa_arabic",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:36:27+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-60a90f082ec61558c0face73",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/aa_arabic/status/1972300261936033856",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nAnadolu العربية@aa_arabicقناة \"الإخبارية\" الرسمية السورية تفيد بمقتل شخص جراء غارة جوية استهدفت منزله في بلدة التمانعة بريف إدلب شمالي البلاد.\nv.aa.com.tr/37014122:00 PM · Sep 28, 20251.6KViews1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001552
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

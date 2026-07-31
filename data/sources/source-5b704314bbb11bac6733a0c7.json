@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "296658"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-droubiesraa-1980342006904988051-2025-10-20-183502/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.375,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:35:45+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 83899,
+      "content_hash": "3ad8e956a99fcc6a9c31dc51935b5ad4be24b7946b59e0b5347212e20caa7988",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.375,
+      "error": null,
+      "final_url": "https://x.com/DroubiEsraa/status/1980342006904988051",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:35:45+00:00",
+      "status": 200,
+      "url": "https://x.com/DroubiEsraa/status/1980342006904988051",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "https://x.com/DroubiEsraa",
+  "captions": [],
+  "content_hash": "c35390602f4755fba507d37cfd76f2aacf5c8b3b51d269079fa4630f6adadb01",
+  "content_variants": [
+    {
+      "bytes": 555,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:35:45+00:00",
+      "sha256": "c35390602f4755fba507d37cfd76f2aacf5c8b3b51d269079fa4630f6adadb01",
+      "source_url": "https://x.com/DroubiEsraa/status/1980342006904988051",
+      "text": "Post\n\nPost\n\nEsraa Droubi@DroubiEsraa📌 التحالف الدولي اعتقل \"خالد عبدالعزيز مسعود\" من مدينة #الضمير ثم أطلق سراحه بعد تعذيبه، ما أدى لوفاته في مشفى #حرستا.\nتبيّن أنه كان يعمل مع المخابرات السورية وليش د/عشي.\nعائلته أكدت أن المداهمة كانت برية!\nكل شخص بحطوا فيه تهمة \"د/عش\" وهو بالأخير بطلع مظلوم أو ابن الثورة!6:35 PM · Oct 20, 2025154Views11"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/DroubiEsraa/status/1980342006904988051",
+  "incident_ids": [
+    "airwars-297454"
+  ],
+  "incident_sequences": [
+    36
+  ],
+  "normalized_url": "https://x.com/DroubiEsraa/status/1980342006904988051",
+  "observed_original_urls": [
+    "https://x.com/DroubiEsraa/status/1980342006904988051"
+  ],
+  "original_url": "https://x.com/DroubiEsraa/status/1980342006904988051",
+  "page_title": "Esraa Droubi on X: \"📌 التحالف الدولي اعتقل \"خالد عبدالعزيز مسعود\" من مدينة #الضمير ثم أطلق سراحه بعد تعذيبه، ما أدى لوفاته في مشفى #حرستا.\nتبيّن أنه كان يعمل مع المخابرات السورية وليش د/عشي.\nعائلته أكدت أن المداهمة كانت برية!\nكل شخص بحطوا فيه تهمة \"د/عش\" وهو بالأخير بطلع مظلوم أو ابن الثورة! https://t.co/bOKjsUNTMv\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2014-october-18-2025/",
+      "airwars_source_id": "296658",
+      "incident_id": "airwars-297454",
+      "incident_sequence": 36,
+      "observed_original_url": "https://x.com/DroubiEsraa/status/1980342006904988051",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-10-20T18:35:02.000Z",
+  "publisher": "DroubiEsraa",
+  "publisher_ar": "DroubiEsraa",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:35:45+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-5b704314bbb11bac6733a0c7",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/DroubiEsraa/status/1980342006904988051",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nEsraa Droubi@DroubiEsraa📌 التحالف الدولي اعتقل \"خالد عبدالعزيز مسعود\" من مدينة #الضمير ثم أطلق سراحه بعد تعذيبه، ما أدى لوفاته في مشفى #حرستا.\nتبيّن أنه كان يعمل مع المخابرات السورية وليش د/عشي.\nعائلته أكدت أن المداهمة كانت برية!\nكل شخص بحطوا فيه تهمة \"د/عش\" وهو بالأخير بطلع مظلوم أو ابن الثورة!6:35 PM · Oct 20, 2025154Views11",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001914
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

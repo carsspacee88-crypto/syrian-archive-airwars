@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "380730"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-al-arabiya-syria-pfbid0i2xfdqnm5tzvawnad6yme1a9hkidqxlo9tobsxeyrwjypwl759kmfz8qrj6bf76fl-2025-10-22-0/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 2.85,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:36:44+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 928454,
+      "content_hash": "da7f5e333b87eddb9d4d87b0cc737d90060355495866517804797e30fac21f66",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 2.85,
+      "error": null,
+      "final_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid0i2xFDqnm5tZvAWnAd6YME1a9HkiDqXLo9toBsXEYrWJYPWL759KMfz8qrj6bf76fl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:36:44+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid0i2xFDqnm5tZvAWnAd6YME1a9HkiDqXLo9toBsXEYrWJYPWL759KMfz8qrj6bf76fl",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "العربية سوريا - Al Arabiya Syria",
+  "captions": [],
+  "content_hash": "d14d01e62f10a807e4bea5c008a8d9bcbb2cb953a4847d80f269a18b75ab3932",
+  "content_variants": [
+    {
+      "bytes": 170,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:36:44+00:00",
+      "sha256": "d14d01e62f10a807e4bea5c008a8d9bcbb2cb953a4847d80f269a18b75ab3932",
+      "source_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid0i2xFDqnm5tZvAWnAd6YME1a9HkiDqXLo9toBsXEYrWJYPWL759KMfz8qrj6bf76fl",
+      "text": "‎العربية سوريا - Al Arabiya Syria‎'s Post\n\nالعربية سوريا - Al Arabiya Syria Verified account\n\n40w\n\n40w\n\n40w\n\n40w\n\n40w\n\n40w\n\n40w\n\n40w\n\n40w\n\n40w"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid0i2xFDqnm5tZvAWnAd6YME1a9HkiDqXLo9toBsXEYrWJYPWL759KMfz8qrj6bf76fl",
+  "incident_ids": [
+    "airwars-386628"
+  ],
+  "incident_sequences": [
+    34
+  ],
+  "normalized_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid0i2xFDqnm5tZvAWnAd6YME1a9HkiDqXLo9toBsXEYrWJYPWL759KMfz8qrj6bf76fl",
+  "observed_original_urls": [
+    "https://www.facebook.com/Alarabiya.syria/posts/pfbid0i2xFDqnm5tZvAWnAd6YME1a9HkiDqXLo9toBsXEYrWJYPWL759KMfz8qrj6bf76fl"
+  ],
+  "original_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid0i2xFDqnm5tZvAWnAd6YME1a9HkiDqXLo9toBsXEYrWJYPWL759KMfz8qrj6bf76fl",
+  "page_title": "أعلنت قوات سوريا... - العربية سوريا - Al Arabiya Syria Facebook Verified account Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0160-october-21-2025/",
+      "airwars_source_id": "380730",
+      "incident_id": "airwars-386628",
+      "incident_sequence": 34,
+      "observed_original_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid0i2xFDqnm5tZvAWnAd6YME1a9HkiDqXLo9toBsXEYrWJYPWL759KMfz8qrj6bf76fl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "22 أكتوبر 2025",
+  "publisher": "Al Arabiya Syria",
+  "publisher_ar": "العربية سوريا - Al Arabiya Syria",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:36:44+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-638f25c1d2c41caf7cc7349f",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/Alarabiya.syria/posts/pfbid0i2xFDqnm5tZvAWnAd6YME1a9HkiDqXLo9toBsXEYrWJYPWL759KMfz8qrj6bf76fl",
+  "text_ar": "",
+  "text_original": "‎العربية سوريا - Al Arabiya Syria‎'s Post\n\nالعربية سوريا - Al Arabiya Syria Verified account\n\n40w\n\n40w\n\n40w\n\n40w\n\n40w\n\n40w\n\n40w\n\n40w\n\n40w\n\n40w",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.0047
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

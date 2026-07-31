@@ -1,0 +1,121 @@
+{
+  "airwars_source_ids": [
+    "315170"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/xeber24-org-ahmad-ahmad-2025-10-22-094247/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-7: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:35:35+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-7: ordinal not in range(128)",
+      "final_url": "https://xeber24.org/قسد-والتحالف-الدولي-ينفذان-عمليتي-إنز/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:35:35+00:00",
+      "status": null,
+      "url": "https://xeber24.org/قسد-والتحالف-الدولي-ينفذان-عمليتي-إنز/",
+      "waiting_seconds": 0.742
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/xeber24-org-ahmad-ahmad-2025-10-22-094247/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:35:35+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/xeber24-org-ahmad-ahmad-2025-10-22-094247/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_role": "wayback_lookup",
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "ok": false,
+      "retrieved_at": "2026-07-31T18:35:35+00:00"
+    }
+  ],
+  "author": "Ahmad Ahmad",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-7: ordinal not in range(128)",
+  "final_redirected_url": "https://xeber24.org/قسد-والتحالف-الدولي-ينفذان-عمليتي-إنز/",
+  "incident_ids": [
+    "airwars-386629"
+  ],
+  "incident_sequences": [
+    33
+  ],
+  "normalized_url": "https://xeber24.org/قسد-والتحالف-الدولي-ينفذان-عمليتي-إنز/",
+  "observed_original_urls": [
+    "https://xeber24.org/قسد-والتحالف-الدولي-ينفذان-عمليتي-إنز/"
+  ],
+  "original_url": "https://xeber24.org/قسد-والتحالف-الدولي-ينفذان-عمليتي-إنز/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0161-october-22-2025/",
+      "airwars_source_id": "315170",
+      "incident_id": "airwars-386629",
+      "incident_sequence": 33,
+      "observed_original_url": "https://xeber24.org/قسد-والتحالف-الدولي-ينفذان-عمليتي-إنز/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "22 أكتوبر 2025",
+  "publisher": "Ahmad Ahmad",
+  "publisher_ar": "Ahmad Ahmad",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:35:35+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-59e61030959c5a252d0e1387",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://xeber24.org/قسد-والتحالف-الدولي-ينفذان-عمليتي-إنز/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

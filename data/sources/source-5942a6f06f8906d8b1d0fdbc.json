@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "308366"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d9%87%d9%81%d8%a7%d9%84-%d8%b3%d9%8a%d8%af%d9%88-pfbid0jetkvq2xzm53cw8jrcrswxgukysfvkrn8waxapnxahxw9zmto3a2fxsxsjkycry4l-2025-03-02-170000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.623,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:35:18+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 312376,
+      "content_hash": "abb7d0a372df442184fee9e419e411b1136bcbca768bf2f3d84065b6650ac97a",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.623,
+      "error": null,
+      "final_url": "https://www.facebook.com/clalhma/posts/pfbid0jEtKvq2xZM53CW8jrCrsWxGukYSfvkRN8waXAPnXAHXW9Zmto3a2fXSxSjKyCRY4l",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:35:18+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/clalhma/posts/pfbid0jEtKvq2xZM53CW8jrCrsWxGukYSfvkRN8waXAPnXAHXW9Zmto3a2fXSxSjKyCRY4l",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "هفال سيدو",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:35:18+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/clalhma/posts/pfbid0jEtKvq2xZM53CW8jrCrsWxGukYSfvkRN8waXAPnXAHXW9Zmto3a2fXSxSjKyCRY4l",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/clalhma/posts/pfbid0jEtKvq2xZM53CW8jrCrsWxGukYSfvkRN8waXAPnXAHXW9Zmto3a2fXSxSjKyCRY4l",
+  "incident_ids": [
+    "airwars-304186"
+  ],
+  "incident_sequences": [
+    93
+  ],
+  "normalized_url": "https://www.facebook.com/clalhma/posts/pfbid0jEtKvq2xZM53CW8jrCrsWxGukYSfvkRN8waXAPnXAHXW9Zmto3a2fXSxSjKyCRY4l",
+  "observed_original_urls": [
+    "https://www.facebook.com/clalhma/posts/pfbid0jEtKvq2xZM53CW8jrCrsWxGukYSfvkRN8waXAPnXAHXW9Zmto3a2fXSxSjKyCRY4l"
+  ],
+  "original_url": "https://www.facebook.com/clalhma/posts/pfbid0jEtKvq2xZM53CW8jrCrsWxGukYSfvkRN8waXAPnXAHXW9Zmto3a2fXSxSjKyCRY4l",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts794-march-2-2025/",
+      "airwars_source_id": "308366",
+      "incident_id": "airwars-304186",
+      "incident_sequence": 93,
+      "observed_original_url": "https://www.facebook.com/clalhma/posts/pfbid0jEtKvq2xZM53CW8jrCrsWxGukYSfvkRN8waXAPnXAHXW9Zmto3a2fXSxSjKyCRY4l",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2 مارس 2025",
+  "publisher": "Haval Sido",
+  "publisher_ar": "هفال سيدو",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:35:18+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-5942a6f06f8906d8b1d0fdbc",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/clalhma/posts/pfbid0jEtKvq2xZM53CW8jrCrsWxGukYSfvkRN8waXAPnXAHXW9Zmto3a2fXSxSjKyCRY4l",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001076
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

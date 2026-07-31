@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "274157"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-u57430_user-1894759993259282536-2025-02-26-144239/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.246,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:35:41+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 75052,
+      "content_hash": "bdf2ebea233a7e65d6f738cec31a81d267e363b149a7146c31695d79c82b2911",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.246,
+      "error": null,
+      "final_url": "https://x.com/u57430_user/status/1894759993259282536",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:35:41+00:00",
+      "status": 200,
+      "url": "https://x.com/u57430_user/status/1894759993259282536",
+      "waiting_seconds": 0.733
+    }
+  ],
+  "author": "https://x.com/u57430_user",
+  "captions": [],
+  "content_hash": "99a0d9256a613ab2035d61655f50cf5d3f07f9727aed3ee6b9b7fdd204283e3f",
+  "content_variants": [
+    {
+      "bytes": 126,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:35:41+00:00",
+      "sha256": "99a0d9256a613ab2035d61655f50cf5d3f07f9727aed3ee6b9b7fdd204283e3f",
+      "source_url": "https://x.com/u57430_user/status/1894759993259282536",
+      "text": "PostLog inSign upPostFatima Zaiter@u57430_userالشهيد السعيد عباس حسين برو2:42 PM · Feb 26, 202530Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/u57430_user/status/1894759993259282536",
+  "incident_ids": [
+    "airwars-276018"
+  ],
+  "incident_sequences": [
+    96
+  ],
+  "normalized_url": "https://x.com/u57430_user/status/1894759993259282536",
+  "observed_original_urls": [
+    "https://x.com/u57430_user/status/1894759993259282536"
+  ],
+  "original_url": "https://x.com/u57430_user/status/1894759993259282536",
+  "page_title": "Fatima Zaiter on X: \"الشهيد السعيد عباس حسين برو https://t.co/k7VtmCiote\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy071-february-25-2025/",
+      "airwars_source_id": "274157",
+      "incident_id": "airwars-276018",
+      "incident_sequence": 96,
+      "observed_original_url": "https://x.com/u57430_user/status/1894759993259282536",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-02-26T14:42:39.000Z",
+  "publisher": "u57430_user",
+  "publisher_ar": "u57430_user",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:35:41+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-5aaafaddec9be0a63c91854e",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/u57430_user/status/1894759993259282536",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPostFatima Zaiter@u57430_userالشهيد السعيد عباس حسين برو2:42 PM · Feb 26, 202530Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001554
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

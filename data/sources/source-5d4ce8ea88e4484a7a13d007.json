@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "445501"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d9%85%d9%84%d8%aa%d9%82%d9%89-%d8%b4%d8%a8%d8%a7%d8%a8-%d9%83%d9%81%d8%b1%d8%a8%d8%b7%d9%86%d8%a7-pfbid02zdvthjaxdaea2zoxt2etptgg8uzdd1ecmvehjgcfcorzsd1j68vmgbnuybgd2fuhl-2026/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.873,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:36:03+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 312179,
+      "content_hash": "bcec2846495b5a0401fcc4768d970cd535f0eafc8c0f1db8bf40b5fbe2285377",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.873,
+      "error": null,
+      "final_url": "https://www.facebook.com/Kfar123456789/posts/pfbid02ZdVthJaxdaeA2Zoxt2ETPtgg8uzdD1EcMvehjGCFCoRZSd1J68VMgBnUYBGD2Fuhl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:36:03+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/Kfar123456789/posts/pfbid02ZdVthJaxdaeA2Zoxt2ETPtgg8uzdD1EcMvehjGCFCoRZSd1J68VMgBnUYBGD2Fuhl",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "ملتقى شباب كفربطنا",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:36:03+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/Kfar123456789/posts/pfbid02ZdVthJaxdaeA2Zoxt2ETPtgg8uzdD1EcMvehjGCFCoRZSd1J68VMgBnUYBGD2Fuhl",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Kfar123456789/posts/pfbid02ZdVthJaxdaeA2Zoxt2ETPtgg8uzdD1EcMvehjGCFCoRZSd1J68VMgBnUYBGD2Fuhl",
+  "incident_ids": [
+    "airwars-454484"
+  ],
+  "incident_sequences": [
+    2
+  ],
+  "normalized_url": "https://www.facebook.com/Kfar123456789/posts/pfbid02ZdVthJaxdaeA2Zoxt2ETPtgg8uzdD1EcMvehjGCFCoRZSd1J68VMgBnUYBGD2Fuhl",
+  "observed_original_urls": [
+    "https://www.facebook.com/Kfar123456789/posts/pfbid02ZdVthJaxdaeA2Zoxt2ETPtgg8uzdD1EcMvehjGCFCoRZSd1J68VMgBnUYBGD2Fuhl"
+  ],
+  "original_url": "https://www.facebook.com/Kfar123456789/posts/pfbid02ZdVthJaxdaeA2Zoxt2ETPtgg8uzdD1EcMvehjGCFCoRZSd1J68VMgBnUYBGD2Fuhl",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260301a-march-1-2026/",
+      "airwars_source_id": "445501",
+      "incident_id": "airwars-454484",
+      "incident_sequence": 2,
+      "observed_original_url": "https://www.facebook.com/Kfar123456789/posts/pfbid02ZdVthJaxdaeA2Zoxt2ETPtgg8uzdD1EcMvehjGCFCoRZSd1J68VMgBnUYBGD2Fuhl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "1 مارس 2026",
+  "publisher": "Kafr Batna Youth Forum",
+  "publisher_ar": "ملتقى شباب كفربطنا",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:36:03+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-5d4ce8ea88e4484a7a13d007",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/Kfar123456789/posts/pfbid02ZdVthJaxdaeA2Zoxt2ETPtgg8uzdD1EcMvehjGCFCoRZSd1J68VMgBnUYBGD2Fuhl",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001007
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

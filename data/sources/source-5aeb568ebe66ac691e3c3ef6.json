@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "375751"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-halabtodaytv-2003341863139573826-2025-12-23-054815/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.275,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:35:42+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 83675,
+      "content_hash": "621441ca24078302abd12c413b68426274af3b1e0b55f91b4186ec5725ffbef8",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.275,
+      "error": null,
+      "final_url": "https://x.com/HalabTodayTV/status/2003341863139573826",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:35:42+00:00",
+      "status": 200,
+      "url": "https://x.com/HalabTodayTV/status/2003341863139573826",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "https://x.com/HalabTodayTV",
+  "captions": [],
+  "content_hash": "86ca9c524a90f5577972260f2025514046200c5b1193d2c6b4c0e75e05b8d6f5",
+  "content_variants": [
+    {
+      "bytes": 447,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:35:42+00:00",
+      "sha256": "86ca9c524a90f5577972260f2025514046200c5b1193d2c6b4c0e75e05b8d6f5",
+      "source_url": "https://x.com/HalabTodayTV/status/2003341863139573826",
+      "text": "Post\n\nPost\n\nHalab Today TV قناة حلب اليوم@HalabTodayTVمصادر محلية: قسد تعدم السيدة \"فطيم البتال\" و ابنها الشاب \"جاسم محمد اللجي\" وتختطف جثثهما وتعتقل الابن الأصغر \"ابراهيم محمد اللجي\" بعد اقتحامها منزلهم في جديدة كحيط شرق الرقة بعد منتصف الليل5:48 AM · Dec 23, 202511.6KViews11946519"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/HalabTodayTV/status/2003341863139573826",
+  "incident_ids": [
+    "airwars-379131"
+  ],
+  "incident_sequences": [
+    13
+  ],
+  "normalized_url": "https://x.com/HalabTodayTV/status/2003341863139573826",
+  "observed_original_urls": [
+    "https://x.com/HalabTodayTV/status/2003341863139573826"
+  ],
+  "original_url": "https://x.com/HalabTodayTV/status/2003341863139573826",
+  "page_title": "Halab Today TV قناة حلب اليوم on X: \"مصادر محلية: قسد تعدم السيدة \"فطيم البتال\" و ابنها الشاب \"جاسم محمد اللجي\" وتختطف جثثهما وتعتقل الابن الأصغر \"ابراهيم محمد اللجي\" بعد اقتحامها منزلهم في جديدة كحيط شرق الرقة بعد منتصف الليل https://t.co/JtefRMa3uU\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2021-december-23-2025/",
+      "airwars_source_id": "375751",
+      "incident_id": "airwars-379131",
+      "incident_sequence": 13,
+      "observed_original_url": "https://x.com/HalabTodayTV/status/2003341863139573826",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-23T05:48:15.000Z",
+  "publisher": "HalabTodayTV",
+  "publisher_ar": "HalabTodayTV",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:35:42+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-5aeb568ebe66ac691e3c3ef6",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/HalabTodayTV/status/2003341863139573826",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nHalab Today TV قناة حلب اليوم@HalabTodayTVمصادر محلية: قسد تعدم السيدة \"فطيم البتال\" و ابنها الشاب \"جاسم محمد اللجي\" وتختطف جثثهما وتعتقل الابن الأصغر \"ابراهيم محمد اللجي\" بعد اقتحامها منزلهم في جديدة كحيط شرق الرقة بعد منتصف الليل5:48 AM · Dec 23, 202511.6KViews11946519",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001566
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,121 @@
+{
+  "airwars_source_ids": [
+    "376951"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-masrawy-com-%d9%85%d8%b5%d8%b1%d8%a7%d9%88%d9%8a-2025-12-25-003825/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 57-59: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:37:13+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 57-59: ordinal not in range(128)",
+      "final_url": "https://www.masrawy.com/news/news_publicaffairs/details/2025/12/25/2913768/-بعد-اعتقاله-السلطات-السورية-تنشر-صورة-طه-الزعبي-المعروف-بـ-والي-دمشق-",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:37:13+00:00",
+      "status": null,
+      "url": "https://www.masrawy.com/news/news_publicaffairs/details/2025/12/25/2913768/-بعد-اعتقاله-السلطات-السورية-تنشر-صورة-طه-الزعبي-المعروف-بـ-والي-دمشق-",
+      "waiting_seconds": 0.734
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/www-masrawy-com-%d9%85%d8%b5%d8%b1%d8%a7%d9%88%d9%8a-2025-12-25-003825/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:37:13+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/www-masrawy-com-%d9%85%d8%b5%d8%b1%d8%a7%d9%88%d9%8a-2025-12-25-003825/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_role": "wayback_lookup",
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "ok": false,
+      "retrieved_at": "2026-07-31T18:37:13+00:00"
+    }
+  ],
+  "author": "مصراوي",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 57-59: ordinal not in range(128)",
+  "final_redirected_url": "https://www.masrawy.com/news/news_publicaffairs/details/2025/12/25/2913768/-بعد-اعتقاله-السلطات-السورية-تنشر-صورة-طه-الزعبي-المعروف-بـ-والي-دمشق-",
+  "incident_ids": [
+    "airwars-387049"
+  ],
+  "incident_sequences": [
+    12
+  ],
+  "normalized_url": "https://www.masrawy.com/news/news_publicaffairs/details/2025/12/25/2913768/-بعد-اعتقاله-السلطات-السورية-تنشر-صورة-طه-الزعبي-المعروف-بـ-والي-دمشق-",
+  "observed_original_urls": [
+    "https://www.masrawy.com/news/news_publicaffairs/details/2025/12/25/2913768/-بعد-اعتقاله-السلطات-السورية-تنشر-صورة-طه-الزعبي-المعروف-بـ-والي-دمشق-"
+  ],
+  "original_url": "https://www.masrawy.com/news/news_publicaffairs/details/2025/12/25/2913768/-بعد-اعتقاله-السلطات-السورية-تنشر-صورة-طه-الزعبي-المعروف-بـ-والي-دمشق-",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0175-december-24-2025/",
+      "airwars_source_id": "376951",
+      "incident_id": "airwars-387049",
+      "incident_sequence": 12,
+      "observed_original_url": "https://www.masrawy.com/news/news_publicaffairs/details/2025/12/25/2913768/-بعد-اعتقاله-السلطات-السورية-تنشر-صورة-طه-الزعبي-المعروف-بـ-والي-دمشق-",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "25 ديسمبر 2025",
+  "publisher": "Masrawy",
+  "publisher_ar": "مصراوي",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:37:13+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-685a2e35f8bb64d59b75d71c",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.masrawy.com/news/news_publicaffairs/details/2025/12/25/2913768/-بعد-اعتقاله-السلطات-السورية-تنشر-صورة-طه-الزعبي-المعروف-بـ-والي-دمشق-",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

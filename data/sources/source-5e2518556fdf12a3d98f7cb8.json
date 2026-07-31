@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "271269"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%b5%d8%af%d9%89-%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86-pfbid0dt5nzjmthhvvvv6yn3nyrq7hfpxy5wdzk5uloyun7reomf9wiqzpnjv7wu2tziael-2025-06-08-090000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.413,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:36:13+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 625333,
+      "content_hash": "2e629cdcb239db093dd4bed802a77659256bb57e1cbd5a288503e178a7d91634",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.413,
+      "error": null,
+      "final_url": "https://www.facebook.com/sadapalnews/posts/pfbid0dT5NZJMThHvvVv6YN3Nyrq7hfpxy5wdZk5uLoyUn7REomF9wiQZpNjV7wu2tziAEl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:36:13+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/sadapalnews/posts/pfbid0dT5NZJMThHvvVv6YN3Nyrq7hfpxy5wdZk5uLoyUn7REomF9wiQZpNjV7wu2tziAEl",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "صدى فلسطين",
+  "captions": [],
+  "content_hash": "41d0b4f4c2f288315091e60e081647d03801a04fee797e557637262aa7ac7893",
+  "content_variants": [
+    {
+      "bytes": 501,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:36:13+00:00",
+      "sha256": "41d0b4f4c2f288315091e60e081647d03801a04fee797e557637262aa7ac7893",
+      "source_url": "https://www.facebook.com/sadapalnews/posts/pfbid0dT5NZJMThHvvVv6YN3Nyrq7hfpxy5wdZk5uLoyUn7REomF9wiQZpNjV7wu2tziAEl",
+      "text": "صدى فلسطين - عاجل | جيش الاحتلال يعلن شن هجوم بمسيّرة على...\nFacebook‎صدى فلسطين‎'s Post\n\nصدى فلسطينJune 8, 2025 · Shared with Publicعاجل | جيش الاحتلال يعلن شن هجوم بمسيّرة على هدفٍ في قرية بيت جن، جنوب سوريا.عاجل | جيش الاحتلال يعلن شن هجوم بمسيّرة على هدفٍ في قرية بيت جن، جنوب سوريا.All reactions:24LikeComment"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/sadapalnews/posts/pfbid0dT5NZJMThHvvVv6YN3Nyrq7hfpxy5wdZk5uLoyUn7REomF9wiQZpNjV7wu2tziAEl",
+  "incident_ids": [
+    "airwars-276120"
+  ],
+  "incident_sequences": [
+    68
+  ],
+  "normalized_url": "https://www.facebook.com/sadapalnews/posts/pfbid0dT5NZJMThHvvVv6YN3Nyrq7hfpxy5wdZk5uLoyUn7REomF9wiQZpNjV7wu2tziAEl",
+  "observed_original_urls": [
+    "https://www.facebook.com/sadapalnews/posts/pfbid0dT5NZJMThHvvVv6YN3Nyrq7hfpxy5wdZk5uLoyUn7REomF9wiQZpNjV7wu2tziAEl"
+  ],
+  "original_url": "https://www.facebook.com/sadapalnews/posts/pfbid0dT5NZJMThHvvVv6YN3Nyrq7hfpxy5wdZk5uLoyUn7REomF9wiQZpNjV7wu2tziAEl",
+  "page_title": "صدى فلسطين - عاجل | جيش الاحتلال يعلن شن هجوم بمسيّرة على... Facebook Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy082-june-8-2025/",
+      "airwars_source_id": "271269",
+      "incident_id": "airwars-276120",
+      "incident_sequence": 68,
+      "observed_original_url": "https://www.facebook.com/sadapalnews/posts/pfbid0dT5NZJMThHvvVv6YN3Nyrq7hfpxy5wdZk5uLoyUn7REomF9wiQZpNjV7wu2tziAEl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "8 يونيو 2025",
+  "publisher": "Echo of Palestine",
+  "publisher_ar": "صدى فلسطين",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:36:13+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-5e2518556fdf12a3d98f7cb8",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/sadapalnews/posts/pfbid0dT5NZJMThHvvVv6YN3Nyrq7hfpxy5wdZk5uLoyUn7REomF9wiQZpNjV7wu2tziAEl",
+  "text_ar": "",
+  "text_original": "صدى فلسطين - عاجل | جيش الاحتلال يعلن شن هجوم بمسيّرة على...\nFacebook‎صدى فلسطين‎'s Post\n\nصدى فلسطينJune 8, 2025 · Shared with Publicعاجل | جيش الاحتلال يعلن شن هجوم بمسيّرة على هدفٍ في قرية بيت جن، جنوب سوريا.عاجل | جيش الاحتلال يعلن شن هجوم بمسيّرة على هدفٍ في قرية بيت جن، جنوب سوريا.All reactions:24LikeComment",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002984
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

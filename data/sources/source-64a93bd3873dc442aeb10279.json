@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "289811"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-tvnabdsyria-1893661898815549638-2025-02-23-135913/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.198,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:36:48+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 63541,
+      "content_hash": "80d24f40aab06183405533213c14fe61b712aad2be8f025fecf04d8b80bd8497",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.198,
+      "error": null,
+      "final_url": "https://x.com/tvnabdsyria/status/1893661898815549638",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:36:48+00:00",
+      "status": 200,
+      "url": "https://x.com/tvnabdsyria/status/1893661898815549638",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "tvnabdsyria",
+  "captions": [],
+  "content_hash": "a977af81c92b88e3e05a12a4864b22f42a40a8eaa8ded333a9d289c1cbea6a85",
+  "content_variants": [
+    {
+      "bytes": 33,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:36:48+00:00",
+      "sha256": "a977af81c92b88e3e05a12a4864b22f42a40a8eaa8ded333a9d289c1cbea6a85",
+      "source_url": "https://x.com/tvnabdsyria/status/1893661898815549638",
+      "text": "PostLog inSign upPost00:0083Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/tvnabdsyria/status/1893661898815549638",
+  "incident_ids": [
+    "airwars-367996"
+  ],
+  "incident_sequences": [
+    99
+  ],
+  "normalized_url": "https://x.com/tvnabdsyria/status/1893661898815549638",
+  "observed_original_urls": [
+    "https://x.com/tvnabdsyria/status/1893661898815549638"
+  ],
+  "original_url": "https://x.com/tvnabdsyria/status/1893661898815549638",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0129-february-23-2025/",
+      "airwars_source_id": "289811",
+      "incident_id": "airwars-367996",
+      "incident_sequence": 99,
+      "observed_original_url": "https://x.com/tvnabdsyria/status/1893661898815549638",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "23 فبراير 2025",
+  "publisher": "tvnabdsyria",
+  "publisher_ar": "tvnabdsyria",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:36:48+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-64a93bd3873dc442aeb10279",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/tvnabdsyria/status/1893661898815549638",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost00:0083Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001292
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

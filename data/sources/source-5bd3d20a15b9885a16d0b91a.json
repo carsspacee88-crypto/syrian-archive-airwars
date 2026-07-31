@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "362685"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d9%85%d8%ac%d9%84%d8%b3-%d8%a8%d9%84%d8%af%d8%a9-%d8%ae%d8%a7%d9%86-%d8%a3%d8%b1%d9%86%d8%a8%d8%a9-857389506774093-2025-12-09-211802/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.68,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:35:51+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 794198,
+      "content_hash": "0416d69644e417419352699f0190f2318f024cb4ae150b09b74932ac052a52cb",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.68,
+      "error": null,
+      "final_url": "https://www.facebook.com/reel/857389506774093",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:35:51+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/reel/857389506774093",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "مجلس بلدة خان أرنبة",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:35:51+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/reel/857389506774093",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/reel/857389506774093",
+  "incident_ids": [
+    "airwars-371403"
+  ],
+  "incident_sequences": [
+    22
+  ],
+  "normalized_url": "https://www.facebook.com/reel/857389506774093",
+  "observed_original_urls": [
+    "https://www.facebook.com/reel/857389506774093"
+  ],
+  "original_url": "https://www.facebook.com/reel/857389506774093",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy088-december-9-2025/",
+      "airwars_source_id": "362685",
+      "incident_id": "airwars-371403",
+      "incident_sequence": 22,
+      "observed_original_url": "https://www.facebook.com/reel/857389506774093",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "9 ديسمبر 2025",
+  "publisher": "Khan Arnabeh Town Council",
+  "publisher_ar": "مجلس بلدة خان أرنبة",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:35:51+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-5bd3d20a15b9885a16d0b91a",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/reel/857389506774093",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00227
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

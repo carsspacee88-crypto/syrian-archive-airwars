@@ -1,0 +1,121 @@
+{
+  "airwars_source_ids": [
+    "426931"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-ajsyrianown-2027717122181251220-2026-02-28-120649/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.051,
+          "error": "http_400",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:36:04+00:00",
+          "status": 400
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.051,
+      "error": "http_400",
+      "final_url": "https://x.com/AJSyriaNowN/status/2027717122181251220?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^2027717122181251220|twgr^f6fabb209499855364257807930cf8470fb1152a|twcon^s1_&ref_url=https://www.aljazeera.net/news/2026/2/28/d8b3d988d8b1d98ad8a7-4-d982d8aad984d989-d8a8d8a7d984d8b3d988d98ad8afd8a7d8a1-d8a5d8abd8b1-d8a7d984d8b6d8b1d8a8d8a7d8aa",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:36:04+00:00",
+      "status": 400,
+      "url": "https://x.com/AJSyriaNowN/status/2027717122181251220?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^2027717122181251220|twgr^f6fabb209499855364257807930cf8470fb1152a|twcon^s1_&ref_url=https://www.aljazeera.net/news/2026/2/28/d8b3d988d8b1d98ad8a7-4-d982d8aad984d989-d8a8d8a7d984d8b3d988d98ad8afd8a7d8a1-d8a5d8abd8b1-d8a7d984d8b6d8b1d8a8d8a7d8aa",
+      "waiting_seconds": 0.743
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/x-com-ajsyrianown-2027717122181251220-2026-02-28-120649/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:36:04+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/x-com-ajsyrianown-2027717122181251220-2026-02-28-120649/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_role": "wayback_lookup",
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "ok": false,
+      "retrieved_at": "2026-07-31T18:36:04+00:00"
+    }
+  ],
+  "author": "AJSyriaNowN",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_400",
+  "final_redirected_url": "https://x.com/AJSyriaNowN/status/2027717122181251220?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^2027717122181251220|twgr^f6fabb209499855364257807930cf8470fb1152a|twcon^s1_&ref_url=https://www.aljazeera.net/news/2026/2/28/d8b3d988d8b1d98ad8a7-4-d982d8aad984d989-d8a8d8a7d984d8b3d988d98ad8afd8a7d8a1-d8a5d8abd8b1-d8a7d984d8b6d8b1d8a8d8a7d8aa",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://x.com/AJSyriaNowN/status/2027717122181251220?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^2027717122181251220|twgr^f6fabb209499855364257807930cf8470fb1152a|twcon^s1_&ref_url=https://www.aljazeera.net/news/2026/2/28/d8b3d988d8b1d98ad8a7-4-d982d8aad984d989-d8a8d8a7d984d8b3d988d98ad8afd8a7d8a1-d8a5d8abd8b1-d8a7d984d8b6d8b1d8a8d8a7d8aa",
+  "observed_original_urls": [
+    "https://x.com/AJSyriaNowN/status/2027717122181251220?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^2027717122181251220|twgr^f6fabb209499855364257807930cf8470fb1152a|twcon^s1_&ref_url=https://www.aljazeera.net/news/2026/2/28/d8b3d988d8b1d98ad8a7-4-d982d8aad984d989-d8a8d8a7d984d8b3d988d98ad8afd8a7d8a1-d8a5d8abd8b1-d8a7d984d8b6d8b1d8a8d8a7d8aa"
+  ],
+  "original_url": "https://x.com/AJSyriaNowN/status/2027717122181251220?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^2027717122181251220|twgr^f6fabb209499855364257807930cf8470fb1152a|twcon^s1_&ref_url=https://www.aljazeera.net/news/2026/2/28/d8b3d988d8b1d98ad8a7-4-d982d8aad984d989-d8a8d8a7d984d8b3d988d98ad8afd8a7d8a1-d8a5d8abd8b1-d8a7d984d8b6d8b1d8a8d8a7d8aa",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "426931",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://x.com/AJSyriaNowN/status/2027717122181251220?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^2027717122181251220|twgr^f6fabb209499855364257807930cf8470fb1152a|twcon^s1_&ref_url=https://www.aljazeera.net/news/2026/2/28/d8b3d988d8b1d98ad8a7-4-d982d8aad984d989-d8a8d8a7d984d8b3d988d98ad8afd8a7d8a1-d8a5d8abd8b1-d8a7d984d8b6d8b1d8a8d8a7d8aa",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "28 فبراير 2026",
+  "publisher": "AJSyriaNowN",
+  "publisher_ar": "AJSyriaNowN",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:36:04+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-5d95515f96adeb87ba0126be",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AJSyriaNowN/status/2027717122181251220?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^2027717122181251220|twgr^f6fabb209499855364257807930cf8470fb1152a|twcon^s1_&ref_url=https://www.aljazeera.net/news/2026/2/28/d8b3d988d8b1d98ad8a7-4-d982d8aad984d989-d8a8d8a7d984d8b3d988d98ad8afd8a7d8a1-d8a5d8abd8b1-d8a7d984d8b6d8b1d8a8d8a7d8aa",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

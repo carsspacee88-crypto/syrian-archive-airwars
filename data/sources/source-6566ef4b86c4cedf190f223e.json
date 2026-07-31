@@ -1,0 +1,111 @@
+{
+  "airwars_source_ids": [
+    "376782",
+    "376789"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%af%d9%8a%d8%b1%d8%a7%d9%84%d8%b2%d9%88%d8%b1-24-pfbid0tvqhgyukn31tjcsvudar7gfg4xjexc8kctxw2pcusmuapzpomx7a8vh1rzcf6banl-2025-12-25-192400/",
+    "https://airwars.org/source/www-facebook-com-%d8%af%d9%8a%d8%b1%d8%a7%d9%84%d8%b2%d9%88%d8%b1-24-pfbid0tvqhgyukn31tjcsvudar7gfg4xjexc8kctxw2pcusmuapzpomx7a8vh1rzcf6banl-2025-12-25-192400-2/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.733,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:36:53+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 696559,
+      "content_hash": "ffb154e6ec9ec8224518cf06852008e805cd298a673f12f5bd75ab52bd4cc2d1",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.733,
+      "error": null,
+      "final_url": "https://www.facebook.com/DeirEzzor24/posts/pfbid0tvQHgYukN31TJcSvUDaR7GFg4xjExc8KCtXW2PcusmUApzpomx7A8vH1rZCF6BaNl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:36:53+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/DeirEzzor24/posts/pfbid0tvQHgYukN31TJcSvUDaR7GFg4xjExc8KCtXW2PcusmUApzpomx7A8vH1rZCF6BaNl",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "ديرالزور 24",
+  "captions": [],
+  "content_hash": "52ebfaa0dea392a073935c2117e8268ca73eccc42ef3eb322010cd3553a9e72a",
+  "content_variants": [
+    {
+      "bytes": 574,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:36:53+00:00",
+      "sha256": "52ebfaa0dea392a073935c2117e8268ca73eccc42ef3eb322010cd3553a9e72a",
+      "source_url": "https://www.facebook.com/DeirEzzor24/posts/pfbid0tvQHgYukN31TJcSvUDaR7GFg4xjExc8KCtXW2PcusmUApzpomx7A8vH1rZCF6BaNl",
+      "text": "ديرالزور 24 - #د24:\nقسد تعتقل كلاً من \"مهدي شنان الإبراهيم...\nFacebook‎ديرالزور 24‎'s Post\n\nديرالزور 24December 25, 2025 · Shared with Public#د24:قسد تعتقل كلاً من \"مهدي شنان الإبراهيم ومحمد بشير المحمد العبد الذياب\" خلال حملة مداهمات في قرية #حمرة_بلاسم بريف #الرقة الشرقي.#أخبار_الرقةAll reactions:622 commentsLikeCommentMost relevant﻿Omar Al-Salehتم31wOmar Al-Salehالله المستعان31w"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/DeirEzzor24/posts/pfbid0tvQHgYukN31TJcSvUDaR7GFg4xjExc8KCtXW2PcusmUApzpomx7A8vH1rZCF6BaNl",
+  "incident_ids": [
+    "airwars-387048"
+  ],
+  "incident_sequences": [
+    10
+  ],
+  "normalized_url": "https://www.facebook.com/DeirEzzor24/posts/pfbid0tvQHgYukN31TJcSvUDaR7GFg4xjExc8KCtXW2PcusmUApzpomx7A8vH1rZCF6BaNl",
+  "observed_original_urls": [
+    "https://www.facebook.com/DeirEzzor24/posts/pfbid0tvQHgYukN31TJcSvUDaR7GFg4xjExc8KCtXW2PcusmUApzpomx7A8vH1rZCF6BaNl"
+  ],
+  "original_url": "https://www.facebook.com/DeirEzzor24/posts/pfbid0tvQHgYukN31TJcSvUDaR7GFg4xjExc8KCtXW2PcusmUApzpomx7A8vH1rZCF6BaNl",
+  "page_title": "ديرالزور 24 - #د24:\nقسد تعتقل كلاً من \"مهدي شنان الإبراهيم... Facebook Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0174-december-25-2025/",
+      "airwars_source_id": "376782",
+      "incident_id": "airwars-387048",
+      "incident_sequence": 10,
+      "observed_original_url": "https://www.facebook.com/DeirEzzor24/posts/pfbid0tvQHgYukN31TJcSvUDaR7GFg4xjExc8KCtXW2PcusmUApzpomx7A8vH1rZCF6BaNl",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0174-december-25-2025/",
+      "airwars_source_id": "376789",
+      "incident_id": "airwars-387048",
+      "incident_sequence": 10,
+      "observed_original_url": "https://www.facebook.com/DeirEzzor24/posts/pfbid0tvQHgYukN31TJcSvUDaR7GFg4xjExc8KCtXW2PcusmUApzpomx7A8vH1rZCF6BaNl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "25 ديسمبر 2025",
+  "publisher": "Deir ez-Zor 24",
+  "publisher_ar": "ديرالزور 24",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:36:53+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-6566ef4b86c4cedf190f223e",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/DeirEzzor24/posts/pfbid0tvQHgYukN31TJcSvUDaR7GFg4xjExc8KCtXW2PcusmUApzpomx7A8vH1rZCF6BaNl",
+  "text_ar": "",
+  "text_original": "ديرالزور 24 - #د24:\nقسد تعتقل كلاً من \"مهدي شنان الإبراهيم...\nFacebook‎ديرالزور 24‎'s Post\n\nديرالزور 24December 25, 2025 · Shared with Public#د24:قسد تعتقل كلاً من \"مهدي شنان الإبراهيم ومحمد بشير المحمد العبد الذياب\" خلال حملة مداهمات في قرية #حمرة_بلاسم بريف #الرقة الشرقي.#أخبار_الرقةAll reactions:622 commentsLikeCommentMost relevant﻿Omar Al-Salehتم31wOmar Al-Salehالله المستعان31w",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003233
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
