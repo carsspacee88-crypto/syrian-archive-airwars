@@ -1,0 +1,141 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/k6tn9"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "ronahi.tv",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://ronahi.tv/ar/استشهاد-5-مدنيين-وإصابة-15-في-هجمات-الاحت/",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:07+00:00",
+      "status": null,
+      "url": "https://ronahi.tv/ar/استشهاد-5-مدنيين-وإصابة-15-في-هجمات-الاحت/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.ph",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.ph/wip/k6tn9",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:07+00:00",
+      "status": null,
+      "url": "https://archive.ph/wip/k6tn9",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fronahi.tv%2Far%2F%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-5-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-15-%D9%81%D9%8A-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:07+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fronahi.tv%2Far%2F%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-5-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-15-%D9%81%D9%8A-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Ronahi TV",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://ronahi.tv/ar/استشهاد-5-مدنيين-وإصابة-15-في-هجمات-الاحت/",
+  "incident_ids": [
+    "airwars-264885"
+  ],
+  "incident_sequences": [
+    149
+  ],
+  "normalized_url": "https://ronahi.tv/ar/استشهاد-5-مدنيين-وإصابة-15-في-هجمات-الاحت/",
+  "observed_original_urls": [
+    "https://ronahi.tv/ar/استشهاد-5-مدنيين-وإصابة-15-في-هجمات-الاحت/"
+  ],
+  "original_url": "https://ronahi.tv/ar/استشهاد-5-مدنيين-وإصابة-15-في-هجمات-الاحت/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts762-january-8-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-264885",
+      "incident_sequence": 149,
+      "observed_original_url": "https://ronahi.tv/ar/استشهاد-5-مدنيين-وإصابة-15-في-هجمات-الاحت/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Ronahi TV",
+  "publisher_ar": "Ronahi TV",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:20:07+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-cc9fff0573ad4572e3befec5",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://ronahi.tv/ar/استشهاد-5-مدنيين-وإصابة-15-في-هجمات-الاحت/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

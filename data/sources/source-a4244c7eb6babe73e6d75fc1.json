@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "274078"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-%d8%ae%d8%b1%d8%a8%d8%a9-%d8%ba%d8%a7%d8%b2%d9%8a-%d9%88%d8%a7%d9%84%d8%b1%d9%8a%d9%81-%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a-pfbid021y17n6zn4msszn1kw-2/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.365,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:21:09+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 425492,
+      "content_hash": "9d261c8d997e5e03d5653b56faaad9a327925722b7b7b7ad6a96472922d34530",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.365,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid021Y17n6ZN4MssZN1KwcMUg4EZCmcgfogxKu5WSAEhAP1xw3kXwB9YY4LX7oE7qWoKl%26id%3D100064565864091",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:21:09+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid021Y17n6ZN4MssZN1KwcMUg4EZCmcgfogxKu5WSAEhAP1xw3kXwB9YY4LX7oE7qWoKl&id=100064565864091",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "أخبار خربة غازي والريف الغربي",
+  "captions": [],
+  "content_hash": "0ec79d74d803364211307a6e02e2c8b16c0198b680da18137e550ba407ab4df7",
+  "content_variants": [
+    {
+      "bytes": 351,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:21:09+00:00",
+      "sha256": "0ec79d74d803364211307a6e02e2c8b16c0198b680da18137e550ba407ab4df7",
+      "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid021Y17n6ZN4MssZN1KwcMUg4EZCmcgfogxKu5WSAEhAP1xw3kXwB9YY4LX7oE7qWoKl%26id%3D100064565864091",
+      "text": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid021Y17n6ZN4MssZN1KwcMUg4EZCmcgfogxKu5WSAEhAP1xw3kXwB9YY4LX7oE7qWoKl%26id%3D100064565864091",
+  "incident_ids": [
+    "airwars-275990"
+  ],
+  "incident_sequences": [
+    132
+  ],
+  "normalized_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid021Y17n6ZN4MssZN1KwcMUg4EZCmcgfogxKu5WSAEhAP1xw3kXwB9YY4LX7oE7qWoKl&id=100064565864091",
+  "observed_original_urls": [
+    "https://www.facebook.com/permalink.php?story_fbid=pfbid021Y17n6ZN4MssZN1KwcMUg4EZCmcgfogxKu5WSAEhAP1xw3kXwB9YY4LX7oE7qWoKl&id=100064565864091"
+  ],
+  "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid021Y17n6ZN4MssZN1KwcMUg4EZCmcgfogxKu5WSAEhAP1xw3kXwB9YY4LX7oE7qWoKl&id=100064565864091",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy067-january-15-2025/",
+      "airwars_source_id": "274078",
+      "incident_id": "airwars-275990",
+      "incident_sequence": 132,
+      "observed_original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid021Y17n6ZN4MssZN1KwcMUg4EZCmcgfogxKu5WSAEhAP1xw3kXwB9YY4LX7oE7qWoKl&id=100064565864091",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "15 يناير 2026",
+  "publisher": "News from Khirbet Ghazi and the western countryside",
+  "publisher_ar": "أخبار خربة غازي والريف الغربي",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:21:09+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a4244c7eb6babe73e6d75fc1",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid021Y17n6ZN4MssZN1KwcMUg4EZCmcgfogxKu5WSAEhAP1xw3kXwB9YY4LX7oE7qWoKl&id=100064565864091",
+  "text_ar": "",
+  "text_original": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00186
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

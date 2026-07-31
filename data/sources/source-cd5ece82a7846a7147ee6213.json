@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "308258"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/arabic-anf-news-com-15/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.137,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:07+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 35027,
+      "content_hash": "06bc5b3a15fb7ecd155f30f9a731877458caba7b2d3110dc7ffd894a0aad506e",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.137,
+      "error": null,
+      "etag": "",
+      "final_url": "https://arabic.anf-news.com/akhr-l-khbr/l-115562",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:07+00:00",
+      "status": 200,
+      "url": "https://arabic.anf-news.com/akhr-l-khbr/l-115562",
+      "waiting_seconds": 0.688
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": "69ab924575302d325ffc2863be964c2c7bc30a865ddee4c93bb4a557ebf45948",
+  "content_variants": [
+    {
+      "bytes": 599,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:07+00:00",
+      "sha256": "69ab924575302d325ffc2863be964c2c7bc30a865ddee4c93bb4a557ebf45948",
+      "source_url": "https://arabic.anf-news.com/akhr-l-khbr/l-115562",
+      "text": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالجمعة, ١٤ فبراير ٢٠٢٥, ١١:٤٣\n\nتعرضت قرية الزيدية في ريف مدينة زركان بمقاطعة الجزيرة بإقليم شمال وشرق سوريا، الساعة 10 صباحاً، لقصف جيش الاحتلال التركي ومرتزقته، بالأسلحة الثقيلة، أسفر عن استشهاد المواطنة رحيمة صبري، وإصابة المواطنَين؛ نصر الدين حسن صبري، وأحمد حسن صبري، بحسب المعلومات الأولية."
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://arabic.anf-news.com/akhr-l-khbr/l-115562",
+  "incident_ids": [
+    "airwars-290199"
+  ],
+  "incident_sequences": [
+    106
+  ],
+  "normalized_url": "https://arabic.anf-news.com/akhr-l-khbr/l-115562",
+  "observed_original_urls": [
+    "https://arabic.anf-news.com/akhr-l-khbr/l-115562"
+  ],
+  "original_url": "https://arabic.anf-news.com/akhr-l-khbr/l-115562",
+  "page_title": "ANF |\nقصف الاحتلال التركي لريف زركان يسفر عن استشهاد مواطنة وإصابة مواطنيَن آخرين",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts790-february-14-2025/",
+      "airwars_source_id": "308258",
+      "incident_id": "airwars-290199",
+      "incident_sequence": 106,
+      "observed_original_url": "https://arabic.anf-news.com/akhr-l-khbr/l-115562",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "anf-news.com",
+  "publisher_ar": "anf-news.com",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:07+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-cd5ece82a7846a7147ee6213",
+  "source_type": "news_article",
+  "stable_id_basis": "https://arabic.anf-news.com/akhr-l-khbr/l-115562",
+  "text_ar": "",
+  "text_original": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالجمعة, ١٤ فبراير ٢٠٢٥, ١١:٤٣\n\nتعرضت قرية الزيدية في ريف مدينة زركان بمقاطعة الجزيرة بإقليم شمال وشرق سوريا، الساعة 10 صباحاً، لقصف جيش الاحتلال التركي ومرتزقته، بالأسلحة الثقيلة، أسفر عن استشهاد المواطنة رحيمة صبري، وإصابة المواطنَين؛ نصر الدين حسن صبري، وأحمد حسن صبري، بحسب المعلومات الأولية.",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.000943
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

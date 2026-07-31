@@ -1,0 +1,143 @@
+{
+  "airwars_source_ids": [
+    "305085"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-02-09-120708/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "syriahr.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://www.syriahr.com/استشهاد-طفل-باستهداف-طائرة-مسيّرة-ترك/748719/?fbclid=IwY2xjawIVhO5leHRuA2FlbQIxMQABHX6So2vsTS-HVGCAVBabnQQAkW4En92OG8oNuCZQJIazqa",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:06+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/استشهاد-طفل-باستهداف-طائرة-مسيّرة-ترك/748719/?fbclid=IwY2xjawIVhO5leHRuA2FlbQIxMQABHX6So2vsTS-HVGCAVBabnQQAkW4En92OG8oNuCZQJIazqa",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-02-09-120708/",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:07+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-02-09-120708/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%B7%D9%81%D9%84-%D8%A8%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A9-%D8%AA%D8%B1%D9%83%2F748719%2F%3Ffbclid%3DIwY2xjawIVhO5leHRuA2FlbQIxMQABHX6So2vsTS-HVGCAVBabnQQAkW4En92OG8oNuCZQJIazqa&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:07+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%B7%D9%81%D9%84-%D8%A8%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A9-%D8%AA%D8%B1%D9%83%2F748719%2F%3Ffbclid%3DIwY2xjawIVhO5leHRuA2FlbQIxMQABHX6So2vsTS-HVGCAVBabnQQAkW4En92OG8oNuCZQJIazqa&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "المرصد السوري",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://www.syriahr.com/استشهاد-طفل-باستهداف-طائرة-مسيّرة-ترك/748719/?fbclid=IwY2xjawIVhO5leHRuA2FlbQIxMQABHX6So2vsTS-HVGCAVBabnQQAkW4En92OG8oNuCZQJIazqa",
+  "incident_ids": [
+    "airwars-270476"
+  ],
+  "incident_sequences": [
+    108
+  ],
+  "normalized_url": "https://www.syriahr.com/استشهاد-طفل-باستهداف-طائرة-مسيّرة-ترك/748719/?fbclid=IwY2xjawIVhO5leHRuA2FlbQIxMQABHX6So2vsTS-HVGCAVBabnQQAkW4En92OG8oNuCZQJIazqa",
+  "observed_original_urls": [
+    "https://www.syriahr.com/استشهاد-طفل-باستهداف-طائرة-مسيّرة-ترك/748719/?fbclid=IwY2xjawIVhO5leHRuA2FlbQIxMQABHX6So2vsTS-HVGCAVBabnQQAkW4En92OG8oNuCZQJIazqa"
+  ],
+  "original_url": "https://www.syriahr.com/استشهاد-طفل-باستهداف-طائرة-مسيّرة-ترك/748719/?fbclid=IwY2xjawIVhO5leHRuA2FlbQIxMQABHX6So2vsTS-HVGCAVBabnQQAkW4En92OG8oNuCZQJIazqa",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts789-february-9-2025/",
+      "airwars_source_id": "305085",
+      "incident_id": "airwars-270476",
+      "incident_sequence": 108,
+      "observed_original_url": "https://www.syriahr.com/استشهاد-طفل-باستهداف-طائرة-مسيّرة-ترك/748719/?fbclid=IwY2xjawIVhO5leHRuA2FlbQIxMQABHX6So2vsTS-HVGCAVBabnQQAkW4En92OG8oNuCZQJIazqa",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "9 فبراير 2025",
+  "publisher": "Syrian Observatory",
+  "publisher_ar": "المرصد السوري",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:20:06+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-959152248070d45ee798b9c6",
+  "source_type": "ngo_report",
+  "stable_id_basis": "https://www.syriahr.com/استشهاد-طفل-باستهداف-طائرة-مسيّرة-ترك/748719/?fbclid=IwY2xjawIVhO5leHRuA2FlbQIxMQABHX6So2vsTS-HVGCAVBabnQQAkW4En92OG8oNuCZQJIazqa",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

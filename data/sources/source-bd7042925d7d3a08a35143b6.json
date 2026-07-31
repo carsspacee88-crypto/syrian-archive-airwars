@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "203180"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-nuorgolan-1888210262454329626-2025-02-08-125622/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.296,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:20+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 77569,
+      "content_hash": "5fee49074d1985e468f9ef9cce240a5d868496887c078f6d433106fcd431852f",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.296,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/Nuorgolan/status/1888210262454329626",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:20+00:00",
+      "status": 200,
+      "url": "https://x.com/Nuorgolan/status/1888210262454329626",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "https://x.com/Nuorgolan",
+  "captions": [],
+  "content_hash": "48a564978eeeb53d03e78309bece512f008936b2d26cf943423ef2bcce80d79e",
+  "content_variants": [
+    {
+      "bytes": 336,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:20+00:00",
+      "sha256": "48a564978eeeb53d03e78309bece512f008936b2d26cf943423ef2bcce80d79e",
+      "source_url": "https://x.com/Nuorgolan/status/1888210262454329626",
+      "text": "Post\n\nPost\n\nNour Abu Hasan _ نور الحسن@Nuorgolanعاجل\n\"أُصيب طفل من بلدة رويحينة في ريف القنيطرة الأوسط بإطلاق نار من قبل الجيش الإسرائيلي، وتم نقله إلى مشفى الجولان الوطني.\"\n\n#سوريا12:56 PM · Feb 8, 202517.1KViews12261766"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Nuorgolan/status/1888210262454329626",
+  "incident_ids": [
+    "airwars-276016"
+  ],
+  "incident_sequences": [
+    110
+  ],
+  "normalized_url": "https://x.com/Nuorgolan/status/1888210262454329626",
+  "observed_original_urls": [
+    "https://x.com/Nuorgolan/status/1888210262454329626"
+  ],
+  "original_url": "https://x.com/Nuorgolan/status/1888210262454329626",
+  "page_title": "Nour Abu Hasan _ نور الحسن on X: \"عاجل\n\"أُصيب طفل من بلدة رويحينة في ريف القنيطرة الأوسط بإطلاق نار من قبل الجيش الإسرائيلي، وتم نقله إلى مشفى الجولان الوطني.\"\n\n#سوريا\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy070-february-8-2025/",
+      "airwars_source_id": "203180",
+      "incident_id": "airwars-276016",
+      "incident_sequence": 110,
+      "observed_original_url": "https://x.com/Nuorgolan/status/1888210262454329626",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-02-08T12:56:22.000Z",
+  "publisher": "Youth",
+  "publisher_ar": "Youth",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:20+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-bd7042925d7d3a08a35143b6",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Nuorgolan/status/1888210262454329626",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nNour Abu Hasan _ نور الحسن@Nuorgolanعاجل\n\"أُصيب طفل من بلدة رويحينة في ريف القنيطرة الأوسط بإطلاق نار من قبل الجيش الإسرائيلي، وتم نقله إلى مشفى الجولان الوطني.\"\n\n#سوريا12:56 PM · Feb 8, 202517.1KViews12261766",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001372
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

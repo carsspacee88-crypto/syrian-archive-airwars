@@ -1,0 +1,104 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/rR6P5"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.542,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:40+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 487378,
+      "content_hash": "7ab535595c44462fdf6196f4a50999bc42a0dbdf74880e2a65d336ec2d7e0579",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.542,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/watch/?v=1194749295402911",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:40+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=1194749295402911",
+      "waiting_seconds": 0.746
+    }
+  ],
+  "author": "Akber",
+  "captions": [],
+  "content_hash": "1d3ccbbed27973afbede84faf1a7776201f785d309c5d9232ec1f73a3378f651",
+  "content_variants": [
+    {
+      "bytes": 41,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:40+00:00",
+      "sha256": "1d3ccbbed27973afbede84faf1a7776201f785d309c5d9232ec1f73a3378f651",
+      "source_url": "https://www.facebook.com/watch/?v=1194749295402911",
+      "text": "Discover Popular Videos | Facebook\n\nVideo"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/watch/?v=1194749295402911",
+  "incident_ids": [
+    "airwars-134756"
+  ],
+  "incident_sequences": [
+    144
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=1194749295402911",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=1194749295402911"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=1194749295402911",
+  "page_title": "Discover Popular Videos | Facebook Video",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2006-january-9-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-134756",
+      "incident_sequence": 144,
+      "observed_original_url": "https://www.facebook.com/watch/?v=1194749295402911",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Akber",
+  "publisher_ar": "Akber",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:40+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-8c18e4d1dd10488eca567e0b",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=1194749295402911",
+  "text_ar": "",
+  "text_original": "Discover Popular Videos | Facebook\n\nVideo",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001364
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

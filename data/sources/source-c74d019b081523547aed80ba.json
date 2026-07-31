@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "274106"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-syria7ra-1879553473840398673-2025-01-15-153723/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.231,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:25+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 80779,
+      "content_hash": "70d22618d8b9046f3cfa8e7139f9622bc5514572f1b25d109ebfcaeaf08b7bc2",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.231,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/syria7ra/status/1879553473840398673",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:25+00:00",
+      "status": 200,
+      "url": "https://x.com/syria7ra/status/1879553473840398673",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "https://x.com/syria7ra",
+  "captions": [],
+  "content_hash": "bce669492785b81da9d0e2361b88fb9662a52ad0a1b586f91c3d48d54112b24d",
+  "content_variants": [
+    {
+      "bytes": 312,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:25+00:00",
+      "sha256": "bce669492785b81da9d0e2361b88fb9662a52ad0a1b586f91c3d48d54112b24d",
+      "source_url": "https://x.com/syria7ra/status/1879553473840398673",
+      "text": "Post\n\nPost\n\nالثورة السورية - ثوار القبائل والعشائر@syria7raالشهيد عبد الكومة أبو ياسر مختار بلدة غدير البستان ارتقى بالقصف الصهيوني مع شهداء قوات الامن العام3:37 PM · Jan 15, 202512.8KViews11121901"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/syria7ra/status/1879553473840398673",
+  "incident_ids": [
+    "airwars-275990"
+  ],
+  "incident_sequences": [
+    132
+  ],
+  "normalized_url": "https://x.com/syria7ra/status/1879553473840398673",
+  "observed_original_urls": [
+    "https://x.com/syria7ra/status/1879553473840398673"
+  ],
+  "original_url": "https://x.com/syria7ra/status/1879553473840398673",
+  "page_title": "الثورة السورية - ثوار القبائل والعشائر on X: \"الشهيد عبد الكومة أبو ياسر مختار بلدة غدير البستان ارتقى بالقصف الصهيوني مع شهداء قوات الامن العام https://t.co/ZzQ5HB4LM7\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy067-january-15-2025/",
+      "airwars_source_id": "274106",
+      "incident_id": "airwars-275990",
+      "incident_sequence": 132,
+      "observed_original_url": "https://x.com/syria7ra/status/1879553473840398673",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-01-15T15:37:23.000Z",
+  "publisher": "syria7ra",
+  "publisher_ar": "syria7ra",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:25+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c74d019b081523547aed80ba",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/syria7ra/status/1879553473840398673",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالثورة السورية - ثوار القبائل والعشائر@syria7raالشهيد عبد الكومة أبو ياسر مختار بلدة غدير البستان ارتقى بالقصف الصهيوني مع شهداء قوات الامن العام3:37 PM · Jan 15, 202512.8KViews11121901",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00138
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,143 @@
+{
+  "airwars_source_ids": [
+    "305029"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/npasyria-com-npa-2025-02-08-122955/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "npasyria.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://npasyria.com/204759/",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:04+00:00",
+      "status": null,
+      "url": "https://npasyria.com/204759/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://airwars.org/source/npasyria-com-npa-2025-02-08-122955/",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:07+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/npasyria-com-npa-2025-02-08-122955/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fnpasyria.com%2F204759%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:07+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fnpasyria.com%2F204759%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "NPA",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://npasyria.com/204759/",
+  "incident_ids": [
+    "airwars-290197"
+  ],
+  "incident_sequences": [
+    111
+  ],
+  "normalized_url": "https://npasyria.com/204759/",
+  "observed_original_urls": [
+    "https://npasyria.com/204759/"
+  ],
+  "original_url": "https://npasyria.com/204759/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts787-february-8-2025/",
+      "airwars_source_id": "305029",
+      "incident_id": "airwars-290197",
+      "incident_sequence": 111,
+      "observed_original_url": "https://npasyria.com/204759/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "8 فبراير 2025",
+  "publisher": "semaphore",
+  "publisher_ar": "semaphore",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:20:04+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-79a638295a8e4c1279b5d11e",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://npasyria.com/204759/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

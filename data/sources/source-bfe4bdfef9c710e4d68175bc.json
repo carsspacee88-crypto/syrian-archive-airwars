@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "289783"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-derynews-1893260752850460937-2025-02-22-112513/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.254,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:21+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 79509,
+      "content_hash": "374baac8fcb049563a678019541f670786b2ffbf18b1189eee868ee2ee90be50",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.254,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/DeryNews/status/1893260752850460937",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:21+00:00",
+      "status": 200,
+      "url": "https://x.com/DeryNews/status/1893260752850460937",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "https://x.com/DeryNews",
+  "captions": [],
+  "content_hash": "8145b0f9a16f1aeea6aad50615c10339f5c84e4bdc7c9f39106df63a0dab87d0",
+  "content_variants": [
+    {
+      "bytes": 321,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:21+00:00",
+      "sha256": "8145b0f9a16f1aeea6aad50615c10339f5c84e4bdc7c9f39106df63a0dab87d0",
+      "source_url": "https://x.com/DeryNews/status/1893260752850460937",
+      "text": "Post\n\nPost\n\nعامر هويدي@DeryNewsاعتقلت ميليشيات #قسد \"محمد صياح الرجب\" و\"مهيدي الخلف\"، خلال مداهمة نفذتها، فجر اليوم، في بلدة #الكشكية شرق #ديرالزور، دون معرفة الأسباب.11:25 AM · Feb 22, 20251.6KViews2340"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/DeryNews/status/1893260752850460937",
+  "incident_ids": [
+    "airwars-367995"
+  ],
+  "incident_sequences": [
+    102
+  ],
+  "normalized_url": "https://x.com/DeryNews/status/1893260752850460937",
+  "observed_original_urls": [
+    "https://x.com/DeryNews/status/1893260752850460937"
+  ],
+  "original_url": "https://x.com/DeryNews/status/1893260752850460937",
+  "page_title": "عامر هويدي on X: \"اعتقلت ميليشيات #قسد \"محمد صياح الرجب\" و\"مهيدي الخلف\"، خلال مداهمة نفذتها، فجر اليوم، في بلدة #الكشكية شرق #ديرالزور، دون معرفة الأسباب.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0128-february-22-2025/",
+      "airwars_source_id": "289783",
+      "incident_id": "airwars-367995",
+      "incident_sequence": 102,
+      "observed_original_url": "https://x.com/DeryNews/status/1893260752850460937",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-02-22T11:25:13.000Z",
+  "publisher": "DeryNews",
+  "publisher_ar": "DeryNews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:21+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-bfe4bdfef9c710e4d68175bc",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/DeryNews/status/1893260752850460937",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nعامر هويدي@DeryNewsاعتقلت ميليشيات #قسد \"محمد صياح الرجب\" و\"مهيدي الخلف\"، خلال مداهمة نفذتها، فجر اليوم، في بلدة #الكشكية شرق #ديرالزور، دون معرفة الأسباب.11:25 AM · Feb 22, 20251.6KViews2340",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001341
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

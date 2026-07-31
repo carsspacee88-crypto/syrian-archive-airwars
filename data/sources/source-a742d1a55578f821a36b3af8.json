@@ -1,0 +1,163 @@
+{
+  "airwars_source_ids": [
+    "304948"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/ronahi-tv-ronahi-tv/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "ronahi.tv",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://ronahi.tv/ar/archives/269157",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:06+00:00",
+      "status": null,
+      "url": "https://ronahi.tv/ar/archives/269157",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://airwars.org/source/ronahi-tv-ronahi-tv/",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:07+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/ronahi-tv-ronahi-tv/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fronahi.tv%2Far%2Farchives%2F269157&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:07+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fronahi.tv%2Far%2Farchives%2F269157&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Ronahi TV",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://ronahi.tv/ar/archives/269157",
+  "incident_ids": [
+    "airwars-290201",
+    "airwars-290195",
+    "airwars-290193"
+  ],
+  "incident_sequences": [
+    112,
+    113,
+    117
+  ],
+  "normalized_url": "https://ronahi.tv/ar/archives/269157",
+  "observed_original_urls": [
+    "https://ronahi.tv/ar/archives/269157"
+  ],
+  "original_url": "https://ronahi.tv/ar/archives/269157",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts788-february-8-2025/",
+      "airwars_source_id": "304948",
+      "incident_id": "airwars-290201",
+      "incident_sequence": 112,
+      "observed_original_url": "https://ronahi.tv/ar/archives/269157",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts786-february-6-2025/",
+      "airwars_source_id": "304948",
+      "incident_id": "airwars-290195",
+      "incident_sequence": 113,
+      "observed_original_url": "https://ronahi.tv/ar/archives/269157",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts785-february-1-2025/",
+      "airwars_source_id": "304948",
+      "incident_id": "airwars-290193",
+      "incident_sequence": 117,
+      "observed_original_url": "https://ronahi.tv/ar/archives/269157",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Ronahi TV",
+  "publisher_ar": "Ronahi TV",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:20:06+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a742d1a55578f821a36b3af8",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://ronahi.tv/ar/archives/269157",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "289179"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-derynews-1886215680451858539-2025-02-03-005037/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.21,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:08+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 78079,
+      "content_hash": "4dd43f64394a840efe407ee7715ea3dfaa28557b493d96e6e61d24f28252b12e",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.21,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/DeryNews/status/1886215680451858539",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:08+00:00",
+      "status": 200,
+      "url": "https://x.com/DeryNews/status/1886215680451858539",
+      "waiting_seconds": 0.749
+    }
+  ],
+  "author": "https://x.com/DeryNews",
+  "captions": [],
+  "content_hash": "5fce5a974f272e9ce2e2466fa77393fe93d19904c45757f92332dc58bfb99683",
+  "content_variants": [
+    {
+      "bytes": 328,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:08+00:00",
+      "sha256": "5fce5a974f272e9ce2e2466fa77393fe93d19904c45757f92332dc58bfb99683",
+      "source_url": "https://x.com/DeryNews/status/1886215680451858539",
+      "text": "Post\n\nPost\n\nعامر هويدي@DeryNews#دير_الزور الريف الشمالي:\nإعتقـ.ـال عبد عواد العاصي خلال عمــ.ـلية إنـ.ـزال جوي نـ.ـفذتها قـ.ـوات التحـ.ـالف الدولي في قرية النملية قبل قليل12:50 AM · Feb 3, 20251.9KViews1133"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/DeryNews/status/1886215680451858539",
+  "incident_ids": [
+    "airwars-367989"
+  ],
+  "incident_sequences": [
+    115
+  ],
+  "normalized_url": "https://x.com/DeryNews/status/1886215680451858539",
+  "observed_original_urls": [
+    "https://x.com/DeryNews/status/1886215680451858539"
+  ],
+  "original_url": "https://x.com/DeryNews/status/1886215680451858539",
+  "page_title": "عامر هويدي on X: \"#دير_الزور الريف الشمالي:\nإعتقـ.ـال عبد عواد العاصي خلال عمــ.ـلية إنـ.ـزال جوي نـ.ـفذتها قـ.ـوات التحـ.ـالف الدولي في قرية النملية قبل قليل\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0122-february-3-2025/",
+      "airwars_source_id": "289179",
+      "incident_id": "airwars-367989",
+      "incident_sequence": 115,
+      "observed_original_url": "https://x.com/DeryNews/status/1886215680451858539",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-02-03T00:50:37.000Z",
+  "publisher": "DeryNews",
+  "publisher_ar": "DeryNews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:08+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-82061538117f5bc40e30f397",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/DeryNews/status/1886215680451858539",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nعامر هويدي@DeryNews#دير_الزور الريف الشمالي:\nإعتقـ.ـال عبد عواد العاصي خلال عمــ.ـلية إنـ.ـزال جوي نـ.ـفذتها قـ.ـوات التحـ.ـالف الدولي في قرية النملية قبل قليل12:50 AM · Feb 3, 20251.9KViews1133",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001241
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

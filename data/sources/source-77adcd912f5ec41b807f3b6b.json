@@ -1,0 +1,144 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/L8f1t"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.329,
+          "error": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T20:20:05+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.329,
+      "error": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)",
+      "etag": "",
+      "final_url": "https://vdc-nsy.com/archives/69301?fbclid=IwY2xjawHwYxxleHRuA2FlbQIxMQABHZ9Aib1pjnwdFglPSjNoKrLojuR1OAFUXhdJJ50mUJ0kiMZjBBTUGxTbYg_aem_u0fcpDq",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:05+00:00",
+      "status": null,
+      "url": "https://vdc-nsy.com/archives/69301?fbclid=IwY2xjawHwYxxleHRuA2FlbQIxMQABHZ9Aib1pjnwdFglPSjNoKrLojuR1OAFUXhdJJ50mUJ0kiMZjBBTUGxTbYg_aem_u0fcpDq",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.ph",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.ph/wip/L8f1t",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:07+00:00",
+      "status": null,
+      "url": "https://archive.ph/wip/L8f1t",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fvdc-nsy.com%2Farchives%2F69301%3Ffbclid%3DIwY2xjawHwYxxleHRuA2FlbQIxMQABHZ9Aib1pjnwdFglPSjNoKrLojuR1OAFUXhdJJ50mUJ0kiMZjBBTUGxTbYg_aem_u0fcpDq&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:07+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fvdc-nsy.com%2Farchives%2F69301%3Ffbclid%3DIwY2xjawHwYxxleHRuA2FlbQIxMQABHZ9Aib1pjnwdFglPSjNoKrLojuR1OAFUXhdJJ50mUJ0kiMZjBBTUGxTbYg_aem_u0fcpDq&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "VDC",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://vdc-nsy.com/archives/69301?fbclid=IwY2xjawHwYxxleHRuA2FlbQIxMQABHZ9Aib1pjnwdFglPSjNoKrLojuR1OAFUXhdJJ50mUJ0kiMZjBBTUGxTbYg_aem_u0fcpDq",
+  "incident_ids": [
+    "airwars-264887"
+  ],
+  "incident_sequences": [
+    139
+  ],
+  "normalized_url": "https://vdc-nsy.com/archives/69301?fbclid=IwY2xjawHwYxxleHRuA2FlbQIxMQABHZ9Aib1pjnwdFglPSjNoKrLojuR1OAFUXhdJJ50mUJ0kiMZjBBTUGxTbYg_aem_u0fcpDq",
+  "observed_original_urls": [
+    "https://vdc-nsy.com/archives/69301?fbclid=IwY2xjawHwYxxleHRuA2FlbQIxMQABHZ9Aib1pjnwdFglPSjNoKrLojuR1OAFUXhdJJ50mUJ0kiMZjBBTUGxTbYg_aem_u0fcpDq"
+  ],
+  "original_url": "https://vdc-nsy.com/archives/69301?fbclid=IwY2xjawHwYxxleHRuA2FlbQIxMQABHZ9Aib1pjnwdFglPSjNoKrLojuR1OAFUXhdJJ50mUJ0kiMZjBBTUGxTbYg_aem_u0fcpDq",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts769-january-11-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-264887",
+      "incident_sequence": 139,
+      "observed_original_url": "https://vdc-nsy.com/archives/69301?fbclid=IwY2xjawHwYxxleHRuA2FlbQIxMQABHZ9Aib1pjnwdFglPSjNoKrLojuR1OAFUXhdJJ50mUJ0kiMZjBBTUGxTbYg_aem_u0fcpDq",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "VDC",
+  "publisher_ar": "VDC",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:20:05+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-77adcd912f5ec41b807f3b6b",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://vdc-nsy.com/archives/69301?fbclid=IwY2xjawHwYxxleHRuA2FlbQIxMQABHZ9Aib1pjnwdFglPSjNoKrLojuR1OAFUXhdJJ50mUJ0kiMZjBBTUGxTbYg_aem_u0fcpDq",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

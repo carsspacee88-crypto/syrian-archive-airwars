@@ -1,0 +1,104 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/PKgdE"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.471,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:26+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 76835,
+      "content_hash": "4da04aa88c4a11157adede9e5630024ac4bcd1ae1972e4abb3418dbc3602044e",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.471,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/SyrianUmayyad/status/1877497666474553394",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:26+00:00",
+      "status": 200,
+      "url": "https://x.com/mos1l1em/status/1877497666474553394",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "https://x.com/SyrianUmayyad",
+  "captions": [],
+  "content_hash": "bddc1c90dff7b1726807c292b8097468679e12f8e2c23a1f22e7f2dd311877d8",
+  "content_variants": [
+    {
+      "bytes": 291,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:26+00:00",
+      "sha256": "bddc1c90dff7b1726807c292b8097468679e12f8e2c23a1f22e7f2dd311877d8",
+      "source_url": "https://x.com/SyrianUmayyad/status/1877497666474553394",
+      "text": "Post\n\nPost\n\nالإخبارية السورية الأموية@SyrianUmayyadمقتل الشاب \"محمد الجدوع\" برصاص دورية لميليشيات #قسد بادية الرصافة بريف #الرقة وينحدر من بلدة المنصورة.11:28 PM · Jan 9, 2025655Views25"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyrianUmayyad/status/1877497666474553394",
+  "incident_ids": [
+    "airwars-134756"
+  ],
+  "incident_sequences": [
+    144
+  ],
+  "normalized_url": "https://x.com/mos1l1em/status/1877497666474553394",
+  "observed_original_urls": [
+    "https://x.com/mos1l1em/status/1877497666474553394"
+  ],
+  "original_url": "https://x.com/mos1l1em/status/1877497666474553394",
+  "page_title": "الإخبارية السورية الأموية on X: \"مقتل الشاب \"محمد الجدوع\" برصاص دورية لميليشيات #قسد بادية الرصافة بريف #الرقة وينحدر من بلدة المنصورة.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2006-january-9-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-134756",
+      "incident_sequence": 144,
+      "observed_original_url": "https://x.com/mos1l1em/status/1877497666474553394",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-01-09T23:28:20.000Z",
+  "publisher": "'@mos1l1em",
+  "publisher_ar": "'@mos1l1em",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:26+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c751f905d9f7bb942ae5ecd8",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/mos1l1em/status/1877497666474553394",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالإخبارية السورية الأموية@SyrianUmayyadمقتل الشاب \"محمد الجدوع\" برصاص دورية لميليشيات #قسد بادية الرصافة بريف #الرقة وينحدر من بلدة المنصورة.11:28 PM · Jan 9, 2025655Views25",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00131
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

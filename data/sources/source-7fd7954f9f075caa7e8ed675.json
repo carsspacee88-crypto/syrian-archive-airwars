@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "308267"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/rojnews-news-awaz-rojnews-2025-02-14-110046/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.814,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:05+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 209333,
+      "content_hash": "341c4c734f0f7a10a9dc918a94a133a50bc7a84282704d58e2596bb02a8e555b",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.814,
+      "error": null,
+      "etag": "",
+      "final_url": "https://rojnews.news/ar/?p=213697",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:05+00:00",
+      "status": 200,
+      "url": "https://rojnews.news/ar/?p=213697",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "https://www.facebook.com/RojnewsAr/ ROJNEWS",
+  "captions": [],
+  "content_hash": "ba69af69d656fc0edd140a94c7cdd7e3e236d38ed2607fc5607368ac9a7fbb31",
+  "content_variants": [
+    {
+      "bytes": 1415,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:05+00:00",
+      "sha256": "ba69af69d656fc0edd140a94c7cdd7e3e236d38ed2607fc5607368ac9a7fbb31",
+      "source_url": "https://rojnews.news/ar/?p=213697",
+      "text": "استشهاد مواطنة وإصابة 2آخرين في قصف تركي على الحسكة بشمال وشرق سوريا\n\nمركز الأخبار\n\nاستشهدت مواطنة وأصيب مواطنان آخران في قصف جيش الاحتلال التركي ومرتزقته على ريف زركان التابعة لمدينة الحسكة بشمال وشرق سوريا.\n\nأفادت وكالة أنباء هاوار بتعرض قرية الزيدية في ريف مدينة زركان بمقاطعة الجزيرة بإقليم شمال وشرق سوريا، الساعة 10 صباحاً، لقصف جيش الاحتلال التركي ومرتزقته، بالأسلحة الثقيلة، أسفر عن استشهاد المواطنة رحيمة صبري، وإصابة المواطنَين؛ نصر الدين حسن صبري، وأحمد حسن صبري، بحسب المعلومات الأولية.\n\nتحطم طائرة أف 35 أميركية في كاليفورنيا\n\nإيران: عبور هرمز أصبح غير ممكن\n\nترمب: سنقصف إيران وما نقوم به عملية عسكرية وليست حربا\n\nمسؤول أميركي يستبعد استئناف المفاوضات مع إيران\n\nتوقف حاكم مصرف لبنان السابق خلال وجود بمستشفى\n\nالخزانة الأميركية: سنستهدف الأموال الإيرانية في كل العالم"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://rojnews.news/ar/?p=213697",
+  "incident_ids": [
+    "airwars-290199"
+  ],
+  "incident_sequences": [
+    106
+  ],
+  "normalized_url": "https://rojnews.news/ar/?p=213697",
+  "observed_original_urls": [
+    "https://rojnews.news/ar/?p=213697"
+  ],
+  "original_url": "https://rojnews.news/ar/?p=213697",
+  "page_title": "استشهاد مواطنة وإصابة 2آخرين في قصف تركي على الحسكة بشمال وشرق سوريا - العربية - Rojnews.news",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts790-february-14-2025/",
+      "airwars_source_id": "308267",
+      "incident_id": "airwars-290199",
+      "incident_sequence": 106,
+      "observed_original_url": "https://rojnews.news/ar/?p=213697",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-02-14T11:00:46+00:00 2025-02-14T14:00:46+03:00 2026-07-30T09:20:47+03:00 2026-07-30T10:02:21+03:00 2026-07-31T11:49:38+03:00 2026-07-31T16:25:58+03:00 2026-07-30T13:35:06+03:00 2026-07-31T22:03:21+03:00 2026-07-31T19:52:49+03:00 2026-07-31T19:32:05+03:00 2026-07-31T19:27:46+03:00 2026-07-31T18:54:59+03:00",
+  "publisher": "Awaz Rojnews",
+  "publisher_ar": "Awaz Rojnews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:05+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-7fd7954f9f075caa7e8ed675",
+  "source_type": "news_article",
+  "stable_id_basis": "https://rojnews.news/ar/?p=213697",
+  "text_ar": "",
+  "text_original": "استشهاد مواطنة وإصابة 2آخرين في قصف تركي على الحسكة بشمال وشرق سوريا\n\nمركز الأخبار\n\nاستشهدت مواطنة وأصيب مواطنان آخران في قصف جيش الاحتلال التركي ومرتزقته على ريف زركان التابعة لمدينة الحسكة بشمال وشرق سوريا.\n\nأفادت وكالة أنباء هاوار بتعرض قرية الزيدية في ريف مدينة زركان بمقاطعة الجزيرة بإقليم شمال وشرق سوريا، الساعة 10 صباحاً، لقصف جيش الاحتلال التركي ومرتزقته، بالأسلحة الثقيلة، أسفر عن استشهاد المواطنة رحيمة صبري، وإصابة المواطنَين؛ نصر الدين حسن صبري، وأحمد حسن صبري، بحسب المعلومات الأولية.\n\nتحطم طائرة أف 35 أميركية في كاليفورنيا\n\nإيران: عبور هرمز أصبح غير ممكن\n\nترمب: سنقصف إيران وما نقوم به عملية عسكرية وليست حربا\n\nمسؤول أميركي يستبعد استئناف المفاوضات مع إيران\n\nتوقف حاكم مصرف لبنان السابق خلال وجود بمستشفى\n\nالخزانة الأميركية: سنستهدف الأموال الإيرانية في كل العالم",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002144
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

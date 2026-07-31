@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "363229"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-kurdistan-pfbid0zepdsjzfqirqbwd3di1xhzdxeknvixvchamuuqayuyrgqmkxyk8357ngfzgcnnh7l-2025-02-11-090000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.673,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:23+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 763831,
+      "content_hash": "09600d309f00a05404cd91ee65efcd821148c46351c84a5f354220f1061f8b0a",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.673,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/kawaahmed123/posts/pfbid0ZEpDsJZFQirqbwd3di1XhzdxeKNVixVChaMUUqaYuYrgqMkxyK8357NgfZGCnnH7l",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:23+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/kawaahmed123/posts/pfbid0ZEpDsJZFQirqbwd3di1XhzdxeKNVixVChaMUUqaYuYrgqMkxyK8357NgfZGCnnH7l",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "Kurdistan",
+  "captions": [],
+  "content_hash": "4cac7d4181869b0bf7cf4a2279f91a3696358ce25955570cf966e3177f50ddca",
+  "content_variants": [
+    {
+      "bytes": 121,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:23+00:00",
+      "sha256": "4cac7d4181869b0bf7cf4a2279f91a3696358ce25955570cf966e3177f50ddca",
+      "source_url": "https://www.facebook.com/kawaahmed123/posts/pfbid0ZEpDsJZFQirqbwd3di1XhzdxeKNVixVChaMUUqaYuYrgqMkxyK8357NgfZGCnnH7l",
+      "text": "Kurdistan - ‏خلال عملية أمنية دقيقة وناجحة.. قواتنا تفكك...\nFacebookKurdistan's Post"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/kawaahmed123/posts/pfbid0ZEpDsJZFQirqbwd3di1XhzdxeKNVixVChaMUUqaYuYrgqMkxyK8357NgfZGCnnH7l",
+  "incident_ids": [
+    "airwars-367991"
+  ],
+  "incident_sequences": [
+    107
+  ],
+  "normalized_url": "https://www.facebook.com/kawaahmed123/posts/pfbid0ZEpDsJZFQirqbwd3di1XhzdxeKNVixVChaMUUqaYuYrgqMkxyK8357NgfZGCnnH7l",
+  "observed_original_urls": [
+    "https://www.facebook.com/kawaahmed123/posts/pfbid0ZEpDsJZFQirqbwd3di1XhzdxeKNVixVChaMUUqaYuYrgqMkxyK8357NgfZGCnnH7l"
+  ],
+  "original_url": "https://www.facebook.com/kawaahmed123/posts/pfbid0ZEpDsJZFQirqbwd3di1XhzdxeKNVixVChaMUUqaYuYrgqMkxyK8357NgfZGCnnH7l",
+  "page_title": "Kurdistan - ‏خلال عملية أمنية دقيقة وناجحة.. قواتنا تفكك... Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0124-february-10-2025/",
+      "airwars_source_id": "363229",
+      "incident_id": "airwars-367991",
+      "incident_sequence": 107,
+      "observed_original_url": "https://www.facebook.com/kawaahmed123/posts/pfbid0ZEpDsJZFQirqbwd3di1XhzdxeKNVixVChaMUUqaYuYrgqMkxyK8357NgfZGCnnH7l",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "11 فبراير 2025",
+  "publisher": "Kurdistan",
+  "publisher_ar": "Kurdistan",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:23+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-81eb68677f80c10364712ce1",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/kawaahmed123/posts/pfbid0ZEpDsJZFQirqbwd3di1XhzdxeKNVixVChaMUUqaYuYrgqMkxyK8357NgfZGCnnH7l",
+  "text_ar": "",
+  "text_original": "Kurdistan - ‏خلال عملية أمنية دقيقة وناجحة.. قواتنا تفكك...\nFacebookKurdistan's Post",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002414
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

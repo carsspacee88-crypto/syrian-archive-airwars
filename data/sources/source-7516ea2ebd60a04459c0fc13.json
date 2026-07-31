@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "304954"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d9%83%d9%88%d8%a8%d8%a7%d9%86%d9%8a-%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d8%ad%d8%af%d8%ab-pfbid02u6pubdky8kd5r9tfmfbmyv937zl8zzxwxkztsvmprvataqh3dnpnvcveyhtepkhel-2025-02-01-1700/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.751,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:05+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 425403,
+      "content_hash": "79efbb5492a727c189e4551e1043679ba1ad335cdee859ca489adee8dd96f843",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.751,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02U6pUBDky8kD5r9tFmfBMyv937zL8zzxwxKZTsVMPRVaTAqH3dnpnvcVeyhtEPKhEl%26id%3D100065001724392",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:05+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02U6pUBDky8kD5r9tFmfBMyv937zL8zzxwxKZTsVMPRVaTAqH3dnpnvcVeyhtEPKhEl&id=100065001724392",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "كوباني قلب الحدث",
+  "captions": [],
+  "content_hash": "0ec79d74d803364211307a6e02e2c8b16c0198b680da18137e550ba407ab4df7",
+  "content_variants": [
+    {
+      "bytes": 351,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:05+00:00",
+      "sha256": "0ec79d74d803364211307a6e02e2c8b16c0198b680da18137e550ba407ab4df7",
+      "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02U6pUBDky8kD5r9tFmfBMyv937zL8zzxwxKZTsVMPRVaTAqH3dnpnvcVeyhtEPKhEl%26id%3D100065001724392",
+      "text": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02U6pUBDky8kD5r9tFmfBMyv937zL8zzxwxKZTsVMPRVaTAqH3dnpnvcVeyhtEPKhEl%26id%3D100065001724392",
+  "incident_ids": [
+    "airwars-290193"
+  ],
+  "incident_sequences": [
+    117
+  ],
+  "normalized_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02U6pUBDky8kD5r9tFmfBMyv937zL8zzxwxKZTsVMPRVaTAqH3dnpnvcVeyhtEPKhEl&id=100065001724392",
+  "observed_original_urls": [
+    "https://www.facebook.com/permalink.php?story_fbid=pfbid02U6pUBDky8kD5r9tFmfBMyv937zL8zzxwxKZTsVMPRVaTAqH3dnpnvcVeyhtEPKhEl&id=100065001724392"
+  ],
+  "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02U6pUBDky8kD5r9tFmfBMyv937zL8zzxwxKZTsVMPRVaTAqH3dnpnvcVeyhtEPKhEl&id=100065001724392",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts785-february-1-2025/",
+      "airwars_source_id": "304954",
+      "incident_id": "airwars-290193",
+      "incident_sequence": 117,
+      "observed_original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02U6pUBDky8kD5r9tFmfBMyv937zL8zzxwxKZTsVMPRVaTAqH3dnpnvcVeyhtEPKhEl&id=100065001724392",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "1 فبراير 2025",
+  "publisher": "Kobani, the heart of the event",
+  "publisher_ar": "كوباني قلب الحدث",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:05+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-7516ea2ebd60a04459c0fc13",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid02U6pUBDky8kD5r9tFmfBMyv937zL8zzxwxKZTsVMPRVaTAqH3dnpnvcVeyhtEPKhEl&id=100065001724392",
+  "text_ar": "",
+  "text_original": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001974
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

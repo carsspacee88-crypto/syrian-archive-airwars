@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "296060"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-alan-ali-pfbid0bcwdntpked4fbvjyrb4prsxxfufkwdxrtfcmu6jjprbgxkaqv4kzq1nj4dan573wl-2025-01-12-090000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.407,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:46+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 424998,
+      "content_hash": "b3118541bfcb7d43bc612f266a8f41c6ed2e359346b08772af8d9a8ecb15a8e2",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.407,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0bcWDnTpKED4FBVjYRb4PrSXxfufKWDXRtfcmU6jJPrbGXKAqv4KZQ1nj4dAN573Wl%26id%3D100077262023974",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:46+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0bcWDnTpKED4FBVjYRb4PrSXxfufKWDXRtfcmU6jJPrbGXKAqv4KZQ1nj4dAN573Wl&id=100077262023974",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "Alan Ali",
+  "captions": [],
+  "content_hash": "0ec79d74d803364211307a6e02e2c8b16c0198b680da18137e550ba407ab4df7",
+  "content_variants": [
+    {
+      "bytes": 351,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:46+00:00",
+      "sha256": "0ec79d74d803364211307a6e02e2c8b16c0198b680da18137e550ba407ab4df7",
+      "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0bcWDnTpKED4FBVjYRb4PrSXxfufKWDXRtfcmU6jJPrbGXKAqv4KZQ1nj4dAN573Wl%26id%3D100077262023974",
+      "text": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0bcWDnTpKED4FBVjYRb4PrSXxfufKWDXRtfcmU6jJPrbGXKAqv4KZQ1nj4dAN573Wl%26id%3D100077262023974",
+  "incident_ids": [
+    "airwars-367987"
+  ],
+  "incident_sequences": [
+    137
+  ],
+  "normalized_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0bcWDnTpKED4FBVjYRb4PrSXxfufKWDXRtfcmU6jJPrbGXKAqv4KZQ1nj4dAN573Wl&id=100077262023974",
+  "observed_original_urls": [
+    "https://www.facebook.com/permalink.php?story_fbid=pfbid0bcWDnTpKED4FBVjYRb4PrSXxfufKWDXRtfcmU6jJPrbGXKAqv4KZQ1nj4dAN573Wl&id=100077262023974"
+  ],
+  "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0bcWDnTpKED4FBVjYRb4PrSXxfufKWDXRtfcmU6jJPrbGXKAqv4KZQ1nj4dAN573Wl&id=100077262023974",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0120-january-12-2025/",
+      "airwars_source_id": "296060",
+      "incident_id": "airwars-367987",
+      "incident_sequence": 137,
+      "observed_original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0bcWDnTpKED4FBVjYRb4PrSXxfufKWDXRtfcmU6jJPrbGXKAqv4KZQ1nj4dAN573Wl&id=100077262023974",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "12 يناير 2025",
+  "publisher": "Alan Ali",
+  "publisher_ar": "Alan Ali",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:46+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-90cf06dd43e097a59eb5b14a",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid0bcWDnTpKED4FBVjYRb4PrSXxfufKWDXRtfcmU6jJPrbGXKAqv4KZQ1nj4dAN573Wl&id=100077262023974",
+  "text_ar": "",
+  "text_original": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001818
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

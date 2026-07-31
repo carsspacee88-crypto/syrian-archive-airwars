@@ -1,0 +1,104 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/ribGA"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.75,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:06+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 124879,
+      "content_hash": "e92ccdbfb128cd1fe25c08de5a1168a579fecf9e8529d0ea20d54d41e90272bd",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.75,
+      "error": null,
+      "etag": "",
+      "final_url": "https://hawarnews.com/en/worker-martyred-5-others-injured-in-a-turkish-occupation-bombing?fbclid=IwY2xjawHsXAtleHRuA2FlbQIxMAABHZlZYSfypEND2ugT_QAbZepn",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:06+00:00",
+      "status": 200,
+      "url": "https://hawarnews.com/en/worker-martyred-5-others-injured-in-a-turkish-occupation-bombing?fbclid=IwY2xjawHsXAtleHRuA2FlbQIxMAABHZlZYSfypEND2ugT_QAbZepn",
+      "waiting_seconds": 0.127
+    }
+  ],
+  "author": "ANHA test",
+  "captions": [],
+  "content_hash": "14439a4256698401397895110909b62ccfbd37e6b1c58c731b9150bb91502e6e",
+  "content_variants": [
+    {
+      "bytes": 1085,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:06+00:00",
+      "sha256": "14439a4256698401397895110909b62ccfbd37e6b1c58c731b9150bb91502e6e",
+      "source_url": "https://hawarnews.com/en/worker-martyred-5-others-injured-in-a-turkish-occupation-bombing?fbclid=IwY2xjawHsXAtleHRuA2FlbQIxMAABHZlZYSfypEND2ugT_QAbZepn",
+      "text": "31 July, 2026\n\nItaly suspends Schengen with Spain after Ceuta crisis\n\nBritish Report: Netanyahu, Trump discuss land blockade on Iran\n\nMedical students in Syria call for removal of interview score from residency admission\n\nEngineers Syndicate announces new measures to assess damaged buildings in Syria\n\nWater pumping from Maydanki Dam begins amid safety warnings\n\n6 injured in shooting at Homs camp\n\n500 Serê Kaniyê displaced families prepare to return home\n\nOil tanker drivers in Deir ez-Zor announce strike, demand payment of dues\n\n18 migrants killed, crossing attempts thwarted, Moroccan-Spanish security reinforcements\n\nAgreement involving Hamas disarmament in Gaza announced\n\nSyrian Activist warns of women's marginalization, calls for greater role in decision-making\n\nResearcher: disruption of transitional justice process linked to absence of political will\n\nResidents of Çil Axa: Ocalan's physical freedom is essential to achieving peace\n\nHawar News Agency Plan– 31 July 2026\n\nLanguage\n\nعربي\nKURDÎ\n\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nENGLISH\n\nSPANISH\n\nRUSSIAN"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://hawarnews.com/en/worker-martyred-5-others-injured-in-a-turkish-occupation-bombing?fbclid=IwY2xjawHsXAtleHRuA2FlbQIxMAABHZlZYSfypEND2ugT_QAbZepn",
+  "incident_ids": [
+    "airwars-256422"
+  ],
+  "incident_sequences": [
+    148
+  ],
+  "normalized_url": "https://hawarnews.com/en/worker-martyred-5-others-injured-in-a-turkish-occupation-bombing?fbclid=IwY2xjawHsXAtleHRuA2FlbQIxMAABHZlZYSfypEND2ugT_QAbZepn",
+  "observed_original_urls": [
+    "https://hawarnews.com/en/worker-martyred-5-others-injured-in-a-turkish-occupation-bombing?fbclid=IwY2xjawHsXAtleHRuA2FlbQIxMAABHZlZYSfypEND2ugT_QAbZepn"
+  ],
+  "original_url": "https://hawarnews.com/en/worker-martyred-5-others-injured-in-a-turkish-occupation-bombing?fbclid=IwY2xjawHsXAtleHRuA2FlbQIxMAABHZlZYSfypEND2ugT_QAbZepn",
+  "page_title": "worker martyred, 5 others injured in a Turkish occupation bombing -ANHA",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts761-january-8-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-256422",
+      "incident_sequence": 148,
+      "observed_original_url": "https://hawarnews.com/en/worker-martyred-5-others-injured-in-a-turkish-occupation-bombing?fbclid=IwY2xjawHsXAtleHRuA2FlbQIxMAABHZlZYSfypEND2ugT_QAbZepn",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-01-08 19:56:05",
+  "publisher": "Hawar News",
+  "publisher_ar": "Hawar News",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:06+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-7668ee16ae9a38ff3899ddf7",
+  "source_type": "news_article",
+  "stable_id_basis": "https://hawarnews.com/en/worker-martyred-5-others-injured-in-a-turkish-occupation-bombing?fbclid=IwY2xjawHsXAtleHRuA2FlbQIxMAABHZlZYSfypEND2ugT_QAbZepn",
+  "text_ar": "",
+  "text_original": "31 July, 2026\n\nItaly suspends Schengen with Spain after Ceuta crisis\n\nBritish Report: Netanyahu, Trump discuss land blockade on Iran\n\nMedical students in Syria call for removal of interview score from residency admission\n\nEngineers Syndicate announces new measures to assess damaged buildings in Syria\n\nWater pumping from Maydanki Dam begins amid safety warnings\n\n6 injured in shooting at Homs camp\n\n500 Serê Kaniyê displaced families prepare to return home\n\nOil tanker drivers in Deir ez-Zor announce strike, demand payment of dues\n\n18 migrants killed, crossing attempts thwarted, Moroccan-Spanish security reinforcements\n\nAgreement involving Hamas disarmament in Gaza announced\n\nSyrian Activist warns of women's marginalization, calls for greater role in decision-making\n\nResearcher: disruption of transitional justice process linked to absence of political will\n\nResidents of Çil Axa: Ocalan's physical freedom is essential to achieving peace\n\nHawar News Agency Plan– 31 July 2026\n\nLanguage\n\nعربي\nKURDÎ\n\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nENGLISH\n\nSPANISH\n\nRUSSIAN",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001835
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
