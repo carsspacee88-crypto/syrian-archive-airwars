@@ -15,6 +15,7 @@ from .collector import collect_one
 from .fetcher import AsyncHostFetcher, CircuitBreakingFetcher, FetchResult
 from .io_utils import atomic_write_json, clean_text, load_json, sha256_bytes, utc_now
 from .legacy import LegacyArchive
+from .normalize import finalize_status
 from .pilot import (
     DIRECT_AUDIO_SUFFIXES,
     DIRECT_IMAGE_SUFFIXES,
@@ -61,6 +62,39 @@ def _merge_stats(previous: dict[str, Any], current: dict[str, Any]) -> dict[str,
     merged["waiting_seconds"] = round(float(merged.get("waiting_seconds") or 0) + float(current.get("waiting_seconds") or 0), 3)
     merged["circuit_state"] = deepcopy(current.get("circuit_state") or merged.get("circuit_state") or {})
     return merged
+
+
+def _inherit_airwars_circuit_classification(records: list[dict[str, Any]]) -> int:
+    """Annotate skipped Airwars requests from explicit same-batch 403 evidence."""
+    retrieval_keys = ("airwars_endpoint", "live_page")
+    observed_403 = any(
+        (record.get("retrieval_status") or {}).get(key, {}).get("status") == 403
+        for record in records
+        for key in retrieval_keys
+    )
+    if not observed_403:
+        return 0
+    changed = 0
+    for record in records:
+        retrieval = record.get("retrieval_status") or {}
+        annotated = False
+        for key in retrieval_keys:
+            attempt = retrieval.get(key)
+            if not isinstance(attempt, dict):
+                continue
+            error = str(attempt.get("error") or "")
+            if error.startswith("host_circuit_open") and attempt.get("circuit_open_status") is None:
+                attempt["circuit_open_reason"] = "http_403_observed_for_same_airwars_host_in_batch"
+                attempt["circuit_open_status"] = 403
+                annotated = True
+        if not annotated:
+            continue
+        old_status = record.get("completeness_status")
+        finalize_status(record)
+        if old_status != record.get("completeness_status"):
+            _append_unique(record.setdefault("review_flags", []), "batch_circuit_status_inherited_from_observed_airwars_403")
+        changed += 1
+    return changed
 
 
 def _new_source_record(seed: dict[str, Any], source_id: str) -> dict[str, Any]:
@@ -326,8 +360,28 @@ class SpeedPilotRunner:
                 processed += 1
                 if max_items is not None and processed >= max_items:
                     break
+        incident_records: list[dict[str, Any]] = []
+        incident_paths: list[Path] = []
+        for sequence in self.sequences:
+            item = items[sequence]
+            path = self.root / "data" / "incidents" / f"{item['internal_id']}.json"
+            record = load_json(path, {}) or {}
+            if record:
+                incident_paths.append(path)
+                incident_records.append(record)
+        repaired = _inherit_airwars_circuit_classification(incident_records)
+        if repaired:
+            for path, record in zip(incident_paths, incident_records):
+                atomic_write_json(path, record)
+            self.save_progress()
         complete = len(set(self.progress["incident_completed_sequences"]) & set(self.sequences))
-        return {"done": complete == len(self.sequences), "processed": processed, "completed": complete, "total": len(self.sequences)}
+        return {
+            "done": complete == len(self.sequences),
+            "processed": processed,
+            "completed": complete,
+            "total": len(self.sequences),
+            "reclassified_circuit_records": repaired,
+        }
 
     def _source_seeds(self) -> tuple[dict[str, dict[str, Any]], dict[str, list[str]], dict[str, list[str]]]:
         items = self._manifest_items()
