@@ -97,6 +97,33 @@ def _inherit_airwars_circuit_classification(records: list[dict[str, Any]]) -> in
     return changed
 
 
+def _record_exact_content_duplicate_groups(source_root: Path) -> tuple[int, int]:
+    """Record identical content without merging distinct source identities."""
+    records: dict[Path, dict[str, Any]] = {}
+    by_hash: dict[str, list[Path]] = defaultdict(list)
+    for path in sorted(source_root.glob("*.json")):
+        record = load_json(path, {}) or {}
+        records[path] = record
+        digest = str(record.get("content_hash") or "")
+        if digest:
+            by_hash[digest].append(path)
+    groups = 0
+    updated = 0
+    for digest, paths in by_hash.items():
+        if len(paths) < 2:
+            continue
+        groups += 1
+        group_id = f"sha256-{digest[:24]}"
+        for path in paths:
+            record = records[path]
+            if record.get("exact_content_duplicate_group") == group_id:
+                continue
+            record["exact_content_duplicate_group"] = group_id
+            atomic_write_json(path, record)
+            updated += 1
+    return groups, updated
+
+
 def _new_source_record(seed: dict[str, Any], source_id: str) -> dict[str, Any]:
     original_url = seed["original_url"]
     record = {
@@ -727,7 +754,17 @@ class SpeedPilotRunner:
                 "exact_duplicate_relationship_count": sum(max(0, len(values) - 1) for values in exact_urls.values()),
                 "urls": {key: values for key, values in exact_urls.items() if len(values) > 1},
             })
-        return {"done": done, "processed": len(pending), "completed": completed_count, "total": len(seeds)}
+            duplicate_groups, duplicate_records_updated = _record_exact_content_duplicate_groups(self.root / "data" / "sources")
+        else:
+            duplicate_groups, duplicate_records_updated = 0, 0
+        return {
+            "done": done,
+            "processed": len(pending),
+            "completed": completed_count,
+            "total": len(seeds),
+            "exact_content_duplicate_groups": duplicate_groups,
+            "duplicate_records_updated": duplicate_records_updated,
+        }
 
     def write_report(self) -> dict[str, Any]:
         seeds, _, _ = self._source_seeds()
