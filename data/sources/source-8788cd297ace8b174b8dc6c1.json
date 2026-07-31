@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "376937"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-ah64faisal-2003939855898919127-2025-12-24-212427/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.266,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:43:34+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 80807,
+      "content_hash": "b4f6b7701458053fa49287436d4b4db17bb28bcd22bcf61d70cc4c69c6f873b5",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.266,
+      "error": null,
+      "final_url": "https://x.com/ah64faisal/status/2003939855898919127",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:43:34+00:00",
+      "status": 200,
+      "url": "https://x.com/ah64faisal/status/2003939855898919127",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "https://x.com/ah64faisal",
+  "captions": [],
+  "content_hash": "0478866d435bb176b93d9313738cd88d35120e90aef635180f8cb5d8e92992a1",
+  "content_variants": [
+    {
+      "bytes": 364,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:43:34+00:00",
+      "sha256": "0478866d435bb176b93d9313738cd88d35120e90aef635180f8cb5d8e92992a1",
+      "source_url": "https://x.com/ah64faisal/status/2003939855898919127",
+      "text": "Post\n\nPost\n\nفيصل الحمد Faisal@ah64faisal🇸🇾 سوريا،\n\nوالي دمشق بتنظيم داعش المدعو، طه الزعبي ”أبو عمر طبية“، بقبضة الأمن الداخلي في دمشق. تم تنفيذ العملية بالتنسيق مع التحالف الدولي في ريف دمشق.9:24 PM · Dec 24, 20251.6KViews15"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/ah64faisal/status/2003939855898919127",
+  "incident_ids": [
+    "airwars-387049"
+  ],
+  "incident_sequences": [
+    12
+  ],
+  "normalized_url": "https://x.com/ah64faisal/status/2003939855898919127",
+  "observed_original_urls": [
+    "https://x.com/ah64faisal/status/2003939855898919127"
+  ],
+  "original_url": "https://x.com/ah64faisal/status/2003939855898919127",
+  "page_title": "فيصل الحمد Faisal on X: \"🇸🇾 سوريا،\n\nوالي دمشق بتنظيم داعش المدعو، طه الزعبي ”أبو عمر طبية“، بقبضة الأمن الداخلي في دمشق. تم تنفيذ العملية بالتنسيق مع التحالف الدولي في ريف دمشق. https://t.co/INiwe6RFUI\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0175-december-24-2025/",
+      "airwars_source_id": "376937",
+      "incident_id": "airwars-387049",
+      "incident_sequence": 12,
+      "observed_original_url": "https://x.com/ah64faisal/status/2003939855898919127",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-24T21:24:27.000Z",
+  "publisher": "ah64faisal",
+  "publisher_ar": "ah64faisal",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:43:34+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-8788cd297ace8b174b8dc6c1",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/ah64faisal/status/2003939855898919127",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nفيصل الحمد Faisal@ah64faisal🇸🇾 سوريا،\n\nوالي دمشق بتنظيم داعش المدعو، طه الزعبي ”أبو عمر طبية“، بقبضة الأمن الداخلي في دمشق. تم تنفيذ العملية بالتنسيق مع التحالف الدولي في ريف دمشق.9:24 PM · Dec 24, 20251.6KViews15",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001876
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

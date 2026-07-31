@@ -1,0 +1,99 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/zzmlA"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.316,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:43:38+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 312320,
+      "content_hash": "a11431bb48c768f711f2a3256e4a2a943b60b47f93433254d0fdefe40f3065a4",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.316,
+      "error": null,
+      "final_url": "https://www.facebook.com/mohammad.abdulkafi.50/posts/pfbid02NJ3a4ew4otZJTqykqpqsRr8YxphvxyAaYjesWWpmoFxiUw7jXYgqKZBwqX3HD2hnl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:43:38+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/mohammad.abdulkafi.50/posts/pfbid02NJ3a4ew4otZJTqykqpqsRr8YxphvxyAaYjesWWpmoFxiUw7jXYgqKZBwqX3HD2hnl",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "Zakaria Abdel Kafi",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:43:38+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/mohammad.abdulkafi.50/posts/pfbid02NJ3a4ew4otZJTqykqpqsRr8YxphvxyAaYjesWWpmoFxiUw7jXYgqKZBwqX3HD2hnl",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/mohammad.abdulkafi.50/posts/pfbid02NJ3a4ew4otZJTqykqpqsRr8YxphvxyAaYjesWWpmoFxiUw7jXYgqKZBwqX3HD2hnl",
+  "incident_ids": [
+    "airwars-142194"
+  ],
+  "incident_sequences": [
+    80
+  ],
+  "normalized_url": "https://www.facebook.com/mohammad.abdulkafi.50/posts/pfbid02NJ3a4ew4otZJTqykqpqsRr8YxphvxyAaYjesWWpmoFxiUw7jXYgqKZBwqX3HD2hnl",
+  "observed_original_urls": [
+    "https://www.facebook.com/mohammad.abdulkafi.50/posts/pfbid02NJ3a4ew4otZJTqykqpqsRr8YxphvxyAaYjesWWpmoFxiUw7jXYgqKZBwqX3HD2hnl"
+  ],
+  "original_url": "https://www.facebook.com/mohammad.abdulkafi.50/posts/pfbid02NJ3a4ew4otZJTqykqpqsRr8YxphvxyAaYjesWWpmoFxiUw7jXYgqKZBwqX3HD2hnl",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy075-march-25-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-142194",
+      "incident_sequence": 80,
+      "observed_original_url": "https://www.facebook.com/mohammad.abdulkafi.50/posts/pfbid02NJ3a4ew4otZJTqykqpqsRr8YxphvxyAaYjesWWpmoFxiUw7jXYgqKZBwqX3HD2hnl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Zakaria Abdel Kafi",
+  "publisher_ar": "Zakaria Abdel Kafi",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:43:38+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-87a74f59a6caf3799aff7155",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/mohammad.abdulkafi.50/posts/pfbid02NJ3a4ew4otZJTqykqpqsRr8YxphvxyAaYjesWWpmoFxiUw7jXYgqKZBwqX3HD2hnl",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001017
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "376832"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-deirezzor24-2004271985824878818-2025-12-25-192413/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.307,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:42:36+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 80428,
+      "content_hash": "c38d6f1575949c410c5a74feb1897bf205c8ea96dcd596a75744314396b92184",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.307,
+      "error": null,
+      "final_url": "https://x.com/DeirEzzor24/status/2004271985824878818",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:42:36+00:00",
+      "status": 200,
+      "url": "https://x.com/DeirEzzor24/status/2004271985824878818",
+      "waiting_seconds": 0.735
+    }
+  ],
+  "author": "https://x.com/DeirEzzor24",
+  "captions": [],
+  "content_hash": "13c0a992bb68d55bb279f01f7aee1cdf944ab37fbee26a2fc475e8641be8ebb4",
+  "content_variants": [
+    {
+      "bytes": 333,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:42:36+00:00",
+      "sha256": "13c0a992bb68d55bb279f01f7aee1cdf944ab37fbee26a2fc475e8641be8ebb4",
+      "source_url": "https://x.com/DeirEzzor24/status/2004271985824878818",
+      "text": "Post\n\nPost\n\nديرالزور24@DeirEzzor24#د24:\nقسد تعتقل كلاً من \"مهدي شنان الإبراهيم ومحمد بشير المحمد العبد الذياب\" خلال حملة مداهمات في قرية #حمرة_بلاسم بريف #الرقة الشرقي.\n#أخبار_الرقة7:24 PM · Dec 25, 2025346Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/DeirEzzor24/status/2004271985824878818",
+  "incident_ids": [
+    "airwars-387048"
+  ],
+  "incident_sequences": [
+    10
+  ],
+  "normalized_url": "https://x.com/DeirEzzor24/status/2004271985824878818",
+  "observed_original_urls": [
+    "https://x.com/DeirEzzor24/status/2004271985824878818"
+  ],
+  "original_url": "https://x.com/DeirEzzor24/status/2004271985824878818",
+  "page_title": "ديرالزور24 on X: \"#د24:\nقسد تعتقل كلاً من \"مهدي شنان الإبراهيم ومحمد بشير المحمد العبد الذياب\" خلال حملة مداهمات في قرية #حمرة_بلاسم بريف #الرقة الشرقي.\n#أخبار_الرقة https://t.co/yQ403LlzCW\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0174-december-25-2025/",
+      "airwars_source_id": "376832",
+      "incident_id": "airwars-387048",
+      "incident_sequence": 10,
+      "observed_original_url": "https://x.com/DeirEzzor24/status/2004271985824878818",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-25T19:24:13.000Z",
+  "publisher": "DeirEzzor24",
+  "publisher_ar": "DeirEzzor24",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:42:36+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-802468c28740e5f5a2907f06",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/DeirEzzor24/status/2004271985824878818",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nديرالزور24@DeirEzzor24#د24:\nقسد تعتقل كلاً من \"مهدي شنان الإبراهيم ومحمد بشير المحمد العبد الذياب\" خلال حملة مداهمات في قرية #حمرة_بلاسم بريف #الرقة الشرقي.\n#أخبار_الرقة7:24 PM · Dec 25, 2025346Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001522
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

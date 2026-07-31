@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "373678"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d9%83%d8%b1%d8%af%d9%8a-%d9%84%d8%ad%d9%82%d9%88%d9%82-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 2.788,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:41:47+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 426275,
+      "content_hash": "7f106359e72755d7e392b58d5efdd24ba9787c0a8e7fa527fbaa6590ccdfe1b6",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 2.788,
+      "error": null,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fphoto%2F%3Ffbid%3D1301535345348106%26set%3Da.465676788933970",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:41:47+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/photo/?fbid=1301535345348106&set=a.465676788933970",
+      "waiting_seconds": 0.729
+    }
+  ],
+  "author": "المرصد الكردي لحقوق الإنسان",
+  "captions": [],
+  "content_hash": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+  "content_variants": [
+    {
+      "bytes": 374,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:41:47+00:00",
+      "sha256": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+      "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fphoto%2F%3Ffbid%3D1301535345348106%26set%3Da.465676788933970",
+      "text": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fphoto%2F%3Ffbid%3D1301535345348106%26set%3Da.465676788933970",
+  "incident_ids": [
+    "airwars-387044"
+  ],
+  "incident_sequences": [
+    18
+  ],
+  "normalized_url": "https://www.facebook.com/photo/?fbid=1301535345348106&set=a.465676788933970",
+  "observed_original_urls": [
+    "https://www.facebook.com/photo/?fbid=1301535345348106&set=a.465676788933970"
+  ],
+  "original_url": "https://www.facebook.com/photo/?fbid=1301535345348106&set=a.465676788933970",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0170-december-18-2025/",
+      "airwars_source_id": "373678",
+      "incident_id": "airwars-387044",
+      "incident_sequence": 18,
+      "observed_original_url": "https://www.facebook.com/photo/?fbid=1301535345348106&set=a.465676788933970",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Kurdish Observatory for Human Rights",
+  "publisher_ar": "المرصد الكردي لحقوق الإنسان",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:41:47+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-7d6b01a2664dd20a4b95eed1",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/photo/?fbid=1301535345348106&set=a.465676788933970",
+  "text_ar": "",
+  "text_original": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002146
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

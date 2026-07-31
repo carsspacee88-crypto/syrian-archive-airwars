@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "275450"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-2w-671335755998256-2025-10-08-085430/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.058,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:42:57+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 867329,
+      "content_hash": "6488f691e7b9ff50aedf5bb669daaff42af57bea6a5149dba966ad105b22b205",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.058,
+      "error": null,
+      "final_url": "https://www.facebook.com/reel/671335755998256",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:42:57+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/reel/671335755998256",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "الشهباء نيوز",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:42:57+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/reel/671335755998256",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/reel/671335755998256",
+  "incident_ids": [
+    "airwars-386623"
+  ],
+  "incident_sequences": [
+    41
+  ],
+  "normalized_url": "https://www.facebook.com/reel/671335755998256",
+  "observed_original_urls": [
+    "https://www.facebook.com/reel/671335755998256"
+  ],
+  "original_url": "https://www.facebook.com/reel/671335755998256",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0156a-september-19-2025/",
+      "airwars_source_id": "275450",
+      "incident_id": "airwars-386623",
+      "incident_sequence": 41,
+      "observed_original_url": "https://www.facebook.com/reel/671335755998256",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "8 أكتوبر 2025",
+  "publisher": "Al Shahbaa news",
+  "publisher_ar": "الشهباء نيوز",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:42:57+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-82205190377b988c007b767d",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/reel/671335755998256",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002444
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

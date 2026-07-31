@@ -1,0 +1,142 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/XhkOs"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-11: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:41:02+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-11: ordinal not in range(128)",
+      "final_url": "https://www.syriahr.com/استشهاد-مواطنين-اثنين-بقصف-جوي-إسرائي/753526/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:41:02+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/استشهاد-مواطنين-اثنين-بقصف-جوي-إسرائي/753526/",
+      "waiting_seconds": 0.738
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.586,
+          "error": "http_429",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:41:04+00:00",
+          "status": 429
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 55507,
+      "content_hash": "5be976a8e1fe15fa28ebe55d28c68d942ccbfa0d4a960e74b162da8d429c27db",
+      "content_type": "text/html",
+      "elapsed_seconds": 0.586,
+      "error": "http_429",
+      "final_url": "https://archive.is/XhkOs",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:41:04+00:00",
+      "status": 429,
+      "url": "https://archive.is/XhkOs",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.044,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:41:14+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 3,
+      "content_hash": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "content_type": "application/json",
+      "elapsed_seconds": 10.044,
+      "error": null,
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D8%A7%D8%AB%D9%86%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%2F753526%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "lookup_result": "no_capture",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:41:14+00:00",
+      "status": 200,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D8%A7%D8%AB%D9%86%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%2F753526%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "SOHR news",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-11: ordinal not in range(128)",
+  "final_redirected_url": "https://www.syriahr.com/استشهاد-مواطنين-اثنين-بقصف-جوي-إسرائي/753526/",
+  "incident_ids": [
+    "airwars-276024"
+  ],
+  "incident_sequences": [
+    85
+  ],
+  "normalized_url": "https://www.syriahr.com/استشهاد-مواطنين-اثنين-بقصف-جوي-إسرائي/753526/",
+  "observed_original_urls": [
+    "https://www.syriahr.com/استشهاد-مواطنين-اثنين-بقصف-جوي-إسرائي/753526/"
+  ],
+  "original_url": "https://www.syriahr.com/استشهاد-مواطنين-اثنين-بقصف-جوي-إسرائي/753526/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy074-march-17-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-276024",
+      "incident_sequence": 85,
+      "observed_original_url": "https://www.syriahr.com/استشهاد-مواطنين-اثنين-بقصف-جوي-إسرائي/753526/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "SOHR news",
+  "publisher_ar": "SOHR news",
+  "retrieval_status": "no_archive_capture",
+  "retrieved_at": "2026-07-31T18:41:02+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-7b61024dfb5aa6d1610090d6",
+  "source_type": "news_article",
+  "stable_id_basis": "https://www.syriahr.com/استشهاد-مواطنين-اثنين-بقصف-جوي-إسرائي/753526/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

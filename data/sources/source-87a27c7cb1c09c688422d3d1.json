@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "298879"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-soheb209-1902752831649521812-2025-03-20-160321/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.337,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:43:37+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 80469,
+      "content_hash": "3097ce9c73a5a404633581f0cdb3797a18e67590ce48a756f6057e55a6c7eca6",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.337,
+      "error": null,
+      "final_url": "https://x.com/SOHEB209/status/1902752831649521812",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:43:37+00:00",
+      "status": 200,
+      "url": "https://x.com/SOHEB209/status/1902752831649521812",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "https://x.com/SOHEB209",
+  "captions": [],
+  "content_hash": "9ddd5c2c1daa6792ee1a99dc7d6b9fb86ef023526f218c4b13b597073c37df45",
+  "content_variants": [
+    {
+      "bytes": 261,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:43:37+00:00",
+      "sha256": "9ddd5c2c1daa6792ee1a99dc7d6b9fb86ef023526f218c4b13b597073c37df45",
+      "source_url": "https://x.com/SOHEB209/status/1902752831649521812",
+      "text": "Post\n\nPost\n\nصهيب اليعربي@SOHEB209#الرقة\nميلـ.ـيشـ.ـيا PYD/PKK تعتقل رأفت رحمون وتدعي انه أمير في تنظـ.ـيم الدولة بمدينة #الطبقة غرب الرقة4:03 PM · Mar 20, 20251.4KViews1251"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SOHEB209/status/1902752831649521812",
+  "incident_ids": [
+    "airwars-379488"
+  ],
+  "incident_sequences": [
+    83
+  ],
+  "normalized_url": "https://x.com/SOHEB209/status/1902752831649521812",
+  "observed_original_urls": [
+    "https://x.com/SOHEB209/status/1902752831649521812"
+  ],
+  "original_url": "https://x.com/SOHEB209/status/1902752831649521812",
+  "page_title": "صهيب اليعربي on X: \"#الرقة\nميلـ.ـيشـ.ـيا PYD/PKK تعتقل رأفت رحمون وتدعي انه أمير في تنظـ.ـيم الدولة بمدينة #الطبقة غرب الرقة https://t.co/7DxBvLSHiw\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0137-march-20-2025/",
+      "airwars_source_id": "298879",
+      "incident_id": "airwars-379488",
+      "incident_sequence": 83,
+      "observed_original_url": "https://x.com/SOHEB209/status/1902752831649521812",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-03-20T16:03:21.000Z",
+  "publisher": "SOHEB209",
+  "publisher_ar": "SOHEB209",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:43:37+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-87a27c7cb1c09c688422d3d1",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SOHEB209/status/1902752831649521812",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nصهيب اليعربي@SOHEB209#الرقة\nميلـ.ـيشـ.ـيا PYD/PKK تعتقل رأفت رحمون وتدعي انه أمير في تنظـ.ـيم الدولة بمدينة #الطبقة غرب الرقة4:03 PM · Mar 20, 20251.4KViews1251",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001551
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

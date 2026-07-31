@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "301456"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-jaleannews-1917866696318087275-2025-05-01-090027/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.271,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:43:53+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 55752,
+      "content_hash": "161dd15660ae26c8e9f0f85729a54f826ee7cbaf3d30c67cf252d8be02499478",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.271,
+      "error": null,
+      "final_url": "https://x.com/jaleannews/status/1917866696318087275",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:43:53+00:00",
+      "status": 200,
+      "url": "https://x.com/jaleannews/status/1917866696318087275",
+      "waiting_seconds": 0.74
+    }
+  ],
+  "author": "jaleannews",
+  "captions": [],
+  "content_hash": "e2cd4de130bce8574008511c33fb12637c2f93a2e597aa1077a09198ba5560df",
+  "content_variants": [
+    {
+      "bytes": 29,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:43:53+00:00",
+      "sha256": "e2cd4de130bce8574008511c33fb12637c2f93a2e597aa1077a09198ba5560df",
+      "source_url": "https://x.com/jaleannews/status/1917866696318087275",
+      "text": "PostLog inSign upPost70Views4"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/jaleannews/status/1917866696318087275",
+  "incident_ids": [
+    "airwars-381554"
+  ],
+  "incident_sequences": [
+    75
+  ],
+  "normalized_url": "https://x.com/jaleannews/status/1917866696318087275",
+  "observed_original_urls": [
+    "https://x.com/jaleannews/status/1917866696318087275"
+  ],
+  "original_url": "https://x.com/jaleannews/status/1917866696318087275",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0140-may-1-2025/",
+      "airwars_source_id": "301456",
+      "incident_id": "airwars-381554",
+      "incident_sequence": 75,
+      "observed_original_url": "https://x.com/jaleannews/status/1917866696318087275",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "1 مايو 2025",
+  "publisher": "jaleannews",
+  "publisher_ar": "jaleannews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:43:53+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-8a4751933bae2f80ba409887",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/jaleannews/status/1917866696318087275",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost70Views4",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001117
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

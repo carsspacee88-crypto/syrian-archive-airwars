@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "315395"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a7%d9%84%d8%ae%d8%a7%d8%a8%d9%88%d8%b1-pfbid02bybwqszbsbx3kcm2kymnkcx4kzgu6tkeoruipmea5w8mvm2pnggvvffh8w2fguutl-2025-10-25-090000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.71,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:41:02+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 682696,
+      "content_hash": "4b5cfe6d0087f46ff337541dabd7990f8b653a9de3f1a898bc7f3c40169a12f7",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.71,
+      "error": null,
+      "final_url": "https://www.facebook.com/alkhabour2011/posts/pfbid02BYbWQSZbSbx3Kcm2kymNKcx4kZgU6TkeoRUiPmeA5w8MVM2PNggVvfFh8w2FGuUTl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:41:02+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/alkhabour2011/posts/pfbid02BYbWQSZbSbx3Kcm2kymNKcx4kZgU6TkeoRUiPmeA5w8MVM2PNggVvfFh8w2FGuUTl",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "الخابور",
+  "captions": [],
+  "content_hash": "32297c9b1b3d1e1f7270b53f0e1ae404f181995b4672c543ca8e0057506e2c55",
+  "content_variants": [
+    {
+      "bytes": 525,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:41:02+00:00",
+      "sha256": "32297c9b1b3d1e1f7270b53f0e1ae404f181995b4672c543ca8e0057506e2c55",
+      "source_url": "https://www.facebook.com/alkhabour2011/posts/pfbid02BYbWQSZbSbx3Kcm2kymNKcx4kZgU6TkeoRUiPmeA5w8MVM2PNggVvfFh8w2FGuUTl",
+      "text": "الخابور - #الخابور #ديرالزور\nمراسل الخابور: اعتقلت قوات...\nFacebook‎الخابور‎'s Post\n\nالخابورOctober 25, 2025 · Shared with Public#الخابور #ديرالزورمراسل الخابور: اعتقلت قوات التحالف الدولي الشاب محمود الفنخ من مدينة #الشحيل، وقامت بنقله إلى حقل العمر في ريف ديرالزور الشرقي.All reactions:982 commentsLikeCommentMost relevant﻿Kald Hsenتم39w"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/alkhabour2011/posts/pfbid02BYbWQSZbSbx3Kcm2kymNKcx4kZgU6TkeoRUiPmeA5w8MVM2PNggVvfFh8w2FGuUTl",
+  "incident_ids": [
+    "airwars-386630"
+  ],
+  "incident_sequences": [
+    31
+  ],
+  "normalized_url": "https://www.facebook.com/alkhabour2011/posts/pfbid02BYbWQSZbSbx3Kcm2kymNKcx4kZgU6TkeoRUiPmeA5w8MVM2PNggVvfFh8w2FGuUTl",
+  "observed_original_urls": [
+    "https://www.facebook.com/alkhabour2011/posts/pfbid02BYbWQSZbSbx3Kcm2kymNKcx4kZgU6TkeoRUiPmeA5w8MVM2PNggVvfFh8w2FGuUTl"
+  ],
+  "original_url": "https://www.facebook.com/alkhabour2011/posts/pfbid02BYbWQSZbSbx3Kcm2kymNKcx4kZgU6TkeoRUiPmeA5w8MVM2PNggVvfFh8w2FGuUTl",
+  "page_title": "الخابور - #الخابور #ديرالزور\nمراسل الخابور: اعتقلت قوات... Facebook Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0162-october-25-2025/",
+      "airwars_source_id": "315395",
+      "incident_id": "airwars-386630",
+      "incident_sequence": 31,
+      "observed_original_url": "https://www.facebook.com/alkhabour2011/posts/pfbid02BYbWQSZbSbx3Kcm2kymNKcx4kZgU6TkeoRUiPmeA5w8MVM2PNggVvfFh8w2FGuUTl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "25 أكتوبر 2025",
+  "publisher": "Khabur",
+  "publisher_ar": "الخابور",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:41:02+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-7b247e3d40e95b5d2c5d123d",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/alkhabour2011/posts/pfbid02BYbWQSZbSbx3Kcm2kymNKcx4kZgU6TkeoRUiPmeA5w8MVM2PNggVvfFh8w2FGuUTl",
+  "text_ar": "",
+  "text_original": "الخابور - #الخابور #ديرالزور\nمراسل الخابور: اعتقلت قوات...\nFacebook‎الخابور‎'s Post\n\nالخابورOctober 25, 2025 · Shared with Public#الخابور #ديرالزورمراسل الخابور: اعتقلت قوات التحالف الدولي الشاب محمود الفنخ من مدينة #الشحيل، وقامت بنقله إلى حقل العمر في ريف ديرالزور الشرقي.All reactions:982 commentsLikeCommentMost relevant﻿Kald Hsenتم39w",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003755
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
