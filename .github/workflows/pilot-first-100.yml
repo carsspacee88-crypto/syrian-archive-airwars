@@ -16,7 +16,7 @@ permissions:
 
 concurrency:
   group: first-100-complete-content
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   collect-translate-build-validate:
@@ -83,11 +83,14 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          started=$(date +%s)
           (cd _site && zip -q -r -X /tmp/first-100-site.zip .)
           python scripts/finalize_first_100_measurements.py \
             --project-root . \
             --site-root _site \
             --compressed-artifact /tmp/first-100-site.zip
+          duration=$(( $(date +%s) - started ))
+          python scripts/record_first_100_stage.py --stage artifact_generation --duration-seconds "$duration"
           cp data/reports/first-100-*.json data/reports/first-100-summary.md _site/data/reports/
 
       - name: التحقق الكامل وقياس زمنه

@@ -45,6 +45,11 @@ SOCIAL_DOMAINS = {
     "youtube.com": "youtube_page",
     "youtu.be": "youtube_page",
 }
+LOGIN_WALL_MARKERS = (
+    "log in to continue", "login to continue", "sign in to continue",
+    "log into facebook", "log in to facebook", "تسجيل الدخول للمتابعة",
+    "سجّل الدخول للمتابعة", "قم بتسجيل الدخول للمتابعة",
+)
 
 
 def _exact_pilot_sequence(value: Any) -> int:
@@ -118,15 +123,29 @@ def classify_source_type(url: str, publisher: str = "") -> str:
 
 def detect_language(text: str, declared: str = "") -> str:
     declared_lower = clean_text(declared).casefold()
-    if "arab" in declared_lower or "العرب" in declared_lower:
-        return "ar"
-    if "english" in declared_lower or declared_lower == "en":
-        return "en"
+    declared_codes = (
+        (("arab", "العرب"), "ar"), (("english",), "en"), (("turkish", "türk"), "tr"),
+        (("kurdish", "kurdî"), "ku"), (("persian", "farsi"), "fa"),
+        (("hebrew",), "he"), (("russian",), "ru"), (("french",), "fr"),
+        (("spanish",), "es"), (("german",), "de"),
+    )
+    for tokens, code in declared_codes:
+        if any(token in declared_lower for token in tokens) or declared_lower == code:
+            return code
     letters = re.findall(r"[^\W\d_]", text, flags=re.UNICODE)
     if not letters:
         return "und"
     arabic = sum(1 for char in letters if "\u0600" <= char <= "\u06ff" or "\u0750" <= char <= "\u077f")
-    return "ar" if arabic / len(letters) >= 0.35 else "und"
+    if arabic / len(letters) >= 0.35:
+        return "ar"
+    hebrew = sum(1 for char in letters if "\u0590" <= char <= "\u05ff")
+    if hebrew / len(letters) >= 0.35:
+        return "he"
+    cyrillic = sum(1 for char in letters if "\u0400" <= char <= "\u04ff")
+    if cyrillic / len(letters) >= 0.35:
+        return "ru"
+    latin = sum(1 for char in letters if ("A" <= char <= "Z") or ("a" <= char <= "z"))
+    return "en" if latin / len(letters) >= 0.7 else "und"
 
 
 def _strip_input_marker(value: str) -> str:
@@ -677,7 +696,9 @@ class PilotRunner:
         record["retrieved_at"] = result.retrieved_at
         record["final_redirected_url"] = result.final_url
         retrieval_provenance = "source_live"
-        if not result.ok:
+        live_preview = result.body[:128 * 1024].decode("utf-8", errors="ignore").casefold() if result.body else ""
+        access_wall = source_type.startswith("public_") and any(marker in live_preview for marker in LOGIN_WALL_MARKERS)
+        if not result.ok or access_wall:
             for archive_url in record.get("archived_urls") or []:
                 archive_result = self.source_fetcher.fetch(archive_url, accept="text/html,application/pdf,text/plain;q=0.9,*/*;q=0.1")
                 archive_metadata = archive_result.metadata()
@@ -687,9 +708,10 @@ class PilotRunner:
                 if archive_result.ok:
                     result = archive_result
                     retrieval_provenance = "listed_archive"
+                    access_wall = False
                     record["retrieved_at"] = result.retrieved_at
                     break
-        if not result.ok and not record["text_original"]:
+        if (not result.ok or access_wall) and not record["text_original"]:
             capture = self.source_fetcher.latest_wayback_capture(record["original_url"])
             lookup = deepcopy(self.source_fetcher.last_wayback_lookup or {})
             lookup["attempt_role"] = "wayback_lookup"
@@ -704,15 +726,16 @@ class PilotRunner:
                 if archive_result.ok:
                     result = archive_result
                     retrieval_provenance = "wayback_capture"
+                    access_wall = False
                     _append_unique(record["archived_urls"], capture["replay_url"])
                     record["retrieved_at"] = result.retrieved_at
             elif lookup.get("ok"):
                 record["retrieval_status"] = "no_archive_capture"
             else:
                 record["retrieval_status"] = "archive_lookup_failed"
-        if not result.ok:
+        if not result.ok or access_wall:
             if record.get("retrieval_status") not in {"no_archive_capture", "archive_lookup_failed"}:
-                record["retrieval_status"] = _classify_fetch_failure(result.status, result.error, result.body.decode("utf-8", errors="ignore"))
+                record["retrieval_status"] = "login_required" if access_wall else _classify_fetch_failure(result.status, result.error, result.body.decode("utf-8", errors="ignore"))
             record["failure_reason"] = result.error or record["retrieval_status"]
             if record["text_original"]:
                 record["preservation_status"] = "preserved_in_airwars_incident_page"
@@ -721,6 +744,7 @@ class PilotRunner:
         record["final_redirected_url"] = result.final_url
         content_type = result.content_type.casefold()
         extracted: dict[str, Any]
+        extraction_started = time.monotonic()
         try:
             if "pdf" in content_type or source_type == "pdf_document":
                 extracted = _extract_pdf(result.body)
@@ -747,7 +771,9 @@ class PilotRunner:
             record["extraction_status"] = "parsing_failed"
             record["failure_reason"] = f"{type(error).__name__}:{error}"
             record["review_flags"].append("source_parser_failed")
+            record.setdefault("timing", {})["text_extraction_seconds"] = round(time.monotonic() - extraction_started, 6)
             return
+        record.setdefault("timing", {})["text_extraction_seconds"] = round(time.monotonic() - extraction_started, 6)
         record["page_title"] = extracted.get("title") or record["page_title"]
         record["author"] = extracted.get("author") or record["author"]
         record["publication_date"] = extracted.get("publication_date") or record["publication_date"]
@@ -935,6 +961,22 @@ class PilotRunner:
         incidents = [load_json(self.root / "data" / "incidents" / f"{item['internal_id']}.json", {}) for item in manifest["incidents"]]
         source_paths = sorted((self.root / "data" / "sources").glob("*.json"))
         sources = [load_json(path, {}) for path in source_paths]
+        for source in sources:
+            if not str(source.get("source_type") or "").startswith("public_"):
+                continue
+            live_variants = [item for item in source.get("content_variants") or [] if item.get("provenance") == "source_live"]
+            login_variants = [item for item in live_variants if any(marker in str(item.get("text") or "").casefold() for marker in LOGIN_WALL_MARKERS)]
+            if not login_variants:
+                continue
+            source["review_flags"] = list(dict.fromkeys((source.get("review_flags") or []) + ["live_response_was_login_wall"]))
+            if source.get("content_hash") in {item.get("sha256") for item in login_variants}:
+                preserved = next((item for item in source.get("content_variants") or [] if item.get("provenance") in {"airwars_live", "airwars_archive"} and item not in login_variants), None)
+                source["text_original"] = preserved.get("text", "") if preserved else ""
+                source["content_hash"] = preserved.get("sha256") if preserved else None
+            if source.get("retrieval_status") == "successful" and not any(item.get("provenance") in {"listed_archive", "wayback_capture"} for item in source.get("content_variants") or []):
+                source["retrieval_status"] = "login_required"
+                source["failure_reason"] = "live_response_was_login_wall"
+            atomic_write_json(self.root / "data" / "sources" / f"{source['source_id']}.json", source)
         content_groups: dict[str, list[dict[str, Any]]] = defaultdict(list)
         for source in sources:
             if source.get("content_hash"):
@@ -1031,10 +1073,29 @@ class PilotRunner:
         incident_values = [float(row.get("duration_seconds") or 0) for row in self.progress["incident_timings"]]
         source_values = [float(row.get("duration_seconds") or 0) for row in self.progress["source_timings"]]
         translation_chunks: list[float] = []
+        incident_extraction = 0.0
+        source_extraction = 0.0
+        persistent_waiting = 0.0
+        persistent_retries = 0
+        persistent_timeouts = 0
+        persistent_blocked = 0
         for folder in ("incidents", "sources"):
             for path in (self.root / "data" / folder).glob("*.json"):
                 record = load_json(path, {})
                 translation_chunks.extend(float(chunk.get("duration_seconds") or 0) for chunk in record.get("translation", {}).get("chunks", []))
+                if folder == "incidents":
+                    incident_extraction += float(record.get("timing", {}).get("text_extraction_seconds") or 0)
+                    attempts = [item for item in (record.get("retrieval_status") or {}).values() if isinstance(item, dict)]
+                else:
+                    source_extraction += float(record.get("timing", {}).get("text_extraction_seconds") or 0)
+                    attempts = [item for item in record.get("attempt_history") or [] if isinstance(item, dict)]
+                for attempt in attempts:
+                    persistent_waiting += float(attempt.get("waiting_seconds") or 0)
+                    persistent_retries += max(0, int(attempt.get("attempts") or 1) - 1)
+                    status = attempt.get("status")
+                    error = str(attempt.get("error") or "").casefold()
+                    persistent_timeouts += int("timeout" in error or "timed out" in error)
+                    persistent_blocked += int(status in {403, 429, 451})
         finish = utc_now()
         start_text = self.progress.get("started_at")
         try:
@@ -1063,11 +1124,14 @@ class PilotRunner:
             },
             "translation": {"chunk_count": len(translation_chunks), "total_seconds": round(sum(translation_chunks), 3)},
             "active_collection_seconds": round(sum(incident_values) + sum(source_values), 3),
+            "text_extraction_seconds": round(incident_extraction + source_extraction, 3),
+            "incident_text_extraction_seconds": round(incident_extraction, 3),
+            "source_text_extraction_seconds": round(source_extraction, 3),
             "retrieval": {
-                "waiting_and_rate_limit_seconds": round(self.incident_fetcher.total_waiting_seconds + self.source_fetcher.total_waiting_seconds + self.translator.waiting_seconds, 3),
-                "retries": self.incident_fetcher.total_retries + self.source_fetcher.total_retries + self.translator.retry_count,
-                "timeouts": sum(row.get("status") == "timed_out" for row in self.progress["source_timings"]),
-                "blocked_requests": sum(row.get("status") == "blocked" for row in self.progress["source_timings"]),
+                "waiting_and_rate_limit_seconds": round(persistent_waiting + self.translator.waiting_seconds, 3),
+                "retries": persistent_retries + self.translator.retry_count,
+                "timeouts": persistent_timeouts,
+                "blocked_requests": persistent_blocked,
             },
         }
         atomic_write_json(self.root / "data" / "reports" / "first-100-timing.json", report)
@@ -1098,9 +1162,10 @@ class PilotRunner:
         summary = load_json(self.root / "data" / "reports" / "first-100-summary.json", {})
         timing = load_json(self.root / "data" / "reports" / "first-100-timing.json", {})
         sources = [load_json(path, {}) for path in (self.root / "data" / "sources").glob("*.json")]
+        incidents = [load_json(path, {}) for path in (self.root / "data" / "incidents").glob("*.json") if 1 <= int((load_json(path, {}) or {}).get("legacy_sequence") or 0) <= 100]
         relationships = summary.get("sources", {}).get("relationships", 0)
-        original_bytes = sum(len((item.get("text_original") or "").encode("utf-8")) for item in sources)
-        arabic_bytes = sum(len((item.get("text_ar") or "").encode("utf-8")) for item in sources)
+        original_bytes = sum(len((item.get("text_original") or "").encode("utf-8")) for item in sources) + sum(len((item.get("narrative_original") or "").encode("utf-8")) for item in incidents)
+        arabic_bytes = sum(len((item.get("text_ar") or "").encode("utf-8")) for item in sources) + sum(len((item.get("narrative_ar") or "").encode("utf-8")) for item in incidents)
         json_bytes = sum(path.stat().st_size for folder in ("incidents", "sources", "media", "relationships") for path in (self.root / "data" / folder).glob("*.json"))
         source_count = max(1, len(sources))
         incident_mean = float(timing.get("incident", {}).get("mean_seconds") or 0)
@@ -1143,6 +1208,17 @@ class PilotRunner:
             "sample_size": 100,
             "warning": "The first 100 incidents may not represent all 8,114 incidents; estimates are scenarios, not promises.",
             "method": "Low uses median timing and 0.75x bytes; central uses means; high uses P90 timing and 1.5x bytes, adjusted for duplicate-source rate.",
+            "sample_basis": {
+                "unique_sources": source_count,
+                "source_relationships": relationships,
+                "duplicate_source_relationship_rate": round(max(0.0, 1.0 - source_count / max(1, relationships)), 4),
+                "source_retrieval_success_rate": round(sum(item.get("retrieval_status") == "successful" for item in sources) / source_count, 4),
+                "source_text_success_rate": round(sum(bool(item.get("text_original")) for item in sources) / source_count, 4),
+                "source_language_distribution": dict(Counter(item.get("text_original_language") or "und" for item in sources)),
+                "incident_language_distribution": dict(Counter(item.get("narrative_original_language") or "und" for item in incidents)),
+                "original_text_bytes": original_bytes,
+                "arabic_translation_bytes": arabic_bytes,
+            },
             "projections": projections,
         })
 
