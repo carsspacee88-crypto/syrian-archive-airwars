@@ -21,7 +21,7 @@ from lxml import html
 
 from . import PILOT_PARSER_VERSION, PILOT_SCHEMA_VERSION, TRANSLATION_VERSION
 from .collector import collect_one
-from .fetcher import RespectfulFetcher
+from .fetcher import FetchResult, RespectfulFetcher
 from .io_utils import atomic_write_json, clean_text, load_json, sha256_bytes, sha256_text, utc_now
 from .legacy import LegacyArchive
 
@@ -475,6 +475,36 @@ class PilotRunner:
         self.incident_fetcher = RespectfulFetcher(delay_seconds=delay, timeout_seconds=timeout, retries=retries)
         self.source_fetcher = RespectfulFetcher(delay_seconds=max(0.5, delay), timeout_seconds=min(timeout, 20.0), retries=max(1, min(retries, 2)), max_bytes=25 * 1024 * 1024)
         self.translator = ArabicTranslator(model=os.environ.get("OPENAI_TRANSLATION_MODEL", TRANSLATION_MODEL))
+        self.source_host_failures: Counter[str] = Counter()
+        self.suppressed_source_hosts: set[str] = set()
+
+    def _source_fetch(self, url: str, accept: str, attempt_role: str) -> FetchResult:
+        host = _host(url)
+        if host in self.suppressed_source_hosts:
+            return FetchResult(
+                url=url,
+                final_url=url,
+                status=None,
+                content_type="",
+                body=b"",
+                retrieved_at=utc_now(),
+                elapsed_seconds=0.0,
+                error="host_circuit_open_after_repeated_block_or_timeout",
+                attempts=0,
+                attempt_history=[{"attempt": 0, "result": "host_circuit_open", "host": host, "attempt_role": attempt_role}],
+            )
+        return self.source_fetcher.fetch(url, accept=accept)
+
+    def _note_source_host_failure(self, url: str, failed: bool) -> None:
+        host = _host(url)
+        if not host:
+            return
+        if failed:
+            self.source_host_failures[host] += 1
+            if self.source_host_failures[host] >= 3:
+                self.suppressed_source_hosts.add(host)
+        else:
+            self.source_host_failures[host] = 0
 
     def save_progress(self) -> None:
         self.progress["updated_at"] = utc_now()
@@ -688,7 +718,8 @@ class PilotRunner:
                 "attempted_at": utc_now(), "url": record["original_url"], "result": "not_downloaded_by_media_policy"
             })
             return
-        result = self.source_fetcher.fetch(record["original_url"], accept="text/html,application/pdf,text/plain;q=0.9,*/*;q=0.1")
+        accept = "text/html,application/pdf,text/plain;q=0.9,*/*;q=0.1"
+        result = self._source_fetch(record["original_url"], accept, "live_source")
         metadata = result.metadata()
         metadata["ok"] = result.ok
         metadata["attempt_role"] = "live_source"
@@ -698,13 +729,18 @@ class PilotRunner:
         retrieval_provenance = "source_live"
         live_preview = result.body[:128 * 1024].decode("utf-8", errors="ignore").casefold() if result.body else ""
         access_wall = source_type.startswith("public_") and any(marker in live_preview for marker in LOGIN_WALL_MARKERS)
+        live_failure = (not result.ok) or access_wall
+        live_taxonomy = "login_required" if access_wall else _classify_fetch_failure(result.status, result.error, live_preview)
+        self._note_source_host_failure(record["original_url"], live_failure and live_taxonomy in {"blocked", "timed_out", "login_required", "unavailable"})
         if not result.ok or access_wall:
             for archive_url in record.get("archived_urls") or []:
-                archive_result = self.source_fetcher.fetch(archive_url, accept="text/html,application/pdf,text/plain;q=0.9,*/*;q=0.1")
+                archive_result = self._source_fetch(archive_url, accept, "listed_archive")
                 archive_metadata = archive_result.metadata()
                 archive_metadata["ok"] = archive_result.ok
                 archive_metadata["attempt_role"] = "listed_archive"
                 record["attempt_history"].append(archive_metadata)
+                archive_taxonomy = _classify_fetch_failure(archive_result.status, archive_result.error)
+                self._note_source_host_failure(archive_url, (not archive_result.ok) and archive_taxonomy in {"blocked", "timed_out", "unavailable"})
                 if archive_result.ok:
                     result = archive_result
                     retrieval_provenance = "listed_archive"
@@ -712,12 +748,18 @@ class PilotRunner:
                     record["retrieved_at"] = result.retrieved_at
                     break
         if (not result.ok or access_wall) and not record["text_original"]:
-            capture = self.source_fetcher.latest_wayback_capture(record["original_url"])
-            lookup = deepcopy(self.source_fetcher.last_wayback_lookup or {})
+            if "web.archive.org" in self.suppressed_source_hosts:
+                capture = None
+                lookup = {"ok": False, "error": "host_circuit_open_after_repeated_block_or_timeout", "retrieved_at": utc_now()}
+            else:
+                capture = self.source_fetcher.latest_wayback_capture(record["original_url"])
+                lookup = deepcopy(self.source_fetcher.last_wayback_lookup or {})
+                lookup_taxonomy = _classify_fetch_failure(lookup.get("status"), lookup.get("error"))
+                self._note_source_host_failure("https://web.archive.org/", (not lookup.get("ok")) and lookup_taxonomy in {"blocked", "timed_out", "unavailable"})
             lookup["attempt_role"] = "wayback_lookup"
             record["attempt_history"].append(lookup)
             if capture:
-                archive_result = self.source_fetcher.fetch(capture["replay_url"], accept="text/html,application/pdf,text/plain;q=0.9,*/*;q=0.1")
+                archive_result = self._source_fetch(capture["replay_url"], accept, "wayback_capture")
                 archive_metadata = archive_result.metadata()
                 archive_metadata["ok"] = archive_result.ok
                 archive_metadata["attempt_role"] = "wayback_capture"

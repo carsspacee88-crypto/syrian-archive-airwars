@@ -62,8 +62,8 @@ jobs:
             --legacy-zip /tmp/syrian-archive-site.zip \
             --output-root . \
             --delay 0.75 \
-            --timeout 25 \
-            --retries 2
+            --timeout 10 \
+            --retries 1
 
       - name: توليد التقارير العامة والخريطة
         run: python scripts/generate_reports.py --legacy-zip /tmp/syrian-archive-site.zip --output-root .
