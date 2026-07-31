@@ -176,6 +176,31 @@ def _append_unique(items: list[Any], value: Any, key: Callable[[Any], Any] | Non
         items.append(value)
 
 
+def _record_exact_url_observations(
+    exact_urls: dict[str, list[str]],
+    legacy_seeds: list[dict[str, Any]],
+    normalized_seeds: list[dict[str, Any]],
+) -> list[dict[str, Any]]:
+    """Count each historical source row once, excluding its normalized mirror."""
+    legacy_keys: set[tuple[str, str]] = set()
+    for seed in legacy_seeds:
+        original_url = seed.get("original_url") or ""
+        normalized_url = normalize_source_url(original_url)
+        if not normalized_url:
+            continue
+        legacy_keys.add((normalized_url, str(seed.get("airwars_source_id") or "")))
+        exact_urls.setdefault(normalized_url, []).append(original_url)
+    for seed in normalized_seeds:
+        original_url = seed.get("original_url") or ""
+        normalized_url = normalize_source_url(original_url)
+        if not normalized_url:
+            continue
+        key = (normalized_url, str(seed.get("airwars_source_id") or ""))
+        if key not in legacy_keys:
+            exact_urls.setdefault(normalized_url, []).append(original_url)
+    return legacy_seeds + normalized_seeds
+
+
 def _legacy_source_seed(row: dict[str, Any]) -> dict[str, Any]:
     return {
         "airwars_source_id": str(row.get("معرّف المصدر") or ""),
@@ -739,20 +764,20 @@ class PilotRunner:
                 manifest_item = load_json(self.manifest_path, {})["incidents"][sequence - 1]
                 incident_id = manifest_item["internal_id"]
                 normalized = load_json(self.root / "data" / "incidents" / f"{incident_id}.json", {})
-                source_seeds = [
+                legacy_seeds = [
                     _legacy_source_seed(raw)
                     for raw in archive.case_data(sequence).get("sources", [])
                 ]
-                source_seeds.extend(
+                normalized_seeds = [
                     _normalized_source_seed(raw)
                     for raw in normalized.get("sources") or []
-                )
+                ]
+                source_seeds = _record_exact_url_observations(exact_urls, legacy_seeds, normalized_seeds)
                 for seed in source_seeds:
                     original_url = seed["original_url"]
                     if not original_url:
                         continue
                     source_id = stable_source_id(original_url)
-                    exact_urls[normalize_source_url(original_url)].append(original_url)
                     if source_id not in records:
                         records[source_id] = {
                             "schema_version": PILOT_SCHEMA_VERSION,

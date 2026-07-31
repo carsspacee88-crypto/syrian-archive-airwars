@@ -5,7 +5,7 @@ from unittest.mock import patch
 
 from archive_pipeline.normalize import apply_page_extraction, build_legacy_record, finalize_status
 from archive_pipeline.parser import parse_incident_html
-from archive_pipeline.pilot import ArabicTranslator, _exact_pilot_sequence, normalize_source_url, stable_source_id
+from archive_pipeline.pilot import ArabicTranslator, _exact_pilot_sequence, _record_exact_url_observations, normalize_source_url, stable_source_id
 from archive_pipeline.reports import coordinate_reasons
 
 
@@ -67,6 +67,21 @@ class PilotTests(unittest.TestCase):
         right = "https://example.com/a?b=1"
         self.assertEqual(normalize_source_url(left), right)
         self.assertEqual(stable_source_id(left), stable_source_id(right))
+
+    def test_exact_url_count_excludes_normalized_legacy_mirror(self) -> None:
+        exact_urls: dict[str, list[str]] = {}
+        legacy = [
+            {"original_url": "https://example.org/a", "airwars_source_id": "11"},
+            {"original_url": "https://example.org/a", "airwars_source_id": "12"},
+        ]
+        normalized = [
+            {"original_url": "https://example.org/a#fragment", "airwars_source_id": "11"},
+            {"original_url": "https://example.org/b", "airwars_source_id": "13"},
+        ]
+        combined = _record_exact_url_observations(exact_urls, legacy, normalized)
+        self.assertEqual(len(combined), 4)
+        self.assertEqual(len(exact_urls["https://example.org/a"]), 2)
+        self.assertEqual(exact_urls["https://example.org/b"], ["https://example.org/b"])
 
     def test_translation_chunks_are_complete_and_ordered(self) -> None:
         text = "فقرة أولى\n\n" + ("x" * 8000) + "\n\nفقرة أخيرة"
