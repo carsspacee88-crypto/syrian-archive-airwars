@@ -27,6 +27,11 @@ BINARY_MEDIA_SUFFIXES = {
     ".jpg", ".jpeg", ".png", ".gif", ".webp", ".avif", ".tif", ".tiff",
     ".mp4", ".mov", ".avi", ".mkv", ".webm", ".mp3", ".wav", ".ogg",
 }
+PILOT_SOURCE_STATUSES = {
+    "successful", "blocked", "timed_out", "not_found", "gone", "login_required",
+    "archive_lookup_failed", "no_archive_capture", "parsing_failed",
+    "unsupported_content_type", "unavailable", "pending_manual_review",
+}
 
 
 class Validation:
@@ -261,6 +266,153 @@ def _validate_no_media_binaries(validation: Validation, project_root: Path) -> N
     validation.checks["media_binary_policy"] = {"binary_files_found": len(found)}
 
 
+def _schema_errors(instance: Any, schema_path: Path) -> list[str]:
+    from jsonschema import Draft202012Validator, FormatChecker
+
+    schema = json.loads(schema_path.read_text(encoding="utf-8"))
+    Draft202012Validator.check_schema(schema)
+    validator = Draft202012Validator(schema, format_checker=FormatChecker())
+    return [
+        f"{'/'.join(str(part) for part in error.absolute_path) or '<root>'}: {error.message}"
+        for error in sorted(validator.iter_errors(instance), key=lambda item: list(item.absolute_path))
+    ]
+
+
+def _credential_like_fields(value: Any, path: str = "") -> list[str]:
+    found: list[str] = []
+    if isinstance(value, dict):
+        for key, item in value.items():
+            key_lower = str(key).casefold()
+            item_path = f"{path}/{key}" if path else str(key)
+            if any(token in key_lower for token in ("authorization", "access_token", "private_cookie", "session_cookie", "api_key")) and item not in (None, "", [], {}):
+                found.append(item_path)
+            found.extend(_credential_like_fields(item, item_path))
+    elif isinstance(value, list):
+        for index, item in enumerate(value):
+            found.extend(_credential_like_fields(item, f"{path}/{index}"))
+    return found
+
+
+def _validate_pilot(validation: Validation, site_root: Path, project_root: Path) -> None:
+    manifest_path = project_root / "data" / "pilot" / "first-100-manifest.json"
+    if not manifest_path.is_file():
+        validation.add("critical", "missing_first_100_manifest", str(manifest_path.relative_to(project_root)), "The first-100 pilot manifest is missing.")
+        return
+    manifest = load_json(manifest_path, {})
+    schema_root = project_root / "data" / "schema"
+    schema_checks = {"files_checked": 0, "instances_checked": 0, "errors": 0}
+
+    def validate_instance(instance: Any, schema_name: str, relative: str) -> None:
+        schema_checks["instances_checked"] += 1
+        errors = _schema_errors(instance, schema_root / schema_name)
+        schema_checks["errors"] += len(errors)
+        for message in errors:
+            validation.add("critical", "json_schema_validation_failed", relative, "Draft 2020-12 JSON Schema validation failed.", error=message, schema=schema_name)
+
+    for schema_name in ("incident.schema.json", "source.schema.json", "media.schema.json", "pilot-manifest.schema.json"):
+        try:
+            _schema_errors({}, schema_root / schema_name)
+            schema_checks["files_checked"] += 1
+        except Exception as error:
+            validation.add("critical", "invalid_json_schema", f"data/schema/{schema_name}", "JSON Schema cannot be loaded as Draft 2020-12.", error=f"{type(error).__name__}: {error}")
+    validate_instance(manifest, "pilot-manifest.schema.json", "data/pilot/first-100-manifest.json")
+    sequences = [int(item.get("sequence", -1)) for item in manifest.get("incidents", [])]
+    if sequences != list(range(1, 101)):
+        validation.add("critical", "pilot_scope_not_exact", "data/pilot/first-100-manifest.json", "Pilot scope must be the ordered sequence 0001 through 0100 and nothing else.", sequences=sequences)
+    incident_ids = {item.get("internal_id") for item in manifest.get("incidents", [])}
+    pilot_records: dict[str, dict[str, Any]] = {}
+    for item in manifest.get("incidents", []):
+        internal_id = item.get("internal_id")
+        sequence = int(item.get("sequence", -1))
+        path = project_root / "data" / "incidents" / f"{internal_id}.json"
+        if not path.is_file():
+            validation.add("critical", "missing_pilot_incident_json", str(path.relative_to(project_root)), "Every pilot incident must have a normalized JSON record.")
+            continue
+        record = load_json(path, {})
+        pilot_records[internal_id] = record
+        validate_instance(record, "incident.schema.json", str(path.relative_to(project_root)))
+        if int(record.get("legacy_sequence", -1)) != sequence or not record.get("pilot", {}).get("in_scope"):
+            validation.add("critical", "pilot_incident_identity_mismatch", str(path.relative_to(project_root)), "Pilot incident identity/scope does not match the manifest.")
+        for field in ("narrative_original", "narrative_ar", "translation"):
+            if field not in record:
+                validation.add("critical", "missing_pilot_text_field", str(path.relative_to(project_root)), "Original and Arabic incident text must be stored separately.", field=field)
+    for path in (project_root / "data" / "incidents").glob("*.json"):
+        record = load_json(path, {})
+        if record.get("pilot", {}).get("name") == "first-100-complete-content" and int(record.get("legacy_sequence", 0)) > 100:
+            validation.add("critical", "pilot_processed_later_incident", str(path.relative_to(project_root)), "An incident after 0100 was marked as part of the pilot.")
+
+    source_records: dict[str, dict[str, Any]] = {}
+    normalized_urls: dict[str, list[str]] = defaultdict(list)
+    content_hashes: dict[str, list[str]] = defaultdict(list)
+    for path in sorted((project_root / "data" / "sources").glob("*.json")):
+        record = load_json(path, {})
+        source_id = record.get("source_id")
+        if source_id in source_records:
+            validation.add("critical", "duplicate_stable_source_id", str(path.relative_to(project_root)), "Stable source ID is duplicated.", source_id=source_id)
+        source_records[source_id] = record
+        validate_instance(record, "source.schema.json", str(path.relative_to(project_root)))
+        normalized_urls[str(record.get("normalized_url") or "")].append(source_id)
+        if record.get("content_hash"):
+            content_hashes[record["content_hash"]].append(source_id)
+        if record.get("retrieval_status") not in PILOT_SOURCE_STATUSES:
+            validation.add("critical", "unknown_source_retrieval_status", str(path.relative_to(project_root)), "Source retrieval status is not in the pilot taxonomy.", status=record.get("retrieval_status"))
+        if not isinstance(record.get("text_original"), str) or not isinstance(record.get("text_ar"), str):
+            validation.add("critical", "source_text_not_separated", str(path.relative_to(project_root)), "Original and Arabic source text must be separate strings.")
+        source_page = site_root / "sources" / str(source_id) / "index.html"
+        if not source_page.is_file():
+            validation.add("critical", "missing_source_page", str(source_page.relative_to(site_root)), "Every source record must have a generated local source page.")
+        elif "source-provenance" not in source_page.read_text(encoding="utf-8"):
+            validation.add("critical", "source_page_missing_provenance", str(source_page.relative_to(site_root)), "Generated source page has no provenance section.")
+        for field_path in _credential_like_fields(record):
+            validation.add("critical", "saved_private_credential", str(path.relative_to(project_root)), "Credential, cookie, token, or private header was saved.", field=field_path)
+    for normalized_url, ids in normalized_urls.items():
+        if not normalized_url or len(ids) > 1:
+            validation.add("critical", "duplicate_normalized_source_url", "data/sources", "A normalized URL maps to zero or multiple stable source IDs.", normalized_url=normalized_url, source_ids=ids)
+    for digest, ids in content_hashes.items():
+        if len(ids) > 1 and any(not source_records[source_id].get("exact_content_duplicate_group") for source_id in ids):
+            validation.add("critical", "unrecorded_exact_content_duplicate", "data/sources", "Exact duplicate content exists but the duplicate group was not recorded.", sha256=digest, source_ids=ids)
+
+    relationship_path = project_root / "data" / "relationships" / "incident-sources.json"
+    relationships = load_json(relationship_path, {}).get("relationships", [])
+    pairs: set[tuple[str, str]] = set()
+    for relationship in relationships:
+        pair = (relationship.get("incident_id"), relationship.get("source_id"))
+        if pair in pairs:
+            validation.add("critical", "duplicate_incident_source_relationship", str(relationship_path.relative_to(project_root)), "Incident-source relationship is duplicated.", pair=pair)
+        pairs.add(pair)
+        if pair[0] not in incident_ids or pair[1] not in source_records:
+            validation.add("critical", "orphan_incident_source_relationship", str(relationship_path.relative_to(project_root)), "Relationship references an incident or source outside the pilot.", pair=pair)
+    for source_id, record in source_records.items():
+        for incident_id in record.get("incident_ids", []):
+            if (incident_id, source_id) not in pairs:
+                validation.add("critical", "missing_incident_source_relationship", f"data/sources/{source_id}.json", "Source incident relationship is missing from the relationship table.", incident_id=incident_id)
+
+    media_count = 0
+    for path in sorted((project_root / "data" / "media").glob("*.json")):
+        record = load_json(path, {})
+        media_count += 1
+        validate_instance(record, "media.schema.json", str(path.relative_to(project_root)))
+        if record.get("local_path") is not None or record.get("sha256") is not None:
+            validation.add("critical", "media_placeholder_has_local_binary", str(path.relative_to(project_root)), "Pilot media placeholders must not reference a local binary or binary hash.")
+    media_binaries = []
+    for base in (project_root / "data", site_root):
+        for path in base.rglob("*"):
+            if path.is_file() and path.suffix.casefold() in BINARY_MEDIA_SUFFIXES:
+                media_binaries.append(str(path))
+    for path in media_binaries:
+        validation.add("critical", "pilot_media_binary_found", path, "No media binary may exist in the repository data or generated artifact.")
+    validation.checks["pilot_first_100"] = {
+        "manifest_incidents": len(sequences),
+        "scope_exact_0001_0100": sequences == list(range(1, 101)),
+        "normalized_incidents": len(pilot_records),
+        "source_records": len(source_records),
+        "incident_source_relationships": len(relationships),
+        "media_placeholders": media_count,
+        "media_binaries": len(media_binaries),
+        "schema": schema_checks,
+    }
+
+
 def _markdown(report: dict[str, Any]) -> str:
     counts = report["issue_counts"]
     lines = [
@@ -305,6 +457,7 @@ def validate(site_root: Path, project_root: Path, legacy_zip: Path, report_root:
     _validate_normalized(validation, site_root, project_root)
     _validate_map(validation, project_root)
     _validate_no_media_binaries(validation, project_root)
+    _validate_pilot(validation, site_root, project_root)
 
     legacy_codes: dict[str, list[int]] = defaultdict(list)
     for row in summaries:

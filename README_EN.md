@@ -70,6 +70,28 @@ Set **Settings → Pages → Source** to **GitHub Actions**. The deployment work
 
 The historical 404 was caused by Pages not being enabled with the GitHub Actions source; it was not caused by a missing root index in the uploaded package.
 
+## Complete-content pilot for the first 100 incidents
+
+The pilot branch processes only `cases/0001` through `cases/0100`.
+`archive_pipeline.pilot` enforces that boundary and raises an error for
+sequence `0101` or later. It preserves `legacy_import` values, enriches them
+from live or archived Airwars pages, creates stable source and media-metadata
+records, translates complete non-Arabic text into Arabic, and never downloads
+or commits image, video, or audio binaries.
+
+```bash
+python scripts/run_first_100_pilot.py \
+  --legacy-zip /tmp/syrian-archive-site.zip \
+  --output-root .
+```
+
+Progress resumes from `data/pilot/first-100-progress.json`, with a checkpoint
+after every incident, source, and completed translation chunk. The OpenAI key
+is read only from `OPENAI_API_KEY` and is never saved in records or attempt
+history. Detailed measurements are written to `data/reports/first-100-*`;
+generated source pages live under `sources/{source_id}/index.html` in the site
+artifact.
+
 ## Media policy and limitations
 
 Only media URLs and metadata are retained during this phase. See [docs/MEDIA_PRESERVATION_PLAN_EN.md](docs/MEDIA_PRESERVATION_PLAN_EN.md) for the unexecuted future plan.

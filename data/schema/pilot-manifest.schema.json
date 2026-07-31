@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://carsspacee88-crypto.github.io/syrian-archive-airwars/data/schema/pilot-manifest.schema.json",
+  "title": "First-100 pilot scope manifest",
+  "type": "object",
+  "required": ["schema_version", "pilot", "scope", "incidents"],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "pilot": {"const": "first-100-complete-content"},
+    "scope": {
+      "type": "object",
+      "required": ["first_sequence", "last_sequence", "count", "later_incidents_allowed"],
+      "properties": {
+        "first_sequence": {"const": 1},
+        "last_sequence": {"const": 100},
+        "count": {"const": 100},
+        "later_incidents_allowed": {"const": false}
+      }
+    },
+    "incidents": {
+      "type": "array",
+      "minItems": 100,
+      "maxItems": 100,
+      "items": {
+        "type": "object",
+        "required": ["sequence", "sequence_padded", "internal_id", "airwars_id", "canonical_url"],
+        "properties": {
+          "sequence": {"type": "integer", "minimum": 1, "maximum": 100},
+          "sequence_padded": {"type": "string", "pattern": "^[0-9]{4}$"},
+          "internal_id": {"type": "string", "pattern": "^airwars-[0-9]+$"},
+          "airwars_id": {"type": "string", "pattern": "^[0-9]+$"},
+          "canonical_url": {"type": "string", "format": "uri"}
+        }
+      }
+    }
+  }
+}

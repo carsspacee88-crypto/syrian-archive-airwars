@@ -4,6 +4,7 @@ import unittest
 
 from archive_pipeline.normalize import apply_page_extraction, build_legacy_record, finalize_status
 from archive_pipeline.parser import parse_incident_html
+from archive_pipeline.pilot import ArabicTranslator, _exact_pilot_sequence, normalize_source_url, stable_source_id
 from archive_pipeline.reports import coordinate_reasons
 
 
@@ -52,6 +53,25 @@ class CoordinateTests(unittest.TestCase):
         self.assertIn("parsing_error", coordinate_reasons("not-a-number", 36.0))
         self.assertIn("outside_expected_region", coordinate_reasons(36.6, 45.0))
         self.assertEqual(coordinate_reasons(35.9, 36.0), [])
+
+
+class PilotTests(unittest.TestCase):
+    def test_pilot_scope_hard_stops_after_0100(self) -> None:
+        self.assertEqual(_exact_pilot_sequence(100), 100)
+        with self.assertRaisesRegex(ValueError, "pilot_scope_violation"):
+            _exact_pilot_sequence(101)
+
+    def test_source_id_uses_conservative_url_normalization(self) -> None:
+        left = "HTTPS://Example.COM:443/a?b=1#fragment"
+        right = "https://example.com/a?b=1"
+        self.assertEqual(normalize_source_url(left), right)
+        self.assertEqual(stable_source_id(left), stable_source_id(right))
+
+    def test_translation_chunks_are_complete_and_ordered(self) -> None:
+        text = "فقرة أولى\n\n" + ("x" * 8000) + "\n\nفقرة أخيرة"
+        chunks = ArabicTranslator.chunks(text, max_chars=1000)
+        self.assertGreater(len(chunks), 2)
+        self.assertEqual("".join(chunks).replace("\n", ""), text.replace("\n", ""))
 
 
 if __name__ == "__main__":

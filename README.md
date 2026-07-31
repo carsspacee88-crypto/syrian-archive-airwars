@@ -128,6 +128,27 @@ python -m http.server 8000 --directory _site
 
 يجب أن يكون Source في **Settings → Pages** مضبوطًا على **GitHub Actions**. سير العمل يعيد تكوين ZIP، ويتحقق من بصمته، ويفك `index.html` في جذر artifact، وينشئ `.nojekyll`، ويبني الطبقة الجديدة، ويفحص المسارات النسبية تحت `/syrian-archive-airwars/` قبل النشر. سبب 404 التاريخي كان عدم تفعيل مصدر Pages، لا غياب `index.html` من الحزمة.
 
+## طيار المحتوى الكامل لأول 100 حادثة
+
+فرع الطيار يعالج `cases/0001` إلى `cases/0100` فقط. يفرض
+`archive_pipeline.pilot` هذا الحد برمجيًا ويوقف التنفيذ إذا طُلب التسلسل
+`0101` أو أي تسلسل بعده. يبدأ من قيم لقطة الهجرة الموسومة
+`legacy_import`، ثم يضيف تحقق Airwars الحي أو المؤرشف، وسجلات المصادر،
+والترجمة العربية الكاملة، ومواضع الوسائط الوصفية من دون تنزيل ملفات
+الصور أو الفيديو أو الصوت.
+
+```bash
+python scripts/run_first_100_pilot.py \
+  --legacy-zip /tmp/syrian-archive-site.zip \
+  --output-root .
+```
+
+التنفيذ قابل للاستئناف من `data/pilot/first-100-progress.json`، ويكتب نقطة
+تحقق بعد كل حادثة ومصدر ومقطع ترجمة مكتمل. يُقرأ مفتاح OpenAI من
+`OPENAI_API_KEY` فقط ولا يُحفظ في البيانات أو سجل المحاولات. توجد القياسات
+في `data/reports/first-100-*`، وتُنشأ صفحات المصادر في artifact تحت
+`sources/{source_id}/index.html`.
+
 ## الوسائط والقيود المعروفة
 
 لا يُنزّل المشروع الصور أو الفيديوهات ولا يحولها إلى Base64 ولا يستخدم Git LFS. تُحفظ الروابط والعناوين والنسب وإشارات الحساسية فقط، ولا تُحمّل الصور الحساسة إلا باختيار المستخدم. خطة الحفظ المستقبلية موثقة في [docs/MEDIA_PRESERVATION_PLAN_AR.md](docs/MEDIA_PRESERVATION_PLAN_AR.md).

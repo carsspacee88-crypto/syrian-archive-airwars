@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://carsspacee88-crypto.github.io/syrian-archive-airwars/data/schema/source.schema.json",
+  "title": "First-100 pilot source record",
+  "type": "object",
+  "required": [
+    "schema_version", "parser_version", "translation_version", "source_id",
+    "incident_ids", "incident_sequences", "source_type", "original_url",
+    "normalized_url", "archived_urls", "text_original", "text_original_language",
+    "text_ar", "retrieval_status", "extraction_status", "translation",
+    "attempt_history", "provenance", "review_flags"
+  ],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "source_id": {"type": "string", "pattern": "^source-[0-9a-f]{24}$"},
+    "incident_ids": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"type": "string", "pattern": "^airwars-[0-9]+$"}},
+    "incident_sequences": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"type": "integer", "minimum": 1, "maximum": 100}},
+    "source_type": {"enum": [
+      "news_article", "ngo_report", "government_or_military_statement", "blog_post",
+      "public_facebook_post", "public_x_post", "public_instagram_post", "public_telegram_post",
+      "youtube_page", "pdf_document", "direct_image_url", "direct_video_url",
+      "direct_audio_url", "other_web_page", "unknown"
+    ]},
+    "original_url": {"type": "string", "format": "uri"},
+    "normalized_url": {"type": "string", "format": "uri"},
+    "archived_urls": {"type": "array", "items": {"type": "string", "format": "uri"}},
+    "text_original": {"type": "string"},
+    "text_original_language": {"type": "string"},
+    "text_ar": {"type": "string"},
+    "translation": {
+      "type": "object",
+      "required": ["status", "version", "review_required", "chunks"],
+      "properties": {
+        "status": {"type": "string"},
+        "version": {"type": "string"},
+        "review_required": {"type": "boolean"},
+        "chunks": {"type": "array"}
+      }
+    },
+    "attempt_history": {"type": "array"},
+    "provenance": {"type": "array", "minItems": 1},
+    "review_flags": {"type": "array"}
+  },
+  "additionalProperties": true
+}
