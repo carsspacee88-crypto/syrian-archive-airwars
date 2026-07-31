@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "223336"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-jij_israel-1934650049314640216-2025-06-16-163130/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.303,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:38:00+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 63156,
+      "content_hash": "c2462e28b6f26f08254828f7c4e829a51011e72f5fd9b951be31544ce5fee25d",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.303,
+      "error": null,
+      "final_url": "https://x.com/JIJ_Israel/status/1934650049314640216",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:38:00+00:00",
+      "status": 200,
+      "url": "https://x.com/JIJ_Israel/status/1934650049314640216",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "JIJ_Israel",
+  "captions": [],
+  "content_hash": "127d050e2a43fc6afee1385cdca8a6e9d81a47ca44fff13d5fd20956db4f6bac",
+  "content_variants": [
+    {
+      "bytes": 35,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:38:00+00:00",
+      "sha256": "127d050e2a43fc6afee1385cdca8a6e9d81a47ca44fff13d5fd20956db4f6bac",
+      "source_url": "https://x.com/JIJ_Israel/status/1934650049314640216",
+      "text": "PostLog inSign upPost00:00245Views1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/JIJ_Israel/status/1934650049314640216",
+  "incident_ids": [
+    "airwars-229045"
+  ],
+  "incident_sequences": [
+    55
+  ],
+  "normalized_url": "https://x.com/JIJ_Israel/status/1934650049314640216",
+  "observed_original_urls": [
+    "https://x.com/JIJ_Israel/status/1934650049314640216"
+  ],
+  "original_url": "https://x.com/JIJ_Israel/status/1934650049314640216",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/iris250616b-june-26-2025/",
+      "airwars_source_id": "223336",
+      "incident_id": "airwars-229045",
+      "incident_sequence": 55,
+      "observed_original_url": "https://x.com/JIJ_Israel/status/1934650049314640216",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "16 يونيو 2025",
+  "publisher": "YOU_Israel",
+  "publisher_ar": "YOU_Israel",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:38:00+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-6b430ade6703511ffa076ae6",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/JIJ_Israel/status/1934650049314640216",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost00:00245Views1",
+  "text_original_language": "en",
+  "timing": {
+    "text_extraction_seconds": 0.001219
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

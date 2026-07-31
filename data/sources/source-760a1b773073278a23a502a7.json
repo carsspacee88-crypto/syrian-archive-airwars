@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "298885"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-rc_tnm-1902697295474262443-2025-03-20-122240/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.27,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:40:12+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 50632,
+      "content_hash": "87b1f2ecdd3a0c7ee032d7ed0fc9bb0cf7ded601dd8c1383b5cfbff14f1393f2",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.27,
+      "error": null,
+      "final_url": "https://x.com/RC_TNM/status/1902697295474262443",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:40:12+00:00",
+      "status": 200,
+      "url": "https://x.com/RC_TNM/status/1902697295474262443",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "RC_TNM",
+  "captions": [],
+  "content_hash": "53747249f43dd1592bb78b6e6702926a56260ff237652f2d6bf7b745f69a60a6",
+  "content_variants": [
+    {
+      "bytes": 46,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:40:12+00:00",
+      "sha256": "53747249f43dd1592bb78b6e6702926a56260ff237652f2d6bf7b745f69a60a6",
+      "source_url": "https://x.com/RC_TNM/status/1902697295474262443",
+      "text": "PostLog inSign upPostThis post is unavailable."
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/RC_TNM/status/1902697295474262443",
+  "incident_ids": [
+    "airwars-379488"
+  ],
+  "incident_sequences": [
+    83
+  ],
+  "normalized_url": "https://x.com/RC_TNM/status/1902697295474262443",
+  "observed_original_urls": [
+    "https://x.com/RC_TNM/status/1902697295474262443"
+  ],
+  "original_url": "https://x.com/RC_TNM/status/1902697295474262443",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0137-march-20-2025/",
+      "airwars_source_id": "298885",
+      "incident_id": "airwars-379488",
+      "incident_sequence": 83,
+      "observed_original_url": "https://x.com/RC_TNM/status/1902697295474262443",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "20 مارس 2025",
+  "publisher": "RC_TNM",
+  "publisher_ar": "RC_TNM",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:40:12+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-760a1b773073278a23a502a7",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/RC_TNM/status/1902697295474262443",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPostThis post is unavailable.",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001012
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

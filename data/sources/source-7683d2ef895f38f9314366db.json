@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "366267"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-abomosaabsharke-2001641060343386418-2025-12-18-130952/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.243,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:40:20+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 85520,
+      "content_hash": "c976c72ad9f798ef3c62bbdd776a4052c21e8f2fff9e2bd3aa7d31f67e7a77eb",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.243,
+      "error": null,
+      "final_url": "https://x.com/AbomosaabSharke/status/2001641060343386418",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:40:20+00:00",
+      "status": 200,
+      "url": "https://x.com/AbomosaabSharke/status/2001641060343386418",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "https://x.com/AbomosaabSharke",
+  "captions": [],
+  "content_hash": "6792d88ff6a248f534a2ddb0075d806551366dd8876f3d8b223a470667c6349c",
+  "content_variants": [
+    {
+      "bytes": 432,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:40:20+00:00",
+      "sha256": "6792d88ff6a248f534a2ddb0075d806551366dd8876f3d8b223a470667c6349c",
+      "source_url": "https://x.com/AbomosaabSharke/status/2001641060343386418",
+      "text": "Post\n\nPost\n\nمراسل الشرقية الرسمي@AbomosaabSharke#الرقة\nمقتل الطفل سامي الفايز الياسين الفياض (14 عاماً)، وهو الابن الوحيد لوالديه، إثر عملية إنزال نفذتها قوات التحالف الدولي فجر اليوم في ناحية معدان شرقالرقة.\n\n#مراسل_الشرقية_الرسمي ✅1:09 PM · Dec 18, 2025305Views5"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AbomosaabSharke/status/2001641060343386418",
+  "incident_ids": [
+    "airwars-367982"
+  ],
+  "incident_sequences": [
+    20
+  ],
+  "normalized_url": "https://x.com/AbomosaabSharke/status/2001641060343386418",
+  "observed_original_urls": [
+    "https://x.com/AbomosaabSharke/status/2001641060343386418"
+  ],
+  "original_url": "https://x.com/AbomosaabSharke/status/2001641060343386418",
+  "page_title": "مراسل الشرقية الرسمي on X: \"#الرقة\nمقتل الطفل سامي الفايز الياسين الفياض (14 عاماً)، وهو الابن الوحيد لوالديه، إثر عملية إنزال نفذتها قوات التحالف الدولي فجر اليوم في ناحية معدان شرقالرقة.\n\n#مراسل_الشرقية_الرسمي ✅ https://t.co/djbfA0OMzW\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2019-december-18-2025/",
+      "airwars_source_id": "366267",
+      "incident_id": "airwars-367982",
+      "incident_sequence": 20,
+      "observed_original_url": "https://x.com/AbomosaabSharke/status/2001641060343386418",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-18T13:09:52.000Z",
+  "publisher": "AbomosaabSharke",
+  "publisher_ar": "AbomosaabSharke",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:40:20+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-7683d2ef895f38f9314366db",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AbomosaabSharke/status/2001641060343386418",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nمراسل الشرقية الرسمي@AbomosaabSharke#الرقة\nمقتل الطفل سامي الفايز الياسين الفياض (14 عاماً)، وهو الابن الوحيد لوالديه، إثر عملية إنزال نفذتها قوات التحالف الدولي فجر اليوم في ناحية معدان شرقالرقة.\n\n#مراسل_الشرقية_الرسمي ✅1:09 PM · Dec 18, 2025305Views5",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00166
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

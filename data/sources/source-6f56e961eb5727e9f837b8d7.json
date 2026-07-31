@@ -1,0 +1,99 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/6CMe9"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.219,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:38:24+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 54199,
+      "content_hash": "2d51a6857f077bdbec9f141df9e700f5d8bffea160620fbb68d50256fa2bd071",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.219,
+      "error": null,
+      "final_url": "https://x.com/Rafeefkam/status/1907608164960248233",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:38:24+00:00",
+      "status": 200,
+      "url": "https://x.com/Rafeefkam/status/1907608164960248233",
+      "waiting_seconds": 0.578
+    }
+  ],
+  "author": "'@Rafeefkam",
+  "captions": [],
+  "content_hash": "43c6443b911570a8a9df72fa92c3e0b18b64d6b7a20b3b546695d065d479ce3e",
+  "content_variants": [
+    {
+      "bytes": 29,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:38:24+00:00",
+      "sha256": "43c6443b911570a8a9df72fa92c3e0b18b64d6b7a20b3b546695d065d479ce3e",
+      "source_url": "https://x.com/Rafeefkam/status/1907608164960248233",
+      "text": "PostLog inSign upPost155Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Rafeefkam/status/1907608164960248233",
+  "incident_ids": [
+    "airwars-276069"
+  ],
+  "incident_sequences": [
+    78
+  ],
+  "normalized_url": "https://x.com/Rafeefkam/status/1907608164960248233",
+  "observed_original_urls": [
+    "https://x.com/Rafeefkam/status/1907608164960248233"
+  ],
+  "original_url": "https://x.com/Rafeefkam/status/1907608164960248233",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy076-april-3-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-276069",
+      "incident_sequence": 78,
+      "observed_original_url": "https://x.com/Rafeefkam/status/1907608164960248233",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "'@Rafeefkam",
+  "publisher_ar": "'@Rafeefkam",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:38:24+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-6f56e961eb5727e9f837b8d7",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Rafeefkam/status/1907608164960248233",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost155Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001081
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

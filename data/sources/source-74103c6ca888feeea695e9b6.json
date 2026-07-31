@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "327729"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-thaar000-1988996816017203351-2025-11-13-154609/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.243,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:39:19+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 81767,
+      "content_hash": "f57c5430ba7b953a74d41bd686ec443c2ffe02e49baff6d973dcb37c07fd9610",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.243,
+      "error": null,
+      "final_url": "https://x.com/thaar000/status/1988996816017203351",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:39:19+00:00",
+      "status": 200,
+      "url": "https://x.com/thaar000/status/1988996816017203351",
+      "waiting_seconds": 0.737
+    }
+  ],
+  "author": "https://x.com/thaar000",
+  "captions": [],
+  "content_hash": "cc967e117434ad6733ae6e85320e10b68af7473275deab0872371d97945a89e0",
+  "content_variants": [
+    {
+      "bytes": 474,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:39:19+00:00",
+      "sha256": "cc967e117434ad6733ae6e85320e10b68af7473275deab0872371d97945a89e0",
+      "source_url": "https://x.com/thaar000/status/1988996816017203351",
+      "text": "Post\n\nPost\n\nثائر@thaar000#الحسكة\nاعتقلت ميليشيا قسد ثلاثة أشخاص خلال مداهمة نفّذتها بدعم من طيران التحالف الدولي في قرية #شمساني التابعة لمدينة #الشدادي جنوب الحسكة وهم:\n•خالد الصايل\n•محمد الصايل\n•أحمد الصايل\n\n#قسد_pkk_الارهابية\n#الحرية_للجزيرة_السورية3:46 PM · Nov 13, 2025225Views5"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/thaar000/status/1988996816017203351",
+  "incident_ids": [
+    "airwars-386632"
+  ],
+  "incident_sequences": [
+    29
+  ],
+  "normalized_url": "https://x.com/thaar000/status/1988996816017203351",
+  "observed_original_urls": [
+    "https://x.com/thaar000/status/1988996816017203351"
+  ],
+  "original_url": "https://x.com/thaar000/status/1988996816017203351",
+  "page_title": "ثائر on X: \"#الحسكة\nاعتقلت ميليشيا قسد ثلاثة أشخاص خلال مداهمة نفّذتها بدعم من طيران التحالف الدولي في قرية #شمساني التابعة لمدينة #الشدادي جنوب الحسكة وهم:\n•خالد الصايل\n•محمد الصايل\n•أحمد الصايل\n\n#قسد_pkk_الارهابية\n#الحرية_للجزيرة_السورية\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0164-november-13-2025/",
+      "airwars_source_id": "327729",
+      "incident_id": "airwars-386632",
+      "incident_sequence": 29,
+      "observed_original_url": "https://x.com/thaar000/status/1988996816017203351",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-11-13T15:46:09.000Z",
+  "publisher": "thaar000",
+  "publisher_ar": "thaar000",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:39:19+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-74103c6ca888feeea695e9b6",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/thaar000/status/1988996816017203351",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nثائر@thaar000#الحسكة\nاعتقلت ميليشيا قسد ثلاثة أشخاص خلال مداهمة نفّذتها بدعم من طيران التحالف الدولي في قرية #شمساني التابعة لمدينة #الشدادي جنوب الحسكة وهم:\n•خالد الصايل\n•محمد الصايل\n•أحمد الصايل\n\n#قسد_pkk_الارهابية\n#الحرية_للجزيرة_السورية3:46 PM · Nov 13, 2025225Views5",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001906
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

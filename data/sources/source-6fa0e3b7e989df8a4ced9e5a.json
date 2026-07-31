@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "375733"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-euphratespost-2003431123267858898-2025-12-23-114256/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.2,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:38:29+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 57455,
+      "content_hash": "8b39c26f5e46af3bce81f5b9bb48d9764f26adf76488b6933727508b439855fc",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.2,
+      "error": null,
+      "final_url": "https://x.com/EuphratesPost/status/2003431123267858898",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:38:29+00:00",
+      "status": 200,
+      "url": "https://x.com/EuphratesPost/status/2003431123267858898",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "EuphratesPost",
+  "captions": [],
+  "content_hash": "4bf2f523d8b7bcde9d0a97b1d5ccef94e398b1f927df01910288e8231b128bcb",
+  "content_variants": [
+    {
+      "bytes": 30,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:38:29+00:00",
+      "sha256": "4bf2f523d8b7bcde9d0a97b1d5ccef94e398b1f927df01910288e8231b128bcb",
+      "source_url": "https://x.com/EuphratesPost/status/2003431123267858898",
+      "text": "PostLog inSign upPost153Views1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/EuphratesPost/status/2003431123267858898",
+  "incident_ids": [
+    "airwars-379131"
+  ],
+  "incident_sequences": [
+    13
+  ],
+  "normalized_url": "https://x.com/EuphratesPost/status/2003431123267858898",
+  "observed_original_urls": [
+    "https://x.com/EuphratesPost/status/2003431123267858898"
+  ],
+  "original_url": "https://x.com/EuphratesPost/status/2003431123267858898",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2021-december-23-2025/",
+      "airwars_source_id": "375733",
+      "incident_id": "airwars-379131",
+      "incident_sequence": 13,
+      "observed_original_url": "https://x.com/EuphratesPost/status/2003431123267858898",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "23 ديسمبر 2025",
+  "publisher": "EuphratesPost",
+  "publisher_ar": "EuphratesPost",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:38:29+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-6fa0e3b7e989df8a4ced9e5a",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/EuphratesPost/status/2003431123267858898",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost153Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001101
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

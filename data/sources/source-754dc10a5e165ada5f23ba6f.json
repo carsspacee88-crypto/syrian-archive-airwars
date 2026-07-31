@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "275278"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a7%d9%8a%d8%a7%d8%af-%d9%83%d8%b1%d9%8a%d9%85-%d8%a7%d8%a8%d9%88-%d8%b7%d9%84%d8%a7%d8%a8%d9%87-pfbid028jbnpzzjx68nhhfrr43uyg9btddhtuuckeqzdp1bdck2eawbmhhsbeejbcszq9bjl-2025/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.581,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:39:48+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 312123,
+      "content_hash": "6bd8d5f6bb2b7de81990e01a714afdfb1376790a95c8db883e3b283114db84a4",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.581,
+      "error": null,
+      "final_url": "https://www.facebook.com/ayad.krym.abw.tlabh/posts/pfbid028jBnPzZjx68NhHFRr43UyG9bTDDhtUuCkeQzdP1bDCk2EaWbMHHsbEEjBcszq9bjl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:39:48+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/ayad.krym.abw.tlabh/posts/pfbid028jBnPzZjx68NhHFRr43UyG9bTDDhtUuCkeQzdP1bDCk2EaWbMHHsbEEjBcszq9bjl",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "اياد كريم ابو طلابه",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:39:48+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/ayad.krym.abw.tlabh/posts/pfbid028jBnPzZjx68NhHFRr43UyG9bTDDhtUuCkeQzdP1bDCk2EaWbMHHsbEEjBcszq9bjl",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/ayad.krym.abw.tlabh/posts/pfbid028jBnPzZjx68NhHFRr43UyG9bTDDhtUuCkeQzdP1bDCk2EaWbMHHsbEEjBcszq9bjl",
+  "incident_ids": [
+    "airwars-287562"
+  ],
+  "incident_sequences": [
+    39
+  ],
+  "normalized_url": "https://www.facebook.com/ayad.krym.abw.tlabh/posts/pfbid028jBnPzZjx68NhHFRr43UyG9bTDDhtUuCkeQzdP1bDCk2EaWbMHHsbEEjBcszq9bjl",
+  "observed_original_urls": [
+    "https://www.facebook.com/ayad.krym.abw.tlabh/posts/pfbid028jBnPzZjx68NhHFRr43UyG9bTDDhtUuCkeQzdP1bDCk2EaWbMHHsbEEjBcszq9bjl"
+  ],
+  "original_url": "https://www.facebook.com/ayad.krym.abw.tlabh/posts/pfbid028jBnPzZjx68NhHFRr43UyG9bTDDhtUuCkeQzdP1bDCk2EaWbMHHsbEEjBcszq9bjl",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2013-september-28-2025/",
+      "airwars_source_id": "275278",
+      "incident_id": "airwars-287562",
+      "incident_sequence": 39,
+      "observed_original_url": "https://www.facebook.com/ayad.krym.abw.tlabh/posts/pfbid028jBnPzZjx68NhHFRr43UyG9bTDDhtUuCkeQzdP1bDCk2EaWbMHHsbEEjBcszq9bjl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "28 سبتمبر 2025",
+  "publisher": "Ayad Karim Abu Talaba",
+  "publisher_ar": "اياد كريم ابو طلابه",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:39:48+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-754dc10a5e165ada5f23ba6f",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/ayad.krym.abw.tlabh/posts/pfbid028jBnPzZjx68NhHFRr43UyG9bTDDhtUuCkeQzdP1bDCk2EaWbMHHsbEEjBcszq9bjl",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001022
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

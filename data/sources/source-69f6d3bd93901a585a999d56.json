@@ -1,0 +1,144 @@
+{
+  "airwars_source_ids": [
+    "315154"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syria-tv-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%86%d8%a7%d8%b5%d8%b1-%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b1%d9%8a-abdulnasir-alkadri/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-10: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:37:34+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-10: ordinal not in range(128)",
+      "final_url": "https://www.syria.tv/اشتباك-ودوافع-وأسئلة-مفتوحة-ما-وراء-التوغل-الإسرائيلي-في-بيت-جن؟",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:37:34+00:00",
+      "status": null,
+      "url": "https://www.syria.tv/اشتباك-ودوافع-وأسئلة-مفتوحة-ما-وراء-التوغل-الإسرائيلي-في-بيت-جن؟",
+      "waiting_seconds": 0.741
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.158,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:37:35+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1995,
+      "content_hash": "ff4ac152fce6f42343499a6b4a8ecb2fb88e854582c0285fd5515fefc3b97a15",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.158,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-syria-tv-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%86%d8%a7%d8%b5%d8%b1-%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b1%d9%8a-abdulnasir-alkadri/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:37:35+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-syria-tv-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%86%d8%a7%d8%b5%d8%b1-%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b1%d9%8a-abdulnasir-alkadri/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.22,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:37:46+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.22,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syria.tv%2F%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83-%D9%88%D8%AF%D9%88%D8%A7%D9%81%D8%B9-%D9%88%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%85%D8%A7-%D9%88%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D9%88%D8%BA%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86%D8%9F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:37:46+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syria.tv%2F%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83-%D9%88%D8%AF%D9%88%D8%A7%D9%81%D8%B9-%D9%88%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D9%85%D8%A7-%D9%88%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D9%88%D8%BA%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86%D8%9F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "عبد الناصر القادري - ABDULNASIR ALKADRI",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-10: ordinal not in range(128)",
+  "final_redirected_url": "https://www.syria.tv/اشتباك-ودوافع-وأسئلة-مفتوحة-ما-وراء-التوغل-الإسرائيلي-في-بيت-جن؟",
+  "incident_ids": [
+    "airwars-318800"
+  ],
+  "incident_sequences": [
+    24
+  ],
+  "normalized_url": "https://www.syria.tv/اشتباك-ودوافع-وأسئلة-مفتوحة-ما-وراء-التوغل-الإسرائيلي-في-بيت-جن؟",
+  "observed_original_urls": [
+    "https://www.syria.tv/اشتباك-ودوافع-وأسئلة-مفتوحة-ما-وراء-التوغل-الإسرائيلي-في-بيت-جن؟"
+  ],
+  "original_url": "https://www.syria.tv/اشتباك-ودوافع-وأسئلة-مفتوحة-ما-وراء-التوغل-الإسرائيلي-في-بيت-جن؟",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy087-november-28-2025/",
+      "airwars_source_id": "315154",
+      "incident_id": "airwars-318800",
+      "incident_sequence": 24,
+      "observed_original_url": "https://www.syria.tv/اشتباك-ودوافع-وأسئلة-مفتوحة-ما-وراء-التوغل-الإسرائيلي-في-بيت-جن؟",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Abdul Nasser Al-Qadri",
+  "publisher_ar": "عبد الناصر القادري - ABDULNASIR ALKADRI",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:37:34+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-69f6d3bd93901a585a999d56",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.syria.tv/اشتباك-ودوافع-وأسئلة-مفتوحة-ما-وراء-التوغل-الإسرائيلي-في-بيت-جن؟",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

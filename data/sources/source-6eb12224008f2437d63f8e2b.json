@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "375720"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d9%82%d8%b3%d8%af-1389353819324897-2026-12-23-213843/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.359,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:38:22+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 544640,
+      "content_hash": "fd9777dfb3c3b9588a04395decf6954909f1ae4c53585edb679937cfc1a61867",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.359,
+      "error": null,
+      "final_url": "https://www.facebook.com/reel/1389353819324897",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:38:22+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/reel/1389353819324897",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "#قسد",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:38:22+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/reel/1389353819324897",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/reel/1389353819324897",
+  "incident_ids": [
+    "airwars-379131"
+  ],
+  "incident_sequences": [
+    13
+  ],
+  "normalized_url": "https://www.facebook.com/reel/1389353819324897",
+  "observed_original_urls": [
+    "https://www.facebook.com/reel/1389353819324897"
+  ],
+  "original_url": "https://www.facebook.com/reel/1389353819324897",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2021-december-23-2025/",
+      "airwars_source_id": "375720",
+      "incident_id": "airwars-379131",
+      "incident_sequence": 13,
+      "observed_original_url": "https://www.facebook.com/reel/1389353819324897",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "23 ديسمبر 2026",
+  "publisher": "#SDF",
+  "publisher_ar": "#قسد",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:38:22+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-6eb12224008f2437d63f8e2b",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/reel/1389353819324897",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001769
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

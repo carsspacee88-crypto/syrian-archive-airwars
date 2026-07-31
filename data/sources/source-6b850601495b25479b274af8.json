@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "296002"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-soheb209-1899126163966173443-2025-03-10-155216/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.26,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:38:01+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 76994,
+      "content_hash": "49b66e09b863b732ceee857459b97dbddb9e6365b18fda9fb53ac6e160e7c272",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.26,
+      "error": null,
+      "final_url": "https://x.com/SOHEB209/status/1899126163966173443",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:38:01+00:00",
+      "status": 200,
+      "url": "https://x.com/SOHEB209/status/1899126163966173443",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "https://x.com/SOHEB209",
+  "captions": [],
+  "content_hash": "334ded8bb93a5cebfc9f3c5f28e97a4edfe6a9b2a5a93279983f847041a14193",
+  "content_variants": [
+    {
+      "bytes": 354,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:38:01+00:00",
+      "sha256": "334ded8bb93a5cebfc9f3c5f28e97a4edfe6a9b2a5a93279983f847041a14193",
+      "source_url": "https://x.com/SOHEB209/status/1899126163966173443",
+      "text": "Post\n\nPost\n\nصهيب اليعربي@SOHEB209#ديرالزور\nأعلنت ميلـ.ـيشـ.ـيا PYD/PKK عن اعتقـ.ـال خالد مربد عبيد \"خلال عمــ.ـلية مداهـ.ـمة نفـ.ـذتها بمساندة التحـ.ـالف الدولي في مدينة البصيرة شرق ديرالزور3:52 PM · Mar 10, 2025707Views3"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SOHEB209/status/1899126163966173443",
+  "incident_ids": [
+    "airwars-379484"
+  ],
+  "incident_sequences": [
+    90
+  ],
+  "normalized_url": "https://x.com/SOHEB209/status/1899126163966173443",
+  "observed_original_urls": [
+    "https://x.com/SOHEB209/status/1899126163966173443"
+  ],
+  "original_url": "https://x.com/SOHEB209/status/1899126163966173443",
+  "page_title": "صهيب اليعربي on X: \"#ديرالزور\nأعلنت ميلـ.ـيشـ.ـيا PYD/PKK عن اعتقـ.ـال خالد مربد عبيد \"خلال عمــ.ـلية مداهـ.ـمة نفـ.ـذتها بمساندة التحـ.ـالف الدولي في مدينة البصيرة شرق ديرالزور\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0133-march-10-2025/",
+      "airwars_source_id": "296002",
+      "incident_id": "airwars-379484",
+      "incident_sequence": 90,
+      "observed_original_url": "https://x.com/SOHEB209/status/1899126163966173443",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-03-10T15:52:16.000Z",
+  "publisher": "SOHEB209",
+  "publisher_ar": "SOHEB209",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:38:01+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-6b850601495b25479b274af8",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SOHEB209/status/1899126163966173443",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nصهيب اليعربي@SOHEB209#ديرالزور\nأعلنت ميلـ.ـيشـ.ـيا PYD/PKK عن اعتقـ.ـال خالد مربد عبيد \"خلال عمــ.ـلية مداهـ.ـمة نفـ.ـذتها بمساندة التحـ.ـالف الدولي في مدينة البصيرة شرق ديرالزور3:52 PM · Mar 10, 2025707Views3",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001486
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

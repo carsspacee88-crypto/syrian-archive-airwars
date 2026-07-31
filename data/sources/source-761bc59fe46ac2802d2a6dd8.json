@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "355979"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-derynews-1997616847437340829-2025-12-07-103905/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.84,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:40:16+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 104423,
+      "content_hash": "78faf60c9eafd05e55aa990ca11313c19f70a674be6e571dba7f7792e337b032",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.84,
+      "error": null,
+      "final_url": "https://x.com/DeryNews/status/1997616847437340829",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:40:16+00:00",
+      "status": 200,
+      "url": "https://x.com/DeryNews/status/1997616847437340829",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "https://x.com/DeryNews",
+  "captions": [],
+  "content_hash": "2137d46e65c70917387f1a5e9aeefc5c0b16a83a89c3a808473deb93ef5ced5b",
+  "content_variants": [
+    {
+      "bytes": 1334,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:40:16+00:00",
+      "sha256": "2137d46e65c70917387f1a5e9aeefc5c0b16a83a89c3a808473deb93ef5ced5b",
+      "source_url": "https://x.com/DeryNews/status/1997616847437340829",
+      "text": "Post\n\nPost\n\nعامر هويدي@DeryNewsاعتقالات نفذتها ميليشيات #قسد في ريف دير الزور الغربي بدعم من طيران التحالف الدولينفذت ميليشيات قسد، يوم أمس، عملية مداهمة في بلدة حوايج بومصعة بريف دير الزور الغربي، أسفرت عن اعتقال كلٍّ من أسامة أحمد الخلف وساهر أحمد الخلف وإبراهيم صالح المحيميد وإبراهيم العبد، وفق ما أفادت به مصادر محلية. وجرت العملية بدعم مباشر من طيران التحالف الدولي الذي حلق في أجواء المنطقة أثناء تنفيذ المداهمات.وتأتي هذه الاعتقالات في سياق تصعيد أمني متواصل تشهده بلدات الريف الغربي، وسط شكاوى الأهالي من مداهمات مفاجئة واعتقالات دون توضيح أسبابها أو مصير المحتجزين، ما يسهم في زيادة التوتر والقلق بين السكان.✅ تابعوا قناة الصحفي #عامر_هويدي على تلغرام:\nt.me/DeryNewst.meشبكة ديري نيوز الإخباريةYou can view and join @DeryNews right away.10:39 AM · Dec 7, 2025685Views1111"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/DeryNews/status/1997616847437340829",
+  "incident_ids": [
+    "airwars-386636"
+  ],
+  "incident_sequences": [
+    23
+  ],
+  "normalized_url": "https://x.com/DeryNews/status/1997616847437340829",
+  "observed_original_urls": [
+    "https://x.com/DeryNews/status/1997616847437340829"
+  ],
+  "original_url": "https://x.com/DeryNews/status/1997616847437340829",
+  "page_title": "عامر هويدي on X: \"اعتقالات نفذتها ميليشيات #قسد في ريف دير الزور الغربي بدعم من طيران التحالف الدولينفذت ميليشيات قسد، يوم أمس، عملية مداهمة في بلدة حوايج بومصعة بريف دير الزور الغربي، أسفرت عن اعتقال كلٍّ من أسامة أحمد الخلف وساهر أحمد الخلف وإبراهيم صالح المحيميد وإبراهيم العبد، وفق ما أفادت به مصادر محلية. وجرت العملية بدعم مباشر من طيران التحالف الدولي الذي حلق في أجواء المنطقة أثناء تنفيذ المداهمات.وتأتي هذه الاعتقالات في سياق تصعيد أمني متواصل تشهده بلدات الريف الغربي، وسط شكاوى الأهالي من مداهمات مفاجئة واعتقالات دون توضيح أسبابها أو مصير المحتجزين، ما يسهم في زيادة التوتر والقلق بين السكان.✅ تابعوا قناة الصحفي #عامر_هويدي على تلغرام:\nhttps://t.co/ZnpTtl8y4M\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0168-december-7-2025/",
+      "airwars_source_id": "355979",
+      "incident_id": "airwars-386636",
+      "incident_sequence": 23,
+      "observed_original_url": "https://x.com/DeryNews/status/1997616847437340829",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-07T10:39:05.000Z",
+  "publisher": "DeryNews",
+  "publisher_ar": "DeryNews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:40:16+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-761bc59fe46ac2802d2a6dd8",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/DeryNews/status/1997616847437340829",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nعامر هويدي@DeryNewsاعتقالات نفذتها ميليشيات #قسد في ريف دير الزور الغربي بدعم من طيران التحالف الدولينفذت ميليشيات قسد، يوم أمس، عملية مداهمة في بلدة حوايج بومصعة بريف دير الزور الغربي، أسفرت عن اعتقال كلٍّ من أسامة أحمد الخلف وساهر أحمد الخلف وإبراهيم صالح المحيميد وإبراهيم العبد، وفق ما أفادت به مصادر محلية. وجرت العملية بدعم مباشر من طيران التحالف الدولي الذي حلق في أجواء المنطقة أثناء تنفيذ المداهمات.وتأتي هذه الاعتقالات في سياق تصعيد أمني متواصل تشهده بلدات الريف الغربي، وسط شكاوى الأهالي من مداهمات مفاجئة واعتقالات دون توضيح أسبابها أو مصير المحتجزين، ما يسهم في زيادة التوتر والقلق بين السكان.✅ تابعوا قناة الصحفي #عامر_هويدي على تلغرام:\nt.me/DeryNewst.meشبكة ديري نيوز الإخباريةYou can view and join @DeryNews right away.10:39 AM · Dec 7, 2025685Views1111",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001757
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
