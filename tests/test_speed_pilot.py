@@ -8,7 +8,13 @@ import httpx
 
 from archive_pipeline.fetcher import AsyncHostFetcher, CircuitBreakingFetcher, FetchResult, HostCircuitBreaker
 from archive_pipeline.io_utils import utc_now
-from archive_pipeline.speed_pilot import _merge_previous_source, _new_source_record, _scope_sequences, should_defer_archive
+from archive_pipeline.speed_pilot import (
+    _inherit_airwars_circuit_classification,
+    _merge_previous_source,
+    _new_source_record,
+    _scope_sequences,
+    should_defer_archive,
+)
 
 
 def failed_result(url: str) -> FetchResult:
@@ -33,6 +39,8 @@ class CircuitBreakerTests(unittest.TestCase):
         skipped = fetcher.fetch(url)
         self.assertEqual(skipped.attempts, 0)
         self.assertIn("host_circuit_open", skipped.error or "")
+        self.assertEqual(skipped.circuit_open_reason, "http_403")
+        self.assertEqual(skipped.circuit_open_status, 403)
         self.assertEqual(fetcher.inner.fetch.call_count, 3)
 
     def test_circuit_state_survives_a_new_batch(self) -> None:
@@ -69,6 +77,38 @@ class CircuitBreakerTests(unittest.TestCase):
 
 
 class SpeedPilotPolicyTests(unittest.TestCase):
+    def test_same_batch_403_evidence_classifies_circuit_skips_as_blocked(self) -> None:
+        base = {
+            "incident_code": "TEST",
+            "canonical_url": "https://airwars.org/example",
+            "location": "Syria",
+            "incident_date": "2020-01-01",
+            "narrative": "Legacy narrative",
+            "sources": [],
+            "review_flags": [],
+            "retrieval_status": {},
+        }
+        observed = {
+            **base,
+            "retrieval_status": {
+                "airwars_endpoint": {"ok": False, "status": 403, "error": "http_403"},
+            },
+        }
+        skipped = {
+            **base,
+            "retrieval_status": {
+                "airwars_endpoint": {
+                    "ok": False,
+                    "status": None,
+                    "error": "host_circuit_open_after_repeated_block_or_timeout",
+                },
+            },
+            "completeness_status": "failed",
+        }
+        self.assertEqual(_inherit_airwars_circuit_classification([observed, skipped]), 1)
+        self.assertEqual(skipped["retrieval_status"]["airwars_endpoint"]["circuit_open_status"], 403)
+        self.assertEqual(skipped["completeness_status"], "blocked")
+
     def test_default_comparison_scope_is_exactly_0101_through_0150(self) -> None:
         values = _scope_sequences(101, 150)
         self.assertEqual(len(values), 50)
