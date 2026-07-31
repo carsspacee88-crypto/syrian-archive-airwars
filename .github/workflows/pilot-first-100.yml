@@ -20,6 +20,7 @@ concurrency:
 
 jobs:
   collect-translate-build-validate:
+    if: ${{ false }}
     runs-on: ubuntu-latest
     timeout-minutes: 350
     env:
