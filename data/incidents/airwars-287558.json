@@ -1076,7 +1076,17 @@
   "timing": {
     "text_extraction_seconds": 0.0
   },
-  "translation": {},
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": true,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
   "victims": [
     {
       "additional_information": "",
