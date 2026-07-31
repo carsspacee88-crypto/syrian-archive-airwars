@@ -1,0 +1,26 @@
+{
+  "incident_completed_sequences": [],
+  "incident_fetch_stats": {},
+  "incident_timings": [],
+  "pilot": "speed-pilot-0101-0150",
+  "scope": {
+    "count": 50,
+    "first_sequence": 101,
+    "last_sequence": 150
+  },
+  "source_completed_ids": [],
+  "source_fetch_stats": {},
+  "source_outcomes": {},
+  "source_timings": [],
+  "stage_runs": [
+    {
+      "duration_seconds": 0.13,
+      "finished_at": "2026-07-31T20:16:21+00:00",
+      "result": "complete",
+      "stage": "manifest",
+      "started_at": "2026-07-31T20:16:21+00:00"
+    }
+  ],
+  "started_at": "2026-07-31T20:16:21+00:00",
+  "updated_at": "2026-07-31T20:16:21+00:00"
+}
