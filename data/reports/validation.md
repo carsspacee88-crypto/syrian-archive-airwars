@@ -4,7 +4,7 @@
 - أخطاء حرجة / Critical: **0**
 - تحذيرات / Warnings: **5**
 - معلومات / Info: **0**
-- وقت التقرير: `2026-07-31T11:31:50+00:00`
+- وقت التقرير: `2026-07-31T11:49:14+00:00`
 
 ## الفحوص / Checks
 
@@ -42,7 +42,7 @@
     "binary_files_found": 0
   },
   "normalized_records": {
-    "count": 11,
+    "count": 16,
     "duplicate_public_codes": {
       "TS631": [
         "airwars-93203",
@@ -53,7 +53,7 @@
         "airwars-93213"
       ]
     },
-    "unique_internal_ids": 11
+    "unique_internal_ids": 16
   },
   "pagination": {
     "expected_pages": 82,

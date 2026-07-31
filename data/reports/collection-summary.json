@@ -14,6 +14,11 @@
       "airwars-403523",
       "airwars-429171",
       "airwars-454483",
+      "airwars-51133",
+      "airwars-55996",
+      "airwars-57200",
+      "airwars-57902",
+      "airwars-59776",
       "airwars-83712",
       "airwars-84313",
       "airwars-93203",
@@ -22,8 +27,8 @@
     ],
     "normalized_json_parse_errors": [],
     "parser_failure_incident_ids": [],
-    "pending": 8103,
-    "processed": 11,
+    "pending": 8098,
+    "processed": 16,
     "records_requiring_review": 8,
     "review_incident_ids": [
       "airwars-32716",
@@ -39,7 +44,7 @@
       "blocked": 5,
       "complete": 1,
       "conflicting_sources": 0,
-      "failed": 1,
+      "failed": 6,
       "partial": 2,
       "pending_review": 2,
       "unavailable": 0
@@ -57,6 +62,11 @@
       ],
       "conflicting_sources": [],
       "failed": [
+        "airwars-51133",
+        "airwars-55996",
+        "airwars-57200",
+        "airwars-57902",
+        "airwars-59776",
         "airwars-84313"
       ],
       "partial": [
@@ -74,7 +84,7 @@
       "airwars-32716"
     ]
   },
-  "generated_at": "2026-07-31T11:30:20+00:00",
+  "generated_at": "2026-07-31T11:48:32+00:00",
   "legacy_baseline": {
     "complete": 3784,
     "partial": 4330

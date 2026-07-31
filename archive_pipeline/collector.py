@@ -197,11 +197,15 @@ def collect_one(
             output_root / "data" / "raw" / "archive" / internal_id / "page-metadata.json",
             {},
         )
-        capture = previous_archive_metadata.get("capture") or fetcher.latest_wayback_capture(incident_url)
+        known_capture = previous_archive_metadata.get("capture")
+        if known_capture:
+            fetcher.last_wayback_lookup = None
+        capture = known_capture or fetcher.latest_wayback_capture(incident_url)
         if capture:
             archive_result = fetcher.fetch(capture["replay_url"])
             archive_meta = _result_status(archive_result)
             archive_meta["capture"] = capture
+            archive_meta["cdx_lookup"] = fetcher.last_wayback_lookup
             record["retrieval_status"]["archive_page"] = archive_meta
             _write_raw_metadata(
                 output_root,
@@ -230,11 +234,13 @@ def collect_one(
                 except Exception as error:
                     record["review_flags"].append(f"archive_parser_error:{type(error).__name__}")
         else:
+            lookup = fetcher.last_wayback_lookup or {}
             record["retrieval_status"]["archive_page"] = {
                 "ok": False,
                 "status": None,
-                "error": "no_wayback_capture_found",
+                "error": "no_wayback_capture_found" if lookup.get("ok") else "wayback_lookup_failed",
                 "retrieved_at": utc_now(),
+                "cdx_lookup": lookup,
             }
         if not record.get("page_extraction"):
             _apply_saved_archive_snapshot(record, output_root, previous_archive_metadata)

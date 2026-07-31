@@ -62,6 +62,7 @@ class RespectfulFetcher:
         self.retries = max(1, retries)
         self.max_bytes = max_bytes
         self._last_request_at = 0.0
+        self.last_wayback_lookup: dict[str, Any] | None = None
 
     def _wait(self) -> None:
         remaining = self.delay_seconds - (time.monotonic() - self._last_request_at)
@@ -153,6 +154,8 @@ class RespectfulFetcher:
         ]
         cdx_url = "https://web.archive.org/cdx/search/cdx?" + urllib.parse.urlencode(params)
         result = self.fetch(cdx_url, accept="application/json")
+        self.last_wayback_lookup = result.metadata()
+        self.last_wayback_lookup["ok"] = result.ok
         if not result.ok:
             return None
         try:
@@ -160,16 +163,19 @@ class RespectfulFetcher:
         except (UnicodeDecodeError, json.JSONDecodeError):
             return None
         if len(rows) < 2:
+            self.last_wayback_lookup["lookup_result"] = "no_capture"
             return None
         headers = rows[0]
         captures = [dict(zip(headers, row)) for row in rows[1:] if len(row) == len(headers)]
         if not captures:
+            self.last_wayback_lookup["lookup_result"] = "no_capture"
             return None
         capture = max(captures, key=lambda row: row.get("timestamp", ""))
         capture["cdx_url"] = cdx_url
         capture["replay_url"] = (
             f"https://web.archive.org/web/{capture['timestamp']}id_/" + target_url
         )
+        self.last_wayback_lookup["lookup_result"] = "capture_found"
         return capture
 
 
