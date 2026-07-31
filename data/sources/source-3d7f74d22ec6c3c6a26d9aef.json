@@ -1,0 +1,105 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/roHwk"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.34,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:18:25+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 483460,
+      "content_hash": "3b260b75f8b71f51da3c795e894bf9a28536e610a8e6d65a8d2939cf127dd498",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.34,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/watch/?v=475109825370065",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:18:25+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=475109825370065",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "Sham",
+  "captions": [],
+  "content_hash": "1d3ccbbed27973afbede84faf1a7776201f785d309c5d9232ec1f73a3378f651",
+  "content_variants": [
+    {
+      "bytes": 41,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:18:25+00:00",
+      "sha256": "1d3ccbbed27973afbede84faf1a7776201f785d309c5d9232ec1f73a3378f651",
+      "source_url": "https://www.facebook.com/watch/?v=475109825370065",
+      "text": "Discover Popular Videos | Facebook\n\nVideo"
+    }
+  ],
+  "descriptions": [],
+  "exact_content_duplicate_group": "sha256-1d3ccbbed27973afbede84fa",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/watch/?v=475109825370065",
+  "incident_ids": [
+    "airwars-134986"
+  ],
+  "incident_sequences": [
+    133
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=475109825370065",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=475109825370065"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=475109825370065",
+  "page_title": "Discover Popular Videos | Facebook Video",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2007-january-15-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-134986",
+      "incident_sequence": 133,
+      "observed_original_url": "https://www.facebook.com/watch/?v=475109825370065",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Sham",
+  "publisher_ar": "Sham",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:18:25+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-3d7f74d22ec6c3c6a26d9aef",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=475109825370065",
+  "text_ar": "",
+  "text_original": "Discover Popular Videos | Facebook\n\nVideo",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001348
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

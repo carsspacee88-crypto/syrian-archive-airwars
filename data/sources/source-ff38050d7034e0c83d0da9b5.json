@@ -1,0 +1,141 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/xRPW4"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "anfarabic.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://anfarabic.com/lmr-wlhy/mwtmr-star-yln-n-astshhad-ahdy-adaryath-fy-dyryk-114008",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:09+00:00",
+      "status": null,
+      "url": "https://anfarabic.com/lmr-wlhy/mwtmr-star-yln-n-astshhad-ahdy-adaryath-fy-dyryk-114008",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.ph",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.ph/wip/xRPW4",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:54+00:00",
+      "status": null,
+      "url": "https://archive.ph/wip/xRPW4",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fanfarabic.com%2Flmr-wlhy%2Fmwtmr-star-yln-n-astshhad-ahdy-adaryath-fy-dyryk-114008&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:24:12+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fanfarabic.com%2Flmr-wlhy%2Fmwtmr-star-yln-n-astshhad-ahdy-adaryath-fy-dyryk-114008&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "ANF News",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://anfarabic.com/lmr-wlhy/mwtmr-star-yln-n-astshhad-ahdy-adaryath-fy-dyryk-114008",
+  "incident_ids": [
+    "airwars-263434"
+  ],
+  "incident_sequences": [
+    141
+  ],
+  "normalized_url": "https://anfarabic.com/lmr-wlhy/mwtmr-star-yln-n-astshhad-ahdy-adaryath-fy-dyryk-114008",
+  "observed_original_urls": [
+    "https://anfarabic.com/lmr-wlhy/mwtmr-star-yln-n-astshhad-ahdy-adaryath-fy-dyryk-114008"
+  ],
+  "original_url": "https://anfarabic.com/lmr-wlhy/mwtmr-star-yln-n-astshhad-ahdy-adaryath-fy-dyryk-114008",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts767-january-10-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-263434",
+      "incident_sequence": 141,
+      "observed_original_url": "https://anfarabic.com/lmr-wlhy/mwtmr-star-yln-n-astshhad-ahdy-adaryath-fy-dyryk-114008",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "ANF News",
+  "publisher_ar": "ANF News",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:22:09+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-ff38050d7034e0c83d0da9b5",
+  "source_type": "news_article",
+  "stable_id_basis": "https://anfarabic.com/lmr-wlhy/mwtmr-star-yln-n-astshhad-ahdy-adaryath-fy-dyryk-114008",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

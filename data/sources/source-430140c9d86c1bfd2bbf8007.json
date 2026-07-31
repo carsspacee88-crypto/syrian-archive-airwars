@@ -1,0 +1,95 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://airwars.org/source/www-aa-com-tr-17/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 3.643,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:17:03+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 356035,
+      "content_hash": "a088d2eed0de18f6a1e1ff1fbb6ebb4e534eab44676cda9d02bf3db9000b11fe",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 3.643,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.aa.com.tr/en/turkiye/turkish-intel-neutralizes-so-called-senior-member-of-terrorist-pkk-ypg/3470011#",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:17:03+00:00",
+      "status": 200,
+      "url": "https://www.aa.com.tr/en/turkiye/turkish-intel-neutralizes-so-called-senior-member-of-terrorist-pkk-ypg/3470011#",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Anadolu Agency",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "parsing_failed",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.aa.com.tr/en/turkiye/turkish-intel-neutralizes-so-called-senior-member-of-terrorist-pkk-ypg/3470011#",
+  "incident_ids": [
+    "airwars-258243"
+  ],
+  "incident_sequences": [
+    121
+  ],
+  "normalized_url": "https://www.aa.com.tr/en/turkiye/turkish-intel-neutralizes-so-called-senior-member-of-terrorist-pkk-ypg/3470011",
+  "observed_original_urls": [
+    "https://www.aa.com.tr/en/turkiye/turkish-intel-neutralizes-so-called-senior-member-of-terrorist-pkk-ypg/3470011#"
+  ],
+  "original_url": "https://www.aa.com.tr/en/turkiye/turkish-intel-neutralizes-so-called-senior-member-of-terrorist-pkk-ypg/3470011#",
+  "page_title": "Turkish intel ‘neutralizes’ so-called senior member of terrorist PKK/YPG",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts782-january-28-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-258243",
+      "incident_sequence": 121,
+      "observed_original_url": "https://www.aa.com.tr/en/turkiye/turkish-intel-neutralizes-so-called-senior-member-of-terrorist-pkk-ypg/3470011#",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Anadolu Agency",
+  "publisher_ar": "Anadolu Agency",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:17:03+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-430140c9d86c1bfd2bbf8007",
+  "source_type": "news_article",
+  "stable_id_basis": "https://www.aa.com.tr/en/turkiye/turkish-intel-neutralizes-so-called-senior-member-of-terrorist-pkk-ypg/3470011",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "en",
+  "timing": {
+    "text_extraction_seconds": 0.002647
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

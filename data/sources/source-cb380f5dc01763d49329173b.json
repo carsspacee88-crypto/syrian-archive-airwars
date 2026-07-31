@@ -1,0 +1,143 @@
+{
+  "airwars_source_ids": [
+    "308273"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-user8-2025-02-14-113414-2/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "syriahr.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://www.syriahr.com/en/355881/?fbclid=IwY2xjawIee6JleHRuA2FlbQIxMQABHZMkNT5UScgM-jiWZKrXwvqZ-JMkZG9UxPcNi6bXPwFFJQY-gTOc6OHGfQ_aem_8URgMiplUnda",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:07+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/en/355881/?fbclid=IwY2xjawIee6JleHRuA2FlbQIxMQABHZMkNT5UScgM-jiWZKrXwvqZ-JMkZG9UxPcNi6bXPwFFJQY-gTOc6OHGfQ_aem_8URgMiplUnda",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://airwars.org/source/www-syriahr-com-user8-2025-02-14-113414-2/",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:07+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/www-syriahr-com-user8-2025-02-14-113414-2/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2Fen%2F355881%2F%3Ffbclid%3DIwY2xjawIee6JleHRuA2FlbQIxMQABHZMkNT5UScgM-jiWZKrXwvqZ-JMkZG9UxPcNi6bXPwFFJQY-gTOc6OHGfQ_aem_8URgMiplUnda&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:07+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2Fen%2F355881%2F%3Ffbclid%3DIwY2xjawIee6JleHRuA2FlbQIxMQABHZMkNT5UScgM-jiWZKrXwvqZ-JMkZG9UxPcNi6bXPwFFJQY-gTOc6OHGfQ_aem_8URgMiplUnda&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "user8",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://www.syriahr.com/en/355881/?fbclid=IwY2xjawIee6JleHRuA2FlbQIxMQABHZMkNT5UScgM-jiWZKrXwvqZ-JMkZG9UxPcNi6bXPwFFJQY-gTOc6OHGfQ_aem_8URgMiplUnda",
+  "incident_ids": [
+    "airwars-290199"
+  ],
+  "incident_sequences": [
+    106
+  ],
+  "normalized_url": "https://www.syriahr.com/en/355881/?fbclid=IwY2xjawIee6JleHRuA2FlbQIxMQABHZMkNT5UScgM-jiWZKrXwvqZ-JMkZG9UxPcNi6bXPwFFJQY-gTOc6OHGfQ_aem_8URgMiplUnda",
+  "observed_original_urls": [
+    "https://www.syriahr.com/en/355881/?fbclid=IwY2xjawIee6JleHRuA2FlbQIxMQABHZMkNT5UScgM-jiWZKrXwvqZ-JMkZG9UxPcNi6bXPwFFJQY-gTOc6OHGfQ_aem_8URgMiplUnda"
+  ],
+  "original_url": "https://www.syriahr.com/en/355881/?fbclid=IwY2xjawIee6JleHRuA2FlbQIxMQABHZMkNT5UScgM-jiWZKrXwvqZ-JMkZG9UxPcNi6bXPwFFJQY-gTOc6OHGfQ_aem_8URgMiplUnda",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts790-february-14-2025/",
+      "airwars_source_id": "308273",
+      "incident_id": "airwars-290199",
+      "incident_sequence": 106,
+      "observed_original_url": "https://www.syriahr.com/en/355881/?fbclid=IwY2xjawIee6JleHRuA2FlbQIxMQABHZMkNT5UScgM-jiWZKrXwvqZ-JMkZG9UxPcNi6bXPwFFJQY-gTOc6OHGfQ_aem_8URgMiplUnda",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "14 فبراير 2025",
+  "publisher": "user8",
+  "publisher_ar": "user8",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:20:07+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-cb380f5dc01763d49329173b",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.syriahr.com/en/355881/?fbclid=IwY2xjawIee6JleHRuA2FlbQIxMQABHZMkNT5UScgM-jiWZKrXwvqZ-JMkZG9UxPcNi6bXPwFFJQY-gTOc6OHGfQ_aem_8URgMiplUnda",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "en",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

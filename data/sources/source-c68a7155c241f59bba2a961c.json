@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "289214"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-alsharqia24news-1889248660602372490-2025-02-11-094235/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.208,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:24+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 59350,
+      "content_hash": "898014b71f8072dfb36c34754df4e8c317e599352d6c78e48d87b8a00b7ce871",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.208,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/alsharqia24news/status/1889248660602372490",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:24+00:00",
+      "status": 200,
+      "url": "https://x.com/alsharqia24news/status/1889248660602372490",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "alsharqia24news",
+  "captions": [],
+  "content_hash": "d0b302e719ac3a77400df98826a7b591610ccdd34fe67f733e0b55917f502b59",
+  "content_variants": [
+    {
+      "bytes": 30,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:24+00:00",
+      "sha256": "d0b302e719ac3a77400df98826a7b591610ccdd34fe67f733e0b55917f502b59",
+      "source_url": "https://x.com/alsharqia24news/status/1889248660602372490",
+      "text": "PostLog inSign upPost261Views1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/alsharqia24news/status/1889248660602372490",
+  "incident_ids": [
+    "airwars-367991"
+  ],
+  "incident_sequences": [
+    107
+  ],
+  "normalized_url": "https://x.com/alsharqia24news/status/1889248660602372490",
+  "observed_original_urls": [
+    "https://x.com/alsharqia24news/status/1889248660602372490"
+  ],
+  "original_url": "https://x.com/alsharqia24news/status/1889248660602372490",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0124-february-10-2025/",
+      "airwars_source_id": "289214",
+      "incident_id": "airwars-367991",
+      "incident_sequence": 107,
+      "observed_original_url": "https://x.com/alsharqia24news/status/1889248660602372490",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "11 فبراير 2025",
+  "publisher": "alsharqia24news",
+  "publisher_ar": "alsharqia24news",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:24+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c68a7155c241f59bba2a961c",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/alsharqia24news/status/1889248660602372490",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost261Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001077
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

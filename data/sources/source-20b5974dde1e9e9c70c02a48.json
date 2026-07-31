@@ -1,0 +1,144 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/EbfVp"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "syriahr.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://www.syriahr.com/لأول-مرة-منذ-بداية-العام-الجديد-مسيرة/744962/?fbclid=IwY2xjawH_S9dleHRuA2FlbQIxMQABHVJPn31987IvLO-gv62uH4vRy0Y_i6qr9hq3aaErYsDFyO9bvRos2kTSFw_aem_zzwIdypuxwZmHKvZetXL3A",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:17:01+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/لأول-مرة-منذ-بداية-العام-الجديد-مسيرة/744962/?fbclid=IwY2xjawH_S9dleHRuA2FlbQIxMQABHVJPn31987IvLO-gv62uH4vRy0Y_i6qr9hq3aaErYsDFyO9bvRos2kTSFw_aem_zzwIdypuxwZmHKvZetXL3A",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.363,
+          "error": "http_429",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T20:19:32+00:00",
+          "status": 429
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 55509,
+      "content_hash": "ab201c2c92b5df9006b671015e3896e1d53ff24b76a101f39036fe1794be6f50",
+      "content_type": "text/html",
+      "elapsed_seconds": 0.363,
+      "error": "http_429",
+      "etag": "",
+      "final_url": "https://archive.is/EbfVp",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:19:32+00:00",
+      "status": 429,
+      "url": "https://archive.is/EbfVp",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D9%85%D9%86%D8%B0-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9%2F744962%2F%3Ffbclid%3DIwY2xjawH_S9dleHRuA2FlbQIxMQABHVJPn31987IvLO-gv62uH4vRy0Y_i6qr9hq3aaErYsDFyO9bvRos2kTSFw_aem_zzwIdypuxwZmHKvZetXL3A&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:02+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D9%85%D9%86%D8%B0-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9%2F744962%2F%3Ffbclid%3DIwY2xjawH_S9dleHRuA2FlbQIxMQABHVJPn31987IvLO-gv62uH4vRy0Y_i6qr9hq3aaErYsDFyO9bvRos2kTSFw_aem_zzwIdypuxwZmHKvZetXL3A&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "SOHR news",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://www.syriahr.com/لأول-مرة-منذ-بداية-العام-الجديد-مسيرة/744962/?fbclid=IwY2xjawH_S9dleHRuA2FlbQIxMQABHVJPn31987IvLO-gv62uH4vRy0Y_i6qr9hq3aaErYsDFyO9bvRos2kTSFw_aem_zzwIdypuxwZmHKvZetXL3A",
+  "incident_ids": [
+    "airwars-134756"
+  ],
+  "incident_sequences": [
+    144
+  ],
+  "normalized_url": "https://www.syriahr.com/لأول-مرة-منذ-بداية-العام-الجديد-مسيرة/744962/?fbclid=IwY2xjawH_S9dleHRuA2FlbQIxMQABHVJPn31987IvLO-gv62uH4vRy0Y_i6qr9hq3aaErYsDFyO9bvRos2kTSFw_aem_zzwIdypuxwZmHKvZetXL3A",
+  "observed_original_urls": [
+    "https://www.syriahr.com/لأول-مرة-منذ-بداية-العام-الجديد-مسيرة/744962/?fbclid=IwY2xjawH_S9dleHRuA2FlbQIxMQABHVJPn31987IvLO-gv62uH4vRy0Y_i6qr9hq3aaErYsDFyO9bvRos2kTSFw_aem_zzwIdypuxwZmHKvZetXL3A"
+  ],
+  "original_url": "https://www.syriahr.com/لأول-مرة-منذ-بداية-العام-الجديد-مسيرة/744962/?fbclid=IwY2xjawH_S9dleHRuA2FlbQIxMQABHVJPn31987IvLO-gv62uH4vRy0Y_i6qr9hq3aaErYsDFyO9bvRos2kTSFw_aem_zzwIdypuxwZmHKvZetXL3A",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2006-january-9-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-134756",
+      "incident_sequence": 144,
+      "observed_original_url": "https://www.syriahr.com/لأول-مرة-منذ-بداية-العام-الجديد-مسيرة/744962/?fbclid=IwY2xjawH_S9dleHRuA2FlbQIxMQABHVJPn31987IvLO-gv62uH4vRy0Y_i6qr9hq3aaErYsDFyO9bvRos2kTSFw_aem_zzwIdypuxwZmHKvZetXL3A",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "SOHR news",
+  "publisher_ar": "SOHR news",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:17:01+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-20b5974dde1e9e9c70c02a48",
+  "source_type": "news_article",
+  "stable_id_basis": "https://www.syriahr.com/لأول-مرة-منذ-بداية-العام-الجديد-مسيرة/744962/?fbclid=IwY2xjawH_S9dleHRuA2FlbQIxMQABHVJPn31987IvLO-gv62uH4vRy0Y_i6qr9hq3aaErYsDFyO9bvRos2kTSFw_aem_zzwIdypuxwZmHKvZetXL3A",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

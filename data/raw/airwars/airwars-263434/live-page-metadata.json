@@ -1,0 +1,25 @@
+{
+  "attempt_history": [
+    {
+      "attempt": 0,
+      "host": "airwars.org",
+      "result": "host_circuit_open"
+    }
+  ],
+  "attempts": 0,
+  "body_decoded_from": null,
+  "bytes": 0,
+  "content_hash": null,
+  "content_type": "",
+  "elapsed_seconds": 0.0,
+  "error": "host_circuit_open_after_repeated_block_or_timeout",
+  "etag": "",
+  "final_url": "https://airwars.org/civilian-casualties/ts767-january-10-2025/",
+  "last_modified": "",
+  "ok": false,
+  "response_content_encoding": "",
+  "retrieved_at": "2026-07-31T20:16:57+00:00",
+  "status": null,
+  "url": "https://airwars.org/civilian-casualties/ts767-january-10-2025/",
+  "waiting_seconds": 0.0
+}

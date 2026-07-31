@@ -1,0 +1,164 @@
+name: اختبار تسريع الجمع للحوادث 0101–0150
+
+on:
+  push:
+    branches: [agent/speed-up-collection-pilot]
+    paths:
+      - "archive_pipeline/**"
+      - "scripts/run_speed_pilot.py"
+      - "tests/**"
+      - "requirements.txt"
+      - ".github/workflows/pilot-speed-50.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: speed-pilot-0101-0150-v1
+  cancel-in-progress: false
+
+jobs:
+  collect-and-compare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      TRANSLATION_PROVIDER: disabled
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - name: جلب فرع اختبار التسريع
+        uses: actions/checkout@v6
+        with:
+          ref: agent/speed-up-collection-pilot
+          fetch-depth: 0
+
+      - name: إعداد Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: تثبيت الاعتمادات
+        run: python -m pip install -r requirements.txt
+
+      - name: اختبارات الوحدة
+        run: python -m unittest discover -s tests -v
+
+      - name: تكوين لقطة الهجرة التاريخية
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat site-package/part-* > /tmp/syrian-archive-site.zip
+          echo "9f35a90d92f9fb0334cb61ffd8434aac03fd0ee61622908a11923dac40da35f3  /tmp/syrian-archive-site.zip" | sha256sum --check
+
+      - name: إنشاء manifest للحوادث 0101–0150
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python scripts/run_speed_pilot.py \
+            --legacy-zip /tmp/syrian-archive-site.zip \
+            --output-root . \
+            --first-sequence 101 \
+            --last-sequence 150 \
+            --stage manifest
+          git add data
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "data: initialize 0101-0150 speed pilot"
+            git push origin HEAD:agent/speed-up-collection-pilot
+          fi
+
+      - name: جمع الحوادث مع قاطع Airwars وWayback
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/run_speed_pilot.py \
+            --legacy-zip /tmp/syrian-archive-site.zip \
+            --output-root . \
+            --first-sequence 101 \
+            --last-sequence 150 \
+            --stage incidents \
+            --max-items 50 \
+            --delay 0.75 \
+            --timeout 10 \
+            --retries 1
+          git add data
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "data: checkpoint speed pilot incidents"
+            git push origin HEAD:agent/speed-up-collection-pilot
+          fi
+
+      - name: جمع المصادر على دفعات متوازية محفوظة
+        shell: bash
+        run: |
+          set -euo pipefail
+          while true; do
+            python scripts/run_speed_pilot.py \
+              --legacy-zip /tmp/syrian-archive-site.zip \
+              --output-root . \
+              --first-sequence 101 \
+              --last-sequence 150 \
+              --stage sources \
+              --max-items 200 \
+              --workers 6 \
+              --per-host-workers 1 \
+              --delay 0.75 \
+              --timeout 10 \
+              --retries 1
+            git add data
+            git diff --cached --check
+            if ! git diff --cached --quiet; then
+              git commit -m "data: checkpoint speed pilot source batch"
+              git push origin HEAD:agent/speed-up-collection-pilot
+            fi
+            if python -c 'import json; raise SystemExit(0 if json.load(open("data/pilot/speed-pilot-0101-0150-stage-result.json"))["done"] else 1)'; then
+              break
+            fi
+          done
+
+      - name: إنشاء تقرير المقارنة والتحقق من السياسة
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/run_speed_pilot.py \
+            --legacy-zip /tmp/syrian-archive-site.zip \
+            --output-root . \
+            --first-sequence 101 \
+            --last-sequence 150 \
+            --stage report \
+            --workers 6 \
+            --per-host-workers 1
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          report = json.loads(Path("data/reports/speed-pilot-0101-0150.json").read_text(encoding="utf-8"))
+          assert report["scope"] == {"first_sequence": 101, "last_sequence": 150, "count": 50}
+          assert report["validation"]["all_scope_incidents_present"]
+          assert report["validation"]["all_sources_present"]
+          assert report["validation"]["outside_scope_sequences_processed"] == []
+          assert report["validation"]["generated_translations"] == 0
+          assert report["validation"]["media_binary_bytes"] == 0
+          assert report["comparison"]["speedup_factor"] is not None
+          PY
+          test "$(find data -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.gif' -o -iname '*.webp' -o -iname '*.mp4' -o -iname '*.mp3' \) | wc -l)" -eq 0
+          git add data
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "data: complete 0101-0150 speed comparison"
+            git push origin HEAD:agent/speed-up-collection-pilot
+          fi
+
+      - name: رفع تقرير القياس
+        uses: actions/upload-artifact@v6
+        with:
+          name: speed-pilot-0101-0150-results
+          path: |
+            data/reports/speed-pilot-0101-0150.json
+            data/reports/speed-pilot-0101-0150.md
+            data/reports/speed-pilot-0101-0150-exact-url-duplicates.json
+            data/pilot/speed-pilot-0101-0150-progress.json
+          retention-days: 14

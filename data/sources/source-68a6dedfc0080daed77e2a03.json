@@ -1,0 +1,116 @@
+{
+  "airwars_source_ids": [
+    "289788",
+    "289807"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-syrianumayyad-1893215989535306040-2025-02-22-082720/",
+    "https://airwars.org/source/x-com-syrianumayyad-1893215989535306040-2025-02-22-082720-2/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.2,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:17:17+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 78013,
+      "content_hash": "c0baec66dc9f177703cb86181174434b585de3a2c54d80b6565bba73e62e5bfa",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.2,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/SyrianUmayyad/status/1893215989535306040",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:17:17+00:00",
+      "status": 200,
+      "url": "https://x.com/SyrianUmayyad/status/1893215989535306040",
+      "waiting_seconds": 0.749
+    }
+  ],
+  "author": "https://x.com/SyrianUmayyad",
+  "captions": [],
+  "content_hash": "6b7cdc105d836992dd16d21197adb2d2fc1669d74c65a9a4f4af5661caaefdb5",
+  "content_variants": [
+    {
+      "bytes": 402,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:17:17+00:00",
+      "sha256": "6b7cdc105d836992dd16d21197adb2d2fc1669d74c65a9a4f4af5661caaefdb5",
+      "source_url": "https://x.com/SyrianUmayyad/status/1893215989535306040",
+      "text": "Post\n\nPost\n\nالإخبارية السورية الأموية@SyrianUmayyad#ديرالزور\nبغطاء من الطيران المروحي اعتقلت ميليشيات PKK/YPG من \"محمد صياح الرجب\" و\"مهيدي الخلف\" أثناء مداهمة نفذتها فجر اليوم في بلدة #الكشكية شرق ديرالزور، وهم مدنيين.8:27 AM · Feb 22, 2025563Views12"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyrianUmayyad/status/1893215989535306040",
+  "incident_ids": [
+    "airwars-367995"
+  ],
+  "incident_sequences": [
+    102
+  ],
+  "normalized_url": "https://x.com/SyrianUmayyad/status/1893215989535306040",
+  "observed_original_urls": [
+    "https://x.com/SyrianUmayyad/status/1893215989535306040"
+  ],
+  "original_url": "https://x.com/SyrianUmayyad/status/1893215989535306040",
+  "page_title": "الإخبارية السورية الأموية on X: \"#ديرالزور\nبغطاء من الطيران المروحي اعتقلت ميليشيات PKK/YPG من \"محمد صياح الرجب\" و\"مهيدي الخلف\" أثناء مداهمة نفذتها فجر اليوم في بلدة #الكشكية شرق ديرالزور، وهم مدنيين.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0128-february-22-2025/",
+      "airwars_source_id": "289788",
+      "incident_id": "airwars-367995",
+      "incident_sequence": 102,
+      "observed_original_url": "https://x.com/SyrianUmayyad/status/1893215989535306040",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0128-february-22-2025/",
+      "airwars_source_id": "289807",
+      "incident_id": "airwars-367995",
+      "incident_sequence": 102,
+      "observed_original_url": "https://x.com/SyrianUmayyad/status/1893215989535306040",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-02-22T08:27:20.000Z",
+  "publisher": "SyrianUmayyad",
+  "publisher_ar": "SyrianUmayyad",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:17:17+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-68a6dedfc0080daed77e2a03",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyrianUmayyad/status/1893215989535306040",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالإخبارية السورية الأموية@SyrianUmayyad#ديرالزور\nبغطاء من الطيران المروحي اعتقلت ميليشيات PKK/YPG من \"محمد صياح الرجب\" و\"مهيدي الخلف\" أثناء مداهمة نفذتها فجر اليوم في بلدة #الكشكية شرق ديرالزور، وهم مدنيين.8:27 AM · Feb 22, 2025563Views12",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001344
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

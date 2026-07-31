@@ -1,0 +1,104 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/YpBRY"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.167,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:17:04+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 54087,
+      "content_hash": "7aa354d37adf19261f32ffca51965279d2ce398c6b6caeb89b303c4e3df69cb3",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.167,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/syrian_st/status/1879498548523466793",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:17:04+00:00",
+      "status": 200,
+      "url": "https://x.com/syrian_st/status/1879498548523466793",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "'@syrian_st",
+  "captions": [],
+  "content_hash": "430c2780117fa7e12494dce3bf78130dbb12e8fd98ce25eed96b7c284befc0f2",
+  "content_variants": [
+    {
+      "bytes": 28,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:17:04+00:00",
+      "sha256": "430c2780117fa7e12494dce3bf78130dbb12e8fd98ce25eed96b7c284befc0f2",
+      "source_url": "https://x.com/syrian_st/status/1879498548523466793",
+      "text": "PostLog inSign upPost47Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/syrian_st/status/1879498548523466793",
+  "incident_ids": [
+    "airwars-134986"
+  ],
+  "incident_sequences": [
+    133
+  ],
+  "normalized_url": "https://x.com/syrian_st/status/1879498548523466793",
+  "observed_original_urls": [
+    "https://x.com/syrian_st/status/1879498548523466793"
+  ],
+  "original_url": "https://x.com/syrian_st/status/1879498548523466793",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2007-january-15-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-134986",
+      "incident_sequence": 133,
+      "observed_original_url": "https://x.com/syrian_st/status/1879498548523466793",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "'@syrian_st",
+  "publisher_ar": "'@syrian_st",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:17:04+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-145dca024f3f1dd8bb5481d0",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/syrian_st/status/1879498548523466793",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost47Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.000895
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

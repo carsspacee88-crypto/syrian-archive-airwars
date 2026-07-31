@@ -1,0 +1,104 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/1MZw0"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.914,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:17:00+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 776710,
+      "content_hash": "c42ffb56783eb876dadf0c96a986297658d579b6859362f876a73d8592cf75a7",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.914,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.instagram.com/jintv.ar/p/DEkuHVmI4FC/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:17:00+00:00",
+      "status": 200,
+      "url": "https://www.instagram.com/jintvofficial_ar/p/DEkuHVmI4FC/",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Jin TV",
+  "captions": [],
+  "content_hash": "26ca55673a5548238089292af285a89c3e441157d8f0537940ea19507abb8b3b",
+  "content_variants": [
+    {
+      "bytes": 528,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:17:00+00:00",
+      "sha256": "26ca55673a5548238089292af285a89c3e441157d8f0537940ea19507abb8b3b",
+      "source_url": "https://www.instagram.com/jintv.ar/p/DEkuHVmI4FC/",
+      "text": "CloseNever miss a post from jintv.arSign up for Instagram to stay in the loop.Sign upLog injintv.ar•FollowMore optionsjintv.ar 81w🔴 فقد عامل حياته وأصيب 5 آخرون في قصف الاحتلال التركي ومرتزقته لمرآب لتصليح السيارات في مدينة صرين جنوب كوباني.Load more commentsNo comments yet.Start the conversation.Like9CommentShareSaveJanuary 8, 2025Log in to like or comment.More posts from jintv.arClipClipClipClipClipClipClipClipClipSee more posts"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.instagram.com/jintv.ar/p/DEkuHVmI4FC/",
+  "incident_ids": [
+    "airwars-256422"
+  ],
+  "incident_sequences": [
+    148
+  ],
+  "normalized_url": "https://www.instagram.com/jintvofficial_ar/p/DEkuHVmI4FC/",
+  "observed_original_urls": [
+    "https://www.instagram.com/jintvofficial_ar/p/DEkuHVmI4FC/"
+  ],
+  "original_url": "https://www.instagram.com/jintvofficial_ar/p/DEkuHVmI4FC/",
+  "page_title": "Instagram Instagram Close More options Load more comments Like Comment Share Save Clip Clip Clip Clip Clip Clip Clip Clip Clip Down chevron icon",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts761-january-8-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-256422",
+      "incident_sequence": 148,
+      "observed_original_url": "https://www.instagram.com/jintvofficial_ar/p/DEkuHVmI4FC/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-01-08T17:55:55.000Z 2025-01-08T17:55:53.000Z",
+  "publisher": "Jin TV",
+  "publisher_ar": "Jin TV",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:17:00+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-4ba162a0c41bb547d2f635e4",
+  "source_type": "public_instagram_post",
+  "stable_id_basis": "https://www.instagram.com/jintvofficial_ar/p/DEkuHVmI4FC/",
+  "text_ar": "",
+  "text_original": "CloseNever miss a post from jintv.arSign up for Instagram to stay in the loop.Sign upLog injintv.ar•FollowMore optionsjintv.ar 81w🔴 فقد عامل حياته وأصيب 5 آخرون في قصف الاحتلال التركي ومرتزقته لمرآب لتصليح السيارات في مدينة صرين جنوب كوباني.Load more commentsNo comments yet.Start the conversation.Like9CommentShareSaveJanuary 8, 2025Log in to like or comment.More posts from jintv.arClipClipClipClipClipClipClipClipClipSee more posts",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.006095
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

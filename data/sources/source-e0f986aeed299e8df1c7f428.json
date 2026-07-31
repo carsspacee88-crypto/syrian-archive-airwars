@@ -1,0 +1,147 @@
+{
+  "airwars_source_ids": [
+    "304952"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-02-01-211651/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "syriahr.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://www.syriahr.com/الحربي-التركي-يقصف-ريف-عين-العرب-كوبان/747742/?fbclid=IwY2xjawIMAnNleHRuA2FlbQIxMQABHQPvU4yl9DRzZB4moBQzmybxRKoSZFj6enju_-I_5YP83",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:09+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/الحربي-التركي-يقصف-ريف-عين-العرب-كوبان/747742/?fbclid=IwY2xjawIMAnNleHRuA2FlbQIxMQABHQPvU4yl9DRzZB4moBQzmybxRKoSZFj6enju_-I_5YP83",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-02-01-211651/",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:54+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-02-01-211651/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 7.004,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:23:39+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 3,
+      "content_hash": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "content_type": "application/json",
+      "elapsed_seconds": 7.004,
+      "error": null,
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D9%82%D8%B5%D9%81-%D8%B1%D9%8A%D9%81-%D8%B9%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%83%D9%88%D8%A8%D8%A7%D9%86%2F747742%2F%3Ffbclid%3DIwY2xjawIMAnNleHRuA2FlbQIxMQABHQPvU4yl9DRzZB4moBQzmybxRKoSZFj6enju_-I_5YP83&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "lookup_result": "no_capture",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:23:39+00:00",
+      "status": 200,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D9%82%D8%B5%D9%81-%D8%B1%D9%8A%D9%81-%D8%B9%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%83%D9%88%D8%A8%D8%A7%D9%86%2F747742%2F%3Ffbclid%3DIwY2xjawIMAnNleHRuA2FlbQIxMQABHQPvU4yl9DRzZB4moBQzmybxRKoSZFj6enju_-I_5YP83&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "المرصد السوري",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "no_archive_capture",
+  "final_redirected_url": "https://www.syriahr.com/الحربي-التركي-يقصف-ريف-عين-العرب-كوبان/747742/?fbclid=IwY2xjawIMAnNleHRuA2FlbQIxMQABHQPvU4yl9DRzZB4moBQzmybxRKoSZFj6enju_-I_5YP83",
+  "incident_ids": [
+    "airwars-290193"
+  ],
+  "incident_sequences": [
+    117
+  ],
+  "normalized_url": "https://www.syriahr.com/الحربي-التركي-يقصف-ريف-عين-العرب-كوبان/747742/?fbclid=IwY2xjawIMAnNleHRuA2FlbQIxMQABHQPvU4yl9DRzZB4moBQzmybxRKoSZFj6enju_-I_5YP83",
+  "observed_original_urls": [
+    "https://www.syriahr.com/الحربي-التركي-يقصف-ريف-عين-العرب-كوبان/747742/?fbclid=IwY2xjawIMAnNleHRuA2FlbQIxMQABHQPvU4yl9DRzZB4moBQzmybxRKoSZFj6enju_-I_5YP83"
+  ],
+  "original_url": "https://www.syriahr.com/الحربي-التركي-يقصف-ريف-عين-العرب-كوبان/747742/?fbclid=IwY2xjawIMAnNleHRuA2FlbQIxMQABHQPvU4yl9DRzZB4moBQzmybxRKoSZFj6enju_-I_5YP83",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts785-february-1-2025/",
+      "airwars_source_id": "304952",
+      "incident_id": "airwars-290193",
+      "incident_sequence": 117,
+      "observed_original_url": "https://www.syriahr.com/الحربي-التركي-يقصف-ريف-عين-العرب-كوبان/747742/?fbclid=IwY2xjawIMAnNleHRuA2FlbQIxMQABHQPvU4yl9DRzZB4moBQzmybxRKoSZFj6enju_-I_5YP83",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "1 فبراير 2025",
+  "publisher": "Syrian Observatory",
+  "publisher_ar": "المرصد السوري",
+  "retrieval_status": "no_archive_capture",
+  "retrieved_at": "2026-07-31T20:22:09+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-e0f986aeed299e8df1c7f428",
+  "source_type": "ngo_report",
+  "stable_id_basis": "https://www.syriahr.com/الحربي-التركي-يقصف-ريف-عين-العرب-كوبان/747742/?fbclid=IwY2xjawIMAnNleHRuA2FlbQIxMQABHQPvU4yl9DRzZB4moBQzmybxRKoSZFj6enju_-I_5YP83",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

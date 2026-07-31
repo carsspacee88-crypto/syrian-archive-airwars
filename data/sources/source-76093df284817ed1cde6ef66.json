@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "289273"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-rajabmotaz1-1890906221722378348-2025-02-15-232909/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.506,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:05+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 84389,
+      "content_hash": "07abc1102e9134df7f18b2f01e0bf6b6e925278acff9570869024ab4db973409",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.506,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/RajabMotaz1/status/1890906221722378348",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:05+00:00",
+      "status": 200,
+      "url": "https://x.com/RajabMotaz1/status/1890906221722378348",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "https://x.com/RajabMotaz1",
+  "captions": [],
+  "content_hash": "bad5cd33e4b693fd11fed08856682d177dc54e27d545837c7d9c72dcc44aa95f",
+  "content_variants": [
+    {
+      "bytes": 327,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:05+00:00",
+      "sha256": "bad5cd33e4b693fd11fed08856682d177dc54e27d545837c7d9c72dcc44aa95f",
+      "source_url": "https://x.com/RajabMotaz1/status/1890906221722378348",
+      "text": "Post\n\nPost\n\nR M@RajabMotaz1إدلب\nمقتل ثلاث أشخاص بغارة جوية نفذتها طائرة مسيرة يُعتقد أنها تابعة للتحالف الدولي استهدفت سيارتهم على طريق أورم الجوز في ريف إدلب.\n#سوريا_الان00:0011:29 PM · Feb 15, 2025104Views1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/RajabMotaz1/status/1890906221722378348",
+  "incident_ids": [
+    "airwars-367992"
+  ],
+  "incident_sequences": [
+    104
+  ],
+  "normalized_url": "https://x.com/RajabMotaz1/status/1890906221722378348",
+  "observed_original_urls": [
+    "https://x.com/RajabMotaz1/status/1890906221722378348"
+  ],
+  "original_url": "https://x.com/RajabMotaz1/status/1890906221722378348",
+  "page_title": "R M on X: \"إدلب\nمقتل ثلاث أشخاص بغارة جوية نفذتها طائرة مسيرة يُعتقد أنها تابعة للتحالف الدولي استهدفت سيارتهم على طريق أورم الجوز في ريف إدلب.\n#سوريا_الان https://t.co/a7gme79GRi\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0125-february-15-2025/",
+      "airwars_source_id": "289273",
+      "incident_id": "airwars-367992",
+      "incident_sequence": 104,
+      "observed_original_url": "https://x.com/RajabMotaz1/status/1890906221722378348",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-02-15T23:29:09.000Z",
+  "publisher": "RajabMotaz1",
+  "publisher_ar": "RajabMotaz1",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:05+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-76093df284817ed1cde6ef66",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/RajabMotaz1/status/1890906221722378348",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nR M@RajabMotaz1إدلب\nمقتل ثلاث أشخاص بغارة جوية نفذتها طائرة مسيرة يُعتقد أنها تابعة للتحالف الدولي استهدفت سيارتهم على طريق أورم الجوز في ريف إدلب.\n#سوريا_الان00:0011:29 PM · Feb 15, 2025104Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001241
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

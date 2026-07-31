@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "274092"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-watanserb_news-1879614729666035956-2025-01-15-194047/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.24,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:14+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 89498,
+      "content_hash": "f8776c96692bbb0b8ce900806c42e7fa330c19dc15c91d7f5def341afb842ab2",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.24,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/watanserb_news/status/1879614729666035956",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:14+00:00",
+      "status": 200,
+      "url": "https://x.com/watanserb_news/status/1879614729666035956",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/watanserb_news",
+  "captions": [],
+  "content_hash": "8cfd26b5a63aa7eebc26df66727716192412568672436da6879215afad2109d9",
+  "content_variants": [
+    {
+      "bytes": 737,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:14+00:00",
+      "sha256": "8cfd26b5a63aa7eebc26df66727716192412568672436da6879215afad2109d9",
+      "source_url": "https://x.com/watanserb_news/status/1879614729666035956",
+      "text": "Post\n\nPost\n\nوطن. يغرد خارج السرب@watanserb_news🔴أفاد \"المرصد السوري لحقوق الإنسان\" بأنه، قُـ ـ ـتل 3 أشخاص بينهم مدني، الأربعاء، في #سوريا، بضربة إسرائيلية عبر \"طائرة مسيرة\" استهدفت لأول مرة قوات من السلطة الجديدة في #القنيطرة\n\nالهجوم الإسرائيلي استهدف رتلا عسكريا لإدارة العمليات العسكرية في بلدة \"غدير البستان\" بريف القنيطرة الجنوبي ما أدّى لمقـ ـ ـتل \"عنصرين\" من إدارة العمليات العسكرية، ومدني.👇7:40 PM · Jan 15, 20253.2KViews5422"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/watanserb_news/status/1879614729666035956",
+  "incident_ids": [
+    "airwars-275990"
+  ],
+  "incident_sequences": [
+    132
+  ],
+  "normalized_url": "https://x.com/watanserb_news/status/1879614729666035956",
+  "observed_original_urls": [
+    "https://x.com/watanserb_news/status/1879614729666035956"
+  ],
+  "original_url": "https://x.com/watanserb_news/status/1879614729666035956",
+  "page_title": "وطن. يغرد خارج السرب on X: \"🔴أفاد \"المرصد السوري لحقوق الإنسان\" بأنه، قُـ ـ ـتل 3 أشخاص بينهم مدني، الأربعاء، في #سوريا، بضربة إسرائيلية عبر \"طائرة مسيرة\" استهدفت لأول مرة قوات من السلطة الجديدة في #القنيطرة\n\nالهجوم الإسرائيلي استهدف رتلا عسكريا لإدارة العمليات العسكرية في بلدة \"غدير البستان\" بريف القنيطرة الجنوبي ما أدّى لمقـ ـ ـتل \"عنصرين\" من إدارة العمليات العسكرية، ومدني.👇\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy067-january-15-2025/",
+      "airwars_source_id": "274092",
+      "incident_id": "airwars-275990",
+      "incident_sequence": 132,
+      "observed_original_url": "https://x.com/watanserb_news/status/1879614729666035956",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-01-15T19:40:47.000Z",
+  "publisher": "watanserb_news",
+  "publisher_ar": "watanserb_news",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:14+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-99fb1d2ccdbcfab08b7b89f4",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/watanserb_news/status/1879614729666035956",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nوطن. يغرد خارج السرب@watanserb_news🔴أفاد \"المرصد السوري لحقوق الإنسان\" بأنه، قُـ ـ ـتل 3 أشخاص بينهم مدني، الأربعاء، في #سوريا، بضربة إسرائيلية عبر \"طائرة مسيرة\" استهدفت لأول مرة قوات من السلطة الجديدة في #القنيطرة\n\nالهجوم الإسرائيلي استهدف رتلا عسكريا لإدارة العمليات العسكرية في بلدة \"غدير البستان\" بريف القنيطرة الجنوبي ما أدّى لمقـ ـ ـتل \"عنصرين\" من إدارة العمليات العسكرية، ومدني.👇7:40 PM · Jan 15, 20253.2KViews5422",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001644
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

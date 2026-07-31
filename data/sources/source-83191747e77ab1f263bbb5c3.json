@@ -1,0 +1,141 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/4LsMV"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "syriahr.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://www.syriahr.com/7-شهداء-وجرحى-بقصف-جوي-تركي-على-سوق-شعبي/747249/?fbclid=IwY2xjawIF4tpleHRuA2FlbQIxMQABHSHztrpHMkQKnoeSRs0kYPh5UD2rUbpefjM8bXiMxAtj9",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:05+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/7-شهداء-وجرحى-بقصف-جوي-تركي-على-سوق-شعبي/747249/?fbclid=IwY2xjawIF4tpleHRuA2FlbQIxMQABHSHztrpHMkQKnoeSRs0kYPh5UD2rUbpefjM8bXiMxAtj9",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.ph",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.ph/wip/4LsMV",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:07+00:00",
+      "status": null,
+      "url": "https://archive.ph/wip/4LsMV",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F7-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A-%D8%B9%D9%84%D9%89-%D8%B3%D9%88%D9%82-%D8%B4%D8%B9%D8%A8%D9%8A%2F747249%2F%3Ffbclid%3DIwY2xjawIF4tpleHRuA2FlbQIxMQABHSHztrpHMkQKnoeSRs0kYPh5UD2rUbpefjM8bXiMxAtj9&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:07+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F7-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A-%D8%B9%D9%84%D9%89-%D8%B3%D9%88%D9%82-%D8%B4%D8%B9%D8%A8%D9%8A%2F747249%2F%3Ffbclid%3DIwY2xjawIF4tpleHRuA2FlbQIxMQABHSHztrpHMkQKnoeSRs0kYPh5UD2rUbpefjM8bXiMxAtj9&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "SOHR",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://www.syriahr.com/7-شهداء-وجرحى-بقصف-جوي-تركي-على-سوق-شعبي/747249/?fbclid=IwY2xjawIF4tpleHRuA2FlbQIxMQABHSHztrpHMkQKnoeSRs0kYPh5UD2rUbpefjM8bXiMxAtj9",
+  "incident_ids": [
+    "airwars-256436"
+  ],
+  "incident_sequences": [
+    120
+  ],
+  "normalized_url": "https://www.syriahr.com/7-شهداء-وجرحى-بقصف-جوي-تركي-على-سوق-شعبي/747249/?fbclid=IwY2xjawIF4tpleHRuA2FlbQIxMQABHSHztrpHMkQKnoeSRs0kYPh5UD2rUbpefjM8bXiMxAtj9",
+  "observed_original_urls": [
+    "https://www.syriahr.com/7-شهداء-وجرحى-بقصف-جوي-تركي-على-سوق-شعبي/747249/?fbclid=IwY2xjawIF4tpleHRuA2FlbQIxMQABHSHztrpHMkQKnoeSRs0kYPh5UD2rUbpefjM8bXiMxAtj9"
+  ],
+  "original_url": "https://www.syriahr.com/7-شهداء-وجرحى-بقصف-جوي-تركي-على-سوق-شعبي/747249/?fbclid=IwY2xjawIF4tpleHRuA2FlbQIxMQABHSHztrpHMkQKnoeSRs0kYPh5UD2rUbpefjM8bXiMxAtj9",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts781-january-28-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-256436",
+      "incident_sequence": 120,
+      "observed_original_url": "https://www.syriahr.com/7-شهداء-وجرحى-بقصف-جوي-تركي-على-سوق-شعبي/747249/?fbclid=IwY2xjawIF4tpleHRuA2FlbQIxMQABHSHztrpHMkQKnoeSRs0kYPh5UD2rUbpefjM8bXiMxAtj9",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "SOHR",
+  "publisher_ar": "SOHR",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:20:05+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-83191747e77ab1f263bbb5c3",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.syriahr.com/7-شهداء-وجرحى-بقصف-جوي-تركي-على-سوق-شعبي/747249/?fbclid=IwY2xjawIF4tpleHRuA2FlbQIxMQABHSHztrpHMkQKnoeSRs0kYPh5UD2rUbpefjM8bXiMxAtj9",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

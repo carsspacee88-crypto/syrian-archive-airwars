@@ -1,0 +1,152 @@
+{
+  "airwars_source_ids": [
+    "304998"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/alyaumtv-net-%d8%a8%d9%88%d8%a7%d8%b3%d8%b7%d8%a9-alyaum-2025-02-06-152938/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.134,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T20:16:59+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 6405,
+      "content_hash": "0993d88d7aac3fbdcc80dc3d7b99fc04da6c6175c9711ddf682a6430b00512f6",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.134,
+      "error": "http_403",
+      "etag": "",
+      "final_url": "https://alyaumtv.net/%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%B9%D9%84%D9%89-%D8%B3/",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:16:59+00:00",
+      "status": 403,
+      "url": "https://alyaumtv.net/جرحى-مدنيون-بقصف-للاحتلال-التركي-على-س/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.03,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T20:19:29+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 103,
+      "content_hash": "f261423d1da97890ff6bfccd31ff4ee0b74f69351cf75095fbe791cb16cbf5bd",
+      "content_type": "text/html",
+      "elapsed_seconds": 0.03,
+      "error": "http_403",
+      "etag": "",
+      "final_url": "https://airwars.org/source/alyaumtv-net-%d8%a8%d9%88%d8%a7%d8%b3%d8%b7%d8%a9-alyaum-2025-02-06-152938/",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:19:29+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/alyaumtv-net-%d8%a8%d9%88%d8%a7%d8%b3%d8%b7%d8%a9-alyaum-2025-02-06-152938/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.169,
+          "error": "ReadTimeout: ",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T20:19:40+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.169,
+      "error": "ReadTimeout: ",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Falyaumtv.net%2F%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%B9%D9%84%D9%89-%D8%B3%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:19:40+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Falyaumtv.net%2F%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%B9%D9%84%D9%89-%D8%B3%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "بواسطة alyaum",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://alyaumtv.net/%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%B9%D9%84%D9%89-%D8%B3/",
+  "incident_ids": [
+    "airwars-290195"
+  ],
+  "incident_sequences": [
+    113
+  ],
+  "normalized_url": "https://alyaumtv.net/جرحى-مدنيون-بقصف-للاحتلال-التركي-على-س/",
+  "observed_original_urls": [
+    "https://alyaumtv.net/جرحى-مدنيون-بقصف-للاحتلال-التركي-على-س/"
+  ],
+  "original_url": "https://alyaumtv.net/جرحى-مدنيون-بقصف-للاحتلال-التركي-على-س/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts786-february-6-2025/",
+      "airwars_source_id": "304998",
+      "incident_id": "airwars-290195",
+      "incident_sequence": 113,
+      "observed_original_url": "https://alyaumtv.net/جرحى-مدنيون-بقصف-للاحتلال-التركي-على-س/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "6 فبراير 2025",
+  "publisher": "By alyaum",
+  "publisher_ar": "بواسطة alyaum",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:16:59+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-3b6c17fe15ddb2eddf3a8d39",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://alyaumtv.net/جرحى-مدنيون-بقصف-للاحتلال-التركي-على-س/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

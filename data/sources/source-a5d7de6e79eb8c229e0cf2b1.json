@@ -1,0 +1,146 @@
+{
+  "airwars_source_ids": [
+    "289787"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-reporters_sy-1893222236774891632-2025-02-22-085210/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.162,
+          "error": "http_404",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T20:20:16+00:00",
+          "status": 404
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 36822,
+      "content_hash": "7302989b91359796dc6768850c88e6bf63e9817651dc2640bb3361572a5755af",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.162,
+      "error": "http_404",
+      "etag": "",
+      "final_url": "https://x.com/reporters_sy/status/1893222236774891632",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:16+00:00",
+      "status": 404,
+      "url": "https://x.com/reporters_sy/status/1893222236774891632",
+      "waiting_seconds": 0.747
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://airwars.org/source/x-com-reporters_sy-1893222236774891632-2025-02-22-085210/",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:07+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/x-com-reporters_sy-1893222236774891632-2025-02-22-085210/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fx.com%2Freporters_sy%2Fstatus%2F1893222236774891632&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:07+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fx.com%2Freporters_sy%2Fstatus%2F1893222236774891632&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "reporters_sy",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://x.com/reporters_sy/status/1893222236774891632",
+  "incident_ids": [
+    "airwars-367995"
+  ],
+  "incident_sequences": [
+    102
+  ],
+  "normalized_url": "https://x.com/reporters_sy/status/1893222236774891632",
+  "observed_original_urls": [
+    "https://x.com/reporters_sy/status/1893222236774891632"
+  ],
+  "original_url": "https://x.com/reporters_sy/status/1893222236774891632",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0128-february-22-2025/",
+      "airwars_source_id": "289787",
+      "incident_id": "airwars-367995",
+      "incident_sequence": 102,
+      "observed_original_url": "https://x.com/reporters_sy/status/1893222236774891632",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "22 فبراير 2025",
+  "publisher": "reporters_sy",
+  "publisher_ar": "reporters_sy",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:20:16+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a5d7de6e79eb8c229e0cf2b1",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/reporters_sy/status/1893222236774891632",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

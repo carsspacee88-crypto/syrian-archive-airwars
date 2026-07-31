@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [
+    "304974"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%b9%d8%b5%d9%85%d8%aa-%d8%b9%d8%ab%d9%85%d8%a7%d9%86-%d8%ad%d8%b3%d9%8a%d9%86-%d8%ad%d8%b3%d9%8a%d9%86-2025-02-01-170000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.639,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:17:54+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 483654,
+      "content_hash": "3ffc08fa0040bd2ac622c850f2eafd9e69a31d2a70bc9a5ec439783bec5fa6bc",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.639,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/watch/?v=639068885361787",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:17:54+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=639068885361787",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "عصمت عثمان حسين حسين",
+  "captions": [],
+  "content_hash": "1d3ccbbed27973afbede84faf1a7776201f785d309c5d9232ec1f73a3378f651",
+  "content_variants": [
+    {
+      "bytes": 41,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:17:54+00:00",
+      "sha256": "1d3ccbbed27973afbede84faf1a7776201f785d309c5d9232ec1f73a3378f651",
+      "source_url": "https://www.facebook.com/watch/?v=639068885361787",
+      "text": "Discover Popular Videos | Facebook\n\nVideo"
+    }
+  ],
+  "descriptions": [],
+  "exact_content_duplicate_group": "sha256-1d3ccbbed27973afbede84fa",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/watch/?v=639068885361787",
+  "incident_ids": [
+    "airwars-290193"
+  ],
+  "incident_sequences": [
+    117
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=639068885361787",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=639068885361787"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=639068885361787",
+  "page_title": "Discover Popular Videos | Facebook Video",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts785-february-1-2025/",
+      "airwars_source_id": "304974",
+      "incident_id": "airwars-290193",
+      "incident_sequence": 117,
+      "observed_original_url": "https://www.facebook.com/watch/?v=639068885361787",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "1 فبراير 2025",
+  "publisher": "Ismat Othman Hussein Hussein",
+  "publisher_ar": "عصمت عثمان حسين حسين",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:17:54+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-22eddf744306aca4e0963829",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=639068885361787",
+  "text_ar": "",
+  "text_original": "Discover Popular Videos | Facebook\n\nVideo",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001356
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

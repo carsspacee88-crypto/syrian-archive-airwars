@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "305077"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a7%d9%84%d8%b1%d9%82%d8%a9-%d8%aa%d8%b0%d8%a8%d8%ad-%d8%a8%d8%b5%d9%85%d8%aa-raqqa-is-being-slaughtered-silently-pfbid02pseshm8qvqbmtwnhewaxjuiyyzkpdappg1pog7v64butzuqj8fqtz7d-2/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.8,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:19:01+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 924061,
+      "content_hash": "05412404ea468d8b6b5405133cdb3223875f9c6648cf48b37d3ac9d8d3a1dc83",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.8,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/Raqqa.Sl/posts/pfbid02PseShM8qVqBMtWnHewAxJUiYYzkPdaPPg1poG7V64BUTZuqj8fQtz7dR3U6FjLxMl",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:19:01+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/Raqqa.Sl/posts/pfbid02PseShM8qVqBMtWnHewAxJUiYYzkPdaPPg1poG7V64BUTZuqj8fQtz7dR3U6FjLxMl",
+      "waiting_seconds": 0.746
+    }
+  ],
+  "author": "الرقة تذبح بصمت Raqqa is Being Slaughtered Silently",
+  "captions": [],
+  "content_hash": "ba03e7c3f1347333da02dc5a27c313fc0c7886d13b991c3d0d95eb418ffbaf03",
+  "content_variants": [
+    {
+      "bytes": 200,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:19:01+00:00",
+      "sha256": "ba03e7c3f1347333da02dc5a27c313fc0c7886d13b991c3d0d95eb418ffbaf03",
+      "source_url": "https://www.facebook.com/Raqqa.Sl/posts/pfbid02PseShM8qVqBMtWnHewAxJUiYYzkPdaPPg1poG7V64BUTZuqj8fQtz7dR3U6FjLxMl",
+      "text": "‎الرقة تذبح بصمت Raqqa is Being Slaughtered Silently‎'s Post\n\nالرقة تذبح بصمت Raqqa is Being Slaughtered Silently Verified account\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Raqqa.Sl/posts/pfbid02PseShM8qVqBMtWnHewAxJUiYYzkPdaPPg1poG7V64BUTZuqj8fQtz7dR3U6FjLxMl",
+  "incident_ids": [
+    "airwars-290201"
+  ],
+  "incident_sequences": [
+    112
+  ],
+  "normalized_url": "https://www.facebook.com/Raqqa.Sl/posts/pfbid02PseShM8qVqBMtWnHewAxJUiYYzkPdaPPg1poG7V64BUTZuqj8fQtz7dR3U6FjLxMl",
+  "observed_original_urls": [
+    "https://www.facebook.com/Raqqa.Sl/posts/pfbid02PseShM8qVqBMtWnHewAxJUiYYzkPdaPPg1poG7V64BUTZuqj8fQtz7dR3U6FjLxMl"
+  ],
+  "original_url": "https://www.facebook.com/Raqqa.Sl/posts/pfbid02PseShM8qVqBMtWnHewAxJUiYYzkPdaPPg1poG7V64BUTZuqj8fQtz7dR3U6FjLxMl",
+  "page_title": "استشه... - الرقة تذبح بصمت Raqqa is Being Slaughtered Silently Facebook Verified account Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts788-february-8-2025/",
+      "airwars_source_id": "305077",
+      "incident_id": "airwars-290201",
+      "incident_sequence": 112,
+      "observed_original_url": "https://www.facebook.com/Raqqa.Sl/posts/pfbid02PseShM8qVqBMtWnHewAxJUiYYzkPdaPPg1poG7V64BUTZuqj8fQtz7dR3U6FjLxMl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "8 فبراير 2025",
+  "publisher": "Raqqa is being slaughtered silently",
+  "publisher_ar": "الرقة تذبح بصمت Raqqa is Being Slaughtered Silently",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:19:01+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-5de00227246accbba12e2cf1",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/Raqqa.Sl/posts/pfbid02PseShM8qVqBMtWnHewAxJUiYYzkPdaPPg1poG7V64BUTZuqj8fQtz7dR3U6FjLxMl",
+  "text_ar": "",
+  "text_original": "‎الرقة تذبح بصمت Raqqa is Being Slaughtered Silently‎'s Post\n\nالرقة تذبح بصمت Raqqa is Being Slaughtered Silently Verified account\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003864
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

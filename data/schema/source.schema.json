@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://carsspacee88-crypto.github.io/syrian-archive-airwars/data/schema/source.schema.json",
-  "title": "First-100 pilot source record",
+  "title": "Normalized archival source record",
   "type": "object",
   "required": [
     "schema_version", "parser_version", "translation_version", "source_id",
@@ -14,7 +14,7 @@
     "schema_version": {"const": "1.0.0"},
     "source_id": {"type": "string", "pattern": "^source-[0-9a-f]{24}$"},
     "incident_ids": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"type": "string", "pattern": "^airwars-[0-9]+$"}},
-    "incident_sequences": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"type": "integer", "minimum": 1, "maximum": 100}},
+    "incident_sequences": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"type": "integer", "minimum": 1, "maximum": 8114}},
     "source_type": {"enum": [
       "news_article", "ngo_report", "government_or_military_statement", "blog_post",
       "public_facebook_post", "public_x_post", "public_instagram_post", "public_telegram_post",

@@ -541,10 +541,15 @@ def finalize_status(record: dict[str, Any]) -> None:
             for item in retrieval.values()
             if isinstance(item, dict)
         ]
+        circuit_statuses = [
+            item.get("circuit_open_status")
+            for item in retrieval.values()
+            if isinstance(item, dict)
+        ]
         concrete_statuses = [status for status in statuses if status is not None]
         if concrete_statuses and all(status == 404 for status in concrete_statuses):
             status = "unavailable"
-        elif 403 in statuses:
+        elif 403 in statuses or 403 in circuit_statuses:
             status = "blocked"
         else:
             status = "failed"

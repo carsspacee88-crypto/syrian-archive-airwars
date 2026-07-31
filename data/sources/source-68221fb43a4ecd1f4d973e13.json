@@ -1,0 +1,141 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/yHSDP"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "anfarabic.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://anfarabic.com/akhr-l-khbr/astshhad-5-mdnyyn-wasabt-15-jra-hjmat-alahtlal-altrky-ly-qaflt-almdnyyn-113909",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:17:01+00:00",
+      "status": null,
+      "url": "https://anfarabic.com/akhr-l-khbr/astshhad-5-mdnyyn-wasabt-15-jra-hjmat-alahtlal-altrky-ly-qaflt-almdnyyn-113909",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.ph",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.ph/wip/yHSDP",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:19:33+00:00",
+      "status": null,
+      "url": "https://archive.ph/wip/yHSDP",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fanfarabic.com%2Fakhr-l-khbr%2Fastshhad-5-mdnyyn-wasabt-15-jra-hjmat-alahtlal-altrky-ly-qaflt-almdnyyn-113909&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:02+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fanfarabic.com%2Fakhr-l-khbr%2Fastshhad-5-mdnyyn-wasabt-15-jra-hjmat-alahtlal-altrky-ly-qaflt-almdnyyn-113909&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "ANF News",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://anfarabic.com/akhr-l-khbr/astshhad-5-mdnyyn-wasabt-15-jra-hjmat-alahtlal-altrky-ly-qaflt-almdnyyn-113909",
+  "incident_ids": [
+    "airwars-264885"
+  ],
+  "incident_sequences": [
+    149
+  ],
+  "normalized_url": "https://anfarabic.com/akhr-l-khbr/astshhad-5-mdnyyn-wasabt-15-jra-hjmat-alahtlal-altrky-ly-qaflt-almdnyyn-113909",
+  "observed_original_urls": [
+    "https://anfarabic.com/akhr-l-khbr/astshhad-5-mdnyyn-wasabt-15-jra-hjmat-alahtlal-altrky-ly-qaflt-almdnyyn-113909"
+  ],
+  "original_url": "https://anfarabic.com/akhr-l-khbr/astshhad-5-mdnyyn-wasabt-15-jra-hjmat-alahtlal-altrky-ly-qaflt-almdnyyn-113909",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts762-january-8-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-264885",
+      "incident_sequence": 149,
+      "observed_original_url": "https://anfarabic.com/akhr-l-khbr/astshhad-5-mdnyyn-wasabt-15-jra-hjmat-alahtlal-altrky-ly-qaflt-almdnyyn-113909",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "ANF News",
+  "publisher_ar": "ANF News",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:17:01+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-68221fb43a4ecd1f4d973e13",
+  "source_type": "news_article",
+  "stable_id_basis": "https://anfarabic.com/akhr-l-khbr/astshhad-5-mdnyyn-wasabt-15-jra-hjmat-alahtlal-altrky-ly-qaflt-almdnyyn-113909",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,141 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/vjS8s"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "ronahi.tv",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://ronahi.tv/ar/مجزرة-في-قرية-مسرب-استشهاد-وإصابة-9-أفر/",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:17:01+00:00",
+      "status": null,
+      "url": "https://ronahi.tv/ar/مجزرة-في-قرية-مسرب-استشهاد-وإصابة-9-أفر/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.ph",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.ph/wip/vjS8s",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:19:33+00:00",
+      "status": null,
+      "url": "https://archive.ph/wip/vjS8s",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fronahi.tv%2Far%2F%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%B3%D8%B1%D8%A8-%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-9-%D8%A3%D9%81%D8%B1%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:02+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fronahi.tv%2Far%2F%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%B3%D8%B1%D8%A8-%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-9-%D8%A3%D9%81%D8%B1%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Ronahi TV",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://ronahi.tv/ar/مجزرة-في-قرية-مسرب-استشهاد-وإصابة-9-أفر/",
+  "incident_ids": [
+    "airwars-264887"
+  ],
+  "incident_sequences": [
+    139
+  ],
+  "normalized_url": "https://ronahi.tv/ar/مجزرة-في-قرية-مسرب-استشهاد-وإصابة-9-أفر/",
+  "observed_original_urls": [
+    "https://ronahi.tv/ar/مجزرة-في-قرية-مسرب-استشهاد-وإصابة-9-أفر/"
+  ],
+  "original_url": "https://ronahi.tv/ar/مجزرة-في-قرية-مسرب-استشهاد-وإصابة-9-أفر/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts769-january-11-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-264887",
+      "incident_sequence": 139,
+      "observed_original_url": "https://ronahi.tv/ar/مجزرة-في-قرية-مسرب-استشهاد-وإصابة-9-أفر/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Ronahi TV",
+  "publisher_ar": "Ronahi TV",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:17:01+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-24553b8c6ed07ff6b0bd8202",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://ronahi.tv/ar/مجزرة-في-قرية-مسرب-استشهاد-وإصابة-9-أفر/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "289263"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-syriawatannews-1891417863266734184-2025-02-17-092214/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.227,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:11+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 58463,
+      "content_hash": "a2f8d04f8452c5ea58f979efd235ee2d07b936f0422e3c927f4c5edb01dde807",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.227,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/SyriawatanNews/status/1891417863266734184",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:11+00:00",
+      "status": 200,
+      "url": "https://x.com/SyriawatanNews/status/1891417863266734184",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "SyriawatanNews",
+  "captions": [],
+  "content_hash": "f4400465d68c3879f8ff1c2d20f62758d10ee345776d32fcbd0d661240429490",
+  "content_variants": [
+    {
+      "bytes": 33,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:11+00:00",
+      "sha256": "f4400465d68c3879f8ff1c2d20f62758d10ee345776d32fcbd0d661240429490",
+      "source_url": "https://x.com/SyriawatanNews/status/1891417863266734184",
+      "text": "PostLog inSign upPost2.3KViews112"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyriawatanNews/status/1891417863266734184",
+  "incident_ids": [
+    "airwars-367992"
+  ],
+  "incident_sequences": [
+    104
+  ],
+  "normalized_url": "https://x.com/SyriawatanNews/status/1891417863266734184",
+  "observed_original_urls": [
+    "https://x.com/SyriawatanNews/status/1891417863266734184"
+  ],
+  "original_url": "https://x.com/SyriawatanNews/status/1891417863266734184",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0125-february-15-2025/",
+      "airwars_source_id": "289263",
+      "incident_id": "airwars-367992",
+      "incident_sequence": 104,
+      "observed_original_url": "https://x.com/SyriawatanNews/status/1891417863266734184",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "17 فبراير 2025",
+  "publisher": "SyriawatanNews",
+  "publisher_ar": "SyriawatanNews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:11+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-85eeda6856f96605c3dcb073",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyriawatanNews/status/1891417863266734184",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost2.3KViews112",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001018
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

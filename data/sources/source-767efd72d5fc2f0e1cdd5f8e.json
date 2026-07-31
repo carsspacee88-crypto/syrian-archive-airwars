@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "274105"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-albohtri-1879576150550487145-2025-01-15-170729/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.31,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:06+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 51969,
+      "content_hash": "29c855ff7230459950ba4d2fedd70390e1c9e4e1a097c406bf335784175eecec",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.31,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/albohtri/status/1879576150550487145",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:06+00:00",
+      "status": 200,
+      "url": "https://x.com/albohtri/status/1879576150550487145",
+      "waiting_seconds": 0.507
+    }
+  ],
+  "author": "albohtri",
+  "captions": [],
+  "content_hash": "34a10ff611e7f7d7216237dfb064729162ba285128e4c890500d2783662ca18e",
+  "content_variants": [
+    {
+      "bytes": 29,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:06+00:00",
+      "sha256": "34a10ff611e7f7d7216237dfb064729162ba285128e4c890500d2783662ca18e",
+      "source_url": "https://x.com/albohtri/status/1879576150550487145",
+      "text": "PostLog inSign upPost354Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/albohtri/status/1879576150550487145",
+  "incident_ids": [
+    "airwars-275990"
+  ],
+  "incident_sequences": [
+    132
+  ],
+  "normalized_url": "https://x.com/albohtri/status/1879576150550487145",
+  "observed_original_urls": [
+    "https://x.com/albohtri/status/1879576150550487145"
+  ],
+  "original_url": "https://x.com/albohtri/status/1879576150550487145",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy067-january-15-2025/",
+      "airwars_source_id": "274105",
+      "incident_id": "airwars-275990",
+      "incident_sequence": 132,
+      "observed_original_url": "https://x.com/albohtri/status/1879576150550487145",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "15 يناير 2025",
+  "publisher": "albohtri",
+  "publisher_ar": "albohtri",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:06+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-767efd72d5fc2f0e1cdd5f8e",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/albohtri/status/1879576150550487145",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost354Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.000862
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

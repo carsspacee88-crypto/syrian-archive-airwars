@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "308283"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d9%83%d9%88%d8%a8%d8%a7%d9%86%d9%8a-%d9%82%d9%84%d8%a8-%d8%a7%d9%84%d8%ad%d8%af%d8%ab-2025-02-15-170000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.834,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:19:12+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 946089,
+      "content_hash": "98b46c68d5fe47cbf9022435a87d0057a10812dee33af7cf23fc9625a5567f4f",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.834,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/100065001724392/videos/1151075699743798/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:19:12+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=1151075699743798",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "كوباني قلب الحدث",
+  "captions": [],
+  "content_hash": "9179ad32926593d43b7f68ad5d474fdaa3016c6afdd3fbb7bfae3d8f9da63916",
+  "content_variants": [
+    {
+      "bytes": 445,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:19:12+00:00",
+      "sha256": "9179ad32926593d43b7f68ad5d474fdaa3016c6afdd3fbb7bfae3d8f9da63916",
+      "source_url": "https://www.facebook.com/100065001724392/videos/1151075699743798/",
+      "text": "عكيد لما تركتنا في منتصف الطريق الم تعدني بأن نعود لعفرين سوياً ...\nالرحمة والخلود لروحك الطاهرة والصبر لقلوبنا 💔😭\nاستشهاد الصحفي عكيد روج من مدينة عفرين المحتلة. بقصف طائرة الحربية تابعة للأحتلال تركي أرهابي في محيط سد تشرين | كوباني قلب الحدث"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/100065001724392/videos/1151075699743798/",
+  "incident_ids": [
+    "airwars-285735"
+  ],
+  "incident_sequences": [
+    105
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=1151075699743798",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=1151075699743798"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=1151075699743798",
+  "page_title": "عكيد لما تركتنا في منتصف الطريق الم تعدني بأن نعود لعفرين سوياً ...\nالرحمة والخلود لروحك الطاهرة والصبر لقلوبنا 💔😭\nاستشهاد الصحفي عكيد روج من مدينة عفرين المحتلة. بقصف طائرة الحربية تابعة للأحتلال تركي أرهابي في محيط سد تشرين | كوباني قلب الحدث",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts791-february-15-2025/",
+      "airwars_source_id": "308283",
+      "incident_id": "airwars-285735",
+      "incident_sequence": 105,
+      "observed_original_url": "https://www.facebook.com/watch/?v=1151075699743798",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "15 فبراير 2025",
+  "publisher": "Kobani, the heart of the event",
+  "publisher_ar": "كوباني قلب الحدث",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:19:12+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-630d4ca85b97b4b12132afae",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=1151075699743798",
+  "text_ar": "",
+  "text_original": "عكيد لما تركتنا في منتصف الطريق الم تعدني بأن نعود لعفرين سوياً ...\nالرحمة والخلود لروحك الطاهرة والصبر لقلوبنا 💔😭\nاستشهاد الصحفي عكيد روج من مدينة عفرين المحتلة. بقصف طائرة الحربية تابعة للأحتلال تركي أرهابي في محيط سد تشرين | كوباني قلب الحدث",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.005296
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [
+    "273786"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-al-hadath-syria-%d8%a7%d9%84%d8%ad%d8%af%d8%ab-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-pfbid0swzf2k6hpqfv9siuz2pahzts7momcu41mgqecngxx7uemmpwj2vuc6sdb19pucwbl-2026-01-24-090000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.963,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:16+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 894746,
+      "content_hash": "4507ffc5ef53398565ab3dcaf70d802c5b54cfff80a66118307308c62891a322",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.963,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/AlHadathSyria/posts/pfbid0swzf2K6HpQFV9Siuz2PaHzTs7momCU41mGQeCngxx7UEMMPwj2VuC6sdB19pUcWBl",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:16+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/AlHadathSyria/posts/pfbid0swzf2K6HpQFV9Siuz2PaHzTs7momCU41mGQeCngxx7UEMMPwj2VuC6sdB19pUcWBl",
+      "waiting_seconds": 0.74
+    }
+  ],
+  "author": "Al Hadath Syria الحدث السوري",
+  "captions": [],
+  "content_hash": "ae1c12e8012edb74ed4d074e6300ba2827e31530532063d4a8140609cd924626",
+  "content_variants": [
+    {
+      "bytes": 150,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:16+00:00",
+      "sha256": "ae1c12e8012edb74ed4d074e6300ba2827e31530532063d4a8140609cd924626",
+      "source_url": "https://www.facebook.com/AlHadathSyria/posts/pfbid0swzf2K6HpQFV9Siuz2PaHzTs7momCU41mGQeCngxx7UEMMPwj2VuC6sdB19pUcWBl",
+      "text": "‎Al Hadath Syria الحدث السوري‎'s Post\n\nAl Hadath Syria الحدث السوري Verified account\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y"
+    }
+  ],
+  "descriptions": [],
+  "exact_content_duplicate_group": "sha256-ae1c12e8012edb74ed4d074e",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/AlHadathSyria/posts/pfbid0swzf2K6HpQFV9Siuz2PaHzTs7momCU41mGQeCngxx7UEMMPwj2VuC6sdB19pUcWBl",
+  "incident_ids": [
+    "airwars-275992"
+  ],
+  "incident_sequences": [
+    126
+  ],
+  "normalized_url": "https://www.facebook.com/AlHadathSyria/posts/pfbid0swzf2K6HpQFV9Siuz2PaHzTs7momCU41mGQeCngxx7UEMMPwj2VuC6sdB19pUcWBl",
+  "observed_original_urls": [
+    "https://www.facebook.com/AlHadathSyria/posts/pfbid0swzf2K6HpQFV9Siuz2PaHzTs7momCU41mGQeCngxx7UEMMPwj2VuC6sdB19pUcWBl"
+  ],
+  "original_url": "https://www.facebook.com/AlHadathSyria/posts/pfbid0swzf2K6HpQFV9Siuz2PaHzTs7momCU41mGQeCngxx7UEMMPwj2VuC6sdB19pUcWBl",
+  "page_title": "أفادت وسائل إعلام محلية أن... - Al Hadath Syria الحدث السوري Facebook Verified account Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy068-january-24-2025/",
+      "airwars_source_id": "273786",
+      "incident_id": "airwars-275992",
+      "incident_sequence": 126,
+      "observed_original_url": "https://www.facebook.com/AlHadathSyria/posts/pfbid0swzf2K6HpQFV9Siuz2PaHzTs7momCU41mGQeCngxx7UEMMPwj2VuC6sdB19pUcWBl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "24 يناير 2025",
+  "publisher": "Al Hadath Syria",
+  "publisher_ar": "Al Hadath Syria الحدث السوري",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:16+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-7daf2c2a0f6fec0f51f3f1b0",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/AlHadathSyria/posts/pfbid0swzf2K6HpQFV9Siuz2PaHzTs7momCU41mGQeCngxx7UEMMPwj2VuC6sdB19pUcWBl",
+  "text_ar": "",
+  "text_original": "‎Al Hadath Syria الحدث السوري‎'s Post\n\nAl Hadath Syria الحدث السوري Verified account\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.007607
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

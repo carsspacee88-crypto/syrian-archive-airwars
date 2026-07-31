@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "287137"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-sham__news-1885167781726843278-2025-01-31-032638/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.221,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:17+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 55471,
+      "content_hash": "44b91fa01537543c2f13f1dfe83b5fa1ae44b0ea1bc774080eef9ad17ef34c7f",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.221,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/Sham__news/status/1885167781726843278",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:17+00:00",
+      "status": 200,
+      "url": "https://x.com/Sham__news/status/1885167781726843278",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "Sham__news",
+  "captions": [],
+  "content_hash": "621dad67bd9448ebcea03740c0f6a296b3e9de76edc9126b18f9345ee1bd040e",
+  "content_variants": [
+    {
+      "bytes": 29,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:17+00:00",
+      "sha256": "621dad67bd9448ebcea03740c0f6a296b3e9de76edc9126b18f9345ee1bd040e",
+      "source_url": "https://x.com/Sham__news/status/1885167781726843278",
+      "text": "PostLog inSign upPost195Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Sham__news/status/1885167781726843278",
+  "incident_ids": [
+    "airwars-367988"
+  ],
+  "incident_sequences": [
+    119
+  ],
+  "normalized_url": "https://x.com/Sham__news/status/1885167781726843278",
+  "observed_original_urls": [
+    "https://x.com/Sham__news/status/1885167781726843278"
+  ],
+  "original_url": "https://x.com/Sham__news/status/1885167781726843278",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0121-january-30-2025/",
+      "airwars_source_id": "287137",
+      "incident_id": "airwars-367988",
+      "incident_sequence": 119,
+      "observed_original_url": "https://x.com/Sham__news/status/1885167781726843278",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "31 يناير 2025",
+  "publisher": "Sham__news",
+  "publisher_ar": "Sham__news",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:17+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a7c709803a64affdbdfc8359",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Sham__news/status/1885167781726843278",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost195Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001024
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "289346"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-syrdemobs-1893048917304189090-2025-02-21-212327/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.272,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:17:01+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 100358,
+      "content_hash": "f3402b6cfd6f27b5f3a321772d756e9bf957d640767925deb08308abb3d0c188",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.272,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/SyrDemObs/status/1893048917304189090",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:17:01+00:00",
+      "status": 200,
+      "url": "https://x.com/SyrDemObs/status/1893048917304189090",
+      "waiting_seconds": 0.298
+    }
+  ],
+  "author": "https://x.com/SyrDemObs",
+  "captions": [],
+  "content_hash": "d741eedd533cb7b7ee354d37e56c57dffc51b2fe7d3355805ec09097dfc3df3a",
+  "content_variants": [
+    {
+      "bytes": 1140,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:17:01+00:00",
+      "sha256": "d741eedd533cb7b7ee354d37e56c57dffc51b2fe7d3355805ec09097dfc3df3a",
+      "source_url": "https://x.com/SyrDemObs/status/1893048917304189090",
+      "text": "Post\n\nPost\n\nSyrian Democratic Ob. | المرصد الديموقراطي السوري@SyrDemObsAr/En\n\nشقيق مدير أوقاف نظام #الجولاني في #دمشق يلقي حتفه بضربة اميركية :\n\nنُفِّذت غارة جوية من قِبَل التحالف الدولي استهدفت سيارة في مدينة الدانا بريف إدلب، ما أدى إلى مقتل وسيم بيرقدار، القيادي العسكري في تنظيم حراس الدين المدرج على قائمة الارهاب . يُذكر أن القتيل هو شقيق مدير أوقاف دمشق الحالي.\n\nThe brother of the Director of Religious affairs under #alJulani’s regime in #Damascus was killed in a U.S. strike:\n\nAn airstrike carried out by the International Coalition targeted a vehicle in the city of #alDana in #Idlib countryside, resulting in the death of Waseem Bayrakdar, a military commander in #Hurras_alDin, a group listed as a terrorist organization.\n\nIt is worth noting that the deceased is the brother of the current Director of Religious affairs in Damascus.9:23 PM · Feb 21, 20254.4KViews14246"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyrDemObs/status/1893048917304189090",
+  "incident_ids": [
+    "airwars-367993"
+  ],
+  "incident_sequences": [
+    103
+  ],
+  "normalized_url": "https://x.com/SyrDemObs/status/1893048917304189090",
+  "observed_original_urls": [
+    "https://x.com/SyrDemObs/status/1893048917304189090"
+  ],
+  "original_url": "https://x.com/SyrDemObs/status/1893048917304189090",
+  "page_title": "Syrian Democratic Ob. | المرصد الديموقراطي السوري on X: \"Ar/En\n\nشقيق مدير أوقاف نظام #الجولاني في #دمشق يلقي حتفه بضربة اميركية :\n\nنُفِّذت غارة جوية من قِبَل التحالف الدولي استهدفت سيارة في مدينة الدانا بريف إدلب، ما أدى إلى مقتل وسيم بيرقدار، القيادي العسكري في تنظيم حراس الدين المدرج على قائمة الارهاب . يُذكر أن القتيل هو شقيق مدير أوقاف دمشق الحالي.\n\nThe brother of the Director of Religious affairs under #alJulani’s regime in #Damascus was killed in a U.S. strike:\n\nAn airstrike carried out by the International Coalition targeted a vehicle in the city of #alDana in #Idlib countryside, resulting in the death of Waseem Bayrakdar, a military commander in #Hurras_alDin, a group listed as a terrorist organization.\n\nIt is worth noting that the deceased is the brother of the current Director of Religious affairs in Damascus.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0126-february-21-2025/",
+      "airwars_source_id": "289346",
+      "incident_id": "airwars-367993",
+      "incident_sequence": 103,
+      "observed_original_url": "https://x.com/SyrDemObs/status/1893048917304189090",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-02-21T21:23:27.000Z",
+  "publisher": "SyrDemObs",
+  "publisher_ar": "SyrDemObs",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:17:01+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-03837c18e67c479535e0e30f",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyrDemObs/status/1893048917304189090",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nSyrian Democratic Ob. | المرصد الديموقراطي السوري@SyrDemObsAr/En\n\nشقيق مدير أوقاف نظام #الجولاني في #دمشق يلقي حتفه بضربة اميركية :\n\nنُفِّذت غارة جوية من قِبَل التحالف الدولي استهدفت سيارة في مدينة الدانا بريف إدلب، ما أدى إلى مقتل وسيم بيرقدار، القيادي العسكري في تنظيم حراس الدين المدرج على قائمة الارهاب . يُذكر أن القتيل هو شقيق مدير أوقاف دمشق الحالي.\n\nThe brother of the Director of Religious affairs under #alJulani’s regime in #Damascus was killed in a U.S. strike:\n\nAn airstrike carried out by the International Coalition targeted a vehicle in the city of #alDana in #Idlib countryside, resulting in the death of Waseem Bayrakdar, a military commander in #Hurras_alDin, a group listed as a terrorist organization.\n\nIt is worth noting that the deceased is the brother of the current Director of Religious affairs in Damascus.9:23 PM · Feb 21, 20254.4KViews14246",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001594
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,105 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/wip/bZGic"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.27,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:18:22+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 353403,
+      "content_hash": "1bd46ffa54b7d525f55794d9c8f4563eb50ee79f3dff4e0781a0f766c7c4af45",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.27,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/hiso.roj100/posts/pfbid0q1wN1cSyztFcx46ZsERYvLQobTPcXTkazxBwUSxUH9gCbXrUA1xzm5iyzHwQqkcpl",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:18:22+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/hiso.roj100/posts/pfbid0q1wN1cSyztFcx46ZsERYvLQobTPcXTkazxBwUSxUH9gCbXrUA1xzm5iyzHwQqkcpl",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "Hiso Beri facebook",
+  "captions": [],
+  "content_hash": "f9781cd9de5383899bd6ed7026b86d1382eacba2a604dad1c917576791a3f3bb",
+  "content_variants": [
+    {
+      "bytes": 167,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:18:22+00:00",
+      "sha256": "f9781cd9de5383899bd6ed7026b86d1382eacba2a604dad1c917576791a3f3bb",
+      "source_url": "https://www.facebook.com/hiso.roj100/posts/pfbid0q1wN1cSyztFcx46ZsERYvLQobTPcXTkazxBwUSxUH9gCbXrUA1xzm5iyzHwQqkcpl",
+      "text": "This page isn't available right nowThis may be because of a technical error that we're working to get fixed. Try reloading this page.Go to FeedGo backVisit Help Center"
+    }
+  ],
+  "descriptions": [],
+  "exact_content_duplicate_group": "sha256-f9781cd9de5383899bd6ed70",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/hiso.roj100/posts/pfbid0q1wN1cSyztFcx46ZsERYvLQobTPcXTkazxBwUSxUH9gCbXrUA1xzm5iyzHwQqkcpl",
+  "incident_ids": [
+    "airwars-103685"
+  ],
+  "incident_sequences": [
+    143
+  ],
+  "normalized_url": "https://www.facebook.com/hiso.roj100/posts/pfbid0q1wN1cSyztFcx46ZsERYvLQobTPcXTkazxBwUSxUH9gCbXrUA1xzm5iyzHwQqkcpl",
+  "observed_original_urls": [
+    "https://www.facebook.com/hiso.roj100/posts/pfbid0q1wN1cSyztFcx46ZsERYvLQobTPcXTkazxBwUSxUH9gCbXrUA1xzm5iyzHwQqkcpl"
+  ],
+  "original_url": "https://www.facebook.com/hiso.roj100/posts/pfbid0q1wN1cSyztFcx46ZsERYvLQobTPcXTkazxBwUSxUH9gCbXrUA1xzm5iyzHwQqkcpl",
+  "page_title": "Facebook Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts675-january-10-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-103685",
+      "incident_sequence": 143,
+      "observed_original_url": "https://www.facebook.com/hiso.roj100/posts/pfbid0q1wN1cSyztFcx46ZsERYvLQobTPcXTkazxBwUSxUH9gCbXrUA1xzm5iyzHwQqkcpl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Hiso Beri facebook",
+  "publisher_ar": "Hiso Beri facebook",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:18:22+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-3c455894450f1f3502bb9cfd",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/hiso.roj100/posts/pfbid0q1wN1cSyztFcx46ZsERYvLQobTPcXTkazxBwUSxUH9gCbXrUA1xzm5iyzHwQqkcpl",
+  "text_ar": "",
+  "text_original": "This page isn't available right nowThis may be because of a technical error that we're working to get fixed. Try reloading this page.Go to FeedGo backVisit Help Center",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001384
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

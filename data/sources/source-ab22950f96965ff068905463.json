@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [
+    "273785"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-al-arabiya-syria-pfbid0epubbwwxr2fmtygetysav3vdkmizwqumqbmbectsjdpen7xbkuqvp4vmz1tsqjgcl-2026-01-24-0/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.13,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:21:20+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1196461,
+      "content_hash": "8363a73ed440b3e7784dffb82611b8ae3f6c49b434cd4aef3de237b8d8281679",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.13,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid0ePuBbWWXR2FMtYGEtysav3vdkmizwqUMQbMbeCtSJDpEN7xbkuqvP4VMz1tSqjgcl",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:21:20+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid0ePuBbWWXR2FMtYGEtysav3vdkmizwqUMQbMbeCtSJDpEN7xbkuqvP4VMz1tSqjgcl",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "العربية سوريا - Al Arabiya Syria",
+  "captions": [],
+  "content_hash": "1474e53243a5250382fe61b9f0f2d546e62edba220fc85056b6942d3023b5efe",
+  "content_variants": [
+    {
+      "bytes": 160,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:21:20+00:00",
+      "sha256": "1474e53243a5250382fe61b9f0f2d546e62edba220fc85056b6942d3023b5efe",
+      "source_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid0ePuBbWWXR2FMtYGEtysav3vdkmizwqUMQbMbeCtSJDpEN7xbkuqvP4VMz1tSqjgcl",
+      "text": "‎العربية سوريا - Al Arabiya Syria‎'s Post\n\nالعربية سوريا - Al Arabiya Syria Verified account\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y"
+    }
+  ],
+  "descriptions": [],
+  "exact_content_duplicate_group": "sha256-1474e53243a5250382fe61b9",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid0ePuBbWWXR2FMtYGEtysav3vdkmizwqUMQbMbeCtSJDpEN7xbkuqvP4VMz1tSqjgcl",
+  "incident_ids": [
+    "airwars-275992"
+  ],
+  "incident_sequences": [
+    126
+  ],
+  "normalized_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid0ePuBbWWXR2FMtYGEtysav3vdkmizwqUMQbMbeCtSJDpEN7xbkuqvP4VMz1tSqjgcl",
+  "observed_original_urls": [
+    "https://www.facebook.com/Alarabiya.syria/posts/pfbid0ePuBbWWXR2FMtYGEtysav3vdkmizwqUMQbMbeCtSJDpEN7xbkuqvP4VMz1tSqjgcl"
+  ],
+  "original_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid0ePuBbWWXR2FMtYGEtysav3vdkmizwqUMQbMbeCtSJDpEN7xbkuqvP4VMz1tSqjgcl",
+  "page_title": "أفادت وسائل إعلام محلية... - العربية سوريا - Al Arabiya Syria Facebook Verified account Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy068-january-24-2025/",
+      "airwars_source_id": "273785",
+      "incident_id": "airwars-275992",
+      "incident_sequence": 126,
+      "observed_original_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid0ePuBbWWXR2FMtYGEtysav3vdkmizwqUMQbMbeCtSJDpEN7xbkuqvP4VMz1tSqjgcl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "24 يناير 2025",
+  "publisher": "Al Arabiya Syria",
+  "publisher_ar": "العربية سوريا - Al Arabiya Syria",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:21:20+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-ab22950f96965ff068905463",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/Alarabiya.syria/posts/pfbid0ePuBbWWXR2FMtYGEtysav3vdkmizwqUMQbMbeCtSJDpEN7xbkuqvP4VMz1tSqjgcl",
+  "text_ar": "",
+  "text_original": "‎العربية سوريا - Al Arabiya Syria‎'s Post\n\nالعربية سوريا - Al Arabiya Syria Verified account\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y\n\n1y",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.009795
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

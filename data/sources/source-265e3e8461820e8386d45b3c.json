@@ -1,0 +1,143 @@
+{
+  "airwars_source_ids": [
+    "308279"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-02-15-182926/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "syriahr.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://www.syriahr.com/بغارة-جوية-تركية-استشهاد-صحفي-في-محيط/749671/?fbclid=IwY2xjawIeaflleHRuA2FlbQIxMQABHYStKF6wh4UnVihENqJAUSh0wQAH57KwlOlFhYOm3PFhJw",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:17:02+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/بغارة-جوية-تركية-استشهاد-صحفي-في-محيط/749671/?fbclid=IwY2xjawIeaflleHRuA2FlbQIxMQABHYStKF6wh4UnVihENqJAUSh0wQAH57KwlOlFhYOm3PFhJw",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-02-15-182926/",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:19:31+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-02-15-182926/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A8%D8%BA%D8%A7%D8%B1%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%B5%D8%AD%D9%81%D9%8A-%D9%81%D9%8A-%D9%85%D8%AD%D9%8A%D8%B7%2F749671%2F%3Ffbclid%3DIwY2xjawIeaflleHRuA2FlbQIxMQABHYStKF6wh4UnVihENqJAUSh0wQAH57KwlOlFhYOm3PFhJw&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:02+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A8%D8%BA%D8%A7%D8%B1%D8%A9-%D8%AC%D9%88%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%B5%D8%AD%D9%81%D9%8A-%D9%81%D9%8A-%D9%85%D8%AD%D9%8A%D8%B7%2F749671%2F%3Ffbclid%3DIwY2xjawIeaflleHRuA2FlbQIxMQABHYStKF6wh4UnVihENqJAUSh0wQAH57KwlOlFhYOm3PFhJw&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "المرصد السوري",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://www.syriahr.com/بغارة-جوية-تركية-استشهاد-صحفي-في-محيط/749671/?fbclid=IwY2xjawIeaflleHRuA2FlbQIxMQABHYStKF6wh4UnVihENqJAUSh0wQAH57KwlOlFhYOm3PFhJw",
+  "incident_ids": [
+    "airwars-285735"
+  ],
+  "incident_sequences": [
+    105
+  ],
+  "normalized_url": "https://www.syriahr.com/بغارة-جوية-تركية-استشهاد-صحفي-في-محيط/749671/?fbclid=IwY2xjawIeaflleHRuA2FlbQIxMQABHYStKF6wh4UnVihENqJAUSh0wQAH57KwlOlFhYOm3PFhJw",
+  "observed_original_urls": [
+    "https://www.syriahr.com/بغارة-جوية-تركية-استشهاد-صحفي-في-محيط/749671/?fbclid=IwY2xjawIeaflleHRuA2FlbQIxMQABHYStKF6wh4UnVihENqJAUSh0wQAH57KwlOlFhYOm3PFhJw"
+  ],
+  "original_url": "https://www.syriahr.com/بغارة-جوية-تركية-استشهاد-صحفي-في-محيط/749671/?fbclid=IwY2xjawIeaflleHRuA2FlbQIxMQABHYStKF6wh4UnVihENqJAUSh0wQAH57KwlOlFhYOm3PFhJw",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts791-february-15-2025/",
+      "airwars_source_id": "308279",
+      "incident_id": "airwars-285735",
+      "incident_sequence": 105,
+      "observed_original_url": "https://www.syriahr.com/بغارة-جوية-تركية-استشهاد-صحفي-في-محيط/749671/?fbclid=IwY2xjawIeaflleHRuA2FlbQIxMQABHYStKF6wh4UnVihENqJAUSh0wQAH57KwlOlFhYOm3PFhJw",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "15 فبراير 2025",
+  "publisher": "Syrian Observatory",
+  "publisher_ar": "المرصد السوري",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:17:02+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-265e3e8461820e8386d45b3c",
+  "source_type": "ngo_report",
+  "stable_id_basis": "https://www.syriahr.com/بغارة-جوية-تركية-استشهاد-صحفي-في-محيط/749671/?fbclid=IwY2xjawIeaflleHRuA2FlbQIxMQABHYStKF6wh4UnVihENqJAUSh0wQAH57KwlOlFhYOm3PFhJw",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

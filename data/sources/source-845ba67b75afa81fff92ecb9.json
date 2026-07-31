@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "289178"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-abomosaabsharke-1886300598540161184-2025-02-03-062803/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.235,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:10+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 56058,
+      "content_hash": "4c210f2c85ecc8476e23d456529590d48964bb52bc2c7933c167bf2bd3d2d17d",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.235,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/AbomosaabSharke/status/1886300598540161184",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:10+00:00",
+      "status": 200,
+      "url": "https://x.com/AbomosaabSharke/status/1886300598540161184",
+      "waiting_seconds": 0.749
+    }
+  ],
+  "author": "AbomosaabSharke",
+  "captions": [],
+  "content_hash": "3b4dd33ad2aae7ff67faec5ca19c52983673e071f8da63aa00731c40e3142ff7",
+  "content_variants": [
+    {
+      "bytes": 31,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:10+00:00",
+      "sha256": "3b4dd33ad2aae7ff67faec5ca19c52983673e071f8da63aa00731c40e3142ff7",
+      "source_url": "https://x.com/AbomosaabSharke/status/1886300598540161184",
+      "text": "PostLog inSign upPost167Views11"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AbomosaabSharke/status/1886300598540161184",
+  "incident_ids": [
+    "airwars-367989"
+  ],
+  "incident_sequences": [
+    115
+  ],
+  "normalized_url": "https://x.com/AbomosaabSharke/status/1886300598540161184",
+  "observed_original_urls": [
+    "https://x.com/AbomosaabSharke/status/1886300598540161184"
+  ],
+  "original_url": "https://x.com/AbomosaabSharke/status/1886300598540161184",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0122-february-3-2025/",
+      "airwars_source_id": "289178",
+      "incident_id": "airwars-367989",
+      "incident_sequence": 115,
+      "observed_original_url": "https://x.com/AbomosaabSharke/status/1886300598540161184",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "3 فبراير 2025",
+  "publisher": "AbomosaabSharke",
+  "publisher_ar": "AbomosaabSharke",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:10+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-845ba67b75afa81fff92ecb9",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AbomosaabSharke/status/1886300598540161184",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost167Views11",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.000983
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,104 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/2Os6l"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.562,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:22:15+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 776102,
+      "content_hash": "c4f5759bc8f89e0f25e2ee1441da94ce7258d48d82301063698c0e4fca0239ee",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.562,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/raqqamediaoffice1/posts/pfbid09Ysq2wLJCFrDSszZ81fQQe8YB3pG8z3a6Xi8QGdF4EY6iBeyBRNXnSUAUPPiPhTfl",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:15+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/raqqamediaoffice1/posts/pfbid09Ysq2wLJCFrDSszZ81fQQe8YB3pG8z3a6Xi8QGdF4EY6iBeyBRNXnSUAUPPiPhTfl",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "Al raka",
+  "captions": [],
+  "content_hash": "eceaf8a98c7c36d4c29f1496aec16742518a42b79e18e25fd9d148fdac6ceddd",
+  "content_variants": [
+    {
+      "bytes": 155,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:22:15+00:00",
+      "sha256": "eceaf8a98c7c36d4c29f1496aec16742518a42b79e18e25fd9d148fdac6ceddd",
+      "source_url": "https://www.facebook.com/raqqamediaoffice1/posts/pfbid09Ysq2wLJCFrDSszZ81fQQe8YB3pG8z3a6Xi8QGdF4EY6iBeyBRNXnSUAUPPiPhTfl",
+      "text": "#عاجل\n\n🔴 جريمة جديدة تهز بادية... - مكتب الرقة الاعلامي\nFacebook‎مكتب الرقة الاعلامي‎'s Post"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/raqqamediaoffice1/posts/pfbid09Ysq2wLJCFrDSszZ81fQQe8YB3pG8z3a6Xi8QGdF4EY6iBeyBRNXnSUAUPPiPhTfl",
+  "incident_ids": [
+    "airwars-134756"
+  ],
+  "incident_sequences": [
+    144
+  ],
+  "normalized_url": "https://www.facebook.com/raqqamediaoffice1/posts/pfbid09Ysq2wLJCFrDSszZ81fQQe8YB3pG8z3a6Xi8QGdF4EY6iBeyBRNXnSUAUPPiPhTfl",
+  "observed_original_urls": [
+    "https://www.facebook.com/raqqamediaoffice1/posts/pfbid09Ysq2wLJCFrDSszZ81fQQe8YB3pG8z3a6Xi8QGdF4EY6iBeyBRNXnSUAUPPiPhTfl"
+  ],
+  "original_url": "https://www.facebook.com/raqqamediaoffice1/posts/pfbid09Ysq2wLJCFrDSszZ81fQQe8YB3pG8z3a6Xi8QGdF4EY6iBeyBRNXnSUAUPPiPhTfl",
+  "page_title": "#عاجل\n\n🔴 جريمة جديدة تهز بادية... - مكتب الرقة الاعلامي Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2006-january-9-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-134756",
+      "incident_sequence": 144,
+      "observed_original_url": "https://www.facebook.com/raqqamediaoffice1/posts/pfbid09Ysq2wLJCFrDSszZ81fQQe8YB3pG8z3a6Xi8QGdF4EY6iBeyBRNXnSUAUPPiPhTfl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Al raka",
+  "publisher_ar": "Al raka",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:22:15+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-d297ad795cb9ca06b3ed24a9",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/raqqamediaoffice1/posts/pfbid09Ysq2wLJCFrDSszZ81fQQe8YB3pG8z3a6Xi8QGdF4EY6iBeyBRNXnSUAUPPiPhTfl",
+  "text_ar": "",
+  "text_original": "#عاجل\n\n🔴 جريمة جديدة تهز بادية... - مكتب الرقة الاعلامي\nFacebook‎مكتب الرقة الاعلامي‎'s Post",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.005689
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

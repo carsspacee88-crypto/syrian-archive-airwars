@@ -1,0 +1,104 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/IwCdD"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.832,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:17:02+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 687428,
+      "content_hash": "5df7eb7c58e2af75b5cc8e507f24d06c6c3066e06794df6b0ee54a4e5016e97b",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.832,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.instagram.com/p/DFdidcpufMv/?img_index=1",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:17:02+00:00",
+      "status": 200,
+      "url": "https://www.instagram.com/p/DFdidcpufMv/?img_index=1",
+      "waiting_seconds": 0.486
+    }
+  ],
+  "author": "Jin TV",
+  "captions": [],
+  "content_hash": "9e63d994243f0f32bfd6a00e22ef9d078c1a0cacb9329fb8cc0f5a6f8b39a7fe",
+  "content_variants": [
+    {
+      "bytes": 215,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:17:02+00:00",
+      "sha256": "9e63d994243f0f32bfd6a00e22ef9d078c1a0cacb9329fb8cc0f5a6f8b39a7fe",
+      "source_url": "https://www.instagram.com/p/DFdidcpufMv/?img_index=1",
+      "text": "CloseNever miss a post from jintv.arSign up for Instagram to stay in the loop.Sign upLog inAge-restricted contentThis content is age-restricted based on your age or account settings. Log in to continue.Log inSign up"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.instagram.com/p/DFdidcpufMv/?img_index=1",
+  "incident_ids": [
+    "airwars-262599"
+  ],
+  "incident_sequences": [
+    118
+  ],
+  "normalized_url": "https://www.instagram.com/p/DFdidcpufMv/?img_index=1",
+  "observed_original_urls": [
+    "https://www.instagram.com/p/DFdidcpufMv/?img_index=1"
+  ],
+  "original_url": "https://www.instagram.com/p/DFdidcpufMv/?img_index=1",
+  "page_title": "Instagram Instagram Close Down chevron icon",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts783-january-30-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-262599",
+      "incident_sequence": 118,
+      "observed_original_url": "https://www.instagram.com/p/DFdidcpufMv/?img_index=1",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Jin TV",
+  "publisher_ar": "Jin TV",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:17:02+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-73d8903cac4f36ff5ec30250",
+  "source_type": "public_instagram_post",
+  "stable_id_basis": "https://www.instagram.com/p/DFdidcpufMv/?img_index=1",
+  "text_ar": "",
+  "text_original": "CloseNever miss a post from jintv.arSign up for Instagram to stay in the loop.Sign upLog inAge-restricted contentThis content is age-restricted based on your age or account settings. Log in to continue.Log inSign up",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002292
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

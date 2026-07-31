@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "203176"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-zshfnagve8s2zro-1888293294184042803-2025-02-08-182618/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.229,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:09+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 54568,
+      "content_hash": "5d3756c84563b23e7cb4514d8d107adb3ff28d0397dc9516802f2633fab7188e",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.229,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/ZSHFnaGve8S2zRO/status/1888293294184042803",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:09+00:00",
+      "status": 200,
+      "url": "https://x.com/ZSHFnaGve8S2zRO/status/1888293294184042803",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "ZSHFnaGve8S2zRO",
+  "captions": [],
+  "content_hash": "fd57895010828c07bcff1469ed801ccc6089cfc7efe336a0bf886d99da9df1cc",
+  "content_variants": [
+    {
+      "bytes": 28,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:09+00:00",
+      "sha256": "fd57895010828c07bcff1469ed801ccc6089cfc7efe336a0bf886d99da9df1cc",
+      "source_url": "https://x.com/ZSHFnaGve8S2zRO/status/1888293294184042803",
+      "text": "PostLog inSign upPost73Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/ZSHFnaGve8S2zRO/status/1888293294184042803",
+  "incident_ids": [
+    "airwars-276016"
+  ],
+  "incident_sequences": [
+    110
+  ],
+  "normalized_url": "https://x.com/ZSHFnaGve8S2zRO/status/1888293294184042803",
+  "observed_original_urls": [
+    "https://x.com/ZSHFnaGve8S2zRO/status/1888293294184042803"
+  ],
+  "original_url": "https://x.com/ZSHFnaGve8S2zRO/status/1888293294184042803",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy070-february-8-2025/",
+      "airwars_source_id": "203176",
+      "incident_id": "airwars-276016",
+      "incident_sequence": 110,
+      "observed_original_url": "https://x.com/ZSHFnaGve8S2zRO/status/1888293294184042803",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "8 فبراير 2025",
+  "publisher": "ZSHFnaGve8S2zRO",
+  "publisher_ar": "ZSHFnaGve8S2zRO",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:09+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-832d8a09a2cadeeab1fe2e76",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/ZSHFnaGve8S2zRO/status/1888293294184042803",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost73Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.000946
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

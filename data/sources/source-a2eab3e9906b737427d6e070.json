@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "274089"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-omar_alharir-1879659359363617213-2025-01-15-223808/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.309,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:20:15+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 131985,
+      "content_hash": "0cdea1b996ae565d6bbeea179e6f0898b4ed6627238bae182a2e16da055c5f33",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.309,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/omar_alharir/status/1879659359363617213",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:15+00:00",
+      "status": 200,
+      "url": "https://x.com/omar_alharir/status/1879659359363617213",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/omar_alharir",
+  "captions": [],
+  "content_hash": "d0a945fb2966411689450349777938c39f755fc495e24884cb87c115edfea3c7",
+  "content_variants": [
+    {
+      "bytes": 673,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:20:15+00:00",
+      "sha256": "d0a945fb2966411689450349777938c39f755fc495e24884cb87c115edfea3c7",
+      "source_url": "https://x.com/omar_alharir/status/1879659359363617213",
+      "text": "Post\n\nPost\n\nاحمد ياسر الأسعد@Ahmed60986799Jan 15, 2025هلق اخي. خبر الضربه صحيح في ناس عم تقول كذب. وفي شهداء ولا لا. ان شاءالله116.6K\n\nOmar Alhariri@omar_alharirصحيح وارتقى ثلاث شهداء منهم مختار بلدة غدير البستان10:38 PM · Jan 15, 20256.3KViews12352\n\nاحمد ياسر الأسعد@Ahmed60986799Jan 15, 2025حسبي الله ونعم الوكيل المشكله انو حتى بالوضع الحال لايمكن الرد وبنفس الوقت السكوت. غلط الله يختار الخير ويسدد راي القياده. المر فعلا جلل371.7K"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/omar_alharir/status/1879659359363617213",
+  "incident_ids": [
+    "airwars-275990"
+  ],
+  "incident_sequences": [
+    132
+  ],
+  "normalized_url": "https://x.com/omar_alharir/status/1879659359363617213",
+  "observed_original_urls": [
+    "https://x.com/omar_alharir/status/1879659359363617213"
+  ],
+  "original_url": "https://x.com/omar_alharir/status/1879659359363617213",
+  "page_title": "Omar Alhariri on X: \"@Ahmed60986799 صحيح وارتقى ثلاث شهداء منهم مختار بلدة غدير البستان\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy067-january-15-2025/",
+      "airwars_source_id": "274089",
+      "incident_id": "airwars-275990",
+      "incident_sequence": 132,
+      "observed_original_url": "https://x.com/omar_alharir/status/1879659359363617213",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-01-15T22:38:08.000Z",
+  "publisher": "omar_alharir",
+  "publisher_ar": "omar_alharir",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:20:15+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a2eab3e9906b737427d6e070",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/omar_alharir/status/1879659359363617213",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nاحمد ياسر الأسعد@Ahmed60986799Jan 15, 2025هلق اخي. خبر الضربه صحيح في ناس عم تقول كذب. وفي شهداء ولا لا. ان شاءالله116.6K\n\nOmar Alhariri@omar_alharirصحيح وارتقى ثلاث شهداء منهم مختار بلدة غدير البستان10:38 PM · Jan 15, 20256.3KViews12352\n\nاحمد ياسر الأسعد@Ahmed60986799Jan 15, 2025حسبي الله ونعم الوكيل المشكله انو حتى بالوضع الحال لايمكن الرد وبنفس الوقت السكوت. غلط الله يختار الخير ويسدد راي القياده. المر فعلا جلل371.7K",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001857
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
