@@ -1,0 +1,24 @@
+{
+  "attempts": 1,
+  "body_decoded_from": null,
+  "bytes": 0,
+  "capture": {
+    "cdx_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fairwars.org%2Fcivilian-casualties%2Fys133-0000-00-00%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+    "digest": "WJSTFP576JNOFAPTI3NQ5LLQRQ3NM2WG",
+    "mimetype": "text/html",
+    "original": "https://airwars.org/civilian-casualties/ys133-0000-00-00/",
+    "replay_url": "https://web.archive.org/web/20250616161613id_/https://airwars.org/civilian-casualties/ys133-0000-00-00/",
+    "statuscode": "200",
+    "timestamp": "20250616161613"
+  },
+  "content_hash": null,
+  "content_type": "",
+  "elapsed_seconds": 0.251,
+  "error": "URLError: <urlopen error timed out>",
+  "final_url": "https://web.archive.org/web/20250616161613id_/https://airwars.org/civilian-casualties/ys133-0000-00-00/",
+  "ok": false,
+  "response_content_encoding": "",
+  "retrieved_at": "2026-07-31T11:30:20+00:00",
+  "status": null,
+  "url": "https://web.archive.org/web/20250616161613id_/https://airwars.org/civilian-casualties/ys133-0000-00-00/"
+}

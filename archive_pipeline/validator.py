@@ -1,0 +1,342 @@
+from __future__ import annotations
+
+import argparse
+import html
+import json
+import math
+import re
+from collections import Counter, defaultdict
+from pathlib import Path
+from typing import Any
+from urllib.parse import unquote, urlsplit
+
+from . import PARSER_VERSION, SCHEMA_VERSION
+from .io_utils import atomic_write_json, atomic_write_text, load_json, utc_now
+from .legacy import LegacyArchive
+from .reports import coordinate_reasons
+
+
+LINK_RE = re.compile(r'(?<![-\w])(?:href|src)\s*=\s*["\']([^"\']+)["\']', re.IGNORECASE)
+REQUIRED_COMPLETE_FIELDS = ["internal_id", "incident_code", "canonical_url", "incident_date", "location"]
+PROVENANCE_FIELDS = [
+    "incident_code", "incident_date", "location", "latitude", "longitude",
+    "civilian_deaths_min", "civilian_deaths_max", "civilian_injuries_min",
+    "civilian_injuries_max", "narrative",
+]
+BINARY_MEDIA_SUFFIXES = {
+    ".jpg", ".jpeg", ".png", ".gif", ".webp", ".avif", ".tif", ".tiff",
+    ".mp4", ".mov", ".avi", ".mkv", ".webm", ".mp3", ".wav", ".ogg",
+}
+
+
+class Validation:
+    def __init__(self) -> None:
+        self.issues: list[dict[str, Any]] = []
+        self.checks: dict[str, Any] = {}
+
+    def add(self, severity: str, code: str, path: str, message: str, **details: Any) -> None:
+        issue = {"severity": severity, "code": code, "path": path, "message": message}
+        if details:
+            issue["details"] = details
+        self.issues.append(issue)
+
+    def report(self) -> dict[str, Any]:
+        counts = Counter(issue["severity"] for issue in self.issues)
+        return {
+            "generated_at": utc_now(),
+            "result": "failed" if counts["critical"] else "passed",
+            "issue_counts": {key: counts.get(key, 0) for key in ["critical", "warning", "info"]},
+            "checks": self.checks,
+            "issues": self.issues,
+        }
+
+
+def _is_external(value: str) -> bool:
+    parsed = urlsplit(value)
+    return bool(parsed.scheme or value.startswith("//"))
+
+
+def _valid_external_url(value: str) -> bool:
+    parsed = urlsplit(value)
+    if parsed.scheme in {"mailto", "tel"}:
+        return bool(parsed.path)
+    return parsed.scheme in {"http", "https"} and bool(parsed.netloc)
+
+
+def _validate_internal_links(validation: Validation, site_root: Path) -> None:
+    html_files = sorted(site_root.rglob("*.html"))
+    checked = 0
+    broken = 0
+    root_paths = 0
+    for path in html_files:
+        relative = path.relative_to(site_root)
+        text = path.read_text(encoding="utf-8")
+        for raw in LINK_RE.findall(text):
+            value = html.unescape(raw.strip())
+            if not value or value.startswith("#"):
+                continue
+            if value.startswith("/") and not value.startswith("//"):
+                root_paths += 1
+                validation.add(
+                    "critical", "absolute_repository_root_path", str(relative),
+                    "Absolute root path breaks under the GitHub Pages repository subpath.", value=value,
+                )
+                continue
+            if _is_external(value):
+                if not _valid_external_url(value):
+                    validation.add("warning", "invalid_external_url", str(relative), "External URL is malformed.", value=value)
+                continue
+            parsed = urlsplit(value)
+            if not parsed.path:
+                continue
+            checked += 1
+            decoded = unquote(parsed.path)
+            target = (path.parent / decoded).resolve()
+            try:
+                target.relative_to(site_root)
+            except ValueError:
+                broken += 1
+                validation.add("critical", "internal_link_escapes_site", str(relative), "Internal link leaves the site artifact.", value=value)
+                continue
+            if decoded.endswith("/") or target.is_dir():
+                target = target / "index.html"
+            if not target.is_file():
+                broken += 1
+                validation.add("critical", "broken_internal_link", str(relative), "Internal link target does not exist.", value=value)
+    validation.checks["internal_links"] = {
+        "html_files_scanned": len(html_files),
+        "links_checked": checked,
+        "broken": broken,
+        "absolute_root_paths": root_paths,
+    }
+
+
+def _validate_case_files(validation: Validation, site_root: Path, total: int) -> None:
+    missing_pages: list[int] = []
+    missing_json: list[int] = []
+    invalid_json: list[dict[str, Any]] = []
+    for sequence in range(1, total + 1):
+        case_dir = site_root / "cases" / f"{sequence:04d}"
+        if not (case_dir / "index.html").is_file():
+            missing_pages.append(sequence)
+        data_path = case_dir / "data.json"
+        if not data_path.is_file():
+            missing_json.append(sequence)
+        else:
+            try:
+                json.loads(data_path.read_text(encoding="utf-8"))
+            except (OSError, json.JSONDecodeError) as error:
+                invalid_json.append({"sequence": sequence, "error": f"{type(error).__name__}: {error}"})
+    for sequence in missing_pages:
+        validation.add("critical", "missing_case_page", f"cases/{sequence:04d}/index.html", "Generated case page is missing.")
+    for sequence in missing_json:
+        validation.add("critical", "missing_case_json", f"cases/{sequence:04d}/data.json", "Legacy case JSON is missing.")
+    for item in invalid_json:
+        validation.add("critical", "invalid_case_json", f"cases/{item['sequence']:04d}/data.json", "Case JSON cannot be parsed.", error=item["error"])
+    validation.checks["case_files"] = {
+        "expected": total,
+        "pages_present": total - len(missing_pages),
+        "json_present": total - len(missing_json),
+        "invalid_json": len(invalid_json),
+    }
+
+
+def _validate_pagination(validation: Validation, site_root: Path, total: int) -> None:
+    expected = math.ceil(total / 100)
+    missing = []
+    for number in range(1, expected + 1):
+        path = site_root / "pages" / f"page-{number:03d}.html"
+        if not path.is_file():
+            missing.append(number)
+    for number in missing:
+        validation.add("critical", "missing_pagination_page", f"pages/page-{number:03d}.html", "Pagination page is missing.")
+    validation.checks["pagination"] = {"expected_pages": expected, "present": expected - len(missing), "missing": missing}
+
+
+def _read_normalized(project_root: Path, validation: Validation) -> list[dict[str, Any]]:
+    records: list[dict[str, Any]] = []
+    for path in sorted((project_root / "data" / "incidents").glob("*.json")):
+        try:
+            record = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError) as error:
+            validation.add("critical", "invalid_normalized_json", str(path.relative_to(project_root)), "Normalized incident JSON cannot be parsed.", error=str(error))
+            continue
+        record["__path"] = path
+        records.append(record)
+    return records
+
+
+def _validate_normalized(validation: Validation, site_root: Path, project_root: Path) -> None:
+    records = _read_normalized(project_root, validation)
+    id_paths: dict[str, list[str]] = defaultdict(list)
+    code_ids: dict[str, list[str]] = defaultdict(list)
+    for record in records:
+        path: Path = record.pop("__path")
+        relative = str(path.relative_to(project_root))
+        internal_id = str(record.get("internal_id") or "")
+        code = str(record.get("incident_code") or "")
+        id_paths[internal_id].append(relative)
+        if code:
+            code_ids[code].append(internal_id)
+        if record.get("schema_version") != SCHEMA_VERSION:
+            validation.add("warning", "unexpected_schema_version", relative, "Unexpected normalized schema version.", value=record.get("schema_version"), expected=SCHEMA_VERSION)
+        if record.get("parser_version") != PARSER_VERSION:
+            validation.add("warning", "unexpected_parser_version", relative, "Unexpected parser version.", value=record.get("parser_version"), expected=PARSER_VERSION)
+        if not internal_id:
+            validation.add("critical", "missing_internal_id", relative, "Normalized record has no stable internal ID.")
+        published = site_root / "data" / "incidents" / f"{internal_id}.json"
+        if internal_id and not published.is_file():
+            validation.add("critical", "normalized_json_not_published", relative, "Normalized record is not present in the site artifact.")
+        canonical = str(record.get("canonical_url") or "")
+        if canonical and not _valid_external_url(canonical):
+            validation.add("critical", "invalid_primary_source_url", relative, "Primary source URL is malformed.", value=canonical)
+        if record.get("completeness_status") == "complete":
+            missing = [field for field in REQUIRED_COMPLETE_FIELDS if record.get(field) in (None, "")]
+            missing.extend(record.get("missing_sections") or [])
+            if missing:
+                validation.add("critical", "complete_record_missing_requirements", relative, "Record is marked complete while required data is missing.", missing=missing)
+        provenance = record.get("field_provenance") or {}
+        for field in PROVENANCE_FIELDS:
+            if record.get(field) not in (None, "") and not provenance.get(field):
+                validation.add("critical", "missing_field_provenance", relative, "Important value has no provenance.", field=field)
+        extraction = record.get("page_extraction") or {}
+        if extraction.get("sources_section_present") and not record.get("sources"):
+            validation.add("warning", "empty_source_section", relative, "Source section was found but yielded no source records.")
+        for source in record.get("sources") or []:
+            for key in ("url", "archive_url"):
+                value = str(source.get(key) or "")
+                if value and not _valid_external_url(value):
+                    validation.add("warning", "invalid_source_url", relative, "Source URL is malformed.", field=key, value=value)
+        for media in record.get("media_metadata") or []:
+            value = str(media.get("url") or "")
+            if value.startswith("data:"):
+                validation.add("critical", "embedded_media_binary", relative, "Media must not be embedded as Base64/data URI.")
+            elif value and not _is_external(value):
+                local = (site_root / value).resolve()
+                if not local.is_file():
+                    validation.add("critical", "missing_local_media_file", relative, "Normalized metadata references a missing local media file.", value=value)
+    for internal_id, paths in id_paths.items():
+        if not internal_id or len(paths) > 1:
+            validation.add("critical", "duplicate_internal_id", paths[0] if paths else "data/incidents", "Stable internal ID is duplicated.", internal_id=internal_id, paths=paths)
+    duplicates = {code: ids for code, ids in code_ids.items() if len(set(ids)) > 1}
+    for code, ids in duplicates.items():
+        validation.add("warning", "duplicate_public_incident_code", "data/incidents", "Public incident code is shared by different stable IDs; records were preserved separately.", incident_code=code, internal_ids=ids)
+    validation.checks["normalized_records"] = {
+        "count": len(records),
+        "unique_internal_ids": len(id_paths),
+        "duplicate_public_codes": duplicates,
+    }
+
+
+def _validate_map(validation: Validation, project_root: Path) -> None:
+    report = load_json(project_root / "data" / "reports" / "map-coverage.json", {})
+    points = load_json(project_root / "data" / "generated" / "map-points.json", [])
+    if not report:
+        validation.add("critical", "missing_map_coverage_report", "data/reports/map-coverage.json", "Map coverage report is missing.")
+        return
+    counts = report.get("counts", {})
+    included = int(counts.get("incidents_included_on_map") or 0)
+    excluded = int(counts.get("incidents_excluded_from_map") or 0)
+    total = int(counts.get("total_incidents") or 0)
+    if included != len(points):
+        validation.add("critical", "map_point_count_mismatch", "data/generated/map-points.json", "Map point list does not match coverage report.", report=included, points=len(points))
+    if included + excluded != total:
+        validation.add("critical", "map_coverage_total_mismatch", "data/reports/map-coverage.json", "Included and excluded incidents do not sum to total.")
+    for point in points:
+        reasons = coordinate_reasons(point.get("lat"), point.get("lon"))
+        if reasons:
+            validation.add("critical", "invalid_coordinate_in_map", "data/generated/map-points.json", "Excluded/suspicious coordinate leaked into map points.", internal_id=point.get("internal_id"), reasons=reasons)
+    validation.checks["map"] = {"total": total, "included": included, "excluded": excluded, "point_file_count": len(points)}
+
+
+def _validate_no_media_binaries(validation: Validation, project_root: Path) -> None:
+    found = []
+    raw_root = project_root / "data" / "raw"
+    if raw_root.exists():
+        for path in raw_root.rglob("*"):
+            if path.is_file() and path.suffix.lower() in BINARY_MEDIA_SUFFIXES:
+                found.append(str(path.relative_to(project_root)))
+    for path in found:
+        validation.add("critical", "committed_media_binary", path, "Image/video/audio binaries are prohibited in the current phase.")
+    validation.checks["media_binary_policy"] = {"binary_files_found": len(found)}
+
+
+def _markdown(report: dict[str, Any]) -> str:
+    counts = report["issue_counts"]
+    lines = [
+        "# تقرير التحقق الآلي / Automated validation report",
+        "",
+        f"- النتيجة / Result: **{report['result']}**",
+        f"- أخطاء حرجة / Critical: **{counts['critical']}**",
+        f"- تحذيرات / Warnings: **{counts['warning']}**",
+        f"- معلومات / Info: **{counts['info']}**",
+        f"- وقت التقرير: `{report['generated_at']}`",
+        "",
+        "## الفحوص / Checks",
+        "",
+        "```json",
+        json.dumps(report["checks"], ensure_ascii=False, indent=2, sort_keys=True),
+        "```",
+        "",
+        "## المشكلات / Issues",
+        "",
+    ]
+    if not report["issues"]:
+        lines.append("لم تُكتشف مشكلات. / No issues detected.")
+    else:
+        for issue in report["issues"]:
+            lines.append(f"- **{issue['severity']} · {issue['code']}** — `{issue['path']}` — {issue['message']}")
+    return "\n".join(lines) + "\n"
+
+
+def validate(site_root: Path, project_root: Path, legacy_zip: Path, report_root: Path) -> dict[str, Any]:
+    site_root = site_root.resolve()
+    project_root = project_root.resolve()
+    validation = Validation()
+    with LegacyArchive(legacy_zip) as archive:
+        summaries = list(archive.iter_summaries())
+    total = len(summaries)
+    for required in ["index.html", "map.html", "methodology.html", ".nojekyll", "assets/css/style.css", "assets/js/site.js", "assets/js/archive-search.js"]:
+        if not (site_root / required).exists():
+            validation.add("critical", "missing_required_site_file", required, "Required site artifact file is missing.")
+    _validate_case_files(validation, site_root, total)
+    _validate_pagination(validation, site_root, total)
+    _validate_internal_links(validation, site_root)
+    _validate_normalized(validation, site_root, project_root)
+    _validate_map(validation, project_root)
+    _validate_no_media_binaries(validation, project_root)
+
+    legacy_codes: dict[str, list[int]] = defaultdict(list)
+    for row in summaries:
+        if row.get("code"):
+            legacy_codes[str(row["code"])].append(int(row["sequence"]))
+    duplicates = {code: sequences for code, sequences in legacy_codes.items() if len(sequences) > 1}
+    validation.checks["legacy_duplicate_public_codes"] = duplicates
+    for code, sequences in duplicates.items():
+        validation.add("warning", "duplicate_legacy_public_incident_code", "data/cases-summary.json", "Duplicate public code preserved as separate sequences.", incident_code=code, sequences=sequences)
+
+    report = validation.report()
+    report_root.mkdir(parents=True, exist_ok=True)
+    atomic_write_json(report_root / "validation.json", report)
+    atomic_write_text(report_root / "validation.md", _markdown(report))
+    return report
+
+
+def build_parser() -> argparse.ArgumentParser:
+    parser = argparse.ArgumentParser(description="Validate the generated archive and normalized incident records")
+    parser.add_argument("--site-root", required=True)
+    parser.add_argument("--project-root", default=".")
+    parser.add_argument("--legacy-zip", required=True)
+    parser.add_argument("--report-root", default="data/reports")
+    return parser
+
+
+def main() -> None:
+    args = build_parser().parse_args()
+    report = validate(Path(args.site_root), Path(args.project_root), Path(args.legacy_zip), Path(args.report_root))
+    print(json.dumps({"result": report["result"], "issue_counts": report["issue_counts"], "checks": report["checks"]}, ensure_ascii=False, indent=2))
+    raise SystemExit(1 if report["issue_counts"]["critical"] else 0)
+
+
+if __name__ == "__main__":
+    main()

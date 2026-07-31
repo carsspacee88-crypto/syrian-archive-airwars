@@ -1,0 +1,24 @@
+{
+  "attempts": 1,
+  "body_decoded_from": null,
+  "bytes": 0,
+  "capture": {
+    "cdx_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fairwars.org%2Fcivilian-casualties%2Fti038c-june-19-2020%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+    "digest": "ACLBCBT456NKDU5ERRQH53L5IPAWG77S",
+    "mimetype": "text/html",
+    "original": "https://airwars.org/civilian-casualties/ti038c-june-19-2020/",
+    "replay_url": "https://web.archive.org/web/20250620142717id_/https://airwars.org/civilian-casualties/ti038c-june-19-2020/",
+    "statuscode": "200",
+    "timestamp": "20250620142717"
+  },
+  "content_hash": null,
+  "content_type": "",
+  "elapsed_seconds": 0.251,
+  "error": "URLError: <urlopen error timed out>",
+  "final_url": "https://web.archive.org/web/20250620142717id_/https://airwars.org/civilian-casualties/ti038c-june-19-2020/",
+  "ok": false,
+  "response_content_encoding": "",
+  "retrieved_at": "2026-07-31T11:30:19+00:00",
+  "status": null,
+  "url": "https://web.archive.org/web/20250620142717id_/https://airwars.org/civilian-casualties/ti038c-june-19-2020/"
+}

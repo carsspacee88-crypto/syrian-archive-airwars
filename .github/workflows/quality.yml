@@ -1,0 +1,32 @@
+name: فحص جودة الأرشيف
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - run: python -m unittest discover -s tests -v
+      - name: إعادة تكوين الموقع
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat site-package/part-* > /tmp/syrian-archive-site.zip
+          echo "9f35a90d92f9fb0334cb61ffd8434aac03fd0ee61622908a11923dac40da35f3  /tmp/syrian-archive-site.zip" | sha256sum --check
+          mkdir -p _site
+          unzip -q /tmp/syrian-archive-site.zip -d _site
+          python scripts/generate_reports.py --legacy-zip /tmp/syrian-archive-site.zip --output-root .
+          python scripts/build_site.py --site-root _site --project-root .
+          python scripts/validate_site.py --site-root _site --project-root . --legacy-zip /tmp/syrian-archive-site.zip --report-root _site/data/reports

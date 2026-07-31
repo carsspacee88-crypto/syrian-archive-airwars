@@ -1,0 +1,121 @@
+{
+  "checks": {
+    "case_files": {
+      "expected": 8114,
+      "invalid_json": 0,
+      "json_present": 8114,
+      "pages_present": 8114
+    },
+    "internal_links": {
+      "absolute_root_paths": 0,
+      "broken": 0,
+      "html_files_scanned": 8200,
+      "links_checked": 139236
+    },
+    "legacy_duplicate_public_codes": {
+      "TS631": [
+        494,
+        496
+      ],
+      "TS633": [
+        480,
+        481
+      ]
+    },
+    "map": {
+      "excluded": 1435,
+      "included": 6679,
+      "point_file_count": 6679,
+      "total": 8114
+    },
+    "media_binary_policy": {
+      "binary_files_found": 0
+    },
+    "normalized_records": {
+      "count": 11,
+      "duplicate_public_codes": {
+        "TS631": [
+          "airwars-93203",
+          "airwars-93265"
+        ],
+        "TS633": [
+          "airwars-93205",
+          "airwars-93213"
+        ]
+      },
+      "unique_internal_ids": 11
+    },
+    "pagination": {
+      "expected_pages": 82,
+      "missing": [],
+      "present": 82
+    }
+  },
+  "generated_at": "2026-07-31T11:31:50+00:00",
+  "issue_counts": {
+    "critical": 0,
+    "info": 0,
+    "warning": 5
+  },
+  "issues": [
+    {
+      "code": "empty_source_section",
+      "message": "Source section was found but yielded no source records.",
+      "path": "data/incidents/airwars-83712.json",
+      "severity": "warning"
+    },
+    {
+      "code": "duplicate_public_incident_code",
+      "details": {
+        "incident_code": "TS631",
+        "internal_ids": [
+          "airwars-93203",
+          "airwars-93265"
+        ]
+      },
+      "message": "Public incident code is shared by different stable IDs; records were preserved separately.",
+      "path": "data/incidents",
+      "severity": "warning"
+    },
+    {
+      "code": "duplicate_public_incident_code",
+      "details": {
+        "incident_code": "TS633",
+        "internal_ids": [
+          "airwars-93205",
+          "airwars-93213"
+        ]
+      },
+      "message": "Public incident code is shared by different stable IDs; records were preserved separately.",
+      "path": "data/incidents",
+      "severity": "warning"
+    },
+    {
+      "code": "duplicate_legacy_public_incident_code",
+      "details": {
+        "incident_code": "TS633",
+        "sequences": [
+          480,
+          481
+        ]
+      },
+      "message": "Duplicate public code preserved as separate sequences.",
+      "path": "data/cases-summary.json",
+      "severity": "warning"
+    },
+    {
+      "code": "duplicate_legacy_public_incident_code",
+      "details": {
+        "incident_code": "TS631",
+        "sequences": [
+          494,
+          496
+        ]
+      },
+      "message": "Duplicate public code preserved as separate sequences.",
+      "path": "data/cases-summary.json",
+      "severity": "warning"
+    }
+  ],
+  "result": "passed"
+}

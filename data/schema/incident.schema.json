@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://carsspacee88-crypto.github.io/syrian-archive-airwars/data/schema/incident.schema.json",
+  "title": "Syrian Archive Airwars normalized incident",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "parser_version",
+    "internal_id",
+    "legacy_sequence",
+    "incident_code",
+    "canonical_url",
+    "retrieval_status",
+    "extraction_status",
+    "completeness_status",
+    "field_provenance"
+  ],
+  "properties": {
+    "schema_version": {"type": "string"},
+    "parser_version": {"type": "string"},
+    "internal_id": {"type": "string", "minLength": 1},
+    "legacy_sequence": {"type": "integer", "minimum": 1},
+    "incident_code": {"type": ["string", "null"]},
+    "airwars_id": {"type": "string"},
+    "canonical_url": {"type": "string", "format": "uri"},
+    "original_source_url": {"type": "string", "format": "uri"},
+    "archived_urls": {"type": "array", "items": {"type": "string"}},
+    "incident_date": {"type": ["string", "null"]},
+    "location": {"type": ["string", "null"]},
+    "latitude": {"type": ["number", "string", "null"]},
+    "longitude": {"type": ["number", "string", "null"]},
+    "victims": {"type": "array"},
+    "sources": {"type": "array"},
+    "media_metadata": {"type": "array"},
+    "source_sections": {"type": "array"},
+    "retrieval_status": {"type": "object"},
+    "extraction_status": {"type": "string"},
+    "completeness_status": {
+      "enum": ["complete", "partial", "unavailable", "blocked", "failed", "pending_review", "conflicting_sources", "pending"]
+    },
+    "missing_fields": {"type": "array", "items": {"type": "string"}},
+    "missing_sections": {"type": "array", "items": {"type": "string"}},
+    "field_provenance": {"type": "object"},
+    "retrieved_at": {"type": ["string", "null"]},
+    "source_last_modified": {"type": ["string", "null"]},
+    "content_hash": {"type": ["string", "null"]}
+  },
+  "additionalProperties": true
+}

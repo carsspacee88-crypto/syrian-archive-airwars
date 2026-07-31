@@ -2,9 +2,11 @@ name: نشر الأرشيف على GitHub Pages
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
   workflow_dispatch:
+  workflow_run:
+    workflows: ["جمع بيانات Airwars"]
+    types: [completed]
 
 permissions:
   contents: read
@@ -17,8 +19,9 @@ concurrency:
 
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -26,18 +29,63 @@ jobs:
     steps:
       - name: جلب ملفات المستودع
         uses: actions/checkout@v6
+        with:
+          ref: main
 
-      - name: تجميع حزمة الموقع والتحقق منها
+      - name: إعداد Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: تثبيت أدوات التحليل
+        run: python -m pip install -r requirements.txt
+
+      - name: اختبارات الوحدة
+        run: python -m unittest discover -s tests -v
+
+      - name: تجميع لقطة الموقع التاريخية والتحقق منها
         shell: bash
         run: |
           set -euo pipefail
-          mkdir -p _site
           cat site-package/part-* > /tmp/syrian-archive-site.zip
           echo "9f35a90d92f9fb0334cb61ffd8434aac03fd0ee61622908a11923dac40da35f3  /tmp/syrian-archive-site.zip" | sha256sum --check
+          mkdir -p _site
           unzip -q /tmp/syrian-archive-site.zip -d _site
           test -f _site/index.html
-          test "$(find _site -type f | wc -l)" -eq 16326
-          touch _site/.nojekyll
+          test "$(find _site -type f | wc -l)" -ge 16326
+
+      - name: توليد تقارير الجمع وتغطية الخريطة
+        run: python scripts/generate_reports.py --legacy-zip /tmp/syrian-archive-site.zip --output-root .
+
+      - name: بناء النسخة الثابتة من JSON الموحّد
+        run: python scripts/build_site.py --site-root _site --project-root .
+
+      - name: التحقق من جميع الصفحات والروابط والبيانات
+        run: |
+          python scripts/validate_site.py \
+            --site-root _site \
+            --project-root . \
+            --legacy-zip /tmp/syrian-archive-site.zip \
+            --report-root _site/data/reports
+
+      - name: إنشاء بصمات النسخة النهائية
+        run: python scripts/write_checksums.py --site-root _site
+
+      - name: التحقق من جذر artifact ومسارات GitHub Pages
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f _site/index.html
+          test -f _site/.nojekyll
+          test -f _site/methodology.html
+          test -f _site/map.html
+          test -f _site/cases/0001/index.html
+          test -f _site/cases/8114/index.html
+          test -f _site/cases/0001/data.json
+          test -f _site/data/reports/map-coverage.json
+          test -f _site/assets/css/style.css
+          test -f _site/assets/js/archive-search.js
 
       - name: تهيئة GitHub Pages
         uses: actions/configure-pages@v5

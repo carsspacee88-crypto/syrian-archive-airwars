@@ -1,0 +1,84 @@
+{
+  "completed_sequences": [
+    4771
+  ],
+  "last_progress_at": "2026-07-31T11:30:20+00:00",
+  "last_run_errors": 0,
+  "last_run_finished_at": "2026-07-31T11:30:20+00:00",
+  "last_run_started_at": "2026-07-31T11:30:15+00:00",
+  "last_sequence": 8114,
+  "records": {
+    "1": {
+      "content_hash": null,
+      "internal_id": "airwars-454483",
+      "retrieved_at": null,
+      "status": "blocked"
+    },
+    "1175": {
+      "content_hash": "b18950a4d877cee0b98106d155228d0aa6a9998f7f34e8b34e979abab4e712b0",
+      "internal_id": "airwars-74721",
+      "retrieved_at": "2026-07-31T11:05:35+00:00",
+      "status": "pending_review"
+    },
+    "3": {
+      "content_hash": null,
+      "internal_id": "airwars-429171",
+      "retrieved_at": null,
+      "status": "blocked"
+    },
+    "4": {
+      "content_hash": null,
+      "internal_id": "airwars-403523",
+      "retrieved_at": null,
+      "status": "blocked"
+    },
+    "4771": {
+      "content_hash": "c33a7261a163b0c4363ef824c6876386ce49342c7ee2639116e2ad4484777475",
+      "internal_id": "airwars-32716",
+      "retrieved_at": "2026-07-31T11:01:59+00:00",
+      "status": "complete"
+    },
+    "480": {
+      "content_hash": null,
+      "internal_id": "airwars-93205",
+      "retrieved_at": null,
+      "status": "blocked"
+    },
+    "481": {
+      "content_hash": "cc910f99a3cade405bed6a49407bf80ccaa55abc8f143aec40a6c21cd55f7b6d",
+      "internal_id": "airwars-93213",
+      "retrieved_at": "2026-07-31T11:04:07+00:00",
+      "status": "partial"
+    },
+    "494": {
+      "content_hash": null,
+      "internal_id": "airwars-93203",
+      "retrieved_at": null,
+      "status": "blocked"
+    },
+    "496": {
+      "content_hash": "f145158bfd0627c24c3b0f116c384c48aa06dff5d6e7e21a08e845d15999077e",
+      "internal_id": "airwars-93265",
+      "retrieved_at": "2026-07-31T11:04:50+00:00",
+      "status": "pending_review"
+    },
+    "786": {
+      "content_hash": null,
+      "internal_id": "airwars-84313",
+      "retrieved_at": null,
+      "status": "failed"
+    },
+    "8114": {
+      "content_hash": "14784ad8da4ea40ec7c623c9d6d7e1447dd27ae4b5c9737d64c693e00dc7b20a",
+      "internal_id": "airwars-83712",
+      "retrieved_at": "2026-07-31T11:06:08+00:00",
+      "status": "partial"
+    }
+  },
+  "requested_sequences": [
+    481,
+    496,
+    1175,
+    8114
+  ]
+}

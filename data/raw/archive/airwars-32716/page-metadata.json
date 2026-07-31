@@ -1,0 +1,22 @@
+{
+  "attempts": 1,
+  "bytes": 54999,
+  "capture": {
+    "cdx_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fairwars.org%2Fcivilian-casualties%2Fcs1033-june-19-2017%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+    "digest": "WOVHAS6QH65VJZWA6NQQZ5W6DVQYVJRV",
+    "mimetype": "text/html",
+    "original": "https://airwars.org/civilian-casualties/cs1033-june-19-2017/",
+    "replay_url": "https://web.archive.org/web/20250519150645id_/https://airwars.org/civilian-casualties/cs1033-june-19-2017/",
+    "statuscode": "200",
+    "timestamp": "20250519150645"
+  },
+  "content_hash": "c33a7261a163b0c4363ef824c6876386ce49342c7ee2639116e2ad4484777475",
+  "content_type": "text/html; charset=UTF-8",
+  "elapsed_seconds": 4.852,
+  "error": null,
+  "final_url": "https://web.archive.org/web/20250519150645id_/https://airwars.org/civilian-casualties/cs1033-june-19-2017/",
+  "ok": true,
+  "retrieved_at": "2026-07-31T11:01:59+00:00",
+  "status": 200,
+  "url": "https://web.archive.org/web/20250519150645id_/https://airwars.org/civilian-casualties/cs1033-june-19-2017/"
+}

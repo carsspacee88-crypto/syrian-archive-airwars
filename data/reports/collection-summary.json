@@ -1,0 +1,88 @@
+{
+  "direct_collection": {
+    "conflicting_source_incident_ids": [],
+    "latest_successful_collection": "2026-07-31T11:06:08+00:00",
+    "missing_coordinate_incident_ids": [
+      "airwars-32716",
+      "airwars-403523",
+      "airwars-93203",
+      "airwars-93205",
+      "airwars-93213",
+      "airwars-93265"
+    ],
+    "missing_source_section_incident_ids": [
+      "airwars-403523",
+      "airwars-429171",
+      "airwars-454483",
+      "airwars-83712",
+      "airwars-84313",
+      "airwars-93203",
+      "airwars-93205",
+      "airwars-93213"
+    ],
+    "normalized_json_parse_errors": [],
+    "parser_failure_incident_ids": [],
+    "pending": 8103,
+    "processed": 11,
+    "records_requiring_review": 8,
+    "review_incident_ids": [
+      "airwars-32716",
+      "airwars-403523",
+      "airwars-74721",
+      "airwars-83712",
+      "airwars-93203",
+      "airwars-93205",
+      "airwars-93213",
+      "airwars-93265"
+    ],
+    "status_counts": {
+      "blocked": 5,
+      "complete": 1,
+      "conflicting_sources": 0,
+      "failed": 1,
+      "partial": 2,
+      "pending_review": 2,
+      "unavailable": 0
+    },
+    "status_incident_ids": {
+      "blocked": [
+        "airwars-403523",
+        "airwars-429171",
+        "airwars-454483",
+        "airwars-93203",
+        "airwars-93205"
+      ],
+      "complete": [
+        "airwars-32716"
+      ],
+      "conflicting_sources": [],
+      "failed": [
+        "airwars-84313"
+      ],
+      "partial": [
+        "airwars-83712",
+        "airwars-93213"
+      ],
+      "pending_review": [
+        "airwars-74721",
+        "airwars-93265"
+      ],
+      "unavailable": []
+    },
+    "upgraded_from_partial_to_complete": 1,
+    "upgraded_incident_ids": [
+      "airwars-32716"
+    ]
+  },
+  "generated_at": "2026-07-31T11:30:20+00:00",
+  "legacy_baseline": {
+    "complete": 3784,
+    "partial": 4330
+  },
+  "policy": {
+    "excel_active_source_of_truth": false,
+    "legacy_values_status": "legacy_import_until_verified",
+    "media_binaries_downloaded": 0
+  },
+  "total_incidents": 8114
+}

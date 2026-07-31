@@ -1,0 +1,89 @@
+name: جمع بيانات Airwars
+
+on:
+  workflow_dispatch:
+    inputs:
+      sequences:
+        description: "تسلسلات محددة مثل 4771,480-481 (اتركها فارغة للدفعة التالية)"
+        required: false
+        type: string
+      limit:
+        description: "الحد الأقصى لعدد الحوادث"
+        required: true
+        default: "25"
+        type: string
+      delay:
+        description: "الفاصل الأدنى بين الطلبات بالثواني"
+        required: true
+        default: "1.5"
+        type: string
+      force:
+        description: "إعادة محاولة السجلات المكتملة المحددة"
+        required: true
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: airwars-collector
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: تكوين لقطة الهجرة للتحقق والمفاتيح الأولية
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat site-package/part-* > /tmp/syrian-archive-site.zip
+          echo "9f35a90d92f9fb0334cb61ffd8434aac03fd0ee61622908a11923dac40da35f3  /tmp/syrian-archive-site.zip" | sha256sum --check
+      - name: تشغيل الجامع القابل للاستئناف
+        shell: bash
+        env:
+          INPUT_SEQUENCES: ${{ inputs.sequences }}
+          INPUT_LIMIT: ${{ inputs.limit }}
+          INPUT_DELAY: ${{ inputs.delay }}
+          INPUT_FORCE: ${{ inputs.force }}
+        run: |
+          set -u
+          args=(--legacy-zip /tmp/syrian-archive-site.zip --output-root . --limit "$INPUT_LIMIT" --delay "$INPUT_DELAY")
+          if [[ -n "$INPUT_SEQUENCES" ]]; then args+=(--sequences "$INPUT_SEQUENCES"); fi
+          if [[ "$INPUT_FORCE" == "true" ]]; then args+=(--force); fi
+          python scripts/collect_incidents.py "${args[@]}" || echo "سُجلت إخفاقات فردية؛ حُفظت نقطة الاستئناف والتقارير."
+      - name: تحديث التقارير والاختبارات
+        run: |
+          python scripts/generate_reports.py --legacy-zip /tmp/syrian-archive-site.zip --output-root .
+          python -m unittest discover -s tests -v
+      - name: التحقق من JSON الموحّد وسياسة الوسائط عبر بناء كامل
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p _site
+          unzip -q /tmp/syrian-archive-site.zip -d _site
+          python scripts/build_site.py --site-root _site --project-root .
+          python scripts/validate_site.py --site-root _site --project-root . --legacy-zip /tmp/syrian-archive-site.zip --report-root data/reports
+      - name: حفظ التقدم في main
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "لا توجد تغييرات جديدة."
+            exit 0
+          fi
+          git commit -m "data: continue resumable Airwars collection"
+          git push origin HEAD:main
