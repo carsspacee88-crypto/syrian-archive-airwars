@@ -1,0 +1,54 @@
+name: نشر الأرشيف على GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: جلب ملفات المستودع
+        uses: actions/checkout@v6
+
+      - name: تجميع حزمة الموقع والتحقق منها
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p _site
+          cat site-package/part-* > /tmp/syrian-archive-site.zip
+          echo "9f35a90d92f9fb0334cb61ffd8434aac03fd0ee61622908a11923dac40da35f3  /tmp/syrian-archive-site.zip" | sha256sum --check
+          unzip -q /tmp/syrian-archive-site.zip -d _site
+          test -f _site/index.html
+          test "$(find _site -type f | wc -l)" -eq 16326
+          touch _site/.nojekyll
+
+      - name: تهيئة GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: رفع ملفات الموقع
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./_site
+          retention-days: 1
+          include-hidden-files: true
+
+      - name: نشر الموقع
+        id: deployment
+        uses: actions/deploy-pages@v4
