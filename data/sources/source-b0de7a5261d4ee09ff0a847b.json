@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "445227"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a7%d9%84%d8%ad%d8%b3%d9%83%d8%a9-%d8%a7%d9%84%d9%8a%d9%88%d9%85-pfbid02b5vlqx8fyo7md7kybxxzsweglf3jfjcxg7pspsvfxrw2k6w2epxwzh21cwe2m3sel-2026-03-02-100000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.674,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:51:00+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 682076,
+      "content_hash": "fc6f1dfa48f782a3af8fd0906d01c3ae345dfa806a3fc1f8bd8df27849fc7dd5",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.674,
+      "error": null,
+      "final_url": "https://www.facebook.com/Alhasakahalyoum/posts/pfbid02B5VLqx8FYo7Md7kYbXXzSweGLF3JfjCxG7psPsVfXrw2k6w2EpXWZH21CwE2m3Sel",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:51:00+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/Alhasakahalyoum/posts/pfbid02B5VLqx8FYo7Md7kYbXXzSweGLF3JfjCxG7psPsVfXrw2k6w2EpXWZH21CwE2m3Sel",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "الحسكة اليوم",
+  "captions": [],
+  "content_hash": "907836a8a7d8f80c86b5e85662092c40e3d44788ce64b95d05b1fb913e195aa5",
+  "content_variants": [
+    {
+      "bytes": 472,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:51:00+00:00",
+      "sha256": "907836a8a7d8f80c86b5e85662092c40e3d44788ce64b95d05b1fb913e195aa5",
+      "source_url": "https://www.facebook.com/Alhasakahalyoum/posts/pfbid02B5VLqx8FYo7Md7kYbXXzSweGLF3JfjCxG7psPsVfXrw2k6w2EpXWZH21CwE2m3Sel",
+      "text": "الحسكة اليوم - مصادر محلية من جبلة : سقوط صاروخ في قرية...\nFacebook‎الحسكة اليوم‎'s Post\n\nالحسكة اليومMarch 2 · Shared with Publicمصادر محلية من جبلة : سقوط صاروخ في قرية #الفتيح بالقرب من مطعم روتانا بين منزلين، مما أدى لإصابات طفيفة وبعض الأضرار المادية في المنازل.All reactions:3LikeComment"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Alhasakahalyoum/posts/pfbid02B5VLqx8FYo7Md7kYbXXzSweGLF3JfjCxG7psPsVfXrw2k6w2EpXWZH21CwE2m3Sel",
+  "incident_ids": [
+    "airwars-454483"
+  ],
+  "incident_sequences": [
+    1
+  ],
+  "normalized_url": "https://www.facebook.com/Alhasakahalyoum/posts/pfbid02B5VLqx8FYo7Md7kYbXXzSweGLF3JfjCxG7psPsVfXrw2k6w2EpXWZH21CwE2m3Sel",
+  "observed_original_urls": [
+    "https://www.facebook.com/Alhasakahalyoum/posts/pfbid02B5VLqx8FYo7Md7kYbXXzSweGLF3JfjCxG7psPsVfXrw2k6w2EpXWZH21CwE2m3Sel"
+  ],
+  "original_url": "https://www.facebook.com/Alhasakahalyoum/posts/pfbid02B5VLqx8FYo7Md7kYbXXzSweGLF3JfjCxG7psPsVfXrw2k6w2EpXWZH21CwE2m3Sel",
+  "page_title": "الحسكة اليوم - مصادر محلية من جبلة : سقوط صاروخ في قرية... Facebook Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260302a-march-2-2026/",
+      "airwars_source_id": "445227",
+      "incident_id": "airwars-454483",
+      "incident_sequence": 1,
+      "observed_original_url": "https://www.facebook.com/Alhasakahalyoum/posts/pfbid02B5VLqx8FYo7Md7kYbXXzSweGLF3JfjCxG7psPsVfXrw2k6w2EpXWZH21CwE2m3Sel",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2 مارس 2026",
+  "publisher": "Hasakah today",
+  "publisher_ar": "الحسكة اليوم",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:51:00+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-b0de7a5261d4ee09ff0a847b",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/Alhasakahalyoum/posts/pfbid02B5VLqx8FYo7Md7kYbXXzSweGLF3JfjCxG7psPsVfXrw2k6w2EpXWZH21CwE2m3Sel",
+  "text_ar": "",
+  "text_original": "الحسكة اليوم - مصادر محلية من جبلة : سقوط صاروخ في قرية...\nFacebook‎الحسكة اليوم‎'s Post\n\nالحسكة اليومMarch 2 · Shared with Publicمصادر محلية من جبلة : سقوط صاروخ في قرية #الفتيح بالقرب من مطعم روتانا بين منزلين، مما أدى لإصابات طفيفة وبعض الأضرار المادية في المنازل.All reactions:3LikeComment",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003202
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

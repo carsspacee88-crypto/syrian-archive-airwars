@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "223330"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-mamashami2-1934720419619328450-2025-06-16-211108/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.253,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:53:16+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 50630,
+      "content_hash": "dab4fe02c371405a4fca191bc8b22ded635efb2718f6ae780ecb2aba8bda3068",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.253,
+      "error": null,
+      "final_url": "https://x.com/mamashami2/status/1934720419619328450",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:53:16+00:00",
+      "status": 200,
+      "url": "https://x.com/mamashami2/status/1934720419619328450",
+      "waiting_seconds": 0.735
+    }
+  ],
+  "author": "mamashami2",
+  "captions": [],
+  "content_hash": "53747249f43dd1592bb78b6e6702926a56260ff237652f2d6bf7b745f69a60a6",
+  "content_variants": [
+    {
+      "bytes": 46,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:53:16+00:00",
+      "sha256": "53747249f43dd1592bb78b6e6702926a56260ff237652f2d6bf7b745f69a60a6",
+      "source_url": "https://x.com/mamashami2/status/1934720419619328450",
+      "text": "PostLog inSign upPostThis post is unavailable."
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/mamashami2/status/1934720419619328450",
+  "incident_ids": [
+    "airwars-229045"
+  ],
+  "incident_sequences": [
+    55
+  ],
+  "normalized_url": "https://x.com/mamashami2/status/1934720419619328450",
+  "observed_original_urls": [
+    "https://x.com/mamashami2/status/1934720419619328450"
+  ],
+  "original_url": "https://x.com/mamashami2/status/1934720419619328450",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/iris250616b-june-26-2025/",
+      "airwars_source_id": "223330",
+      "incident_id": "airwars-229045",
+      "incident_sequence": 55,
+      "observed_original_url": "https://x.com/mamashami2/status/1934720419619328450",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "16 يونيو 2025",
+  "publisher": "mamashami2",
+  "publisher_ar": "mamashami2",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:53:16+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c225993b7dfb6f0e13db6af3",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/mamashami2/status/1934720419619328450",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPostThis post is unavailable.",
+  "text_original_language": "en",
+  "timing": {
+    "text_extraction_seconds": 0.000988
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

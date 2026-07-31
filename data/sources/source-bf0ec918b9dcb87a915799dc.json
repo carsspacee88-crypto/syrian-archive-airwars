@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "270411"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-alialbarghout-1918700637988040774-2025-05-03-161414/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.226,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:52:51+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 54702,
+      "content_hash": "59f0d6c00b82e6ae113bcade602cd90e6704122fa9f6ad3241dbe574bffaef9e",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.226,
+      "error": null,
+      "final_url": "https://x.com/AliAlBarghout/status/1918700637988040774",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:52:51+00:00",
+      "status": 200,
+      "url": "https://x.com/AliAlBarghout/status/1918700637988040774",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "AliAlBarghout",
+  "captions": [],
+  "content_hash": "a8226b52602344420008df76d69309adeccdab7cdb3fc55b4960d537211d9d03",
+  "content_variants": [
+    {
+      "bytes": 28,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:52:51+00:00",
+      "sha256": "a8226b52602344420008df76d69309adeccdab7cdb3fc55b4960d537211d9d03",
+      "source_url": "https://x.com/AliAlBarghout/status/1918700637988040774",
+      "text": "PostLog inSign upPost21Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AliAlBarghout/status/1918700637988040774",
+  "incident_ids": [
+    "airwars-276118"
+  ],
+  "incident_sequences": [
+    73
+  ],
+  "normalized_url": "https://x.com/AliAlBarghout/status/1918700637988040774",
+  "observed_original_urls": [
+    "https://x.com/AliAlBarghout/status/1918700637988040774"
+  ],
+  "original_url": "https://x.com/AliAlBarghout/status/1918700637988040774",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy081-may-3-2025/",
+      "airwars_source_id": "270411",
+      "incident_id": "airwars-276118",
+      "incident_sequence": 73,
+      "observed_original_url": "https://x.com/AliAlBarghout/status/1918700637988040774",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "3 مايو 2025",
+  "publisher": "AliAlBarghout",
+  "publisher_ar": "AliAlBarghout",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:52:51+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-bf0ec918b9dcb87a915799dc",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AliAlBarghout/status/1918700637988040774",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost21Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001122
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

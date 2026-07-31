@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "308484"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/rojnews-news-roj-news-2025-03-24-140511/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.507,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:53:10+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 209457,
+      "content_hash": "fc8d518d5b6a4ad17d973888cf900cb6d9a724e2adc594fcc1a2fe034a00b2ff",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.507,
+      "error": null,
+      "final_url": "https://rojnews.news/ar/?p=218435",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:53:10+00:00",
+      "status": 200,
+      "url": "https://rojnews.news/ar/?p=218435",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "https://www.facebook.com/RojnewsAr/ ROJNEWS",
+  "captions": [],
+  "content_hash": "ad884498b5a563b65de72ed6a428763e1a4d781eaa755ae767d1dd6ef76b3eff",
+  "content_variants": [
+    {
+      "bytes": 1297,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:53:10+00:00",
+      "sha256": "ad884498b5a563b65de72ed6a428763e1a4d781eaa755ae767d1dd6ef76b3eff",
+      "source_url": "https://rojnews.news/ar/?p=218435",
+      "text": "استشهاد شخص.. مسيّرة للاحتلال التركي تستهدف قرية بريف الحسكة\n\nمركز الأخبار\n\nاستشهد مواطن، اليوم الثلاثاء، في ريف مدينة الحسكة بإقليم شمال وشرق سوريا، جراء قصف لمسيّرة للاحتلال التركي.\n\nوأفادت وكالة أنباء هاوار، باستهداف طائرة مسيّرة للاحتلال التركي محيط قرية خربة جاموس في ريف مدينة الحسكة بمقاطعة الجزيرة في إقليم شمال وشرق سوريا.\n\nوحسب المعلومات الأولية التي أفادت بها الوكالة فقد أسفر الاستهداف عن استشهاد شخص.\n\nإيران: عبور هرمز أصبح غير ممكن\n\nترمب: سنقصف إيران وما نقوم به عملية عسكرية وليست حربا\n\nمسؤول أميركي يستبعد استئناف المفاوضات مع إيران\n\nتوقف حاكم مصرف لبنان السابق خلال وجود بمستشفى\n\nالخزانة الأميركية: سنستهدف الأموال الإيرانية في كل العالم\n\nمجلس السلام في غزة يكشف شرط تسليم السلاح وإسرائيل “ترفضه”"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://rojnews.news/ar/?p=218435",
+  "incident_ids": [
+    "airwars-302785"
+  ],
+  "incident_sequences": [
+    81
+  ],
+  "normalized_url": "https://rojnews.news/ar/?p=218435",
+  "observed_original_urls": [
+    "https://rojnews.news/ar/?p=218435"
+  ],
+  "original_url": "https://rojnews.news/ar/?p=218435",
+  "page_title": "استشهاد شخص.. مسيّرة للاحتلال التركي تستهدف قرية بريف الحسكة - العربية - Rojnews.news",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts797-march-24-2025/",
+      "airwars_source_id": "308484",
+      "incident_id": "airwars-302785",
+      "incident_sequence": 81,
+      "observed_original_url": "https://rojnews.news/ar/?p=218435",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-03-24T14:05:11+00:00 2025-03-24T17:05:11+03:00 2026-07-30T09:20:47+03:00 2026-07-30T10:02:21+03:00 2026-07-31T11:49:38+03:00 2026-07-31T16:25:58+03:00 2026-07-30T13:35:06+03:00 2026-07-31T19:52:49+03:00 2026-07-31T19:32:05+03:00 2026-07-31T19:27:46+03:00 2026-07-31T18:54:59+03:00 2026-07-31T18:32:26+03:00",
+  "publisher": "oil news",
+  "publisher_ar": "oil news",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:53:10+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c19215af979794da7cb32164",
+  "source_type": "news_article",
+  "stable_id_basis": "https://rojnews.news/ar/?p=218435",
+  "text_ar": "",
+  "text_original": "استشهاد شخص.. مسيّرة للاحتلال التركي تستهدف قرية بريف الحسكة\n\nمركز الأخبار\n\nاستشهد مواطن، اليوم الثلاثاء، في ريف مدينة الحسكة بإقليم شمال وشرق سوريا، جراء قصف لمسيّرة للاحتلال التركي.\n\nوأفادت وكالة أنباء هاوار، باستهداف طائرة مسيّرة للاحتلال التركي محيط قرية خربة جاموس في ريف مدينة الحسكة بمقاطعة الجزيرة في إقليم شمال وشرق سوريا.\n\nوحسب المعلومات الأولية التي أفادت بها الوكالة فقد أسفر الاستهداف عن استشهاد شخص.\n\nإيران: عبور هرمز أصبح غير ممكن\n\nترمب: سنقصف إيران وما نقوم به عملية عسكرية وليست حربا\n\nمسؤول أميركي يستبعد استئناف المفاوضات مع إيران\n\nتوقف حاكم مصرف لبنان السابق خلال وجود بمستشفى\n\nالخزانة الأميركية: سنستهدف الأموال الإيرانية في كل العالم\n\nمجلس السلام في غزة يكشف شرط تسليم السلاح وإسرائيل “ترفضه”",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002681
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

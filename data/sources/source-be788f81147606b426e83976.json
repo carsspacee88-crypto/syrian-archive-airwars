@@ -1,0 +1,111 @@
+{
+  "airwars_source_ids": [
+    "383010"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-alaraby_ar-1948792821063745945-2025-07-25-170950/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.329,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:52:49+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 85368,
+      "content_hash": "d5c36110f53296549af8ac6beeb8aca0f436781b6b6d03f1c9067cb334daf533",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.329,
+      "error": null,
+      "final_url": "https://x.com/alaraby_ar/status/1948792821063745945",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:52:49+00:00",
+      "status": 200,
+      "url": "https://x.com/alaraby_ar/status/1948792821063745945",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "https://x.com/alaraby_ar",
+  "captions": [],
+  "content_hash": "2256446adb7af7120448262ae09358eb451f45c6bf6d4fa5e185153b87a50764",
+  "content_variants": [
+    {
+      "bytes": 512,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:52:49+00:00",
+      "sha256": "2256446adb7af7120448262ae09358eb451f45c6bf6d4fa5e185153b87a50764",
+      "source_url": "https://x.com/alaraby_ar/status/1948792821063745945",
+      "text": "Post\n\nPost\n\nالعربي الجديد@alaraby_arنفذت القيادة المركزية الأميركية عملية في مدينة الباب شمالي #سورية، استهدفت قيادياً بارزاً في تنظيم \"داعش\"، ضياء زوبع مصلح الحرداني، وأدت إلى مقتله مع اثنين من أبنائه، دون إصابة النساء والأطفال المتواجدين في الموقع.\nالتفاصيل هنا: edgs.co/w7ko55:09 PM · Jul 25, 20251.5KViews11"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/alaraby_ar/status/1948792821063745945",
+  "incident_ids": [
+    "airwars-387055",
+    "airwars-386618"
+  ],
+  "incident_sequences": [
+    47,
+    48
+  ],
+  "normalized_url": "https://x.com/alaraby_ar/status/1948792821063745945",
+  "observed_original_urls": [
+    "https://x.com/alaraby_ar/status/1948792821063745945"
+  ],
+  "original_url": "https://x.com/alaraby_ar/status/1948792821063745945",
+  "page_title": "العربي الجديد on X: \"نفذت القيادة المركزية الأميركية عملية في مدينة الباب شمالي #سورية، استهدفت قيادياً بارزاً في تنظيم \"داعش\"، ضياء زوبع مصلح الحرداني، وأدت إلى مقتله مع اثنين من أبنائه، دون إصابة النساء والأطفال المتواجدين في الموقع.\nالتفاصيل هنا: https://t.co/E1zXy6Zt65 https://t.co/gwPHL6xneg\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0152-july-25-2025/",
+      "airwars_source_id": "383010",
+      "incident_id": "airwars-387055",
+      "incident_sequence": 47,
+      "observed_original_url": "https://x.com/alaraby_ar/status/1948792821063745945",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0152a-july-25-2025/",
+      "airwars_source_id": "383010",
+      "incident_id": "airwars-386618",
+      "incident_sequence": 48,
+      "observed_original_url": "https://x.com/alaraby_ar/status/1948792821063745945",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-07-25T17:09:50.000Z",
+  "publisher": "alaraby_ar",
+  "publisher_ar": "alaraby_ar",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:52:49+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-be788f81147606b426e83976",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/alaraby_ar/status/1948792821063745945",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالعربي الجديد@alaraby_arنفذت القيادة المركزية الأميركية عملية في مدينة الباب شمالي #سورية، استهدفت قيادياً بارزاً في تنظيم \"داعش\"، ضياء زوبع مصلح الحرداني، وأدت إلى مقتله مع اثنين من أبنائه، دون إصابة النساء والأطفال المتواجدين في الموقع.\nالتفاصيل هنا: edgs.co/w7ko55:09 PM · Jul 25, 20251.5KViews11",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001619
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "295738"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-alqadmalthar-1894826261056291161-2025-02-26-190559/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.318,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:52:38+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 87065,
+      "content_hash": "d3e5e6d877ea7c8b17f2c739aa35923de327acb9e9c645f7e9caebcaf8bb83b2",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.318,
+      "error": null,
+      "final_url": "https://x.com/AlqadmAlthar/status/1894826261056291161",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:52:38+00:00",
+      "status": 200,
+      "url": "https://x.com/AlqadmAlthar/status/1894826261056291161",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "https://x.com/AlqadmAlthar",
+  "captions": [],
+  "content_hash": "aa3e0733ead4c1c4eb4d15a1c0fb066c39f708aca94fb402b9e0921b4eacc8c4",
+  "content_variants": [
+    {
+      "bytes": 507,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:52:38+00:00",
+      "sha256": "aa3e0733ead4c1c4eb4d15a1c0fb066c39f708aca94fb402b9e0921b4eacc8c4",
+      "source_url": "https://x.com/AlqadmAlthar/status/1894826261056291161",
+      "text": "Post\n\nPost\n\nصوت الحق@AlqadmAltharلحظة قيام طيران يقال أنه تابع لأمريكا بقصف القيادي في تنظيم القاعدة المدعو فادي أحمد فروح أبو محمد الشامي في منطقة جرابلس شرق حلب\n\nأمريكا تتخلص من زعماء القاعدة بعدما أسقطوا لها نظام الأسد و لكي تزيل الشخصيات التي تنافس عميلها الجولاني00:007:05 PM · Feb 26, 2025163Views513"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AlqadmAlthar/status/1894826261056291161",
+  "incident_ids": [
+    "airwars-367998"
+  ],
+  "incident_sequences": [
+    98
+  ],
+  "normalized_url": "https://x.com/AlqadmAlthar/status/1894826261056291161",
+  "observed_original_urls": [
+    "https://x.com/AlqadmAlthar/status/1894826261056291161"
+  ],
+  "original_url": "https://x.com/AlqadmAlthar/status/1894826261056291161",
+  "page_title": "صوت الحق on X: \"لحظة قيام طيران يقال أنه تابع لأمريكا بقصف القيادي في تنظيم القاعدة المدعو فادي أحمد فروح أبو محمد الشامي في منطقة جرابلس شرق حلب\n\nأمريكا تتخلص من زعماء القاعدة بعدما أسقطوا لها نظام الأسد و لكي تزيل الشخصيات التي تنافس عميلها الجولاني https://t.co/zRbzoWTKdL\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0131-february-25-2025/",
+      "airwars_source_id": "295738",
+      "incident_id": "airwars-367998",
+      "incident_sequence": 98,
+      "observed_original_url": "https://x.com/AlqadmAlthar/status/1894826261056291161",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-02-26T19:05:59.000Z",
+  "publisher": "AlqadmAlthar",
+  "publisher_ar": "AlqadmAlthar",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:52:38+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-bc3f7a07b150b7c53ebbe2d4",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AlqadmAlthar/status/1894826261056291161",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nصوت الحق@AlqadmAltharلحظة قيام طيران يقال أنه تابع لأمريكا بقصف القيادي في تنظيم القاعدة المدعو فادي أحمد فروح أبو محمد الشامي في منطقة جرابلس شرق حلب\n\nأمريكا تتخلص من زعماء القاعدة بعدما أسقطوا لها نظام الأسد و لكي تزيل الشخصيات التي تنافس عميلها الجولاني00:007:05 PM · Feb 26, 2025163Views513",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00163
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

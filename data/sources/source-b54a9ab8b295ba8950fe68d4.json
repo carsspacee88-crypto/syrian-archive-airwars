@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "272637"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-syrian_st-1945428096707870825-2025-07-16-101937/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.213,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:51:56+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 55490,
+      "content_hash": "40d610e4a10e8e75ccf8b86a866dab43ddf78f81d0a101d05a4b6b4b82f1774d",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.213,
+      "error": null,
+      "final_url": "https://x.com/syrian_st/status/1945428096707870825",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:51:56+00:00",
+      "status": 200,
+      "url": "https://x.com/syrian_st/status/1945428096707870825",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "syrian_st",
+  "captions": [],
+  "content_hash": "35b75754db839c34a29a7c8035c5043173406d97544ce401479fe40678ba727b",
+  "content_variants": [
+    {
+      "bytes": 31,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:51:56+00:00",
+      "sha256": "35b75754db839c34a29a7c8035c5043173406d97544ce401479fe40678ba727b",
+      "source_url": "https://x.com/syrian_st/status/1945428096707870825",
+      "text": "PostLog inSign upPost598Views12"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/syrian_st/status/1945428096707870825",
+  "incident_ids": [
+    "airwars-276124"
+  ],
+  "incident_sequences": [
+    51
+  ],
+  "normalized_url": "https://x.com/syrian_st/status/1945428096707870825",
+  "observed_original_urls": [
+    "https://x.com/syrian_st/status/1945428096707870825"
+  ],
+  "original_url": "https://x.com/syrian_st/status/1945428096707870825",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy084-july-16-2025/",
+      "airwars_source_id": "272637",
+      "incident_id": "airwars-276124",
+      "incident_sequence": 51,
+      "observed_original_url": "https://x.com/syrian_st/status/1945428096707870825",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "16 يوليو 2025",
+  "publisher": "syrian_st",
+  "publisher_ar": "syrian_st",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:51:56+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-b54a9ab8b295ba8950fe68d4",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/syrian_st/status/1945428096707870825",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost598Views12",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001092
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

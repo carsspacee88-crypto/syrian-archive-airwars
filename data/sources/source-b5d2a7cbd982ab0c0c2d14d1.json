@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "378983"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-seebarsy-2005935984576258365-2025-12-30-093621/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.28,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:51:59+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 73593,
+      "content_hash": "b9d60641824bd748d4f7e9d9212fdb7877214886569aa512de3453bb83508da4",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.28,
+      "error": null,
+      "final_url": "https://x.com/seebarsy/status/2005935984576258365",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:51:59+00:00",
+      "status": 200,
+      "url": "https://x.com/seebarsy/status/2005935984576258365",
+      "waiting_seconds": 0.736
+    }
+  ],
+  "author": "https://x.com/seebarsy",
+  "captions": [],
+  "content_hash": "e2389a34f96d2357e5bbadad2ee53ae50e0d5580c71231c5fb06a54c1602857a",
+  "content_variants": [
+    {
+      "bytes": 226,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:51:59+00:00",
+      "sha256": "e2389a34f96d2357e5bbadad2ee53ae50e0d5580c71231c5fb06a54c1602857a",
+      "source_url": "https://x.com/seebarsy/status/2005935984576258365",
+      "text": "Post\n\nPost\n\nSeebar@seebarsyقوات التحالف الدولي في قاعدة الشدادي جنوبي الحسكة تطلق صاروخين باتجاه البادية السورية.\n#seebar9:36 AM · Dec 30, 2025105Views1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/seebarsy/status/2005935984576258365",
+  "incident_ids": [
+    "airwars-387052"
+  ],
+  "incident_sequences": [
+    7
+  ],
+  "normalized_url": "https://x.com/seebarsy/status/2005935984576258365",
+  "observed_original_urls": [
+    "https://x.com/seebarsy/status/2005935984576258365"
+  ],
+  "original_url": "https://x.com/seebarsy/status/2005935984576258365",
+  "page_title": "Seebar on X: \"قوات التحالف الدولي في قاعدة الشدادي جنوبي الحسكة تطلق صاروخين باتجاه البادية السورية.\n#seebar\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0179-december-30-2025/",
+      "airwars_source_id": "378983",
+      "incident_id": "airwars-387052",
+      "incident_sequence": 7,
+      "observed_original_url": "https://x.com/seebarsy/status/2005935984576258365",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-30T09:36:21.000Z",
+  "publisher": "seebarsy",
+  "publisher_ar": "seebarsy",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:51:59+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-b5d2a7cbd982ab0c0c2d14d1",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/seebarsy/status/2005935984576258365",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nSeebar@seebarsyقوات التحالف الدولي في قاعدة الشدادي جنوبي الحسكة تطلق صاروخين باتجاه البادية السورية.\n#seebar9:36 AM · Dec 30, 2025105Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001439
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

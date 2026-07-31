@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "327759"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%b5%d9%87%d9%8a%d8%a8-%d8%a7%d9%84%d9%8a%d8%b9%d8%b1%d8%a8%d9%8a-pfbid0ay56xcxt4u1nuurazucdzwn2nyq1wa65c8gjyzcmebzldmaqon2vaknnr3gw5ajgl-2025-11-18-163000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.32,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:52:37+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 353492,
+      "content_hash": "b2fe5118eea4ae8d3c263b995c487617dd7522236a50ff421dea5573ae8f13e8",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.32,
+      "error": null,
+      "final_url": "https://www.facebook.com/Soheb9000/posts/pfbid0Ay56XcxT4U1nUurAZucDZWn2nyq1wa65C8GjYzcMEBZLdmAQoN2VAKnNr3gw5ajgl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:52:37+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/Soheb9000/posts/pfbid0Ay56XcxT4U1nUurAZucDZWn2nyq1wa65C8GjYzcMEBZLdmAQoN2VAKnNr3gw5ajgl",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "صهيب اليعربي",
+  "captions": [],
+  "content_hash": "f9781cd9de5383899bd6ed7026b86d1382eacba2a604dad1c917576791a3f3bb",
+  "content_variants": [
+    {
+      "bytes": 167,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:52:37+00:00",
+      "sha256": "f9781cd9de5383899bd6ed7026b86d1382eacba2a604dad1c917576791a3f3bb",
+      "source_url": "https://www.facebook.com/Soheb9000/posts/pfbid0Ay56XcxT4U1nUurAZucDZWn2nyq1wa65C8GjYzcMEBZLdmAQoN2VAKnNr3gw5ajgl",
+      "text": "This page isn't available right nowThis may be because of a technical error that we're working to get fixed. Try reloading this page.Go to FeedGo backVisit Help Center"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Soheb9000/posts/pfbid0Ay56XcxT4U1nUurAZucDZWn2nyq1wa65C8GjYzcMEBZLdmAQoN2VAKnNr3gw5ajgl",
+  "incident_ids": [
+    "airwars-386634"
+  ],
+  "incident_sequences": [
+    27
+  ],
+  "normalized_url": "https://www.facebook.com/Soheb9000/posts/pfbid0Ay56XcxT4U1nUurAZucDZWn2nyq1wa65C8GjYzcMEBZLdmAQoN2VAKnNr3gw5ajgl",
+  "observed_original_urls": [
+    "https://www.facebook.com/Soheb9000/posts/pfbid0Ay56XcxT4U1nUurAZucDZWn2nyq1wa65C8GjYzcMEBZLdmAQoN2VAKnNr3gw5ajgl"
+  ],
+  "original_url": "https://www.facebook.com/Soheb9000/posts/pfbid0Ay56XcxT4U1nUurAZucDZWn2nyq1wa65C8GjYzcMEBZLdmAQoN2VAKnNr3gw5ajgl",
+  "page_title": "Facebook Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0166-november-18-2025/",
+      "airwars_source_id": "327759",
+      "incident_id": "airwars-386634",
+      "incident_sequence": 27,
+      "observed_original_url": "https://www.facebook.com/Soheb9000/posts/pfbid0Ay56XcxT4U1nUurAZucDZWn2nyq1wa65C8GjYzcMEBZLdmAQoN2VAKnNr3gw5ajgl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "18 نوفمبر 2025",
+  "publisher": "Suhaib Al-Ya'rubi",
+  "publisher_ar": "صهيب اليعربي",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:52:37+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-bbda1d73b0c11789922e5777",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/Soheb9000/posts/pfbid0Ay56XcxT4U1nUurAZucDZWn2nyq1wa65C8GjYzcMEBZLdmAQoN2VAKnNr3gw5ajgl",
+  "text_ar": "",
+  "text_original": "This page isn't available right nowThis may be because of a technical error that we're working to get fixed. Try reloading this page.Go to FeedGo backVisit Help Center",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001432
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

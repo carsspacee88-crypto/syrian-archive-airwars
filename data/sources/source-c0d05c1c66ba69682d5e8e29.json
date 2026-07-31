@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "366743"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-deirezzor24-2002720960815001666-2025-12-21-124100/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.351,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:53:01+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 101500,
+      "content_hash": "73806ec4bacb3cc7a0bca5ed113cd4bef6aabe101c61c7d5bdd82c35c3a4feba",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.351,
+      "error": null,
+      "final_url": "https://x.com/DeirEzzor24/status/2002720960815001666",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:53:01+00:00",
+      "status": 200,
+      "url": "https://x.com/DeirEzzor24/status/2002720960815001666",
+      "waiting_seconds": 0.737
+    }
+  ],
+  "author": "https://x.com/DeirEzzor24",
+  "captions": [],
+  "content_hash": "425d6ff4bd88906b94bb75c81a8e6d705473b816c1c083b8206c83b0376fc1a7",
+  "content_variants": [
+    {
+      "bytes": 287,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:53:01+00:00",
+      "sha256": "425d6ff4bd88906b94bb75c81a8e6d705473b816c1c083b8206c83b0376fc1a7",
+      "source_url": "https://x.com/DeirEzzor24/status/2002720960815001666",
+      "text": "Post\n\nPost\n\nديرالزور24@DeirEzzor24#د24:\nقتلى ومعتقلين خلال حملة مداهمات لقسد في بلدة ذيبان\nقتلى ومعتقلين خلال حملة مداهمات لقسد في بلدة ذيبانFrom deirezzor24.net12:41 PM · Dec 21, 2025190Views1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/DeirEzzor24/status/2002720960815001666",
+  "incident_ids": [
+    "airwars-367983"
+  ],
+  "incident_sequences": [
+    15
+  ],
+  "normalized_url": "https://x.com/DeirEzzor24/status/2002720960815001666",
+  "observed_original_urls": [
+    "https://x.com/DeirEzzor24/status/2002720960815001666"
+  ],
+  "original_url": "https://x.com/DeirEzzor24/status/2002720960815001666",
+  "page_title": "ديرالزور24 on X: \"#د24:\nقتلى ومعتقلين خلال حملة مداهمات لقسد في بلدة ذيبان\nhttps://t.co/LTtqMzuYA2\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2020-december-21-2025/",
+      "airwars_source_id": "366743",
+      "incident_id": "airwars-367983",
+      "incident_sequence": 15,
+      "observed_original_url": "https://x.com/DeirEzzor24/status/2002720960815001666",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-21T12:41:00.000Z",
+  "publisher": "DeirEzzor24",
+  "publisher_ar": "DeirEzzor24",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:53:01+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c0d05c1c66ba69682d5e8e29",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/DeirEzzor24/status/2002720960815001666",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nديرالزور24@DeirEzzor24#د24:\nقتلى ومعتقلين خلال حملة مداهمات لقسد في بلدة ذيبان\nقتلى ومعتقلين خلال حملة مداهمات لقسد في بلدة ذيبانFrom deirezzor24.net12:41 PM · Dec 21, 2025190Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001518
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

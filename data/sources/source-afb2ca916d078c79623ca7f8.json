@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "275058"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-alnaateq-1946629877211279554-2025-07-19-175504/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.201,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:50:56+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 57300,
+      "content_hash": "b11bec5ed509e739e0c04b2b2fe59f0fd782d776f55dd1ec95652be58165ba69",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.201,
+      "error": null,
+      "final_url": "https://x.com/ALNAATEQ/status/1946629877211279554",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:50:56+00:00",
+      "status": 200,
+      "url": "https://x.com/ALNAATEQ/status/1946629877211279554",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "ALNAATEQ",
+  "captions": [],
+  "content_hash": "dc88f584596d1133be093201fc17b89d882ada848eedd4f5f8e05f7a1d377365",
+  "content_variants": [
+    {
+      "bytes": 28,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:50:56+00:00",
+      "sha256": "dc88f584596d1133be093201fc17b89d882ada848eedd4f5f8e05f7a1d377365",
+      "source_url": "https://x.com/ALNAATEQ/status/1946629877211279554",
+      "text": "PostLog inSign upPost41Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/ALNAATEQ/status/1946629877211279554",
+  "incident_ids": [
+    "airwars-287558"
+  ],
+  "incident_sequences": [
+    49
+  ],
+  "normalized_url": "https://x.com/ALNAATEQ/status/1946629877211279554",
+  "observed_original_urls": [
+    "https://x.com/ALNAATEQ/status/1946629877211279554"
+  ],
+  "original_url": "https://x.com/ALNAATEQ/status/1946629877211279554",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2011-july-19-2025/",
+      "airwars_source_id": "275058",
+      "incident_id": "airwars-287558",
+      "incident_sequence": 49,
+      "observed_original_url": "https://x.com/ALNAATEQ/status/1946629877211279554",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "19 يوليو 2025",
+  "publisher": "ALNATEQ",
+  "publisher_ar": "ALNATEQ",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:50:56+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-afb2ca916d078c79623ca7f8",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/ALNAATEQ/status/1946629877211279554",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost41Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001138
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

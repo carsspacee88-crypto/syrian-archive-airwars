@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "273702"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-mubasherpulse-1960320070435103190-2025-08-26-123500/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.192,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:52:53+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 58851,
+      "content_hash": "4cc6788398e67673a6295ea2a5b676b7d065308b9d3adce593ca545708409f46",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.192,
+      "error": null,
+      "final_url": "https://x.com/MubasherPulse/status/1960320070435103190",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:52:53+00:00",
+      "status": 200,
+      "url": "https://x.com/MubasherPulse/status/1960320070435103190",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "MubasherPulse",
+  "captions": [],
+  "content_hash": "8a3fa441c5740f7ac314b14e0701bc6c5e89228d5d9c9a76458b69eb2147e1bb",
+  "content_variants": [
+    {
+      "bytes": 28,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:52:53+00:00",
+      "sha256": "8a3fa441c5740f7ac314b14e0701bc6c5e89228d5d9c9a76458b69eb2147e1bb",
+      "source_url": "https://x.com/MubasherPulse/status/1960320070435103190",
+      "text": "PostLog inSign upPost43Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/MubasherPulse/status/1960320070435103190",
+  "incident_ids": [
+    "airwars-276126"
+  ],
+  "incident_sequences": [
+    44
+  ],
+  "normalized_url": "https://x.com/MubasherPulse/status/1960320070435103190",
+  "observed_original_urls": [
+    "https://x.com/MubasherPulse/status/1960320070435103190"
+  ],
+  "original_url": "https://x.com/MubasherPulse/status/1960320070435103190",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy085-august-26-2025/",
+      "airwars_source_id": "273702",
+      "incident_id": "airwars-276126",
+      "incident_sequence": 44,
+      "observed_original_url": "https://x.com/MubasherPulse/status/1960320070435103190",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "26 أغسطس 2025",
+  "publisher": "MubasherPulse",
+  "publisher_ar": "MubasherPulse",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:52:53+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-bf178bdb62bfccd1bed120e7",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/MubasherPulse/status/1960320070435103190",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost43Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001168
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "373728"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-sultanaltheab-2001607219519918591-2025-12-18-105523/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.471,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:53:19+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 76212,
+      "content_hash": "faacfa4adcf6bebc2e01a10006aa2fa9edf57071e8e2ba288e8e38d1c9bb4dc0",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.471,
+      "error": null,
+      "final_url": "https://x.com/sultanaltheab/status/2001607219519918591",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:53:19+00:00",
+      "status": 200,
+      "url": "https://x.com/sultanaltheab/status/2001607219519918591",
+      "waiting_seconds": 0.735
+    }
+  ],
+  "author": "https://x.com/sultanaltheab",
+  "captions": [],
+  "content_hash": "1dea7bbe7b4c6ec4a9d31a39c1f430c2641dfa0b0a233350d45cd2cf1bef7c9b",
+  "content_variants": [
+    {
+      "bytes": 330,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:53:19+00:00",
+      "sha256": "1dea7bbe7b4c6ec4a9d31a39c1f430c2641dfa0b0a233350d45cd2cf1bef7c9b",
+      "source_url": "https://x.com/sultanaltheab/status/2001607219519918591",
+      "text": "Post\n\nPost\n\nسلطان الذياب@sultanaltheab#الحسكة #عاجل\nقـ.ـوات التحالف الدولي تقوم باعتقال الشاب« سعد محجوب البردويل» من قرية إسكندرون بعملية إنـ.ـزال جوي شارك بها الجانب العراقي10:55 AM · Dec 18, 202566Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/sultanaltheab/status/2001607219519918591",
+  "incident_ids": [
+    "airwars-386637"
+  ],
+  "incident_sequences": [
+    17
+  ],
+  "normalized_url": "https://x.com/sultanaltheab/status/2001607219519918591",
+  "observed_original_urls": [
+    "https://x.com/sultanaltheab/status/2001607219519918591"
+  ],
+  "original_url": "https://x.com/sultanaltheab/status/2001607219519918591",
+  "page_title": "سلطان الذياب on X: \"#الحسكة #عاجل\nقـ.ـوات التحالف الدولي تقوم باعتقال الشاب« سعد محجوب البردويل» من قرية إسكندرون بعملية إنـ.ـزال جوي شارك بها الجانب العراقي\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0169-december-18-2025/",
+      "airwars_source_id": "373728",
+      "incident_id": "airwars-386637",
+      "incident_sequence": 17,
+      "observed_original_url": "https://x.com/sultanaltheab/status/2001607219519918591",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-18T10:55:23.000Z",
+  "publisher": "sultanaltheab",
+  "publisher_ar": "sultanaltheab",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:53:19+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c35b882591711378546bacc6",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/sultanaltheab/status/2001607219519918591",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nسلطان الذياب@sultanaltheab#الحسكة #عاجل\nقـ.ـوات التحالف الدولي تقوم باعتقال الشاب« سعد محجوب البردويل» من قرية إسكندرون بعملية إنـ.ـزال جوي شارك بها الجانب العراقي10:55 AM · Dec 18, 202566Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001539
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
