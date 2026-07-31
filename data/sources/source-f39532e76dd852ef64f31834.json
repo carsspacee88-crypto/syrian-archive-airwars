@@ -1,0 +1,143 @@
+{
+  "airwars_source_ids": [
+    "305061"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-syrian-observatory-for-human-rights-2025-02-08-210535/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "syriahr.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://www.syriahr.com/متأثراً-بجراحه-مواطن-يفارق-الحياة-باس/748637/?fbclid=IwY2xjawIVR_ZleHRuA2FlbQIxMQABHchGDH-5ahPO_IUEYsgrMWchiyzgClFZTDz3DtKEx82_LcdxWttq",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:09+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/متأثراً-بجراحه-مواطن-يفارق-الحياة-باس/748637/?fbclid=IwY2xjawIVR_ZleHRuA2FlbQIxMQABHchGDH-5ahPO_IUEYsgrMWchiyzgClFZTDz3DtKEx82_LcdxWttq",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://airwars.org/source/www-syriahr-com-syrian-observatory-for-human-rights-2025-02-08-210535/",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:54+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/www-syriahr-com-syrian-observatory-for-human-rights-2025-02-08-210535/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D9%85%D8%AA%D8%A3%D8%AB%D8%B1%D8%A7%D9%8B-%D8%A8%D8%AC%D8%B1%D8%A7%D8%AD%D9%87-%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D9%8A%D9%81%D8%A7%D8%B1%D9%82-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A8%D8%A7%D8%B3%2F748637%2F%3Ffbclid%3DIwY2xjawIVR_ZleHRuA2FlbQIxMQABHchGDH-5ahPO_IUEYsgrMWchiyzgClFZTDz3DtKEx82_LcdxWttq&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:24:11+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D9%85%D8%AA%D8%A3%D8%AB%D8%B1%D8%A7%D9%8B-%D8%A8%D8%AC%D8%B1%D8%A7%D8%AD%D9%87-%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D9%8A%D9%81%D8%A7%D8%B1%D9%82-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A8%D8%A7%D8%B3%2F748637%2F%3Ffbclid%3DIwY2xjawIVR_ZleHRuA2FlbQIxMQABHchGDH-5ahPO_IUEYsgrMWchiyzgClFZTDz3DtKEx82_LcdxWttq&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Syrian Observatory for Human Rights",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://www.syriahr.com/متأثراً-بجراحه-مواطن-يفارق-الحياة-باس/748637/?fbclid=IwY2xjawIVR_ZleHRuA2FlbQIxMQABHchGDH-5ahPO_IUEYsgrMWchiyzgClFZTDz3DtKEx82_LcdxWttq",
+  "incident_ids": [
+    "airwars-290201"
+  ],
+  "incident_sequences": [
+    112
+  ],
+  "normalized_url": "https://www.syriahr.com/متأثراً-بجراحه-مواطن-يفارق-الحياة-باس/748637/?fbclid=IwY2xjawIVR_ZleHRuA2FlbQIxMQABHchGDH-5ahPO_IUEYsgrMWchiyzgClFZTDz3DtKEx82_LcdxWttq",
+  "observed_original_urls": [
+    "https://www.syriahr.com/متأثراً-بجراحه-مواطن-يفارق-الحياة-باس/748637/?fbclid=IwY2xjawIVR_ZleHRuA2FlbQIxMQABHchGDH-5ahPO_IUEYsgrMWchiyzgClFZTDz3DtKEx82_LcdxWttq"
+  ],
+  "original_url": "https://www.syriahr.com/متأثراً-بجراحه-مواطن-يفارق-الحياة-باس/748637/?fbclid=IwY2xjawIVR_ZleHRuA2FlbQIxMQABHchGDH-5ahPO_IUEYsgrMWchiyzgClFZTDz3DtKEx82_LcdxWttq",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts788-february-8-2025/",
+      "airwars_source_id": "305061",
+      "incident_id": "airwars-290201",
+      "incident_sequence": 112,
+      "observed_original_url": "https://www.syriahr.com/متأثراً-بجراحه-مواطن-يفارق-الحياة-باس/748637/?fbclid=IwY2xjawIVR_ZleHRuA2FlbQIxMQABHchGDH-5ahPO_IUEYsgrMWchiyzgClFZTDz3DtKEx82_LcdxWttq",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "8 فبراير 2025",
+  "publisher": "Syrian Observatory for Human Rights",
+  "publisher_ar": "Syrian Observatory for Human Rights",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:22:09+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-f39532e76dd852ef64f31834",
+  "source_type": "ngo_report",
+  "stable_id_basis": "https://www.syriahr.com/متأثراً-بجراحه-مواطن-يفارق-الحياة-باس/748637/?fbclid=IwY2xjawIVR_ZleHRuA2FlbQIxMQABHchGDH-5ahPO_IUEYsgrMWchiyzgClFZTDz3DtKEx82_LcdxWttq",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

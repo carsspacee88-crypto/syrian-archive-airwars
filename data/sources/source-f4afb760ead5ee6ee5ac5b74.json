@@ -1,0 +1,104 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/u13v1"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.261,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:22:13+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 50790,
+      "content_hash": "574fbeef35132f6f9e8277ee87f854cb9440ecdab555124cc3d9266244883a6f",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.261,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/DeirEzzore/status/1877752805366349984",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:13+00:00",
+      "status": 200,
+      "url": "https://x.com/DeirEzzore/status/1877752805366349984",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "'@DeirEzzore",
+  "captions": [],
+  "content_hash": "53747249f43dd1592bb78b6e6702926a56260ff237652f2d6bf7b745f69a60a6",
+  "content_variants": [
+    {
+      "bytes": 46,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:22:13+00:00",
+      "sha256": "53747249f43dd1592bb78b6e6702926a56260ff237652f2d6bf7b745f69a60a6",
+      "source_url": "https://x.com/DeirEzzore/status/1877752805366349984",
+      "text": "PostLog inSign upPostThis post is unavailable."
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/DeirEzzore/status/1877752805366349984",
+  "incident_ids": [
+    "airwars-134756"
+  ],
+  "incident_sequences": [
+    144
+  ],
+  "normalized_url": "https://x.com/DeirEzzore/status/1877752805366349984",
+  "observed_original_urls": [
+    "https://x.com/DeirEzzore/status/1877752805366349984"
+  ],
+  "original_url": "https://x.com/DeirEzzore/status/1877752805366349984",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2006-january-9-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-134756",
+      "incident_sequence": 144,
+      "observed_original_url": "https://x.com/DeirEzzore/status/1877752805366349984",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "'@DeirEzzore",
+  "publisher_ar": "'@DeirEzzore",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:22:13+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-f4afb760ead5ee6ee5ac5b74",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/DeirEzzore/status/1877752805366349984",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPostThis post is unavailable.",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.000872
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,104 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/IMg84"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.557,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:22:11+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 214696,
+      "content_hash": "990a97fc0d12f6f8bb9a20937e30cb40bba65c1e46583c78cf5b9750601b867c",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.557,
+      "error": null,
+      "etag": "",
+      "final_url": "https://rojnews.news/ar/?p=211673",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:22:11+00:00",
+      "status": 200,
+      "url": "https://rojnews.news/ar/?p=211673",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://www.facebook.com/RojnewsAr/ ROJNEWS",
+  "captions": [],
+  "content_hash": "0eee98314bdde3581f4e9fcad114a80c8c4540e584a97d441bcac7e8cea71f1e",
+  "content_variants": [
+    {
+      "bytes": 1576,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:22:11+00:00",
+      "sha256": "0eee98314bdde3581f4e9fcad114a80c8c4540e584a97d441bcac7e8cea71f1e",
+      "source_url": "https://rojnews.news/ar/?p=211673",
+      "text": "استشهاد 6 أشخاص.. الاحتلال التركي يرتكب مجزرة جنوب كوباني\n\nمركز الأخبار\n\nارتكب جيش الاحتلال التركي، اليوم الثلاثاء، مجزرة في مدينة صرين الواقعة جنوب كوباني، وتفيد المعلومات الأولية باستشهاد 6 مواطنين جراء غارة جوية للاحتلال التركي على المدينة.\n\nأفادت وكالة أنباء هاوار أن طائرات مسيرة تابعة لجيش الاحتلال التركي قصفت مدينة صرين الواقعة جنوب كوباني في إقليم شمال وشرق سوريا.\n\nوبحسب المعلومات الأولية التي أوردتها وكالة أنباء هاوار، استشهد 6 مواطنين في المدينة جراء قصف المسيرة التركية.\n\nقصف جديد يستهدف مقر الديمقراطي الإيراني في هولير\n\nمسيّرة تستهدف معسكرا للمعارضة الكردية في هولير\n\nقفزة جديدة.. شكوى قضائية في السليمانية ضد ارتفاع أسعار الوقود\n\nالتحرر الكردستانية: لا يمكن تنفيذ القانون الإطاري دون أن يقود أوجلان العملية\n\nالعنف ضد النساء في كردستان يتصاعد.. ومحامية: شرف المرأة لا يرتبط بالرجل\n\nحريق واسع قرب طريق هولير – كركوك يتسبب بإغلاق الطريق وتحويل حركة السير"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://rojnews.news/ar/?p=211673",
+  "incident_ids": [
+    "airwars-256436"
+  ],
+  "incident_sequences": [
+    120
+  ],
+  "normalized_url": "https://rojnews.news/ar/?p=211673",
+  "observed_original_urls": [
+    "https://rojnews.news/ar/?p=211673"
+  ],
+  "original_url": "https://rojnews.news/ar/?p=211673",
+  "page_title": "استشهاد 6 أشخاص.. الاحتلال التركي يرتكب مجزرة جنوب كوباني - العربية - Rojnews.news",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts781-january-28-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-256436",
+      "incident_sequence": 120,
+      "observed_original_url": "https://rojnews.news/ar/?p=211673",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-01-28T14:37:12+00:00 2025-01-28T17:37:12+03:00 2026-07-30T09:20:47+03:00 2026-07-30T10:02:21+03:00 2026-07-31T11:49:38+03:00 2026-07-31T16:25:58+03:00 2026-07-30T13:35:06+03:00 2026-07-31T22:03:21+03:00 2026-07-31T19:52:49+03:00 2026-07-31T19:32:05+03:00 2026-07-31T19:27:46+03:00 2026-07-31T18:54:59+03:00",
+  "publisher": "Rojnews",
+  "publisher_ar": "Rojnews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:22:11+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-e358f6764f33b1954b97b873",
+  "source_type": "news_article",
+  "stable_id_basis": "https://rojnews.news/ar/?p=211673",
+  "text_ar": "",
+  "text_original": "استشهاد 6 أشخاص.. الاحتلال التركي يرتكب مجزرة جنوب كوباني\n\nمركز الأخبار\n\nارتكب جيش الاحتلال التركي، اليوم الثلاثاء، مجزرة في مدينة صرين الواقعة جنوب كوباني، وتفيد المعلومات الأولية باستشهاد 6 مواطنين جراء غارة جوية للاحتلال التركي على المدينة.\n\nأفادت وكالة أنباء هاوار أن طائرات مسيرة تابعة لجيش الاحتلال التركي قصفت مدينة صرين الواقعة جنوب كوباني في إقليم شمال وشرق سوريا.\n\nوبحسب المعلومات الأولية التي أوردتها وكالة أنباء هاوار، استشهد 6 مواطنين في المدينة جراء قصف المسيرة التركية.\n\nقصف جديد يستهدف مقر الديمقراطي الإيراني في هولير\n\nمسيّرة تستهدف معسكرا للمعارضة الكردية في هولير\n\nقفزة جديدة.. شكوى قضائية في السليمانية ضد ارتفاع أسعار الوقود\n\nالتحرر الكردستانية: لا يمكن تنفيذ القانون الإطاري دون أن يقود أوجلان العملية\n\nالعنف ضد النساء في كردستان يتصاعد.. ومحامية: شرف المرأة لا يرتبط بالرجل\n\nحريق واسع قرب طريق هولير – كركوك يتسبب بإغلاق الطريق وتحويل حركة السير",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00228
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
