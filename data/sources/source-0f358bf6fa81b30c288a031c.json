@@ -1,0 +1,108 @@
+{
+  "airwars_source_ids": [
+    "275202"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-%d8%a5%d8%af%d9%84%d8%a8-%d9%88%d8%b1%d9%8a%d9%81%d9%87%d8%a7-pfbid02phulvqq1jmuztro2gtnyfoyyclyhxfczt79mm1jpsqgtufpwxrpsf7zmyivpacmwl-2025-09-19/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.642,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:21:48+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 427072,
+      "content_hash": "c8be729677b155dcd303ae01293b200821e0fb6bd6af55a91b2617a11cf9d0c7",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.642,
+      "error": null,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02pHULvQQ1JMUZtRo2gTNYfoYYcLyHxFczt79Mm1JpSqgTufPwXrpsf7zMYiVPaCMWl%26id%3D100077735629430",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:21:48+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02pHULvQQ1JMUZtRo2gTNYfoYYcLyHxFczt79Mm1JpSqgTufPwXrpsf7zMYiVPaCMWl&id=100077735629430",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "أخبار إدلب وريفها",
+  "captions": [],
+  "content_hash": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+  "content_variants": [
+    {
+      "bytes": 374,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:21:48+00:00",
+      "sha256": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+      "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02pHULvQQ1JMUZtRo2gTNYfoYYcLyHxFczt79Mm1JpSqgTufPwXrpsf7zMYiVPaCMWl%26id%3D100077735629430",
+      "text": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026"
+    }
+  ],
+  "descriptions": [],
+  "exact_content_duplicate_group": "exact-content-ef46a150b3c242e94cddb29d",
+  "exact_content_duplicate_of": "source-01d9460d4a2216b08fa76bdb",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02pHULvQQ1JMUZtRo2gTNYfoYYcLyHxFczt79Mm1JpSqgTufPwXrpsf7zMYiVPaCMWl%26id%3D100077735629430",
+  "incident_ids": [
+    "airwars-386623"
+  ],
+  "incident_sequences": [
+    41
+  ],
+  "normalized_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02pHULvQQ1JMUZtRo2gTNYfoYYcLyHxFczt79Mm1JpSqgTufPwXrpsf7zMYiVPaCMWl&id=100077735629430",
+  "observed_original_urls": [
+    "https://www.facebook.com/permalink.php?story_fbid=pfbid02pHULvQQ1JMUZtRo2gTNYfoYYcLyHxFczt79Mm1JpSqgTufPwXrpsf7zMYiVPaCMWl&id=100077735629430"
+  ],
+  "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02pHULvQQ1JMUZtRo2gTNYfoYYcLyHxFczt79Mm1JpSqgTufPwXrpsf7zMYiVPaCMWl&id=100077735629430",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0156a-september-19-2025/",
+      "airwars_source_id": "275202",
+      "incident_id": "airwars-386623",
+      "incident_sequence": 41,
+      "observed_original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02pHULvQQ1JMUZtRo2gTNYfoYYcLyHxFczt79Mm1JpSqgTufPwXrpsf7zMYiVPaCMWl&id=100077735629430",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "19 سبتمبر 2025",
+  "publisher": "Idlib and its countryside news",
+  "publisher_ar": "أخبار إدلب وريفها",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:21:48+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-0f358bf6fa81b30c288a031c",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid02pHULvQQ1JMUZtRo2gTNYfoYYcLyHxFczt79Mm1JpSqgTufPwXrpsf7zMYiVPaCMWl&id=100077735629430",
+  "text_ar": "",
+  "text_original": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002137
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

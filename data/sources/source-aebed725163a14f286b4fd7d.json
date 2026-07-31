@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "445229"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-kinda-asmaele-pfbid05twpjcyypjqyd8dxhzz7vbw6pzqpnxndh2u7vw7smpfgd7anjqh6rvkd9varap8il-2026-03-02-100000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.86,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:50:47+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 738486,
+      "content_hash": "049c3d6682beb6541cb023cb17e711c165e3395154dfed8b3bb4d172885bd4c8",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.86,
+      "error": null,
+      "final_url": "https://www.facebook.com/kinda.asmaele/posts/pfbid05tWPJcyYPjQYd8DxhZZ7Vbw6PzqPnxnDh2u7vw7sMpFgD7AnJQh6RVKD9vARAP8il",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:50:47+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/kinda.asmaele/posts/pfbid05tWPJcyYPjQYd8DxhZZ7Vbw6PzqPnxnDh2u7vw7sMpFgD7AnJQh6RVKD9vARAP8il",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "Kinda Asmaele",
+  "captions": [],
+  "content_hash": "457efd672f15383cc2e083260fd7a8de83faad4a969f9feef0e8d349b5e76e52",
+  "content_variants": [
+    {
+      "bytes": 671,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:50:47+00:00",
+      "sha256": "457efd672f15383cc2e083260fd7a8de83faad4a969f9feef0e8d349b5e76e52",
+      "source_url": "https://www.facebook.com/kinda.asmaele/posts/pfbid05tWPJcyYPjQYd8DxhZZ7Vbw6PzqPnxnDh2u7vw7sMpFgD7AnJQh6RVKD9vARAP8il",
+      "text": "Kinda Asmaele - جبلة : سقوط صاروخ إيراني بعد التصدي له في...\nFacebookKinda Asmaele's Post\n\nKinda Asmaele Verified accountMarch 1 · Shared with Publicجبلة : سقوط صاروخ إيراني بعد التصدي له في قرية #الفتيح بالقرب من مطعم روتانا بين منزلين، مما أدى لإصابات طفيفة وبعض الأضرار المادية في المنازل.الله يحمي الجميع #جبلةAll reactions:554 comments1 shareLikeCommentMost relevant﻿Inass Mansourمن يتصدى الروسي21wNora Manna...21wMost relevant is selected, so some comments may have been filtered out."
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/kinda.asmaele/posts/pfbid05tWPJcyYPjQYd8DxhZZ7Vbw6PzqPnxnDh2u7vw7sMpFgD7AnJQh6RVKD9vARAP8il",
+  "incident_ids": [
+    "airwars-454483"
+  ],
+  "incident_sequences": [
+    1
+  ],
+  "normalized_url": "https://www.facebook.com/kinda.asmaele/posts/pfbid05tWPJcyYPjQYd8DxhZZ7Vbw6PzqPnxnDh2u7vw7sMpFgD7AnJQh6RVKD9vARAP8il",
+  "observed_original_urls": [
+    "https://www.facebook.com/kinda.asmaele/posts/pfbid05tWPJcyYPjQYd8DxhZZ7Vbw6PzqPnxnDh2u7vw7sMpFgD7AnJQh6RVKD9vARAP8il"
+  ],
+  "original_url": "https://www.facebook.com/kinda.asmaele/posts/pfbid05tWPJcyYPjQYd8DxhZZ7Vbw6PzqPnxnDh2u7vw7sMpFgD7AnJQh6RVKD9vARAP8il",
+  "page_title": "Kinda Asmaele - جبلة : سقوط صاروخ إيراني بعد التصدي له في... Facebook Verified account Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260302a-march-2-2026/",
+      "airwars_source_id": "445229",
+      "incident_id": "airwars-454483",
+      "incident_sequence": 1,
+      "observed_original_url": "https://www.facebook.com/kinda.asmaele/posts/pfbid05tWPJcyYPjQYd8DxhZZ7Vbw6PzqPnxnDh2u7vw7sMpFgD7AnJQh6RVKD9vARAP8il",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2 مارس 2026",
+  "publisher": "Kinda Asmaele",
+  "publisher_ar": "Kinda Asmaele",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:50:47+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-aebed725163a14f286b4fd7d",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/kinda.asmaele/posts/pfbid05tWPJcyYPjQYd8DxhZZ7Vbw6PzqPnxnDh2u7vw7sMpFgD7AnJQh6RVKD9vARAP8il",
+  "text_ar": "",
+  "text_original": "Kinda Asmaele - جبلة : سقوط صاروخ إيراني بعد التصدي له في...\nFacebookKinda Asmaele's Post\n\nKinda Asmaele Verified accountMarch 1 · Shared with Publicجبلة : سقوط صاروخ إيراني بعد التصدي له في قرية #الفتيح بالقرب من مطعم روتانا بين منزلين، مما أدى لإصابات طفيفة وبعض الأضرار المادية في المنازل.الله يحمي الجميع #جبلةAll reactions:554 comments1 shareLikeCommentMost relevant﻿Inass Mansourمن يتصدى الروسي21wNora Manna...21wMost relevant is selected, so some comments may have been filtered out.",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003922
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

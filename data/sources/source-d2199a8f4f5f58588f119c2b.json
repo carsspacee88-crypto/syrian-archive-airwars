@@ -1,0 +1,108 @@
+{
+  "airwars_source_ids": [
+    "270248"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%aa%d9%84%d8%b0%d9%87%d8%a8-%d8%a7%d9%84%d8%a5%d8%ae%d8%a8%d8%a7%d8%b1%d9%8a%d8%a9-pfbid02z25wqnydvw2cofwqwrk6jnhmnqgqkbaes8hdchsvvbefokcpwzuxdwpsyrwmrj82l-2025-05-03-09000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.618,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:55:30+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 312317,
+      "content_hash": "c31f27f0de5743236d0dcc01e8c6b3a3d7d57d38b53d06701f4238d7a2a48f13",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.618,
+      "error": null,
+      "final_url": "https://www.facebook.com/tldhhb.alakhbaryt/posts/pfbid02z25wQnYDvw2cofWqWrk6jNhmnqgqkBAES8hdcHsvvBeFokcPwZUxDWpSYRWMrj82l",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:55:30+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/tldhhb.alakhbaryt/posts/pfbid02z25wQnYDvw2cofWqWrk6jNhmnqgqkBAES8hdcHsvvBeFokcPwZUxDWpSYRWMrj82l",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "تلذهب الإخبارية",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:55:30+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/tldhhb.alakhbaryt/posts/pfbid02z25wQnYDvw2cofWqWrk6jNhmnqgqkBAES8hdcHsvvBeFokcPwZUxDWpSYRWMrj82l",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "exact_content_duplicate_group": "exact-content-d41f5b4977ee05c6b61b3b5f",
+  "exact_content_duplicate_of": "source-0160e417c7415dd8930b5766",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/tldhhb.alakhbaryt/posts/pfbid02z25wQnYDvw2cofWqWrk6jNhmnqgqkBAES8hdcHsvvBeFokcPwZUxDWpSYRWMrj82l",
+  "incident_ids": [
+    "airwars-276114"
+  ],
+  "incident_sequences": [
+    71
+  ],
+  "normalized_url": "https://www.facebook.com/tldhhb.alakhbaryt/posts/pfbid02z25wQnYDvw2cofWqWrk6jNhmnqgqkBAES8hdcHsvvBeFokcPwZUxDWpSYRWMrj82l",
+  "observed_original_urls": [
+    "https://www.facebook.com/tldhhb.alakhbaryt/posts/pfbid02z25wQnYDvw2cofWqWrk6jNhmnqgqkBAES8hdcHsvvBeFokcPwZUxDWpSYRWMrj82l"
+  ],
+  "original_url": "https://www.facebook.com/tldhhb.alakhbaryt/posts/pfbid02z25wQnYDvw2cofWqWrk6jNhmnqgqkBAES8hdcHsvvBeFokcPwZUxDWpSYRWMrj82l",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy079-may-3-2025/",
+      "airwars_source_id": "270248",
+      "incident_id": "airwars-276114",
+      "incident_sequence": 71,
+      "observed_original_url": "https://www.facebook.com/tldhhb.alakhbaryt/posts/pfbid02z25wQnYDvw2cofWqWrk6jNhmnqgqkBAES8hdcHsvvBeFokcPwZUxDWpSYRWMrj82l",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "3 مايو 2025",
+  "publisher": "News goes",
+  "publisher_ar": "تلذهب الإخبارية",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:55:30+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-d2199a8f4f5f58588f119c2b",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/tldhhb.alakhbaryt/posts/pfbid02z25wQnYDvw2cofWqWrk6jNhmnqgqkBAES8hdcHsvvBeFokcPwZUxDWpSYRWMrj82l",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001004
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

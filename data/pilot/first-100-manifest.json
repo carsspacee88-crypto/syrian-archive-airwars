@@ -1,0 +1,813 @@
+{
+  "created_at": "2026-07-31T19:16:25+00:00",
+  "incidents": [
+    {
+      "airwars_id": "454483",
+      "canonical_url": "https://airwars.org/civilian-casualties/debsyr260302a-march-2-2026/",
+      "incident_code": "DEBSYR260302a",
+      "internal_id": "airwars-454483",
+      "sequence": 1,
+      "sequence_padded": "0001"
+    },
+    {
+      "airwars_id": "454484",
+      "canonical_url": "https://airwars.org/civilian-casualties/debsyr260301a-march-1-2026/",
+      "incident_code": "DEBSYR260301a",
+      "internal_id": "airwars-454484",
+      "sequence": 2,
+      "sequence_padded": "0002"
+    },
+    {
+      "airwars_id": "429171",
+      "canonical_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "incident_code": "DEBSYR260228a",
+      "internal_id": "airwars-429171",
+      "sequence": 3,
+      "sequence_padded": "0003"
+    },
+    {
+      "airwars_id": "403523",
+      "canonical_url": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+      "incident_code": "TS798",
+      "internal_id": "airwars-403523",
+      "sequence": 4,
+      "sequence_padded": "0004"
+    },
+    {
+      "airwars_id": "387053",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0180-december-31-2025/",
+      "incident_code": "NCS0180",
+      "internal_id": "airwars-387053",
+      "sequence": 5,
+      "sequence_padded": "0005"
+    },
+    {
+      "airwars_id": "387054",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0181-december-31-2025/",
+      "incident_code": "NCS0181",
+      "internal_id": "airwars-387054",
+      "sequence": 6,
+      "sequence_padded": "0006"
+    },
+    {
+      "airwars_id": "387052",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0179-december-30-2025/",
+      "incident_code": "NCS0179",
+      "internal_id": "airwars-387052",
+      "sequence": 7,
+      "sequence_padded": "0007"
+    },
+    {
+      "airwars_id": "387051",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0178-december-28-2025/",
+      "incident_code": "NCS0178",
+      "internal_id": "airwars-387051",
+      "sequence": 8,
+      "sequence_padded": "0008"
+    },
+    {
+      "airwars_id": "387047",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0173-december-25-2025/",
+      "incident_code": "NCS0173",
+      "internal_id": "airwars-387047",
+      "sequence": 9,
+      "sequence_padded": "0009"
+    },
+    {
+      "airwars_id": "387048",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0174-december-25-2025/",
+      "incident_code": "NCS0174",
+      "internal_id": "airwars-387048",
+      "sequence": 10,
+      "sequence_padded": "0010"
+    },
+    {
+      "airwars_id": "387050",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0177-december-25-2025/",
+      "incident_code": "NCS0177",
+      "internal_id": "airwars-387050",
+      "sequence": 11,
+      "sequence_padded": "0011"
+    },
+    {
+      "airwars_id": "387049",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0175-december-24-2025/",
+      "incident_code": "NCS0175",
+      "internal_id": "airwars-387049",
+      "sequence": 12,
+      "sequence_padded": "0012"
+    },
+    {
+      "airwars_id": "379131",
+      "canonical_url": "https://airwars.org/civilian-casualties/cs2021-december-23-2025/",
+      "incident_code": "CS2021",
+      "internal_id": "airwars-379131",
+      "sequence": 13,
+      "sequence_padded": "0013"
+    },
+    {
+      "airwars_id": "387046",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0172-december-21-2025/",
+      "incident_code": "NCS0172",
+      "internal_id": "airwars-387046",
+      "sequence": 14,
+      "sequence_padded": "0014"
+    },
+    {
+      "airwars_id": "367983",
+      "canonical_url": "https://airwars.org/civilian-casualties/cs2020-december-21-2025/",
+      "incident_code": "CS2020",
+      "internal_id": "airwars-367983",
+      "sequence": 15,
+      "sequence_padded": "0015"
+    },
+    {
+      "airwars_id": "387045",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0171-december-19-2025/",
+      "incident_code": "NCS0171",
+      "internal_id": "airwars-387045",
+      "sequence": 16,
+      "sequence_padded": "0016"
+    },
+    {
+      "airwars_id": "386637",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0169-december-18-2025/",
+      "incident_code": "NCS0169",
+      "internal_id": "airwars-386637",
+      "sequence": 17,
+      "sequence_padded": "0017"
+    },
+    {
+      "airwars_id": "387044",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0170-december-18-2025/",
+      "incident_code": "NCS0170",
+      "internal_id": "airwars-387044",
+      "sequence": 18,
+      "sequence_padded": "0018"
+    },
+    {
+      "airwars_id": "367981",
+      "canonical_url": "https://airwars.org/civilian-casualties/cs2018-december-18-2025/",
+      "incident_code": "CS2018",
+      "internal_id": "airwars-367981",
+      "sequence": 19,
+      "sequence_padded": "0019"
+    },
+    {
+      "airwars_id": "367982",
+      "canonical_url": "https://airwars.org/civilian-casualties/cs2019-december-18-2025/",
+      "incident_code": "CS2019",
+      "internal_id": "airwars-367982",
+      "sequence": 20,
+      "sequence_padded": "0020"
+    },
+    {
+      "airwars_id": "367980",
+      "canonical_url": "https://airwars.org/civilian-casualties/cs2017-december-17-2025/",
+      "incident_code": "CS2017",
+      "internal_id": "airwars-367980",
+      "sequence": 21,
+      "sequence_padded": "0021"
+    },
+    {
+      "airwars_id": "371403",
+      "canonical_url": "https://airwars.org/civilian-casualties/issy088-december-9-2025/",
+      "incident_code": "ISSY088",
+      "internal_id": "airwars-371403",
+      "sequence": 22,
+      "sequence_padded": "0022"
+    },
+    {
+      "airwars_id": "386636",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0168-december-7-2025/",
+      "incident_code": "NCS0168",
+      "internal_id": "airwars-386636",
+      "sequence": 23,
+      "sequence_padded": "0023"
+    },
+    {
+      "airwars_id": "318800",
+      "canonical_url": "https://airwars.org/civilian-casualties/issy087-november-28-2025/",
+      "incident_code": "ISSY087",
+      "internal_id": "airwars-318800",
+      "sequence": 24,
+      "sequence_padded": "0024"
+    },
+    {
+      "airwars_id": "386635",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0167-november-23-2025/",
+      "incident_code": "NCS0167",
+      "internal_id": "airwars-386635",
+      "sequence": 25,
+      "sequence_padded": "0025"
+    },
+    {
+      "airwars_id": "315775",
+      "canonical_url": "https://airwars.org/civilian-casualties/cs2016-november-19-2025/",
+      "incident_code": "CS2016",
+      "internal_id": "airwars-315775",
+      "sequence": 26,
+      "sequence_padded": "0026"
+    },
+    {
+      "airwars_id": "386634",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0166-november-18-2025/",
+      "incident_code": "NCS0166",
+      "internal_id": "airwars-386634",
+      "sequence": 27,
+      "sequence_padded": "0027"
+    },
+    {
+      "airwars_id": "386633",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0165-november-14-2025/",
+      "incident_code": "NCS0165",
+      "internal_id": "airwars-386633",
+      "sequence": 28,
+      "sequence_padded": "0028"
+    },
+    {
+      "airwars_id": "386632",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0164-november-13-2025/",
+      "incident_code": "NCS0164",
+      "internal_id": "airwars-386632",
+      "sequence": 29,
+      "sequence_padded": "0029"
+    },
+    {
+      "airwars_id": "386631",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0163-november-7-2025/",
+      "incident_code": "NCS0163",
+      "internal_id": "airwars-386631",
+      "sequence": 30,
+      "sequence_padded": "0030"
+    },
+    {
+      "airwars_id": "386630",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0162-october-25-2025/",
+      "incident_code": "NCS0162",
+      "internal_id": "airwars-386630",
+      "sequence": 31,
+      "sequence_padded": "0031"
+    },
+    {
+      "airwars_id": "297455",
+      "canonical_url": "https://airwars.org/civilian-casualties/cs2015-october-23-2025/",
+      "incident_code": "CS2015",
+      "internal_id": "airwars-297455",
+      "sequence": 32,
+      "sequence_padded": "0032"
+    },
+    {
+      "airwars_id": "386629",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0161-october-22-2025/",
+      "incident_code": "NCS0161",
+      "internal_id": "airwars-386629",
+      "sequence": 33,
+      "sequence_padded": "0033"
+    },
+    {
+      "airwars_id": "386628",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0160-october-21-2025/",
+      "incident_code": "NCS0160",
+      "internal_id": "airwars-386628",
+      "sequence": 34,
+      "sequence_padded": "0034"
+    },
+    {
+      "airwars_id": "386627",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0159-october-20-2025/",
+      "incident_code": "NCS0159",
+      "internal_id": "airwars-386627",
+      "sequence": 35,
+      "sequence_padded": "0035"
+    },
+    {
+      "airwars_id": "297454",
+      "canonical_url": "https://airwars.org/civilian-casualties/cs2014-october-18-2025/",
+      "incident_code": "CS2014",
+      "internal_id": "airwars-297454",
+      "sequence": 36,
+      "sequence_padded": "0036"
+    },
+    {
+      "airwars_id": "386626",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0158-october-2-2025/",
+      "incident_code": "NCS0158",
+      "internal_id": "airwars-386626",
+      "sequence": 37,
+      "sequence_padded": "0037"
+    },
+    {
+      "airwars_id": "386625",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0157-september-30-2025/",
+      "incident_code": "NCS0157",
+      "internal_id": "airwars-386625",
+      "sequence": 38,
+      "sequence_padded": "0038"
+    },
+    {
+      "airwars_id": "287562",
+      "canonical_url": "https://airwars.org/civilian-casualties/cs2013-september-28-2025/",
+      "incident_code": "CS2013",
+      "internal_id": "airwars-287562",
+      "sequence": 39,
+      "sequence_padded": "0039"
+    },
+    {
+      "airwars_id": "386624",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0156b-september-28-2025/",
+      "incident_code": "NCS0156b",
+      "internal_id": "airwars-386624",
+      "sequence": 40,
+      "sequence_padded": "0040"
+    },
+    {
+      "airwars_id": "386623",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0156a-september-19-2025/",
+      "incident_code": "NCS0156a",
+      "internal_id": "airwars-386623",
+      "sequence": 41,
+      "sequence_padded": "0041"
+    },
+    {
+      "airwars_id": "386622",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0156-september-4-2025/",
+      "incident_code": "NCS0156",
+      "internal_id": "airwars-386622",
+      "sequence": 42,
+      "sequence_padded": "0042"
+    },
+    {
+      "airwars_id": "386621",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0155-august-30-2025/",
+      "incident_code": "NCS0155",
+      "internal_id": "airwars-386621",
+      "sequence": 43,
+      "sequence_padded": "0043"
+    },
+    {
+      "airwars_id": "276126",
+      "canonical_url": "https://airwars.org/civilian-casualties/issy085-august-26-2025/",
+      "incident_code": "ISSY085",
+      "internal_id": "airwars-276126",
+      "sequence": 44,
+      "sequence_padded": "0044"
+    },
+    {
+      "airwars_id": "386620",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0154-august-20-2025/",
+      "incident_code": "NCS0154",
+      "internal_id": "airwars-386620",
+      "sequence": 45,
+      "sequence_padded": "0045"
+    },
+    {
+      "airwars_id": "386619",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0153-august-7-2025/",
+      "incident_code": "NCS0153",
+      "internal_id": "airwars-386619",
+      "sequence": 46,
+      "sequence_padded": "0046"
+    },
+    {
+      "airwars_id": "387055",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0152-july-25-2025/",
+      "incident_code": "NCS0152",
+      "internal_id": "airwars-387055",
+      "sequence": 47,
+      "sequence_padded": "0047"
+    },
+    {
+      "airwars_id": "386618",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0152a-july-25-2025/",
+      "incident_code": "NCS0152a",
+      "internal_id": "airwars-386618",
+      "sequence": 48,
+      "sequence_padded": "0048"
+    },
+    {
+      "airwars_id": "287558",
+      "canonical_url": "https://airwars.org/civilian-casualties/cs2011-july-19-2025/",
+      "incident_code": "CS2011",
+      "internal_id": "airwars-287558",
+      "sequence": 49,
+      "sequence_padded": "0049"
+    },
+    {
+      "airwars_id": "276122",
+      "canonical_url": "https://airwars.org/civilian-casualties/issy083-july-16-2025/",
+      "incident_code": "ISSY083",
+      "internal_id": "airwars-276122",
+      "sequence": 50,
+      "sequence_padded": "0050"
+    },
+    {
+      "airwars_id": "276124",
+      "canonical_url": "https://airwars.org/civilian-casualties/issy084-july-16-2025/",
+      "incident_code": "ISSY084",
+      "internal_id": "airwars-276124",
+      "sequence": 51,
+      "sequence_padded": "0051"
+    },
+    {
+      "airwars_id": "381566",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0151-july-7-2025/",
+      "incident_code": "NCS0151",
+      "internal_id": "airwars-381566",
+      "sequence": 52,
+      "sequence_padded": "0052"
+    },
+    {
+      "airwars_id": "381565",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0150-july-6-2025/",
+      "incident_code": "NCS0150",
+      "internal_id": "airwars-381565",
+      "sequence": 53,
+      "sequence_padded": "0053"
+    },
+    {
+      "airwars_id": "381564",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0149-july-4-2025/",
+      "incident_code": "NCS0149",
+      "internal_id": "airwars-381564",
+      "sequence": 54,
+      "sequence_padded": "0054"
+    },
+    {
+      "airwars_id": "229045",
+      "canonical_url": "https://airwars.org/civilian-casualties/iris250616b-june-26-2025/",
+      "incident_code": "IRIS250616b",
+      "internal_id": "airwars-229045",
+      "sequence": 55,
+      "sequence_padded": "0055"
+    },
+    {
+      "airwars_id": "191037",
+      "canonical_url": "https://airwars.org/civilian-casualties/debsyr250620a-june-20-2025/",
+      "incident_code": "DEBSYR250620a",
+      "internal_id": "airwars-191037",
+      "sequence": 56,
+      "sequence_padded": "0056"
+    },
+    {
+      "airwars_id": "381563",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0148-june-19-2025/",
+      "incident_code": "NCS0148",
+      "internal_id": "airwars-381563",
+      "sequence": 57,
+      "sequence_padded": "0057"
+    },
+    {
+      "airwars_id": "191010",
+      "canonical_url": "https://airwars.org/civilian-casualties/debsyr250615a-june-15-2025/",
+      "incident_code": "DEBSYR250615a",
+      "internal_id": "airwars-191010",
+      "sequence": 58,
+      "sequence_padded": "0058"
+    },
+    {
+      "airwars_id": "381561",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0146a-june-14-2025/",
+      "incident_code": "NCS0146a",
+      "internal_id": "airwars-381561",
+      "sequence": 59,
+      "sequence_padded": "0059"
+    },
+    {
+      "airwars_id": "381562",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0147-june-14-2025/",
+      "incident_code": "NCS0147",
+      "internal_id": "airwars-381562",
+      "sequence": 60,
+      "sequence_padded": "0060"
+    },
+    {
+      "airwars_id": "201199",
+      "canonical_url": "https://airwars.org/civilian-casualties/debsyr250613a-june-13-2025/",
+      "incident_code": "DEBSYR250613a",
+      "internal_id": "airwars-201199",
+      "sequence": 61,
+      "sequence_padded": "0061"
+    },
+    {
+      "airwars_id": "381559",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0145-june-12-2025/",
+      "incident_code": "NCS0145",
+      "internal_id": "airwars-381559",
+      "sequence": 62,
+      "sequence_padded": "0062"
+    },
+    {
+      "airwars_id": "381560",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0146-june-12-2025/",
+      "incident_code": "NCS0146",
+      "internal_id": "airwars-381560",
+      "sequence": 63,
+      "sequence_padded": "0063"
+    },
+    {
+      "airwars_id": "381558",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0144-june-11-2025/",
+      "incident_code": "NCS0144",
+      "internal_id": "airwars-381558",
+      "sequence": 64,
+      "sequence_padded": "0064"
+    },
+    {
+      "airwars_id": "381557",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0143-june-10-2025/",
+      "incident_code": "NCS0143",
+      "internal_id": "airwars-381557",
+      "sequence": 65,
+      "sequence_padded": "0065"
+    },
+    {
+      "airwars_id": "190695",
+      "canonical_url": "https://airwars.org/civilian-casualties/cs2009-june-10-2025/",
+      "incident_code": "CS2009",
+      "internal_id": "airwars-190695",
+      "sequence": 66,
+      "sequence_padded": "0066"
+    },
+    {
+      "airwars_id": "190719",
+      "canonical_url": "https://airwars.org/civilian-casualties/cs2010-june-10-2025/",
+      "incident_code": "CS2010",
+      "internal_id": "airwars-190719",
+      "sequence": 67,
+      "sequence_padded": "0067"
+    },
+    {
+      "airwars_id": "276120",
+      "canonical_url": "https://airwars.org/civilian-casualties/issy082-june-8-2025/",
+      "incident_code": "ISSY082",
+      "internal_id": "airwars-276120",
+      "sequence": 68,
+      "sequence_padded": "0068"
+    },
+    {
+      "airwars_id": "381556",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0142-june-5-2025/",
+      "incident_code": "NCS0142",
+      "internal_id": "airwars-381556",
+      "sequence": 69,
+      "sequence_padded": "0069"
+    },
+    {
+      "airwars_id": "381555",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0141-may-16-2025/",
+      "incident_code": "NCS0141",
+      "internal_id": "airwars-381555",
+      "sequence": 70,
+      "sequence_padded": "0070"
+    },
+    {
+      "airwars_id": "276114",
+      "canonical_url": "https://airwars.org/civilian-casualties/issy079-may-3-2025/",
+      "incident_code": "ISSY079",
+      "internal_id": "airwars-276114",
+      "sequence": 71,
+      "sequence_padded": "0071"
+    },
+    {
+      "airwars_id": "276116",
+      "canonical_url": "https://airwars.org/civilian-casualties/issy080-may-3-2025/",
+      "incident_code": "ISSY080",
+      "internal_id": "airwars-276116",
+      "sequence": 72,
+      "sequence_padded": "0072"
+    },
+    {
+      "airwars_id": "276118",
+      "canonical_url": "https://airwars.org/civilian-casualties/issy081-may-3-2025/",
+      "incident_code": "ISSY081",
+      "internal_id": "airwars-276118",
+      "sequence": 73,
+      "sequence_padded": "0073"
+    },
+    {
+      "airwars_id": "276112",
+      "canonical_url": "https://airwars.org/civilian-casualties/issy078-may-2-2025/",
+      "incident_code": "ISSY078",
+      "internal_id": "airwars-276112",
+      "sequence": 74,
+      "sequence_padded": "0074"
+    },
+    {
+      "airwars_id": "381554",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0140-may-1-2025/",
+      "incident_code": "NCS0140",
+      "internal_id": "airwars-381554",
+      "sequence": 75,
+      "sequence_padded": "0075"
+    },
+    {
+      "airwars_id": "381553",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0139-april-30-2025/",
+      "incident_code": "NCS0139",
+      "internal_id": "airwars-381553",
+      "sequence": 76,
+      "sequence_padded": "0076"
+    },
+    {
+      "airwars_id": "276110",
+      "canonical_url": "https://airwars.org/civilian-casualties/issy077-april-30-2025/",
+      "incident_code": "ISSY077",
+      "internal_id": "airwars-276110",
+      "sequence": 77,
+      "sequence_padded": "0077"
+    },
+    {
+      "airwars_id": "276069",
+      "canonical_url": "https://airwars.org/civilian-casualties/issy076-april-3-2025/",
+      "incident_code": "ISSY076",
+      "internal_id": "airwars-276069",
+      "sequence": 78,
+      "sequence_padded": "0078"
+    },
+    {
+      "airwars_id": "381552",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0138a-march-25-2025/",
+      "incident_code": "NCS0138a",
+      "internal_id": "airwars-381552",
+      "sequence": 79,
+      "sequence_padded": "0079"
+    },
+    {
+      "airwars_id": "142194",
+      "canonical_url": "https://airwars.org/civilian-casualties/issy075-march-25-2025/",
+      "incident_code": "ISSY075",
+      "internal_id": "airwars-142194",
+      "sequence": 80,
+      "sequence_padded": "0080"
+    },
+    {
+      "airwars_id": "302785",
+      "canonical_url": "https://airwars.org/civilian-casualties/ts797-march-24-2025/",
+      "incident_code": "TS797",
+      "internal_id": "airwars-302785",
+      "sequence": 81,
+      "sequence_padded": "0081"
+    },
+    {
+      "airwars_id": "381551",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0138-march-22-2025/",
+      "incident_code": "NCS0138",
+      "internal_id": "airwars-381551",
+      "sequence": 82,
+      "sequence_padded": "0082"
+    },
+    {
+      "airwars_id": "379488",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0137-march-20-2025/",
+      "incident_code": "NCS0137",
+      "internal_id": "airwars-379488",
+      "sequence": 83,
+      "sequence_padded": "0083"
+    },
+    {
+      "airwars_id": "379487",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0136-march-19-2025/",
+      "incident_code": "NCS0136",
+      "internal_id": "airwars-379487",
+      "sequence": 84,
+      "sequence_padded": "0084"
+    },
+    {
+      "airwars_id": "276024",
+      "canonical_url": "https://airwars.org/civilian-casualties/issy074-march-17-2025/",
+      "incident_code": "ISSY074",
+      "internal_id": "airwars-276024",
+      "sequence": 85,
+      "sequence_padded": "0085"
+    },
+    {
+      "airwars_id": "304188",
+      "canonical_url": "https://airwars.org/civilian-casualties/ts796-march-16-2025/",
+      "incident_code": "TS796",
+      "internal_id": "airwars-304188",
+      "sequence": 86,
+      "sequence_padded": "0086"
+    },
+    {
+      "airwars_id": "276022",
+      "canonical_url": "https://airwars.org/civilian-casualties/issy073-march-13-2025/",
+      "incident_code": "ISSY073",
+      "internal_id": "airwars-276022",
+      "sequence": 87,
+      "sequence_padded": "0087"
+    },
+    {
+      "airwars_id": "379486",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0135-march-12-2025/",
+      "incident_code": "NCS0135",
+      "internal_id": "airwars-379486",
+      "sequence": 88,
+      "sequence_padded": "0088"
+    },
+    {
+      "airwars_id": "379485",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0134-march-11-2025/",
+      "incident_code": "NCS0134",
+      "internal_id": "airwars-379485",
+      "sequence": 89,
+      "sequence_padded": "0089"
+    },
+    {
+      "airwars_id": "379484",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0133-march-10-2025/",
+      "incident_code": "NCS0133",
+      "internal_id": "airwars-379484",
+      "sequence": 90,
+      "sequence_padded": "0090"
+    },
+    {
+      "airwars_id": "290205",
+      "canonical_url": "https://airwars.org/civilian-casualties/ts795-march-10-2025/",
+      "incident_code": "TS795",
+      "internal_id": "airwars-290205",
+      "sequence": 91,
+      "sequence_padded": "0091"
+    },
+    {
+      "airwars_id": "379483",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0132-march-7-2025/",
+      "incident_code": "NCS0132",
+      "internal_id": "airwars-379483",
+      "sequence": 92,
+      "sequence_padded": "0092"
+    },
+    {
+      "airwars_id": "304186",
+      "canonical_url": "https://airwars.org/civilian-casualties/ts794-march-2-2025/",
+      "incident_code": "TS794",
+      "internal_id": "airwars-304186",
+      "sequence": 93,
+      "sequence_padded": "0093"
+    },
+    {
+      "airwars_id": "308525",
+      "canonical_url": "https://airwars.org/civilian-casualties/ts793-february-26-2025/",
+      "incident_code": "TS793",
+      "internal_id": "airwars-308525",
+      "sequence": 94,
+      "sequence_padded": "0094"
+    },
+    {
+      "airwars_id": "290203",
+      "canonical_url": "https://airwars.org/civilian-casualties/ts792-february-26-2025/",
+      "incident_code": "TS792",
+      "internal_id": "airwars-290203",
+      "sequence": 95,
+      "sequence_padded": "0095"
+    },
+    {
+      "airwars_id": "276018",
+      "canonical_url": "https://airwars.org/civilian-casualties/issy071-february-25-2025/",
+      "incident_code": "ISSY071",
+      "internal_id": "airwars-276018",
+      "sequence": 96,
+      "sequence_padded": "0096"
+    },
+    {
+      "airwars_id": "276020",
+      "canonical_url": "https://airwars.org/civilian-casualties/issy072-february-25-2025/",
+      "incident_code": "ISSY072",
+      "internal_id": "airwars-276020",
+      "sequence": 97,
+      "sequence_padded": "0097"
+    },
+    {
+      "airwars_id": "367998",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0131-february-25-2025/",
+      "incident_code": "NCS0131",
+      "internal_id": "airwars-367998",
+      "sequence": 98,
+      "sequence_padded": "0098"
+    },
+    {
+      "airwars_id": "367996",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0129-february-23-2025/",
+      "incident_code": "NCS0129",
+      "internal_id": "airwars-367996",
+      "sequence": 99,
+      "sequence_padded": "0099"
+    },
+    {
+      "airwars_id": "367997",
+      "canonical_url": "https://airwars.org/civilian-casualties/ncs0130-february-23-2025/",
+      "incident_code": "NCS0130",
+      "internal_id": "airwars-367997",
+      "sequence": 100,
+      "sequence_padded": "0100"
+    }
+  ],
+  "pilot": "first-100-complete-content",
+  "schema_version": "1.0.0",
+  "scope": {
+    "count": 100,
+    "first_sequence": 1,
+    "last_sequence": 100,
+    "later_incidents_allowed": false
+  }
+}

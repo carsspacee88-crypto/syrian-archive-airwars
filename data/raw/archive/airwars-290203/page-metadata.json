@@ -1,0 +1,61 @@
+{
+  "attempt_history": [
+    {
+      "attempt": 1,
+      "elapsed_seconds": 10.005,
+      "error": "URLError: <urlopen error timed out>",
+      "result": "network_error",
+      "retrieved_at": "2026-07-31T18:17:26+00:00",
+      "status": null
+    }
+  ],
+  "attempts": 1,
+  "body_decoded_from": null,
+  "bytes": 0,
+  "capture": {
+    "cdx_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fairwars.org%2Fcivilian-casualties%2Fts792-february-26-2025%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+    "digest": "5KGESYISMP4P36NK43XAXCUPYEV3YPPK",
+    "mimetype": "text/html",
+    "original": "https://airwars.org/civilian-casualties/ts792-february-26-2025/",
+    "replay_url": "https://web.archive.org/web/20260116133538id_/https://airwars.org/civilian-casualties/ts792-february-26-2025/",
+    "statuscode": "200",
+    "timestamp": "20260116133538"
+  },
+  "cdx_lookup": {
+    "attempt_history": [
+      {
+        "attempt": 1,
+        "elapsed_seconds": 6.037,
+        "result": "successful",
+        "retrieved_at": "2026-07-31T18:17:16+00:00",
+        "status": 200
+      }
+    ],
+    "attempts": 1,
+    "body_decoded_from": null,
+    "bytes": 199,
+    "content_hash": "1306a32a63551a64faaa3b8465125e4ddf49c160ca85b48a7279e3374905d752",
+    "content_type": "application/json",
+    "elapsed_seconds": 6.037,
+    "error": null,
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fairwars.org%2Fcivilian-casualties%2Fts792-february-26-2025%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+    "lookup_result": "capture_found",
+    "ok": true,
+    "response_content_encoding": "",
+    "retrieved_at": "2026-07-31T18:17:16+00:00",
+    "status": 200,
+    "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fairwars.org%2Fcivilian-casualties%2Fts792-february-26-2025%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+    "waiting_seconds": 0.749
+  },
+  "content_hash": null,
+  "content_type": "",
+  "elapsed_seconds": 10.005,
+  "error": "URLError: <urlopen error timed out>",
+  "final_url": "https://web.archive.org/web/20260116133538id_/https://airwars.org/civilian-casualties/ts792-february-26-2025/",
+  "ok": false,
+  "response_content_encoding": "",
+  "retrieved_at": "2026-07-31T18:17:26+00:00",
+  "status": null,
+  "url": "https://web.archive.org/web/20260116133538id_/https://airwars.org/civilian-casualties/ts792-february-26-2025/",
+  "waiting_seconds": 0.75
+}

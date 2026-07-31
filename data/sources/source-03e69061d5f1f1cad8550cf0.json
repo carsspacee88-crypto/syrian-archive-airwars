@@ -1,0 +1,104 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/FCihE"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.312,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:18:58+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 80317,
+      "content_hash": "b97ccf1d961fc4ef1d35d4879054dbcf2ac649ab6270e3c0dd5363dbf770ce6c",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.312,
+      "error": null,
+      "final_url": "https://x.com/NohaAkk/status/1907555770918474024",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:18:58+00:00",
+      "status": 200,
+      "url": "https://x.com/NohaAkk/status/1907555770918474024",
+      "waiting_seconds": 0.746
+    }
+  ],
+  "author": "https://x.com/NohaAkk",
+  "captions": [],
+  "content_hash": "2e1bdfb4aa2bbd8d6e295b8d1148f9f79ee67e2d2ef1d1929b746aef0f042247",
+  "content_variants": [
+    {
+      "bytes": 570,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:18:58+00:00",
+      "sha256": "2e1bdfb4aa2bbd8d6e295b8d1148f9f79ee67e2d2ef1d1929b746aef0f042247",
+      "source_url": "https://x.com/NohaAkk/status/1907555770918474024",
+      "text": "Post\n\nPost\n\nNoha.🕊️@NohaAkk#عاجل جيش الإحتلال الإسرائيلي يستهدف بـ 18 قذيفة مدفعية محيط مدينة نوى وتسيل وتل الجموع بريف درعا الغربي وعودة دخول الرتل العسكري الإسرائيلي إلى حرش تسيل وبلدة البكار بريف درعا الغربي بعد إستقدامه تعزيزات كبيرة وتحليق للطيران الحربي والمروحي والإستطلاع في أجواء المنطقة\n#سوريا10:08 PM · Apr 2, 2025459Views18"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/NohaAkk/status/1907555770918474024",
+  "incident_ids": [
+    "airwars-276069"
+  ],
+  "incident_sequences": [
+    78
+  ],
+  "normalized_url": "https://x.com/NohaAkk/status/1907555770918474024",
+  "observed_original_urls": [
+    "https://x.com/NohaAkk/status/1907555770918474024"
+  ],
+  "original_url": "https://x.com/NohaAkk/status/1907555770918474024",
+  "page_title": "Noha.🕊️ on X: \"#عاجل جيش الإحتلال الإسرائيلي يستهدف بـ 18 قذيفة مدفعية محيط مدينة نوى وتسيل وتل الجموع بريف درعا الغربي وعودة دخول الرتل العسكري الإسرائيلي إلى حرش تسيل وبلدة البكار بريف درعا الغربي بعد إستقدامه تعزيزات كبيرة وتحليق للطيران الحربي والمروحي والإستطلاع في أجواء المنطقة\n#سوريا\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy076-april-3-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-276069",
+      "incident_sequence": 78,
+      "observed_original_url": "https://x.com/NohaAkk/status/1907555770918474024",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-04-02T22:08:31.000Z",
+  "publisher": "'@NohaAkk",
+  "publisher_ar": "'@NohaAkk",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:18:58+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-03e69061d5f1f1cad8550cf0",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/NohaAkk/status/1907555770918474024",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nNoha.🕊️@NohaAkk#عاجل جيش الإحتلال الإسرائيلي يستهدف بـ 18 قذيفة مدفعية محيط مدينة نوى وتسيل وتل الجموع بريف درعا الغربي وعودة دخول الرتل العسكري الإسرائيلي إلى حرش تسيل وبلدة البكار بريف درعا الغربي بعد إستقدامه تعزيزات كبيرة وتحليق للطيران الحربي والمروحي والإستطلاع في أجواء المنطقة\n#سوريا10:08 PM · Apr 2, 2025459Views18",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001895
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

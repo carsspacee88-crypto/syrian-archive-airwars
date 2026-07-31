@@ -1,0 +1,186 @@
+{
+  "airwars_source_ids": [
+    "308526",
+    "308319"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-02-26-175837-2/",
+    "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-02-26-175837/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:41:54+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)",
+      "final_url": "https://www.syriahr.com/في-حصيلة-غير-نهائية-مقتل-واستشهاد-12-شخص/751109/?fbclid=IwY2xjawItBWJleHRuA2FlbQIxMQABHW1d2szbmzb_P75VudYkXESHci1BP_eB6PtaqgASowM",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:41:54+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/في-حصيلة-غير-نهائية-مقتل-واستشهاد-12-شخص/751109/?fbclid=IwY2xjawItBWJleHRuA2FlbQIxMQABHW1d2szbmzb_P75VudYkXESHci1BP_eB6PtaqgASowM",
+      "waiting_seconds": 0.738
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.027,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:41:55+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1890,
+      "content_hash": "f7ae052c621cc6434b4a8c0ffe21b6f0f8ddc6e36f47056b3ec21f7fd336a932",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.027,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-02-26-175837-2/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:41:55+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-02-26-175837-2/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-02-26-175837/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:41:55+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-02-26-175837/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.08,
+          "error": "URLError: <urlopen error timed out>",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:42:06+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.08,
+      "error": "URLError: <urlopen error timed out>",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D9%81%D9%8A-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%BA%D9%8A%D8%B1-%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D9%82%D8%AA%D9%84-%D9%88%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-12-%D8%B4%D8%AE%D8%B5%2F751109%2F%3Ffbclid%3DIwY2xjawItBWJleHRuA2FlbQIxMQABHW1d2szbmzb_P75VudYkXESHci1BP_eB6PtaqgASowM&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:42:06+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D9%81%D9%8A-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%BA%D9%8A%D8%B1-%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D9%82%D8%AA%D9%84-%D9%88%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-12-%D8%B4%D8%AE%D8%B5%2F751109%2F%3Ffbclid%3DIwY2xjawItBWJleHRuA2FlbQIxMQABHW1d2szbmzb_P75VudYkXESHci1BP_eB6PtaqgASowM&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "المرصد السوري",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)",
+  "final_redirected_url": "https://www.syriahr.com/في-حصيلة-غير-نهائية-مقتل-واستشهاد-12-شخص/751109/?fbclid=IwY2xjawItBWJleHRuA2FlbQIxMQABHW1d2szbmzb_P75VudYkXESHci1BP_eB6PtaqgASowM",
+  "incident_ids": [
+    "airwars-308525",
+    "airwars-290203"
+  ],
+  "incident_sequences": [
+    94,
+    95
+  ],
+  "normalized_url": "https://www.syriahr.com/في-حصيلة-غير-نهائية-مقتل-واستشهاد-12-شخص/751109/?fbclid=IwY2xjawItBWJleHRuA2FlbQIxMQABHW1d2szbmzb_P75VudYkXESHci1BP_eB6PtaqgASowM",
+  "observed_original_urls": [
+    "https://www.syriahr.com/في-حصيلة-غير-نهائية-مقتل-واستشهاد-12-شخص/751109/?fbclid=IwY2xjawItBWJleHRuA2FlbQIxMQABHW1d2szbmzb_P75VudYkXESHci1BP_eB6PtaqgASowM"
+  ],
+  "original_url": "https://www.syriahr.com/في-حصيلة-غير-نهائية-مقتل-واستشهاد-12-شخص/751109/?fbclid=IwY2xjawItBWJleHRuA2FlbQIxMQABHW1d2szbmzb_P75VudYkXESHci1BP_eB6PtaqgASowM",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts793-february-26-2025/",
+      "airwars_source_id": "308526",
+      "incident_id": "airwars-308525",
+      "incident_sequence": 94,
+      "observed_original_url": "https://www.syriahr.com/في-حصيلة-غير-نهائية-مقتل-واستشهاد-12-شخص/751109/?fbclid=IwY2xjawItBWJleHRuA2FlbQIxMQABHW1d2szbmzb_P75VudYkXESHci1BP_eB6PtaqgASowM",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts792-february-26-2025/",
+      "airwars_source_id": "308319",
+      "incident_id": "airwars-290203",
+      "incident_sequence": 95,
+      "observed_original_url": "https://www.syriahr.com/في-حصيلة-غير-نهائية-مقتل-واستشهاد-12-شخص/751109/?fbclid=IwY2xjawItBWJleHRuA2FlbQIxMQABHW1d2szbmzb_P75VudYkXESHci1BP_eB6PtaqgASowM",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "26 فبراير 2025",
+  "publisher": "Syrian Observatory",
+  "publisher_ar": "المرصد السوري",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:41:54+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-7df01d24032b899e2bb61285",
+  "source_type": "ngo_report",
+  "stable_id_basis": "https://www.syriahr.com/في-حصيلة-غير-نهائية-مقتل-واستشهاد-12-شخص/751109/?fbclid=IwY2xjawItBWJleHRuA2FlbQIxMQABHW1d2szbmzb_P75VudYkXESHci1BP_eB6PtaqgASowM",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

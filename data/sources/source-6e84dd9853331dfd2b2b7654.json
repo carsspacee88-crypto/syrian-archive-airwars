@@ -1,0 +1,149 @@
+{
+  "airwars_source_ids": [
+    "223322"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-thinkwithjunaid-1934705572873650454-2025-06-16-201208/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.171,
+          "error": "http_404",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:38:14+00:00",
+          "status": 404
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 36819,
+      "content_hash": "5e21b2cea82d839e0b738caadd105a82e42995a392a3517bafb51884189a1677",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.171,
+      "error": "http_404",
+      "final_url": "https://x.com/ThinkWithJunaid/status/1934705572873650454",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:38:14+00:00",
+      "status": 404,
+      "url": "https://x.com/ThinkWithJunaid/status/1934705572873650454",
+      "waiting_seconds": 0.742
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.028,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:38:15+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1640,
+      "content_hash": "7964e999197b09e7fbbbc72e82d470b93583f7845bf211ec2899fadc6b81ad1d",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.028,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/x-com-thinkwithjunaid-1934705572873650454-2025-06-16-201208/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:38:15+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/x-com-thinkwithjunaid-1934705572873650454-2025-06-16-201208/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 5.337,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:38:21+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 3,
+      "content_hash": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "content_type": "application/json",
+      "elapsed_seconds": 5.337,
+      "error": null,
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fx.com%2FThinkWithJunaid%2Fstatus%2F1934705572873650454&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "lookup_result": "no_capture",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:38:21+00:00",
+      "status": 200,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fx.com%2FThinkWithJunaid%2Fstatus%2F1934705572873650454&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "ThinkWithJunaid",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_404",
+  "final_redirected_url": "https://x.com/ThinkWithJunaid/status/1934705572873650454",
+  "incident_ids": [
+    "airwars-229045"
+  ],
+  "incident_sequences": [
+    55
+  ],
+  "normalized_url": "https://x.com/ThinkWithJunaid/status/1934705572873650454",
+  "observed_original_urls": [
+    "https://x.com/ThinkWithJunaid/status/1934705572873650454"
+  ],
+  "original_url": "https://x.com/ThinkWithJunaid/status/1934705572873650454",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/iris250616b-june-26-2025/",
+      "airwars_source_id": "223322",
+      "incident_id": "airwars-229045",
+      "incident_sequence": 55,
+      "observed_original_url": "https://x.com/ThinkWithJunaid/status/1934705572873650454",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "16 يونيو 2025",
+  "publisher": "ThinkWithJunaid",
+  "publisher_ar": "ThinkWithJunaid",
+  "retrieval_status": "no_archive_capture",
+  "retrieved_at": "2026-07-31T18:38:14+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-6e84dd9853331dfd2b2b7654",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/ThinkWithJunaid/status/1934705572873650454",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "und",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

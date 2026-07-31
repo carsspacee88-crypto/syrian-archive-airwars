@@ -1,0 +1,69 @@
+{
+  "generated_at": "2026-07-31T19:16:37+00:00",
+  "incidents": {
+    "attempted": 100,
+    "conflicting_fields": 0,
+    "full_narratives": 0,
+    "legacy_dependent": 100,
+    "narratives_translated": 0,
+    "records": 100,
+    "status_counts": {
+      "blocked": 100
+    },
+    "victim_records": 57
+  },
+  "media": {
+    "binaries_downloaded": 0,
+    "placeholders": 1470,
+    "repository_binary_bytes": 0,
+    "type_counts": {
+      "embed": 158,
+      "image": 1312
+    }
+  },
+  "scope": {
+    "count": 100,
+    "first_sequence": 1,
+    "last_sequence": 100,
+    "later_incidents_processed": 0
+  },
+  "sources": {
+    "exact_duplicate_content": 433,
+    "relationships": 1535,
+    "review_required": 0,
+    "stable_relationship_edges": 1506,
+    "status_counts": {
+      "archive_lookup_failed": 151,
+      "no_archive_capture": 4,
+      "successful": 1278,
+      "unavailable": 6
+    },
+    "texts_extracted": 1275,
+    "texts_translated": 0,
+    "type_counts": {
+      "government_or_military_statement": 3,
+      "news_article": 40,
+      "ngo_report": 40,
+      "other_web_page": 90,
+      "public_facebook_post": 914,
+      "public_instagram_post": 1,
+      "public_telegram_post": 5,
+      "public_x_post": 346
+    },
+    "unique_records": 1439
+  },
+  "translation_policy": {
+    "enabled": false,
+    "generated_translations": 0,
+    "original_text_preserved": true,
+    "status": "disabled_by_user"
+  },
+  "translation_status_counts": {
+    "disabled_by_user": 1539
+  },
+  "versions": {
+    "pilot_parser": "1.0.0",
+    "pilot_schema": "1.0.0",
+    "translation": "disabled-no-translation-v1"
+  }
+}

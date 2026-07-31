@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "427002"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-murasil_amniun-2027770460306387067-2026-02-28-153846/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.263,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:33:23+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 78767,
+      "content_hash": "259eb00ee3b419bc250b18a32ff7d92b0dcbb33a4142819bad806d89520584fa",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.263,
+      "error": null,
+      "final_url": "https://x.com/murasil_amniun/status/2027770460306387067",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:33:23+00:00",
+      "status": 200,
+      "url": "https://x.com/murasil_amniun/status/2027770460306387067",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "https://x.com/murasil_amniun",
+  "captions": [],
+  "content_hash": "1bbc52f53d3d6a8f9380166102f1c1a4762c4c516cf73f40edd4930fefffcb80",
+  "content_variants": [
+    {
+      "bytes": 506,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:33:23+00:00",
+      "sha256": "1bbc52f53d3d6a8f9380166102f1c1a4762c4c516cf73f40edd4930fefffcb80",
+      "source_url": "https://x.com/murasil_amniun/status/2027770460306387067",
+      "text": "Post\n\nPost\n\nمراسل الأمن الداخلي@murasil_amniunمصدر أمني الانفجار الذي حصل اليوم في مدينة السويداء ناجم عن انفجار مستودع ذخيرة وصواريخ لميليشيا ما يسمى بـ \"الحرس الوطني\"\n\nالانفجار خلّف 5 قتلى وعدداً من الجرحى وادعت الميليشيا أنه ناجم عن صاروخ إيراني\n\n🔻مراسل الأمن الداخلي3:38 PM · Feb 28, 20261.2KViews123"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/murasil_amniun/status/2027770460306387067",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://x.com/murasil_amniun/status/2027770460306387067",
+  "observed_original_urls": [
+    "https://x.com/murasil_amniun/status/2027770460306387067"
+  ],
+  "original_url": "https://x.com/murasil_amniun/status/2027770460306387067",
+  "page_title": "مراسل الأمن الداخلي on X: \"مصدر أمني الانفجار الذي حصل اليوم في مدينة السويداء ناجم عن انفجار مستودع ذخيرة وصواريخ لميليشيا ما يسمى بـ \"الحرس الوطني\"\n\nالانفجار خلّف 5 قتلى وعدداً من الجرحى وادعت الميليشيا أنه ناجم عن صاروخ إيراني\n\n🔻مراسل الأمن الداخلي\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "427002",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://x.com/murasil_amniun/status/2027770460306387067",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2026-02-28T15:38:46.000Z",
+  "publisher": "murasil_amniun",
+  "publisher_ar": "murasil_amniun",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:33:23+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-4f20b20d730ed1cca2a03d21",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/murasil_amniun/status/2027770460306387067",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nمراسل الأمن الداخلي@murasil_amniunمصدر أمني الانفجار الذي حصل اليوم في مدينة السويداء ناجم عن انفجار مستودع ذخيرة وصواريخ لميليشيا ما يسمى بـ \"الحرس الوطني\"\n\nالانفجار خلّف 5 قتلى وعدداً من الجرحى وادعت الميليشيا أنه ناجم عن صاروخ إيراني\n\n🔻مراسل الأمن الداخلي3:38 PM · Feb 28, 20261.2KViews123",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001831
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

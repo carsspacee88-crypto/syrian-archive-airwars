@@ -1,0 +1,149 @@
+{
+  "airwars_source_ids": [
+    "269063"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-karam442688-1918589644574195852-2025-05-03-085311/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.162,
+          "error": "http_404",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:32:44+00:00",
+          "status": 404
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 36796,
+      "content_hash": "e009c6319114c27900473b3b81e7d5bdcad78d10cdfa62623a406c9f47154e7e",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.162,
+      "error": "http_404",
+      "final_url": "https://x.com/karam442688/status/1918589644574195852",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:32:44+00:00",
+      "status": 404,
+      "url": "https://x.com/karam442688/status/1918589644574195852",
+      "waiting_seconds": 0.74
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.03,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:32:44+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1620,
+      "content_hash": "6575b400a0b9a5d926b3d845e31b4c9e51ccfc24fbcc710161056feec7cd9cac",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.03,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/x-com-karam442688-1918589644574195852-2025-05-03-085311/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:32:44+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/x-com-karam442688-1918589644574195852-2025-05-03-085311/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 5.229,
+          "error": "http_503",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:32:50+00:00",
+          "status": 503
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 107,
+      "content_hash": "839488ebc08446a096a893996ed23eac321ac166724cd8c5d9092057834d2d79",
+      "content_type": "text/html",
+      "elapsed_seconds": 5.229,
+      "error": "http_503",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fx.com%2Fkaram442688%2Fstatus%2F1918589644574195852&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:32:50+00:00",
+      "status": 503,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fx.com%2Fkaram442688%2Fstatus%2F1918589644574195852&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "karam442688",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_404",
+  "final_redirected_url": "https://x.com/karam442688/status/1918589644574195852",
+  "incident_ids": [
+    "airwars-276112"
+  ],
+  "incident_sequences": [
+    74
+  ],
+  "normalized_url": "https://x.com/karam442688/status/1918589644574195852",
+  "observed_original_urls": [
+    "https://x.com/karam442688/status/1918589644574195852"
+  ],
+  "original_url": "https://x.com/karam442688/status/1918589644574195852",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy078-may-2-2025/",
+      "airwars_source_id": "269063",
+      "incident_id": "airwars-276112",
+      "incident_sequence": 74,
+      "observed_original_url": "https://x.com/karam442688/status/1918589644574195852",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "3 مايو 2025",
+  "publisher": "karam442688",
+  "publisher_ar": "karam442688",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:32:44+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-4c50178252d8e7bfe873df35",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/karam442688/status/1918589644574195852",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

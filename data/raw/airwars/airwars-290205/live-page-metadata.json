@@ -1,0 +1,26 @@
+{
+  "attempt_history": [
+    {
+      "attempt": 1,
+      "elapsed_seconds": 0.026,
+      "error": "http_403",
+      "result": "http_error",
+      "retrieved_at": "2026-07-31T18:16:16+00:00",
+      "status": 403
+    }
+  ],
+  "attempts": 1,
+  "body_decoded_from": null,
+  "bytes": 1505,
+  "content_hash": "ea24c64aa843ad868b4385cc9f0a471249b429f4062a84a0a5a0d02e259c2eba",
+  "content_type": "text/html; charset=utf-8",
+  "elapsed_seconds": 0.026,
+  "error": "http_403",
+  "final_url": "https://airwars.org/civilian-casualties/ts795-march-10-2025/",
+  "ok": false,
+  "response_content_encoding": "",
+  "retrieved_at": "2026-07-31T18:16:16+00:00",
+  "status": 403,
+  "url": "https://airwars.org/civilian-casualties/ts795-march-10-2025/",
+  "waiting_seconds": 0.749
+}

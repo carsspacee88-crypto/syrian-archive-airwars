@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "272655"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-mervatbarbour-1945429003310948433-2025-07-16-102313-2/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.285,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:57:29+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 82049,
+      "content_hash": "48f2d806585250e23e463f9308e2d3d215955f6a2cc29da381561aceec04f428",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.285,
+      "error": null,
+      "final_url": "https://x.com/MervatBarbour/status/1945429003310948433",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:57:29+00:00",
+      "status": 200,
+      "url": "https://x.com/MervatBarbour/status/1945429003310948433",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "https://x.com/MervatBarbour",
+  "captions": [],
+  "content_hash": "7643aa34940107ba46dd56e6eeac0c1d82cbde8b7b3d56d9bdbfb66e821851fd",
+  "content_variants": [
+    {
+      "bytes": 217,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:57:29+00:00",
+      "sha256": "7643aa34940107ba46dd56e6eeac0c1d82cbde8b7b3d56d9bdbfb66e821851fd",
+      "source_url": "https://x.com/MervatBarbour/status/1945429003310948433",
+      "text": "Post\n\nPost\n\nمرڤت 🇸🇦🇸🇾@MervatBarbour#عاجـــــــــــــــل\n\nالاحتلال الصهيوني يستهدف رتل عسكري غربي المجيمر.00:0010:23 AM · Jul 16, 202553Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/MervatBarbour/status/1945429003310948433",
+  "incident_ids": [
+    "airwars-276124"
+  ],
+  "incident_sequences": [
+    51
+  ],
+  "normalized_url": "https://x.com/MervatBarbour/status/1945429003310948433",
+  "observed_original_urls": [
+    "https://x.com/MervatBarbour/status/1945429003310948433"
+  ],
+  "original_url": "https://x.com/MervatBarbour/status/1945429003310948433",
+  "page_title": "مرڤت 🇸🇦🇸🇾 on X: \"#عاجـــــــــــــــل\n\nالاحتلال الصهيوني يستهدف رتل عسكري غربي المجيمر. https://t.co/1uiZBD3NwB\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy084-july-16-2025/",
+      "airwars_source_id": "272655",
+      "incident_id": "airwars-276124",
+      "incident_sequence": 51,
+      "observed_original_url": "https://x.com/MervatBarbour/status/1945429003310948433",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-07-16T10:23:13.000Z",
+  "publisher": "MervatBarbour",
+  "publisher_ar": "MervatBarbour",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:57:29+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-db8b5df444e14edd752a1d1b",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/MervatBarbour/status/1945429003310948433",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nمرڤت 🇸🇦🇸🇾@MervatBarbour#عاجـــــــــــــــل\n\nالاحتلال الصهيوني يستهدف رتل عسكري غربي المجيمر.00:0010:23 AM · Jul 16, 202553Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001865
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "366768"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-syriatvnews-2002629519212163338-2025-12-21-063739/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.286,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:58:43+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 82749,
+      "content_hash": "e7fb59493ebdbc2e7eb5fd11bf6a7186f3c6d4a88f36e593561257fa34857777",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.286,
+      "error": null,
+      "final_url": "https://x.com/Syriatvnews/status/2002629519212163338",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:58:43+00:00",
+      "status": 200,
+      "url": "https://x.com/Syriatvnews/status/2002629519212163338",
+      "waiting_seconds": 0.731
+    }
+  ],
+  "author": "https://x.com/Syriatvnews",
+  "captions": [],
+  "content_hash": "ae241e8cc14c3eb484d14620389650fd06779148a3c849bf6f3a676a88a14469",
+  "content_variants": [
+    {
+      "bytes": 255,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:58:43+00:00",
+      "sha256": "ae241e8cc14c3eb484d14620389650fd06779148a3c849bf6f3a676a88a14469",
+      "source_url": "https://x.com/Syriatvnews/status/2002629519212163338",
+      "text": "Post\n\nPost\n\nأخبار سوريا - SyriaNews@Syriatvnews#عاجل | مراسل تلفزيون سوريا: مقتل ثلاثة أشخاص في بلدة ذيبان بريف دير الزور خلال مداهمات لقسد6:37 AM · Dec 21, 2025690Views14"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Syriatvnews/status/2002629519212163338",
+  "incident_ids": [
+    "airwars-367983"
+  ],
+  "incident_sequences": [
+    15
+  ],
+  "normalized_url": "https://x.com/Syriatvnews/status/2002629519212163338",
+  "observed_original_urls": [
+    "https://x.com/Syriatvnews/status/2002629519212163338"
+  ],
+  "original_url": "https://x.com/Syriatvnews/status/2002629519212163338",
+  "page_title": "أخبار سوريا - SyriaNews on X: \"#عاجل | مراسل تلفزيون سوريا: مقتل ثلاثة أشخاص في بلدة ذيبان بريف دير الزور خلال مداهمات لقسد https://t.co/3i2kShLDcn\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2020-december-21-2025/",
+      "airwars_source_id": "366768",
+      "incident_id": "airwars-367983",
+      "incident_sequence": 15,
+      "observed_original_url": "https://x.com/Syriatvnews/status/2002629519212163338",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-21T06:37:39.000Z",
+  "publisher": "Syriatvnews",
+  "publisher_ar": "Syriatvnews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:58:43+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-e49dd269bf3f215f4d38071b",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Syriatvnews/status/2002629519212163338",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nأخبار سوريا - SyriaNews@Syriatvnews#عاجل | مراسل تلفزيون سوريا: مقتل ثلاثة أشخاص في بلدة ذيبان بريف دير الزور خلال مداهمات لقسد6:37 AM · Dec 21, 2025690Views14",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001597
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

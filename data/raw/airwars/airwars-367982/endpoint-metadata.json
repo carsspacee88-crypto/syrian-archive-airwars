@@ -1,0 +1,26 @@
+{
+  "attempt_history": [
+    {
+      "attempt": 1,
+      "elapsed_seconds": 0.026,
+      "error": "http_403",
+      "result": "http_error",
+      "retrieved_at": "2026-07-31T18:01:42+00:00",
+      "status": 403
+    }
+  ],
+  "attempts": 1,
+  "body_decoded_from": null,
+  "bytes": 1895,
+  "content_hash": "90ec4490d64085ff5c5d9d23159028419b85f551f5d6b8ca23824645352d1b97",
+  "content_type": "text/html; charset=utf-8",
+  "elapsed_seconds": 0.026,
+  "error": "http_403",
+  "final_url": "https://airwars.org/wp-json/wp/v2/civ?include=367982&_fields=id%2Cslug%2Clink%2Cdate%2Cmodified%2Cstatus%2Ctitle%2Ccontent%2Cexcerpt%2Cacf",
+  "ok": false,
+  "response_content_encoding": "",
+  "retrieved_at": "2026-07-31T18:01:42+00:00",
+  "status": 403,
+  "url": "https://airwars.org/wp-json/wp/v2/civ?include=367982&_fields=id%2Cslug%2Clink%2Cdate%2Cmodified%2Cstatus%2Ctitle%2Ccontent%2Cexcerpt%2Cacf",
+  "waiting_seconds": 0.742
+}

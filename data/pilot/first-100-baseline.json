@@ -1,0 +1,28 @@
+{
+  "recorded_at_utc": "2026-07-31T16:27:34Z",
+  "starting_commit": "1bc71c320f168f1f2576938988bd44f3ed5585d2",
+  "branch": "pilot/first-100-complete-content",
+  "clean_clone": true,
+  "sizes_bytes": {
+    "working_tree_excluding_git": 83095571,
+    "git_directory": 80689820,
+    "git_pack_objects": 80635842,
+    "data": 1068742,
+    "data/incidents": 460304,
+    "data/sources": 0,
+    "data/media": 0,
+    "data/relationships": 0,
+    "data/reports": 562234,
+    "site_package_parts": 81855805,
+    "generated_site_uncompressed": 489379958,
+    "generated_site_compressed": 81855462
+  },
+  "generated_site_file_count": 16326,
+  "historical_case_count": 8114,
+  "measurement_notes": {
+    "working_tree_excluding_git": "Exact sum of regular file bytes excluding .git in the fresh clone.",
+    "git_directory": "Exact sum of regular file bytes under .git in the fresh clone.",
+    "generated_site_uncompressed": "Exact sum of regular file bytes after reassembling and extracting the verified historical site package.",
+    "generated_site_compressed": "Exact byte size of the reassembled historical site ZIP; SHA-256 verified."
+  }
+}

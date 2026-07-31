@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "272581"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%aa%d8%ad%d8%b1%d9%8a%d8%b1-%d9%82%d8%af%d8%a7%d8%ad-pfbid02gj7hnkuru28qxvzupd44rumxgrpc38vb5u9ph1rpbysjimtdnrfoynvkubtgex26l-2025-07-16-090000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.991,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:48:14+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 853517,
+      "content_hash": "1eb0ddadab1ec0909f410623903aa4fea87ba6a1321681ebefe5036eecb0f392",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.991,
+      "error": null,
+      "final_url": "https://www.facebook.com/talqadah/posts/pfbid02Gj7HNkUrU28QXVZUpd44rumxgRpC38vb5U9Ph1rPBySJimTdnrFoynvKUBTgeX26l",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:48:14+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/talqadah/posts/pfbid02Gj7HNkUrU28QXVZUpd44rumxgRpC38vb5U9Ph1rPBySJimTdnrFoynvKUBTgeX26l",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "تحرير قداح",
+  "captions": [],
+  "content_hash": "4bff11169b677f6d0bde3403bbef3967d2ba92cc6ec7a74727ca3c8bfbe23865",
+  "content_variants": [
+    {
+      "bytes": 1059,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:48:14+00:00",
+      "sha256": "4bff11169b677f6d0bde3403bbef3967d2ba92cc6ec7a74727ca3c8bfbe23865",
+      "source_url": "https://www.facebook.com/talqadah/posts/pfbid02Gj7HNkUrU28QXVZUpd44rumxgRpC38vb5U9Ph1rPBySJimTdnrFoynvKUBTgeX26l",
+      "text": "الحراك أولاً - شيّعت محافظة درعا، اليوم، جثمان الشهيد خالد...\nFacebook‎الحراك أولاً‎'s Post\n\nالحراك أولاً Verified accountJuly 16, 2025 · Shared with Publicشيّعت محافظة درعا، اليوم، جثمان الشهيد خالد الزعبي، مدير منطقة بصرى الشام، بمشاركة محافظ درعا وقيادات أمنية وشعبية.All reactions:599 commentsLikeCommentMost relevant﻿Shaker Alkadreرحمه الله1yإبراهيم القداحرحم الله شهداء سورية1yالقيصر الحورانيالله يرحمو ويجعل مؤواه الجنة1yابواياد لحرحسبنا الله ونعم الوكيل1yابواياد لحرالله يرحمهم ويصبر اهلهم1yمحمد مفعلانيالله يرحمهم1yفخري أبو حصينيحسبنا الله ونعم الوكيل1yAbo Rashedالله يرحمو ويتقبلو من شهداءيارب1yفندي الرفاعيحسبنا الله ونعم الوكيل1y"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/talqadah/posts/pfbid02Gj7HNkUrU28QXVZUpd44rumxgRpC38vb5U9Ph1rPBySJimTdnrFoynvKUBTgeX26l",
+  "incident_ids": [
+    "airwars-276124"
+  ],
+  "incident_sequences": [
+    51
+  ],
+  "normalized_url": "https://www.facebook.com/talqadah/posts/pfbid02Gj7HNkUrU28QXVZUpd44rumxgRpC38vb5U9Ph1rPBySJimTdnrFoynvKUBTgeX26l",
+  "observed_original_urls": [
+    "https://www.facebook.com/talqadah/posts/pfbid02Gj7HNkUrU28QXVZUpd44rumxgRpC38vb5U9Ph1rPBySJimTdnrFoynvKUBTgeX26l"
+  ],
+  "original_url": "https://www.facebook.com/talqadah/posts/pfbid02Gj7HNkUrU28QXVZUpd44rumxgRpC38vb5U9Ph1rPBySJimTdnrFoynvKUBTgeX26l",
+  "page_title": "الحراك أولاً - شيّعت محافظة درعا، اليوم، جثمان الشهيد خالد... Facebook Verified account Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy084-july-16-2025/",
+      "airwars_source_id": "272581",
+      "incident_id": "airwars-276124",
+      "incident_sequence": 51,
+      "observed_original_url": "https://www.facebook.com/talqadah/posts/pfbid02Gj7HNkUrU28QXVZUpd44rumxgRpC38vb5U9Ph1rPBySJimTdnrFoynvKUBTgeX26l",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "16 يوليو 2025",
+  "publisher": "Editing Qaddah",
+  "publisher_ar": "تحرير قداح",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:48:14+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a1e69d19bc2e80a42a31e2d3",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/talqadah/posts/pfbid02Gj7HNkUrU28QXVZUpd44rumxgRpC38vb5U9Ph1rPBySJimTdnrFoynvKUBTgeX26l",
+  "text_ar": "",
+  "text_original": "الحراك أولاً - شيّعت محافظة درعا، اليوم، جثمان الشهيد خالد...\nFacebook‎الحراك أولاً‎'s Post\n\nالحراك أولاً Verified accountJuly 16, 2025 · Shared with Publicشيّعت محافظة درعا، اليوم، جثمان الشهيد خالد الزعبي، مدير منطقة بصرى الشام، بمشاركة محافظ درعا وقيادات أمنية وشعبية.All reactions:599 commentsLikeCommentMost relevant﻿Shaker Alkadreرحمه الله1yإبراهيم القداحرحم الله شهداء سورية1yالقيصر الحورانيالله يرحمو ويجعل مؤواه الجنة1yابواياد لحرحسبنا الله ونعم الوكيل1yابواياد لحرالله يرحمهم ويصبر اهلهم1yمحمد مفعلانيالله يرحمهم1yفخري أبو حصينيحسبنا الله ونعم الوكيل1yAbo Rashedالله يرحمو ويتقبلو من شهداءيارب1yفندي الرفاعيحسبنا الله ونعم الوكيل1y",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.008118
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

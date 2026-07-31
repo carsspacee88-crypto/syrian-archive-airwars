@@ -1,0 +1,149 @@
+{
+  "airwars_source_ids": [
+    "187495"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/baladi-news-com-%d8%b4%d8%a8%d9%83%d8%a9-%d8%a8%d9%84%d8%af%d9%8a-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a%d8%a9-2025-06-10-082408/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 30-33: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:51:09+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 30-33: ordinal not in range(128)",
+      "final_url": "https://baladi-news.com/public/ar/articles/94110/قتيل-وأربعة-جرحى-بهجوم-جديد-لطائرة-مسيّرة-شمال-إدلب",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:51:09+00:00",
+      "status": null,
+      "url": "https://baladi-news.com/public/ar/articles/94110/قتيل-وأربعة-جرحى-بهجوم-جديد-لطائرة-مسيّرة-شمال-إدلب",
+      "waiting_seconds": 0.738
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.029,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:51:10+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 2035,
+      "content_hash": "48e42d7a0bfb23b6ff18be6c40f382ced4efae83d25871d2652248106c2ed6a1",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.029,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/baladi-news-com-%d8%b4%d8%a8%d9%83%d8%a9-%d8%a8%d9%84%d8%af%d9%8a-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a%d8%a9-2025-06-10-082408/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:51:10+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/baladi-news-com-%d8%b4%d8%a8%d9%83%d8%a9-%d8%a8%d9%84%d8%af%d9%8a-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a%d8%a9-2025-06-10-082408/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.227,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:51:21+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.227,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fbaladi-news.com%2Fpublic%2Far%2Farticles%2F94110%2F%D9%82%D8%AA%D9%8A%D9%84-%D9%88%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9-%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%87%D8%AC%D9%88%D9%85-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A9-%D8%B4%D9%85%D8%A7%D9%84-%D8%A5%D8%AF%D9%84%D8%A8&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:51:21+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fbaladi-news.com%2Fpublic%2Far%2Farticles%2F94110%2F%D9%82%D8%AA%D9%8A%D9%84-%D9%88%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9-%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%87%D8%AC%D9%88%D9%85-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A9-%D8%B4%D9%85%D8%A7%D9%84-%D8%A5%D8%AF%D9%84%D8%A8&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "شبكة بلدي الإعلامية",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 30-33: ordinal not in range(128)",
+  "final_redirected_url": "https://baladi-news.com/public/ar/articles/94110/قتيل-وأربعة-جرحى-بهجوم-جديد-لطائرة-مسيّرة-شمال-إدلب",
+  "incident_ids": [
+    "airwars-190695"
+  ],
+  "incident_sequences": [
+    66
+  ],
+  "normalized_url": "https://baladi-news.com/public/ar/articles/94110/قتيل-وأربعة-جرحى-بهجوم-جديد-لطائرة-مسيّرة-شمال-إدلب",
+  "observed_original_urls": [
+    "https://baladi-news.com/public/ar/articles/94110/قتيل-وأربعة-جرحى-بهجوم-جديد-لطائرة-مسيّرة-شمال-إدلب"
+  ],
+  "original_url": "https://baladi-news.com/public/ar/articles/94110/قتيل-وأربعة-جرحى-بهجوم-جديد-لطائرة-مسيّرة-شمال-إدلب",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2009-june-10-2025/",
+      "airwars_source_id": "187495",
+      "incident_id": "airwars-190695",
+      "incident_sequence": 66,
+      "observed_original_url": "https://baladi-news.com/public/ar/articles/94110/قتيل-وأربعة-جرحى-بهجوم-جديد-لطائرة-مسيّرة-شمال-إدلب",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "10 يونيو 2025",
+  "publisher": "My Media Network",
+  "publisher_ar": "شبكة بلدي الإعلامية",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:51:09+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-b25f84411254998cae5b080f",
+  "source_type": "news_article",
+  "stable_id_basis": "https://baladi-news.com/public/ar/articles/94110/قتيل-وأربعة-جرحى-بهجوم-جديد-لطائرة-مسيّرة-شمال-إدلب",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

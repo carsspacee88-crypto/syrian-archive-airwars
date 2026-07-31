@@ -1,0 +1,149 @@
+{
+  "airwars_source_ids": [
+    "223402"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-hatzaitzan-1934628392051106040-2025-06-16-145258/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.052,
+          "error": "http_400",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T19:02:46+00:00",
+          "status": 400
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.052,
+      "error": "http_400",
+      "final_url": "https://x.com/Hatzaitzan/status/1934628392051106040?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1934628392051106040|twgr^a644b50a2a48ab5f1baf842ee06c57b3b3f997ed|twcon^s1_&ref_url=https://www.timesofisrael.com/three-people-killed-in-overnight-missile-strike-on-haifa-were-at-bazan-oil-refinery/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:02:46+00:00",
+      "status": 400,
+      "url": "https://x.com/Hatzaitzan/status/1934628392051106040?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1934628392051106040|twgr^a644b50a2a48ab5f1baf842ee06c57b3b3f997ed|twcon^s1_&ref_url=https://www.timesofisrael.com/three-people-killed-in-overnight-missile-strike-on-haifa-were-at-bazan-oil-refinery/",
+      "waiting_seconds": 0.739
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.033,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T19:02:47+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1615,
+      "content_hash": "ca9956da9205f2a5005ec357dc37ea626969d776772e4ba5a8bfc75a24eb16bd",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.033,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/x-com-hatzaitzan-1934628392051106040-2025-06-16-145258/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:02:47+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/x-com-hatzaitzan-1934628392051106040-2025-06-16-145258/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.016,
+          "error": "URLError: <urlopen error timed out>",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T19:02:58+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.016,
+      "error": "URLError: <urlopen error timed out>",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fx.com%2FHatzaitzan%2Fstatus%2F1934628392051106040%3Fref_src%3Dtwsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1934628392051106040%7Ctwgr%5Ea644b50a2a48ab5f1baf842ee06c57b3b3f997ed%7Ctwcon%5Es1_%26ref_url%3Dhttps%3A%2F%2Fwww.timesofisrael.com%2Fthree-people-killed-in-overnight-missile-strike-on-haifa-were-at-bazan-oil-refinery%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:02:58+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fx.com%2FHatzaitzan%2Fstatus%2F1934628392051106040%3Fref_src%3Dtwsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1934628392051106040%7Ctwgr%5Ea644b50a2a48ab5f1baf842ee06c57b3b3f997ed%7Ctwcon%5Es1_%26ref_url%3Dhttps%3A%2F%2Fwww.timesofisrael.com%2Fthree-people-killed-in-overnight-missile-strike-on-haifa-were-at-bazan-oil-refinery%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "Hatzaitzan",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_400",
+  "final_redirected_url": "https://x.com/Hatzaitzan/status/1934628392051106040?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1934628392051106040|twgr^a644b50a2a48ab5f1baf842ee06c57b3b3f997ed|twcon^s1_&ref_url=https://www.timesofisrael.com/three-people-killed-in-overnight-missile-strike-on-haifa-were-at-bazan-oil-refinery/",
+  "incident_ids": [
+    "airwars-229045"
+  ],
+  "incident_sequences": [
+    55
+  ],
+  "normalized_url": "https://x.com/Hatzaitzan/status/1934628392051106040?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1934628392051106040|twgr^a644b50a2a48ab5f1baf842ee06c57b3b3f997ed|twcon^s1_&ref_url=https://www.timesofisrael.com/three-people-killed-in-overnight-missile-strike-on-haifa-were-at-bazan-oil-refinery/",
+  "observed_original_urls": [
+    "https://x.com/Hatzaitzan/status/1934628392051106040?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1934628392051106040|twgr^a644b50a2a48ab5f1baf842ee06c57b3b3f997ed|twcon^s1_&ref_url=https://www.timesofisrael.com/three-people-killed-in-overnight-missile-strike-on-haifa-were-at-bazan-oil-refinery/"
+  ],
+  "original_url": "https://x.com/Hatzaitzan/status/1934628392051106040?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1934628392051106040|twgr^a644b50a2a48ab5f1baf842ee06c57b3b3f997ed|twcon^s1_&ref_url=https://www.timesofisrael.com/three-people-killed-in-overnight-missile-strike-on-haifa-were-at-bazan-oil-refinery/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/iris250616b-june-26-2025/",
+      "airwars_source_id": "223402",
+      "incident_id": "airwars-229045",
+      "incident_sequence": 55,
+      "observed_original_url": "https://x.com/Hatzaitzan/status/1934628392051106040?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1934628392051106040|twgr^a644b50a2a48ab5f1baf842ee06c57b3b3f997ed|twcon^s1_&ref_url=https://www.timesofisrael.com/three-people-killed-in-overnight-missile-strike-on-haifa-were-at-bazan-oil-refinery/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "16 يونيو 2025",
+  "publisher": "Hatzaitzan",
+  "publisher_ar": "Hatzaitzan",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T19:02:46+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-fa0cbe72425893701f292a7d",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Hatzaitzan/status/1934628392051106040?ref_src=twsrc^tfw|twcamp^tweetembed|twterm^1934628392051106040|twgr^a644b50a2a48ab5f1baf842ee06c57b3b3f997ed|twcon^s1_&ref_url=https://www.timesofisrael.com/three-people-killed-in-overnight-missile-strike-on-haifa-were-at-bazan-oil-refinery/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "und",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

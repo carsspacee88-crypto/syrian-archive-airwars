@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "298919"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-abomosaabsharke-1917540805985661052-2025-04-30-112528/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.284,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:46:55+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 80118,
+      "content_hash": "5df47e777c0ff1edc18366ee33ff533b291f580698b91e496e87049b7f6cf92d",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.284,
+      "error": null,
+      "final_url": "https://x.com/AbomosaabSharke/status/1917540805985661052",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:46:55+00:00",
+      "status": 200,
+      "url": "https://x.com/AbomosaabSharke/status/1917540805985661052",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "https://x.com/AbomosaabSharke",
+  "captions": [],
+  "content_hash": "657d75e4ae7c00d91cc4e0a79cbdf807c7d777660f3474f36bed00102daf1ac7",
+  "content_variants": [
+    {
+      "bytes": 488,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:46:55+00:00",
+      "sha256": "657d75e4ae7c00d91cc4e0a79cbdf807c7d777660f3474f36bed00102daf1ac7",
+      "source_url": "https://x.com/AbomosaabSharke/status/1917540805985661052",
+      "text": "Post\n\nPost\n\nمراسل الشرقية الرسمي@AbomosaabSharke#ديرالزور\nميليشيات قسد تعتقل إمام و خطيب مسـجد قرية العزبة عاني محيسن الدرويش \" أبو عنود \" و إبنه يبلغ من العمر 10 سنوات و شقيقه أحمد محيسن الدرويش و هم من أبناء بلدة خشام بريف #ديرالزور الشرقي .\n#مراسل_الشرقية_الرسمي ✅11:25 AM · Apr 30, 2025267Views3"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AbomosaabSharke/status/1917540805985661052",
+  "incident_ids": [
+    "airwars-381553"
+  ],
+  "incident_sequences": [
+    76
+  ],
+  "normalized_url": "https://x.com/AbomosaabSharke/status/1917540805985661052",
+  "observed_original_urls": [
+    "https://x.com/AbomosaabSharke/status/1917540805985661052"
+  ],
+  "original_url": "https://x.com/AbomosaabSharke/status/1917540805985661052",
+  "page_title": "مراسل الشرقية الرسمي on X: \"#ديرالزور\nميليشيات قسد تعتقل إمام و خطيب مسـجد قرية العزبة عاني محيسن الدرويش \" أبو عنود \" و إبنه يبلغ من العمر 10 سنوات و شقيقه أحمد محيسن الدرويش و هم من أبناء بلدة خشام بريف #ديرالزور الشرقي .\n#مراسل_الشرقية_الرسمي ✅\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0139-april-30-2025/",
+      "airwars_source_id": "298919",
+      "incident_id": "airwars-381553",
+      "incident_sequence": 76,
+      "observed_original_url": "https://x.com/AbomosaabSharke/status/1917540805985661052",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-04-30T11:25:28.000Z",
+  "publisher": "AbomosaabSharke",
+  "publisher_ar": "AbomosaabSharke",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:46:55+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-9bef80a3fc5162248c4d10ad",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AbomosaabSharke/status/1917540805985661052",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nمراسل الشرقية الرسمي@AbomosaabSharke#ديرالزور\nميليشيات قسد تعتقل إمام و خطيب مسـجد قرية العزبة عاني محيسن الدرويش \" أبو عنود \" و إبنه يبلغ من العمر 10 سنوات و شقيقه أحمد محيسن الدرويش و هم من أبناء بلدة خشام بريف #ديرالزور الشرقي .\n#مراسل_الشرقية_الرسمي ✅11:25 AM · Apr 30, 2025267Views3",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001565
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

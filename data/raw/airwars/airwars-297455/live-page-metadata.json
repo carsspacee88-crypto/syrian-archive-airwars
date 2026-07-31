@@ -1,0 +1,26 @@
+{
+  "attempt_history": [
+    {
+      "attempt": 1,
+      "elapsed_seconds": 0.028,
+      "error": "http_403",
+      "result": "http_error",
+      "retrieved_at": "2026-07-31T18:04:08+00:00",
+      "status": 403
+    }
+  ],
+  "attempts": 1,
+  "body_decoded_from": null,
+  "bytes": 1520,
+  "content_hash": "46789accccf8cd3efe0f96aace8a278dce0dad472c6ca1ea1b5188bbca1bcb50",
+  "content_type": "text/html; charset=utf-8",
+  "elapsed_seconds": 0.028,
+  "error": "http_403",
+  "final_url": "https://airwars.org/civilian-casualties/cs2015-october-23-2025/",
+  "ok": false,
+  "response_content_encoding": "",
+  "retrieved_at": "2026-07-31T18:04:08+00:00",
+  "status": 403,
+  "url": "https://airwars.org/civilian-casualties/cs2015-october-23-2025/",
+  "waiting_seconds": 0.749
+}

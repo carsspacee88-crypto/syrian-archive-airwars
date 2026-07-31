@@ -1,0 +1,149 @@
+{
+  "airwars_source_ids": [
+    "273682"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-lananewsroom-1960779446715084865-2025-08-27-190024/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.187,
+          "error": "http_404",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:38:30+00:00",
+          "status": 404
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 36801,
+      "content_hash": "a1f9d219bd6928124d60323f850f465955ed19baeb488c939c86a46c21063a69",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.187,
+      "error": "http_404",
+      "final_url": "https://x.com/LanaNewsRoom/status/1960779446715084865",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:38:30+00:00",
+      "status": 404,
+      "url": "https://x.com/LanaNewsRoom/status/1960779446715084865",
+      "waiting_seconds": 0.742
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.028,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:38:31+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1625,
+      "content_hash": "993faa416caf58aa9f6e0c0b180e5356dcf868bee4068a6d696f443418423d4c",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.028,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/x-com-lananewsroom-1960779446715084865-2025-08-27-190024/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:38:31+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/x-com-lananewsroom-1960779446715084865-2025-08-27-190024/",
+      "waiting_seconds": 0.749
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.305,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:38:33+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 3,
+      "content_hash": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "content_type": "application/json",
+      "elapsed_seconds": 1.305,
+      "error": null,
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fx.com%2FLanaNewsRoom%2Fstatus%2F1960779446715084865&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "lookup_result": "no_capture",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:38:33+00:00",
+      "status": 200,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fx.com%2FLanaNewsRoom%2Fstatus%2F1960779446715084865&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "LanaNewsRoom",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_404",
+  "final_redirected_url": "https://x.com/LanaNewsRoom/status/1960779446715084865",
+  "incident_ids": [
+    "airwars-276126"
+  ],
+  "incident_sequences": [
+    44
+  ],
+  "normalized_url": "https://x.com/LanaNewsRoom/status/1960779446715084865",
+  "observed_original_urls": [
+    "https://x.com/LanaNewsRoom/status/1960779446715084865"
+  ],
+  "original_url": "https://x.com/LanaNewsRoom/status/1960779446715084865",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy085-august-26-2025/",
+      "airwars_source_id": "273682",
+      "incident_id": "airwars-276126",
+      "incident_sequence": 44,
+      "observed_original_url": "https://x.com/LanaNewsRoom/status/1960779446715084865",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "27 أغسطس 2025",
+  "publisher": "LanaNewsRoom",
+  "publisher_ar": "LanaNewsRoom",
+  "retrieval_status": "no_archive_capture",
+  "retrieved_at": "2026-07-31T18:38:30+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-6fcfb2eba01f54f7d79251aa",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/LanaNewsRoom/status/1960779446715084865",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

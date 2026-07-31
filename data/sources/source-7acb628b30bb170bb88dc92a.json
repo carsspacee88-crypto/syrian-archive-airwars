@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "382807"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-syrnetworknews-1972249271681654979-2025-09-28-103723/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.251,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:41:00+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 84341,
+      "content_hash": "64f209abe6219ab08b6193da0c43652d5dfd8fbd9945ae200d952f7473fc81eb",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.251,
+      "error": null,
+      "final_url": "https://x.com/SyrNetworkNews/status/1972249271681654979",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:41:00+00:00",
+      "status": 200,
+      "url": "https://x.com/SyrNetworkNews/status/1972249271681654979",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "https://x.com/SyrNetworkNews",
+  "captions": [],
+  "content_hash": "8536f0efb6b700bd001af654e3fa8ff91db602b1349e494efb64b097ebaa6094",
+  "content_variants": [
+    {
+      "bytes": 241,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:41:00+00:00",
+      "sha256": "8536f0efb6b700bd001af654e3fa8ff91db602b1349e494efb64b097ebaa6094",
+      "source_url": "https://x.com/SyrNetworkNews/status/1972249271681654979",
+      "text": "Post\n\nPost\n\nشبكة أخبار سوريا@SyrNetworkNews#إدلب\n#عــاجــل\n\nطيران التحالف يستهدف منزل بمحيط بلدة التمانعة بريف #ادلب_الجنوبي10:37 AM · Sep 28, 20256.2KViews1152"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyrNetworkNews/status/1972249271681654979",
+  "incident_ids": [
+    "airwars-386624"
+  ],
+  "incident_sequences": [
+    40
+  ],
+  "normalized_url": "https://x.com/SyrNetworkNews/status/1972249271681654979",
+  "observed_original_urls": [
+    "https://x.com/SyrNetworkNews/status/1972249271681654979"
+  ],
+  "original_url": "https://x.com/SyrNetworkNews/status/1972249271681654979",
+  "page_title": "شبكة أخبار سوريا on X: \"#إدلب\n#عــاجــل\n\nطيران التحالف يستهدف منزل بمحيط بلدة التمانعة بريف #ادلب_الجنوبي https://t.co/a0SU46zL87\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0156b-september-28-2025/",
+      "airwars_source_id": "382807",
+      "incident_id": "airwars-386624",
+      "incident_sequence": 40,
+      "observed_original_url": "https://x.com/SyrNetworkNews/status/1972249271681654979",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-09-28T10:37:23.000Z",
+  "publisher": "SyrNetworkNews",
+  "publisher_ar": "SyrNetworkNews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:41:00+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-7acb628b30bb170bb88dc92a",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyrNetworkNews/status/1972249271681654979",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nشبكة أخبار سوريا@SyrNetworkNews#إدلب\n#عــاجــل\n\nطيران التحالف يستهدف منزل بمحيط بلدة التمانعة بريف #ادلب_الجنوبي10:37 AM · Sep 28, 20256.2KViews1152",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001553
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

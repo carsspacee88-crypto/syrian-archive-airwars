@@ -44,6 +44,12 @@
     "retrieved_at": {"type": ["string", "null"]},
     "source_last_modified": {"type": ["string", "null"]},
     "content_hash": {"type": ["string", "null"]}
+    ,"pilot": {"type": "object"}
+    ,"narrative_original": {"type": "string"}
+    ,"narrative_original_language": {"type": "string"}
+    ,"narrative_ar": {"type": "string"}
+    ,"translation": {"type": "object"}
+    ,"media_placeholder_ids": {"type": "array", "items": {"type": "string"}}
   },
   "additionalProperties": true
 }

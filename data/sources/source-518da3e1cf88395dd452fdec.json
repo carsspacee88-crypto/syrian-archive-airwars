@@ -1,0 +1,108 @@
+{
+  "airwars_source_ids": [
+    "296645"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%b9%d8%a7%d8%ac%d9%84-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86-pfbid0gk6q8nuz7z2vgbma6qt6x8a13cr6jg5ccqmpgamqgtpmvstrawkogqphb9zhsetyl-2025-10-19-123300/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.394,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:33:41+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 353643,
+      "content_hash": "26b800c35597ed2993b68d5f4151809838b67eb0747ad78c5ca6e9e27528f015",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.394,
+      "error": null,
+      "final_url": "https://www.facebook.com/ajlalbyan.2025/posts/pfbid0gK6Q8nuz7z2vgbmA6qt6X8A13cr6JG5ccQmPGamQGTPmVSTrAwkogQPhb9zHSEtyl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:33:41+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/ajlalbyan.2025/posts/pfbid0gK6Q8nuz7z2vgbmA6qt6X8A13cr6JG5ccQmPGamQGTPmVSTrAwkogQPhb9zHSEtyl",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "عاجل البيان",
+  "captions": [],
+  "content_hash": "f9781cd9de5383899bd6ed7026b86d1382eacba2a604dad1c917576791a3f3bb",
+  "content_variants": [
+    {
+      "bytes": 167,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:33:41+00:00",
+      "sha256": "f9781cd9de5383899bd6ed7026b86d1382eacba2a604dad1c917576791a3f3bb",
+      "source_url": "https://www.facebook.com/ajlalbyan.2025/posts/pfbid0gK6Q8nuz7z2vgbmA6qt6X8A13cr6JG5ccQmPGamQGTPmVSTrAwkogQPhb9zHSEtyl",
+      "text": "This page isn't available right nowThis may be because of a technical error that we're working to get fixed. Try reloading this page.Go to FeedGo backVisit Help Center"
+    }
+  ],
+  "descriptions": [],
+  "exact_content_duplicate_group": "exact-content-f9781cd9de5383899bd6ed70",
+  "exact_content_duplicate_of": "source-0e9424da077b3f075a1e3f73",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/ajlalbyan.2025/posts/pfbid0gK6Q8nuz7z2vgbmA6qt6X8A13cr6JG5ccQmPGamQGTPmVSTrAwkogQPhb9zHSEtyl",
+  "incident_ids": [
+    "airwars-297454"
+  ],
+  "incident_sequences": [
+    36
+  ],
+  "normalized_url": "https://www.facebook.com/ajlalbyan.2025/posts/pfbid0gK6Q8nuz7z2vgbmA6qt6X8A13cr6JG5ccQmPGamQGTPmVSTrAwkogQPhb9zHSEtyl",
+  "observed_original_urls": [
+    "https://www.facebook.com/ajlalbyan.2025/posts/pfbid0gK6Q8nuz7z2vgbmA6qt6X8A13cr6JG5ccQmPGamQGTPmVSTrAwkogQPhb9zHSEtyl"
+  ],
+  "original_url": "https://www.facebook.com/ajlalbyan.2025/posts/pfbid0gK6Q8nuz7z2vgbmA6qt6X8A13cr6JG5ccQmPGamQGTPmVSTrAwkogQPhb9zHSEtyl",
+  "page_title": "Facebook Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2014-october-18-2025/",
+      "airwars_source_id": "296645",
+      "incident_id": "airwars-297454",
+      "incident_sequence": 36,
+      "observed_original_url": "https://www.facebook.com/ajlalbyan.2025/posts/pfbid0gK6Q8nuz7z2vgbmA6qt6X8A13cr6JG5ccQmPGamQGTPmVSTrAwkogQPhb9zHSEtyl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "19 أكتوبر 2025",
+  "publisher": "Urgent statement",
+  "publisher_ar": "عاجل البيان",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:33:41+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-518da3e1cf88395dd452fdec",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/ajlalbyan.2025/posts/pfbid0gK6Q8nuz7z2vgbmA6qt6X8A13cr6JG5ccQmPGamQGTPmVSTrAwkogQPhb9zHSEtyl",
+  "text_ar": "",
+  "text_original": "This page isn't available right nowThis may be because of a technical error that we're working to get fixed. Try reloading this page.Go to FeedGo backVisit Help Center",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001424
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,26 @@
+{
+  "attempt_history": [
+    {
+      "attempt": 1,
+      "elapsed_seconds": 0.026,
+      "error": "http_403",
+      "result": "http_error",
+      "retrieved_at": "2026-07-31T18:13:35+00:00",
+      "status": 403
+    }
+  ],
+  "attempts": 1,
+  "body_decoded_from": null,
+  "bytes": 1510,
+  "content_hash": "baaf95e290a69789c59c37f8824bf710384d58ac8cac2dea0b941bb1a5b3eea0",
+  "content_type": "text/html; charset=utf-8",
+  "elapsed_seconds": 0.026,
+  "error": "http_403",
+  "final_url": "https://airwars.org/civilian-casualties/issy076-april-3-2025/",
+  "ok": false,
+  "response_content_encoding": "",
+  "retrieved_at": "2026-07-31T18:13:35+00:00",
+  "status": 403,
+  "url": "https://airwars.org/civilian-casualties/issy076-april-3-2025/",
+  "waiting_seconds": 0.749
+}

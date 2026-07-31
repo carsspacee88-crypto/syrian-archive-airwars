@@ -1,0 +1,126 @@
+{
+  "airwars_source_ids": [
+    "185986"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-searchposts-2025-06-30-203646/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "InvalidURL: URL can't contain control characters. '/search/posts/?q=اصابة درعا&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNVxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI1XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNS02LTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjUtNi0yM1xcXCJ9XCJ9In0=&epa=FILTERS' (found at least ' ')",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:58:35+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "InvalidURL: URL can't contain control characters. '/search/posts/?q=اصابة درعا&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNVxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI1XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNS02LTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjUtNi0yM1xcXCJ9XCJ9In0=&epa=FILTERS' (found at least ' ')",
+      "final_url": "https://www.facebook.com/search/posts/?q=اصابة درعا&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNVxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI1XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNS02LTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjUtNi0yM1xcXCJ9XCJ9In0=&epa=FILTERS",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:58:35+00:00",
+      "status": null,
+      "url": "https://www.facebook.com/search/posts/?q=اصابة درعا&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNVxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI1XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNS02LTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjUtNi0yM1xcXCJ9XCJ9In0=&epa=FILTERS",
+      "waiting_seconds": 0.728
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/www-facebook-com-searchposts-2025-06-30-203646/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:58:35+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/www-facebook-com-searchposts-2025-06-30-203646/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_role": "wayback_lookup",
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "ok": false,
+      "retrieved_at": "2026-07-31T18:58:35+00:00"
+    }
+  ],
+  "author": "searchposts",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "InvalidURL: URL can't contain control characters. '/search/posts/?q=اصابة درعا&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNVxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI1XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNS02LTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjUtNi0yM1xcXCJ9XCJ9In0=&epa=FILTERS' (found at least ' ')",
+  "final_redirected_url": "https://www.facebook.com/search/posts/?q=اصابة درعا&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNVxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI1XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNS02LTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjUtNi0yM1xcXCJ9XCJ9In0=&epa=FILTERS",
+  "incident_ids": [
+    "airwars-191037"
+  ],
+  "incident_sequences": [
+    56
+  ],
+  "normalized_url": "https://www.facebook.com/search/posts/?q=اصابة درعا&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNVxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI1XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNS02LTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjUtNi0yM1xcXCJ9XCJ9In0=&epa=FILTERS",
+  "observed_original_urls": [
+    "https://www.facebook.com/search/posts/?q=اصابة درعا&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNVxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI1XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNS02LTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjUtNi0yM1xcXCJ9XCJ9In0=&epa=FILTERS"
+  ],
+  "original_url": "https://www.facebook.com/search/posts/?q=اصابة درعا&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNVxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI1XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNS02LTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjUtNi0yM1xcXCJ9XCJ9In0=&epa=FILTERS",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr250620a-june-20-2025/",
+      "airwars_source_id": "185986",
+      "incident_id": "airwars-191037",
+      "incident_sequence": 56,
+      "observed_original_url": "https://www.facebook.com/search/posts/?q=اصابة درعا&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNVxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI1XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNS02LTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjUtNi0yM1xcXCJ9XCJ9In0=&epa=FILTERS",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "30 يونيو 2025",
+  "publisher": "searchposts",
+  "publisher_ar": "searchposts",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:58:35+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-e387f7ff08384c04a3273ccf",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/search/posts/?q=اصابة درعا&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNVxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI1XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNS02XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNS02LTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjUtNi0yM1xcXCJ9XCJ9In0=&epa=FILTERS",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "und",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

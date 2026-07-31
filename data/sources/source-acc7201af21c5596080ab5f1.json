@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "308506"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%af%d8%a7%d8%a1-%d9%84%d8%ad%d9%86-%d8%a7%d9%84%d8%a8%d8%a7%d8%b2%d9%84%d8%aa-pfbid0aq4hl8ldt6pg9mvbtwmcvwmkgf8k1bebqhx2vsxdzfxeccaguncjcqsfcowyqt/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.689,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:50:12+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 663016,
+      "content_hash": "55c7a5a7f6515fcdeceb5844ab69ffc5127a0b45eb24a31053ab3b27d68ae36f",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.689,
+      "error": null,
+      "final_url": "https://www.facebook.com/la7n.bazelt/posts/pfbid0Aq4hL8LDt6pG9mvBTwMCVWmKGF8K1BeBqhx2VsxdZfxECCAguNcjcqsFCoWYQtBRl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:50:12+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/la7n.bazelt/posts/pfbid0Aq4hL8LDt6pG9mvBTwMCVWmKGF8K1BeBqhx2VsxdZfxECCAguNcjcqsFCoWYQtBRl",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "السويداء لحن البازلت",
+  "captions": [],
+  "content_hash": "d1a4109979b7f116538f878734db15353056998ff6d1199d615502c71281e707",
+  "content_variants": [
+    {
+      "bytes": 858,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:50:12+00:00",
+      "sha256": "d1a4109979b7f116538f878734db15353056998ff6d1199d615502c71281e707",
+      "source_url": "https://www.facebook.com/la7n.bazelt/posts/pfbid0Aq4hL8LDt6pG9mvBTwMCVWmKGF8K1BeBqhx2VsxdZfxECCAguNcjcqsFCoWYQtBRl",
+      "text": "استشهاد مدني واحد في قصف المحتل... - السويداء لحن البازلت\nFacebook‎السويداء لحن البازلت‎'s Post\n\nالسويداء لحن البازلتMarch 24, 2025 · Shared with Publicاستشهاد مدني واحد في قصف المحتل التركي على قرية \"خربة جاموس\" بريف #الحسكة .One civilian was killed in the Turkish occupation's bombardment of the village of \"Khirbet Jamous\" in the countryside of #Hasakah. Hasaka kırsalındaki Türk işgalinin bombalanmasıyla bir sivil öldürüldü#الحدث_التركي#تركيا #اردوغان #محافظ_اسطنبول #اوغلو #مظاهرات #تركيا_تشتعل #تركيا_تنتفض#TurkishEvent #Turkey #Erdogan #IstanbulGovernor #Imamoglu #Protests #TurkeyIsBurning #TurkeyRisesUpAll reactions:1LikeComment"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/la7n.bazelt/posts/pfbid0Aq4hL8LDt6pG9mvBTwMCVWmKGF8K1BeBqhx2VsxdZfxECCAguNcjcqsFCoWYQtBRl",
+  "incident_ids": [
+    "airwars-302785"
+  ],
+  "incident_sequences": [
+    81
+  ],
+  "normalized_url": "https://www.facebook.com/la7n.bazelt/posts/pfbid0Aq4hL8LDt6pG9mvBTwMCVWmKGF8K1BeBqhx2VsxdZfxECCAguNcjcqsFCoWYQtBRl",
+  "observed_original_urls": [
+    "https://www.facebook.com/la7n.bazelt/posts/pfbid0Aq4hL8LDt6pG9mvBTwMCVWmKGF8K1BeBqhx2VsxdZfxECCAguNcjcqsFCoWYQtBRl"
+  ],
+  "original_url": "https://www.facebook.com/la7n.bazelt/posts/pfbid0Aq4hL8LDt6pG9mvBTwMCVWmKGF8K1BeBqhx2VsxdZfxECCAguNcjcqsFCoWYQtBRl",
+  "page_title": "استشهاد مدني واحد في قصف المحتل... - السويداء لحن البازلت Facebook Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts797-march-24-2025/",
+      "airwars_source_id": "308506",
+      "incident_id": "airwars-302785",
+      "incident_sequence": 81,
+      "observed_original_url": "https://www.facebook.com/la7n.bazelt/posts/pfbid0Aq4hL8LDt6pG9mvBTwMCVWmKGF8K1BeBqhx2VsxdZfxECCAguNcjcqsFCoWYQtBRl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "24 مارس 2025",
+  "publisher": "As-Suwayda, the melody of basalt",
+  "publisher_ar": "السويداء لحن البازلت",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:50:12+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-acc7201af21c5596080ab5f1",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/la7n.bazelt/posts/pfbid0Aq4hL8LDt6pG9mvBTwMCVWmKGF8K1BeBqhx2VsxdZfxECCAguNcjcqsFCoWYQtBRl",
+  "text_ar": "",
+  "text_original": "استشهاد مدني واحد في قصف المحتل... - السويداء لحن البازلت\nFacebook‎السويداء لحن البازلت‎'s Post\n\nالسويداء لحن البازلتMarch 24, 2025 · Shared with Publicاستشهاد مدني واحد في قصف المحتل التركي على قرية \"خربة جاموس\" بريف #الحسكة .One civilian was killed in the Turkish occupation's bombardment of the village of \"Khirbet Jamous\" in the countryside of #Hasakah. Hasaka kırsalındaki Türk işgalinin bombalanmasıyla bir sivil öldürüldü#الحدث_التركي#تركيا #اردوغان #محافظ_اسطنبول #اوغلو #مظاهرات #تركيا_تشتعل #تركيا_تنتفض#TurkishEvent #Turkey #Erdogan #IstanbulGovernor #Imamoglu #Protests #TurkeyIsBurning #TurkeyRisesUpAll reactions:1LikeComment",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003022
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

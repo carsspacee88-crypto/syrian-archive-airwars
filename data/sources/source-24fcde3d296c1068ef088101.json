@@ -1,0 +1,188 @@
+{
+  "airwars_source_ids": [
+    "365842",
+    "365843"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/euphratespost-net-anas-abdullah-2025-12-18-142900/",
+    "https://airwars.org/source/euphratespost-net-anas-abdullah-2025-12-18-142900-2/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-12: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:25:51+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-12: ordinal not in range(128)",
+      "final_url": "https://euphratespost.net/مداهماتٌ-وعملياتٌ-أمنيّةٌ-متزامنة-في/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:25:51+00:00",
+      "status": null,
+      "url": "https://euphratespost.net/مداهماتٌ-وعملياتٌ-أمنيّةٌ-متزامنة-في/",
+      "waiting_seconds": 0.743
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.045,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:25:52+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1590,
+      "content_hash": "8ab5c8d2113b0d176a59d674ae46fb224b40937dc95f749fb56624007c5702c5",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.045,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/euphratespost-net-anas-abdullah-2025-12-18-142900/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:25:52+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/euphratespost-net-anas-abdullah-2025-12-18-142900/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.028,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:25:52+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1600,
+      "content_hash": "1018898a5d33581b5f19101cf2afc07b1043e51cefdfbd03e1afcfb3c423241f",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.028,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/euphratespost-net-anas-abdullah-2025-12-18-142900-2/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:25:52+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/euphratespost-net-anas-abdullah-2025-12-18-142900-2/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.22,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:26:03+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.22,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Feuphratespost.net%2F%D9%85%D8%AF%D8%A7%D9%87%D9%85%D8%A7%D8%AA%D9%8C-%D9%88%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA%D9%8C-%D8%A3%D9%85%D9%86%D9%8A%D9%91%D8%A9%D9%8C-%D9%85%D8%AA%D8%B2%D8%A7%D9%85%D9%86%D8%A9-%D9%81%D9%8A%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:26:03+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Feuphratespost.net%2F%D9%85%D8%AF%D8%A7%D9%87%D9%85%D8%A7%D8%AA%D9%8C-%D9%88%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA%D9%8C-%D8%A3%D9%85%D9%86%D9%8A%D9%91%D8%A9%D9%8C-%D9%85%D8%AA%D8%B2%D8%A7%D9%85%D9%86%D8%A9-%D9%81%D9%8A%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "Anas abdullah",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-12: ordinal not in range(128)",
+  "final_redirected_url": "https://euphratespost.net/مداهماتٌ-وعملياتٌ-أمنيّةٌ-متزامنة-في/",
+  "incident_ids": [
+    "airwars-367981",
+    "airwars-367982"
+  ],
+  "incident_sequences": [
+    19,
+    20
+  ],
+  "normalized_url": "https://euphratespost.net/مداهماتٌ-وعملياتٌ-أمنيّةٌ-متزامنة-في/",
+  "observed_original_urls": [
+    "https://euphratespost.net/مداهماتٌ-وعملياتٌ-أمنيّةٌ-متزامنة-في/"
+  ],
+  "original_url": "https://euphratespost.net/مداهماتٌ-وعملياتٌ-أمنيّةٌ-متزامنة-في/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2018-december-18-2025/",
+      "airwars_source_id": "365842",
+      "incident_id": "airwars-367981",
+      "incident_sequence": 19,
+      "observed_original_url": "https://euphratespost.net/مداهماتٌ-وعملياتٌ-أمنيّةٌ-متزامنة-في/",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2019-december-18-2025/",
+      "airwars_source_id": "365843",
+      "incident_id": "airwars-367982",
+      "incident_sequence": 20,
+      "observed_original_url": "https://euphratespost.net/مداهماتٌ-وعملياتٌ-أمنيّةٌ-متزامنة-في/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "18 ديسمبر 2025",
+  "publisher": "Anas Abdullah",
+  "publisher_ar": "Anas Abdullah",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:25:51+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-24fcde3d296c1068ef088101",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://euphratespost.net/مداهماتٌ-وعملياتٌ-أمنيّةٌ-متزامنة-في/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

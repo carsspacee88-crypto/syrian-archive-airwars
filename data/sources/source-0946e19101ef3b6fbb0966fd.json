@@ -1,0 +1,149 @@
+{
+  "airwars_source_ids": [
+    "310446"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-11-18-085345/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-11: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:20:05+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-11: ordinal not in range(128)",
+      "final_url": "https://www.syriahr.com/بمشاركة-التحالف-الدولي-اعتقال-متزعم/784828/?fbclid=IwY2xjawOVFUZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEehCkuc38K5dZm6RohUSikn_pbLjkFxF9rWF94pUor0fmZdUcQywF8B6MjEzk_aem_8NhB-2z8Hd_Ls51osymjbw",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:20:05+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/بمشاركة-التحالف-الدولي-اعتقال-متزعم/784828/?fbclid=IwY2xjawOVFUZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEehCkuc38K5dZm6RohUSikn_pbLjkFxF9rWF94pUor0fmZdUcQywF8B6MjEzk_aem_8NhB-2z8Hd_Ls51osymjbw",
+      "waiting_seconds": 0.739
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.025,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:20:06+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1880,
+      "content_hash": "856715748388b978f7c4a6a7c236412b350d6ed55b046ab0fb90385bec354ad6",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.025,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-11-18-085345/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:20:06+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-11-18-085345/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.015,
+          "error": "URLError: <urlopen error timed out>",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:20:17+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.015,
+      "error": "URLError: <urlopen error timed out>",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D8%AA%D8%B2%D8%B9%D9%85%2F784828%2F%3Ffbclid%3DIwY2xjawOVFUZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEehCkuc38K5dZm6RohUSikn_pbLjkFxF9rWF94pUor0fmZdUcQywF8B6MjEzk_aem_8NhB-2z8Hd_Ls51osymjbw&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:20:17+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D8%AA%D8%B2%D8%B9%D9%85%2F784828%2F%3Ffbclid%3DIwY2xjawOVFUZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEehCkuc38K5dZm6RohUSikn_pbLjkFxF9rWF94pUor0fmZdUcQywF8B6MjEzk_aem_8NhB-2z8Hd_Ls51osymjbw&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "المرصد السوري",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-11: ordinal not in range(128)",
+  "final_redirected_url": "https://www.syriahr.com/بمشاركة-التحالف-الدولي-اعتقال-متزعم/784828/?fbclid=IwY2xjawOVFUZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEehCkuc38K5dZm6RohUSikn_pbLjkFxF9rWF94pUor0fmZdUcQywF8B6MjEzk_aem_8NhB-2z8Hd_Ls51osymjbw",
+  "incident_ids": [
+    "airwars-386634"
+  ],
+  "incident_sequences": [
+    27
+  ],
+  "normalized_url": "https://www.syriahr.com/بمشاركة-التحالف-الدولي-اعتقال-متزعم/784828/?fbclid=IwY2xjawOVFUZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEehCkuc38K5dZm6RohUSikn_pbLjkFxF9rWF94pUor0fmZdUcQywF8B6MjEzk_aem_8NhB-2z8Hd_Ls51osymjbw",
+  "observed_original_urls": [
+    "https://www.syriahr.com/بمشاركة-التحالف-الدولي-اعتقال-متزعم/784828/?fbclid=IwY2xjawOVFUZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEehCkuc38K5dZm6RohUSikn_pbLjkFxF9rWF94pUor0fmZdUcQywF8B6MjEzk_aem_8NhB-2z8Hd_Ls51osymjbw"
+  ],
+  "original_url": "https://www.syriahr.com/بمشاركة-التحالف-الدولي-اعتقال-متزعم/784828/?fbclid=IwY2xjawOVFUZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEehCkuc38K5dZm6RohUSikn_pbLjkFxF9rWF94pUor0fmZdUcQywF8B6MjEzk_aem_8NhB-2z8Hd_Ls51osymjbw",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0166-november-18-2025/",
+      "airwars_source_id": "310446",
+      "incident_id": "airwars-386634",
+      "incident_sequence": 27,
+      "observed_original_url": "https://www.syriahr.com/بمشاركة-التحالف-الدولي-اعتقال-متزعم/784828/?fbclid=IwY2xjawOVFUZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEehCkuc38K5dZm6RohUSikn_pbLjkFxF9rWF94pUor0fmZdUcQywF8B6MjEzk_aem_8NhB-2z8Hd_Ls51osymjbw",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "18 نوفمبر 2025",
+  "publisher": "Syrian Observatory",
+  "publisher_ar": "المرصد السوري",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:20:05+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-0946e19101ef3b6fbb0966fd",
+  "source_type": "ngo_report",
+  "stable_id_basis": "https://www.syriahr.com/بمشاركة-التحالف-الدولي-اعتقال-متزعم/784828/?fbclid=IwY2xjawOVFUZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEehCkuc38K5dZm6RohUSikn_pbLjkFxF9rWF94pUor0fmZdUcQywF8B6MjEzk_aem_8NhB-2z8Hd_Ls51osymjbw",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

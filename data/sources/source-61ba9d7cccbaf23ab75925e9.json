@@ -1,0 +1,104 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/vomKX"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.28,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:36:32+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 91582,
+      "content_hash": "7f0a124b4c70530fb111c3f6586309201730c4faf0476c041c6e433716502eff",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.28,
+      "error": null,
+      "final_url": "https://x.com/FAHD44747/status/1904482287418249435",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:36:32+00:00",
+      "status": 200,
+      "url": "https://x.com/FAHD44747/status/1904482287418249435",
+      "waiting_seconds": 0.74
+    }
+  ],
+  "author": "https://x.com/FAHD44747",
+  "captions": [],
+  "content_hash": "6e6b1c13b70a5c7f82532b24821fe99874854cac03f55f67b18ff226ff1a9332",
+  "content_variants": [
+    {
+      "bytes": 572,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:36:32+00:00",
+      "sha256": "6e6b1c13b70a5c7f82532b24821fe99874854cac03f55f67b18ff226ff1a9332",
+      "source_url": "https://x.com/FAHD44747/status/1904482287418249435",
+      "text": "Post\n\nPost\n\nفهد نديم 🇸🇾@FAHD44747مجزرة يرتكبها الاحتلال الإسرائيلي في ريف درعا بعد قصفه بلدة كويا ما أسفر عن استشهاد 7 مدنيين وعشرات الجرحى وحالة نزوح تشهدها القرية\nجاء ذلك بعد رفض أبناء القرية دخول دورية إسرائيلية وحدث اشتباكات معها فانسحبت الدورية وبدأ القصف الإسرائيلي على المدنيين\n#درعا\n#سوريا00:0010:35 AM · Mar 25, 20256.8KViews412501"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/FAHD44747/status/1904482287418249435",
+  "incident_ids": [
+    "airwars-142194"
+  ],
+  "incident_sequences": [
+    80
+  ],
+  "normalized_url": "https://x.com/FAHD44747/status/1904482287418249435",
+  "observed_original_urls": [
+    "https://x.com/FAHD44747/status/1904482287418249435"
+  ],
+  "original_url": "https://x.com/FAHD44747/status/1904482287418249435",
+  "page_title": "فهد نديم 🇸🇾 on X: \"مجزرة يرتكبها الاحتلال الإسرائيلي في ريف درعا بعد قصفه بلدة كويا ما أسفر عن استشهاد 7 مدنيين وعشرات الجرحى وحالة نزوح تشهدها القرية\nجاء ذلك بعد رفض أبناء القرية دخول دورية إسرائيلية وحدث اشتباكات معها فانسحبت الدورية وبدأ القصف الإسرائيلي على المدنيين\n#درعا\n#سوريا https://t.co/qhouByFYnO\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy075-march-25-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-142194",
+      "incident_sequence": 80,
+      "observed_original_url": "https://x.com/FAHD44747/status/1904482287418249435",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-03-25T10:35:35.000Z",
+  "publisher": "'@FAHD44747",
+  "publisher_ar": "'@FAHD44747",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:36:32+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-61ba9d7cccbaf23ab75925e9",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/FAHD44747/status/1904482287418249435",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nفهد نديم 🇸🇾@FAHD44747مجزرة يرتكبها الاحتلال الإسرائيلي في ريف درعا بعد قصفه بلدة كويا ما أسفر عن استشهاد 7 مدنيين وعشرات الجرحى وحالة نزوح تشهدها القرية\nجاء ذلك بعد رفض أبناء القرية دخول دورية إسرائيلية وحدث اشتباكات معها فانسحبت الدورية وبدأ القصف الإسرائيلي على المدنيين\n#درعا\n#سوريا00:0010:35 AM · Mar 25, 20256.8KViews412501",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002032
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "426985"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-alwea__-2027831943748862218-2026-02-28-194305/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.277,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:26:41+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 80043,
+      "content_hash": "2b0fcf8c1dbfddaed38783102053f89ce00d9284846a7e7a434533bafcce57aa",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.277,
+      "error": null,
+      "final_url": "https://x.com/alwea__/status/2027831943748862218",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:26:41+00:00",
+      "status": 200,
+      "url": "https://x.com/alwea__/status/2027831943748862218",
+      "waiting_seconds": 0.74
+    }
+  ],
+  "author": "https://x.com/alwea__",
+  "captions": [],
+  "content_hash": "ea457d9a527ced59c64849b8adeed7a2bf57f67a1d1968c47c1e4c2374e0bf6f",
+  "content_variants": [
+    {
+      "bytes": 385,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:26:41+00:00",
+      "sha256": "ea457d9a527ced59c64849b8adeed7a2bf57f67a1d1968c47c1e4c2374e0bf6f",
+      "source_url": "https://x.com/alwea__/status/2027831943748862218",
+      "text": "Post\n\nPost\n\nalalwea🌞@alwea__الطفلان الشهيدان\nالشهيد ورد طارق الاعور الذي استشهد مع اباه وعمه\nالشهيد سيف اسماعيل الشيخ\nالذين استشهدوا نتيجة سقوط بقايا صاروخ ايراني تم تدميره فوق السويداء\nالله يرحمهن 🙏7:43 PM · Feb 28, 20262.3KViews511654"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/alwea__/status/2027831943748862218",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://x.com/alwea__/status/2027831943748862218",
+  "observed_original_urls": [
+    "https://x.com/alwea__/status/2027831943748862218"
+  ],
+  "original_url": "https://x.com/alwea__/status/2027831943748862218",
+  "page_title": "alalwea🌞 on X: \"الطفلان الشهيدان\nالشهيد ورد طارق الاعور الذي استشهد مع اباه وعمه\nالشهيد سيف اسماعيل الشيخ\nالذين استشهدوا نتيجة سقوط بقايا صاروخ ايراني تم تدميره فوق السويداء\nالله يرحمهن 🙏 https://t.co/Hu5Am5Hie4\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "426985",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://x.com/alwea__/status/2027831943748862218",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2026-02-28T19:43:05.000Z",
+  "publisher": "alwea__",
+  "publisher_ar": "alwea__",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:26:41+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-27d5c7405bf5b09da226ba3e",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/alwea__/status/2027831943748862218",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nalalwea🌞@alwea__الطفلان الشهيدان\nالشهيد ورد طارق الاعور الذي استشهد مع اباه وعمه\nالشهيد سيف اسماعيل الشيخ\nالذين استشهدوا نتيجة سقوط بقايا صاروخ ايراني تم تدميره فوق السويداء\nالله يرحمهن 🙏7:43 PM · Feb 28, 20262.3KViews511654",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001862
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

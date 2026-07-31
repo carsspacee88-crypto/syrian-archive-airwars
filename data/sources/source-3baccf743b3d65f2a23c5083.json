@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "382829"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-meme_syr3-1972233030589895146-2025-09-28-093251/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.253,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:30:51+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 85192,
+      "content_hash": "acfd7835ec3ed5acb3c20d3f65af2994e1af68332170af3444f97eed871896f7",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.253,
+      "error": null,
+      "final_url": "https://x.com/meme_syr3/status/1972233030589895146",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:30:51+00:00",
+      "status": 200,
+      "url": "https://x.com/meme_syr3/status/1972233030589895146",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "https://x.com/meme_syr3",
+  "captions": [],
+  "content_hash": "f5c45004a17f967074936cbcbdb12fe9502ba2b1f8926df7b881d6f6b7f867f2",
+  "content_variants": [
+    {
+      "bytes": 360,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:30:51+00:00",
+      "sha256": "f5c45004a17f967074936cbcbdb12fe9502ba2b1f8926df7b881d6f6b7f867f2",
+      "source_url": "https://x.com/meme_syr3/status/1972233030589895146",
+      "text": "Post\n\nPost\n\nmaya@meme_syr3#عاجل\nطيران مسير تابع #للتحالف_الدولي يستهدف بشكل مباشر منزل المدعو هاشم محي الدين رسلان في بلدة #التمانعة بريف #إدلب الجنوبي أدى إلى مقـتــله فوراً ووقوع عدة إصابات.9:32 AM · Sep 28, 2025851Views111"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/meme_syr3/status/1972233030589895146",
+  "incident_ids": [
+    "airwars-386624"
+  ],
+  "incident_sequences": [
+    40
+  ],
+  "normalized_url": "https://x.com/meme_syr3/status/1972233030589895146",
+  "observed_original_urls": [
+    "https://x.com/meme_syr3/status/1972233030589895146"
+  ],
+  "original_url": "https://x.com/meme_syr3/status/1972233030589895146",
+  "page_title": "maya on X: \"#عاجل\nطيران مسير تابع #للتحالف_الدولي يستهدف بشكل مباشر منزل المدعو هاشم محي الدين رسلان في بلدة #التمانعة بريف #إدلب الجنوبي أدى إلى مقـتــله فوراً ووقوع عدة إصابات. https://t.co/jUNbLQdoR9\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0156b-september-28-2025/",
+      "airwars_source_id": "382829",
+      "incident_id": "airwars-386624",
+      "incident_sequence": 40,
+      "observed_original_url": "https://x.com/meme_syr3/status/1972233030589895146",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-09-28T09:32:51.000Z",
+  "publisher": "meme_syr3",
+  "publisher_ar": "meme_syr3",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:30:51+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-3baccf743b3d65f2a23c5083",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/meme_syr3/status/1972233030589895146",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nmaya@meme_syr3#عاجل\nطيران مسير تابع #للتحالف_الدولي يستهدف بشكل مباشر منزل المدعو هاشم محي الدين رسلان في بلدة #التمانعة بريف #إدلب الجنوبي أدى إلى مقـتــله فوراً ووقوع عدة إصابات.9:32 AM · Sep 28, 2025851Views111",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001967
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

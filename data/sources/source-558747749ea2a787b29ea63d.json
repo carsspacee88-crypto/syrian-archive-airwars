@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "378991"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-deirezzor24-2005943413531681068-2025-12-30-100553/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.295,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:34:25+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 82048,
+      "content_hash": "0664ae4e93a50ef1e0d9b0a3e01cb653e3897bf4fc5ad4c11fa377b1bf6cdeb9",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.295,
+      "error": null,
+      "final_url": "https://x.com/DeirEzzor24/status/2005943413531681068",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:34:25+00:00",
+      "status": 200,
+      "url": "https://x.com/DeirEzzor24/status/2005943413531681068",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "https://x.com/DeirEzzor24",
+  "captions": [],
+  "content_hash": "ae7b79a48f0628707b88896135e10224d44f13cc6aa3812c1346b2fce2875f6c",
+  "content_variants": [
+    {
+      "bytes": 334,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:34:25+00:00",
+      "sha256": "ae7b79a48f0628707b88896135e10224d44f13cc6aa3812c1346b2fce2875f6c",
+      "source_url": "https://x.com/DeirEzzor24/status/2005943413531681068",
+      "text": "Post\n\nPost\n\nديرالزور24@DeirEzzor24#د24:\nسقوط عدداً من الصواريخ في بادية #ديرالزور الجنوبية مصدرها قاعدة التحالف الدولي في مدينة #الشدادي جنوبي #الحسكة.\n#أخبار_ديرالزور #ديرالزور_2410:05 AM · Dec 30, 2025194Views1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/DeirEzzor24/status/2005943413531681068",
+  "incident_ids": [
+    "airwars-387052"
+  ],
+  "incident_sequences": [
+    7
+  ],
+  "normalized_url": "https://x.com/DeirEzzor24/status/2005943413531681068",
+  "observed_original_urls": [
+    "https://x.com/DeirEzzor24/status/2005943413531681068"
+  ],
+  "original_url": "https://x.com/DeirEzzor24/status/2005943413531681068",
+  "page_title": "ديرالزور24 on X: \"#د24:\nسقوط عدداً من الصواريخ في بادية #ديرالزور الجنوبية مصدرها قاعدة التحالف الدولي في مدينة #الشدادي جنوبي #الحسكة.\n#أخبار_ديرالزور #ديرالزور_24 https://t.co/MWjyCS3tGJ\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0179-december-30-2025/",
+      "airwars_source_id": "378991",
+      "incident_id": "airwars-387052",
+      "incident_sequence": 7,
+      "observed_original_url": "https://x.com/DeirEzzor24/status/2005943413531681068",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-30T10:05:53.000Z",
+  "publisher": "DeirEzzor24",
+  "publisher_ar": "DeirEzzor24",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:34:25+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-558747749ea2a787b29ea63d",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/DeirEzzor24/status/2005943413531681068",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nديرالزور24@DeirEzzor24#د24:\nسقوط عدداً من الصواريخ في بادية #ديرالزور الجنوبية مصدرها قاعدة التحالف الدولي في مدينة #الشدادي جنوبي #الحسكة.\n#أخبار_ديرالزور #ديرالزور_2410:05 AM · Dec 30, 2025194Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001573
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

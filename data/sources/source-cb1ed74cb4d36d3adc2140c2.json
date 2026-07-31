@@ -1,0 +1,116 @@
+{
+  "airwars_source_ids": [
+    "213064"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-centcom-1948736581809926442-2025-07-25-132621/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.54,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:54:39+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 179375,
+      "content_hash": "f68ff4148a8e8efa6b3bf410543e978b561061847eaa83f3b4159ebf9a46accc",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.54,
+      "error": null,
+      "final_url": "https://x.com/CENTCOM/status/1948736581809926442",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:54:39+00:00",
+      "status": 200,
+      "url": "https://x.com/CENTCOM/status/1948736581809926442",
+      "waiting_seconds": 0.73
+    }
+  ],
+  "author": "https://x.com/CENTCOM",
+  "captions": [],
+  "content_hash": "6b0e53ebff6f9ca87316345cacf067daf4cf552d725fec067ae58ea0d7b7775d",
+  "content_variants": [
+    {
+      "bytes": 1483,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:54:39+00:00",
+      "sha256": "6b0e53ebff6f9ca87316345cacf067daf4cf552d725fec067ae58ea0d7b7775d",
+      "source_url": "https://x.com/CENTCOM/status/1948736581809926442",
+      "text": "Post\n\nPost\n\nU.S. Central Command@CENTCOMCENTCOM Forces Kill Senior ISIS Leader in Al Bab, Syria\n\nEarly this morning in al Bab, Aleppo Governate, Syria, CENTCOM Forces conducted a raid resulting in the death of senior ISIS Leader, Dhiya’ Zawba Muslih al-Hardani, and his two adult ISIS-affiliated sons, Abdallah Dhiya al-Hardani and Abd al-Rahman Dhiya Zawba al-Hardani. These ISIS individuals posed a threat to US and Coalition Forces, as well as the new Syrian Government. Three women and three children were also on the target and were unharmed.\n\n“We will continue to relentlessly pursue ISIS terrorists wherever they are. ISIS terrorists are not safe where they sleep, where they operate, and where they hide. Alongside our partners and allies, U.S. Central Command is committed to the enduring defeat of ISIS terrorists that threaten the region, our allies, and our homeland,” said Gen. Michael Erik Kurilla, U.S. Central Command Commander.1:26 PM · Jul 25, 2025800.3KViews6251.8K8.4K322\n\nنور حلبي@NoorHalabi95Jul 25, 2025There are terrorist organizations far more dangerous than ISIS.\nThey pose a threat to all Syrians, to the United States,\nto aliens, and even to the inhabitants of planet Mars.\n\n- The location of the first terrorist organization: Suwayda\n- The location of the second: Israel24172667K\n\nSonofLiberty357@SonofLiberty357Jul 25, 202518782.9K\n\nUs Versus Them@MullisVsMachineJul 25, 2025Your friendly reminder that ISIS was created by the CIA.62561.9K"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/CENTCOM/status/1948736581809926442",
+  "incident_ids": [
+    "airwars-387055",
+    "airwars-386618"
+  ],
+  "incident_sequences": [
+    47,
+    48
+  ],
+  "normalized_url": "https://x.com/CENTCOM/status/1948736581809926442",
+  "observed_original_urls": [
+    "https://x.com/CENTCOM/status/1948736581809926442"
+  ],
+  "original_url": "https://x.com/CENTCOM/status/1948736581809926442",
+  "page_title": "U.S. Central Command on X: \"CENTCOM Forces Kill Senior ISIS Leader in Al Bab, Syria\n\nEarly this morning in al Bab, Aleppo Governate, Syria, CENTCOM Forces conducted a raid resulting in the death of senior ISIS Leader, Dhiya’ Zawba Muslih al-Hardani, and his two adult ISIS-affiliated sons, Abdallah Dhiya al-Hardani and Abd al-Rahman Dhiya Zawba al-Hardani. These ISIS individuals posed a threat to US and Coalition Forces, as well as the new Syrian Government. Three women and three children were also on the target and were unharmed.\n\n“We will continue to relentlessly pursue ISIS terrorists wherever they are. ISIS terrorists are not safe where they sleep, where they operate, and where they hide. Alongside our partners and allies, U.S. Central Command is committed to the enduring defeat of ISIS terrorists that threaten the region, our allies, and our homeland,” said Gen. Michael Erik Kurilla, U.S. Central Command Commander.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0152-july-25-2025/",
+      "airwars_source_id": "213064",
+      "incident_id": "airwars-387055",
+      "incident_sequence": 47,
+      "observed_original_url": "https://x.com/CENTCOM/status/1948736581809926442",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0152a-july-25-2025/",
+      "airwars_source_id": "213064",
+      "incident_id": "airwars-386618",
+      "incident_sequence": 48,
+      "observed_original_url": "https://x.com/CENTCOM/status/1948736581809926442",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-07-25T13:26:21.000Z",
+  "publisher": "CENTCOM",
+  "publisher_ar": "CENTCOM",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:54:39+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-cb1ed74cb4d36d3adc2140c2",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/CENTCOM/status/1948736581809926442",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nU.S. Central Command@CENTCOMCENTCOM Forces Kill Senior ISIS Leader in Al Bab, Syria\n\nEarly this morning in al Bab, Aleppo Governate, Syria, CENTCOM Forces conducted a raid resulting in the death of senior ISIS Leader, Dhiya’ Zawba Muslih al-Hardani, and his two adult ISIS-affiliated sons, Abdallah Dhiya al-Hardani and Abd al-Rahman Dhiya Zawba al-Hardani. These ISIS individuals posed a threat to US and Coalition Forces, as well as the new Syrian Government. Three women and three children were also on the target and were unharmed.\n\n“We will continue to relentlessly pursue ISIS terrorists wherever they are. ISIS terrorists are not safe where they sleep, where they operate, and where they hide. Alongside our partners and allies, U.S. Central Command is committed to the enduring defeat of ISIS terrorists that threaten the region, our allies, and our homeland,” said Gen. Michael Erik Kurilla, U.S. Central Command Commander.1:26 PM · Jul 25, 2025800.3KViews6251.8K8.4K322\n\nنور حلبي@NoorHalabi95Jul 25, 2025There are terrorist organizations far more dangerous than ISIS.\nThey pose a threat to all Syrians, to the United States,\nto aliens, and even to the inhabitants of planet Mars.\n\n- The location of the first terrorist organization: Suwayda\n- The location of the second: Israel24172667K\n\nSonofLiberty357@SonofLiberty357Jul 25, 202518782.9K\n\nUs Versus Them@MullisVsMachineJul 25, 2025Your friendly reminder that ISIS was created by the CIA.62561.9K",
+  "text_original_language": "en",
+  "timing": {
+    "text_extraction_seconds": 0.003019
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

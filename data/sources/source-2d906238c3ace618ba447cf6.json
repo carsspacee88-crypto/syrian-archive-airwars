@@ -1,0 +1,126 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/wip/W5Y1I"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:27:14+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)",
+      "final_url": "https://www.syriahr.com/مقتل-9-سوريين-في-القصف-الإسرائيلي-المكث/755385/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:27:14+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/مقتل-9-سوريين-في-القصف-الإسرائيلي-المكث/755385/",
+      "waiting_seconds": 0.746
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.016,
+          "error": "http_429",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:27:16+00:00",
+          "status": 429
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 55507,
+      "content_hash": "5be976a8e1fe15fa28ebe55d28c68d942ccbfa0d4a960e74b162da8d429c27db",
+      "content_type": "text/html",
+      "elapsed_seconds": 1.016,
+      "error": "http_429",
+      "final_url": "https://archive.is/W5Y1I",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:27:16+00:00",
+      "status": 429,
+      "url": "https://archive.is/wip/W5Y1I",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_role": "wayback_lookup",
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "ok": false,
+      "retrieved_at": "2026-07-31T18:27:16+00:00"
+    }
+  ],
+  "author": "SOHR news",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)",
+  "final_redirected_url": "https://www.syriahr.com/مقتل-9-سوريين-في-القصف-الإسرائيلي-المكث/755385/",
+  "incident_ids": [
+    "airwars-276069"
+  ],
+  "incident_sequences": [
+    78
+  ],
+  "normalized_url": "https://www.syriahr.com/مقتل-9-سوريين-في-القصف-الإسرائيلي-المكث/755385/",
+  "observed_original_urls": [
+    "https://www.syriahr.com/مقتل-9-سوريين-في-القصف-الإسرائيلي-المكث/755385/"
+  ],
+  "original_url": "https://www.syriahr.com/مقتل-9-سوريين-في-القصف-الإسرائيلي-المكث/755385/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy076-april-3-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-276069",
+      "incident_sequence": 78,
+      "observed_original_url": "https://www.syriahr.com/مقتل-9-سوريين-في-القصف-الإسرائيلي-المكث/755385/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "SOHR news",
+  "publisher_ar": "SOHR news",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:27:14+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-2d906238c3ace618ba447cf6",
+  "source_type": "news_article",
+  "stable_id_basis": "https://www.syriahr.com/مقتل-9-سوريين-في-القصف-الإسرائيلي-المكث/755385/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,116 @@
+{
+  "airwars_source_ids": [
+    "362857",
+    "363224"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-alekhbariahsy-1998528750183649788-2025-12-09-230239/",
+    "https://airwars.org/source/x-com-alekhbariahsy-1998528750183649788-2025-12-09-230239-2/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.3,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:34:30+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 113520,
+      "content_hash": "39651dc315bef8ba73e6c89efc5dbdfbb4f6823229f5f86db48be6f87518d66d",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.3,
+      "error": null,
+      "final_url": "https://x.com/AlekhbariahSY/status/1998528750183649788",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:34:30+00:00",
+      "status": 200,
+      "url": "https://x.com/AlekhbariahSY/status/1998528750183649788",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "https://x.com/AlekhbariahSY",
+  "captions": [],
+  "content_hash": "11f1355d5fb73401ec427b5056b8dd35a9ade74546caa518090976b3556c7168",
+  "content_variants": [
+    {
+      "bytes": 355,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:34:30+00:00",
+      "sha256": "11f1355d5fb73401ec427b5056b8dd35a9ade74546caa518090976b3556c7168",
+      "source_url": "https://x.com/AlekhbariahSY/status/1998528750183649788",
+      "text": "Post\n\nPost\n\nالإخبارية السورية@AlekhbariahSYالإخبارية تلتقي ذوي المصابين برصاص الاحتلال الإسرائيلي في خان أرنبة بالقنيطرة\n\n#الإخبارية_السورية00:0011:02 PM · Dec 9, 20254.3KViews4121482\n\nاحمد@s_zbnx7Dec 9, 2025حسبنا الله ونعم الوكيل32"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AlekhbariahSY/status/1998528750183649788",
+  "incident_ids": [
+    "airwars-371403"
+  ],
+  "incident_sequences": [
+    22
+  ],
+  "normalized_url": "https://x.com/AlekhbariahSY/status/1998528750183649788",
+  "observed_original_urls": [
+    "https://x.com/AlekhbariahSY/status/1998528750183649788"
+  ],
+  "original_url": "https://x.com/AlekhbariahSY/status/1998528750183649788",
+  "page_title": "الإخبارية السورية on X: \"الإخبارية تلتقي ذوي المصابين برصاص الاحتلال الإسرائيلي في خان أرنبة بالقنيطرة\n\n#الإخبارية_السورية https://t.co/1pAF5Wxq9t\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy088-december-9-2025/",
+      "airwars_source_id": "362857",
+      "incident_id": "airwars-371403",
+      "incident_sequence": 22,
+      "observed_original_url": "https://x.com/AlekhbariahSY/status/1998528750183649788",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy088-december-9-2025/",
+      "airwars_source_id": "363224",
+      "incident_id": "airwars-371403",
+      "incident_sequence": 22,
+      "observed_original_url": "https://x.com/AlekhbariahSY/status/1998528750183649788",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-09T23:02:39.000Z",
+  "publisher": "AlekhbariahSY",
+  "publisher_ar": "AlekhbariahSY",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:34:30+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-561e5af0d15a09dca5baee98",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AlekhbariahSY/status/1998528750183649788",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالإخبارية السورية@AlekhbariahSYالإخبارية تلتقي ذوي المصابين برصاص الاحتلال الإسرائيلي في خان أرنبة بالقنيطرة\n\n#الإخبارية_السورية00:0011:02 PM · Dec 9, 20254.3KViews4121482\n\nاحمد@s_zbnx7Dec 9, 2025حسبنا الله ونعم الوكيل32",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001987
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

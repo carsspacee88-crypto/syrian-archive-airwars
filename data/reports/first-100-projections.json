@@ -1,0 +1,529 @@
+{
+  "generated_at": "2026-07-31T19:16:38+00:00",
+  "method": "Low uses median timing and 0.75x bytes; central uses means; high uses P90 timing and 1.5x bytes, adjusted for duplicate-source rate.",
+  "projections": [
+    {
+      "estimates": {
+        "central": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 19545,
+          "compressed_artifact_bytes": 148699092,
+          "estimated_git_history_growth_bytes": 166671869,
+          "generated_html_bytes": 56139200,
+          "git_working_tree_bytes": 176954086,
+          "json_data_bytes": 77198295,
+          "original_text_bytes": 5530955,
+          "source_relationships": 7675,
+          "total_generated_site_bytes": 545519158,
+          "total_processing_seconds": 19545,
+          "translation_seconds": 0,
+          "unique_sources": 7195
+        },
+        "high": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 26794,
+          "compressed_artifact_bytes": 182120907,
+          "estimated_git_history_growth_bytes": 250007803,
+          "generated_html_bytes": 84208800,
+          "git_working_tree_bytes": 223883344,
+          "json_data_bytes": 115797442,
+          "original_text_bytes": 8296432,
+          "source_relationships": 9594,
+          "total_generated_site_bytes": 573588758,
+          "total_processing_seconds": 26794,
+          "translation_seconds": 0,
+          "unique_sources": 8994
+        },
+        "low": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 13959,
+          "compressed_artifact_bytes": 131988184,
+          "estimated_git_history_growth_bytes": 125003902,
+          "generated_html_bytes": 42104400,
+          "git_working_tree_bytes": 153489457,
+          "json_data_bytes": 57898721,
+          "original_text_bytes": 4148216,
+          "source_relationships": 6524,
+          "total_generated_site_bytes": 531484358,
+          "total_processing_seconds": 13959,
+          "translation_seconds": 0,
+          "unique_sources": 5756
+        }
+      },
+      "incidents": 500
+    },
+    {
+      "estimates": {
+        "central": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 39090,
+          "compressed_artifact_bytes": 215542722,
+          "estimated_git_history_growth_bytes": 333343738,
+          "generated_html_bytes": 112278400,
+          "git_working_tree_bytes": 270812601,
+          "json_data_bytes": 154396590,
+          "original_text_bytes": 11061910,
+          "source_relationships": 15350,
+          "total_generated_site_bytes": 601658358,
+          "total_processing_seconds": 39090,
+          "translation_seconds": 0,
+          "unique_sources": 14390
+        },
+        "high": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 53589,
+          "compressed_artifact_bytes": 282386352,
+          "estimated_git_history_growth_bytes": 500015606,
+          "generated_html_bytes": 168417600,
+          "git_working_tree_bytes": 364671116,
+          "json_data_bytes": 231594885,
+          "original_text_bytes": 16592865,
+          "source_relationships": 19188,
+          "total_generated_site_bytes": 657797558,
+          "total_processing_seconds": 53589,
+          "translation_seconds": 0,
+          "unique_sources": 17988
+        },
+        "low": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 27918,
+          "compressed_artifact_bytes": 182120907,
+          "estimated_git_history_growth_bytes": 250007803,
+          "generated_html_bytes": 84208800,
+          "git_working_tree_bytes": 223883344,
+          "json_data_bytes": 115797442,
+          "original_text_bytes": 8296432,
+          "source_relationships": 13048,
+          "total_generated_site_bytes": 573588758,
+          "total_processing_seconds": 27918,
+          "translation_seconds": 0,
+          "unique_sources": 11512
+        }
+      },
+      "incidents": 1000
+    },
+    {
+      "estimates": {
+        "central": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 78181,
+          "compressed_artifact_bytes": 349229982,
+          "estimated_git_history_growth_bytes": 666687475,
+          "generated_html_bytes": 224556800,
+          "git_working_tree_bytes": 458529631,
+          "json_data_bytes": 308793180,
+          "original_text_bytes": 22123820,
+          "source_relationships": 30700,
+          "total_generated_site_bytes": 713936758,
+          "total_processing_seconds": 78181,
+          "translation_seconds": 0,
+          "unique_sources": 28780
+        },
+        "high": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 107175,
+          "compressed_artifact_bytes": 482917242,
+          "estimated_git_history_growth_bytes": 1000031212,
+          "generated_html_bytes": 336835200,
+          "git_working_tree_bytes": 646246661,
+          "json_data_bytes": 463189770,
+          "original_text_bytes": 33185730,
+          "source_relationships": 38375,
+          "total_generated_site_bytes": 826215158,
+          "total_processing_seconds": 107175,
+          "translation_seconds": 0,
+          "unique_sources": 35975
+        },
+        "low": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 55836,
+          "compressed_artifact_bytes": 282386352,
+          "estimated_git_history_growth_bytes": 500015606,
+          "generated_html_bytes": 168417600,
+          "git_working_tree_bytes": 364671116,
+          "json_data_bytes": 231594885,
+          "original_text_bytes": 16592865,
+          "source_relationships": 26095,
+          "total_generated_site_bytes": 657797558,
+          "total_processing_seconds": 55836,
+          "translation_seconds": 0,
+          "unique_sources": 23024
+        }
+      },
+      "incidents": 2000
+    },
+    {
+      "estimates": {
+        "central": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 117271,
+          "compressed_artifact_bytes": 482917242,
+          "estimated_git_history_growth_bytes": 1000031212,
+          "generated_html_bytes": 336835200,
+          "git_working_tree_bytes": 646246661,
+          "json_data_bytes": 463189770,
+          "original_text_bytes": 33185730,
+          "source_relationships": 46050,
+          "total_generated_site_bytes": 826215158,
+          "total_processing_seconds": 117271,
+          "translation_seconds": 0,
+          "unique_sources": 43170
+        },
+        "high": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 160761,
+          "compressed_artifact_bytes": 683448132,
+          "estimated_git_history_growth_bytes": 1500046819,
+          "generated_html_bytes": 505252800,
+          "git_working_tree_bytes": 927822206,
+          "json_data_bytes": 694784655,
+          "original_text_bytes": 49778595,
+          "source_relationships": 57562,
+          "total_generated_site_bytes": 994632758,
+          "total_processing_seconds": 160761,
+          "translation_seconds": 0,
+          "unique_sources": 53962
+        },
+        "low": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 83753,
+          "compressed_artifact_bytes": 382651797,
+          "estimated_git_history_growth_bytes": 750023409,
+          "generated_html_bytes": 252626400,
+          "git_working_tree_bytes": 505458888,
+          "json_data_bytes": 347392328,
+          "original_text_bytes": 24889298,
+          "source_relationships": 39142,
+          "total_generated_site_bytes": 742006358,
+          "total_processing_seconds": 83753,
+          "translation_seconds": 0,
+          "unique_sources": 34536
+        }
+      },
+      "incidents": 3000
+    },
+    {
+      "estimates": {
+        "central": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 156362,
+          "compressed_artifact_bytes": 616604502,
+          "estimated_git_history_growth_bytes": 1333374950,
+          "generated_html_bytes": 449113600,
+          "git_working_tree_bytes": 833963691,
+          "json_data_bytes": 617586360,
+          "original_text_bytes": 44247640,
+          "source_relationships": 61400,
+          "total_generated_site_bytes": 938493558,
+          "total_processing_seconds": 156362,
+          "translation_seconds": 0,
+          "unique_sources": 57560
+        },
+        "high": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 214350,
+          "compressed_artifact_bytes": 883979022,
+          "estimated_git_history_growth_bytes": 2000062425,
+          "generated_html_bytes": 673670400,
+          "git_working_tree_bytes": 1209397751,
+          "json_data_bytes": 926379540,
+          "original_text_bytes": 66371460,
+          "source_relationships": 76750,
+          "total_generated_site_bytes": 1163050358,
+          "total_processing_seconds": 214350,
+          "translation_seconds": 0,
+          "unique_sources": 71950
+        },
+        "low": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 111671,
+          "compressed_artifact_bytes": 482917242,
+          "estimated_git_history_growth_bytes": 1000031212,
+          "generated_html_bytes": 336835200,
+          "git_working_tree_bytes": 646246661,
+          "json_data_bytes": 463189770,
+          "original_text_bytes": 33185730,
+          "source_relationships": 52190,
+          "total_generated_site_bytes": 826215158,
+          "total_processing_seconds": 111671,
+          "translation_seconds": 0,
+          "unique_sources": 46048
+        }
+      },
+      "incidents": 4000
+    },
+    {
+      "estimates": {
+        "central": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 195452,
+          "compressed_artifact_bytes": 750291762,
+          "estimated_git_history_growth_bytes": 1666718688,
+          "generated_html_bytes": 561392000,
+          "git_working_tree_bytes": 1021680721,
+          "json_data_bytes": 771982950,
+          "original_text_bytes": 55309550,
+          "source_relationships": 76750,
+          "total_generated_site_bytes": 1050771958,
+          "total_processing_seconds": 195452,
+          "translation_seconds": 0,
+          "unique_sources": 71950
+        },
+        "high": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 267938,
+          "compressed_artifact_bytes": 1084509912,
+          "estimated_git_history_growth_bytes": 2500078031,
+          "generated_html_bytes": 842088000,
+          "git_working_tree_bytes": 1490973296,
+          "json_data_bytes": 1157974425,
+          "original_text_bytes": 82964325,
+          "source_relationships": 95938,
+          "total_generated_site_bytes": 1331467958,
+          "total_processing_seconds": 267938,
+          "translation_seconds": 0,
+          "unique_sources": 89938
+        },
+        "low": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 139589,
+          "compressed_artifact_bytes": 583182687,
+          "estimated_git_history_growth_bytes": 1250039016,
+          "generated_html_bytes": 421044000,
+          "git_working_tree_bytes": 787034434,
+          "json_data_bytes": 578987212,
+          "original_text_bytes": 41482162,
+          "source_relationships": 65238,
+          "total_generated_site_bytes": 910423958,
+          "total_processing_seconds": 139589,
+          "translation_seconds": 0,
+          "unique_sources": 57560
+        }
+      },
+      "incidents": 5000
+    },
+    {
+      "estimates": {
+        "central": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 234542,
+          "compressed_artifact_bytes": 883979022,
+          "estimated_git_history_growth_bytes": 2000062425,
+          "generated_html_bytes": 673670400,
+          "git_working_tree_bytes": 1209397751,
+          "json_data_bytes": 926379540,
+          "original_text_bytes": 66371460,
+          "source_relationships": 92100,
+          "total_generated_site_bytes": 1163050358,
+          "total_processing_seconds": 234542,
+          "translation_seconds": 0,
+          "unique_sources": 86340
+        },
+        "high": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 321525,
+          "compressed_artifact_bytes": 1285040802,
+          "estimated_git_history_growth_bytes": 3000093638,
+          "generated_html_bytes": 1010505600,
+          "git_working_tree_bytes": 1772548841,
+          "json_data_bytes": 1389569310,
+          "original_text_bytes": 99557190,
+          "source_relationships": 115125,
+          "total_generated_site_bytes": 1499885558,
+          "total_processing_seconds": 321525,
+          "translation_seconds": 0,
+          "unique_sources": 107925
+        },
+        "low": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 167507,
+          "compressed_artifact_bytes": 683448132,
+          "estimated_git_history_growth_bytes": 1500046819,
+          "generated_html_bytes": 505252800,
+          "git_working_tree_bytes": 927822206,
+          "json_data_bytes": 694784655,
+          "original_text_bytes": 49778595,
+          "source_relationships": 78285,
+          "total_generated_site_bytes": 994632758,
+          "total_processing_seconds": 167507,
+          "translation_seconds": 0,
+          "unique_sources": 69072
+        }
+      },
+      "incidents": 6000
+    },
+    {
+      "estimates": {
+        "central": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 273633,
+          "compressed_artifact_bytes": 1017666282,
+          "estimated_git_history_growth_bytes": 2333406162,
+          "generated_html_bytes": 785948800,
+          "git_working_tree_bytes": 1397114781,
+          "json_data_bytes": 1080776130,
+          "original_text_bytes": 77433370,
+          "source_relationships": 107450,
+          "total_generated_site_bytes": 1275328758,
+          "total_processing_seconds": 273633,
+          "translation_seconds": 0,
+          "unique_sources": 100730
+        },
+        "high": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 375111,
+          "compressed_artifact_bytes": 1485571692,
+          "estimated_git_history_growth_bytes": 3500109244,
+          "generated_html_bytes": 1178923200,
+          "git_working_tree_bytes": 2054124386,
+          "json_data_bytes": 1621164195,
+          "original_text_bytes": 116150055,
+          "source_relationships": 134312,
+          "total_generated_site_bytes": 1668303158,
+          "total_processing_seconds": 375111,
+          "translation_seconds": 0,
+          "unique_sources": 125912
+        },
+        "low": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 195424,
+          "compressed_artifact_bytes": 783713577,
+          "estimated_git_history_growth_bytes": 1750054622,
+          "generated_html_bytes": 589461600,
+          "git_working_tree_bytes": 1068609978,
+          "json_data_bytes": 810582098,
+          "original_text_bytes": 58075028,
+          "source_relationships": 91332,
+          "total_generated_site_bytes": 1078841558,
+          "total_processing_seconds": 195424,
+          "translation_seconds": 0,
+          "unique_sources": 80584
+        }
+      },
+      "incidents": 7000
+    },
+    {
+      "estimates": {
+        "central": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 312723,
+          "compressed_artifact_bytes": 1151353542,
+          "estimated_git_history_growth_bytes": 2666749900,
+          "generated_html_bytes": 898227200,
+          "git_working_tree_bytes": 1584831811,
+          "json_data_bytes": 1235172720,
+          "original_text_bytes": 88495280,
+          "source_relationships": 122800,
+          "total_generated_site_bytes": 1387607158,
+          "total_processing_seconds": 312723,
+          "translation_seconds": 0,
+          "unique_sources": 115120
+        },
+        "high": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 428700,
+          "compressed_artifact_bytes": 1686102582,
+          "estimated_git_history_growth_bytes": 4000124850,
+          "generated_html_bytes": 1347340800,
+          "git_working_tree_bytes": 2335699931,
+          "json_data_bytes": 1852759080,
+          "original_text_bytes": 132742920,
+          "source_relationships": 153500,
+          "total_generated_site_bytes": 1836720758,
+          "total_processing_seconds": 428700,
+          "translation_seconds": 0,
+          "unique_sources": 143900
+        },
+        "low": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 223342,
+          "compressed_artifact_bytes": 883979022,
+          "estimated_git_history_growth_bytes": 2000062425,
+          "generated_html_bytes": 673670400,
+          "git_working_tree_bytes": 1209397751,
+          "json_data_bytes": 926379540,
+          "original_text_bytes": 66371460,
+          "source_relationships": 104380,
+          "total_generated_site_bytes": 1163050358,
+          "total_processing_seconds": 223342,
+          "translation_seconds": 0,
+          "unique_sources": 92096
+        }
+      },
+      "incidents": 8000
+    },
+    {
+      "estimates": {
+        "central": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 317179,
+          "compressed_artifact_bytes": 1166593890,
+          "estimated_git_history_growth_bytes": 2704751086,
+          "generated_html_bytes": 911026938,
+          "git_working_tree_bytes": 1606231552,
+          "json_data_bytes": 1252773931,
+          "original_text_bytes": 89756338,
+          "source_relationships": 124550,
+          "total_generated_site_bytes": 1400406896,
+          "total_processing_seconds": 317179,
+          "translation_seconds": 0,
+          "unique_sources": 116760
+        },
+        "high": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 434810,
+          "compressed_artifact_bytes": 1708963103,
+          "estimated_git_history_growth_bytes": 4057126629,
+          "generated_html_bytes": 1366540406,
+          "git_working_tree_bytes": 2367799543,
+          "json_data_bytes": 1879160897,
+          "original_text_bytes": 134634507,
+          "source_relationships": 155687,
+          "total_generated_site_bytes": 1855920364,
+          "total_processing_seconds": 434810,
+          "translation_seconds": 0,
+          "unique_sources": 145951
+        },
+        "low": {
+          "arabic_translation_bytes": 0,
+          "collection_seconds": 226524,
+          "compressed_artifact_bytes": 895409283,
+          "estimated_git_history_growth_bytes": 2028563315,
+          "generated_html_bytes": 683270203,
+          "git_working_tree_bytes": 1225447557,
+          "json_data_bytes": 939580448,
+          "original_text_bytes": 67317253,
+          "source_relationships": 105867,
+          "total_generated_site_bytes": 1172650161,
+          "total_processing_seconds": 226524,
+          "translation_seconds": 0,
+          "unique_sources": 93408
+        }
+      },
+      "incidents": 8114
+    }
+  ],
+  "sample_basis": {
+    "arabic_translation_bytes": 0,
+    "duplicate_source_relationship_rate": 0.0625,
+    "incident_language_distribution": {
+      "und": 100
+    },
+    "original_text_bytes": 1106191,
+    "source_language_distribution": {
+      "ar": 1393,
+      "en": 41,
+      "he": 1,
+      "tr": 1,
+      "und": 3
+    },
+    "source_relationships": 1535,
+    "source_retrieval_success_rate": 0.8881,
+    "source_text_success_rate": 0.886,
+    "translation_policy": "disabled_by_user",
+    "unique_sources": 1439
+  },
+  "sample_size": 100,
+  "site_measurement_finalized_at": "2026-07-31T19:17:08+00:00",
+  "warning": "The first 100 incidents may not represent all 8,114 incidents; estimates are scenarios, not promises."
+}

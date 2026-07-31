@@ -1,0 +1,104 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/hjHLY"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.235,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:34:42+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1000875,
+      "content_hash": "cd4942966e3ee812be29ce4838049a671579a24357040c2b50c4116a588c7e26",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.235,
+      "error": null,
+      "final_url": "https://www.facebook.com/daraa24.24/videos/1845715609560763/",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:34:42+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=1845715609560763",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "Daraa 24",
+  "captions": [],
+  "content_hash": "b562f227f819ac0f1ccf8b345035c583e5edba7fc7819eefd08628cf12441309",
+  "content_variants": [
+    {
+      "bytes": 638,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:34:42+00:00",
+      "sha256": "b562f227f819ac0f1ccf8b345035c583e5edba7fc7819eefd08628cf12441309",
+      "source_url": "https://www.facebook.com/daraa24.24/videos/1845715609560763/",
+      "text": "#فيديو: أحد وجهاء قرية كويا في منطقة حوض اليرموك في الريف الغربي من محافظة درعا، يشرح تفاصيل ما حصل اليوم، ويناشد كل مسؤول في المحافظة والحكومة الجديدة ودول الجوار بوضع حد للانتهاكات الإسـ.ـرائيـ.ـلية. مؤكداً: \"لم نتلقَ أي منشورات تدعونا للإخلاء، ونحن لن نخلي منطقتنا، وهذه أرضنا إما نحيا فيها أو نموت فيها\".\n\n#سوريا #درعا #كويا #حوض_اليرموك #درعا24 | درعا 24"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/daraa24.24/videos/1845715609560763/",
+  "incident_ids": [
+    "airwars-142194"
+  ],
+  "incident_sequences": [
+    80
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=1845715609560763",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=1845715609560763"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=1845715609560763",
+  "page_title": "#فيديو: أحد وجهاء قرية كويا في منطقة حوض اليرموك في الريف الغربي من محافظة درعا، يشرح تفاصيل ما حصل اليوم، ويناشد كل مسؤول في المحافظة والحكومة الجديدة ودول الجوار بوضع حد للانتهاكات الإسـ.ـرائيـ.ـلية. مؤكداً: \"لم نتلقَ أي منشورات تدعونا للإخلاء، ونحن لن نخلي منطقتنا، وهذه أرضنا إما نحيا فيها أو نموت فيها\".\n\n#سوريا #درعا #كويا #حوض_اليرموك #درعا24 | درعا 24",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy075-march-25-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-142194",
+      "incident_sequence": 80,
+      "observed_original_url": "https://www.facebook.com/watch/?v=1845715609560763",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Daraa 24",
+  "publisher_ar": "Daraa 24",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:34:42+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-571446fd6b05bce0022dbe63",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=1845715609560763",
+  "text_ar": "",
+  "text_original": "#فيديو: أحد وجهاء قرية كويا في منطقة حوض اليرموك في الريف الغربي من محافظة درعا، يشرح تفاصيل ما حصل اليوم، ويناشد كل مسؤول في المحافظة والحكومة الجديدة ودول الجوار بوضع حد للانتهاكات الإسـ.ـرائيـ.ـلية. مؤكداً: \"لم نتلقَ أي منشورات تدعونا للإخلاء، ونحن لن نخلي منطقتنا، وهذه أرضنا إما نحيا فيها أو نموت فيها\".\n\n#سوريا #درعا #كويا #حوض_اليرموك #درعا24 | درعا 24",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003536
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

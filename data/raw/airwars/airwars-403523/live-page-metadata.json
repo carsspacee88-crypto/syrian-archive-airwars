@@ -1,13 +1,26 @@
 {
+  "attempt_history": [
+    {
+      "attempt": 1,
+      "elapsed_seconds": 0.023,
+      "error": "http_403",
+      "result": "http_error",
+      "retrieved_at": "2026-07-31T17:58:30+00:00",
+      "status": 403
+    }
+  ],
   "attempts": 1,
-  "bytes": 103,
-  "content_hash": "f261423d1da97890ff6bfccd31ff4ee0b74f69351cf75095fbe791cb16cbf5bd",
-  "content_type": "text/html",
-  "elapsed_seconds": 2.079,
+  "body_decoded_from": null,
+  "bytes": 1515,
+  "content_hash": "c73e46fcc064e07bef5c904c8a8d16ec6bf2520a27b6ea7e40f7470b855dc31c",
+  "content_type": "text/html; charset=utf-8",
+  "elapsed_seconds": 0.023,
   "error": "http_403",
   "final_url": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
   "ok": false,
-  "retrieved_at": "2026-07-31T11:03:01+00:00",
+  "response_content_encoding": "",
+  "retrieved_at": "2026-07-31T17:58:30+00:00",
   "status": 403,
-  "url": "https://airwars.org/civilian-casualties/ts798-january-26-2026/"
+  "url": "https://airwars.org/civilian-casualties/ts798-january-26-2026/",
+  "waiting_seconds": 0.749
 }

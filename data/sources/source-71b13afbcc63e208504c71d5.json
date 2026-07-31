@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "223287"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-sprinterobserve-1934551524337668120-2025-06-16-100000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.452,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:38:59+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 81361,
+      "content_hash": "c13c06b3db879533c92c878ff7b662c7bff37ae4ecc54c707ada73a48e6aad34",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.452,
+      "error": null,
+      "final_url": "https://x.com/SprinterPress/status/1934551524337668120",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:38:59+00:00",
+      "status": 200,
+      "url": "https://x.com/SprinterObserve/status/1934551524337668120",
+      "waiting_seconds": 0.734
+    }
+  ],
+  "author": "https://x.com/SprinterPress",
+  "captions": [],
+  "content_hash": "fbe3eeabf52a6b65d83d7950af3856682b318b06a356649a961925e89fad99aa",
+  "content_variants": [
+    {
+      "bytes": 300,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:38:59+00:00",
+      "sha256": "fbe3eeabf52a6b65d83d7950af3856682b318b06a356649a961925e89fad99aa",
+      "source_url": "https://x.com/SprinterPress/status/1934551524337668120",
+      "text": "Post\n\nPost\n\n𝕊𝕡𝕣𝕚𝕟𝕥𝕖𝕣 𝕻𝕣𝕖𝕤𝕤@SprinterPressIsrael channel Kan:\n\nAvraham Cohen (one of the representatives of the Israeli security structure) was eliminated last night in Bnei Brak as a result of an Iranian missile strike.10:00 AM · Jun 16, 202510.7KViews103823111"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SprinterPress/status/1934551524337668120",
+  "incident_ids": [
+    "airwars-229045"
+  ],
+  "incident_sequences": [
+    55
+  ],
+  "normalized_url": "https://x.com/SprinterObserve/status/1934551524337668120",
+  "observed_original_urls": [
+    "https://x.com/SprinterObserve/status/1934551524337668120"
+  ],
+  "original_url": "https://x.com/SprinterObserve/status/1934551524337668120",
+  "page_title": "𝕊𝕡𝕣𝕚𝕟𝕥𝕖𝕣 𝕻𝕣𝕖𝕤𝕤 on X: \"Israel channel Kan:\n\nAvraham Cohen (one of the representatives of the Israeli security structure) was eliminated last night in Bnei Brak as a result of an Iranian missile strike. https://t.co/LgZolpVvkI\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/iris250616b-june-26-2025/",
+      "airwars_source_id": "223287",
+      "incident_id": "airwars-229045",
+      "incident_sequence": 55,
+      "observed_original_url": "https://x.com/SprinterObserve/status/1934551524337668120",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-06-16T10:00:00.000Z",
+  "publisher": "SprinterObserve",
+  "publisher_ar": "SprinterObserve",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:38:59+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-71b13afbcc63e208504c71d5",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SprinterObserve/status/1934551524337668120",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\n𝕊𝕡𝕣𝕚𝕟𝕥𝕖𝕣 𝕻𝕣𝕖𝕤𝕤@SprinterPressIsrael channel Kan:\n\nAvraham Cohen (one of the representatives of the Israeli security structure) was eliminated last night in Bnei Brak as a result of an Iranian missile strike.10:00 AM · Jun 16, 202510.7KViews103823111",
+  "text_original_language": "en",
+  "timing": {
+    "text_extraction_seconds": 0.00183
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

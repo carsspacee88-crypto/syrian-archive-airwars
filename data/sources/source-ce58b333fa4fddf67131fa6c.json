@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "273687"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-syrianumayyad-1960421688702603442-2025-08-26-191848/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.306,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:54:56+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 86907,
+      "content_hash": "afbc6f5031aa063eee8b38101c2dfd86037473739f73efb5c5e9041d47aa4999",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.306,
+      "error": null,
+      "final_url": "https://x.com/SyrianUmayyad/status/1960421688702603442",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:54:56+00:00",
+      "status": 200,
+      "url": "https://x.com/SyrianUmayyad/status/1960421688702603442",
+      "waiting_seconds": 0.737
+    }
+  ],
+  "author": "https://x.com/SyrianUmayyad",
+  "captions": [],
+  "content_hash": "1f45c4989caad36e827718174fabb7ee33a70d92db9e995c00635d7ba9370771",
+  "content_variants": [
+    {
+      "bytes": 283,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:54:56+00:00",
+      "sha256": "1f45c4989caad36e827718174fabb7ee33a70d92db9e995c00635d7ba9370771",
+      "source_url": "https://x.com/SyrianUmayyad/status/1960421688702603442",
+      "text": "Post\n\nPost\n\nالإخبارية السورية الأموية@SyrianUmayyadالمنزل الذي قصفه الاحتلال الإسرائيلي في قرية طرنجة بريف القنيطرة الشمالي, ما أدى إلى استشهاد شاب.7:18 PM · Aug 26, 2025904Views6"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyrianUmayyad/status/1960421688702603442",
+  "incident_ids": [
+    "airwars-276126"
+  ],
+  "incident_sequences": [
+    44
+  ],
+  "normalized_url": "https://x.com/SyrianUmayyad/status/1960421688702603442",
+  "observed_original_urls": [
+    "https://x.com/SyrianUmayyad/status/1960421688702603442"
+  ],
+  "original_url": "https://x.com/SyrianUmayyad/status/1960421688702603442",
+  "page_title": "الإخبارية السورية الأموية on X: \"المنزل الذي قصفه الاحتلال الإسرائيلي في قرية طرنجة بريف القنيطرة الشمالي, ما أدى إلى استشهاد شاب. https://t.co/BI7Duv1kyu\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy085-august-26-2025/",
+      "airwars_source_id": "273687",
+      "incident_id": "airwars-276126",
+      "incident_sequence": 44,
+      "observed_original_url": "https://x.com/SyrianUmayyad/status/1960421688702603442",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-08-26T19:18:48.000Z",
+  "publisher": "SyrianUmayyad",
+  "publisher_ar": "SyrianUmayyad",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:54:56+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-ce58b333fa4fddf67131fa6c",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyrianUmayyad/status/1960421688702603442",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالإخبارية السورية الأموية@SyrianUmayyadالمنزل الذي قصفه الاحتلال الإسرائيلي في قرية طرنجة بريف القنيطرة الشمالي, ما أدى إلى استشهاد شاب.7:18 PM · Aug 26, 2025904Views6",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001652
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,126 @@
+{
+  "airwars_source_ids": [
+    "295739"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-ali48023-1894451960390017049-2025-02-25-181839/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.287,
+          "error": "http_404",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:43:01+00:00",
+          "status": 404
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 36742,
+      "content_hash": "2adb9488c68ccc19e8e906ff3243a3416ff2f5793ea79a6fb4050406f1bffa05",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.287,
+      "error": "http_404",
+      "final_url": "https://x.com/Ali48023/status/1894451960390017049",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:43:01+00:00",
+      "status": 404,
+      "url": "https://x.com/Ali48023/status/1894451960390017049",
+      "waiting_seconds": 0.74
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/x-com-ali48023-1894451960390017049-2025-02-25-181839/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:43:01+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/x-com-ali48023-1894451960390017049-2025-02-25-181839/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_role": "wayback_lookup",
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "ok": false,
+      "retrieved_at": "2026-07-31T18:43:01+00:00"
+    }
+  ],
+  "author": "Ali48023",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_404",
+  "final_redirected_url": "https://x.com/Ali48023/status/1894451960390017049",
+  "incident_ids": [
+    "airwars-367998"
+  ],
+  "incident_sequences": [
+    98
+  ],
+  "normalized_url": "https://x.com/Ali48023/status/1894451960390017049",
+  "observed_original_urls": [
+    "https://x.com/Ali48023/status/1894451960390017049"
+  ],
+  "original_url": "https://x.com/Ali48023/status/1894451960390017049",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0131-february-25-2025/",
+      "airwars_source_id": "295739",
+      "incident_id": "airwars-367998",
+      "incident_sequence": 98,
+      "observed_original_url": "https://x.com/Ali48023/status/1894451960390017049",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "25 فبراير 2025",
+  "publisher": "Ali48023",
+  "publisher_ar": "Ali48023",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:43:01+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-82f806e7d7c1111b13b21890",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Ali48023/status/1894451960390017049",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

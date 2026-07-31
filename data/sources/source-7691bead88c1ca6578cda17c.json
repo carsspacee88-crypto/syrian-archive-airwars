@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "445499"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a7%d9%84%d9%85%d9%8a%d8%af%d8%a7%d9%86-%d8%a7%d9%84%d8%a2%d9%86-pfbid0hr5ndkg72pgexyunb1tw2rvkhs7qrxeqorpw1pqa45jwmrpjtbc9cwi1fspblxcql-2026-03-01-100000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.48,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:40:23+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 908451,
+      "content_hash": "0b3ef0a2228644d346dbe1694c06dd123707b015b03a1490c0a7d3ea5ae2110e",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.48,
+      "error": null,
+      "final_url": "https://www.facebook.com/Midan.now/posts/pfbid0hR5ndKg72pGeXyuNb1tw2rVkhs7QRXEQoRpw1pqa45jWMrpJTbc9cWi1FSPbLxcQl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:40:23+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/Midan.now/posts/pfbid0hR5ndKg72pGeXyuNb1tw2rVkhs7QRXEQoRpw1pqa45jWMrpJTbc9cWi1FSPbLxcQl",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "الميدان الآن",
+  "captions": [],
+  "content_hash": "9e6985a3f859042994cbdecb5eeacbb53c712562174a57a54157dce9cfa92940",
+  "content_variants": [
+    {
+      "bytes": 1251,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:40:23+00:00",
+      "sha256": "9e6985a3f859042994cbdecb5eeacbb53c712562174a57a54157dce9cfa92940",
+      "source_url": "https://www.facebook.com/Midan.now/posts/pfbid0hR5ndKg72pGeXyuNb1tw2rVkhs7QRXEQoRpw1pqa45jWMrpJTbc9cWi1FSPbLxcQl",
+      "text": "الميدان الآن - عاجل: إصابة أربعة أشخاص (الأب وثلاث بنات)...\nFacebook‎الميدان الآن‎'s Post\n\nالميدان الآنMarch 1 · Shared with Publicعاجل: إصابة أربعة أشخاص (الأب وثلاث بنات) بإصابات طفيفة، جراء سقوط صاروخ إيراني في منطقة عين ترما بريف دمشق، والحمد لله الإصابات ليست خطيرة ..All reactions:3.6K773 comments22 sharesLikeCommentMost relevant﻿Basel Alshameاللهم سلم واحفظهم بحفظك21wView 1 replyTop fanالبنت الشاميةالله يلطف بالعباد ويحمي سوريا21wView 1 replyسلوى الامامحسبنا الله ونعم الوكيل يا رب لطفك21wView 1 replyOla Aldaeefيالطيف الطف يارب21wView 1 replyEsraa M Khalafالله يلطف بالجميع21wView 1 replyHazem Almousaاللهم سلم21wView 1 replyNorma Jarabnde Janjeلحمد لله عالسلامة الله لايأذي مخلوق بالشفاء العاجل21wView 1 replyجوري الشاملطفك يا رب21wView 1 replyاطراد فلوحالله يشفيهم21wView 1 replyAle Alaneedحسبنااله ونعم الوكيل21wView 1 reply"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Midan.now/posts/pfbid0hR5ndKg72pGeXyuNb1tw2rVkhs7QRXEQoRpw1pqa45jWMrpJTbc9cWi1FSPbLxcQl",
+  "incident_ids": [
+    "airwars-454484"
+  ],
+  "incident_sequences": [
+    2
+  ],
+  "normalized_url": "https://www.facebook.com/Midan.now/posts/pfbid0hR5ndKg72pGeXyuNb1tw2rVkhs7QRXEQoRpw1pqa45jWMrpJTbc9cWi1FSPbLxcQl",
+  "observed_original_urls": [
+    "https://www.facebook.com/Midan.now/posts/pfbid0hR5ndKg72pGeXyuNb1tw2rVkhs7QRXEQoRpw1pqa45jWMrpJTbc9cWi1FSPbLxcQl"
+  ],
+  "original_url": "https://www.facebook.com/Midan.now/posts/pfbid0hR5ndKg72pGeXyuNb1tw2rVkhs7QRXEQoRpw1pqa45jWMrpJTbc9cWi1FSPbLxcQl",
+  "page_title": "الميدان الآن - عاجل: إصابة أربعة أشخاص (الأب وثلاث بنات)... Facebook Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260301a-march-1-2026/",
+      "airwars_source_id": "445499",
+      "incident_id": "airwars-454484",
+      "incident_sequence": 2,
+      "observed_original_url": "https://www.facebook.com/Midan.now/posts/pfbid0hR5ndKg72pGeXyuNb1tw2rVkhs7QRXEQoRpw1pqa45jWMrpJTbc9cWi1FSPbLxcQl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "1 مارس 2026",
+  "publisher": "ALmidan now",
+  "publisher_ar": "الميدان الآن",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:40:23+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-7691bead88c1ca6578cda17c",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/Midan.now/posts/pfbid0hR5ndKg72pGeXyuNb1tw2rVkhs7QRXEQoRpw1pqa45jWMrpJTbc9cWi1FSPbLxcQl",
+  "text_ar": "",
+  "text_original": "الميدان الآن - عاجل: إصابة أربعة أشخاص (الأب وثلاث بنات)...\nFacebook‎الميدان الآن‎'s Post\n\nالميدان الآنMarch 1 · Shared with Publicعاجل: إصابة أربعة أشخاص (الأب وثلاث بنات) بإصابات طفيفة، جراء سقوط صاروخ إيراني في منطقة عين ترما بريف دمشق، والحمد لله الإصابات ليست خطيرة ..All reactions:3.6K773 comments22 sharesLikeCommentMost relevant﻿Basel Alshameاللهم سلم واحفظهم بحفظك21wView 1 replyTop fanالبنت الشاميةالله يلطف بالعباد ويحمي سوريا21wView 1 replyسلوى الامامحسبنا الله ونعم الوكيل يا رب لطفك21wView 1 replyOla Aldaeefيالطيف الطف يارب21wView 1 replyEsraa M Khalafالله يلطف بالجميع21wView 1 replyHazem Almousaاللهم سلم21wView 1 replyNorma Jarabnde Janjeلحمد لله عالسلامة الله لايأذي مخلوق بالشفاء العاجل21wView 1 replyجوري الشاملطفك يا رب21wView 1 replyاطراد فلوحالله يشفيهم21wView 1 replyAle Alaneedحسبنااله ونعم الوكيل21wView 1 reply",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.004619
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

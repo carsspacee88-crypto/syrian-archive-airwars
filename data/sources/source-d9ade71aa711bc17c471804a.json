@@ -1,0 +1,149 @@
+{
+  "airwars_source_ids": [
+    "308422"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-user1-2025-03-17-061833/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-7: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:56:43+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-7: ordinal not in range(128)",
+      "final_url": "https://www.syriahr.com/مجـ-ـز-ر-ة-بحق-الأطفال-ترتكبها-تركيا-اس/753449/?fbclid=IwY2xjawJEwexleHRuA2FlbQIxMQABHYT63YqNGr8Gtbbhg6dddVWunEzF1S2agQXpxaM9jdGTF6",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:56:43+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/مجـ-ـز-ر-ة-بحق-الأطفال-ترتكبها-تركيا-اس/753449/?fbclid=IwY2xjawJEwexleHRuA2FlbQIxMQABHYT63YqNGr8Gtbbhg6dddVWunEzF1S2agQXpxaM9jdGTF6",
+      "waiting_seconds": 0.736
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.031,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:56:43+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1540,
+      "content_hash": "bedad181ec45e7475ae24943f8a3b27a367dc6fe68475eb383f816474537a812",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.031,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-syriahr-com-user1-2025-03-17-061833/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:56:43+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-syriahr-com-user1-2025-03-17-061833/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 13.376,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:56:58+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 13.376,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D9%85%D8%AC%D9%80-%D9%80%D8%B2-%D8%B1-%D8%A9-%D8%A8%D8%AD%D9%82-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%AA%D8%B1%D8%AA%D9%83%D8%A8%D9%87%D8%A7-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A7%D8%B3%2F753449%2F%3Ffbclid%3DIwY2xjawJEwexleHRuA2FlbQIxMQABHYT63YqNGr8Gtbbhg6dddVWunEzF1S2agQXpxaM9jdGTF6&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:56:58+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D9%85%D8%AC%D9%80-%D9%80%D8%B2-%D8%B1-%D8%A9-%D8%A8%D8%AD%D9%82-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%AA%D8%B1%D8%AA%D9%83%D8%A8%D9%87%D8%A7-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A7%D8%B3%2F753449%2F%3Ffbclid%3DIwY2xjawJEwexleHRuA2FlbQIxMQABHYT63YqNGr8Gtbbhg6dddVWunEzF1S2agQXpxaM9jdGTF6&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "user1",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-7: ordinal not in range(128)",
+  "final_redirected_url": "https://www.syriahr.com/مجـ-ـز-ر-ة-بحق-الأطفال-ترتكبها-تركيا-اس/753449/?fbclid=IwY2xjawJEwexleHRuA2FlbQIxMQABHYT63YqNGr8Gtbbhg6dddVWunEzF1S2agQXpxaM9jdGTF6",
+  "incident_ids": [
+    "airwars-304188"
+  ],
+  "incident_sequences": [
+    86
+  ],
+  "normalized_url": "https://www.syriahr.com/مجـ-ـز-ر-ة-بحق-الأطفال-ترتكبها-تركيا-اس/753449/?fbclid=IwY2xjawJEwexleHRuA2FlbQIxMQABHYT63YqNGr8Gtbbhg6dddVWunEzF1S2agQXpxaM9jdGTF6",
+  "observed_original_urls": [
+    "https://www.syriahr.com/مجـ-ـز-ر-ة-بحق-الأطفال-ترتكبها-تركيا-اس/753449/?fbclid=IwY2xjawJEwexleHRuA2FlbQIxMQABHYT63YqNGr8Gtbbhg6dddVWunEzF1S2agQXpxaM9jdGTF6"
+  ],
+  "original_url": "https://www.syriahr.com/مجـ-ـز-ر-ة-بحق-الأطفال-ترتكبها-تركيا-اس/753449/?fbclid=IwY2xjawJEwexleHRuA2FlbQIxMQABHYT63YqNGr8Gtbbhg6dddVWunEzF1S2agQXpxaM9jdGTF6",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts796-march-16-2025/",
+      "airwars_source_id": "308422",
+      "incident_id": "airwars-304188",
+      "incident_sequence": 86,
+      "observed_original_url": "https://www.syriahr.com/مجـ-ـز-ر-ة-بحق-الأطفال-ترتكبها-تركيا-اس/753449/?fbclid=IwY2xjawJEwexleHRuA2FlbQIxMQABHYT63YqNGr8Gtbbhg6dddVWunEzF1S2agQXpxaM9jdGTF6",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "17 مارس 2025",
+  "publisher": "user1",
+  "publisher_ar": "user1",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:56:43+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-d9ade71aa711bc17c471804a",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.syriahr.com/مجـ-ـز-ر-ة-بحق-الأطفال-ترتكبها-تركيا-اس/753449/?fbclid=IwY2xjawJEwexleHRuA2FlbQIxMQABHYT63YqNGr8Gtbbhg6dddVWunEzF1S2agQXpxaM9jdGTF6",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

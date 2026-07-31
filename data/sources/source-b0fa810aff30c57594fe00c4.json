@@ -1,0 +1,118 @@
+{
+  "airwars_source_ids": [
+    "382979"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87-%d8%b9%d8%a8%d8%af-%d8%b1%d8%ac%d8%a8-pfbid0cqkjzle3cjy5j6nxi3anenebjmdmhrvfbitj3ptbnksdmdazcihcuxc63ov21kjyl-2025-07-27-090000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.274,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:51:01+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 312145,
+      "content_hash": "3da92831231134cd670d10d6efd83247173639ed320bcc475194f18788286055",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.274,
+      "error": null,
+      "final_url": "https://www.facebook.com/zbver/posts/pfbid0CqKjZLe3cJy5j6nXi3anEnEbJmDmHrVfBitj3PtbnKsDMdaZciHcuXc63ov21KJYl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:51:01+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/zbver/posts/pfbid0CqKjZLe3cJy5j6nXi3anEnEbJmDmHrVfBitj3PtbnKsDMdaZciHcuXc63ov21KJYl",
+      "waiting_seconds": 0.737
+    }
+  ],
+  "author": "عبدالله عبد رجب",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:51:01+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/zbver/posts/pfbid0CqKjZLe3cJy5j6nXi3anEnEbJmDmHrVfBitj3PtbnKsDMdaZciHcuXc63ov21KJYl",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "exact_content_duplicate_group": "exact-content-d41f5b4977ee05c6b61b3b5f",
+  "exact_content_duplicate_of": "source-0160e417c7415dd8930b5766",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/zbver/posts/pfbid0CqKjZLe3cJy5j6nXi3anEnEbJmDmHrVfBitj3PtbnKsDMdaZciHcuXc63ov21KJYl",
+  "incident_ids": [
+    "airwars-387055",
+    "airwars-386618"
+  ],
+  "incident_sequences": [
+    47,
+    48
+  ],
+  "normalized_url": "https://www.facebook.com/zbver/posts/pfbid0CqKjZLe3cJy5j6nXi3anEnEbJmDmHrVfBitj3PtbnKsDMdaZciHcuXc63ov21KJYl",
+  "observed_original_urls": [
+    "https://www.facebook.com/zbver/posts/pfbid0CqKjZLe3cJy5j6nXi3anEnEbJmDmHrVfBitj3PtbnKsDMdaZciHcuXc63ov21KJYl"
+  ],
+  "original_url": "https://www.facebook.com/zbver/posts/pfbid0CqKjZLe3cJy5j6nXi3anEnEbJmDmHrVfBitj3PtbnKsDMdaZciHcuXc63ov21KJYl",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0152-july-25-2025/",
+      "airwars_source_id": "382979",
+      "incident_id": "airwars-387055",
+      "incident_sequence": 47,
+      "observed_original_url": "https://www.facebook.com/zbver/posts/pfbid0CqKjZLe3cJy5j6nXi3anEnEbJmDmHrVfBitj3PtbnKsDMdaZciHcuXc63ov21KJYl",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0152a-july-25-2025/",
+      "airwars_source_id": "382979",
+      "incident_id": "airwars-386618",
+      "incident_sequence": 48,
+      "observed_original_url": "https://www.facebook.com/zbver/posts/pfbid0CqKjZLe3cJy5j6nXi3anEnEbJmDmHrVfBitj3PtbnKsDMdaZciHcuXc63ov21KJYl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "27 يوليو 2025",
+  "publisher": "Abdullah Abdul Rajab",
+  "publisher_ar": "عبدالله عبد رجب",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:51:01+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-b0fa810aff30c57594fe00c4",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/zbver/posts/pfbid0CqKjZLe3cJy5j6nXi3anEnEbJmDmHrVfBitj3PtbnKsDMdaZciHcuXc63ov21KJYl",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001007
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

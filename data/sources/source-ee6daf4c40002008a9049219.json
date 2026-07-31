@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "271303"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-syrianeagle313-1931730313866269067-2025-06-08-150931/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.19,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T19:00:34+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 54942,
+      "content_hash": "bf7aa12c41a73f6a469335c0588ccdadaf9395ecd1b9055fbc69458f89a4e1bb",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.19,
+      "error": null,
+      "final_url": "https://x.com/SyrianEagle313/status/1931730313866269067",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:00:34+00:00",
+      "status": 200,
+      "url": "https://x.com/SyrianEagle313/status/1931730313866269067",
+      "waiting_seconds": 0.74
+    }
+  ],
+  "author": "SyrianEagle313",
+  "captions": [],
+  "content_hash": "d2530831bebd216101ec50e73cf060f7620abed6098f24f055c5104958106508",
+  "content_variants": [
+    {
+      "bytes": 29,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T19:00:34+00:00",
+      "sha256": "d2530831bebd216101ec50e73cf060f7620abed6098f24f055c5104958106508",
+      "source_url": "https://x.com/SyrianEagle313/status/1931730313866269067",
+      "text": "PostLog inSign upPost93Views1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyrianEagle313/status/1931730313866269067",
+  "incident_ids": [
+    "airwars-276120"
+  ],
+  "incident_sequences": [
+    68
+  ],
+  "normalized_url": "https://x.com/SyrianEagle313/status/1931730313866269067",
+  "observed_original_urls": [
+    "https://x.com/SyrianEagle313/status/1931730313866269067"
+  ],
+  "original_url": "https://x.com/SyrianEagle313/status/1931730313866269067",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy082-june-8-2025/",
+      "airwars_source_id": "271303",
+      "incident_id": "airwars-276120",
+      "incident_sequence": 68,
+      "observed_original_url": "https://x.com/SyrianEagle313/status/1931730313866269067",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "8 يونيو 2025",
+  "publisher": "SyrianEagle313",
+  "publisher_ar": "SyrianEagle313",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T19:00:34+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-ee6daf4c40002008a9049219",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyrianEagle313/status/1931730313866269067",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost93Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001088
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "226073"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-sprinterobserve-1934885243187536052-2025-06-17-080605/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.633,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:49:39+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 84664,
+      "content_hash": "4bf8f048ae69e1709c1ca8d80685a26414d47f4188dbd088223670ea6f84b765",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.633,
+      "error": null,
+      "final_url": "https://x.com/SprinterPress/status/1934885243187536052",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:49:39+00:00",
+      "status": 200,
+      "url": "https://x.com/SprinterObserve/status/1934885243187536052",
+      "waiting_seconds": 0.734
+    }
+  ],
+  "author": "https://x.com/SprinterPress",
+  "captions": [],
+  "content_hash": "6b74ed9461ac6e3c948b2f48cf0d14332f2155f22e938d049af11ae01c0b907f",
+  "content_variants": [
+    {
+      "bytes": 542,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:49:39+00:00",
+      "sha256": "6b74ed9461ac6e3c948b2f48cf0d14332f2155f22e938d049af11ae01c0b907f",
+      "source_url": "https://x.com/SprinterPress/status/1934885243187536052",
+      "text": "Post\n\nPost\n\n𝕊𝕡𝕣𝕚𝕟𝕥𝕖𝕣 𝕻𝕣𝕖𝕤𝕤@SprinterPressSeveral Israeli Arrested on Charges of Installing Cameras to Live Broadcast Iran's Attacks on Haifa\n\nThe Israel regime police announced the arrest of several people who intended to film and publish live the possible Iranian missile strikes on the port of Haifa.\n\nThese individuals installed cameras on the balcony of one of the hotels overlooking the port of Haifa in order to record in real time the moment the rockets hit.8:06 AM · Jun 17, 202511.3KViews323727"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SprinterPress/status/1934885243187536052",
+  "incident_ids": [
+    "airwars-229045"
+  ],
+  "incident_sequences": [
+    55
+  ],
+  "normalized_url": "https://x.com/SprinterObserve/status/1934885243187536052",
+  "observed_original_urls": [
+    "https://x.com/SprinterObserve/status/1934885243187536052"
+  ],
+  "original_url": "https://x.com/SprinterObserve/status/1934885243187536052",
+  "page_title": "𝕊𝕡𝕣𝕚𝕟𝕥𝕖𝕣 𝕻𝕣𝕖𝕤𝕤 on X: \"Several Israeli Arrested on Charges of Installing Cameras to Live Broadcast Iran's Attacks on Haifa\n\nThe Israel regime police announced the arrest of several people who intended to film and publish live the possible Iranian missile strikes on the port of Haifa.\n\nThese individuals installed cameras on the balcony of one of the hotels overlooking the port of Haifa in order to record in real time the moment the rockets hit.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/iris250616b-june-26-2025/",
+      "airwars_source_id": "226073",
+      "incident_id": "airwars-229045",
+      "incident_sequence": 55,
+      "observed_original_url": "https://x.com/SprinterObserve/status/1934885243187536052",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-06-17T08:06:05.000Z",
+  "publisher": "SprinterObserve",
+  "publisher_ar": "SprinterObserve",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:49:39+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a95870bf09ef2566236af270",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SprinterObserve/status/1934885243187536052",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\n𝕊𝕡𝕣𝕚𝕟𝕥𝕖𝕣 𝕻𝕣𝕖𝕤𝕤@SprinterPressSeveral Israeli Arrested on Charges of Installing Cameras to Live Broadcast Iran's Attacks on Haifa\n\nThe Israel regime police announced the arrest of several people who intended to film and publish live the possible Iranian missile strikes on the port of Haifa.\n\nThese individuals installed cameras on the balcony of one of the hotels overlooking the port of Haifa in order to record in real time the moment the rockets hit.8:06 AM · Jun 17, 202511.3KViews323727",
+  "text_original_language": "en",
+  "timing": {
+    "text_extraction_seconds": 0.001964
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

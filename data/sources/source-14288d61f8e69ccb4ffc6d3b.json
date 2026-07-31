@@ -1,0 +1,145 @@
+{
+  "airwars_source_ids": [
+    "365561"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-12-19-214756/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "live_source",
+          "host": "syriahr.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://www.syriahr.com/استهدافات-أمريكية-تطال-مواقع-التنظيم/788357/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:23:11+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/استهدافات-أمريكية-تطال-مواقع-التنظيم/788357/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-12-19-214756/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:23:11+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-12-19-214756/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.038,
+          "error": "URLError: <urlopen error timed out>",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:23:22+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.038,
+      "error": "URLError: <urlopen error timed out>",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81%D8%A7%D8%AA-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%2F788357%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:23:22+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81%D8%A7%D8%AA-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%AA%D8%B7%D8%A7%D9%84-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%2F788357%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "المرصد السوري",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "host_circuit_open_after_repeated_block_or_timeout",
+  "final_redirected_url": "https://www.syriahr.com/استهدافات-أمريكية-تطال-مواقع-التنظيم/788357/",
+  "incident_ids": [
+    "airwars-387045"
+  ],
+  "incident_sequences": [
+    16
+  ],
+  "normalized_url": "https://www.syriahr.com/استهدافات-أمريكية-تطال-مواقع-التنظيم/788357/",
+  "observed_original_urls": [
+    "https://www.syriahr.com/استهدافات-أمريكية-تطال-مواقع-التنظيم/788357/"
+  ],
+  "original_url": "https://www.syriahr.com/استهدافات-أمريكية-تطال-مواقع-التنظيم/788357/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0171-december-19-2025/",
+      "airwars_source_id": "365561",
+      "incident_id": "airwars-387045",
+      "incident_sequence": 16,
+      "observed_original_url": "https://www.syriahr.com/استهدافات-أمريكية-تطال-مواقع-التنظيم/788357/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "19 ديسمبر 2025",
+  "publisher": "Syrian Observatory",
+  "publisher_ar": "المرصد السوري",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:23:11+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-14288d61f8e69ccb4ffc6d3b",
+  "source_type": "ngo_report",
+  "stable_id_basis": "https://www.syriahr.com/استهدافات-أمريكية-تطال-مواقع-التنظيم/788357/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

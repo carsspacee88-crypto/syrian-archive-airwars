@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "338519"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/t-me-idfofficial-16068-2025-11-28-112435/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 7.328,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:39:29+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 15825,
+      "content_hash": "a0832e6866e6382a1411b34a95e8029df416377e6a69be19134bf64f50c20f29",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 7.328,
+      "error": null,
+      "final_url": "https://t.me/idfofficial/16068?embed=1&mode=tme",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:39:29+00:00",
+      "status": 200,
+      "url": "https://t.me/idfofficial/16068?embed=1&mode=tme",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "idfofficial",
+  "captions": [],
+  "content_hash": "053af018d42c7ca744ca554860e0a6db5b426f59e7be0430bdb40696a28df214",
+  "content_variants": [
+    {
+      "bytes": 1170,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:39:29+00:00",
+      "sha256": "053af018d42c7ca744ca554860e0a6db5b426f59e7be0430bdb40696a28df214",
+      "source_url": "https://t.me/idfofficial/16068?embed=1&mode=tme",
+      "text": "Telegram Widget\n\nIsrael Defense Forces ✔\n\nIDF: 55th Brigade Troops in a Face-to-Face Encounter During the Apprehension Operation: Body-Camera Footage From the Encounter in the Area of Beit Jann in Syria:Last night, troops of the 55th Brigade, under the command of the 210th Division, completed an operation to apprehend three terrorists affiliated with the “Jamma Islamiya” in southern Syria.During the operation, the troops engaged in a face-to-face combat encounter with terrorists. During the operation, three troops were severely wounded and three additional troops sustained injuries of various degrees.The troops completed the activity in the area. A number of terrorists were eliminated, and the suspects were apprehended.Attached are photos from the moments of the apprehension in the area of Beit Jann in southern Syria: https://IDFANC.activetrail.biz/ANC28112025684653Attached is footage from the moments of the apprehension in the area of Beit Jann in southern Syria: https://bit.ly/488t2XHAttached is footage of the face-to-face encounter from the troops’ body cameras: https://bit.ly/4ooxPsW\n\nt.me/idfofficial/16068\n\n14.2K viewsNov 28, 2025 at 11:24"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://t.me/idfofficial/16068?embed=1&mode=tme",
+  "incident_ids": [
+    "airwars-318800"
+  ],
+  "incident_sequences": [
+    24
+  ],
+  "normalized_url": "https://t.me/idfofficial/16068?embed=1&mode=tme",
+  "observed_original_urls": [
+    "https://t.me/idfofficial/16068?embed=1&mode=tme"
+  ],
+  "original_url": "https://t.me/idfofficial/16068?embed=1&mode=tme",
+  "page_title": "Telegram Widget",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy087-november-28-2025/",
+      "airwars_source_id": "338519",
+      "incident_id": "airwars-318800",
+      "incident_sequence": 24,
+      "observed_original_url": "https://t.me/idfofficial/16068?embed=1&mode=tme",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-11-28T11:24:35+00:00",
+  "publisher": "idfofficial",
+  "publisher_ar": "idfofficial",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:39:29+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-7494b905d387ec191ca4be21",
+  "source_type": "public_telegram_post",
+  "stable_id_basis": "https://t.me/idfofficial/16068?embed=1&mode=tme",
+  "text_ar": "",
+  "text_original": "Telegram Widget\n\nIsrael Defense Forces ✔\n\nIDF: 55th Brigade Troops in a Face-to-Face Encounter During the Apprehension Operation: Body-Camera Footage From the Encounter in the Area of Beit Jann in Syria:Last night, troops of the 55th Brigade, under the command of the 210th Division, completed an operation to apprehend three terrorists affiliated with the “Jamma Islamiya” in southern Syria.During the operation, the troops engaged in a face-to-face combat encounter with terrorists. During the operation, three troops were severely wounded and three additional troops sustained injuries of various degrees.The troops completed the activity in the area. A number of terrorists were eliminated, and the suspects were apprehended.Attached are photos from the moments of the apprehension in the area of Beit Jann in southern Syria: https://IDFANC.activetrail.biz/ANC28112025684653Attached is footage from the moments of the apprehension in the area of Beit Jann in southern Syria: https://bit.ly/488t2XHAttached is footage of the face-to-face encounter from the troops’ body cameras: https://bit.ly/4ooxPsW\n\nt.me/idfofficial/16068\n\n14.2K viewsNov 28, 2025 at 11:24",
+  "text_original_language": "en",
+  "timing": {
+    "text_extraction_seconds": 0.000553
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

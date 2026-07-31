@@ -1,0 +1,108 @@
+{
+  "airwars_source_ids": [
+    "308420"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/hawarnews-com-author1-2025-03-17-065610/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.383,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:49:51+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 128057,
+      "content_hash": "76582a2fbc1053aa3d44c0d0669481299c20e266ef883a6f531ca718e4e148f0",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.383,
+      "error": null,
+      "final_url": "https://hawarnews.com/ar/120333",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:49:51+00:00",
+      "status": 200,
+      "url": "https://hawarnews.com/ar/120333",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "Hawar author1",
+  "captions": [],
+  "content_hash": "c664be187d3e4df7e17c6e908f11f2a74298d8feefcefbf6f524d031b93b5c91",
+  "content_variants": [
+    {
+      "bytes": 1704,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:49:51+00:00",
+      "sha256": "c664be187d3e4df7e17c6e908f11f2a74298d8feefcefbf6f524d031b93b5c91",
+      "source_url": "https://hawarnews.com/ar/120333",
+      "text": "الجمعة 31 تموز, 2026\n\nتصعيد أوروبي بعد أزمة سبتة.. إيطاليا تعلّق شنغن مع إسبانيا\n\nغرق سائق صهريج نفط في سد الحسكة الجنوبي\n\nأنصار الله تنفي فرض رسوم على السفن وتحذر من التحالف البحري السعودي\n\nدراسة إسرائيلية: الذكاء الاصطناعي وسّع نطاق قتل المدنيين في غزة\n\nتقرير بريطاني: نتنياهو وترامب يدرسان فرض حصار بري على إيران\n\nحماس: تنفيذ نزع السلاح في غزة يبدأ بوقف الهجمات الإسرائيلية\n\n81 قتيلاً ونحو 1300 إصابة في أكثر من 1400 حادث سير بسوريا منذ بداية 2025\n\nفقدان 25 شخصاً لحياتهم وإصابة 44 جراء انقلاب حافلة في الجزائر\n\nطلاب الطب في سوريا يطالبون بإلغاء علامة المقابلة ضمن مفاضلة الاختصاص\n\nالكويت تعلن إسقاط طائرات مسيّرة وتتهم إيران باستهداف منشآت حيوية وعسكرية\n\nالجيش الإسرائيلي يعلن اغتيال قيادي في غزة\n\nنقابة المهندسين تعلن تسهيلات جديدة لتقييم المباني المتضررة في سوريا\n\nإدارة غزة تعلن جاهزيتها لتولّي إدارة القطاع وترحب بخريطة الطريق\n\nالحرس الثوري الإيراني يعلن استهداف ناقلتي نفط في مضيق هرمز\n\nاللغة/Language\n\nعربي\nKURDÎ\n\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nENGLISH\n\nSPANISH\n\nRUSSIAN"
+    }
+  ],
+  "descriptions": [],
+  "exact_content_duplicate_group": "exact-content-c664be187d3e4df7e17c6e90",
+  "exact_content_duplicate_of": null,
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://hawarnews.com/ar/120333",
+  "incident_ids": [
+    "airwars-304188"
+  ],
+  "incident_sequences": [
+    86
+  ],
+  "normalized_url": "https://hawarnews.com/ar/120333",
+  "observed_original_urls": [
+    "https://hawarnews.com/ar/120333"
+  ],
+  "original_url": "https://hawarnews.com/ar/120333",
+  "page_title": "سبعة أطفال مع والديهم ضحايا مجزرة مروعة ارتكبها الاحتلال التركي -ANHA",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts796-march-16-2025/",
+      "airwars_source_id": "308420",
+      "incident_id": "airwars-304188",
+      "incident_sequence": 86,
+      "observed_original_url": "https://hawarnews.com/ar/120333",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-03-17 09:56:10",
+  "publisher": "author1",
+  "publisher_ar": "author1",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:49:51+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-aa48b846e02a2b7214ed38b2",
+  "source_type": "news_article",
+  "stable_id_basis": "https://hawarnews.com/ar/120333",
+  "text_ar": "",
+  "text_original": "الجمعة 31 تموز, 2026\n\nتصعيد أوروبي بعد أزمة سبتة.. إيطاليا تعلّق شنغن مع إسبانيا\n\nغرق سائق صهريج نفط في سد الحسكة الجنوبي\n\nأنصار الله تنفي فرض رسوم على السفن وتحذر من التحالف البحري السعودي\n\nدراسة إسرائيلية: الذكاء الاصطناعي وسّع نطاق قتل المدنيين في غزة\n\nتقرير بريطاني: نتنياهو وترامب يدرسان فرض حصار بري على إيران\n\nحماس: تنفيذ نزع السلاح في غزة يبدأ بوقف الهجمات الإسرائيلية\n\n81 قتيلاً ونحو 1300 إصابة في أكثر من 1400 حادث سير بسوريا منذ بداية 2025\n\nفقدان 25 شخصاً لحياتهم وإصابة 44 جراء انقلاب حافلة في الجزائر\n\nطلاب الطب في سوريا يطالبون بإلغاء علامة المقابلة ضمن مفاضلة الاختصاص\n\nالكويت تعلن إسقاط طائرات مسيّرة وتتهم إيران باستهداف منشآت حيوية وعسكرية\n\nالجيش الإسرائيلي يعلن اغتيال قيادي في غزة\n\nنقابة المهندسين تعلن تسهيلات جديدة لتقييم المباني المتضررة في سوريا\n\nإدارة غزة تعلن جاهزيتها لتولّي إدارة القطاع وترحب بخريطة الطريق\n\nالحرس الثوري الإيراني يعلن استهداف ناقلتي نفط في مضيق هرمز\n\nاللغة/Language\n\nعربي\nKURDÎ\n\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nENGLISH\n\nSPANISH\n\nRUSSIAN",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002441
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

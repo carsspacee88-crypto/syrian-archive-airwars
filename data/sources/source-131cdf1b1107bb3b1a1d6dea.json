@@ -1,0 +1,147 @@
+{
+  "airwars_source_ids": [
+    "368062"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-12-23-090158/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "live_source",
+          "host": "syriahr.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://www.syriahr.com/إنزال-جوي-لـالتحالف-الدولي-في-ريف-الر/788755/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:22:54+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/إنزال-جوي-لـالتحالف-الدولي-في-ريف-الر/788755/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.03,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:22:55+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1880,
+      "content_hash": "fe1ae06af9c77091e23b138be61b3ed56dc66603f88749857a2a40a12b3c5590",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.03,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-12-23-090158/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:22:55+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-12-23-090158/",
+      "waiting_seconds": 0.742
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.014,
+          "error": "URLError: <urlopen error timed out>",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:23:05+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.014,
+      "error": "URLError: <urlopen error timed out>",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%80%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%B1%2F788755%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:23:05+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%80%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%B1%2F788755%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "المرصد السوري",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "host_circuit_open_after_repeated_block_or_timeout",
+  "final_redirected_url": "https://www.syriahr.com/إنزال-جوي-لـالتحالف-الدولي-في-ريف-الر/788755/",
+  "incident_ids": [
+    "airwars-379131"
+  ],
+  "incident_sequences": [
+    13
+  ],
+  "normalized_url": "https://www.syriahr.com/إنزال-جوي-لـالتحالف-الدولي-في-ريف-الر/788755/",
+  "observed_original_urls": [
+    "https://www.syriahr.com/إنزال-جوي-لـالتحالف-الدولي-في-ريف-الر/788755/"
+  ],
+  "original_url": "https://www.syriahr.com/إنزال-جوي-لـالتحالف-الدولي-في-ريف-الر/788755/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2021-december-23-2025/",
+      "airwars_source_id": "368062",
+      "incident_id": "airwars-379131",
+      "incident_sequence": 13,
+      "observed_original_url": "https://www.syriahr.com/إنزال-جوي-لـالتحالف-الدولي-في-ريف-الر/788755/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "23 ديسمبر 2025",
+  "publisher": "Syrian Observatory",
+  "publisher_ar": "المرصد السوري",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:22:54+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-131cdf1b1107bb3b1a1d6dea",
+  "source_type": "ngo_report",
+  "stable_id_basis": "https://www.syriahr.com/إنزال-جوي-لـالتحالف-الدولي-في-ريف-الر/788755/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

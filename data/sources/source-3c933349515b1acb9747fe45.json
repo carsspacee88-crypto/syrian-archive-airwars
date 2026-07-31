@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "223310"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-thinkinghumanit-1934739685286223904-2025-06-16-222741/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.407,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:30:57+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 87833,
+      "content_hash": "98732b422adcf932335b8ead094602069512caf63a82ebb25c41b7327e4c0abe",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.407,
+      "error": null,
+      "final_url": "https://x.com/ThinkingHumanit/status/1934739685286223904",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:30:57+00:00",
+      "status": 200,
+      "url": "https://x.com/ThinkingHumanit/status/1934739685286223904",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "https://x.com/ThinkingHumanit",
+  "captions": [],
+  "content_hash": "20ea7225fc435d6e3dd42602662c2466641ec24f29365b85c0b3d1592801a58f",
+  "content_variants": [
+    {
+      "bytes": 448,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:30:57+00:00",
+      "sha256": "20ea7225fc435d6e3dd42602662c2466641ec24f29365b85c0b3d1592801a58f",
+      "source_url": "https://x.com/ThinkingHumanit/status/1934739685286223904",
+      "text": "Post\n\nPost\n\nThinking Humanity@ThinkingHumanit🔥 Haifa Refinery Hit by Iranian Missiles – 16 June\nIran launched around 40 ballistic missiles overnight; several struck the Bazan oil refinery in Haifa. Fires broke out, 3 workers were killed, and the facility remains completely offline, disrupting energy supply in northern Israel.\n\nCivilian infrastructure is now a direct target in this escalating conflict.00:0010:27 PM · Jun 16, 2025356Views11"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/ThinkingHumanit/status/1934739685286223904",
+  "incident_ids": [
+    "airwars-229045"
+  ],
+  "incident_sequences": [
+    55
+  ],
+  "normalized_url": "https://x.com/ThinkingHumanit/status/1934739685286223904",
+  "observed_original_urls": [
+    "https://x.com/ThinkingHumanit/status/1934739685286223904"
+  ],
+  "original_url": "https://x.com/ThinkingHumanit/status/1934739685286223904",
+  "page_title": "Thinking Humanity on X: \"🔥 Haifa Refinery Hit by Iranian Missiles – 16 June\nIran launched around 40 ballistic missiles overnight; several struck the Bazan oil refinery in Haifa. Fires broke out, 3 workers were killed, and the facility remains completely offline, disrupting energy supply in northern Israel.\n\nCivilian infrastructure is now a direct target in this escalating conflict.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/iris250616b-june-26-2025/",
+      "airwars_source_id": "223310",
+      "incident_id": "airwars-229045",
+      "incident_sequence": 55,
+      "observed_original_url": "https://x.com/ThinkingHumanit/status/1934739685286223904",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-06-16T22:27:41.000Z",
+  "publisher": "ThinkingHumanit",
+  "publisher_ar": "ThinkingHumanit",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:30:57+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-3c933349515b1acb9747fe45",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/ThinkingHumanit/status/1934739685286223904",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nThinking Humanity@ThinkingHumanit🔥 Haifa Refinery Hit by Iranian Missiles – 16 June\nIran launched around 40 ballistic missiles overnight; several struck the Bazan oil refinery in Haifa. Fires broke out, 3 workers were killed, and the facility remains completely offline, disrupting energy supply in northern Israel.\n\nCivilian infrastructure is now a direct target in this escalating conflict.00:0010:27 PM · Jun 16, 2025356Views11",
+  "text_original_language": "en",
+  "timing": {
+    "text_extraction_seconds": 0.001955
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

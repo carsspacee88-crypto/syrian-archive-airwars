@@ -1,0 +1,149 @@
+{
+  "airwars_source_ids": [
+    "223438"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-timesofisrael-com-by-reuters-and-toi-staff/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.051,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:25:35+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 13051,
+      "content_hash": "388faa42c586b7e0767c51c37b24f2e41f08eb669879e1ab438ed8d819a9cb88",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.051,
+      "error": "http_403",
+      "final_url": "https://www.timesofisrael.com/haifa-oil-refinery-partly-reopens-after-shutdown-caused-by-deadly-iran-strike/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:25:35+00:00",
+      "status": 403,
+      "url": "https://www.timesofisrael.com/haifa-oil-refinery-partly-reopens-after-shutdown-caused-by-deadly-iran-strike/",
+      "waiting_seconds": 0.739
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.04,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:25:36+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1575,
+      "content_hash": "6b8a42235920817beedb811c45338b9c79a4a4e966b84a57cb545790ff551a11",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.04,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-timesofisrael-com-by-reuters-and-toi-staff/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:25:36+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-timesofisrael-com-by-reuters-and-toi-staff/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.163,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:25:47+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.163,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.timesofisrael.com%2Fhaifa-oil-refinery-partly-reopens-after-shutdown-caused-by-deadly-iran-strike%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:25:47+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.timesofisrael.com%2Fhaifa-oil-refinery-partly-reopens-after-shutdown-caused-by-deadly-iran-strike%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "Times of Israel",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_403",
+  "final_redirected_url": "https://www.timesofisrael.com/haifa-oil-refinery-partly-reopens-after-shutdown-caused-by-deadly-iran-strike/",
+  "incident_ids": [
+    "airwars-229045"
+  ],
+  "incident_sequences": [
+    55
+  ],
+  "normalized_url": "https://www.timesofisrael.com/haifa-oil-refinery-partly-reopens-after-shutdown-caused-by-deadly-iran-strike/",
+  "observed_original_urls": [
+    "https://www.timesofisrael.com/haifa-oil-refinery-partly-reopens-after-shutdown-caused-by-deadly-iran-strike/"
+  ],
+  "original_url": "https://www.timesofisrael.com/haifa-oil-refinery-partly-reopens-after-shutdown-caused-by-deadly-iran-strike/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/iris250616b-june-26-2025/",
+      "airwars_source_id": "223438",
+      "incident_id": "airwars-229045",
+      "incident_sequence": 55,
+      "observed_original_url": "https://www.timesofisrael.com/haifa-oil-refinery-partly-reopens-after-shutdown-caused-by-deadly-iran-strike/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "29 يونيو 2025",
+  "publisher": "Times of Israel",
+  "publisher_ar": "Times of Israel",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:25:35+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-23869525fb5beb0fa0a33dba",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.timesofisrael.com/haifa-oil-refinery-partly-reopens-after-shutdown-caused-by-deadly-iran-strike/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "en",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

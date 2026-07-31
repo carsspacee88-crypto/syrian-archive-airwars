@@ -1,0 +1,185 @@
+{
+  "airwars_source_ids": [
+    "426923"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/arabi21-com-%d9%84%d9%86%d8%af%d9%86-%d8%b9%d8%b1%d8%a8%d9%8a21-28-feb-26-1220-pm-2026-02-28-092051/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 19-22: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:41:15+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 19-22: ordinal not in range(128)",
+      "final_url": "https://arabi21.com/story/1740880/مقتل-خمسة-أشخاص-بانفجار-مستودع-ذخيرة-في-السويداء",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:41:15+00:00",
+      "status": null,
+      "url": "https://arabi21.com/story/1740880/مقتل-خمسة-أشخاص-بانفجار-مستودع-ذخيرة-في-السويداء",
+      "waiting_seconds": 0.743
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.039,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:41:16+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1840,
+      "content_hash": "879972cf47269d5cdd5a1d3fb2602ba40047eee5a49159a33f0e6ac83e0ffd17",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.039,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/arabi21-com-%d9%84%d9%86%d8%af%d9%86-%d8%b9%d8%b1%d8%a8%d9%8a21-28-feb-26-1220-pm-2026-02-28-092051/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:41:16+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/arabi21-com-%d9%84%d9%86%d8%af%d9%86-%d8%b9%d8%b1%d8%a8%d9%8a21-28-feb-26-1220-pm-2026-02-28-092051/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.894,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:41:18+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 786,
+      "content_hash": "6e60b9dd2838115fb3b4d119ace57db1f5e27e24291edb3b118318cf14c7dcee",
+      "content_type": "application/json",
+      "elapsed_seconds": 0.894,
+      "error": null,
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Farabi21.com%2Fstory%2F1740880%2F%D9%85%D9%82%D8%AA%D9%84-%D8%AE%D9%85%D8%B3%D8%A9-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B3%D8%AA%D9%88%D8%AF%D8%B9-%D8%B0%D8%AE%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "lookup_result": "capture_found",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:41:18+00:00",
+      "status": 200,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Farabi21.com%2Fstory%2F1740880%2F%D9%85%D9%82%D8%AA%D9%84-%D8%AE%D9%85%D8%B3%D8%A9-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B3%D8%AA%D9%88%D8%AF%D8%B9-%D8%B0%D8%AE%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 61-64: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:41:18+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_capture",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "capture": {
+        "cdx_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Farabi21.com%2Fstory%2F1740880%2F%D9%85%D9%82%D8%AA%D9%84-%D8%AE%D9%85%D8%B3%D8%A9-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B3%D8%AA%D9%88%D8%AF%D8%B9-%D8%B0%D8%AE%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+        "digest": "BTADKSZ2KT33DLBBJOH2KUFMU4AKESUV",
+        "mimetype": "text/html",
+        "original": "https://arabi21.com/story/1740880/%D9%85%D9%82%D8%AA%D9%84-%D8%AE%D9%85%D8%B3%D8%A9-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B3%D8%AA%D9%88%D8%AF%D8%B9-%D8%B0%D8%AE%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1",
+        "replay_url": "https://web.archive.org/web/20260310040340id_/https://arabi21.com/story/1740880/مقتل-خمسة-أشخاص-بانفجار-مستودع-ذخيرة-في-السويداء",
+        "statuscode": "200",
+        "timestamp": "20260310040340"
+      },
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 61-64: ordinal not in range(128)",
+      "final_url": "https://web.archive.org/web/20260310040340id_/https://arabi21.com/story/1740880/مقتل-خمسة-أشخاص-بانفجار-مستودع-ذخيرة-في-السويداء",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:41:18+00:00",
+      "status": null,
+      "url": "https://web.archive.org/web/20260310040340id_/https://arabi21.com/story/1740880/مقتل-خمسة-أشخاص-بانفجار-مستودع-ذخيرة-في-السويداء",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "لندن - عربي21 28-Feb-26 12:20 PM",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 19-22: ordinal not in range(128)",
+  "final_redirected_url": "https://arabi21.com/story/1740880/مقتل-خمسة-أشخاص-بانفجار-مستودع-ذخيرة-في-السويداء",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://arabi21.com/story/1740880/مقتل-خمسة-أشخاص-بانفجار-مستودع-ذخيرة-في-السويداء",
+  "observed_original_urls": [
+    "https://arabi21.com/story/1740880/مقتل-خمسة-أشخاص-بانفجار-مستودع-ذخيرة-في-السويداء"
+  ],
+  "original_url": "https://arabi21.com/story/1740880/مقتل-خمسة-أشخاص-بانفجار-مستودع-ذخيرة-في-السويداء",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "426923",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://arabi21.com/story/1740880/مقتل-خمسة-أشخاص-بانفجار-مستودع-ذخيرة-في-السويداء",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "28 فبراير 2026",
+  "publisher": "London - Arabic21 28-Feb-26 12:20 PM",
+  "publisher_ar": "لندن - عربي21 28-Feb-26 12:20 PM",
+  "retrieval_status": "unavailable",
+  "retrieved_at": "2026-07-31T18:41:15+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-7bbbdfbac5687dc4054e6e29",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://arabi21.com/story/1740880/مقتل-خمسة-أشخاص-بانفجار-مستودع-ذخيرة-في-السويداء",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

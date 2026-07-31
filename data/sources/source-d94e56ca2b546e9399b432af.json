@@ -1,0 +1,149 @@
+{
+  "airwars_source_ids": [
+    "187112"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-2025-06-12-185926-2/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-11: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:56:26+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-11: ordinal not in range(128)",
+      "final_url": "https://www.syriahr.com/القيادة-المركزية-الأميركية-تعلن-مقتل/765423/?fbclid=IwY2xjawLQ0lVleHRuA2FlbQIxMQABHmZzxqQjpbU2_hCq3eEQEu4bgg2FP5zCYy382ZMfy0-En8qZscLS3gZqgOOP_aem_dxNDHqlMLVbPgcz9cRiYOw",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:56:26+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/القيادة-المركزية-الأميركية-تعلن-مقتل/765423/?fbclid=IwY2xjawLQ0lVleHRuA2FlbQIxMQABHmZzxqQjpbU2_hCq3eEQEu4bgg2FP5zCYy382ZMfy0-En8qZscLS3gZqgOOP_aem_dxNDHqlMLVbPgcz9cRiYOw",
+      "waiting_seconds": 0.733
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.212,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:56:27+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1520,
+      "content_hash": "c6366cfa84a8d7d603459c1abd3f65d27c1281b323dfd1ffad76070b0e46d9fb",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.212,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-syriahr-com-2025-06-12-185926-2/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:56:27+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-syriahr-com-2025-06-12-185926-2/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.155,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:56:38+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.155,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84%2F765423%2F%3Ffbclid%3DIwY2xjawLQ0lVleHRuA2FlbQIxMQABHmZzxqQjpbU2_hCq3eEQEu4bgg2FP5zCYy382ZMfy0-En8qZscLS3gZqgOOP_aem_dxNDHqlMLVbPgcz9cRiYOw&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:56:38+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84%2F765423%2F%3Ffbclid%3DIwY2xjawLQ0lVleHRuA2FlbQIxMQABHmZzxqQjpbU2_hCq3eEQEu4bgg2FP5zCYy382ZMfy0-En8qZscLS3gZqgOOP_aem_dxNDHqlMLVbPgcz9cRiYOw&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-11: ordinal not in range(128)",
+  "final_redirected_url": "https://www.syriahr.com/القيادة-المركزية-الأميركية-تعلن-مقتل/765423/?fbclid=IwY2xjawLQ0lVleHRuA2FlbQIxMQABHmZzxqQjpbU2_hCq3eEQEu4bgg2FP5zCYy382ZMfy0-En8qZscLS3gZqgOOP_aem_dxNDHqlMLVbPgcz9cRiYOw",
+  "incident_ids": [
+    "airwars-190695"
+  ],
+  "incident_sequences": [
+    66
+  ],
+  "normalized_url": "https://www.syriahr.com/القيادة-المركزية-الأميركية-تعلن-مقتل/765423/?fbclid=IwY2xjawLQ0lVleHRuA2FlbQIxMQABHmZzxqQjpbU2_hCq3eEQEu4bgg2FP5zCYy382ZMfy0-En8qZscLS3gZqgOOP_aem_dxNDHqlMLVbPgcz9cRiYOw",
+  "observed_original_urls": [
+    "https://www.syriahr.com/القيادة-المركزية-الأميركية-تعلن-مقتل/765423/?fbclid=IwY2xjawLQ0lVleHRuA2FlbQIxMQABHmZzxqQjpbU2_hCq3eEQEu4bgg2FP5zCYy382ZMfy0-En8qZscLS3gZqgOOP_aem_dxNDHqlMLVbPgcz9cRiYOw"
+  ],
+  "original_url": "https://www.syriahr.com/القيادة-المركزية-الأميركية-تعلن-مقتل/765423/?fbclid=IwY2xjawLQ0lVleHRuA2FlbQIxMQABHmZzxqQjpbU2_hCq3eEQEu4bgg2FP5zCYy382ZMfy0-En8qZscLS3gZqgOOP_aem_dxNDHqlMLVbPgcz9cRiYOw",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2009-june-10-2025/",
+      "airwars_source_id": "187112",
+      "incident_id": "airwars-190695",
+      "incident_sequence": 66,
+      "observed_original_url": "https://www.syriahr.com/القيادة-المركزية-الأميركية-تعلن-مقتل/765423/?fbclid=IwY2xjawLQ0lVleHRuA2FlbQIxMQABHmZzxqQjpbU2_hCq3eEQEu4bgg2FP5zCYy382ZMfy0-En8qZscLS3gZqgOOP_aem_dxNDHqlMLVbPgcz9cRiYOw",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "12 يونيو 2025",
+  "publisher": "syriahr.com",
+  "publisher_ar": "syriahr.com",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:56:26+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-d94e56ca2b546e9399b432af",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.syriahr.com/القيادة-المركزية-الأميركية-تعلن-مقتل/765423/?fbclid=IwY2xjawLQ0lVleHRuA2FlbQIxMQABHmZzxqQjpbU2_hCq3eEQEu4bgg2FP5zCYy382ZMfy0-En8qZscLS3gZqgOOP_aem_dxNDHqlMLVbPgcz9cRiYOw",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

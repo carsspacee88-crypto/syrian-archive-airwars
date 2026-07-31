@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "379651"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-tafaseel1press-1941549965815447591-2025-07-05-172918/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.201,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:58:45+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 55741,
+      "content_hash": "00010d514753d5bf2014b6b466c6532662d024f9250846109929555eba40856b",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.201,
+      "error": null,
+      "final_url": "https://x.com/Tafaseel1Press/status/1941549965815447591",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:58:45+00:00",
+      "status": 200,
+      "url": "https://x.com/Tafaseel1Press/status/1941549965815447591",
+      "waiting_seconds": 0.736
+    }
+  ],
+  "author": "Tafaseel1Press",
+  "captions": [],
+  "content_hash": "54ce1395a172ba051447528c7fca95628a30b1f109f647f8c8b2f5037c22ccc3",
+  "content_variants": [
+    {
+      "bytes": 28,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:58:45+00:00",
+      "sha256": "54ce1395a172ba051447528c7fca95628a30b1f109f647f8c8b2f5037c22ccc3",
+      "source_url": "https://x.com/Tafaseel1Press/status/1941549965815447591",
+      "text": "PostLog inSign upPost63Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Tafaseel1Press/status/1941549965815447591",
+  "incident_ids": [
+    "airwars-381564"
+  ],
+  "incident_sequences": [
+    54
+  ],
+  "normalized_url": "https://x.com/Tafaseel1Press/status/1941549965815447591",
+  "observed_original_urls": [
+    "https://x.com/Tafaseel1Press/status/1941549965815447591"
+  ],
+  "original_url": "https://x.com/Tafaseel1Press/status/1941549965815447591",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0149-july-4-2025/",
+      "airwars_source_id": "379651",
+      "incident_id": "airwars-381564",
+      "incident_sequence": 54,
+      "observed_original_url": "https://x.com/Tafaseel1Press/status/1941549965815447591",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "5 يوليو 2025",
+  "publisher": "Tafaseel1Press",
+  "publisher_ar": "Tafaseel1Press",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:58:45+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-e4dec1345753c3d8c049c645",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Tafaseel1Press/status/1941549965815447591",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost63Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00111
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

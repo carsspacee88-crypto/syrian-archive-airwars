@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "426951"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-aawsat_news-2027732146480124283-2026-02-28-130631/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.287,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:52:59+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 86483,
+      "content_hash": "d75cc11d6cb5f449bdd074e9215ab62888db4bc8126aa71f75469677a5a494e3",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.287,
+      "error": null,
+      "final_url": "https://x.com/aawsat_News/status/2027732146480124283",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:52:59+00:00",
+      "status": 200,
+      "url": "https://x.com/aawsat_News/status/2027732146480124283",
+      "waiting_seconds": 0.733
+    }
+  ],
+  "author": "https://x.com/aawsat_News",
+  "captions": [],
+  "content_hash": "ea1f8b344eddb9c8075d48d863fc72d59642aea23953345e87a6d85156d84e63",
+  "content_variants": [
+    {
+      "bytes": 270,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:52:59+00:00",
+      "sha256": "ea1f8b344eddb9c8075d48d863fc72d59642aea23953345e87a6d85156d84e63",
+      "source_url": "https://x.com/aawsat_News/status/2027732146480124283",
+      "text": "Post\n\nPost\n\nصحيفة الشرق الأوسط@aawsat_Newsمقتل 4 أشخاص جراء سقوط صاروخ إيراني على السويداء في سوريا\n#صحيفة_الشرق_الأوسط\n#صحيفة_العرب_الأولى00:001:06 PM · Feb 28, 20262KViews25"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/aawsat_News/status/2027732146480124283",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://x.com/aawsat_News/status/2027732146480124283",
+  "observed_original_urls": [
+    "https://x.com/aawsat_News/status/2027732146480124283"
+  ],
+  "original_url": "https://x.com/aawsat_News/status/2027732146480124283",
+  "page_title": "صحيفة الشرق الأوسط on X: \"مقتل 4 أشخاص جراء سقوط صاروخ إيراني على السويداء في سوريا\n#صحيفة_الشرق_الأوسط\n#صحيفة_العرب_الأولى https://t.co/nEN3uW47t2\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "426951",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://x.com/aawsat_News/status/2027732146480124283",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2026-02-28T13:06:31.000Z",
+  "publisher": "aawsat_News",
+  "publisher_ar": "aawsat_News",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:52:59+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-bfae0c949b584a3a24a66555",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/aawsat_News/status/2027732146480124283",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nصحيفة الشرق الأوسط@aawsat_Newsمقتل 4 أشخاص جراء سقوط صاروخ إيراني على السويداء في سوريا\n#صحيفة_الشرق_الأوسط\n#صحيفة_العرب_الأولى00:001:06 PM · Feb 28, 20262KViews25",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001661
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

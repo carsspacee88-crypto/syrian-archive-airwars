@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "301869"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-abomosaabsharke-1932810039242448982-2025-06-11-143957/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.253,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:31:57+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 84854,
+      "content_hash": "9d633c7741dfec3590f579b623aef4b97574cc664055e068ac23b7a2ae30a4e6",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.253,
+      "error": null,
+      "final_url": "https://x.com/AbomosaabSharke/status/1932810039242448982",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:31:57+00:00",
+      "status": 200,
+      "url": "https://x.com/AbomosaabSharke/status/1932810039242448982",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "https://x.com/AbomosaabSharke",
+  "captions": [],
+  "content_hash": "ef9e4d6b70c7359cca41de5ac7fb7f44802df93a5cac8567cd57edf30b5aa743",
+  "content_variants": [
+    {
+      "bytes": 526,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:31:57+00:00",
+      "sha256": "ef9e4d6b70c7359cca41de5ac7fb7f44802df93a5cac8567cd57edf30b5aa743",
+      "source_url": "https://x.com/AbomosaabSharke/status/1932810039242448982",
+      "text": "Post\n\nPost\n\nمراسل الشرقية الرسمي@AbomosaabSharke#ديرالزور\nللمرة الثانية خلال أقل من شهر.. عملية إنزال جوي لقوات التحالف الدولي استهدفت جامع الشجيري في منطقة جبل #البشري في البادية السورية غرب ديرالزور، حيث تم تفجير الجامع بالكامل قبل انسحاب القوات من المكان.\n\n#مراسل_الشرقية_الرسمي ✅2:39 PM · Jun 11, 2025200Views121"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AbomosaabSharke/status/1932810039242448982",
+  "incident_ids": [
+    "airwars-381558"
+  ],
+  "incident_sequences": [
+    64
+  ],
+  "normalized_url": "https://x.com/AbomosaabSharke/status/1932810039242448982",
+  "observed_original_urls": [
+    "https://x.com/AbomosaabSharke/status/1932810039242448982"
+  ],
+  "original_url": "https://x.com/AbomosaabSharke/status/1932810039242448982",
+  "page_title": "مراسل الشرقية الرسمي on X: \"#ديرالزور\nللمرة الثانية خلال أقل من شهر.. عملية إنزال جوي لقوات التحالف الدولي استهدفت جامع الشجيري في منطقة جبل #البشري في البادية السورية غرب ديرالزور، حيث تم تفجير الجامع بالكامل قبل انسحاب القوات من المكان.\n\n#مراسل_الشرقية_الرسمي ✅ https://t.co/7IFQ1SLZJR\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0144-june-11-2025/",
+      "airwars_source_id": "301869",
+      "incident_id": "airwars-381558",
+      "incident_sequence": 64,
+      "observed_original_url": "https://x.com/AbomosaabSharke/status/1932810039242448982",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-06-11T14:39:57.000Z",
+  "publisher": "AbomosaabSharke",
+  "publisher_ar": "AbomosaabSharke",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:31:57+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-450ac5e30a63252b2b9bd630",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AbomosaabSharke/status/1932810039242448982",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nمراسل الشرقية الرسمي@AbomosaabSharke#ديرالزور\nللمرة الثانية خلال أقل من شهر.. عملية إنزال جوي لقوات التحالف الدولي استهدفت جامع الشجيري في منطقة جبل #البشري في البادية السورية غرب ديرالزور، حيث تم تفجير الجامع بالكامل قبل انسحاب القوات من المكان.\n\n#مراسل_الشرقية_الرسمي ✅2:39 PM · Jun 11, 2025200Views121",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001597
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

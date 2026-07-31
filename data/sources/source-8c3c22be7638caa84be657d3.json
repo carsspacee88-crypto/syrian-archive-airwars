@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "187099"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-1083797410videos691101140188763-691101140188763-2025-07-01-151750/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.889,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:44:11+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 640380,
+      "content_hash": "c72c79368e4eb779a8ab18966b2c359933e17a9d8b865ecabc472bffa227cf02",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.889,
+      "error": null,
+      "final_url": "https://www.facebook.com/1083797410/videos/691101140188763/",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:44:11+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/1083797410/videos/691101140188763/",
+      "waiting_seconds": 0.74
+    }
+  ],
+  "author": "1083797410videos691101140188763",
+  "captions": [],
+  "content_hash": "383dc0a622de9eddfcdb35613d14ee0f552f6d0c6855cd06cd788a85fab42931",
+  "content_variants": [
+    {
+      "bytes": 273,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:44:11+00:00",
+      "sha256": "383dc0a622de9eddfcdb35613d14ee0f552f6d0c6855cd06cd788a85fab42931",
+      "source_url": "https://www.facebook.com/1083797410/videos/691101140188763/",
+      "text": "#عاجل\nإصابة باص نقل داخلي في بلدة #أطمة شمال #إدلب بعد تنفيذ غارة لطيران #التحالف_الدولي بالقرب منه مما أدى إلى وقوع عدة إصابات في صفوف المدنيين. | Carly Frith"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/1083797410/videos/691101140188763/",
+  "incident_ids": [
+    "airwars-190695"
+  ],
+  "incident_sequences": [
+    66
+  ],
+  "normalized_url": "https://www.facebook.com/1083797410/videos/691101140188763/",
+  "observed_original_urls": [
+    "https://www.facebook.com/1083797410/videos/691101140188763/"
+  ],
+  "original_url": "https://www.facebook.com/1083797410/videos/691101140188763/",
+  "page_title": "#عاجل\nإصابة باص نقل داخلي في بلدة #أطمة شمال #إدلب بعد تنفيذ غارة لطيران #التحالف_الدولي بالقرب منه مما أدى إلى وقوع عدة إصابات في صفوف المدنيين. | Carly Frith",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2009-june-10-2025/",
+      "airwars_source_id": "187099",
+      "incident_id": "airwars-190695",
+      "incident_sequence": 66,
+      "observed_original_url": "https://www.facebook.com/1083797410/videos/691101140188763/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "1 يوليو 2025",
+  "publisher": "1083797410videos691101140188763",
+  "publisher_ar": "1083797410videos691101140188763",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:44:11+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-8c3c22be7638caa84be657d3",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/1083797410/videos/691101140188763/",
+  "text_ar": "",
+  "text_original": "#عاجل\nإصابة باص نقل داخلي في بلدة #أطمة شمال #إدلب بعد تنفيذ غارة لطيران #التحالف_الدولي بالقرب منه مما أدى إلى وقوع عدة إصابات في صفوف المدنيين. | Carly Frith",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002582
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

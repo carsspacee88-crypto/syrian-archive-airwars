@@ -1,0 +1,149 @@
+{
+  "airwars_source_ids": [
+    "181180"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-2025-06-12-064824/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:35:21+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)",
+      "final_url": "https://www.syriahr.com/في-إنزال-جوي-ليلي-التحالف-الدولي-وقسد/765321/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:35:21+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/في-إنزال-جوي-ليلي-التحالف-الدولي-وقسد/765321/",
+      "waiting_seconds": 0.74
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.029,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:35:22+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1510,
+      "content_hash": "f41188b67c3c9db09999a623f861a884231f7f0fa82b75754cc240f42910d5e1",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.029,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-syriahr-com-2025-06-12-064824/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:35:22+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-syriahr-com-2025-06-12-064824/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.155,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:35:33+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.155,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D9%81%D9%8A-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%8A%D9%84%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%88%D9%82%D8%B3%D8%AF%2F765321%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:35:33+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D9%81%D9%8A-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%8A%D9%84%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%88%D9%82%D8%B3%D8%AF%2F765321%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)",
+  "final_redirected_url": "https://www.syriahr.com/في-إنزال-جوي-ليلي-التحالف-الدولي-وقسد/765321/",
+  "incident_ids": [
+    "airwars-381559"
+  ],
+  "incident_sequences": [
+    62
+  ],
+  "normalized_url": "https://www.syriahr.com/في-إنزال-جوي-ليلي-التحالف-الدولي-وقسد/765321/",
+  "observed_original_urls": [
+    "https://www.syriahr.com/في-إنزال-جوي-ليلي-التحالف-الدولي-وقسد/765321/"
+  ],
+  "original_url": "https://www.syriahr.com/في-إنزال-جوي-ليلي-التحالف-الدولي-وقسد/765321/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0145-june-12-2025/",
+      "airwars_source_id": "181180",
+      "incident_id": "airwars-381559",
+      "incident_sequence": 62,
+      "observed_original_url": "https://www.syriahr.com/في-إنزال-جوي-ليلي-التحالف-الدولي-وقسد/765321/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "12 يونيو 2025",
+  "publisher": "syriahr.com",
+  "publisher_ar": "syriahr.com",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:35:21+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-59b32a28c353bd043b64715f",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.syriahr.com/في-إنزال-جوي-ليلي-التحالف-الدولي-وقسد/765321/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

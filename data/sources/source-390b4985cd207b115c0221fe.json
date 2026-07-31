@@ -1,0 +1,147 @@
+{
+  "airwars_source_ids": [
+    "308452"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/npasyria-com-semav-2025-03-17-050628/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.054,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:30:16+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 6155,
+      "content_hash": "94472fa968bf129df5289456f923613da00785164f25647ba8cce135ea72319d",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.054,
+      "error": "http_403",
+      "final_url": "https://npasyria.com/208063/?fbclid=IwY2xjawJE0QNleHRuA2FlbQIxMAABHRIzmmjKzRpOZXAeNqZFbUs9qYx4cO3zkujhM_nMTh2aNAuezl8dqPh-Ag_aem_hh98dro_2j",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:30:16+00:00",
+      "status": 403,
+      "url": "https://npasyria.com/208063/?fbclid=IwY2xjawJE0QNleHRuA2FlbQIxMAABHRIzmmjKzRpOZXAeNqZFbUs9qYx4cO3zkujhM_nMTh2aNAuezl8dqPh-Ag_aem_hh98dro_2j",
+      "waiting_seconds": 0.745
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/npasyria-com-semav-2025-03-17-050628/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:30:16+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/npasyria-com-semav-2025-03-17-050628/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.213,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:30:27+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.213,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fnpasyria.com%2F208063%2F%3Ffbclid%3DIwY2xjawJE0QNleHRuA2FlbQIxMAABHRIzmmjKzRpOZXAeNqZFbUs9qYx4cO3zkujhM_nMTh2aNAuezl8dqPh-Ag_aem_hh98dro_2j&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:30:27+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fnpasyria.com%2F208063%2F%3Ffbclid%3DIwY2xjawJE0QNleHRuA2FlbQIxMAABHRIzmmjKzRpOZXAeNqZFbUs9qYx4cO3zkujhM_nMTh2aNAuezl8dqPh-Ag_aem_hh98dro_2j&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "semav",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_403",
+  "final_redirected_url": "https://npasyria.com/208063/?fbclid=IwY2xjawJE0QNleHRuA2FlbQIxMAABHRIzmmjKzRpOZXAeNqZFbUs9qYx4cO3zkujhM_nMTh2aNAuezl8dqPh-Ag_aem_hh98dro_2j",
+  "incident_ids": [
+    "airwars-304188"
+  ],
+  "incident_sequences": [
+    86
+  ],
+  "normalized_url": "https://npasyria.com/208063/?fbclid=IwY2xjawJE0QNleHRuA2FlbQIxMAABHRIzmmjKzRpOZXAeNqZFbUs9qYx4cO3zkujhM_nMTh2aNAuezl8dqPh-Ag_aem_hh98dro_2j",
+  "observed_original_urls": [
+    "https://npasyria.com/208063/?fbclid=IwY2xjawJE0QNleHRuA2FlbQIxMAABHRIzmmjKzRpOZXAeNqZFbUs9qYx4cO3zkujhM_nMTh2aNAuezl8dqPh-Ag_aem_hh98dro_2j"
+  ],
+  "original_url": "https://npasyria.com/208063/?fbclid=IwY2xjawJE0QNleHRuA2FlbQIxMAABHRIzmmjKzRpOZXAeNqZFbUs9qYx4cO3zkujhM_nMTh2aNAuezl8dqPh-Ag_aem_hh98dro_2j",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts796-march-16-2025/",
+      "airwars_source_id": "308452",
+      "incident_id": "airwars-304188",
+      "incident_sequence": 86,
+      "observed_original_url": "https://npasyria.com/208063/?fbclid=IwY2xjawJE0QNleHRuA2FlbQIxMAABHRIzmmjKzRpOZXAeNqZFbUs9qYx4cO3zkujhM_nMTh2aNAuezl8dqPh-Ag_aem_hh98dro_2j",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "17 مارس 2025",
+  "publisher": "semaphore",
+  "publisher_ar": "semaphore",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:30:16+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-390b4985cd207b115c0221fe",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://npasyria.com/208063/?fbclid=IwY2xjawJE0QNleHRuA2FlbQIxMAABHRIzmmjKzRpOZXAeNqZFbUs9qYx4cO3zkujhM_nMTh2aNAuezl8dqPh-Ag_aem_hh98dro_2j",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

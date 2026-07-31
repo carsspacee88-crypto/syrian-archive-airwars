@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "270379"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-watch-2025-10-02-210840/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.873,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:56:22+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 962934,
+      "content_hash": "4e0c50049f278b13541ebb4047508ee57bc34a50fd17640e6579012befbb117e",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.873,
+      "error": null,
+      "final_url": "https://www.facebook.com/Misktvchannel/videos/2192885117796407/",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:56:22+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=2192885117796407",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": "9bb60aca72b0793cd66eceb79e1217d228ea0471075a5491dcc00a61548edf9c",
+  "content_variants": [
+    {
+      "bytes": 180,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:56:22+00:00",
+      "sha256": "9bb60aca72b0793cd66eceb79e1217d228ea0471075a5491dcc00a61548edf9c",
+      "source_url": "https://www.facebook.com/Misktvchannel/videos/2192885117796407/",
+      "text": "فيديو متداول يوثق لحظة الـ ـقـ ـصـ ـف الإسراييلي على محيط قرية شطحة في ريف حماة | مسك للإعلام - Misk media"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Misktvchannel/videos/2192885117796407/",
+  "incident_ids": [
+    "airwars-276118"
+  ],
+  "incident_sequences": [
+    73
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=2192885117796407",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=2192885117796407"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=2192885117796407",
+  "page_title": "فيديو متداول يوثق لحظة الـ ـقـ ـصـ ـف الإسراييلي على محيط قرية شطحة في ريف حماة | مسك للإعلام - Misk media",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy081-may-3-2025/",
+      "airwars_source_id": "270379",
+      "incident_id": "airwars-276118",
+      "incident_sequence": 73,
+      "observed_original_url": "https://www.facebook.com/watch/?v=2192885117796407",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2 أكتوبر 2025",
+  "publisher": "Misk media",
+  "publisher_ar": "Misk media",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:56:22+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-d8c61f8a6b302868ff5646f3",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=2192885117796407",
+  "text_ar": "",
+  "text_original": "فيديو متداول يوثق لحظة الـ ـقـ ـصـ ـف الإسراييلي على محيط قرية شطحة في ريف حماة | مسك للإعلام - Misk media",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003382
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

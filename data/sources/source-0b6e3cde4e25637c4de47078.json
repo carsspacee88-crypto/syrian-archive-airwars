@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "427011"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-syrdemobs-2027717241475682606-2026-02-28-120718/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.366,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:21:04+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 78025,
+      "content_hash": "aadaadece05e26dc9c2884f9cdb73bff35255ecbee5f30c1fb84d76a002f3b51",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.366,
+      "error": null,
+      "final_url": "https://x.com/SyrDemObs/status/2027717241475682606",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:21:04+00:00",
+      "status": 200,
+      "url": "https://x.com/SyrDemObs/status/2027717241475682606",
+      "waiting_seconds": 0.737
+    }
+  ],
+  "author": "https://x.com/SyrDemObs",
+  "captions": [],
+  "content_hash": "142957463aaff9062c6093507dc4d84dcac1bc3c4bb14252ee1bb842aca23fb8",
+  "content_variants": [
+    {
+      "bytes": 335,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:21:04+00:00",
+      "sha256": "142957463aaff9062c6093507dc4d84dcac1bc3c4bb14252ee1bb842aca23fb8",
+      "source_url": "https://x.com/SyrDemObs/status/2027717241475682606",
+      "text": "Post\n\nPost\n\nSyrian Democratic Ob. | المرصد الديموقراطي السوري@SyrDemObs🔴 السويداء : ارتفاع عدد الشهداء نتيحة سقوط بقايا صاروخ إيراني على بناء سكني إلى 5 أشخاص بينهم طفل، وإصابة آخرين.12:07 PM · Feb 28, 20265.4KViews84672"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyrDemObs/status/2027717241475682606",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://x.com/SyrDemObs/status/2027717241475682606",
+  "observed_original_urls": [
+    "https://x.com/SyrDemObs/status/2027717241475682606"
+  ],
+  "original_url": "https://x.com/SyrDemObs/status/2027717241475682606",
+  "page_title": "Syrian Democratic Ob. | المرصد الديموقراطي السوري on X: \"🔴 السويداء : ارتفاع عدد الشهداء نتيحة سقوط بقايا صاروخ إيراني على بناء سكني إلى 5 أشخاص بينهم طفل، وإصابة آخرين.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "427011",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://x.com/SyrDemObs/status/2027717241475682606",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2026-02-28T12:07:18.000Z",
+  "publisher": "SyrDemObs",
+  "publisher_ar": "SyrDemObs",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:21:04+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-0b6e3cde4e25637c4de47078",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyrDemObs/status/2027717241475682606",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nSyrian Democratic Ob. | المرصد الديموقراطي السوري@SyrDemObs🔴 السويداء : ارتفاع عدد الشهداء نتيحة سقوط بقايا صاروخ إيراني على بناء سكني إلى 5 أشخاص بينهم طفل، وإصابة آخرين.12:07 PM · Feb 28, 20265.4KViews84672",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001844
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

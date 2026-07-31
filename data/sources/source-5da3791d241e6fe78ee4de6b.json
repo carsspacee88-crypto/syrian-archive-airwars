@@ -1,0 +1,164 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/WIYEd"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "live_source",
+          "host": "syriahr.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://www.syriahr.com/7-عمليات-في-أقل-من-3-أسابيع-التحالف-الدول/754179/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:36:04+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/7-عمليات-في-أقل-من-3-أسابيع-التحالف-الدول/754179/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.073,
+          "error": "http_429",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:36:06+00:00",
+          "status": 429
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 55507,
+      "content_hash": "5be976a8e1fe15fa28ebe55d28c68d942ccbfa0d4a960e74b162da8d429c27db",
+      "content_type": "text/html",
+      "elapsed_seconds": 1.073,
+      "error": "http_429",
+      "final_url": "https://archive.is/WIYEd",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:36:06+00:00",
+      "status": 429,
+      "url": "https://archive.is/WIYEd",
+      "waiting_seconds": 0.744
+    },
+    {
+      "attempt_role": "wayback_lookup",
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "ok": false,
+      "retrieved_at": "2026-07-31T18:36:06+00:00"
+    }
+  ],
+  "author": "SOHR news",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "host_circuit_open_after_repeated_block_or_timeout",
+  "final_redirected_url": "https://www.syriahr.com/7-عمليات-في-أقل-من-3-أسابيع-التحالف-الدول/754179/",
+  "incident_ids": [
+    "airwars-381551",
+    "airwars-379488",
+    "airwars-379487",
+    "airwars-379485",
+    "airwars-379484"
+  ],
+  "incident_sequences": [
+    82,
+    83,
+    84,
+    89,
+    90
+  ],
+  "normalized_url": "https://www.syriahr.com/7-عمليات-في-أقل-من-3-أسابيع-التحالف-الدول/754179/",
+  "observed_original_urls": [
+    "https://www.syriahr.com/7-عمليات-في-أقل-من-3-أسابيع-التحالف-الدول/754179/"
+  ],
+  "original_url": "https://www.syriahr.com/7-عمليات-في-أقل-من-3-أسابيع-التحالف-الدول/754179/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0138-march-22-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-381551",
+      "incident_sequence": 82,
+      "observed_original_url": "https://www.syriahr.com/7-عمليات-في-أقل-من-3-أسابيع-التحالف-الدول/754179/",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0137-march-20-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-379488",
+      "incident_sequence": 83,
+      "observed_original_url": "https://www.syriahr.com/7-عمليات-في-أقل-من-3-أسابيع-التحالف-الدول/754179/",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0136-march-19-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-379487",
+      "incident_sequence": 84,
+      "observed_original_url": "https://www.syriahr.com/7-عمليات-في-أقل-من-3-أسابيع-التحالف-الدول/754179/",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0134-march-11-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-379485",
+      "incident_sequence": 89,
+      "observed_original_url": "https://www.syriahr.com/7-عمليات-في-أقل-من-3-أسابيع-التحالف-الدول/754179/",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0133-march-10-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-379484",
+      "incident_sequence": 90,
+      "observed_original_url": "https://www.syriahr.com/7-عمليات-في-أقل-من-3-أسابيع-التحالف-الدول/754179/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "SOHR news",
+  "publisher_ar": "SOHR news",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:36:04+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-5da3791d241e6fe78ee4de6b",
+  "source_type": "news_article",
+  "stable_id_basis": "https://www.syriahr.com/7-عمليات-في-أقل-من-3-أسابيع-التحالف-الدول/754179/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,185 @@
+{
+  "airwars_source_ids": [
+    "426927"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-youm7-com-%d9%83%d8%aa%d8%a8-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%88%d9%87%d8%a7%d8%a8-%d8%a7%d9%84%d8%ac%d9%86%d8%af%d9%89-2026-02-28-142350/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 21-24: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:47:28+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 21-24: ordinal not in range(128)",
+      "final_url": "https://www.youm7.com/story/2026/2/28/مقتل-4-أشخاص-وإصابة-آخرين-فى-سقوط-صاروخ-إيرانى-على/7322142",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:47:28+00:00",
+      "status": null,
+      "url": "https://www.youm7.com/story/2026/2/28/مقتل-4-أشخاص-وإصابة-آخرين-فى-سقوط-صاروخ-إيرانى-على/7322142",
+      "waiting_seconds": 0.738
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.027,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:47:29+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 2060,
+      "content_hash": "27de0fdb4dd9796baa921e8da7528c80cf24708446990e2bfa7e5c946d118e33",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.027,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-youm7-com-%d9%83%d8%aa%d8%a8-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%88%d9%87%d8%a7%d8%a8-%d8%a7%d9%84%d8%ac%d9%86%d8%af%d9%89-2026-02-28-142350/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:47:29+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-youm7-com-%d9%83%d8%aa%d8%a8-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%88%d9%87%d8%a7%d8%a8-%d8%a7%d9%84%d8%ac%d9%86%d8%af%d9%89-2026-02-28-142350/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 5.845,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:47:35+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1548,
+      "content_hash": "4952c01f4f0aebe6f28b3c477c179418116f2bb0fda049ca05db33a50d939cff",
+      "content_type": "application/json",
+      "elapsed_seconds": 5.845,
+      "error": null,
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.youm7.com%2Fstory%2F2026%2F2%2F28%2F%D9%85%D9%82%D8%AA%D9%84-4-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A2%D8%AE%D8%B1%D9%8A%D9%86-%D9%81%D9%89-%D8%B3%D9%82%D9%88%D8%B7-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%89-%D8%B9%D9%84%D9%89%2F7322142&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "lookup_result": "capture_found",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:47:35+00:00",
+      "status": 200,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.youm7.com%2Fstory%2F2026%2F2%2F28%2F%D9%85%D9%82%D8%AA%D9%84-4-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A2%D8%AE%D8%B1%D9%8A%D9%86-%D9%81%D9%89-%D8%B3%D9%82%D9%88%D8%B7-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%89-%D8%B9%D9%84%D9%89%2F7322142&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 65-68: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:47:36+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_capture",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "capture": {
+        "cdx_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.youm7.com%2Fstory%2F2026%2F2%2F28%2F%D9%85%D9%82%D8%AA%D9%84-4-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A2%D8%AE%D8%B1%D9%8A%D9%86-%D9%81%D9%89-%D8%B3%D9%82%D9%88%D8%B7-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%89-%D8%B9%D9%84%D9%89%2F7322142&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+        "digest": "OFCQLFWIZVCW7QXPDNHZ3JDUKRDY4KGR",
+        "mimetype": "text/html",
+        "original": "https://www.youm7.com/story/2026/2/28/%D9%85%D9%82%D8%AA%D9%84-4-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A2%D8%AE%D8%B1%D9%8A%D9%86-%D9%81%D9%89-%D8%B3%D9%82%D9%88%D8%B7-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%89-%D8%B9%D9%84%D9%89/7322142",
+        "replay_url": "https://web.archive.org/web/20260715130125id_/https://www.youm7.com/story/2026/2/28/مقتل-4-أشخاص-وإصابة-آخرين-فى-سقوط-صاروخ-إيرانى-على/7322142",
+        "statuscode": "200",
+        "timestamp": "20260715130125"
+      },
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 65-68: ordinal not in range(128)",
+      "final_url": "https://web.archive.org/web/20260715130125id_/https://www.youm7.com/story/2026/2/28/مقتل-4-أشخاص-وإصابة-آخرين-فى-سقوط-صاروخ-إيرانى-على/7322142",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:47:36+00:00",
+      "status": null,
+      "url": "https://web.archive.org/web/20260715130125id_/https://www.youm7.com/story/2026/2/28/مقتل-4-أشخاص-وإصابة-آخرين-فى-سقوط-صاروخ-إيرانى-على/7322142",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "كتب عبد الوهاب الجندى",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 21-24: ordinal not in range(128)",
+  "final_redirected_url": "https://www.youm7.com/story/2026/2/28/مقتل-4-أشخاص-وإصابة-آخرين-فى-سقوط-صاروخ-إيرانى-على/7322142",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://www.youm7.com/story/2026/2/28/مقتل-4-أشخاص-وإصابة-آخرين-فى-سقوط-صاروخ-إيرانى-على/7322142",
+  "observed_original_urls": [
+    "https://www.youm7.com/story/2026/2/28/مقتل-4-أشخاص-وإصابة-آخرين-فى-سقوط-صاروخ-إيرانى-على/7322142"
+  ],
+  "original_url": "https://www.youm7.com/story/2026/2/28/مقتل-4-أشخاص-وإصابة-آخرين-فى-سقوط-صاروخ-إيرانى-على/7322142",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "426927",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://www.youm7.com/story/2026/2/28/مقتل-4-أشخاص-وإصابة-آخرين-فى-سقوط-صاروخ-إيرانى-على/7322142",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "28 فبراير 2026",
+  "publisher": "Written by Abdel Wahab El Gendy",
+  "publisher_ar": "كتب عبد الوهاب الجندى",
+  "retrieval_status": "unavailable",
+  "retrieved_at": "2026-07-31T18:47:28+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-9fd415bfb0875b18f92c2d35",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.youm7.com/story/2026/2/28/مقتل-4-أشخاص-وإصابة-آخرين-فى-سقوط-صاروخ-إيرانى-على/7322142",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

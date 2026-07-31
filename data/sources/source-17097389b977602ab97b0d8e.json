@@ -1,0 +1,108 @@
+{
+  "airwars_source_ids": [
+    "301417"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-hashem-alghazawi-pfbid02jtweucgdwbwel77fsjzubtxzs7uejtwr16w7cqxbbwdcoa5zwy2dmfrryd4uuo1bl-2025-05-01-090000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.426,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:23:55+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 428636,
+      "content_hash": "fd942f13c5e052e918837365eae7f75c7f796b5d0679b9b90e851483119f018b",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.426,
+      "error": null,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02JtWEuCgDwBWeL77FsJzubtXZS7UejtWR16W7CQXBbWDCoa5zwy2dMfRRyd4uuo1bl%26id%3D100011503833930",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:23:55+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02JtWEuCgDwBWeL77FsJzubtXZS7UejtWR16W7CQXBbWDCoa5zwy2dMfRRyd4uuo1bl&id=100011503833930",
+      "waiting_seconds": 0.74
+    }
+  ],
+  "author": "Hashem ALghazawi",
+  "captions": [],
+  "content_hash": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+  "content_variants": [
+    {
+      "bytes": 374,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:23:55+00:00",
+      "sha256": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+      "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02JtWEuCgDwBWeL77FsJzubtXZS7UejtWR16W7CQXBbWDCoa5zwy2dMfRRyd4uuo1bl%26id%3D100011503833930",
+      "text": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026"
+    }
+  ],
+  "descriptions": [],
+  "exact_content_duplicate_group": "exact-content-ef46a150b3c242e94cddb29d",
+  "exact_content_duplicate_of": "source-01d9460d4a2216b08fa76bdb",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02JtWEuCgDwBWeL77FsJzubtXZS7UejtWR16W7CQXBbWDCoa5zwy2dMfRRyd4uuo1bl%26id%3D100011503833930",
+  "incident_ids": [
+    "airwars-381554"
+  ],
+  "incident_sequences": [
+    75
+  ],
+  "normalized_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02JtWEuCgDwBWeL77FsJzubtXZS7UejtWR16W7CQXBbWDCoa5zwy2dMfRRyd4uuo1bl&id=100011503833930",
+  "observed_original_urls": [
+    "https://www.facebook.com/permalink.php?story_fbid=pfbid02JtWEuCgDwBWeL77FsJzubtXZS7UejtWR16W7CQXBbWDCoa5zwy2dMfRRyd4uuo1bl&id=100011503833930"
+  ],
+  "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02JtWEuCgDwBWeL77FsJzubtXZS7UejtWR16W7CQXBbWDCoa5zwy2dMfRRyd4uuo1bl&id=100011503833930",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0140-may-1-2025/",
+      "airwars_source_id": "301417",
+      "incident_id": "airwars-381554",
+      "incident_sequence": 75,
+      "observed_original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02JtWEuCgDwBWeL77FsJzubtXZS7UejtWR16W7CQXBbWDCoa5zwy2dMfRRyd4uuo1bl&id=100011503833930",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "1 مايو 2025",
+  "publisher": "Hashem Alghazawi",
+  "publisher_ar": "Hashem Alghazawi",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:23:55+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-17097389b977602ab97b0d8e",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid02JtWEuCgDwBWeL77FsJzubtXZS7UejtWR16W7CQXBbWDCoa5zwy2dMfRRyd4uuo1bl&id=100011503833930",
+  "text_ar": "",
+  "text_original": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002145
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

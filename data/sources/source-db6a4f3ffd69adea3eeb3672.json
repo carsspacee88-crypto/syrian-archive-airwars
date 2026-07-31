@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "382932"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-derynews-1972994933163262121-2025-09-30-120023/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.399,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:57:25+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 91206,
+      "content_hash": "a549fa93121e2901df1284c4f1a9e860bb5e4bc4adc4817a2ad07d2bec5b298c",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.399,
+      "error": null,
+      "final_url": "https://x.com/DeryNews/status/1972994933163262121",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:57:25+00:00",
+      "status": 200,
+      "url": "https://x.com/DeryNews/status/1972994933163262121",
+      "waiting_seconds": 0.74
+    }
+  ],
+  "author": "https://x.com/DeryNews",
+  "captions": [],
+  "content_hash": "115a0c947a2914c83c5a4ae43bf908832eeae75710737e8474f6fd9c36fbaa2e",
+  "content_variants": [
+    {
+      "bytes": 1187,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:57:25+00:00",
+      "sha256": "115a0c947a2914c83c5a4ae43bf908832eeae75710737e8474f6fd9c36fbaa2e",
+      "source_url": "https://x.com/DeryNews/status/1972994933163262121",
+      "text": "Post\n\nPost\n\nعامر هويدي@DeryNewsحملة مداهمات لميليشيات #قسد في أطراف #الشحيل شرق #دير_الزور\n\nنفذت ميليشيات #قسد حملة مداهمات وتفتيش في منطقة العتال الواقعة على أطراف بلدة #الشحيل شرقي #دير_الزور بعد منتصف الليلة الماضية، بمرافقة الطيران المروحي. وأسفرت العملية عن اعتقال شخصين هما: ماجد البوري وعذاب الحسوني، من دون معرفة الأسباب وراء اعتقالهما حتى الآن.\n\nتأتي هذه الحملة ضمن سلسلة من المداهمات التي تنفذها الميليشيات في ريف ديرالزور، ما يثير قلق الأهالي من استمرار الاعتقالات العشوائية، خاصة مع غياب الشفافية والإجراءات القانونية، الأمر الذي يزيد من حالة التوتر والاحتقان الشعبي في المنطقة.\n\n✅ تابعوا قناة الصحفي #عامر_هويدي على تلغرام: t.me/derynews12:00 PM · Sep 30, 2025654Views9"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/DeryNews/status/1972994933163262121",
+  "incident_ids": [
+    "airwars-386624"
+  ],
+  "incident_sequences": [
+    40
+  ],
+  "normalized_url": "https://x.com/DeryNews/status/1972994933163262121",
+  "observed_original_urls": [
+    "https://x.com/DeryNews/status/1972994933163262121"
+  ],
+  "original_url": "https://x.com/DeryNews/status/1972994933163262121",
+  "page_title": "عامر هويدي on X: \"حملة مداهمات لميليشيات #قسد في أطراف #الشحيل شرق #دير_الزور\n\nنفذت ميليشيات #قسد حملة مداهمات وتفتيش في منطقة العتال الواقعة على أطراف بلدة #الشحيل شرقي #دير_الزور بعد منتصف الليلة الماضية، بمرافقة الطيران المروحي. وأسفرت العملية عن اعتقال شخصين هما: ماجد البوري وعذاب الحسوني، من دون معرفة الأسباب وراء اعتقالهما حتى الآن.\n\nتأتي هذه الحملة ضمن سلسلة من المداهمات التي تنفذها الميليشيات في ريف ديرالزور، ما يثير قلق الأهالي من استمرار الاعتقالات العشوائية، خاصة مع غياب الشفافية والإجراءات القانونية، الأمر الذي يزيد من حالة التوتر والاحتقان الشعبي في المنطقة.\n\n✅ تابعوا قناة الصحفي #عامر_هويدي على تلغرام: https://t.co/HlX1klzOTT\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0156b-september-28-2025/",
+      "airwars_source_id": "382932",
+      "incident_id": "airwars-386624",
+      "incident_sequence": 40,
+      "observed_original_url": "https://x.com/DeryNews/status/1972994933163262121",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-09-30T12:00:23.000Z",
+  "publisher": "DeryNews",
+  "publisher_ar": "DeryNews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:57:25+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-db6a4f3ffd69adea3eeb3672",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/DeryNews/status/1972994933163262121",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nعامر هويدي@DeryNewsحملة مداهمات لميليشيات #قسد في أطراف #الشحيل شرق #دير_الزور\n\nنفذت ميليشيات #قسد حملة مداهمات وتفتيش في منطقة العتال الواقعة على أطراف بلدة #الشحيل شرقي #دير_الزور بعد منتصف الليلة الماضية، بمرافقة الطيران المروحي. وأسفرت العملية عن اعتقال شخصين هما: ماجد البوري وعذاب الحسوني، من دون معرفة الأسباب وراء اعتقالهما حتى الآن.\n\nتأتي هذه الحملة ضمن سلسلة من المداهمات التي تنفذها الميليشيات في ريف ديرالزور، ما يثير قلق الأهالي من استمرار الاعتقالات العشوائية، خاصة مع غياب الشفافية والإجراءات القانونية، الأمر الذي يزيد من حالة التوتر والاحتقان الشعبي في المنطقة.\n\n✅ تابعوا قناة الصحفي #عامر_هويدي على تلغرام: t.me/derynews12:00 PM · Sep 30, 2025654Views9",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001739
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

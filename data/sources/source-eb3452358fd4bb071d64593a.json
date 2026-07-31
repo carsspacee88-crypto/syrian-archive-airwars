@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "187528"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1-%d9%84%d8%a8%d9%86%d8%a7%d9%86-1654384981892202-2025-06-13-031000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.79,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:59:53+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 728990,
+      "content_hash": "4090df4aba8f1b6d002d3029862418e13af4fe165de3f9d3c6da893ac1bcc80f",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.79,
+      "error": null,
+      "final_url": "https://www.facebook.com/groups/1165246130806092/permalink/1654384981892202/",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:59:53+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/groups/1165246130806092/permalink/1654384981892202/",
+      "waiting_seconds": 0.73
+    }
+  ],
+  "author": "اخبار لبنان",
+  "captions": [],
+  "content_hash": "fa275cf54fe29031899ab1c4ab1c928e46b8d7d01a4573071802c93846c98960",
+  "content_variants": [
+    {
+      "bytes": 104,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:59:53+00:00",
+      "sha256": "fa275cf54fe29031899ab1c4ab1c928e46b8d7d01a4573071802c93846c98960",
+      "source_url": "https://www.facebook.com/groups/1165246130806092/permalink/1654384981892202/",
+      "text": "اخبار لبنان | قتل الأجانب المدمجين بما يسمى بوزارة الدفاع"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/groups/1165246130806092/permalink/1654384981892202/",
+  "incident_ids": [
+    "airwars-190719"
+  ],
+  "incident_sequences": [
+    67
+  ],
+  "normalized_url": "https://www.facebook.com/groups/1165246130806092/permalink/1654384981892202/",
+  "observed_original_urls": [
+    "https://www.facebook.com/groups/1165246130806092/permalink/1654384981892202/"
+  ],
+  "original_url": "https://www.facebook.com/groups/1165246130806092/permalink/1654384981892202/",
+  "page_title": "اخبار لبنان | قتل الأجانب المدمجين بما يسمى بوزارة الدفاع",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2010-june-10-2025/",
+      "airwars_source_id": "187528",
+      "incident_id": "airwars-190719",
+      "incident_sequence": 67,
+      "observed_original_url": "https://www.facebook.com/groups/1165246130806092/permalink/1654384981892202/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "13 يونيو 2025",
+  "publisher": "Lebanon News",
+  "publisher_ar": "اخبار لبنان",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:59:53+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-eb3452358fd4bb071d64593a",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/groups/1165246130806092/permalink/1654384981892202/",
+  "text_ar": "",
+  "text_original": "اخبار لبنان | قتل الأجانب المدمجين بما يسمى بوزارة الدفاع",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00241
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

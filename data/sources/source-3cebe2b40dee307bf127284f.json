@@ -1,0 +1,118 @@
+{
+  "airwars_source_ids": [
+    "187110"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-706999395596380-2025-07-01-152958/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.809,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:31:01+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 892819,
+      "content_hash": "03277cbdd7ee34a420059c575bfe25555da70309be8bad8f6352142b962224a7",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.809,
+      "error": null,
+      "final_url": "https://www.facebook.com/reel/706999395596380",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:31:01+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/reel/706999395596380",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "#سوريا",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:31:01+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/reel/706999395596380",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "exact_content_duplicate_group": "exact-content-d41f5b4977ee05c6b61b3b5f",
+  "exact_content_duplicate_of": "source-0160e417c7415dd8930b5766",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/reel/706999395596380",
+  "incident_ids": [
+    "airwars-381557",
+    "airwars-190719"
+  ],
+  "incident_sequences": [
+    65,
+    67
+  ],
+  "normalized_url": "https://www.facebook.com/reel/706999395596380",
+  "observed_original_urls": [
+    "https://www.facebook.com/reel/706999395596380"
+  ],
+  "original_url": "https://www.facebook.com/reel/706999395596380",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0143-june-10-2025/",
+      "airwars_source_id": "187110",
+      "incident_id": "airwars-381557",
+      "incident_sequence": 65,
+      "observed_original_url": "https://www.facebook.com/reel/706999395596380",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2010-june-10-2025/",
+      "airwars_source_id": "187110",
+      "incident_id": "airwars-190719",
+      "incident_sequence": 67,
+      "observed_original_url": "https://www.facebook.com/reel/706999395596380",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "1 يوليو 2025",
+  "publisher": "#Syria",
+  "publisher_ar": "#سوريا",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:31:01+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-3cebe2b40dee307bf127284f",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/reel/706999395596380",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "en",
+  "timing": {
+    "text_extraction_seconds": 0.002493
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

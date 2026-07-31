@@ -1,0 +1,97 @@
+{
+  "airwars_source_ids": [
+    "366828"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/alkhabour-com-%d8%a7%d9%84%d8%ae%d8%a7%d8%a8%d9%88%d8%b1-2025-12-22-120849/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.861,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:55:58+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 46867,
+      "content_hash": "ba36f24fc10c9b509856a55f724dbd557563a4e0b5c5e8411f95337d50799ee8",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.861,
+      "error": null,
+      "final_url": "https://alkhabour.com/ar/post/7343",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:55:58+00:00",
+      "status": 200,
+      "url": "https://alkhabour.com/ar/post/7343",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "الخابور",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "parsing_failed",
+  "failure_reason": null,
+  "final_redirected_url": "https://alkhabour.com/ar/post/7343",
+  "incident_ids": [
+    "airwars-367983"
+  ],
+  "incident_sequences": [
+    15
+  ],
+  "normalized_url": "https://alkhabour.com/ar/post/7343",
+  "observed_original_urls": [
+    "https://alkhabour.com/ar/post/7343"
+  ],
+  "original_url": "https://alkhabour.com/ar/post/7343",
+  "page_title": "ريف دير الزور: 3 قتلى في مداهمات ميليشيا \"ب ي د\" ريف دير الزور: 3 قتلى في مداهمات ميليشيا \"ب ي د\"",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2020-december-21-2025/",
+      "airwars_source_id": "366828",
+      "incident_id": "airwars-367983",
+      "incident_sequence": 15,
+      "observed_original_url": "https://alkhabour.com/ar/post/7343",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2026-07-31T21:55:58+03:00 2026-07-31T21:55:58+03:00",
+  "publisher": "Khabur",
+  "publisher_ar": "الخابور",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:55:58+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-d5627a64a6fb79b08e29096e",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://alkhabour.com/ar/post/7343",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001091
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

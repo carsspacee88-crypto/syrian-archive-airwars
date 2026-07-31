@@ -1,0 +1,149 @@
+{
+  "airwars_source_ids": [
+    "426917"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-alkhaleej-ae-alkhaleej-ae-2026-02-28-174200/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-20: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:19:17+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-20: ordinal not in range(128)",
+      "final_url": "https://www.alkhaleej.ae/2026-02-28/أربعة-قتلى-بسقوط-صاروخ-إيراني-على-مبنى-في-سوريا-6335606/العرب/سياسة",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:19:17+00:00",
+      "status": null,
+      "url": "https://www.alkhaleej.ae/2026-02-28/أربعة-قتلى-بسقوط-صاروخ-إيراني-على-مبنى-في-سوريا-6335606/العرب/سياسة",
+      "waiting_seconds": 0.744
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.033,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:19:17+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1580,
+      "content_hash": "eb0b1f0883426f8bc8bf0013630eea993808f5dc22c00679755413f44c89dd8c",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.033,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-alkhaleej-ae-alkhaleej-ae-2026-02-28-174200/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:19:17+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-alkhaleej-ae-alkhaleej-ae-2026-02-28-174200/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.157,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:19:28+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.157,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.alkhaleej.ae%2F2026-02-28%2F%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9-%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D8%B3%D9%82%D9%88%D8%B7-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D9%86%D9%89-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-6335606%2F%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%2F%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:19:28+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.alkhaleej.ae%2F2026-02-28%2F%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9-%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D8%B3%D9%82%D9%88%D8%B7-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D9%86%D9%89-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-6335606%2F%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%2F%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "alkhaleej.ae",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 16-20: ordinal not in range(128)",
+  "final_redirected_url": "https://www.alkhaleej.ae/2026-02-28/أربعة-قتلى-بسقوط-صاروخ-إيراني-على-مبنى-في-سوريا-6335606/العرب/سياسة",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://www.alkhaleej.ae/2026-02-28/أربعة-قتلى-بسقوط-صاروخ-إيراني-على-مبنى-في-سوريا-6335606/العرب/سياسة",
+  "observed_original_urls": [
+    "https://www.alkhaleej.ae/2026-02-28/أربعة-قتلى-بسقوط-صاروخ-إيراني-على-مبنى-في-سوريا-6335606/العرب/سياسة"
+  ],
+  "original_url": "https://www.alkhaleej.ae/2026-02-28/أربعة-قتلى-بسقوط-صاروخ-إيراني-على-مبنى-في-سوريا-6335606/العرب/سياسة",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "426917",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://www.alkhaleej.ae/2026-02-28/أربعة-قتلى-بسقوط-صاروخ-إيراني-على-مبنى-في-سوريا-6335606/العرب/سياسة",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "28 فبراير 2026",
+  "publisher": "alkhaleej.ae",
+  "publisher_ar": "alkhaleej.ae",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:19:17+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-06a6089e21c32931cde1947d",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.alkhaleej.ae/2026-02-28/أربعة-قتلى-بسقوط-صاروخ-إيراني-على-مبنى-في-سوريا-6335606/العرب/سياسة",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

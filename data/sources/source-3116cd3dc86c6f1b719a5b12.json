@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "315051"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%aa%d9%86%d8%b3%d9%8a%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d8%a9-%d9%81%d9%8a-%d8%b9%d8%b1%d8%b7%d9%88%d8%b2-pfbid0cfstag/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.906,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:27:42+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 896625,
+      "content_hash": "983a384ead6cbb6805b65f55f0dd7ea952a45e000bd4fb9283dc34c531f37ad8",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.906,
+      "error": null,
+      "final_url": "https://www.facebook.com/madeentalzhoor/posts/pfbid0CFstaGkZoBd6X37kjN7PwAKxkHfXS6CTrF3zAm6cz16F2hao21yKxa1tAW91Gxmtl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:27:42+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/madeentalzhoor/posts/pfbid0CFstaGkZoBd6X37kjN7PwAKxkHfXS6CTrF3zAm6cz16F2hao21yKxa1tAW91Gxmtl",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "تنسيقية الثورة السورية في عرطوز",
+  "captions": [],
+  "content_hash": "6e2e2b840a5255f2aac9acc4c11d043876d640c68b6ac35359c20ec1b606528d",
+  "content_variants": [
+    {
+      "bytes": 181,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:27:42+00:00",
+      "sha256": "6e2e2b840a5255f2aac9acc4c11d043876d640c68b6ac35359c20ec1b606528d",
+      "source_url": "https://www.facebook.com/madeentalzhoor/posts/pfbid0CFstaGkZoBd6X37kjN7PwAKxkHfXS6CTrF3zAm6cz16F2hao21yKxa1tAW91Gxmtl",
+      "text": "‎تنسيقية الثورة السورية في عرطوز‎'s Post\n\nتنسيقية الثورة السورية في عرطوز\n\n34w\n\n34w\n\n34w\n\n35w\n\n35w\n\n34w\n\n34w\n\n34w\n\n34w\n\n34w"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/madeentalzhoor/posts/pfbid0CFstaGkZoBd6X37kjN7PwAKxkHfXS6CTrF3zAm6cz16F2hao21yKxa1tAW91Gxmtl",
+  "incident_ids": [
+    "airwars-318800"
+  ],
+  "incident_sequences": [
+    24
+  ],
+  "normalized_url": "https://www.facebook.com/madeentalzhoor/posts/pfbid0CFstaGkZoBd6X37kjN7PwAKxkHfXS6CTrF3zAm6cz16F2hao21yKxa1tAW91Gxmtl",
+  "observed_original_urls": [
+    "https://www.facebook.com/madeentalzhoor/posts/pfbid0CFstaGkZoBd6X37kjN7PwAKxkHfXS6CTrF3zAm6cz16F2hao21yKxa1tAW91Gxmtl"
+  ],
+  "original_url": "https://www.facebook.com/madeentalzhoor/posts/pfbid0CFstaGkZoBd6X37kjN7PwAKxkHfXS6CTrF3zAm6cz16F2hao21yKxa1tAW91Gxmtl",
+  "page_title": "#بيت_جن شهداء عائلة ال... - تنسيقية الثورة السورية في عرطوز Facebook Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy087-november-28-2025/",
+      "airwars_source_id": "315051",
+      "incident_id": "airwars-318800",
+      "incident_sequence": 24,
+      "observed_original_url": "https://www.facebook.com/madeentalzhoor/posts/pfbid0CFstaGkZoBd6X37kjN7PwAKxkHfXS6CTrF3zAm6cz16F2hao21yKxa1tAW91Gxmtl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "28 نوفمبر 2025",
+  "publisher": "Syrian Revolution Coordination in Artouz",
+  "publisher_ar": "تنسيقية الثورة السورية في عرطوز",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:27:42+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-3116cd3dc86c6f1b719a5b12",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/madeentalzhoor/posts/pfbid0CFstaGkZoBd6X37kjN7PwAKxkHfXS6CTrF3zAm6cz16F2hao21yKxa1tAW91Gxmtl",
+  "text_ar": "",
+  "text_original": "‎تنسيقية الثورة السورية في عرطوز‎'s Post\n\nتنسيقية الثورة السورية في عرطوز\n\n34w\n\n34w\n\n34w\n\n35w\n\n35w\n\n34w\n\n34w\n\n34w\n\n34w\n\n34w",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.008029
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

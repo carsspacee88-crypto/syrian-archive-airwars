@@ -1,0 +1,149 @@
+{
+  "airwars_source_ids": [
+    "426915"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-aa-com-tr-laith-al-jnaidi-2026-02-28-123325/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 8-14: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T19:02:20+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 8-14: ordinal not in range(128)",
+      "final_url": "https://www.aa.com.tr/ar/إسرائيل/سوريا-4-قتلى-بالسويداء-إثر-الضربات-المتبادلة-بين-إسرائيل-وإيران/3843414",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:02:20+00:00",
+      "status": null,
+      "url": "https://www.aa.com.tr/ar/إسرائيل/سوريا-4-قتلى-بالسويداء-إثر-الضربات-المتبادلة-بين-إسرائيل-وإيران/3843414",
+      "waiting_seconds": 0.729
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.053,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T19:02:21+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1580,
+      "content_hash": "9e2d40da489fc85bf22d47f092f0751ce520363d8a7aad5b969f0e384b9417c1",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.053,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-aa-com-tr-laith-al-jnaidi-2026-02-28-123325/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:02:21+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-aa-com-tr-laith-al-jnaidi-2026-02-28-123325/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.159,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T19:02:32+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.159,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.aa.com.tr%2Far%2F%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%2F%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-4-%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D8%A5%D8%AB%D8%B1-%D8%A7%D9%84%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%A8%D8%A7%D8%AF%D9%84%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%88%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%2F3843414&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:02:32+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.aa.com.tr%2Far%2F%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%2F%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-4-%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D8%A5%D8%AB%D8%B1-%D8%A7%D9%84%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%A8%D8%A7%D8%AF%D9%84%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%88%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%2F3843414&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "Laith Al-jnaidi",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 8-14: ordinal not in range(128)",
+  "final_redirected_url": "https://www.aa.com.tr/ar/إسرائيل/سوريا-4-قتلى-بالسويداء-إثر-الضربات-المتبادلة-بين-إسرائيل-وإيران/3843414",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://www.aa.com.tr/ar/إسرائيل/سوريا-4-قتلى-بالسويداء-إثر-الضربات-المتبادلة-بين-إسرائيل-وإيران/3843414",
+  "observed_original_urls": [
+    "https://www.aa.com.tr/ar/إسرائيل/سوريا-4-قتلى-بالسويداء-إثر-الضربات-المتبادلة-بين-إسرائيل-وإيران/3843414"
+  ],
+  "original_url": "https://www.aa.com.tr/ar/إسرائيل/سوريا-4-قتلى-بالسويداء-إثر-الضربات-المتبادلة-بين-إسرائيل-وإيران/3843414",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "426915",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://www.aa.com.tr/ar/إسرائيل/سوريا-4-قتلى-بالسويداء-إثر-الضربات-المتبادلة-بين-إسرائيل-وإيران/3843414",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "28 فبراير 2026",
+  "publisher": "Laith Al-jnaidi",
+  "publisher_ar": "Laith Al-jnaidi",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T19:02:20+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-f98e97c3e4c26e238b4f7491",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.aa.com.tr/ar/إسرائيل/سوريا-4-قتلى-بالسويداء-إثر-الضربات-المتبادلة-بين-إسرائيل-وإيران/3843414",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

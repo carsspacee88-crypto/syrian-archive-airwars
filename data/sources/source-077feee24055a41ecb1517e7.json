@@ -1,0 +1,185 @@
+{
+  "airwars_source_ids": [
+    "308385"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/hawarnews-com-author1-2025-03-10-151156/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 8-14: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:19:35+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 8-14: ordinal not in range(128)",
+      "final_url": "https://hawarnews.com/ar/استشهاد-طفل-وإصابة-شقيقين-في-قصف-للاحتلال-التركي",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:19:35+00:00",
+      "status": null,
+      "url": "https://hawarnews.com/ar/استشهاد-طفل-وإصابة-شقيقين-في-قصف-للاحتلال-التركي",
+      "waiting_seconds": 0.745
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.028,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:19:36+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1540,
+      "content_hash": "5e6ce715e9f05f05709dee5f55f7fdfebcfc28b5b9d3fb77f3b5bd1df7bf6e9b",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.028,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/hawarnews-com-author1-2025-03-10-151156/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:19:36+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/hawarnews-com-author1-2025-03-10-151156/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 3.764,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:19:40+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 768,
+      "content_hash": "c9600b0cd2ed94d33bffe19ffdc166118f5250eda003798663263ecb0543da82",
+      "content_type": "application/json",
+      "elapsed_seconds": 3.764,
+      "error": null,
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fhawarnews.com%2Far%2F%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%B7%D9%81%D9%84-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B4%D9%82%D9%8A%D9%82%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "lookup_result": "capture_found",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:19:40+00:00",
+      "status": 200,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fhawarnews.com%2Far%2F%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%B7%D9%81%D9%84-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B4%D9%82%D9%8A%D9%82%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 52-58: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:19:41+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_capture",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "capture": {
+        "cdx_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fhawarnews.com%2Far%2F%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%B7%D9%81%D9%84-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B4%D9%82%D9%8A%D9%82%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+        "digest": "OQIRPVUVGIKOY7ETVBXOKAAXTGWECRUY",
+        "mimetype": "text/html",
+        "original": "https://hawarnews.com/ar/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%B7%D9%81%D9%84-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B4%D9%82%D9%8A%D9%82%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A",
+        "replay_url": "https://web.archive.org/web/20251003025447id_/https://hawarnews.com/ar/استشهاد-طفل-وإصابة-شقيقين-في-قصف-للاحتلال-التركي",
+        "statuscode": "200",
+        "timestamp": "20251003025447"
+      },
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 52-58: ordinal not in range(128)",
+      "final_url": "https://web.archive.org/web/20251003025447id_/https://hawarnews.com/ar/استشهاد-طفل-وإصابة-شقيقين-في-قصف-للاحتلال-التركي",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:19:41+00:00",
+      "status": null,
+      "url": "https://web.archive.org/web/20251003025447id_/https://hawarnews.com/ar/استشهاد-طفل-وإصابة-شقيقين-في-قصف-للاحتلال-التركي",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "author1",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 8-14: ordinal not in range(128)",
+  "final_redirected_url": "https://hawarnews.com/ar/استشهاد-طفل-وإصابة-شقيقين-في-قصف-للاحتلال-التركي",
+  "incident_ids": [
+    "airwars-290205"
+  ],
+  "incident_sequences": [
+    91
+  ],
+  "normalized_url": "https://hawarnews.com/ar/استشهاد-طفل-وإصابة-شقيقين-في-قصف-للاحتلال-التركي",
+  "observed_original_urls": [
+    "https://hawarnews.com/ar/استشهاد-طفل-وإصابة-شقيقين-في-قصف-للاحتلال-التركي"
+  ],
+  "original_url": "https://hawarnews.com/ar/استشهاد-طفل-وإصابة-شقيقين-في-قصف-للاحتلال-التركي",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts795-march-10-2025/",
+      "airwars_source_id": "308385",
+      "incident_id": "airwars-290205",
+      "incident_sequence": 91,
+      "observed_original_url": "https://hawarnews.com/ar/استشهاد-طفل-وإصابة-شقيقين-في-قصف-للاحتلال-التركي",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "10 مارس 2025",
+  "publisher": "author1",
+  "publisher_ar": "author1",
+  "retrieval_status": "unavailable",
+  "retrieved_at": "2026-07-31T18:19:35+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-077feee24055a41ecb1517e7",
+  "source_type": "news_article",
+  "stable_id_basis": "https://hawarnews.com/ar/استشهاد-طفل-وإصابة-شقيقين-في-قصف-للاحتلال-التركي",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

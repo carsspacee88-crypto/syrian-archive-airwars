@@ -1,0 +1,185 @@
+{
+  "airwars_source_ids": [
+    "287365"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-10-20-125829/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:22:36+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)",
+      "final_url": "https://www.syriahr.com/بدعم-جوي-من-التحالف-الدولي-الوحدات-الخ/781406/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:22:36+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/بدعم-جوي-من-التحالف-الدولي-الوحدات-الخ/781406/",
+      "waiting_seconds": 0.74
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.027,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:22:37+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1880,
+      "content_hash": "df8f796760177be0d3d1800e9b5c481fdd300e4ac57e56dae327e5da5902fc5a",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.027,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-10-20-125829/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:22:37+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-10-20-125829/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.959,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:22:39+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 366,
+      "content_hash": "bacb57da90848c9d73c176d5d67eea0c34eccfc28bfac4d884e120e8e3051c32",
+      "content_type": "application/json",
+      "elapsed_seconds": 0.959,
+      "error": null,
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A8%D8%AF%D8%B9%D9%85-%D8%AC%D9%88%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%2F781406%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "lookup_result": "capture_found",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:22:39+00:00",
+      "status": 200,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A8%D8%AF%D8%B9%D9%85-%D8%AC%D9%88%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%2F781406%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 51-54: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:22:39+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_capture",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "capture": {
+        "cdx_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A8%D8%AF%D8%B9%D9%85-%D8%AC%D9%88%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%2F781406%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+        "digest": "6W3RKDIAUBJDVDVUBK3TS24YCATGYBQV",
+        "mimetype": "text/html",
+        "original": "https://www.syriahr.com/%D8%A8%D8%AF%D8%B9%D9%85-%D8%AC%D9%88%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE/781406/",
+        "replay_url": "https://web.archive.org/web/20251027055507id_/https://www.syriahr.com/بدعم-جوي-من-التحالف-الدولي-الوحدات-الخ/781406/",
+        "statuscode": "200",
+        "timestamp": "20251027055507"
+      },
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 51-54: ordinal not in range(128)",
+      "final_url": "https://web.archive.org/web/20251027055507id_/https://www.syriahr.com/بدعم-جوي-من-التحالف-الدولي-الوحدات-الخ/781406/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:22:39+00:00",
+      "status": null,
+      "url": "https://web.archive.org/web/20251027055507id_/https://www.syriahr.com/بدعم-جوي-من-التحالف-الدولي-الوحدات-الخ/781406/",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "المرصد السوري",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)",
+  "final_redirected_url": "https://www.syriahr.com/بدعم-جوي-من-التحالف-الدولي-الوحدات-الخ/781406/",
+  "incident_ids": [
+    "airwars-386627"
+  ],
+  "incident_sequences": [
+    35
+  ],
+  "normalized_url": "https://www.syriahr.com/بدعم-جوي-من-التحالف-الدولي-الوحدات-الخ/781406/",
+  "observed_original_urls": [
+    "https://www.syriahr.com/بدعم-جوي-من-التحالف-الدولي-الوحدات-الخ/781406/"
+  ],
+  "original_url": "https://www.syriahr.com/بدعم-جوي-من-التحالف-الدولي-الوحدات-الخ/781406/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0159-october-20-2025/",
+      "airwars_source_id": "287365",
+      "incident_id": "airwars-386627",
+      "incident_sequence": 35,
+      "observed_original_url": "https://www.syriahr.com/بدعم-جوي-من-التحالف-الدولي-الوحدات-الخ/781406/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "20 أكتوبر 2025",
+  "publisher": "Syrian Observatory",
+  "publisher_ar": "المرصد السوري",
+  "retrieval_status": "unavailable",
+  "retrieved_at": "2026-07-31T18:22:36+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-12914eab507ddfae63c19229",
+  "source_type": "ngo_report",
+  "stable_id_basis": "https://www.syriahr.com/بدعم-جوي-من-التحالف-الدولي-الوحدات-الخ/781406/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

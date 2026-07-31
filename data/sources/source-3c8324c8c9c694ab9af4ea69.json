@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "301933"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-thaar000-1933163355742847273-2025-06-12-140355/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.262,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:30:56+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 81265,
+      "content_hash": "e00ea8ba0d3a6d8d93a4578e6dada54371e445c615c7247dbfe43ce9a4f65795",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.262,
+      "error": null,
+      "final_url": "https://x.com/thaar000/status/1933163355742847273",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:30:56+00:00",
+      "status": 200,
+      "url": "https://x.com/thaar000/status/1933163355742847273",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "https://x.com/thaar000",
+  "captions": [],
+  "content_hash": "49dc6d698388e00f98a60960883fd2dc4014de3c3d32c0c393e5c5f7256786b2",
+  "content_variants": [
+    {
+      "bytes": 474,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:30:56+00:00",
+      "sha256": "49dc6d698388e00f98a60960883fd2dc4014de3c3d32c0c393e5c5f7256786b2",
+      "source_url": "https://x.com/thaar000/status/1933163355742847273",
+      "text": "Post\n\nPost\n\nثائر@thaar000#ديرالزور\n\nنفذت مليشيات #قسد بمساندة التحـالف الدولي حملة مداهمات في بلدة #الشحيل بريف #ديرالزور الشرقي فجر اليوم تخللها اعتقـال عدد من الأشخاص عرف منهم :\nهاني الحسن ، أحمد الخليل العفين ، أسد العلي العفين\n\n#الحرية_للجزيرة_السورية2:03 PM · Jun 12, 202551Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/thaar000/status/1933163355742847273",
+  "incident_ids": [
+    "airwars-381560"
+  ],
+  "incident_sequences": [
+    63
+  ],
+  "normalized_url": "https://x.com/thaar000/status/1933163355742847273",
+  "observed_original_urls": [
+    "https://x.com/thaar000/status/1933163355742847273"
+  ],
+  "original_url": "https://x.com/thaar000/status/1933163355742847273",
+  "page_title": "ثائر on X: \"#ديرالزور\n\nنفذت مليشيات #قسد بمساندة التحـالف الدولي حملة مداهمات في بلدة #الشحيل بريف #ديرالزور الشرقي فجر اليوم تخللها اعتقـال عدد من الأشخاص عرف منهم :\nهاني الحسن ، أحمد الخليل العفين ، أسد العلي العفين\n\n#الحرية_للجزيرة_السورية\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0146-june-12-2025/",
+      "airwars_source_id": "301933",
+      "incident_id": "airwars-381560",
+      "incident_sequence": 63,
+      "observed_original_url": "https://x.com/thaar000/status/1933163355742847273",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-06-12T14:03:55.000Z",
+  "publisher": "thaar000",
+  "publisher_ar": "thaar000",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:30:56+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-3c8324c8c9c694ab9af4ea69",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/thaar000/status/1933163355742847273",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nثائر@thaar000#ديرالزور\n\nنفذت مليشيات #قسد بمساندة التحـالف الدولي حملة مداهمات في بلدة #الشحيل بريف #ديرالزور الشرقي فجر اليوم تخللها اعتقـال عدد من الأشخاص عرف منهم :\nهاني الحسن ، أحمد الخليل العفين ، أسد العلي العفين\n\n#الحرية_للجزيرة_السورية2:03 PM · Jun 12, 202551Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001864
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

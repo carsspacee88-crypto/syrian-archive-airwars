@@ -1,0 +1,104 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/c1TXm"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.621,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:43:52+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 82554,
+      "content_hash": "1f8952401a2be86e635d55c0d8bad5cb8cdb1f54217b9bea5a5c1867e0212a83",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.621,
+      "error": null,
+      "final_url": "https://x.com/SNP_NET/status/1904443695610376657",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:43:52+00:00",
+      "status": 200,
+      "url": "https://x.com/SNP508769855003/status/1904443695610376657",
+      "waiting_seconds": 0.737
+    }
+  ],
+  "author": "https://x.com/SNP_NET",
+  "captions": [],
+  "content_hash": "7fc7fb6f1c74e21add9e40810b6bcf43cc15e0c34d78a47afce767a7b15d83d7",
+  "content_variants": [
+    {
+      "bytes": 635,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:43:52+00:00",
+      "sha256": "7fc7fb6f1c74e21add9e40810b6bcf43cc15e0c34d78a47afce767a7b15d83d7",
+      "source_url": "https://x.com/SNP_NET/status/1904443695610376657",
+      "text": "Post\n\nPost\n\nSNP@SNP_NETارتفع عدد الشهداء إلى أكثر من 7، بالإضافة إلى عدد كبير من الإصابات، وسط استمرار الاشتباكات العنيفة بين أهالي قرية كويا بريف درعا والجيش الإسـ.ـرائيلي بعد محاولة اقتحام القرية.\n\nنزوح واسع للأهالي في ظل القصف العنيف، وأهالي قرية كويا يطلقون نداء استغاثة للفزعة، مطالبين الأطباء والممرضين بالتدخل لإنقاذ الجرحى\n\n#SNP #عاجل8:02 AM · Mar 25, 2025114Views122"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SNP_NET/status/1904443695610376657",
+  "incident_ids": [
+    "airwars-142194"
+  ],
+  "incident_sequences": [
+    80
+  ],
+  "normalized_url": "https://x.com/SNP508769855003/status/1904443695610376657",
+  "observed_original_urls": [
+    "https://x.com/SNP508769855003/status/1904443695610376657"
+  ],
+  "original_url": "https://x.com/SNP508769855003/status/1904443695610376657",
+  "page_title": "SNP on X: \"ارتفع عدد الشهداء إلى أكثر من 7، بالإضافة إلى عدد كبير من الإصابات، وسط استمرار الاشتباكات العنيفة بين أهالي قرية كويا بريف درعا والجيش الإسـ.ـرائيلي بعد محاولة اقتحام القرية.\n\nنزوح واسع للأهالي في ظل القصف العنيف، وأهالي قرية كويا يطلقون نداء استغاثة للفزعة، مطالبين الأطباء والممرضين بالتدخل لإنقاذ الجرحى\n\n#SNP #عاجل\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy075-march-25-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-142194",
+      "incident_sequence": 80,
+      "observed_original_url": "https://x.com/SNP508769855003/status/1904443695610376657",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-03-25T08:02:14.000Z",
+  "publisher": "'@SNP508769855003",
+  "publisher_ar": "'@SNP508769855003",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:43:52+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-88efb139c63163af4215b413",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SNP508769855003/status/1904443695610376657",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nSNP@SNP_NETارتفع عدد الشهداء إلى أكثر من 7، بالإضافة إلى عدد كبير من الإصابات، وسط استمرار الاشتباكات العنيفة بين أهالي قرية كويا بريف درعا والجيش الإسـ.ـرائيلي بعد محاولة اقتحام القرية.\n\nنزوح واسع للأهالي في ظل القصف العنيف، وأهالي قرية كويا يطلقون نداء استغاثة للفزعة، مطالبين الأطباء والممرضين بالتدخل لإنقاذ الجرحى\n\n#SNP #عاجل8:02 AM · Mar 25, 2025114Views122",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001606
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
