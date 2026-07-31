@@ -136,8 +136,13 @@
   "text_original_language": "und",
   "translation": {
     "chunks": [],
+    "generated_in_pilot": false,
+    "preexisting_source_text_preserved": false,
+    "preexisting_version": null,
+    "provider": "none",
+    "reason": "Preserve retrieved text verbatim; no machine translation requested.",
     "review_required": false,
-    "status": "pending",
+    "status": "disabled_by_user",
     "version": "disabled-no-translation-v1"
   },
   "translation_version": "disabled-no-translation-v1"
