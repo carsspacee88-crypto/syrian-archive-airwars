@@ -4,6 +4,7 @@ import asyncio
 import json
 import gzip
 import random
+import re
 import time
 import urllib.error
 import urllib.parse
@@ -40,6 +41,8 @@ class FetchResult:
     attempt_history: list[dict[str, Any]] | None = None
     etag: str = ""
     last_modified: str = ""
+    circuit_open_reason: str = ""
+    circuit_open_status: int | None = None
 
     @property
     def ok(self) -> bool:
@@ -286,7 +289,15 @@ class HostCircuitBreaker:
             "suppressed_requests": 0,
             "opens": 0,
             "last_result": None,
+            "open_reason": None,
+            "open_status": None,
         })
+
+    def open_context(self, url: str) -> tuple[str, int | None]:
+        entry = self._entry(_host(url))
+        reason = str(entry.get("open_reason") or "repeated_block_or_timeout")
+        status = entry.get("open_status")
+        return reason, int(status) if isinstance(status, int) else None
 
     def allow(self, url: str) -> bool:
         host = _host(url)
@@ -318,12 +329,17 @@ class HostCircuitBreaker:
             entry["consecutive_failures"] = 0
             entry["opened_at_epoch"] = None
             entry["suppressed_requests"] = 0
+            entry["open_reason"] = None
+            entry["open_status"] = None
             return
         entry["consecutive_failures"] = int(entry.get("consecutive_failures") or 0) + 1
         if entry["consecutive_failures"] >= self.threshold and entry.get("opened_at_epoch") is None:
             entry["opened_at_epoch"] = time.time()
             entry["suppressed_requests"] = 0
             entry["opens"] = int(entry.get("opens") or 0) + 1
+            entry["open_reason"] = result or "repeated_failure"
+            match = re.fullmatch(r"http_(\d{3})", result or "")
+            entry["open_status"] = int(match.group(1)) if match else None
 
     def snapshot(self) -> dict[str, Any]:
         return {host: dict(value) for host, value in sorted(self.state.items())}
@@ -354,6 +370,7 @@ class CircuitBreakingFetcher:
     def fetch(self, url: str, accept: str = "text/html,application/json;q=0.9,*/*;q=0.1") -> FetchResult:
         if not self.circuit.allow(url):
             self.circuit_skips += 1
+            reason, status = self.circuit.open_context(url)
             return FetchResult(
                 url=url,
                 final_url=url,
@@ -365,6 +382,8 @@ class CircuitBreakingFetcher:
                 error="host_circuit_open_after_repeated_block_or_timeout",
                 attempts=0,
                 attempt_history=[{"attempt": 0, "result": "host_circuit_open", "host": _host(url)}],
+                circuit_open_reason=reason,
+                circuit_open_status=status,
             )
         result = self.inner.fetch(url, accept=accept)
         self.circuit.note(url, _circuit_failure(result), result.error or str(result.status))
@@ -498,6 +517,7 @@ class AsyncHostFetcher:
         async with self._host_semaphore(host), self._global:
             if not self.circuit.allow(url):
                 self.circuit_skips += 1
+                reason, status = self.circuit.open_context(url)
                 return FetchResult(
                     url=url,
                     final_url=url,
@@ -509,6 +529,8 @@ class AsyncHostFetcher:
                     error="host_circuit_open_after_repeated_block_or_timeout",
                     attempts=0,
                     attempt_history=[{"attempt": 0, "result": "host_circuit_open", "host": host}],
+                    circuit_open_reason=reason,
+                    circuit_open_status=status,
                 )
             for attempt in range(1, self.retries + 1):
                 waiting += await self._wait_for_host(host)
