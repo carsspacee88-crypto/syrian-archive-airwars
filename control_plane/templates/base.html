@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}لوحة إدارة الأرشيف السوري{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('admin-static', path='/admin.css') }}">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/admin">لوحة إدارة الأرشيف السوري</a>
+    {% if request.session.get('admin') %}
+    <form method="post" action="/admin/logout">
+      <input type="hidden" name="csrf" value="{{ csrf_token }}">
+      <button class="link-button" type="submit">تسجيل الخروج</button>
+    </form>
+    {% endif %}
+  </header>
+  <main class="container">{% block content %}{% endblock %}</main>
+  {% block scripts %}{% endblock %}
+</body>
+</html>

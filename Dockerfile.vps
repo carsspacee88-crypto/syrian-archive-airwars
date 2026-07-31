@@ -1,0 +1,25 @@
+FROM python:3.12-slim
+
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    PIP_NO_CACHE_DIR=1
+
+WORKDIR /srv/archive
+
+RUN groupadd --gid 10001 archive \
+    && useradd --uid 10001 --gid 10001 --create-home archive
+
+COPY requirements.txt requirements-vps.txt ./
+RUN python -m pip install --upgrade pip \
+    && python -m pip install -r requirements-vps.txt
+
+COPY archive_pipeline ./archive_pipeline
+COPY control_plane ./control_plane
+COPY scripts ./scripts
+
+RUN mkdir -p /srv/archive/data /var/cache/archive \
+    && chown -R archive:archive /srv/archive /var/cache/archive
+
+USER archive
+
+CMD ["uvicorn", "control_plane.main:app", "--host", "0.0.0.0", "--port", "8000", "--proxy-headers", "--forwarded-allow-ips=*"]

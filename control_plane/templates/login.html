@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}دخول الإدارة{% endblock %}
+{% block content %}
+<section class="auth-card card">
+  <p class="eyebrow">وصول محمي</p>
+  <h1>دخول لوحة الإدارة</h1>
+  <p class="muted">هذه الواجهة لا تبدأ أي جمع قبل تسجيل الدخول وإنشاء مهمة صريحة.</p>
+  {% if error %}<div class="alert error">{{ error }}</div>{% endif %}
+  <form method="post" action="/admin/login" class="stack">
+    <label>اسم المستخدم<input name="username" autocomplete="username" required autofocus></label>
+    <label>كلمة المرور<input name="password" type="password" autocomplete="current-password" required></label>
+    <button class="primary" type="submit">دخول</button>
+  </form>
+</section>
+{% endblock %}
