@@ -1,0 +1,144 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/0NepK"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.025,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T20:17:00+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 6223,
+      "content_hash": "0331a0bc577479c792bdda1acad2cdfb54702327cac3f12f049318a4665c3625",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.025,
+      "error": "http_403",
+      "etag": "",
+      "final_url": "https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/kshf-hwyt-almwatn-aldhy-astshhd-fy-alqsf-altrky-alakhyr-ly-sd-tshryn-114529",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:17:00+00:00",
+      "status": 403,
+      "url": "https://anfarabic.com/روج آفا - سوريا/kshf-hwyt-almwatn-aldhy-astshhd-fy-alqsf-altrky-alakhyr-ly-sd-tshryn-114529",
+      "waiting_seconds": 0.027
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.ph",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.ph/wip/0NepK",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:19:33+00:00",
+      "status": null,
+      "url": "https://archive.ph/wip/0NepK",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fanfarabic.com%2F%D8%B1%D9%88%D8%AC+%D8%A2%D9%81%D8%A7+-+%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%2Fkshf-hwyt-almwatn-aldhy-astshhd-fy-alqsf-altrky-alakhyr-ly-sd-tshryn-114529&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:02+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fanfarabic.com%2F%D8%B1%D9%88%D8%AC+%D8%A2%D9%81%D8%A7+-+%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%2Fkshf-hwyt-almwatn-aldhy-astshhd-fy-alqsf-altrky-alakhyr-ly-sd-tshryn-114529&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "ANF News",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/kshf-hwyt-almwatn-aldhy-astshhd-fy-alqsf-altrky-alakhyr-ly-sd-tshryn-114529",
+  "incident_ids": [
+    "airwars-256427"
+  ],
+  "incident_sequences": [
+    127
+  ],
+  "normalized_url": "https://anfarabic.com/روج آفا - سوريا/kshf-hwyt-almwatn-aldhy-astshhd-fy-alqsf-altrky-alakhyr-ly-sd-tshryn-114529",
+  "observed_original_urls": [
+    "https://anfarabic.com/روج آفا - سوريا/kshf-hwyt-almwatn-aldhy-astshhd-fy-alqsf-altrky-alakhyr-ly-sd-tshryn-114529"
+  ],
+  "original_url": "https://anfarabic.com/روج آفا - سوريا/kshf-hwyt-almwatn-aldhy-astshhd-fy-alqsf-altrky-alakhyr-ly-sd-tshryn-114529",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts776-january-22-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-256427",
+      "incident_sequence": 127,
+      "observed_original_url": "https://anfarabic.com/روج آفا - سوريا/kshf-hwyt-almwatn-aldhy-astshhd-fy-alqsf-altrky-alakhyr-ly-sd-tshryn-114529",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "ANF News",
+  "publisher_ar": "ANF News",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:17:00+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-297e3af798b6d81133025729",
+  "source_type": "news_article",
+  "stable_id_basis": "https://anfarabic.com/روج آفا - سوريا/kshf-hwyt-almwatn-aldhy-astshhd-fy-alqsf-altrky-alakhyr-ly-sd-tshryn-114529",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

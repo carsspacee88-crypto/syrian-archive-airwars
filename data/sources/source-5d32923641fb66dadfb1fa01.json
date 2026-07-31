@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "289777"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-soheb209-1893294235253617129-2025-02-22-133816/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.218,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:17:15+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 78038,
+      "content_hash": "40dbb2aa3bc73b59414a47f726630a185b36f38f6e7edd51747da8e179040a8c",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.218,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/SOHEB209/status/1893294235253617129",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:17:15+00:00",
+      "status": 200,
+      "url": "https://x.com/SOHEB209/status/1893294235253617129",
+      "waiting_seconds": 0.749
+    }
+  ],
+  "author": "https://x.com/SOHEB209",
+  "captions": [],
+  "content_hash": "c290285dd4ea3123465b9ca2ca86bef7ac6d4e62fc3d75d980fe8fe2228b863a",
+  "content_variants": [
+    {
+      "bytes": 375,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:17:15+00:00",
+      "sha256": "c290285dd4ea3123465b9ca2ca86bef7ac6d4e62fc3d75d980fe8fe2228b863a",
+      "source_url": "https://x.com/SOHEB209/status/1893294235253617129",
+      "text": "Post\n\nPost\n\nصهيب اليعربي@SOHEB209#ديرالزور\nنفذت ميلـ.ـيشـ.ـيا PYD/PKK فجر اليوم عملية مداهمة في بلدة الكشكية شرق دير الزور، بغطاء من الطيران المروحي أسفرت عن اعتقال كل من محمد صياح الرجب ومهيدي الخلف1:38 PM · Feb 22, 20251.3KViews1119"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SOHEB209/status/1893294235253617129",
+  "incident_ids": [
+    "airwars-367995"
+  ],
+  "incident_sequences": [
+    102
+  ],
+  "normalized_url": "https://x.com/SOHEB209/status/1893294235253617129",
+  "observed_original_urls": [
+    "https://x.com/SOHEB209/status/1893294235253617129"
+  ],
+  "original_url": "https://x.com/SOHEB209/status/1893294235253617129",
+  "page_title": "صهيب اليعربي on X: \"#ديرالزور\nنفذت ميلـ.ـيشـ.ـيا PYD/PKK فجر اليوم عملية مداهمة في بلدة الكشكية شرق دير الزور، بغطاء من الطيران المروحي أسفرت عن اعتقال كل من محمد صياح الرجب ومهيدي الخلف\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0128-february-22-2025/",
+      "airwars_source_id": "289777",
+      "incident_id": "airwars-367995",
+      "incident_sequence": 102,
+      "observed_original_url": "https://x.com/SOHEB209/status/1893294235253617129",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-02-22T13:38:16.000Z",
+  "publisher": "SOHEB209",
+  "publisher_ar": "SOHEB209",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:17:15+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-5d32923641fb66dadfb1fa01",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SOHEB209/status/1893294235253617129",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nصهيب اليعربي@SOHEB209#ديرالزور\nنفذت ميلـ.ـيشـ.ـيا PYD/PKK فجر اليوم عملية مداهمة في بلدة الكشكية شرق دير الزور، بغطاء من الطيران المروحي أسفرت عن اعتقال كل من محمد صياح الرجب ومهيدي الخلف1:38 PM · Feb 22, 20251.3KViews1119",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001347
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "304970"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-int-2025-02-01-170000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.359,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:17:30+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 428682,
+      "content_hash": "676196209237e4bf242bea7538fca15931559eb6d23a3c5614bbb9b7954b1d7e",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.359,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1969129190079850%2F%3Fmulti_permalinks%3D4033898493602899%26hoisted_section_header_type%3Drecently_seen",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:17:30+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/groups/1969129190079850/?multi_permalinks=4033898493602899&hoisted_section_header_type=recently_seen",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "INT",
+  "captions": [],
+  "content_hash": "0ec79d74d803364211307a6e02e2c8b16c0198b680da18137e550ba407ab4df7",
+  "content_variants": [
+    {
+      "bytes": 351,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:17:30+00:00",
+      "sha256": "0ec79d74d803364211307a6e02e2c8b16c0198b680da18137e550ba407ab4df7",
+      "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1969129190079850%2F%3Fmulti_permalinks%3D4033898493602899%26hoisted_section_header_type%3Drecently_seen",
+      "text": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1969129190079850%2F%3Fmulti_permalinks%3D4033898493602899%26hoisted_section_header_type%3Drecently_seen",
+  "incident_ids": [
+    "airwars-290193"
+  ],
+  "incident_sequences": [
+    117
+  ],
+  "normalized_url": "https://www.facebook.com/groups/1969129190079850/?multi_permalinks=4033898493602899&hoisted_section_header_type=recently_seen",
+  "observed_original_urls": [
+    "https://www.facebook.com/groups/1969129190079850/?multi_permalinks=4033898493602899&hoisted_section_header_type=recently_seen"
+  ],
+  "original_url": "https://www.facebook.com/groups/1969129190079850/?multi_permalinks=4033898493602899&hoisted_section_header_type=recently_seen",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts785-february-1-2025/",
+      "airwars_source_id": "304970",
+      "incident_id": "airwars-290193",
+      "incident_sequence": 117,
+      "observed_original_url": "https://www.facebook.com/groups/1969129190079850/?multi_permalinks=4033898493602899&hoisted_section_header_type=recently_seen",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "1 فبراير 2025",
+  "publisher": "INT",
+  "publisher_ar": "INT",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:17:30+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-131d0f5426039866b6295785",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/groups/1969129190079850/?multi_permalinks=4033898493602899&hoisted_section_header_type=recently_seen",
+  "text_ar": "",
+  "text_original": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001882
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

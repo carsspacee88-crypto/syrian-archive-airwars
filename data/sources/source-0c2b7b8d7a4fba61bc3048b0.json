@@ -1,0 +1,147 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/221wI"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.062,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T20:16:59+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 6389,
+      "content_hash": "a903ff33e37a7cad3c784c9ff797165f38bc9b9c4eed00b461aae069e2b8d5b7",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.062,
+      "error": "http_403",
+      "etag": "",
+      "final_url": "https://ronahi.tv/ar/%D9%85%D8%AC%D8%AF%D8%AF%D8%A7-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D8%B5%D8%B9%D8%AF-%D9%85%D9%86-%D9%87%D8%AC%D9%85%D8%A7%D8%AA%D9%87-%D8%B9/",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:16:59+00:00",
+      "status": 403,
+      "url": "https://ronahi.tv/ar/مجددا-الاحتلال-التركي-يصعد-من-هجماته-ع/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.456,
+          "error": "http_429",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T20:19:31+00:00",
+          "status": 429
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 55509,
+      "content_hash": "2d89e37b9693782f18a8941fbe45f630438c73e3df863ab681ceceed0d5ec998",
+      "content_type": "text/html",
+      "elapsed_seconds": 1.456,
+      "error": "http_429",
+      "etag": "",
+      "final_url": "https://archive.ph/221wI",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:19:31+00:00",
+      "status": 429,
+      "url": "https://archive.ph/wip/221wI",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fronahi.tv%2Far%2F%D9%85%D8%AC%D8%AF%D8%AF%D8%A7-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D8%B5%D8%B9%D8%AF-%D9%85%D9%86-%D9%87%D8%AC%D9%85%D8%A7%D8%AA%D9%87-%D8%B9%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:01+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fronahi.tv%2Far%2F%D9%85%D8%AC%D8%AF%D8%AF%D8%A7-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D8%B5%D8%B9%D8%AF-%D9%85%D9%86-%D9%87%D8%AC%D9%85%D8%A7%D8%AA%D9%87-%D8%B9%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Ronahi TV",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://ronahi.tv/ar/%D9%85%D8%AC%D8%AF%D8%AF%D8%A7-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D8%B5%D8%B9%D8%AF-%D9%85%D9%86-%D9%87%D8%AC%D9%85%D8%A7%D8%AA%D9%87-%D8%B9/",
+  "incident_ids": [
+    "airwars-256439"
+  ],
+  "incident_sequences": [
+    130
+  ],
+  "normalized_url": "https://ronahi.tv/ar/مجددا-الاحتلال-التركي-يصعد-من-هجماته-ع/",
+  "observed_original_urls": [
+    "https://ronahi.tv/ar/مجددا-الاحتلال-التركي-يصعد-من-هجماته-ع/"
+  ],
+  "original_url": "https://ronahi.tv/ar/مجددا-الاحتلال-التركي-يصعد-من-هجماته-ع/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts773-january-17-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-256439",
+      "incident_sequence": 130,
+      "observed_original_url": "https://ronahi.tv/ar/مجددا-الاحتلال-التركي-يصعد-من-هجماته-ع/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Ronahi TV",
+  "publisher_ar": "Ronahi TV",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:16:59+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-0c2b7b8d7a4fba61bc3048b0",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://ronahi.tv/ar/مجددا-الاحتلال-التركي-يصعد-من-هجماته-ع/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

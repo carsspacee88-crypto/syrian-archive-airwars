@@ -1,0 +1,147 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/H2iMV"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.141,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T20:16:59+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 6180,
+      "content_hash": "6441cf28c9144b1c9b422614fab3dd6be134fc0eae9a6128d717d6ca93f5eeeb",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.141,
+      "error": "http_403",
+      "etag": "",
+      "final_url": "https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-mwatnayn-jra-asthdaf-alahtlal-altrky-lmnzl-fy-kwbany-114842",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:16:59+00:00",
+      "status": 403,
+      "url": "https://anfarabic.com/روج آفا - سوريا/astshhad-mwatnayn-jra-asthdaf-alahtlal-altrky-lmnzl-fy-kwbany-114842",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.486,
+          "error": "http_429",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T20:19:33+00:00",
+          "status": 429
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 55509,
+      "content_hash": "2d89e37b9693782f18a8941fbe45f630438c73e3df863ab681ceceed0d5ec998",
+      "content_type": "text/html",
+      "elapsed_seconds": 0.486,
+      "error": "http_429",
+      "etag": "",
+      "final_url": "https://archive.ph/H2iMV",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:19:33+00:00",
+      "status": 429,
+      "url": "https://archive.ph/wip/H2iMV",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fanfarabic.com%2F%D8%B1%D9%88%D8%AC+%D8%A2%D9%81%D8%A7+-+%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%2Fastshhad-mwatnayn-jra-asthdaf-alahtlal-altrky-lmnzl-fy-kwbany-114842&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:20:02+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fanfarabic.com%2F%D8%B1%D9%88%D8%AC+%D8%A2%D9%81%D8%A7+-+%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%2Fastshhad-mwatnayn-jra-asthdaf-alahtlal-altrky-lmnzl-fy-kwbany-114842&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "ANF News",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-mwatnayn-jra-asthdaf-alahtlal-altrky-lmnzl-fy-kwbany-114842",
+  "incident_ids": [
+    "airwars-258243"
+  ],
+  "incident_sequences": [
+    121
+  ],
+  "normalized_url": "https://anfarabic.com/روج آفا - سوريا/astshhad-mwatnayn-jra-asthdaf-alahtlal-altrky-lmnzl-fy-kwbany-114842",
+  "observed_original_urls": [
+    "https://anfarabic.com/روج آفا - سوريا/astshhad-mwatnayn-jra-asthdaf-alahtlal-altrky-lmnzl-fy-kwbany-114842"
+  ],
+  "original_url": "https://anfarabic.com/روج آفا - سوريا/astshhad-mwatnayn-jra-asthdaf-alahtlal-altrky-lmnzl-fy-kwbany-114842",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts782-january-28-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-258243",
+      "incident_sequence": 121,
+      "observed_original_url": "https://anfarabic.com/روج آفا - سوريا/astshhad-mwatnayn-jra-asthdaf-alahtlal-altrky-lmnzl-fy-kwbany-114842",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "ANF News",
+  "publisher_ar": "ANF News",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:16:59+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-05b935a56cd41d6e0a2e6456",
+  "source_type": "news_article",
+  "stable_id_basis": "https://anfarabic.com/روج آفا - سوريا/astshhad-mwatnayn-jra-asthdaf-alahtlal-altrky-lmnzl-fy-kwbany-114842",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

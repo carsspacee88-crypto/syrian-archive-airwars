@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "304946"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/rojnews-news-roj-news-2025-02-01-204129/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.811,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:17:01+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 208861,
+      "content_hash": "80080fb9f1c7fa80e79297d8f328f553b3653db2539dc4e6b254e386bd6f3544",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.811,
+      "error": null,
+      "etag": "",
+      "final_url": "https://rojnews.news/ar/?p=212169",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:17:01+00:00",
+      "status": 200,
+      "url": "https://rojnews.news/ar/?p=212169",
+      "waiting_seconds": 0.171
+    }
+  ],
+  "author": "https://www.facebook.com/RojnewsAr/ ROJNEWS",
+  "captions": [],
+  "content_hash": "e3c4dab174368bfe0c339e0fa34c8c646d3484b1fd0e03a6783ffd57fd47971b",
+  "content_variants": [
+    {
+      "bytes": 1511,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:17:01+00:00",
+      "sha256": "e3c4dab174368bfe0c339e0fa34c8c646d3484b1fd0e03a6783ffd57fd47971b",
+      "source_url": "https://rojnews.news/ar/?p=212169",
+      "text": "الاحتلال التركي يقصف منزلا في كوباني\n\nمركز الأخبار\n\nأصيب أفراد أسرة واحدة في قصف بطائرة حربية استهدف منزلهم في قرية أشمة بريف كوباني بإقليم شمال وشرق سوريا.\n\nأفادت وكالة أنباء هاوار، أن طائرة حربية لجيش الاحتلال التركي قصفت قبل قليل، منزلاً في قرية أشمة الواقعة في الريف الغربي لمدينة كوباني بإقليم شمال وشرق سوريا.\n\nأشارت الوكالة إلى أن المنزل يعود للمواطن جمال إبراهيم، وذكرت أن 7 من أفراد الأسرة بينهم أطفال أصيبوا، ونقلوا إلى المشفى لتلقي العلاج.\n\nقصف جديد يستهدف مقر الديمقراطي الإيراني في هولير\n\nمسيّرة تستهدف معسكرا للمعارضة الكردية في هولير\n\nقفزة جديدة.. شكوى قضائية في السليمانية ضد ارتفاع أسعار الوقود\n\nالتحرر الكردستانية: لا يمكن تنفيذ القانون الإطاري دون أن يقود أوجلان العملية\n\nالعنف ضد النساء في كردستان يتصاعد.. ومحامية: شرف المرأة لا يرتبط بالرجل\n\nحريق واسع قرب طريق هولير – كركوك يتسبب بإغلاق الطريق وتحويل حركة السير"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://rojnews.news/ar/?p=212169",
+  "incident_ids": [
+    "airwars-290193"
+  ],
+  "incident_sequences": [
+    117
+  ],
+  "normalized_url": "https://rojnews.news/ar/?p=212169",
+  "observed_original_urls": [
+    "https://rojnews.news/ar/?p=212169"
+  ],
+  "original_url": "https://rojnews.news/ar/?p=212169",
+  "page_title": "الاحتلال التركي يقصف منزلا في كوباني - العربية - Rojnews.news",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts785-february-1-2025/",
+      "airwars_source_id": "304946",
+      "incident_id": "airwars-290193",
+      "incident_sequence": 117,
+      "observed_original_url": "https://rojnews.news/ar/?p=212169",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-02-01T20:41:29+00:00 2025-02-01T23:41:29+03:00 2026-07-30T09:20:47+03:00 2026-07-30T10:02:21+03:00 2026-07-31T11:49:38+03:00 2026-07-31T16:25:58+03:00 2026-07-30T13:35:06+03:00 2026-07-31T22:03:21+03:00 2026-07-31T19:52:49+03:00 2026-07-31T19:32:05+03:00 2026-07-31T19:27:46+03:00 2026-07-31T18:54:59+03:00",
+  "publisher": "oil news",
+  "publisher_ar": "oil news",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:17:01+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-68d41b51adce4ad7e32152e8",
+  "source_type": "news_article",
+  "stable_id_basis": "https://rojnews.news/ar/?p=212169",
+  "text_ar": "",
+  "text_original": "الاحتلال التركي يقصف منزلا في كوباني\n\nمركز الأخبار\n\nأصيب أفراد أسرة واحدة في قصف بطائرة حربية استهدف منزلهم في قرية أشمة بريف كوباني بإقليم شمال وشرق سوريا.\n\nأفادت وكالة أنباء هاوار، أن طائرة حربية لجيش الاحتلال التركي قصفت قبل قليل، منزلاً في قرية أشمة الواقعة في الريف الغربي لمدينة كوباني بإقليم شمال وشرق سوريا.\n\nأشارت الوكالة إلى أن المنزل يعود للمواطن جمال إبراهيم، وذكرت أن 7 من أفراد الأسرة بينهم أطفال أصيبوا، ونقلوا إلى المشفى لتلقي العلاج.\n\nقصف جديد يستهدف مقر الديمقراطي الإيراني في هولير\n\nمسيّرة تستهدف معسكرا للمعارضة الكردية في هولير\n\nقفزة جديدة.. شكوى قضائية في السليمانية ضد ارتفاع أسعار الوقود\n\nالتحرر الكردستانية: لا يمكن تنفيذ القانون الإطاري دون أن يقود أوجلان العملية\n\nالعنف ضد النساء في كردستان يتصاعد.. ومحامية: شرف المرأة لا يرتبط بالرجل\n\nحريق واسع قرب طريق هولير – كركوك يتسبب بإغلاق الطريق وتحويل حركة السير",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00213
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

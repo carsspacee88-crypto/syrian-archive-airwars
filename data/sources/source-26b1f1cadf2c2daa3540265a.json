@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "305103"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/arabic-anf-news-com-anf-4/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.332,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:16:59+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 34515,
+      "content_hash": "4a762e7d9e0b8802d1bc8faf891ab4a912aa15ac13e00176ac4f34e0ffe6ab4c",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.332,
+      "error": null,
+      "etag": "",
+      "final_url": "https://arabic.anf-news.com/akhr-l-khbr/y-115314",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:16:59+00:00",
+      "status": 200,
+      "url": "https://arabic.anf-news.com/akhr-l-khbr/y-115314",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "ANF",
+  "captions": [],
+  "content_hash": "3c1b4249758b71c7b0430ae1358641bc428da129638abe2be5f7c7e6c49dab2b",
+  "content_variants": [
+    {
+      "bytes": 384,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:16:59+00:00",
+      "sha256": "3c1b4249758b71c7b0430ae1358641bc428da129638abe2be5f7c7e6c49dab2b",
+      "source_url": "https://arabic.anf-news.com/akhr-l-khbr/y-115314",
+      "text": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالأحد, ٩ فبراير ٢٠٢٥, ١٤:١٥\n\nتعرضت قرية صكيرو في الريف الشرقي لمدينة عين عيسى لقصف الطيران المسيّر لجيش الاحتلال التركي ومرتزقته ما أدى إلى استشهاد الطفل صلاح خلف السلامه (١٥ سنة)."
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://arabic.anf-news.com/akhr-l-khbr/y-115314",
+  "incident_ids": [
+    "airwars-270476"
+  ],
+  "incident_sequences": [
+    108
+  ],
+  "normalized_url": "https://arabic.anf-news.com/akhr-l-khbr/y-115314",
+  "observed_original_urls": [
+    "https://arabic.anf-news.com/akhr-l-khbr/y-115314"
+  ],
+  "original_url": "https://arabic.anf-news.com/akhr-l-khbr/y-115314",
+  "page_title": "ANF |\nقصف مسيّرة للاحتلال التركي على ريف عين عيسى يسفر عن استشهاد طفل",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts789-february-9-2025/",
+      "airwars_source_id": "305103",
+      "incident_id": "airwars-270476",
+      "incident_sequence": 108,
+      "observed_original_url": "https://arabic.anf-news.com/akhr-l-khbr/y-115314",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "ANF",
+  "publisher_ar": "ANF",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:16:59+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-26b1f1cadf2c2daa3540265a",
+  "source_type": "news_article",
+  "stable_id_basis": "https://arabic.anf-news.com/akhr-l-khbr/y-115314",
+  "text_ar": "",
+  "text_original": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالأحد, ٩ فبراير ٢٠٢٥, ١٤:١٥\n\nتعرضت قرية صكيرو في الريف الشرقي لمدينة عين عيسى لقصف الطيران المسيّر لجيش الاحتلال التركي ومرتزقته ما أدى إلى استشهاد الطفل صلاح خلف السلامه (١٥ سنة).",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.000885
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

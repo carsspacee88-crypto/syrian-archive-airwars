@@ -1,0 +1,152 @@
+{
+  "airwars_source_ids": [
+    "304874"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-basnews-com-basnews-sorani/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.02,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T20:17:00+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 5728,
+      "content_hash": "7b7d7a49f5711e786f8adb7dd45106f2c5bfefead399f0871785acfd2a907d3d",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.02,
+      "error": "http_403",
+      "etag": "",
+      "final_url": "https://www.basnews.com/ar/babat/873937",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:17:00+00:00",
+      "status": 403,
+      "url": "https://www.basnews.com/ar/babat/873937",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.013,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T20:19:30+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 103,
+      "content_hash": "f261423d1da97890ff6bfccd31ff4ee0b74f69351cf75095fbe791cb16cbf5bd",
+      "content_type": "text/html",
+      "elapsed_seconds": 0.013,
+      "error": "http_403",
+      "etag": "",
+      "final_url": "https://airwars.org/source/www-basnews-com-basnews-sorani/",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:19:30+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-basnews-com-basnews-sorani/",
+      "waiting_seconds": 0.749
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.121,
+          "error": "ReadTimeout: ",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T20:19:50+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.121,
+      "error": "ReadTimeout: ",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.basnews.com%2Far%2Fbabat%2F873937&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:19:50+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.basnews.com%2Far%2Fbabat%2F873937&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "Basnews Sorani",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "https://www.basnews.com/ar/babat/873937",
+  "incident_ids": [
+    "airwars-275410"
+  ],
+  "incident_sequences": [
+    116
+  ],
+  "normalized_url": "https://www.basnews.com/ar/babat/873937",
+  "observed_original_urls": [
+    "https://www.basnews.com/ar/babat/873937"
+  ],
+  "original_url": "https://www.basnews.com/ar/babat/873937",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts784-february-1-2025/",
+      "airwars_source_id": "304874",
+      "incident_id": "airwars-275410",
+      "incident_sequence": 116,
+      "observed_original_url": "https://www.basnews.com/ar/babat/873937",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Basnews Sorani",
+  "publisher_ar": "Basnews Sorani",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T20:17:00+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-264764dc841207a0e6f9d082",
+  "source_type": "news_article",
+  "stable_id_basis": "https://www.basnews.com/ar/babat/873937",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

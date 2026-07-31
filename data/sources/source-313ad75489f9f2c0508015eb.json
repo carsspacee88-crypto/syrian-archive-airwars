@@ -1,0 +1,106 @@
+{
+  "airwars_source_ids": [
+    "305014"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%b1%d9%88%d8%ad%d9%8a-%d8%a3%d9%86%d8%aa%d9%8a-%d9%83%d9%88%d8%a8%d8%a7%d9%86%d9%8a-pfbid02nc4dfoeprmvjagmuae4z5sa22jp8n12rmpqea2mzbwpahk9thwyu18mh86o8v6xdl-2025-02-07-1700/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.298,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T20:18:09+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 313742,
+      "content_hash": "caf811b1a6eab8f7ff78ef9faf801595be0dec09bde87ba1feadcbb572d2fd0d",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.298,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/kobanidlikurdistan/posts/pfbid02NC4dFoEprMvjaGMUAE4Z5SA22Jp8n12RMpQeA2MZbwPaHk9THwyu18mH86o8V6Xdl?rdid=9qzEMjGQr7mogcVS#",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T20:18:09+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/kobanidlikurdistan/posts/pfbid02NC4dFoEprMvjaGMUAE4Z5SA22Jp8n12RMpQeA2MZbwPaHk9THwyu18mH86o8V6Xdl?rdid=9qzEMjGQr7mogcVS#",
+      "waiting_seconds": 0.746
+    }
+  ],
+  "author": "روحي أنتي كوباني",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T20:18:09+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/kobanidlikurdistan/posts/pfbid02NC4dFoEprMvjaGMUAE4Z5SA22Jp8n12RMpQeA2MZbwPaHk9THwyu18mH86o8V6Xdl?rdid=9qzEMjGQr7mogcVS#",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/kobanidlikurdistan/posts/pfbid02NC4dFoEprMvjaGMUAE4Z5SA22Jp8n12RMpQeA2MZbwPaHk9THwyu18mH86o8V6Xdl?rdid=9qzEMjGQr7mogcVS#",
+  "incident_ids": [
+    "airwars-290195"
+  ],
+  "incident_sequences": [
+    113
+  ],
+  "normalized_url": "https://www.facebook.com/kobanidlikurdistan/posts/pfbid02NC4dFoEprMvjaGMUAE4Z5SA22Jp8n12RMpQeA2MZbwPaHk9THwyu18mH86o8V6Xdl?rdid=9qzEMjGQr7mogcVS",
+  "observed_original_urls": [
+    "https://www.facebook.com/kobanidlikurdistan/posts/pfbid02NC4dFoEprMvjaGMUAE4Z5SA22Jp8n12RMpQeA2MZbwPaHk9THwyu18mH86o8V6Xdl?rdid=9qzEMjGQr7mogcVS#"
+  ],
+  "original_url": "https://www.facebook.com/kobanidlikurdistan/posts/pfbid02NC4dFoEprMvjaGMUAE4Z5SA22Jp8n12RMpQeA2MZbwPaHk9THwyu18mH86o8V6Xdl?rdid=9qzEMjGQr7mogcVS#",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts786-february-6-2025/",
+      "airwars_source_id": "305014",
+      "incident_id": "airwars-290195",
+      "incident_sequence": 113,
+      "observed_original_url": "https://www.facebook.com/kobanidlikurdistan/posts/pfbid02NC4dFoEprMvjaGMUAE4Z5SA22Jp8n12RMpQeA2MZbwPaHk9THwyu18mH86o8V6Xdl?rdid=9qzEMjGQr7mogcVS#",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "7 فبراير 2025",
+  "publisher": "My soul, you are Kobani",
+  "publisher_ar": "روحي أنتي كوباني",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T20:18:09+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-313ad75489f9f2c0508015eb",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/kobanidlikurdistan/posts/pfbid02NC4dFoEprMvjaGMUAE4Z5SA22Jp8n12RMpQeA2MZbwPaHk9THwyu18mH86o8V6Xdl?rdid=9qzEMjGQr7mogcVS",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.000926
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
