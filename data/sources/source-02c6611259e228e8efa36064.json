@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "373753"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d9%83%d9%88%d8%a8%d8%a7%d9%86%d9%8a-%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1-1201107761975477-2026-01-05-214541/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.481,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:18:49+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 541403,
+      "content_hash": "77716e01adeda9f0cbfd85e8fac4ef89a16893caab3a0242f7c44e1de25e2cb3",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.481,
+      "error": null,
+      "final_url": "https://www.facebook.com/reel/1201107761975477",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:18:49+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/reel/1201107761975477",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "كوباني اخبار",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:18:49+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/reel/1201107761975477",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/reel/1201107761975477",
+  "incident_ids": [
+    "airwars-387045"
+  ],
+  "incident_sequences": [
+    16
+  ],
+  "normalized_url": "https://www.facebook.com/reel/1201107761975477",
+  "observed_original_urls": [
+    "https://www.facebook.com/reel/1201107761975477"
+  ],
+  "original_url": "https://www.facebook.com/reel/1201107761975477",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0171-december-19-2025/",
+      "airwars_source_id": "373753",
+      "incident_id": "airwars-387045",
+      "incident_sequence": 16,
+      "observed_original_url": "https://www.facebook.com/reel/1201107761975477",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "5 يناير 2026",
+  "publisher": "Kobani News",
+  "publisher_ar": "كوباني اخبار",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:18:49+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-02c6611259e228e8efa36064",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/reel/1201107761975477",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001819
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

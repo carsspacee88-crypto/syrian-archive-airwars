@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "365575"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-ali_alshmrre-2002358206475935842-2025-12-20-123933/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.338,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:18:41+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 143197,
+      "content_hash": "e51af17f5b2986f5c575fabe25e8370f4b1dc2c32252d1aaeb39a865aadade3d",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.338,
+      "error": null,
+      "final_url": "https://x.com/ALI_AlSHMRRE/status/2002358206475935842",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:18:41+00:00",
+      "status": 200,
+      "url": "https://x.com/ALI_AlSHMRRE/status/2002358206475935842",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "https://x.com/ALI_AlSHMRRE",
+  "captions": [],
+  "content_hash": "62ea71206c387a049fc8b908f7a6635c9048c9f8229bd1a8e148245025755140",
+  "content_variants": [
+    {
+      "bytes": 1241,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:18:41+00:00",
+      "sha256": "62ea71206c387a049fc8b908f7a6635c9048c9f8229bd1a8e148245025755140",
+      "source_url": "https://x.com/ALI_AlSHMRRE/status/2002358206475935842",
+      "text": "Post\n\nPost\n\nعلي الشمري@ALI_AlSHMRREبمعلومات من العراق والضربات اجنبية..\nإعلام التنظيم الرديف ينعى أحد مسؤولي التنظيم و القائد العملياتي في دير الزور و البادية حيث تم القضاء على \" أبو حمزة الأثري - عبدالكريم الأحمد \" بإنزال للتحالف الدولي بعد معلومات إستخبارية عراقية رفقة زوجته \" ر . أ \" ، يأتي هذا في وقت تتوسع به العمليات المشتركة بين القوات العراقية و قوات التحالف إستخباريةً كانت أو أمنية عسكرية للقضاء على الأهداف الإرهابية المطلوبة بدقة.12:39 PM · Dec 20, 202529KViews1281808\n\nSajjad Sajjad@SajjadSajj15371Dec 20, 2025المشكلة مصدكين نفسهم دولة ويعتقدون بتوسعها وهم مجرد عصابات تنمو في بلدان المتزعزه فقط ما أن تستقر تلك البلدان حتى يختفون من الساحة نهائيا\"51.2K\n\nYazan@Yazan89007029Dec 20, 2025بس العملية حقتكم كانت بالحسكة يا حمار مو بالرقة548"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/ALI_AlSHMRRE/status/2002358206475935842",
+  "incident_ids": [
+    "airwars-367981"
+  ],
+  "incident_sequences": [
+    19
+  ],
+  "normalized_url": "https://x.com/ALI_AlSHMRRE/status/2002358206475935842",
+  "observed_original_urls": [
+    "https://x.com/ALI_AlSHMRRE/status/2002358206475935842"
+  ],
+  "original_url": "https://x.com/ALI_AlSHMRRE/status/2002358206475935842",
+  "page_title": "علي الشمري on X: \"بمعلومات من العراق والضربات اجنبية..\nإعلام التنظيم الرديف ينعى أحد مسؤولي التنظيم و القائد العملياتي في دير الزور و البادية حيث تم القضاء على \" أبو حمزة الأثري - عبدالكريم الأحمد \" بإنزال للتحالف الدولي بعد معلومات إستخبارية عراقية رفقة زوجته \" ر . أ \" ، يأتي هذا في وقت تتوسع به العمليات المشتركة بين القوات العراقية و قوات التحالف إستخباريةً كانت أو أمنية عسكرية للقضاء على الأهداف الإرهابية المطلوبة بدقة.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2018-december-18-2025/",
+      "airwars_source_id": "365575",
+      "incident_id": "airwars-367981",
+      "incident_sequence": 19,
+      "observed_original_url": "https://x.com/ALI_AlSHMRRE/status/2002358206475935842",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-20T12:39:33.000Z",
+  "publisher": "ALI_AlSHMRRE",
+  "publisher_ar": "ALI_AlSHMRRE",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:18:41+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-01bc22551e4334f17c969a96",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/ALI_AlSHMRRE/status/2002358206475935842",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nعلي الشمري@ALI_AlSHMRREبمعلومات من العراق والضربات اجنبية..\nإعلام التنظيم الرديف ينعى أحد مسؤولي التنظيم و القائد العملياتي في دير الزور و البادية حيث تم القضاء على \" أبو حمزة الأثري - عبدالكريم الأحمد \" بإنزال للتحالف الدولي بعد معلومات إستخبارية عراقية رفقة زوجته \" ر . أ \" ، يأتي هذا في وقت تتوسع به العمليات المشتركة بين القوات العراقية و قوات التحالف إستخباريةً كانت أو أمنية عسكرية للقضاء على الأهداف الإرهابية المطلوبة بدقة.12:39 PM · Dec 20, 202529KViews1281808\n\nSajjad Sajjad@SajjadSajj15371Dec 20, 2025المشكلة مصدكين نفسهم دولة ويعتقدون بتوسعها وهم مجرد عصابات تنمو في بلدان المتزعزه فقط ما أن تستقر تلك البلدان حتى يختفون من الساحة نهائيا\"51.2K\n\nYazan@Yazan89007029Dec 20, 2025بس العملية حقتكم كانت بالحسكة يا حمار مو بالرقة548",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002434
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

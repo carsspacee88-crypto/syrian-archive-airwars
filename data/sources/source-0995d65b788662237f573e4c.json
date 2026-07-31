@@ -1,0 +1,142 @@
+{
+  "airwars_source_ids": [
+    "275357"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-sy_intelligence-1972233655402787049-2025-09-28-092940/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.197,
+          "error": "http_404",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:20:21+00:00",
+          "status": 404
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 36817,
+      "content_hash": "838a76b9e0a345faee40cbea5c0c9e27e5b8d9a9e18b1f71073ae888bdedaf0c",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.197,
+      "error": "http_404",
+      "final_url": "https://x.com/Sy_intelligence/status/1972233655402787049",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:20:21+00:00",
+      "status": 404,
+      "url": "https://x.com/Sy_intelligence/status/1972233655402787049",
+      "waiting_seconds": 0.743
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/x-com-sy_intelligence-1972233655402787049-2025-09-28-092940/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:20:21+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/x-com-sy_intelligence-1972233655402787049-2025-09-28-092940/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.013,
+          "error": "URLError: <urlopen error timed out>",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:20:32+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.013,
+      "error": "URLError: <urlopen error timed out>",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fx.com%2FSy_intelligence%2Fstatus%2F1972233655402787049&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:20:32+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fx.com%2FSy_intelligence%2Fstatus%2F1972233655402787049&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.749
+    }
+  ],
+  "author": "Sy_intelligence",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_404",
+  "final_redirected_url": "https://x.com/Sy_intelligence/status/1972233655402787049",
+  "incident_ids": [
+    "airwars-287562"
+  ],
+  "incident_sequences": [
+    39
+  ],
+  "normalized_url": "https://x.com/Sy_intelligence/status/1972233655402787049",
+  "observed_original_urls": [
+    "https://x.com/Sy_intelligence/status/1972233655402787049"
+  ],
+  "original_url": "https://x.com/Sy_intelligence/status/1972233655402787049",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2013-september-28-2025/",
+      "airwars_source_id": "275357",
+      "incident_id": "airwars-287562",
+      "incident_sequence": 39,
+      "observed_original_url": "https://x.com/Sy_intelligence/status/1972233655402787049",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "28 سبتمبر 2025",
+  "publisher": "Sy_intelligence",
+  "publisher_ar": "Sy_intelligence",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:20:21+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-0995d65b788662237f573e4c",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Sy_intelligence/status/1972233655402787049",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

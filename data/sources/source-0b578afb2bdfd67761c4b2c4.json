@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "286682"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-levant24_ar-1973816333386268883-2025-10-02-182420/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.311,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:20:59+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 104246,
+      "content_hash": "9885f89a32668db66f9f7fa7428d8e31d0b3d197837560fe3829bee4a093531e",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.311,
+      "error": null,
+      "final_url": "https://x.com/Levant24_ar/status/1973816333386268883",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:20:59+00:00",
+      "status": 200,
+      "url": "https://x.com/Levant24_ar/status/1973816333386268883",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "https://x.com/Levant24_ar",
+  "captions": [],
+  "content_hash": "9d86f0a6c92b67749f22b5072ba9f1c96562aaaa9928a45c22490f23d2c8cae6",
+  "content_variants": [
+    {
+      "bytes": 597,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:20:59+00:00",
+      "sha256": "9d86f0a6c92b67749f22b5072ba9f1c96562aaaa9928a45c22490f23d2c8cae6",
+      "source_url": "https://x.com/Levant24_ar/status/1973816333386268883",
+      "text": "Post\n\nPost\n\nLevant24 عربي@Levant24_arOct 2, 2025🔴 وفقًا لمصادر محلية، نفذ التحالف الدولي ضربته الثانية خلال أسبوع، مستهدفًا مركبة على طريق حارم-باريشا في ريف إدلب الشمالي.2216\n\nLevant24 عربي@Levant24_arصورة للسيارة التي استهدفتها قوات التحالف الدولي على طريق حارم–باريشا في ريف إدلب الشمالي، فيما لا تزال حصيلة الخسائر غير معروفة حتى الآن.6:24 PM · Oct 2, 2025168Views1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Levant24_ar/status/1973816333386268883",
+  "incident_ids": [
+    "airwars-386626"
+  ],
+  "incident_sequences": [
+    37
+  ],
+  "normalized_url": "https://x.com/Levant24_ar/status/1973816333386268883",
+  "observed_original_urls": [
+    "https://x.com/Levant24_ar/status/1973816333386268883"
+  ],
+  "original_url": "https://x.com/Levant24_ar/status/1973816333386268883",
+  "page_title": "Levant24 عربي on X: \"صورة للسيارة التي استهدفتها قوات التحالف الدولي على طريق حارم–باريشا في ريف إدلب الشمالي، فيما لا تزال حصيلة الخسائر غير معروفة حتى الآن. https://t.co/8AQqbj9x8E\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0158-october-2-2025/",
+      "airwars_source_id": "286682",
+      "incident_id": "airwars-386626",
+      "incident_sequence": 37,
+      "observed_original_url": "https://x.com/Levant24_ar/status/1973816333386268883",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-10-02T18:24:20.000Z",
+  "publisher": "Levant24_ar",
+  "publisher_ar": "Levant24_ar",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:20:59+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-0b578afb2bdfd67761c4b2c4",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Levant24_ar/status/1973816333386268883",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nLevant24 عربي@Levant24_arOct 2, 2025🔴 وفقًا لمصادر محلية، نفذ التحالف الدولي ضربته الثانية خلال أسبوع، مستهدفًا مركبة على طريق حارم-باريشا في ريف إدلب الشمالي.2216\n\nLevant24 عربي@Levant24_arصورة للسيارة التي استهدفتها قوات التحالف الدولي على طريق حارم–باريشا في ريف إدلب الشمالي، فيما لا تزال حصيلة الخسائر غير معروفة حتى الآن.6:24 PM · Oct 2, 2025168Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002381
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

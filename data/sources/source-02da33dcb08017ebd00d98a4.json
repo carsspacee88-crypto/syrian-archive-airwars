@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "181925"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d9%85%d8%ad%d9%85%d8%af-%d9%81%d9%87%d8%af-1463870271702159-2025-06-13-134700/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.608,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:18:51+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 762022,
+      "content_hash": "d5c78ab6937d4b7d8f3ebd8660b6ffd334153bac55e32d1ad19b2da93a999ab3",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.608,
+      "error": null,
+      "final_url": "https://www.facebook.com/mhmd.fhd.478515/videos/1463870271702159",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:18:51+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/mhmd.fhd.478515/videos/1463870271702159",
+      "waiting_seconds": 0.745
+    }
+  ],
+  "author": "محمد فهد",
+  "captions": [],
+  "content_hash": "07306e2774b5711459e3bad000aad43d1ff595868f0179e65f60ee6f0e422dd1",
+  "content_variants": [
+    {
+      "bytes": 487,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:18:51+00:00",
+      "sha256": "07306e2774b5711459e3bad000aad43d1ff595868f0179e65f60ee6f0e422dd1",
+      "source_url": "https://www.facebook.com/mhmd.fhd.478515/videos/1463870271702159",
+      "text": "\"تأكيد بعدم إصابة طفل جراء سقوط مسيّرات وصواريخ في بلدة الرفيد بريف القنيطرة الجنوبي\"\n\nأكدت مصادر محلية عدم وقوع أي إصابة في صفوف المدنيين، بما في ذلك الأطفال، نتيجة سقوط مسيّرات وصواريخ في بلدة الرفيد بريف القنيطرة الجنوبي، والتي يُعتقد أن الجيش الإسرائيلي | محمد فهد"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/mhmd.fhd.478515/videos/1463870271702159",
+  "incident_ids": [
+    "airwars-201199"
+  ],
+  "incident_sequences": [
+    61
+  ],
+  "normalized_url": "https://www.facebook.com/mhmd.fhd.478515/videos/1463870271702159",
+  "observed_original_urls": [
+    "https://www.facebook.com/mhmd.fhd.478515/videos/1463870271702159"
+  ],
+  "original_url": "https://www.facebook.com/mhmd.fhd.478515/videos/1463870271702159",
+  "page_title": "\"تأكيد بعدم إصابة طفل جراء سقوط مسيّرات وصواريخ في بلدة الرفيد بريف القنيطرة الجنوبي\"\n\nأكدت مصادر محلية عدم وقوع أي إصابة في صفوف المدنيين، بما في ذلك الأطفال، نتيجة سقوط مسيّرات وصواريخ في بلدة الرفيد بريف القنيطرة الجنوبي، والتي يُعتقد أن الجيش الإسرائيلي | محمد فهد",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr250613a-june-13-2025/",
+      "airwars_source_id": "181925",
+      "incident_id": "airwars-201199",
+      "incident_sequence": 61,
+      "observed_original_url": "https://www.facebook.com/mhmd.fhd.478515/videos/1463870271702159",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "13 يونيو 2025",
+  "publisher": "Mohammed Fahd",
+  "publisher_ar": "محمد فهد",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:18:51+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-02da33dcb08017ebd00d98a4",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/mhmd.fhd.478515/videos/1463870271702159",
+  "text_ar": "",
+  "text_original": "\"تأكيد بعدم إصابة طفل جراء سقوط مسيّرات وصواريخ في بلدة الرفيد بريف القنيطرة الجنوبي\"\n\nأكدت مصادر محلية عدم وقوع أي إصابة في صفوف المدنيين، بما في ذلك الأطفال، نتيجة سقوط مسيّرات وصواريخ في بلدة الرفيد بريف القنيطرة الجنوبي، والتي يُعتقد أن الجيش الإسرائيلي | محمد فهد",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00275
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

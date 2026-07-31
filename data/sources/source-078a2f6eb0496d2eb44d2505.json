@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "426973"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-urdoni-2027746656146317699-2026-02-28-140411/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.244,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:19:42+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 80883,
+      "content_hash": "a8ec6f7c791c31a46cbcce533412f6773c3a535e780c14ab5b1459bcbb7790a3",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.244,
+      "error": null,
+      "final_url": "https://x.com/Urdoni/status/2027746656146317699",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:19:42+00:00",
+      "status": 200,
+      "url": "https://x.com/Urdoni/status/2027746656146317699",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/Urdoni",
+  "captions": [],
+  "content_hash": "3e728622c3180ae59af2459b632b59eb6e4f5a05bbff75929fdf3214185d8cc9",
+  "content_variants": [
+    {
+      "bytes": 374,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:19:42+00:00",
+      "sha256": "3e728622c3180ae59af2459b632b59eb6e4f5a05bbff75929fdf3214185d8cc9",
+      "source_url": "https://x.com/Urdoni/status/2027746656146317699",
+      "text": "Post\n\nPost\n\nUrdoni أردني@Urdoniمقتل 4 أشخاص في السويداء إثر سقوط صاروخ إيراني urdoninews.com/%d9%85%d9%82%d… via @Urdoniurdoninews.comمقتل 4 أشخاص في السويداء إثر سقوط صاروخ إيرانيمقتل 4 أشخاص في السويداء إثر سقوط صاروخ إيراني2:04 PM · Feb 28, 202650Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Urdoni/status/2027746656146317699",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://x.com/Urdoni/status/2027746656146317699",
+  "observed_original_urls": [
+    "https://x.com/Urdoni/status/2027746656146317699"
+  ],
+  "original_url": "https://x.com/Urdoni/status/2027746656146317699",
+  "page_title": "Urdoni أردني on X: \"مقتل 4 أشخاص في السويداء إثر سقوط صاروخ إيراني https://t.co/jCDPxShBP8 via @Urdoni\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "426973",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://x.com/Urdoni/status/2027746656146317699",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2026-02-28T14:04:11.000Z",
+  "publisher": "Urdon",
+  "publisher_ar": "Urdon",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:19:42+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-078a2f6eb0496d2eb44d2505",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Urdoni/status/2027746656146317699",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nUrdoni أردني@Urdoniمقتل 4 أشخاص في السويداء إثر سقوط صاروخ إيراني urdoninews.com/%d9%85%d9%82%d… via @Urdoniurdoninews.comمقتل 4 أشخاص في السويداء إثر سقوط صاروخ إيرانيمقتل 4 أشخاص في السويداء إثر سقوط صاروخ إيراني2:04 PM · Feb 28, 202650Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001472
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

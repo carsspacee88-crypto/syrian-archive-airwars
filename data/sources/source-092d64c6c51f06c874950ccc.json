@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "286660"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-963mediaar-1974071715064840316-2025-10-03-111908/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.279,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:20:01+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 80733,
+      "content_hash": "1d511ce12d64b0f2f7ff6f618d7c516a198b3a773eac67233722d6e530edec0b",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.279,
+      "error": null,
+      "final_url": "https://x.com/963mediaAr/status/1974071715064840316",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:20:01+00:00",
+      "status": 200,
+      "url": "https://x.com/963mediaAr/status/1974071715064840316",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "https://x.com/963mediaAr",
+  "captions": [],
+  "content_hash": "847a916ed57477077327fd7a8ba347616ea3e9208be49f5cd85f0deee2bcb4cf",
+  "content_variants": [
+    {
+      "bytes": 359,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:20:01+00:00",
+      "sha256": "847a916ed57477077327fd7a8ba347616ea3e9208be49f5cd85f0deee2bcb4cf",
+      "source_url": "https://x.com/963mediaAr/status/1974071715064840316",
+      "text": "Post\n\nPost\n\n+963@963mediaAr🔴مصدر أمني لـ\"963+\": الشخص المسـ.ـتهدف من قبل التحالف الدولي أمس الخميس على طريق حارم - باريشا بريف #إدلب هو القائد العسكري لجماعة \"أنصـ.ـ.ـار الإسـ.ـلام\"، أجنبي الجنسية.11:19 AM · Oct 3, 202580Views1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/963mediaAr/status/1974071715064840316",
+  "incident_ids": [
+    "airwars-386626"
+  ],
+  "incident_sequences": [
+    37
+  ],
+  "normalized_url": "https://x.com/963mediaAr/status/1974071715064840316",
+  "observed_original_urls": [
+    "https://x.com/963mediaAr/status/1974071715064840316"
+  ],
+  "original_url": "https://x.com/963mediaAr/status/1974071715064840316",
+  "page_title": "+963 on X: \"🔴مصدر أمني لـ\"963+\": الشخص المسـ.ـتهدف من قبل التحالف الدولي أمس الخميس على طريق حارم - باريشا بريف #إدلب هو القائد العسكري لجماعة \"أنصـ.ـ.ـار الإسـ.ـلام\"، أجنبي الجنسية. https://t.co/gES3kHn7fk\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0158-october-2-2025/",
+      "airwars_source_id": "286660",
+      "incident_id": "airwars-386626",
+      "incident_sequence": 37,
+      "observed_original_url": "https://x.com/963mediaAr/status/1974071715064840316",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-10-03T11:19:08.000Z",
+  "publisher": "963mediaAr",
+  "publisher_ar": "963mediaAr",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:20:01+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-092d64c6c51f06c874950ccc",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/963mediaAr/status/1974071715064840316",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\n+963@963mediaAr🔴مصدر أمني لـ\"963+\": الشخص المسـ.ـتهدف من قبل التحالف الدولي أمس الخميس على طريق حارم - باريشا بريف #إدلب هو القائد العسكري لجماعة \"أنصـ.ـ.ـار الإسـ.ـلام\"، أجنبي الجنسية.11:19 AM · Oct 3, 202580Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001824
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

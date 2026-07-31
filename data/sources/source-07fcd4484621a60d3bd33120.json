@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "327730"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-abomosaabsharke-1988954227218215095-2025-11-13-125655/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.234,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:19:46+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 80643,
+      "content_hash": "2f7c5bf1e870c477805fd6ec8451bba2c53390291be1fc5779530cea2c53ab2c",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.234,
+      "error": null,
+      "final_url": "https://x.com/AbomosaabSharke/status/1988954227218215095",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:19:46+00:00",
+      "status": 200,
+      "url": "https://x.com/AbomosaabSharke/status/1988954227218215095",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "https://x.com/AbomosaabSharke",
+  "captions": [],
+  "content_hash": "ecf7ef756b29806158440f7bedbf50ab707f54e7ae01e11ace551aacc47c26e3",
+  "content_variants": [
+    {
+      "bytes": 480,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:19:46+00:00",
+      "sha256": "ecf7ef756b29806158440f7bedbf50ab707f54e7ae01e11ace551aacc47c26e3",
+      "source_url": "https://x.com/AbomosaabSharke/status/1988954227218215095",
+      "text": "Post\n\nPost\n\nمراسل الشرقية الرسمي@AbomosaabSharke#الحسكة\nاعتقلت ميليشيا قسد ثلاثة أشخاص خلال مداهمة نفّذتها بدعم من طيران التحالف الدولي في قرية #شمساني التابعة لمدينة #الشدادي جنوب الحسكة وهم:\n•خالد الصايل\n•محمد الصايل\n•أحمد الصايل\n#مراسل_الشرقية_الرسمي ✅12:56 PM · Nov 13, 2025183Views1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AbomosaabSharke/status/1988954227218215095",
+  "incident_ids": [
+    "airwars-386632"
+  ],
+  "incident_sequences": [
+    29
+  ],
+  "normalized_url": "https://x.com/AbomosaabSharke/status/1988954227218215095",
+  "observed_original_urls": [
+    "https://x.com/AbomosaabSharke/status/1988954227218215095"
+  ],
+  "original_url": "https://x.com/AbomosaabSharke/status/1988954227218215095",
+  "page_title": "مراسل الشرقية الرسمي on X: \"#الحسكة\nاعتقلت ميليشيا قسد ثلاثة أشخاص خلال مداهمة نفّذتها بدعم من طيران التحالف الدولي في قرية #شمساني التابعة لمدينة #الشدادي جنوب الحسكة وهم:\n•خالد الصايل\n•محمد الصايل\n•أحمد الصايل\n#مراسل_الشرقية_الرسمي ✅\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0164-november-13-2025/",
+      "airwars_source_id": "327730",
+      "incident_id": "airwars-386632",
+      "incident_sequence": 29,
+      "observed_original_url": "https://x.com/AbomosaabSharke/status/1988954227218215095",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-11-13T12:56:55.000Z",
+  "publisher": "AbomosaabSharke",
+  "publisher_ar": "AbomosaabSharke",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:19:46+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-07fcd4484621a60d3bd33120",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AbomosaabSharke/status/1988954227218215095",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nمراسل الشرقية الرسمي@AbomosaabSharke#الحسكة\nاعتقلت ميليشيا قسد ثلاثة أشخاص خلال مداهمة نفّذتها بدعم من طيران التحالف الدولي في قرية #شمساني التابعة لمدينة #الشدادي جنوب الحسكة وهم:\n•خالد الصايل\n•محمد الصايل\n•أحمد الصايل\n#مراسل_الشرقية_الرسمي ✅12:56 PM · Nov 13, 2025183Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001528
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

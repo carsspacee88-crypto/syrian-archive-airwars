@@ -1,0 +1,121 @@
+{
+  "airwars_source_ids": [
+    "445417"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a7%d9%84%d9%88%d9%83%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d8%a9-%d9%84%d9%84%d8%a3%d9%86%d8%a8%d8%a7%d8%a1-%d8%b3-4/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 20-24: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:21:00+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 20-24: ordinal not in range(128)",
+      "final_url": "https://www.facebook.com/sana.gov/posts/مراسل-سانا-سقوط-بقايا-صاروخ-في-بلدة-عين-ترما-بريف-دمشق-نتيجة-الضربات-المتبادلة-ب/921385117291583/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:21:00+00:00",
+      "status": null,
+      "url": "https://www.facebook.com/sana.gov/posts/مراسل-سانا-سقوط-بقايا-صاروخ-في-بلدة-عين-ترما-بريف-دمشق-نتيجة-الضربات-المتبادلة-ب/921385117291583/",
+      "waiting_seconds": 0.744
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/www-facebook-com-%d8%a7%d9%84%d9%88%d9%83%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d8%a9-%d9%84%d9%84%d8%a3%d9%86%d8%a8%d8%a7%d8%a1-%d8%b3-4/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:21:00+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/www-facebook-com-%d8%a7%d9%84%d9%88%d9%83%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d8%a9-%d9%84%d9%84%d8%a3%d9%86%d8%a8%d8%a7%d8%a1-%d8%b3-4/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_role": "wayback_lookup",
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "ok": false,
+      "retrieved_at": "2026-07-31T18:21:00+00:00"
+    }
+  ],
+  "author": "الوكالة العربية السورية للأنباء - سانا",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 20-24: ordinal not in range(128)",
+  "final_redirected_url": "https://www.facebook.com/sana.gov/posts/مراسل-سانا-سقوط-بقايا-صاروخ-في-بلدة-عين-ترما-بريف-دمشق-نتيجة-الضربات-المتبادلة-ب/921385117291583/",
+  "incident_ids": [
+    "airwars-454484"
+  ],
+  "incident_sequences": [
+    2
+  ],
+  "normalized_url": "https://www.facebook.com/sana.gov/posts/مراسل-سانا-سقوط-بقايا-صاروخ-في-بلدة-عين-ترما-بريف-دمشق-نتيجة-الضربات-المتبادلة-ب/921385117291583/",
+  "observed_original_urls": [
+    "https://www.facebook.com/sana.gov/posts/مراسل-سانا-سقوط-بقايا-صاروخ-في-بلدة-عين-ترما-بريف-دمشق-نتيجة-الضربات-المتبادلة-ب/921385117291583/"
+  ],
+  "original_url": "https://www.facebook.com/sana.gov/posts/مراسل-سانا-سقوط-بقايا-صاروخ-في-بلدة-عين-ترما-بريف-دمشق-نتيجة-الضربات-المتبادلة-ب/921385117291583/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260301a-march-1-2026/",
+      "airwars_source_id": "445417",
+      "incident_id": "airwars-454484",
+      "incident_sequence": 2,
+      "observed_original_url": "https://www.facebook.com/sana.gov/posts/مراسل-سانا-سقوط-بقايا-صاروخ-في-بلدة-عين-ترما-بريف-دمشق-نتيجة-الضربات-المتبادلة-ب/921385117291583/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "1 مارس 2026",
+  "publisher": "Syrian Arab News Agency - SANA",
+  "publisher_ar": "الوكالة العربية السورية للأنباء - سانا",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:21:00+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-0b5e26f02f7a8cf5aea01cbb",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/sana.gov/posts/مراسل-سانا-سقوط-بقايا-صاروخ-في-بلدة-عين-ترما-بريف-دمشق-نتيجة-الضربات-المتبادلة-ب/921385117291583/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

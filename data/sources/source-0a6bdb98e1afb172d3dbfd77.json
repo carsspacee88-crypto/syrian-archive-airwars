@@ -1,0 +1,142 @@
+{
+  "airwars_source_ids": [
+    "308412"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/xeber24-org-resho-resho-2025-03-10-182405/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:20:37+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)",
+      "final_url": "https://xeber24.org/في-جريمة-جديدة-الدولة-التركية-تقتل-طفل/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:20:37+00:00",
+      "status": null,
+      "url": "https://xeber24.org/في-جريمة-جديدة-الدولة-التركية-تقتل-طفل/",
+      "waiting_seconds": 0.744
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/xeber24-org-resho-resho-2025-03-10-182405/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:20:37+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/xeber24-org-resho-resho-2025-03-10-182405/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.086,
+          "error": "URLError: <urlopen error timed out>",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:20:48+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.086,
+      "error": "URLError: <urlopen error timed out>",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fxeber24.org%2F%D9%81%D9%8A-%D8%AC%D8%B1%D9%8A%D9%85%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D9%82%D8%AA%D9%84-%D8%B7%D9%81%D9%84%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:20:48+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fxeber24.org%2F%D9%81%D9%8A-%D8%AC%D8%B1%D9%8A%D9%85%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D9%82%D8%AA%D9%84-%D8%B7%D9%81%D9%84%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "Resho Resho",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)",
+  "final_redirected_url": "https://xeber24.org/في-جريمة-جديدة-الدولة-التركية-تقتل-طفل/",
+  "incident_ids": [
+    "airwars-290205"
+  ],
+  "incident_sequences": [
+    91
+  ],
+  "normalized_url": "https://xeber24.org/في-جريمة-جديدة-الدولة-التركية-تقتل-طفل/",
+  "observed_original_urls": [
+    "https://xeber24.org/في-جريمة-جديدة-الدولة-التركية-تقتل-طفل/"
+  ],
+  "original_url": "https://xeber24.org/في-جريمة-جديدة-الدولة-التركية-تقتل-طفل/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts795-march-10-2025/",
+      "airwars_source_id": "308412",
+      "incident_id": "airwars-290205",
+      "incident_sequence": 91,
+      "observed_original_url": "https://xeber24.org/في-جريمة-جديدة-الدولة-التركية-تقتل-طفل/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "10 مارس 2025",
+  "publisher": "Resho Resho",
+  "publisher_ar": "Resho Resho",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:20:37+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-0a6bdb98e1afb172d3dbfd77",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://xeber24.org/في-جريمة-جديدة-الدولة-التركية-تقتل-طفل/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

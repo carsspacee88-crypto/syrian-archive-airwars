@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "301861"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-asdaslm9-1932889287101444513-2025-06-11-195452-2/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.231,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:20:53+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 78651,
+      "content_hash": "297ad54ee8dfa0ea4ad66187f030558b65a7ced8d5175e1a0f637d6d18ef4115",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.231,
+      "error": null,
+      "final_url": "https://x.com/asdaslm9/status/1932889287101444513",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:20:53+00:00",
+      "status": 200,
+      "url": "https://x.com/asdaslm9/status/1932889287101444513",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "https://x.com/asdaslm9",
+  "captions": [],
+  "content_hash": "65c960107f701561c132fcea2f4d8cc6354dc3678f2989299ea1f8b2bdc29e52",
+  "content_variants": [
+    {
+      "bytes": 587,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:20:53+00:00",
+      "sha256": "65c960107f701561c132fcea2f4d8cc6354dc3678f2989299ea1f8b2bdc29e52",
+      "source_url": "https://x.com/asdaslm9/status/1932889287101444513",
+      "text": "Post\n\nPost\n\nخالد حاتم الشمري@asdaslm9شهدت بادية دير الزور الغربية، فجر اليوم، عملية إنزال جوي نوعية وغير مسبوقة نفذها التحالف الدولي، استمرت لنحو أربع ساعات متواصلة قرب جبل البشري. .\n\nقامت طائرات مروحية بإنزال قوات خاصة على الأرض، حيث باشرت هذه القوات بعمليات حفر في أحد المواقع.\nولم تمضِ فترة طويلة فجر مسجد الشجيري7:54 PM · Jun 11, 202540Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/asdaslm9/status/1932889287101444513",
+  "incident_ids": [
+    "airwars-381558"
+  ],
+  "incident_sequences": [
+    64
+  ],
+  "normalized_url": "https://x.com/asdaslm9/status/1932889287101444513",
+  "observed_original_urls": [
+    "https://x.com/asdaslm9/status/1932889287101444513"
+  ],
+  "original_url": "https://x.com/asdaslm9/status/1932889287101444513",
+  "page_title": "خالد حاتم الشمري on X: \"شهدت بادية دير الزور الغربية، فجر اليوم، عملية إنزال جوي نوعية وغير مسبوقة نفذها التحالف الدولي، استمرت لنحو أربع ساعات متواصلة قرب جبل البشري. .\n\nقامت طائرات مروحية بإنزال قوات خاصة على الأرض، حيث باشرت هذه القوات بعمليات حفر في أحد المواقع.\nولم تمضِ فترة طويلة فجر مسجد الشجيري\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0144-june-11-2025/",
+      "airwars_source_id": "301861",
+      "incident_id": "airwars-381558",
+      "incident_sequence": 64,
+      "observed_original_url": "https://x.com/asdaslm9/status/1932889287101444513",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-06-11T19:54:52.000Z",
+  "publisher": "asdaslm9",
+  "publisher_ar": "asdaslm9",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:20:53+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-0ab4545b74dad409d6a2dd8d",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/asdaslm9/status/1932889287101444513",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nخالد حاتم الشمري@asdaslm9شهدت بادية دير الزور الغربية، فجر اليوم، عملية إنزال جوي نوعية وغير مسبوقة نفذها التحالف الدولي، استمرت لنحو أربع ساعات متواصلة قرب جبل البشري. .\n\nقامت طائرات مروحية بإنزال قوات خاصة على الأرض، حيث باشرت هذه القوات بعمليات حفر في أحد المواقع.\nولم تمضِ فترة طويلة فجر مسجد الشجيري7:54 PM · Jun 11, 202540Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001548
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

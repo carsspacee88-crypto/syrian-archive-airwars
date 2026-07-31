@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "209072"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-alhourya_news-1900175986328576290-2025-03-13-132353-2/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.281,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:19:01+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 90362,
+      "content_hash": "9fc800def0ccc5f9446ad94a47291d3ddbdf453a9c349c9064bdf947220372e9",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.281,
+      "error": null,
+      "final_url": "https://x.com/alhourya_news/status/1900175986328576290",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:19:01+00:00",
+      "status": 200,
+      "url": "https://x.com/alhourya_news/status/1900175986328576290",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "https://x.com/alhourya_news",
+  "captions": [],
+  "content_hash": "c29d4d1cd7dad0077382e9225ed3d84c7e35c783587c3330a742a61b9808abae",
+  "content_variants": [
+    {
+      "bytes": 541,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:19:01+00:00",
+      "sha256": "c29d4d1cd7dad0077382e9225ed3d84c7e35c783587c3330a742a61b9808abae",
+      "source_url": "https://x.com/alhourya_news/status/1900175986328576290",
+      "text": "Post\n\nPost\n\nصحيفة الحرية@alhourya_news\"الخوذ البيضاء\": ضرب انفـ ـجار منطقة مشروع دمّر في مدينة دمشق اليوم الخميس 13 آذار، وعلى الفور توجهت فرقنا حسب المشاهدة العينية والبلاغات التي تلقتها إلى مكان الانفـ ـجار ليتبين أنه ناجم عن قصف صاروخي استهدف أبنية سكنية في حي التراسات في منطقة مشروع دمّر،1:23 PM · Mar 13, 202558Views1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/alhourya_news/status/1900175986328576290",
+  "incident_ids": [
+    "airwars-276022"
+  ],
+  "incident_sequences": [
+    87
+  ],
+  "normalized_url": "https://x.com/alhourya_news/status/1900175986328576290",
+  "observed_original_urls": [
+    "https://x.com/alhourya_news/status/1900175986328576290"
+  ],
+  "original_url": "https://x.com/alhourya_news/status/1900175986328576290",
+  "page_title": "صحيفة الحرية on X: \"\"الخوذ البيضاء\": ضرب انفـ ـجار منطقة مشروع دمّر في مدينة دمشق اليوم الخميس 13 آذار، وعلى الفور توجهت فرقنا حسب المشاهدة العينية والبلاغات التي تلقتها إلى مكان الانفـ ـجار ليتبين أنه ناجم عن قصف صاروخي استهدف أبنية سكنية في حي التراسات في منطقة مشروع دمّر، https://t.co/UrIkIXDGm4\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy073-march-13-2025/",
+      "airwars_source_id": "209072",
+      "incident_id": "airwars-276022",
+      "incident_sequence": 87,
+      "observed_original_url": "https://x.com/alhourya_news/status/1900175986328576290",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-03-13T13:23:53.000Z",
+  "publisher": "alhourya_news",
+  "publisher_ar": "alhourya_news",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:19:01+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-04109ccb698eb38c51756910",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/alhourya_news/status/1900175986328576290",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nصحيفة الحرية@alhourya_news\"الخوذ البيضاء\": ضرب انفـ ـجار منطقة مشروع دمّر في مدينة دمشق اليوم الخميس 13 آذار، وعلى الفور توجهت فرقنا حسب المشاهدة العينية والبلاغات التي تلقتها إلى مكان الانفـ ـجار ليتبين أنه ناجم عن قصف صاروخي استهدف أبنية سكنية في حي التراسات في منطقة مشروع دمّر،1:23 PM · Mar 13, 202558Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001686
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

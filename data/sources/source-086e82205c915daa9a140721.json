@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "426991"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-ivarmm-2027724159665528859-2026-02-28-123447/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.317,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:19:48+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 135406,
+      "content_hash": "7543c5049be3bb4bb47785dc4e7b6930bbeb5e419afabd25edc7c63196459e44",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.317,
+      "error": null,
+      "final_url": "https://x.com/ivarmm/status/2027724159665528859",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:19:48+00:00",
+      "status": 200,
+      "url": "https://x.com/ivarmm/status/2027724159665528859",
+      "waiting_seconds": 0.745
+    }
+  ],
+  "author": "https://x.com/ivarmm",
+  "captions": [],
+  "content_hash": "f54f0b04f46d588f0d7877b5222a8220a0b1c3ba2a1825b7acd914cab27c14ac",
+  "content_variants": [
+    {
+      "bytes": 417,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:19:48+00:00",
+      "sha256": "f54f0b04f46d588f0d7877b5222a8220a0b1c3ba2a1825b7acd914cab27c14ac",
+      "source_url": "https://x.com/ivarmm/status/2027724159665528859",
+      "text": "Post\n\nPost\n\nمُضَر | Modar@ivarmmمديرية إعلام السويداء : 5 قتلى وعدد من الجرحى جراء انفجار صاروخ في المنطقة الصناعية داخل مدينة السويداء.\n\nمحاولات تصنيع أو نقل فاشلة؟12:34 PM · Feb 28, 202639.3KViews181954310\n\nابو عثمان@lkjhaoFeb 28😂😂😂😂😂731\n\nفُرَات@alhmy87337Feb 28جحاش270"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/ivarmm/status/2027724159665528859",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://x.com/ivarmm/status/2027724159665528859",
+  "observed_original_urls": [
+    "https://x.com/ivarmm/status/2027724159665528859"
+  ],
+  "original_url": "https://x.com/ivarmm/status/2027724159665528859",
+  "page_title": "مُضَر | Modar on X: \"مديرية إعلام السويداء : 5 قتلى وعدد من الجرحى جراء انفجار صاروخ في المنطقة الصناعية داخل مدينة السويداء.\n\nمحاولات تصنيع أو نقل فاشلة؟ https://t.co/9DCch3d8B8\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "426991",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://x.com/ivarmm/status/2027724159665528859",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2026-02-28T12:34:47.000Z",
+  "publisher": "ivarmm",
+  "publisher_ar": "ivarmm",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:19:48+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-086e82205c915daa9a140721",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/ivarmm/status/2027724159665528859",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nمُضَر | Modar@ivarmmمديرية إعلام السويداء : 5 قتلى وعدد من الجرحى جراء انفجار صاروخ في المنطقة الصناعية داخل مدينة السويداء.\n\nمحاولات تصنيع أو نقل فاشلة؟12:34 PM · Feb 28, 202639.3KViews181954310\n\nابو عثمان@lkjhaoFeb 28😂😂😂😂😂731\n\nفُرَات@alhmy87337Feb 28جحاش270",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002779
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
