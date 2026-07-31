@@ -1,0 +1,113 @@
+{
+  "airwars_source_ids": [
+    "308546",
+    "308346"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%ac%d8%a8%d9%84-%d8%a7%d9%84%d8%b4%d9%8a%d8%ae-pfbid033yddabjc8qfqo5pjbcto21h6kmufo81c2esnqfcneu12zhkp5y8eqr5gkmnrcggwl-2025-02-27-170000-2/",
+    "https://airwars.org/source/www-facebook-com-%d8%ac%d8%a8%d9%84-%d8%a7%d9%84%d8%b4%d9%8a%d8%ae-pfbid033yddabjc8qfqo5pjbcto21h6kmufo81c2esnqfcneu12zhkp5y8eqr5gkmnrcggwl-2025-02-27-170000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.454,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:26:32+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 634621,
+      "content_hash": "407eef7115d4e4e8a536ce6413cbed4d33fa1cc799481bec8b43ae941f94e269",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.454,
+      "error": null,
+      "final_url": "https://www.facebook.com/rabitat.jabal.alshekh/posts/pfbid033yddaBJc8qfQo5pjbCTo21h6KMufo81c2ESNqfCneu12ZHKp5Y8EQR5GKMnrcggwl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:26:32+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/rabitat.jabal.alshekh/posts/pfbid033yddaBJc8qfQo5pjbCTo21h6KMufo81c2ESNqfCneu12ZHKp5Y8EQR5GKMnrcggwl",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "جبل الشيخ",
+  "captions": [],
+  "content_hash": "8527d19284f53a76122845093a7fc15c28fce9fed8debb2d1836f66078a9de12",
+  "content_variants": [
+    {
+      "bytes": 1151,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:26:32+00:00",
+      "sha256": "8527d19284f53a76122845093a7fc15c28fce9fed8debb2d1836f66078a9de12",
+      "source_url": "https://www.facebook.com/rabitat.jabal.alshekh/posts/pfbid033yddaBJc8qfQo5pjbCTo21h6KMufo81c2ESNqfCneu12ZHKp5Y8EQR5GKMnrcggwl",
+      "text": "جبل الشيخ - نفذت طائرات مسيرة تركية حوالي 18 غارة استهدفت...\nFacebook‎جبل الشيخ‎'s Post\n\nجبل الشيخFebruary 26, 2025 · Shared with Publicنفذت طائرات مسيرة تركية حوالي 18 غارة استهدفت مقرات وحواجز لقوات سوريا الديمقراطية في منطقة الرويشد ومحيطها شمالي دير الزور، بما في ذلك الأكاديمية العسكرية وفوج الخرافي ومقر الاستخبارات، مما أدى إلى وقوع قتلى وجرحى في صفوف \"قسد\".من جانبها، أعلنت \"قسد\" مقتل 12 عسكريا ومدنيا في غارات جوية نفذتها طائرات الجيش التركي على مناطق في بادية الرويشد، وأشار المركز الإعلامي لدى \"قسد\" إلى أن الغارات استهدفت نقطة عسكرية ومنازل مدنيين، مما أدى إلى مقتل 4 مقاتلين و6 عمال مدنيين و2 من رعاة الغنم.بلشت الدبكة #سوريا#جبل_الشيخ.All reactions:11LikeComment"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/rabitat.jabal.alshekh/posts/pfbid033yddaBJc8qfQo5pjbCTo21h6KMufo81c2ESNqfCneu12ZHKp5Y8EQR5GKMnrcggwl",
+  "incident_ids": [
+    "airwars-308525",
+    "airwars-290203"
+  ],
+  "incident_sequences": [
+    94,
+    95
+  ],
+  "normalized_url": "https://www.facebook.com/rabitat.jabal.alshekh/posts/pfbid033yddaBJc8qfQo5pjbCTo21h6KMufo81c2ESNqfCneu12ZHKp5Y8EQR5GKMnrcggwl",
+  "observed_original_urls": [
+    "https://www.facebook.com/rabitat.jabal.alshekh/posts/pfbid033yddaBJc8qfQo5pjbCTo21h6KMufo81c2ESNqfCneu12ZHKp5Y8EQR5GKMnrcggwl"
+  ],
+  "original_url": "https://www.facebook.com/rabitat.jabal.alshekh/posts/pfbid033yddaBJc8qfQo5pjbCTo21h6KMufo81c2ESNqfCneu12ZHKp5Y8EQR5GKMnrcggwl",
+  "page_title": "جبل الشيخ - نفذت طائرات مسيرة تركية حوالي 18 غارة استهدفت... Facebook Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts793-february-26-2025/",
+      "airwars_source_id": "308546",
+      "incident_id": "airwars-308525",
+      "incident_sequence": 94,
+      "observed_original_url": "https://www.facebook.com/rabitat.jabal.alshekh/posts/pfbid033yddaBJc8qfQo5pjbCTo21h6KMufo81c2ESNqfCneu12ZHKp5Y8EQR5GKMnrcggwl",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts792-february-26-2025/",
+      "airwars_source_id": "308346",
+      "incident_id": "airwars-290203",
+      "incident_sequence": 95,
+      "observed_original_url": "https://www.facebook.com/rabitat.jabal.alshekh/posts/pfbid033yddaBJc8qfQo5pjbCTo21h6KMufo81c2ESNqfCneu12ZHKp5Y8EQR5GKMnrcggwl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "27 فبراير 2025",
+  "publisher": "Mount Hermon",
+  "publisher_ar": "جبل الشيخ",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:26:32+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-26b1a2a883543e2400469e7b",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/rabitat.jabal.alshekh/posts/pfbid033yddaBJc8qfQo5pjbCTo21h6KMufo81c2ESNqfCneu12ZHKp5Y8EQR5GKMnrcggwl",
+  "text_ar": "",
+  "text_original": "جبل الشيخ - نفذت طائرات مسيرة تركية حوالي 18 غارة استهدفت...\nFacebook‎جبل الشيخ‎'s Post\n\nجبل الشيخFebruary 26, 2025 · Shared with Publicنفذت طائرات مسيرة تركية حوالي 18 غارة استهدفت مقرات وحواجز لقوات سوريا الديمقراطية في منطقة الرويشد ومحيطها شمالي دير الزور، بما في ذلك الأكاديمية العسكرية وفوج الخرافي ومقر الاستخبارات، مما أدى إلى وقوع قتلى وجرحى في صفوف \"قسد\".من جانبها، أعلنت \"قسد\" مقتل 12 عسكريا ومدنيا في غارات جوية نفذتها طائرات الجيش التركي على مناطق في بادية الرويشد، وأشار المركز الإعلامي لدى \"قسد\" إلى أن الغارات استهدفت نقطة عسكرية ومنازل مدنيين، مما أدى إلى مقتل 4 مقاتلين و6 عمال مدنيين و2 من رعاة الغنم.بلشت الدبكة #سوريا#جبل_الشيخ.All reactions:11LikeComment",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003029
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

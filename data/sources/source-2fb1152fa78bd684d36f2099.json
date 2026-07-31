@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "405113"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-khaberni-2028061386807353648-2026-03-01-105448/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.203,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:27:35+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 43123,
+      "content_hash": "bdb730772a9aa01260ee8ac0337db7da5bfe96ce51ac29933a09a71d1c419d20",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.203,
+      "error": null,
+      "final_url": "https://x.com/khaberni/status/2028061386807353648",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:27:35+00:00",
+      "status": 200,
+      "url": "https://x.com/khaberni/status/2028061386807353648",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "khaberni",
+  "captions": [],
+  "content_hash": "a0e56de87a0d6d99f208353637c7090f6f0f8612238a9552aebbde35e2336b3a",
+  "content_variants": [
+    {
+      "bytes": 171,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:27:35+00:00",
+      "sha256": "a0e56de87a0d6d99f208353637c7090f6f0f8612238a9552aebbde35e2336b3a",
+      "source_url": "https://x.com/khaberni/status/2028061386807353648",
+      "text": "Post\n\nPost\n\nAge-restricted adult content. This content might not be appropriate for people under 18 years old. To view this media, you’ll need to log in to X. Learn more"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/khaberni/status/2028061386807353648",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://x.com/khaberni/status/2028061386807353648",
+  "observed_original_urls": [
+    "https://x.com/khaberni/status/2028061386807353648"
+  ],
+  "original_url": "https://x.com/khaberni/status/2028061386807353648",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "405113",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://x.com/khaberni/status/2028061386807353648",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "1 مارس 2026",
+  "publisher": "khaberni",
+  "publisher_ar": "khaberni",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:27:35+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-2fb1152fa78bd684d36f2099",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/khaberni/status/2028061386807353648",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nAge-restricted adult content. This content might not be appropriate for people under 18 years old. To view this media, you’ll need to log in to X. Learn more",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001023
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

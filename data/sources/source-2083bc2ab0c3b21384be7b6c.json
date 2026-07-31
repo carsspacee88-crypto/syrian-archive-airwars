@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "367549"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d9%81%d8%b1%d8%a7%d8%aa-%d8%a8%d9%88%d8%b3%d8%aa-2644238559105002-2025-07-19-183030/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.636,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:25:17+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 909650,
+      "content_hash": "16d8824137df0b269906109c873851b3d6c387c743f52ebb68559195a7e09967",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.636,
+      "error": null,
+      "final_url": "https://www.facebook.com/reel/2644238559105002",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:25:17+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/reel/2644238559105002",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "فرات بوست",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:25:17+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/reel/2644238559105002",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/reel/2644238559105002",
+  "incident_ids": [
+    "airwars-287558"
+  ],
+  "incident_sequences": [
+    49
+  ],
+  "normalized_url": "https://www.facebook.com/reel/2644238559105002",
+  "observed_original_urls": [
+    "https://www.facebook.com/reel/2644238559105002"
+  ],
+  "original_url": "https://www.facebook.com/reel/2644238559105002",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2011-july-19-2025/",
+      "airwars_source_id": "367549",
+      "incident_id": "airwars-287558",
+      "incident_sequence": 49,
+      "observed_original_url": "https://www.facebook.com/reel/2644238559105002",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "19 يوليو 2025",
+  "publisher": "Euphrates Post",
+  "publisher_ar": "فرات بوست",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:25:17+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-2083bc2ab0c3b21384be7b6c",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/reel/2644238559105002",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "en",
+  "timing": {
+    "text_extraction_seconds": 0.002732
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

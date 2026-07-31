@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "275216"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-ahadtv-1969284461960274107-2025-09-20-061617/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.244,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:25:28+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 79395,
+      "content_hash": "a51caa688aa91a79f64891f1bce999671be2e903c019e8c57b558386af3eb0d7",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.244,
+      "error": null,
+      "final_url": "https://x.com/ahadtv/status/1969284461960274107",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:25:28+00:00",
+      "status": 200,
+      "url": "https://x.com/ahadtv/status/1969284461960274107",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "https://x.com/ahadtv",
+  "captions": [],
+  "content_hash": "723f5558cbe02d72190dd7edca386bede5c8a608c48776acaa394aea9a7612ef",
+  "content_variants": [
+    {
+      "bytes": 348,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:25:28+00:00",
+      "sha256": "723f5558cbe02d72190dd7edca386bede5c8a608c48776acaa394aea9a7612ef",
+      "source_url": "https://x.com/ahadtv/status/1969284461960274107",
+      "text": "Post\n\nPost\n\nقناة العهد@ahadtvبالصور .. القيادي في ميليـ.,ـشيات الشرع الذي قضى عليه جهاز مكافحة الارهـ.,ـاب في قرية جرجيسة جنوب حماه، والذي شارك في مجـ.,ـازر الساحل السوري ضد العلويين6:16 AM · Sep 20, 20251.1KViews2116"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/ahadtv/status/1969284461960274107",
+  "incident_ids": [
+    "airwars-386623"
+  ],
+  "incident_sequences": [
+    41
+  ],
+  "normalized_url": "https://x.com/ahadtv/status/1969284461960274107",
+  "observed_original_urls": [
+    "https://x.com/ahadtv/status/1969284461960274107"
+  ],
+  "original_url": "https://x.com/ahadtv/status/1969284461960274107",
+  "page_title": "قناة العهد on X: \"بالصور .. القيادي في ميليـ.,ـشيات الشرع الذي قضى عليه جهاز مكافحة الارهـ.,ـاب في قرية جرجيسة جنوب حماه، والذي شارك في مجـ.,ـازر الساحل السوري ضد العلويين https://t.co/vn1lWTSaS4\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0156a-september-19-2025/",
+      "airwars_source_id": "275216",
+      "incident_id": "airwars-386623",
+      "incident_sequence": 41,
+      "observed_original_url": "https://x.com/ahadtv/status/1969284461960274107",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-09-20T06:16:17.000Z",
+  "publisher": "ahadtv",
+  "publisher_ar": "ahadtv",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:25:28+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-227fc623e93f68119805f4b6",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/ahadtv/status/1969284461960274107",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nقناة العهد@ahadtvبالصور .. القيادي في ميليـ.,ـشيات الشرع الذي قضى عليه جهاز مكافحة الارهـ.,ـاب في قرية جرجيسة جنوب حماه، والذي شارك في مجـ.,ـازر الساحل السوري ضد العلويين6:16 AM · Sep 20, 20251.1KViews2116",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001575
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "426961"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-otvlebanon-2027719275515981866-2026-02-28-121523/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.225,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:25:49+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 76914,
+      "content_hash": "7f9d931ce77ca03366dd9b10462e499ad59f7b3f619f32353b3fc05495d4efc5",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.225,
+      "error": null,
+      "final_url": "https://x.com/OTVLebanon/status/2027719275515981866",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:25:49+00:00",
+      "status": 200,
+      "url": "https://x.com/OTVLebanon/status/2027719275515981866",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "https://x.com/OTVLebanon",
+  "captions": [],
+  "content_hash": "ee52f717b87c0196bf66faa7fca634cd057b3ddf3b0145e39ac5f1ae1b47f60c",
+  "content_variants": [
+    {
+      "bytes": 278,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:25:49+00:00",
+      "sha256": "ee52f717b87c0196bf66faa7fca634cd057b3ddf3b0145e39ac5f1ae1b47f60c",
+      "source_url": "https://x.com/OTVLebanon/status/2027719275515981866",
+      "text": "Post\n\nPost\n\nOTV Lebanon@OTVLebanon\"سانا\": أربعة قتلى وعدد من الجرحى جراء سقوط صاروخ إيراني على بناء في المنطقة الصناعية داخل مدينة السويداء\n#OTVLebanon #OTVNews12:15 PM · Feb 28, 2026344Views1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/OTVLebanon/status/2027719275515981866",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://x.com/OTVLebanon/status/2027719275515981866",
+  "observed_original_urls": [
+    "https://x.com/OTVLebanon/status/2027719275515981866"
+  ],
+  "original_url": "https://x.com/OTVLebanon/status/2027719275515981866",
+  "page_title": "OTV Lebanon on X: \"\"سانا\": أربعة قتلى وعدد من الجرحى جراء سقوط صاروخ إيراني على بناء في المنطقة الصناعية داخل مدينة السويداء\n#OTVLebanon #OTVNews\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "426961",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://x.com/OTVLebanon/status/2027719275515981866",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2026-02-28T12:15:23.000Z",
+  "publisher": "OTVLebanon",
+  "publisher_ar": "OTVLebanon",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:25:49+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-24d40d0eb45280a7b37c0ef5",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/OTVLebanon/status/2027719275515981866",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nOTV Lebanon@OTVLebanon\"سانا\": أربعة قتلى وعدد من الجرحى جراء سقوط صاروخ إيراني على بناء في المنطقة الصناعية داخل مدينة السويداء\n#OTVLebanon #OTVNews12:15 PM · Feb 28, 2026344Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001488
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

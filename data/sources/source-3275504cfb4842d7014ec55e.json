@@ -1,0 +1,99 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/raxjQ"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.832,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:27:57+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 493541,
+      "content_hash": "091da2ab231baf7925695c86ed237e9be807d5d4dbc791fd4dee21d4cf2a4c2b",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.832,
+      "error": null,
+      "final_url": "https://www.facebook.com/watch/?v=1208531553968439",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:27:57+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=1208531553968439",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "Syria Correspondent",
+  "captions": [],
+  "content_hash": "1d3ccbbed27973afbede84faf1a7776201f785d309c5d9232ec1f73a3378f651",
+  "content_variants": [
+    {
+      "bytes": 41,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:27:57+00:00",
+      "sha256": "1d3ccbbed27973afbede84faf1a7776201f785d309c5d9232ec1f73a3378f651",
+      "source_url": "https://www.facebook.com/watch/?v=1208531553968439",
+      "text": "Discover Popular Videos | Facebook\n\nVideo"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/watch/?v=1208531553968439",
+  "incident_ids": [
+    "airwars-142194"
+  ],
+  "incident_sequences": [
+    80
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=1208531553968439",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=1208531553968439"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=1208531553968439",
+  "page_title": "Discover Popular Videos | Facebook Video",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy075-march-25-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-142194",
+      "incident_sequence": 80,
+      "observed_original_url": "https://www.facebook.com/watch/?v=1208531553968439",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Syria Correspondent",
+  "publisher_ar": "Syria Correspondent",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:27:57+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-3275504cfb4842d7014ec55e",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=1208531553968439",
+  "text_ar": "",
+  "text_original": "Discover Popular Videos | Facebook\n\nVideo",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001533
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

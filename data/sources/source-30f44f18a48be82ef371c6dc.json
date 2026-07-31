@@ -1,0 +1,119 @@
+{
+  "airwars_source_ids": [
+    "308398"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-amar-2025-03-10-171217-7/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "live_source",
+          "host": "syriahr.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://www.syriahr.com/en/357501/?fbclid=IwY2xjawI8xFNleHRuA2FlbQIxMQABHYXW5afC2-sZOx_27Y4zncyX8RNXvTpnnP9_NuRV4XdeoLHbnl6JSAWi7A_aem_lytu8oRPu",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:27:39+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/en/357501/?fbclid=IwY2xjawI8xFNleHRuA2FlbQIxMQABHYXW5afC2-sZOx_27Y4zncyX8RNXvTpnnP9_NuRV4XdeoLHbnl6JSAWi7A_aem_lytu8oRPu",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/www-syriahr-com-amar-2025-03-10-171217-7/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:27:39+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/www-syriahr-com-amar-2025-03-10-171217-7/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_role": "wayback_lookup",
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "ok": false,
+      "retrieved_at": "2026-07-31T18:27:39+00:00"
+    }
+  ],
+  "author": "amar",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "host_circuit_open_after_repeated_block_or_timeout",
+  "final_redirected_url": "https://www.syriahr.com/en/357501/?fbclid=IwY2xjawI8xFNleHRuA2FlbQIxMQABHYXW5afC2-sZOx_27Y4zncyX8RNXvTpnnP9_NuRV4XdeoLHbnl6JSAWi7A_aem_lytu8oRPu",
+  "incident_ids": [
+    "airwars-290205"
+  ],
+  "incident_sequences": [
+    91
+  ],
+  "normalized_url": "https://www.syriahr.com/en/357501/?fbclid=IwY2xjawI8xFNleHRuA2FlbQIxMQABHYXW5afC2-sZOx_27Y4zncyX8RNXvTpnnP9_NuRV4XdeoLHbnl6JSAWi7A_aem_lytu8oRPu",
+  "observed_original_urls": [
+    "https://www.syriahr.com/en/357501/?fbclid=IwY2xjawI8xFNleHRuA2FlbQIxMQABHYXW5afC2-sZOx_27Y4zncyX8RNXvTpnnP9_NuRV4XdeoLHbnl6JSAWi7A_aem_lytu8oRPu"
+  ],
+  "original_url": "https://www.syriahr.com/en/357501/?fbclid=IwY2xjawI8xFNleHRuA2FlbQIxMQABHYXW5afC2-sZOx_27Y4zncyX8RNXvTpnnP9_NuRV4XdeoLHbnl6JSAWi7A_aem_lytu8oRPu",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts795-march-10-2025/",
+      "airwars_source_id": "308398",
+      "incident_id": "airwars-290205",
+      "incident_sequence": 91,
+      "observed_original_url": "https://www.syriahr.com/en/357501/?fbclid=IwY2xjawI8xFNleHRuA2FlbQIxMQABHYXW5afC2-sZOx_27Y4zncyX8RNXvTpnnP9_NuRV4XdeoLHbnl6JSAWi7A_aem_lytu8oRPu",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "10 مارس 2025",
+  "publisher": "amar",
+  "publisher_ar": "amar",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:27:39+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-30f44f18a48be82ef371c6dc",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.syriahr.com/en/357501/?fbclid=IwY2xjawI8xFNleHRuA2FlbQIxMQABHYXW5afC2-sZOx_27Y4zncyX8RNXvTpnnP9_NuRV4XdeoLHbnl6JSAWi7A_aem_lytu8oRPu",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "en",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

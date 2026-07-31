@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "315411"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-nahermedia-1982070910447174074-2025-10-25-130504-2/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.302,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:27:58+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 81968,
+      "content_hash": "9ca626615d048e37fcd63787290a20301eb0d59c161cae76c21fc24cbb248dd2",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.302,
+      "error": null,
+      "final_url": "https://x.com/nahermedia/status/1982070910447174074",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:27:58+00:00",
+      "status": 200,
+      "url": "https://x.com/nahermedia/status/1982070910447174074",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "https://x.com/nahermedia",
+  "captions": [],
+  "content_hash": "38bb57bbb80173a0e6874db7c4043a4b4d3208722154b83f59dd3c7df0186e55",
+  "content_variants": [
+    {
+      "bytes": 447,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:27:58+00:00",
+      "sha256": "38bb57bbb80173a0e6874db7c4043a4b4d3208722154b83f59dd3c7df0186e55",
+      "source_url": "https://x.com/nahermedia/status/1982070910447174074",
+      "text": "Post\n\nPost\n\nNaher Media - نهر ميديا@nahermediaمراسل #نهر_ميديا: اعتـ ـقلت #قسد \"محمود الحجي الفنخ\"، فجر اليوم، خلال مداهمة قرب معمل السجاد في بلدة #الشحيل شرقي #دير_الزور، بدعم من طيران التحالف الدولي (المروحي والمسير)، واستمرت العملية نحو ساعتين.1:05 PM · Oct 25, 2025165Views11"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/nahermedia/status/1982070910447174074",
+  "incident_ids": [
+    "airwars-386630"
+  ],
+  "incident_sequences": [
+    31
+  ],
+  "normalized_url": "https://x.com/nahermedia/status/1982070910447174074",
+  "observed_original_urls": [
+    "https://x.com/nahermedia/status/1982070910447174074"
+  ],
+  "original_url": "https://x.com/nahermedia/status/1982070910447174074",
+  "page_title": "Naher Media - نهر ميديا on X: \"مراسل #نهر_ميديا: اعتـ ـقلت #قسد \"محمود الحجي الفنخ\"، فجر اليوم، خلال مداهمة قرب معمل السجاد في بلدة #الشحيل شرقي #دير_الزور، بدعم من طيران التحالف الدولي (المروحي والمسير)، واستمرت العملية نحو ساعتين.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0162-october-25-2025/",
+      "airwars_source_id": "315411",
+      "incident_id": "airwars-386630",
+      "incident_sequence": 31,
+      "observed_original_url": "https://x.com/nahermedia/status/1982070910447174074",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-10-25T13:05:04.000Z",
+  "publisher": "mediate",
+  "publisher_ar": "mediate",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:27:58+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-3277eab7b3a9a0e10edaa20a",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/nahermedia/status/1982070910447174074",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nNaher Media - نهر ميديا@nahermediaمراسل #نهر_ميديا: اعتـ ـقلت #قسد \"محمود الحجي الفنخ\"، فجر اليوم، خلال مداهمة قرب معمل السجاد في بلدة #الشحيل شرقي #دير_الزور، بدعم من طيران التحالف الدولي (المروحي والمسير)، واستمرت العملية نحو ساعتين.1:05 PM · Oct 25, 2025165Views11",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001579
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

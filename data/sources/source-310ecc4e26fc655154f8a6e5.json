@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "404114"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-euphratespost-2027711469165383896-2026-02-28-114421/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.262,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:27:40+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 83748,
+      "content_hash": "1fb0f6cceb90f27b234e59007486ab14fb649c44d223f3084527be0a77cc13a9",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.262,
+      "error": null,
+      "final_url": "https://x.com/EuphratesPost/status/2027711469165383896",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:27:40+00:00",
+      "status": 200,
+      "url": "https://x.com/EuphratesPost/status/2027711469165383896",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "https://x.com/EuphratesPost",
+  "captions": [],
+  "content_hash": "b1c568302286dbf3f110ec45f626720c1a1c8e3630600b62cf4dd4c794033ea5",
+  "content_variants": [
+    {
+      "bytes": 429,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:27:40+00:00",
+      "sha256": "b1c568302286dbf3f110ec45f626720c1a1c8e3630600b62cf4dd4c794033ea5",
+      "source_url": "https://x.com/EuphratesPost/status/2027711469165383896",
+      "text": "Post\n\nPost\n\nفرات بوست@EuphratesPost#فرات_بوست\n#السويداء : #عاجل\nمقـ.ـتل رجل وابنه وإصـ.ـابة آخرين في مدينة السويداء، إثر سقـ.ـوط بقـ.ـايا صـ.ـاروخ إيـ.ـراني على بناء سكني بعد اعتـ.ـراضه من قبل المضـ.ـادات الجـ.ـوية الإسـ.ـرائيـ.ـلية.11:44 AM · Feb 28, 2026247Views3"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/EuphratesPost/status/2027711469165383896",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://x.com/EuphratesPost/status/2027711469165383896",
+  "observed_original_urls": [
+    "https://x.com/EuphratesPost/status/2027711469165383896"
+  ],
+  "original_url": "https://x.com/EuphratesPost/status/2027711469165383896",
+  "page_title": "فرات بوست on X: \"#فرات_بوست\n#السويداء : #عاجل\nمقـ.ـتل رجل وابنه وإصـ.ـابة آخرين في مدينة السويداء، إثر سقـ.ـوط بقـ.ـايا صـ.ـاروخ إيـ.ـراني على بناء سكني بعد اعتـ.ـراضه من قبل المضـ.ـادات الجـ.ـوية الإسـ.ـرائيـ.ـلية. https://t.co/VGmz8KZ5tL\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "404114",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://x.com/EuphratesPost/status/2027711469165383896",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2026-02-28T11:44:21.000Z",
+  "publisher": "EuphratesPost",
+  "publisher_ar": "EuphratesPost",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:27:40+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-310ecc4e26fc655154f8a6e5",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/EuphratesPost/status/2027711469165383896",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nفرات بوست@EuphratesPost#فرات_بوست\n#السويداء : #عاجل\nمقـ.ـتل رجل وابنه وإصـ.ـابة آخرين في مدينة السويداء، إثر سقـ.ـوط بقـ.ـايا صـ.ـاروخ إيـ.ـراني على بناء سكني بعد اعتـ.ـراضه من قبل المضـ.ـادات الجـ.ـوية الإسـ.ـرائيـ.ـلية.11:44 AM · Feb 28, 2026247Views3",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001635
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

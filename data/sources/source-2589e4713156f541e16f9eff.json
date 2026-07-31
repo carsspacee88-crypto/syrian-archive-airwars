@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "273578"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%af%d8%a7%d8%a1-%d9%88%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d8%a9-%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d8%a9-p/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.038,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:26:10+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 426287,
+      "content_hash": "5afd2d7dded26510b6061a30b417e7a47fd060c6ee061fb8a49266fd7a3e85bf",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.038,
+      "error": null,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02HnbTL634ychTyxGBLj9MCSK85mabFLtQYwrahBZ6bTwF9MGZwCnSESuNowTYbkhPl%26id%3D61575679322052",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:26:10+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02HnbTL634ychTyxGBLj9MCSK85mabFLtQYwrahBZ6bTwF9MGZwCnSESuNowTYbkhPl&id=61575679322052",
+      "waiting_seconds": 0.735
+    }
+  ],
+  "author": "أخبار السويداء والمنطقة الجنوبية",
+  "captions": [],
+  "content_hash": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+  "content_variants": [
+    {
+      "bytes": 374,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:26:10+00:00",
+      "sha256": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+      "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02HnbTL634ychTyxGBLj9MCSK85mabFLtQYwrahBZ6bTwF9MGZwCnSESuNowTYbkhPl%26id%3D61575679322052",
+      "text": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02HnbTL634ychTyxGBLj9MCSK85mabFLtQYwrahBZ6bTwF9MGZwCnSESuNowTYbkhPl%26id%3D61575679322052",
+  "incident_ids": [
+    "airwars-276126"
+  ],
+  "incident_sequences": [
+    44
+  ],
+  "normalized_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02HnbTL634ychTyxGBLj9MCSK85mabFLtQYwrahBZ6bTwF9MGZwCnSESuNowTYbkhPl&id=61575679322052",
+  "observed_original_urls": [
+    "https://www.facebook.com/permalink.php?story_fbid=pfbid02HnbTL634ychTyxGBLj9MCSK85mabFLtQYwrahBZ6bTwF9MGZwCnSESuNowTYbkhPl&id=61575679322052"
+  ],
+  "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02HnbTL634ychTyxGBLj9MCSK85mabFLtQYwrahBZ6bTwF9MGZwCnSESuNowTYbkhPl&id=61575679322052",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy085-august-26-2025/",
+      "airwars_source_id": "273578",
+      "incident_id": "airwars-276126",
+      "incident_sequence": 44,
+      "observed_original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02HnbTL634ychTyxGBLj9MCSK85mabFLtQYwrahBZ6bTwF9MGZwCnSESuNowTYbkhPl&id=61575679322052",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "26 أغسطس 2025",
+  "publisher": "News from Sweida and the southern region",
+  "publisher_ar": "أخبار السويداء والمنطقة الجنوبية",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:26:10+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-2589e4713156f541e16f9eff",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid02HnbTL634ychTyxGBLj9MCSK85mabFLtQYwrahBZ6bTwF9MGZwCnSESuNowTYbkhPl&id=61575679322052",
+  "text_ar": "",
+  "text_original": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002117
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "297518"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d9%81%d9%8a%d8%b5%d9%84-%d8%a7%d9%84%d8%b1%d9%83%d8%a7%d8%af-1386394092904945-2025-11-07-114413/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.255,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:26:46+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 551213,
+      "content_hash": "0745a818a2e60257f5ea1afe1544c4f9aa17057814d53b5f81615b3514ec9dc5",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.255,
+      "error": null,
+      "final_url": "https://www.facebook.com/reel/1386394092904945",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:26:46+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/reel/1386394092904945",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "فيصل الركاد",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:26:46+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/reel/1386394092904945",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/reel/1386394092904945",
+  "incident_ids": [
+    "airwars-297455"
+  ],
+  "incident_sequences": [
+    32
+  ],
+  "normalized_url": "https://www.facebook.com/reel/1386394092904945",
+  "observed_original_urls": [
+    "https://www.facebook.com/reel/1386394092904945"
+  ],
+  "original_url": "https://www.facebook.com/reel/1386394092904945",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2015-october-23-2025/",
+      "airwars_source_id": "297518",
+      "incident_id": "airwars-297455",
+      "incident_sequence": 32,
+      "observed_original_url": "https://www.facebook.com/reel/1386394092904945",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "7 نوفمبر 2025",
+  "publisher": "Faisal Al-Rakkad",
+  "publisher_ar": "فيصل الركاد",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:26:46+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-292fe4725b6d03db7a3b4fa9",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/reel/1386394092904945",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "en",
+  "timing": {
+    "text_extraction_seconds": 0.001614
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

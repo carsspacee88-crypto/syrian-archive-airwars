@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "187343"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-ibraheemmehdi4-1932390043697488131-2025-06-10-105103/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.486,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:27:50+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 84115,
+      "content_hash": "9fbfdc286f7858aef3f03959f7f80b405ed8985b9dedcaf63da9b3bbbf24b630",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.486,
+      "error": null,
+      "final_url": "https://x.com/ibrahee99843263/status/1932390043697488131",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:27:50+00:00",
+      "status": 200,
+      "url": "https://x.com/ibraheemMehdi4/status/1932390043697488131",
+      "waiting_seconds": 0.745
+    }
+  ],
+  "author": "https://x.com/ibrahee99843263",
+  "captions": [],
+  "content_hash": "779f56dbcd956f93fd020d10867b8ea55016ffb49e74f33c4927339ea1cee582",
+  "content_variants": [
+    {
+      "bytes": 568,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:27:50+00:00",
+      "sha256": "779f56dbcd956f93fd020d10867b8ea55016ffb49e74f33c4927339ea1cee582",
+      "source_url": "https://x.com/ibrahee99843263/status/1932390043697488131",
+      "text": "Post\n\nPost\n\nibrahem@ibrahee99843263#سوريا_ادلب:\n\n🔹أفادت مصادر بمقتل ثلاثة إرهابيين وإصابة شخص رابع بغارتين جويتين منفصلتين نفّذتهما طائرة مسيرة تابعة للتحالف الدولي بريف إدلب الشمالي.\nالمستهدفين أحدهم يُدعى \"هاني الحمود\" من ريف حلب.يعمل ضمن صفوف \"هيئة تحرير الشام\"، أما الآخر، فتبين أنه من الجنسية المغربية.10:51 AM · Jun 10, 20251.6KViews36391"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/ibrahee99843263/status/1932390043697488131",
+  "incident_ids": [
+    "airwars-190695"
+  ],
+  "incident_sequences": [
+    66
+  ],
+  "normalized_url": "https://x.com/ibraheemMehdi4/status/1932390043697488131",
+  "observed_original_urls": [
+    "https://x.com/ibraheemMehdi4/status/1932390043697488131"
+  ],
+  "original_url": "https://x.com/ibraheemMehdi4/status/1932390043697488131",
+  "page_title": "ibrahem on X: \"#سوريا_ادلب:\n\n🔹أفادت مصادر بمقتل ثلاثة إرهابيين وإصابة شخص رابع بغارتين جويتين منفصلتين نفّذتهما طائرة مسيرة تابعة للتحالف الدولي بريف إدلب الشمالي.\nالمستهدفين أحدهم يُدعى \"هاني الحمود\" من ريف حلب.يعمل ضمن صفوف \"هيئة تحرير الشام\"، أما الآخر، فتبين أنه من الجنسية المغربية. https://t.co/T0JiKCXn28\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2009-june-10-2025/",
+      "airwars_source_id": "187343",
+      "incident_id": "airwars-190695",
+      "incident_sequence": 66,
+      "observed_original_url": "https://x.com/ibraheemMehdi4/status/1932390043697488131",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-06-10T10:51:03.000Z",
+  "publisher": "ibraheemMehdi4",
+  "publisher_ar": "ibraheemMehdi4",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:27:50+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-31b0bfe5124d2b071bbdd03f",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/ibraheemMehdi4/status/1932390043697488131",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nibrahem@ibrahee99843263#سوريا_ادلب:\n\n🔹أفادت مصادر بمقتل ثلاثة إرهابيين وإصابة شخص رابع بغارتين جويتين منفصلتين نفّذتهما طائرة مسيرة تابعة للتحالف الدولي بريف إدلب الشمالي.\nالمستهدفين أحدهم يُدعى \"هاني الحمود\" من ريف حلب.يعمل ضمن صفوف \"هيئة تحرير الشام\"، أما الآخر، فتبين أنه من الجنسية المغربية.10:51 AM · Jun 10, 20251.6KViews36391",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001992
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

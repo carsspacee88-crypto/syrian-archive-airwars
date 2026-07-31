@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "376972"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-asdaslm9-2006205823727374389-2025-12-31-032836/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.242,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:27:52+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 77114,
+      "content_hash": "6e4bc02ff58419091d20f99e3fbf3ebacb4174babdc2d2a5cc018f3a2c688bdd",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.242,
+      "error": null,
+      "final_url": "https://x.com/asdaslm9/status/2006205823727374389",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:27:52+00:00",
+      "status": 200,
+      "url": "https://x.com/asdaslm9/status/2006205823727374389",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "https://x.com/asdaslm9",
+  "captions": [],
+  "content_hash": "dbe5ce6b5ad987de5370af833cf303f13f92397843cf5c02dbf34598e4cd310b",
+  "content_variants": [
+    {
+      "bytes": 424,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:27:52+00:00",
+      "sha256": "dbe5ce6b5ad987de5370af833cf303f13f92397843cf5c02dbf34598e4cd310b",
+      "source_url": "https://x.com/asdaslm9/status/2006205823727374389",
+      "text": "Post\n\nPost\n\nخالد حاتم الشمري@asdaslm9#الحسكة\n\nالتـ.ـحالف الدولي يعتـ.ـقل «باسل محجوب البردويل» بعملية إنـ.ـزال في قرية أسكندرون بريف الحسكة\nيشار أن شقيقه «سعد» أعـ.ـتقل متذ فترة بعملية إنـ.ـزال مشتركة للقوات العراقية والتحالف3:28 AM · Dec 31, 202562Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/asdaslm9/status/2006205823727374389",
+  "incident_ids": [
+    "airwars-387054"
+  ],
+  "incident_sequences": [
+    6
+  ],
+  "normalized_url": "https://x.com/asdaslm9/status/2006205823727374389",
+  "observed_original_urls": [
+    "https://x.com/asdaslm9/status/2006205823727374389"
+  ],
+  "original_url": "https://x.com/asdaslm9/status/2006205823727374389",
+  "page_title": "خالد حاتم الشمري on X: \"#الحسكة\n\nالتـ.ـحالف الدولي يعتـ.ـقل «باسل محجوب البردويل» بعملية إنـ.ـزال في قرية أسكندرون بريف الحسكة\nيشار أن شقيقه «سعد» أعـ.ـتقل متذ فترة بعملية إنـ.ـزال مشتركة للقوات العراقية والتحالف\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0181-december-31-2025/",
+      "airwars_source_id": "376972",
+      "incident_id": "airwars-387054",
+      "incident_sequence": 6,
+      "observed_original_url": "https://x.com/asdaslm9/status/2006205823727374389",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-31T03:28:36.000Z",
+  "publisher": "asdaslm9",
+  "publisher_ar": "asdaslm9",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:27:52+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-31c60a50ffe2a85cca398411",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/asdaslm9/status/2006205823727374389",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nخالد حاتم الشمري@asdaslm9#الحسكة\n\nالتـ.ـحالف الدولي يعتـ.ـقل «باسل محجوب البردويل» بعملية إنـ.ـزال في قرية أسكندرون بريف الحسكة\nيشار أن شقيقه «سعد» أعـ.ـتقل متذ فترة بعملية إنـ.ـزال مشتركة للقوات العراقية والتحالف3:28 AM · Dec 31, 202562Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001566
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
