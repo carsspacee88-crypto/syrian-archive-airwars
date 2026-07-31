@@ -12606,6 +12606,13 @@
       "result": "complete",
       "stage": "manifest",
       "started_at": "2026-07-31T19:10:12+00:00"
+    },
+    {
+      "duration_seconds": 0.065,
+      "finished_at": "2026-07-31T19:10:14+00:00",
+      "result": "complete",
+      "stage": "incident_collection",
+      "started_at": "2026-07-31T19:10:14+00:00"
     }
   ],
   "started_at": "2026-07-31T16:27:34Z",
@@ -14150,5 +14157,5 @@
     "source:source-ffa5172cae609190786db3db",
     "source:source-ffd5e852c1077b554e311344"
   ],
-  "updated_at": "2026-07-31T19:10:12+00:00"
+  "updated_at": "2026-07-31T19:10:14+00:00"
 }
