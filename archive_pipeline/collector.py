@@ -4,6 +4,7 @@ import argparse
 import json
 import re
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -132,6 +133,7 @@ def collect_one(
     existing = load_json(normalized_path, {})
     slug = _slug(incident_url)
     airwars_id = record["airwars_id"]
+    extraction_seconds = 0.0
 
     endpoint_result = None
     for endpoint_url in airwars_endpoint_urls(airwars_id, slug):
@@ -147,6 +149,7 @@ def collect_one(
         if endpoint_result.ok:
             api_record = _load_api_payload(endpoint_result.body)
             if api_record:
+                extraction_started = time.monotonic()
                 atomic_write_json(
                     output_root / "data" / "raw" / "airwars" / internal_id / "endpoint-snapshot.json",
                     api_record,
@@ -158,6 +161,7 @@ def collect_one(
                     endpoint_result.retrieved_at,
                     endpoint_result.content_hash or "",
                 )
+                extraction_seconds += time.monotonic() - extraction_started
                 break
         if endpoint_result.status not in {404}:
             break
@@ -174,6 +178,7 @@ def collect_one(
     live_parsed = False
     if live_result.ok and "html" in live_result.content_type.lower():
         try:
+            extraction_started = time.monotonic()
             parsed = parse_incident_html(live_result.body, incident_url)
             apply_page_extraction(
                 record,
@@ -187,6 +192,7 @@ def collect_one(
                 output_root / "data" / "raw" / "airwars" / internal_id / "snapshot.txt",
                 parsed["snapshot_text"] + "\n",
             )
+            extraction_seconds += time.monotonic() - extraction_started
             live_parsed = True
         except Exception as error:
             record["review_flags"].append(f"live_parser_error:{type(error).__name__}")
@@ -216,6 +222,7 @@ def collect_one(
             )
             if archive_result.ok and "html" in archive_result.content_type.lower():
                 try:
+                    extraction_started = time.monotonic()
                     parsed = parse_incident_html(archive_result.body, incident_url)
                     apply_page_extraction(
                         record,
@@ -231,6 +238,7 @@ def collect_one(
                         output_root / "data" / "raw" / "archive" / internal_id / "snapshot.txt",
                         parsed["snapshot_text"] + "\n",
                     )
+                    extraction_seconds += time.monotonic() - extraction_started
                 except Exception as error:
                     record["review_flags"].append(f"archive_parser_error:{type(error).__name__}")
         else:
@@ -246,6 +254,7 @@ def collect_one(
             _apply_saved_archive_snapshot(record, output_root, previous_archive_metadata)
 
     finalize_status(record)
+    record.setdefault("timing", {})["text_extraction_seconds"] = round(extraction_seconds, 6)
     existing_has_direct_data = bool(existing.get("page_extraction") or existing.get("api_extraction"))
     candidate_has_direct_data = bool(record.get("page_extraction") or record.get("api_extraction"))
     if existing_has_direct_data and not candidate_has_direct_data:

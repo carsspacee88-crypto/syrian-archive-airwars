@@ -8,6 +8,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from dataclasses import asdict, dataclass
+from email.utils import parsedate_to_datetime
 from typing import Any
 
 from .io_utils import sha256_bytes, utc_now
@@ -32,6 +33,8 @@ class FetchResult:
     body_decoded_from: str | None = None
     error: str | None = None
     attempts: int = 1
+    waiting_seconds: float = 0.0
+    attempt_history: list[dict[str, Any]] | None = None
 
     @property
     def ok(self) -> bool:
@@ -63,17 +66,41 @@ class RespectfulFetcher:
         self.max_bytes = max_bytes
         self._last_request_at = 0.0
         self.last_wayback_lookup: dict[str, Any] | None = None
+        self.total_waiting_seconds = 0.0
+        self.total_requests = 0
+        self.total_retries = 0
 
-    def _wait(self) -> None:
+    def _wait(self) -> float:
         remaining = self.delay_seconds - (time.monotonic() - self._last_request_at)
         if remaining > 0:
             time.sleep(remaining)
+            self.total_waiting_seconds += remaining
+            return remaining
+        return 0.0
+
+    @staticmethod
+    def _retry_after_seconds(value: str | None) -> float:
+        if not value:
+            return 0.0
+        try:
+            return max(0.0, min(float(value), 120.0))
+        except ValueError:
+            try:
+                target = parsedate_to_datetime(value).timestamp()
+                return max(0.0, min(target - time.time(), 120.0))
+            except (TypeError, ValueError, OverflowError):
+                return 0.0
 
     def fetch(self, url: str, accept: str = "text/html,application/json;q=0.9,*/*;q=0.1") -> FetchResult:
         last: FetchResult | None = None
+        history: list[dict[str, Any]] = []
+        waiting = 0.0
         for attempt in range(1, self.retries + 1):
-            self._wait()
+            waiting += self._wait()
             started = time.monotonic()
+            self.total_requests += 1
+            if attempt > 1:
+                self.total_retries += 1
             request = urllib.request.Request(
                 url,
                 headers={
@@ -105,7 +132,16 @@ class RespectfulFetcher:
                         response_content_encoding=content_encoding,
                         body_decoded_from=decoded_from,
                         attempts=attempt,
+                        waiting_seconds=round(waiting, 3),
                     )
+                    history.append({
+                        "attempt": attempt,
+                        "retrieved_at": result.retrieved_at,
+                        "status": result.status,
+                        "elapsed_seconds": result.elapsed_seconds,
+                        "result": "successful",
+                    })
+                    result.attempt_history = history
                     self._last_request_at = time.monotonic()
                     return result
             except urllib.error.HTTPError as error:
@@ -120,10 +156,25 @@ class RespectfulFetcher:
                     elapsed_seconds=round(time.monotonic() - started, 3),
                     error=f"http_{error.code}",
                     attempts=attempt,
+                    waiting_seconds=round(waiting, 3),
                 )
+                history.append({
+                    "attempt": attempt,
+                    "retrieved_at": last.retrieved_at,
+                    "status": last.status,
+                    "elapsed_seconds": last.elapsed_seconds,
+                    "result": "http_error",
+                    "error": last.error,
+                })
+                last.attempt_history = list(history)
                 self._last_request_at = time.monotonic()
                 if error.code not in {429, 500, 502, 503, 504}:
                     return last
+                retry_after = self._retry_after_seconds(error.headers.get("Retry-After") if error.headers else None)
+                if retry_after:
+                    time.sleep(retry_after)
+                    waiting += retry_after
+                    self.total_waiting_seconds += retry_after
             except Exception as error:  # network and parser-safe boundary
                 last = FetchResult(
                     url=url,
@@ -135,11 +186,26 @@ class RespectfulFetcher:
                     elapsed_seconds=round(time.monotonic() - started, 3),
                     error=f"{type(error).__name__}: {error}",
                     attempts=attempt,
+                    waiting_seconds=round(waiting, 3),
                 )
+                history.append({
+                    "attempt": attempt,
+                    "retrieved_at": last.retrieved_at,
+                    "status": None,
+                    "elapsed_seconds": last.elapsed_seconds,
+                    "result": "timed_out" if "timeout" in str(error).casefold() else "network_error",
+                    "error": last.error,
+                })
+                last.attempt_history = list(history)
                 self._last_request_at = time.monotonic()
             if attempt < self.retries:
-                time.sleep((2 ** (attempt - 1)) + random.uniform(0.0, 0.5))
+                backoff = (2 ** (attempt - 1)) + random.uniform(0.0, 0.5)
+                time.sleep(backoff)
+                waiting += backoff
+                self.total_waiting_seconds += backoff
         assert last is not None
+        last.waiting_seconds = round(waiting, 3)
+        last.attempt_history = history
         return last
 
     def latest_wayback_capture(self, target_url: str) -> dict[str, str] | None:

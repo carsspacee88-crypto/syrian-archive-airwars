@@ -1,0 +1,264 @@
+name: طيار المحتوى الكامل لأول 100 حادثة
+
+on:
+  push:
+    branches: [pilot/first-100-complete-content]
+    paths:
+      - "archive_pipeline/**"
+      - "scripts/**"
+      - "tests/**"
+      - "requirements.txt"
+      - ".github/workflows/pilot-first-100.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: first-100-complete-content-v2
+  cancel-in-progress: false
+
+jobs:
+  collect-translate-build-validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_TRANSLATION_MODEL: gpt-5.6-sol
+      TRANSLATION_PROVIDER: auto
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - name: جلب فرع الطيار
+        uses: actions/checkout@v6
+        with:
+          ref: pilot/first-100-complete-content
+          fetch-depth: 0
+
+      - name: إعداد Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: تثبيت الأدوات والتحقق من وجود مزود ترجمة
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m pip install -r requirements.txt
+          if [ -z "${DEEPL_API_KEY:-}" ] && [ -z "${OPENAI_API_KEY:-}" ]; then
+            echo "DEEPL_API_KEY or OPENAI_API_KEY is required" >&2
+            exit 1
+          fi
+
+      - name: اختبارات الوحدة
+        run: python -m unittest discover -s tests -v
+
+      - name: تكوين لقطة الهجرة التاريخية
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat site-package/part-* > /tmp/syrian-archive-site.zip
+          echo "9f35a90d92f9fb0334cb61ffd8434aac03fd0ee61622908a11923dac40da35f3  /tmp/syrian-archive-site.zip" | sha256sum --check
+
+      - name: اختبار مزود الترجمة فعليًا قبل الجمع
+        run: |
+          python scripts/run_first_100_pilot.py \
+            --legacy-zip /tmp/syrian-archive-site.zip \
+            --output-root . \
+            --stage preflight
+
+      - name: إنشاء manifest وحفظه
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python scripts/run_first_100_pilot.py \
+            --legacy-zip /tmp/syrian-archive-site.zip \
+            --output-root . \
+            --stage manifest
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -m "data: checkpoint first-100 manifest"
+            git push origin HEAD:pilot/first-100-complete-content
+          fi
+
+      - name: جمع الحوادث 0001–0100 وحفظ نقطة الاستئناف
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/run_first_100_pilot.py \
+            --legacy-zip /tmp/syrian-archive-site.zip \
+            --output-root . \
+            --stage incidents \
+            --max-items 100 \
+            --delay 0.75 \
+            --timeout 10 \
+            --retries 1
+          git add data
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "data: checkpoint first-100 incidents"
+            git push origin HEAD:pilot/first-100-complete-content
+          fi
+
+      - name: جمع المصادر في دفعات محفوظة
+        shell: bash
+        run: |
+          set -euo pipefail
+          while true; do
+            python scripts/run_first_100_pilot.py \
+              --legacy-zip /tmp/syrian-archive-site.zip \
+              --output-root . \
+              --stage sources \
+              --max-items 100 \
+              --delay 0.75 \
+              --timeout 10 \
+              --retries 1
+            git add data
+            git diff --cached --check
+            if ! git diff --cached --quiet; then
+              git commit -m "data: checkpoint first-100 source batch"
+              git push origin HEAD:pilot/first-100-complete-content
+            fi
+            if python -c 'import json; raise SystemExit(0 if json.load(open("data/pilot/first-100-stage-result.json"))["done"] else 1)'; then
+              break
+            fi
+          done
+
+      - name: إنشاء وسائط metadata فقط
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/run_first_100_pilot.py \
+            --legacy-zip /tmp/syrian-archive-site.zip \
+            --output-root . \
+            --stage media
+          git add data
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "data: checkpoint first-100 media metadata"
+            git push origin HEAD:pilot/first-100-complete-content
+          fi
+
+      - name: ترجمة النصوص في دفعات قابلة للاستئناف
+        shell: bash
+        run: |
+          set -euo pipefail
+          while true; do
+            python scripts/run_first_100_pilot.py \
+              --legacy-zip /tmp/syrian-archive-site.zip \
+              --output-root . \
+              --stage translation \
+              --max-items 25
+            git add data
+            git diff --cached --check
+            if ! git diff --cached --quiet; then
+              git commit -m "data: checkpoint first-100 translation batch"
+              git push origin HEAD:pilot/first-100-complete-content
+            fi
+            if python -c 'import json; raise SystemExit(0 if json.load(open("data/pilot/first-100-stage-result.json"))["done"] else 1)'; then
+              break
+            fi
+          done
+
+      - name: توليد تقارير الطيار
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/run_first_100_pilot.py \
+            --legacy-zip /tmp/syrian-archive-site.zip \
+            --output-root . \
+            --stage reports
+          python scripts/generate_reports.py --legacy-zip /tmp/syrian-archive-site.zip --output-root .
+
+      - name: بناء الموقع الكامل وقياس زمنه
+        shell: bash
+        run: |
+          set -euo pipefail
+          started=$(date +%s)
+          mkdir -p _site
+          unzip -q /tmp/syrian-archive-site.zip -d _site
+          python scripts/build_site.py --site-root _site --project-root .
+          duration=$(( $(date +%s) - started ))
+          python scripts/record_first_100_stage.py --stage static_site_generation --duration-seconds "$duration"
+
+      - name: إنشاء artifact مضغوط وتثبيت قياسات الحجم
+        shell: bash
+        run: |
+          set -euo pipefail
+          started=$(date +%s)
+          (cd _site && zip -q -r -X /tmp/first-100-site.zip .)
+          python scripts/finalize_first_100_measurements.py \
+            --project-root . \
+            --site-root _site \
+            --compressed-artifact /tmp/first-100-site.zip
+          duration=$(( $(date +%s) - started ))
+          python scripts/record_first_100_stage.py --stage artifact_generation --duration-seconds "$duration"
+          cp data/reports/first-100-*.json data/reports/first-100-summary.md _site/data/reports/
+
+      - name: التحقق الكامل وقياس زمنه
+        shell: bash
+        run: |
+          set -euo pipefail
+          started=$(date +%s)
+          python scripts/validate_site.py \
+            --site-root _site \
+            --project-root . \
+            --legacy-zip /tmp/syrian-archive-site.zip \
+            --report-root data/reports
+          duration=$(( $(date +%s) - started ))
+          python scripts/record_first_100_stage.py --stage validation --duration-seconds "$duration"
+          cp data/reports/validation.json data/reports/validation.md _site/data/reports/
+
+      - name: فحوص النطاق والسياسة النهائية
+        shell: bash
+        run: |
+          set -euo pipefail
+          test "$(find data/sources -maxdepth 1 -name 'source-*.json' | wc -l)" -gt 0
+          test "$(find _site/sources -mindepth 2 -maxdepth 2 -name index.html | wc -l)" -eq "$(find data/sources -maxdepth 1 -name 'source-*.json' | wc -l)"
+          test -f _site/cases/0001/index.html
+          test -f _site/cases/0100/index.html
+          test -f _site/cases/0101/index.html
+          test -f _site/cases/8114/index.html
+          test "$(find data _site -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.gif' -o -iname '*.webp' -o -iname '*.mp4' -o -iname '*.mp3' \) | wc -l)" -eq 0
+          previous=0
+          for pass in 1 2 3 4 5; do
+            python scripts/write_checksums.py --site-root _site
+            rm -f /tmp/first-100-site.zip
+            (cd _site && zip -q -r -X /tmp/first-100-site.zip .)
+            current=$(stat -c %s /tmp/first-100-site.zip)
+            python scripts/finalize_first_100_measurements.py \
+              --project-root . \
+              --site-root _site \
+              --compressed-artifact /tmp/first-100-site.zip
+            cp data/reports/first-100-*.json data/reports/first-100-summary.md _site/data/reports/
+            if [ "$current" = "$previous" ]; then break; fi
+            previous=$current
+          done
+          mkdir -p pilot-artifacts
+          cp /tmp/first-100-site.zip pilot-artifacts/first-100-site.zip
+
+      - name: حفظ النتائج النهائية بعد نجاح التحقق
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add data
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "data: complete validated first-100 content pilot"
+            git push origin HEAD:pilot/first-100-complete-content
+          fi
+
+      - name: رفع التقارير ونسخة الموقع للقياس
+        uses: actions/upload-artifact@v6
+        with:
+          name: first-100-pilot-results
+          path: |
+            data/reports/first-100-*.json
+            data/reports/first-100-summary.md
+            data/reports/validation.json
+            pilot-artifacts/first-100-site.zip
+          retention-days: 7
+          include-hidden-files: true

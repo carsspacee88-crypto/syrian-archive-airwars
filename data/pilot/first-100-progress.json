@@ -1,0 +1,24 @@
+{
+  "incident_completed_sequences": [],
+  "incident_timings": [],
+  "pilot": "first-100-complete-content",
+  "scope": {
+    "count": 100,
+    "first_sequence": 1,
+    "last_sequence": 100
+  },
+  "source_completed_ids": [],
+  "source_timings": [],
+  "stage_runs": [
+    {
+      "duration_seconds": 0.166,
+      "finished_at": "2026-07-31T16:33:02+00:00",
+      "result": "complete",
+      "stage": "manifest",
+      "started_at": "2026-07-31T16:33:02+00:00"
+    }
+  ],
+  "started_at": "2026-07-31T16:27:34Z",
+  "translation_completed_records": [],
+  "updated_at": "2026-07-31T16:33:02+00:00"
+}

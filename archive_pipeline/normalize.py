@@ -86,6 +86,8 @@ def _legacy_media(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
             "caption_original": row.get("الوصف/العنوان — الأصل") or "",
             "url": row.get("رابط الوسيط/الصورة") or wrapper.get("display_url") or "",
             "thumbnail_url": row.get("رابط الصورة المصغرة") or "",
+            "source_url": row.get("رابط المصدر") or "",
+            "airwars_source_id": row.get("معرّف المصدر") or "",
             "source_name": wrapper.get("source_name") or "",
             "sensitive": bool(wrapper.get("is_sensitive")) or row.get("محتوى صادم") == "نعم",
             "sizes": all_sizes,

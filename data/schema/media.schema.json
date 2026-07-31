@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://carsspacee88-crypto.github.io/syrian-archive-airwars/data/schema/media.schema.json",
+  "title": "First-100 pilot media placeholder",
+  "type": "object",
+  "required": [
+    "schema_version", "media_id", "incident_ids", "media_type", "original_url",
+    "archived_urls", "sensitivity_flag", "preservation_status", "local_path",
+    "sha256", "pending_action", "provenance"
+  ],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "media_id": {"type": "string", "pattern": "^media-[0-9a-f]{24}$"},
+    "incident_ids": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"type": "string", "pattern": "^airwars-[0-9]+$"}},
+    "source_id": {"type": ["string", "null"]},
+    "original_url": {"type": "string"},
+    "archived_urls": {"type": "array", "items": {"type": "string"}},
+    "sensitivity_flag": {"type": "boolean"},
+    "preservation_status": {"enum": ["pending_download", "pending_review", "external_only", "unavailable", "deleted", "blocked", "login_required", "unknown"]},
+    "local_path": {"type": "null"},
+    "sha256": {"type": "null"},
+    "pending_action": {"type": "string"}
+  },
+  "additionalProperties": true
+}
