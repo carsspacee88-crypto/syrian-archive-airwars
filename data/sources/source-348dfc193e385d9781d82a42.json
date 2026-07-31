@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "301856"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-syria128sy-1932887358719852657-2025-06-11-194712/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.291,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:28:36+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 85984,
+      "content_hash": "7553222cc9694c63a668dad02a0b6686e10415870981b966cec37ff2f66fe223",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.291,
+      "error": null,
+      "final_url": "https://x.com/syria128sy/status/1932887358719852657",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:28:36+00:00",
+      "status": 200,
+      "url": "https://x.com/syria128sy/status/1932887358719852657",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "https://x.com/syria128sy",
+  "captions": [],
+  "content_hash": "2619803c7c4fd7b780ecb8aa7adcea2ee4a54bc28c94ccfa0445c55a9475daa2",
+  "content_variants": [
+    {
+      "bytes": 649,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:28:36+00:00",
+      "sha256": "2619803c7c4fd7b780ecb8aa7adcea2ee4a54bc28c94ccfa0445c55a9475daa2",
+      "source_url": "https://x.com/syria128sy/status/1932887358719852657",
+      "text": "Post\n\nPost\n\nسوريا 12.8@syria128sy#ريف_ديرالزور\n\n• طائرات مروحية أميركية نفذت فجر اليوم إنزالا جويا على موقع في جبل البشري غربي #دير_الزور.\n• القوات الأميركية فتشت المكان بدقة وصادرت محتويات مجهولة من الموقع المستهدف.\n• القوات الأميركية فجرت الموقع بعد انتهاء عمليات التفتيش.\n• الموقع المستهدف كان مسجدا حولته الميليشيات الإيرانية إلى نقطة عسكرية لها.7:47 PM · Jun 11, 202581Views4"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/syria128sy/status/1932887358719852657",
+  "incident_ids": [
+    "airwars-381558"
+  ],
+  "incident_sequences": [
+    64
+  ],
+  "normalized_url": "https://x.com/syria128sy/status/1932887358719852657",
+  "observed_original_urls": [
+    "https://x.com/syria128sy/status/1932887358719852657"
+  ],
+  "original_url": "https://x.com/syria128sy/status/1932887358719852657",
+  "page_title": "سوريا 12.8 on X: \"#ريف_ديرالزور\n\n• طائرات مروحية أميركية نفذت فجر اليوم إنزالا جويا على موقع في جبل البشري غربي #دير_الزور.\n• القوات الأميركية فتشت المكان بدقة وصادرت محتويات مجهولة من الموقع المستهدف.\n• القوات الأميركية فجرت الموقع بعد انتهاء عمليات التفتيش.\n• الموقع المستهدف كان مسجدا حولته الميليشيات الإيرانية إلى نقطة عسكرية لها.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0144-june-11-2025/",
+      "airwars_source_id": "301856",
+      "incident_id": "airwars-381558",
+      "incident_sequence": 64,
+      "observed_original_url": "https://x.com/syria128sy/status/1932887358719852657",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-06-11T19:47:12.000Z",
+  "publisher": "syria128sy",
+  "publisher_ar": "syria128sy",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:28:36+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-348dfc193e385d9781d82a42",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/syria128sy/status/1932887358719852657",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nسوريا 12.8@syria128sy#ريف_ديرالزور\n\n• طائرات مروحية أميركية نفذت فجر اليوم إنزالا جويا على موقع في جبل البشري غربي #دير_الزور.\n• القوات الأميركية فتشت المكان بدقة وصادرت محتويات مجهولة من الموقع المستهدف.\n• القوات الأميركية فجرت الموقع بعد انتهاء عمليات التفتيش.\n• الموقع المستهدف كان مسجدا حولته الميليشيات الإيرانية إلى نقطة عسكرية لها.7:47 PM · Jun 11, 202581Views4",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001644
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

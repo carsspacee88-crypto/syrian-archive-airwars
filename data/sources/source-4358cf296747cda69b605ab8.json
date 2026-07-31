@@ -1,0 +1,119 @@
+{
+  "airwars_source_ids": [
+    "181178"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-2025-06-11-135206/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "live_source",
+          "host": "syriahr.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://www.syriahr.com/خلال-عملية-إنزال-جوي-التحالف-الدولي-ي/765245/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:31:38+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/خلال-عملية-إنزال-جوي-التحالف-الدولي-ي/765245/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/www-syriahr-com-2025-06-11-135206/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:31:38+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/www-syriahr-com-2025-06-11-135206/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_role": "wayback_lookup",
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "ok": false,
+      "retrieved_at": "2026-07-31T18:31:38+00:00"
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "host_circuit_open_after_repeated_block_or_timeout",
+  "final_redirected_url": "https://www.syriahr.com/خلال-عملية-إنزال-جوي-التحالف-الدولي-ي/765245/",
+  "incident_ids": [
+    "airwars-381558"
+  ],
+  "incident_sequences": [
+    64
+  ],
+  "normalized_url": "https://www.syriahr.com/خلال-عملية-إنزال-جوي-التحالف-الدولي-ي/765245/",
+  "observed_original_urls": [
+    "https://www.syriahr.com/خلال-عملية-إنزال-جوي-التحالف-الدولي-ي/765245/"
+  ],
+  "original_url": "https://www.syriahr.com/خلال-عملية-إنزال-جوي-التحالف-الدولي-ي/765245/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0144-june-11-2025/",
+      "airwars_source_id": "181178",
+      "incident_id": "airwars-381558",
+      "incident_sequence": 64,
+      "observed_original_url": "https://www.syriahr.com/خلال-عملية-إنزال-جوي-التحالف-الدولي-ي/765245/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "11 يونيو 2025",
+  "publisher": "syriahr.com",
+  "publisher_ar": "syriahr.com",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:31:38+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-4358cf296747cda69b605ab8",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.syriahr.com/خلال-عملية-إنزال-جوي-التحالف-الدولي-ي/765245/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "209061"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-albadia24-1900165937090670627-2025-03-13-124357/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.299,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:31:22+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 82430,
+      "content_hash": "1a4ab3a011e6752d2c07aff8541888d312472bf76babfade0babe2baf5d2d2f9",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.299,
+      "error": null,
+      "final_url": "https://x.com/ALBADIA24/status/1900165937090670627",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:31:22+00:00",
+      "status": 200,
+      "url": "https://x.com/ALBADIA24/status/1900165937090670627",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "https://x.com/ALBADIA24",
+  "captions": [],
+  "content_hash": "2a2285b2a35e75f8dd0bb544ff679405047370497c7b8c84cf2258f6f4a4badc",
+  "content_variants": [
+    {
+      "bytes": 488,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:31:22+00:00",
+      "sha256": "2a2285b2a35e75f8dd0bb544ff679405047370497c7b8c84cf2258f6f4a4badc",
+      "source_url": "https://x.com/ALBADIA24/status/1900165937090670627",
+      "text": "Post\n\nPost\n\nالبادية 24@ALBADIA24#البادية_24\n\n📌 سـ.ـقوط 6 جرحى جراء غارة للطيران الاسرائيـ.ـلي استهدفت منطقة التراسات في مشروع دمر بدمشق\n\n📌 إذاعة الجيش الاسرئيـ.ـلي: شنت طائرات إسرائيلـ.ـية هجـ.ـوم على مقر حركة الجـ.ـهاد الاسـ.ـلامي في العاصمة السورية دمشق\n#ALBADIA_2412:43 PM · Mar 13, 2025825Views11"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/ALBADIA24/status/1900165937090670627",
+  "incident_ids": [
+    "airwars-276022"
+  ],
+  "incident_sequences": [
+    87
+  ],
+  "normalized_url": "https://x.com/ALBADIA24/status/1900165937090670627",
+  "observed_original_urls": [
+    "https://x.com/ALBADIA24/status/1900165937090670627"
+  ],
+  "original_url": "https://x.com/ALBADIA24/status/1900165937090670627",
+  "page_title": "البادية 24 on X: \"#البادية_24\n\n📌 سـ.ـقوط 6 جرحى جراء غارة للطيران الاسرائيـ.ـلي استهدفت منطقة التراسات في مشروع دمر بدمشق\n\n📌 إذاعة الجيش الاسرئيـ.ـلي: شنت طائرات إسرائيلـ.ـية هجـ.ـوم على مقر حركة الجـ.ـهاد الاسـ.ـلامي في العاصمة السورية دمشق\n#ALBADIA_24 https://t.co/TA37yxWDS9\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy073-march-13-2025/",
+      "airwars_source_id": "209061",
+      "incident_id": "airwars-276022",
+      "incident_sequence": 87,
+      "observed_original_url": "https://x.com/ALBADIA24/status/1900165937090670627",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-03-13T12:43:57.000Z",
+  "publisher": "ALBADIA24",
+  "publisher_ar": "ALBADIA24",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:31:22+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-402743e5c81a5549e56a4f8a",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/ALBADIA24/status/1900165937090670627",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالبادية 24@ALBADIA24#البادية_24\n\n📌 سـ.ـقوط 6 جرحى جراء غارة للطيران الاسرائيـ.ـلي استهدفت منطقة التراسات في مشروع دمر بدمشق\n\n📌 إذاعة الجيش الاسرئيـ.ـلي: شنت طائرات إسرائيلـ.ـية هجـ.ـوم على مقر حركة الجـ.ـهاد الاسـ.ـلامي في العاصمة السورية دمشق\n#ALBADIA_2412:43 PM · Mar 13, 2025825Views11",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001945
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

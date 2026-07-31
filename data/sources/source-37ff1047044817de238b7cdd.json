@@ -1,0 +1,140 @@
+{
+  "airwars_source_ids": [
+    "308514"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-user1-2025-03-24-153453/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "live_source",
+          "host": "syriahr.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://www.syriahr.com/مسيرة-تركية-تسـ-ـتـ-ـهدف-دراجة-نارية-وت/754296/?fbclid=IwY2xjawJPkdBleHRuA2FlbQIxMQABHdEkvwPOJmJewUFWodRC1M8YAKkLrpDoUTJqulCy9j_c8_",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:29:40+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/مسيرة-تركية-تسـ-ـتـ-ـهدف-دراجة-نارية-وت/754296/?fbclid=IwY2xjawJPkdBleHRuA2FlbQIxMQABHdEkvwPOJmJewUFWodRC1M8YAKkLrpDoUTJqulCy9j_c8_",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/www-syriahr-com-user1-2025-03-24-153453/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:29:40+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/www-syriahr-com-user1-2025-03-24-153453/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.154,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:29:51+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.154,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%B3%D9%80-%D9%80%D8%AA%D9%80-%D9%80%D9%87%D8%AF%D9%81-%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9-%D9%86%D8%A7%D8%B1%D9%8A%D8%A9-%D9%88%D8%AA%2F754296%2F%3Ffbclid%3DIwY2xjawJPkdBleHRuA2FlbQIxMQABHdEkvwPOJmJewUFWodRC1M8YAKkLrpDoUTJqulCy9j_c8_&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:29:51+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%B3%D9%80-%D9%80%D8%AA%D9%80-%D9%80%D9%87%D8%AF%D9%81-%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9-%D9%86%D8%A7%D8%B1%D9%8A%D8%A9-%D9%88%D8%AA%2F754296%2F%3Ffbclid%3DIwY2xjawJPkdBleHRuA2FlbQIxMQABHdEkvwPOJmJewUFWodRC1M8YAKkLrpDoUTJqulCy9j_c8_&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "user1",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "host_circuit_open_after_repeated_block_or_timeout",
+  "final_redirected_url": "https://www.syriahr.com/مسيرة-تركية-تسـ-ـتـ-ـهدف-دراجة-نارية-وت/754296/?fbclid=IwY2xjawJPkdBleHRuA2FlbQIxMQABHdEkvwPOJmJewUFWodRC1M8YAKkLrpDoUTJqulCy9j_c8_",
+  "incident_ids": [
+    "airwars-302785"
+  ],
+  "incident_sequences": [
+    81
+  ],
+  "normalized_url": "https://www.syriahr.com/مسيرة-تركية-تسـ-ـتـ-ـهدف-دراجة-نارية-وت/754296/?fbclid=IwY2xjawJPkdBleHRuA2FlbQIxMQABHdEkvwPOJmJewUFWodRC1M8YAKkLrpDoUTJqulCy9j_c8_",
+  "observed_original_urls": [
+    "https://www.syriahr.com/مسيرة-تركية-تسـ-ـتـ-ـهدف-دراجة-نارية-وت/754296/?fbclid=IwY2xjawJPkdBleHRuA2FlbQIxMQABHdEkvwPOJmJewUFWodRC1M8YAKkLrpDoUTJqulCy9j_c8_"
+  ],
+  "original_url": "https://www.syriahr.com/مسيرة-تركية-تسـ-ـتـ-ـهدف-دراجة-نارية-وت/754296/?fbclid=IwY2xjawJPkdBleHRuA2FlbQIxMQABHdEkvwPOJmJewUFWodRC1M8YAKkLrpDoUTJqulCy9j_c8_",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts797-march-24-2025/",
+      "airwars_source_id": "308514",
+      "incident_id": "airwars-302785",
+      "incident_sequence": 81,
+      "observed_original_url": "https://www.syriahr.com/مسيرة-تركية-تسـ-ـتـ-ـهدف-دراجة-نارية-وت/754296/?fbclid=IwY2xjawJPkdBleHRuA2FlbQIxMQABHdEkvwPOJmJewUFWodRC1M8YAKkLrpDoUTJqulCy9j_c8_",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "24 مارس 2025",
+  "publisher": "user1",
+  "publisher_ar": "user1",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:29:40+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-37ff1047044817de238b7cdd",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.syriahr.com/مسيرة-تركية-تسـ-ـتـ-ـهدف-دراجة-نارية-وت/754296/?fbclid=IwY2xjawJPkdBleHRuA2FlbQIxMQABHdEkvwPOJmJewUFWodRC1M8YAKkLrpDoUTJqulCy9j_c8_",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

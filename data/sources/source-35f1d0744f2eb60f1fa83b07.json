@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "376817"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-ajsyrianown-2004073386293723398-2025-12-25-061503/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.243,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:29:13+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 84825,
+      "content_hash": "3b03b7554a689c55f6b62d79571dc43f623b61d1a438e4a676b7b3d060500de6",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.243,
+      "error": null,
+      "final_url": "https://x.com/AJSyriaNowN/status/2004073386293723398",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:29:13+00:00",
+      "status": 200,
+      "url": "https://x.com/AJSyriaNowN/status/2004073386293723398",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "https://x.com/AJSyriaNowN",
+  "captions": [],
+  "content_hash": "6d1d0285ebf71a1ffe67d3fb23f1c2d013c8cab382b2d2042c0284abda216e4d",
+  "content_variants": [
+    {
+      "bytes": 429,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:29:13+00:00",
+      "sha256": "6d1d0285ebf71a1ffe67d3fb23f1c2d013c8cab382b2d2042c0284abda216e4d",
+      "source_url": "https://x.com/AJSyriaNowN/status/2004073386293723398",
+      "text": "Post\n\nPost\n\nسوريا الآن - أخبار@AJSyriaNowNمصادر محلية لسوريا الآن:\n\nقسد نفّذت عملية أمنية ليلاً في قرية الشاهر شرقي الرقة بتغطية من قوات التحالف الدولي أسفرت عن اعتقال ثلاثة أشخاص، عُرف منهم عبد الجبار السوادي وعبد الله السوادي6:15 AM · Dec 25, 20253.3KViews2401"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AJSyriaNowN/status/2004073386293723398",
+  "incident_ids": [
+    "airwars-387047"
+  ],
+  "incident_sequences": [
+    9
+  ],
+  "normalized_url": "https://x.com/AJSyriaNowN/status/2004073386293723398",
+  "observed_original_urls": [
+    "https://x.com/AJSyriaNowN/status/2004073386293723398"
+  ],
+  "original_url": "https://x.com/AJSyriaNowN/status/2004073386293723398",
+  "page_title": "سوريا الآن - أخبار on X: \"مصادر محلية لسوريا الآن:\n\nقسد نفّذت عملية أمنية ليلاً في قرية الشاهر شرقي الرقة بتغطية من قوات التحالف الدولي أسفرت عن اعتقال ثلاثة أشخاص، عُرف منهم عبد الجبار السوادي وعبد الله السوادي https://t.co/5gW30MW4V1\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0173-december-25-2025/",
+      "airwars_source_id": "376817",
+      "incident_id": "airwars-387047",
+      "incident_sequence": 9,
+      "observed_original_url": "https://x.com/AJSyriaNowN/status/2004073386293723398",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-25T06:15:03.000Z",
+  "publisher": "AJSyriaNowN",
+  "publisher_ar": "AJSyriaNowN",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:29:13+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-35f1d0744f2eb60f1fa83b07",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AJSyriaNowN/status/2004073386293723398",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nسوريا الآن - أخبار@AJSyriaNowNمصادر محلية لسوريا الآن:\n\nقسد نفّذت عملية أمنية ليلاً في قرية الشاهر شرقي الرقة بتغطية من قوات التحالف الدولي أسفرت عن اعتقال ثلاثة أشخاص، عُرف منهم عبد الجبار السوادي وعبد الله السوادي6:15 AM · Dec 25, 20253.3KViews2401",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001628
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

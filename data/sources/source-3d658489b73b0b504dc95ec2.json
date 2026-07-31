@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "298874"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-abdulaziz_606-1902849202507354578-2025-03-20-222617/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.316,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:31:03+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 86151,
+      "content_hash": "3cbc38121248a517de47740a029a26ac84035a676a9bd5be0cb12b09c17cd226",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.316,
+      "error": null,
+      "final_url": "https://x.com/abdulaziz_606/status/1902849202507354578",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:31:03+00:00",
+      "status": 200,
+      "url": "https://x.com/abdulaziz_606/status/1902849202507354578",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "https://x.com/abdulaziz_606",
+  "captions": [],
+  "content_hash": "90b20acb8593fc295419cae11f8082acbce7b5ddb35065d9a8ead2ee459415ed",
+  "content_variants": [
+    {
+      "bytes": 318,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:31:03+00:00",
+      "sha256": "90b20acb8593fc295419cae11f8082acbce7b5ddb35065d9a8ead2ee459415ed",
+      "source_url": "https://x.com/abdulaziz_606/status/1902849202507354578",
+      "text": "Post\n\nPost\n\nThis Post was deleted by the Post author. Learn more\n\nعبدالعزيز الابراهيم@abdulaziz_606#الرقة\nميليشيات قسد تعتقل رأفت رحمون وتدعي انه أمير في تنظـيم الدولة بمدينة #الطبقة غرب الرقة10:26 PM · Mar 20, 2025103Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/abdulaziz_606/status/1902849202507354578",
+  "incident_ids": [
+    "airwars-379488"
+  ],
+  "incident_sequences": [
+    83
+  ],
+  "normalized_url": "https://x.com/abdulaziz_606/status/1902849202507354578",
+  "observed_original_urls": [
+    "https://x.com/abdulaziz_606/status/1902849202507354578"
+  ],
+  "original_url": "https://x.com/abdulaziz_606/status/1902849202507354578",
+  "page_title": "عبدالعزيز الابراهيم on X: \"@Rahmon83 #الرقة\nميليشيات قسد تعتقل رأفت رحمون وتدعي انه أمير في تنظـيم الدولة بمدينة #الطبقة غرب الرقة https://t.co/v8jMjKCudM\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0137-march-20-2025/",
+      "airwars_source_id": "298874",
+      "incident_id": "airwars-379488",
+      "incident_sequence": 83,
+      "observed_original_url": "https://x.com/abdulaziz_606/status/1902849202507354578",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-03-20T22:26:17.000Z",
+  "publisher": "abdulaziz_606",
+  "publisher_ar": "abdulaziz_606",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:31:03+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-3d658489b73b0b504dc95ec2",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/abdulaziz_606/status/1902849202507354578",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nThis Post was deleted by the Post author. Learn more\n\nعبدالعزيز الابراهيم@abdulaziz_606#الرقة\nميليشيات قسد تعتقل رأفت رحمون وتدعي انه أمير في تنظـيم الدولة بمدينة #الطبقة غرب الرقة10:26 PM · Mar 20, 2025103Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001595
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

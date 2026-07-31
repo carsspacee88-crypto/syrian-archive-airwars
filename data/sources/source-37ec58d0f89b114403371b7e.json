@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "338522"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/t-me-idfofficial-16066-2025-11-28-052042/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.502,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:29:39+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 15614,
+      "content_hash": "caee55f08ed4e930065a810ef099f4e84bbeedf6904c4e8641d708379ce62151",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.502,
+      "error": null,
+      "final_url": "https://t.me/idfofficial/16066?embed=1&mode=tme",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:29:39+00:00",
+      "status": 200,
+      "url": "https://t.me/idfofficial/16066?embed=1&mode=tme",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "idfofficial",
+  "captions": [],
+  "content_hash": "170341c447d4a20b4a81604a2a51cd07162e55e7761c2b3ff0da2f8dcf935995",
+  "content_variants": [
+    {
+      "bytes": 1196,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:29:39+00:00",
+      "sha256": "170341c447d4a20b4a81604a2a51cd07162e55e7761c2b3ff0da2f8dcf935995",
+      "source_url": "https://t.me/idfofficial/16066?embed=1&mode=tme",
+      "text": "Telegram Widget\n\nIsrael Defense Forces ✔\n\nIDF: Overnight (Friday), following intelligence information gathered in the past several weeks, IDF troops of the 55th Reserve Brigade under the command of the 210th Division, went on an operation to apprehend suspects from the Jaama Islamiya terrorist organization. The suspects operated in the area of Beit Jinn in southern Syria and advanced terror attacks against Israeli civilians. During the activity, several armed terrorists opened fire at the troops, who responded with fire toward the terrorists, along with aerial assistance to the troops. As a result of the incident, two reserve officers and a reservist were severely injured, a reservist was moderately injured, and a reserve officer and a reservist were lightly injured. The soldiers were evacuated to the hospital to receive medical treatment, and their families have been notified. The operation has concluded, all of the suspects were apprehended, and a number of terrorists were eliminated. IDF troops remain deployed in the area and will continue to operate against any threat posed to the State of Israel and its civilians.\n\nt.me/idfofficial/16066\n\n12.3K viewsNov 28, 2025 at 05:20"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://t.me/idfofficial/16066?embed=1&mode=tme",
+  "incident_ids": [
+    "airwars-318800"
+  ],
+  "incident_sequences": [
+    24
+  ],
+  "normalized_url": "https://t.me/idfofficial/16066?embed=1&mode=tme",
+  "observed_original_urls": [
+    "https://t.me/idfofficial/16066?embed=1&mode=tme"
+  ],
+  "original_url": "https://t.me/idfofficial/16066?embed=1&mode=tme",
+  "page_title": "Telegram Widget",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy087-november-28-2025/",
+      "airwars_source_id": "338522",
+      "incident_id": "airwars-318800",
+      "incident_sequence": 24,
+      "observed_original_url": "https://t.me/idfofficial/16066?embed=1&mode=tme",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-11-28T05:20:42+00:00",
+  "publisher": "idfofficial",
+  "publisher_ar": "idfofficial",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:29:39+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-37ec58d0f89b114403371b7e",
+  "source_type": "public_telegram_post",
+  "stable_id_basis": "https://t.me/idfofficial/16066?embed=1&mode=tme",
+  "text_ar": "",
+  "text_original": "Telegram Widget\n\nIsrael Defense Forces ✔\n\nIDF: Overnight (Friday), following intelligence information gathered in the past several weeks, IDF troops of the 55th Reserve Brigade under the command of the 210th Division, went on an operation to apprehend suspects from the Jaama Islamiya terrorist organization. The suspects operated in the area of Beit Jinn in southern Syria and advanced terror attacks against Israeli civilians. During the activity, several armed terrorists opened fire at the troops, who responded with fire toward the terrorists, along with aerial assistance to the troops. As a result of the incident, two reserve officers and a reservist were severely injured, a reservist was moderately injured, and a reserve officer and a reservist were lightly injured. The soldiers were evacuated to the hospital to receive medical treatment, and their families have been notified. The operation has concluded, all of the suspects were apprehended, and a number of terrorists were eliminated. IDF troops remain deployed in the area and will continue to operate against any threat posed to the State of Israel and its civilians.\n\nt.me/idfofficial/16066\n\n12.3K viewsNov 28, 2025 at 05:20",
+  "text_original_language": "en",
+  "timing": {
+    "text_extraction_seconds": 0.000599
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

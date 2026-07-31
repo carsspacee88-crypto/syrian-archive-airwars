@@ -1,0 +1,144 @@
+{
+  "airwars_source_ids": [
+    "426925"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-aljazeera-net-%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d9%86%d8%aa-2026-02-28-141652/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.019,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 20-24: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:28:05+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.019,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 20-24: ordinal not in range(128)",
+      "final_url": "https://www.aljazeera.net/news/2026/2/28/سوريا-4-قتلى-بالسويداء-إثر-الضربات",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:28:05+00:00",
+      "status": null,
+      "url": "https://www.aljazeera.net/news/2026/2/28/سوريا-4-قتلى-بالسويداء-إثر-الضربات",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.031,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:28:06+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1800,
+      "content_hash": "fa12582ddeec6f7898f34e77c60f1a4c230d5823439f5fc1b86989e22c0ae9ca",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.031,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-aljazeera-net-%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d9%86%d8%aa-2026-02-28-141652/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:28:06+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-aljazeera-net-%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d9%86%d8%aa-2026-02-28-141652/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.107,
+          "error": "URLError: <urlopen error timed out>",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:28:17+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.107,
+      "error": "URLError: <urlopen error timed out>",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.aljazeera.net%2Fnews%2F2026%2F2%2F28%2F%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-4-%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D8%A5%D8%AB%D8%B1-%D8%A7%D9%84%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:28:17+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.aljazeera.net%2Fnews%2F2026%2F2%2F28%2F%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-4-%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D8%A5%D8%AB%D8%B1-%D8%A7%D9%84%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "الجزيرة نت",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 20-24: ordinal not in range(128)",
+  "final_redirected_url": "https://www.aljazeera.net/news/2026/2/28/سوريا-4-قتلى-بالسويداء-إثر-الضربات",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://www.aljazeera.net/news/2026/2/28/سوريا-4-قتلى-بالسويداء-إثر-الضربات",
+  "observed_original_urls": [
+    "https://www.aljazeera.net/news/2026/2/28/سوريا-4-قتلى-بالسويداء-إثر-الضربات"
+  ],
+  "original_url": "https://www.aljazeera.net/news/2026/2/28/سوريا-4-قتلى-بالسويداء-إثر-الضربات",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "426925",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://www.aljazeera.net/news/2026/2/28/سوريا-4-قتلى-بالسويداء-إثر-الضربات",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "28 فبراير 2026",
+  "publisher": "Al Jazeera Net",
+  "publisher_ar": "الجزيرة نت",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:28:05+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-32e7111fb89c26b029feb619",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.aljazeera.net/news/2026/2/28/سوريا-4-قتلى-بالسويداء-إثر-الضربات",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

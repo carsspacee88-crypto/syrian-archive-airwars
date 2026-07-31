@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "297546"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%b2%d9%8a%d8%a7%d8%af-%d8%a7%d8%a8%d9%86-%d8%b4%d9%85%d8%b1-%d8%a7%d9%84%d8%b2%d9%88%d8%a8%d8%b9%d9%8a-2025-10-24-101900/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 4.08,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:28:54+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 961058,
+      "content_hash": "7cc52166f7aa06b042960a9f4bc201494609427bccfe1acbe6961abd0a97ff7f",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 4.08,
+      "error": null,
+      "final_url": "https://www.facebook.com/zyad.abn.shmr.alzwb.y/videos/1360235149033092/",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:28:54+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?ref=saved&v=1360235149033092",
+      "waiting_seconds": 0.745
+    }
+  ],
+  "author": "زياد ابن شمر الزوبعي",
+  "captions": [],
+  "content_hash": "6765741697b11960b7d89639543d47f573d7fcbdd8a5cb1edeaf00a94db60c70",
+  "content_variants": [
+    {
+      "bytes": 378,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:28:54+00:00",
+      "sha256": "6765741697b11960b7d89639543d47f573d7fcbdd8a5cb1edeaf00a94db60c70",
+      "source_url": "https://www.facebook.com/zyad.abn.shmr.alzwb.y/videos/1360235149033092/",
+      "text": "شهيد زوبع في الجزيرة سوريا محمود هليل الشاهر الزوبعي هو وابنه علاء بعد ما دافع عن بيته وأهله ضد ميليشا قسد الكرديه التي استعانت بالطيران الأمريكي لمهاجمة قرية زوبع وقصفها رحمة الله عليه | زياد ابن شمر الزوبعي"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/zyad.abn.shmr.alzwb.y/videos/1360235149033092/",
+  "incident_ids": [
+    "airwars-297455"
+  ],
+  "incident_sequences": [
+    32
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?ref=saved&v=1360235149033092",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?ref=saved&v=1360235149033092"
+  ],
+  "original_url": "https://www.facebook.com/watch/?ref=saved&v=1360235149033092",
+  "page_title": "شهيد زوبع في الجزيرة سوريا محمود هليل الشاهر الزوبعي هو وابنه علاء بعد ما دافع عن بيته وأهله ضد ميليشا قسد الكرديه التي استعانت بالطيران الأمريكي لمهاجمة قرية زوبع وقصفها رحمة الله عليه | زياد ابن شمر الزوبعي",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2015-october-23-2025/",
+      "airwars_source_id": "297546",
+      "incident_id": "airwars-297455",
+      "incident_sequence": 32,
+      "observed_original_url": "https://www.facebook.com/watch/?ref=saved&v=1360235149033092",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "24 أكتوبر 2025",
+  "publisher": "Ziyad ibn Shammar al-Zuba'i",
+  "publisher_ar": "زياد ابن شمر الزوبعي",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:28:54+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-34c3185e1d3907344b6489a7",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?ref=saved&v=1360235149033092",
+  "text_ar": "",
+  "text_original": "شهيد زوبع في الجزيرة سوريا محمود هليل الشاهر الزوبعي هو وابنه علاء بعد ما دافع عن بيته وأهله ضد ميليشا قسد الكرديه التي استعانت بالطيران الأمريكي لمهاجمة قرية زوبع وقصفها رحمة الله عليه | زياد ابن شمر الزوبعي",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003532
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,178 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/MYLKM"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-11: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:29:14+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-11: ordinal not in range(128)",
+      "final_url": "https://www.syriahr.com/الطيران-الإسرائيلي-يشن-سلسلة-غارات-عل/751023/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:29:14+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/الطيران-الإسرائيلي-يشن-سلسلة-غارات-عل/751023/",
+      "waiting_seconds": 0.743
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.817,
+          "error": "http_429",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:29:16+00:00",
+          "status": 429
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 55507,
+      "content_hash": "5be976a8e1fe15fa28ebe55d28c68d942ccbfa0d4a960e74b162da8d429c27db",
+      "content_type": "text/html",
+      "elapsed_seconds": 0.817,
+      "error": "http_429",
+      "final_url": "https://archive.is/MYLKM",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:29:16+00:00",
+      "status": 429,
+      "url": "https://archive.is/MYLKM",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 4.858,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:29:21+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 365,
+      "content_hash": "38f12c5728380fed1a34bc9d081d70eaaec08451a818f2f0fa74cc793729ab46",
+      "content_type": "application/json",
+      "elapsed_seconds": 4.858,
+      "error": null,
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B4%D9%86-%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D9%84%2F751023%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "lookup_result": "capture_found",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:29:21+00:00",
+      "status": 200,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B4%D9%86-%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D9%84%2F751023%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 51-57: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:29:22+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_capture",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "capture": {
+        "cdx_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B4%D9%86-%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D9%84%2F751023%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+        "digest": "RVJPI2GVPGHLNGVKEH6Y7FOJTXGLJWE4",
+        "mimetype": "text/html",
+        "original": "https://www.syriahr.com/%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a-%d9%8a%d8%b4%d9%86-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d8%ba%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b9%d9%84/751023/",
+        "replay_url": "https://web.archive.org/web/20251007110346id_/https://www.syriahr.com/الطيران-الإسرائيلي-يشن-سلسلة-غارات-عل/751023/",
+        "statuscode": "200",
+        "timestamp": "20251007110346"
+      },
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 51-57: ordinal not in range(128)",
+      "final_url": "https://web.archive.org/web/20251007110346id_/https://www.syriahr.com/الطيران-الإسرائيلي-يشن-سلسلة-غارات-عل/751023/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:29:22+00:00",
+      "status": null,
+      "url": "https://web.archive.org/web/20251007110346id_/https://www.syriahr.com/الطيران-الإسرائيلي-يشن-سلسلة-غارات-عل/751023/",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "SOHR news",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-11: ordinal not in range(128)",
+  "final_redirected_url": "https://www.syriahr.com/الطيران-الإسرائيلي-يشن-سلسلة-غارات-عل/751023/",
+  "incident_ids": [
+    "airwars-276020"
+  ],
+  "incident_sequences": [
+    97
+  ],
+  "normalized_url": "https://www.syriahr.com/الطيران-الإسرائيلي-يشن-سلسلة-غارات-عل/751023/",
+  "observed_original_urls": [
+    "https://www.syriahr.com/الطيران-الإسرائيلي-يشن-سلسلة-غارات-عل/751023/"
+  ],
+  "original_url": "https://www.syriahr.com/الطيران-الإسرائيلي-يشن-سلسلة-غارات-عل/751023/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy072-february-25-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-276020",
+      "incident_sequence": 97,
+      "observed_original_url": "https://www.syriahr.com/الطيران-الإسرائيلي-يشن-سلسلة-غارات-عل/751023/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "SOHR news",
+  "publisher_ar": "SOHR news",
+  "retrieval_status": "unavailable",
+  "retrieved_at": "2026-07-31T18:29:14+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-36551f56686abb6b4c398c66",
+  "source_type": "news_article",
+  "stable_id_basis": "https://www.syriahr.com/الطيران-الإسرائيلي-يشن-سلسلة-غارات-عل/751023/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
