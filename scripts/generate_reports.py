@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 import argparse
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from archive_pipeline.reports import generate_collection_summary, generate_map_coverage
 
