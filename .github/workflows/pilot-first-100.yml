@@ -19,14 +19,11 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  collect-translate-build-validate:
+  collect-build-validate:
     runs-on: ubuntu-latest
     timeout-minutes: 350
     env:
-      DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      OPENAI_TRANSLATION_MODEL: gpt-5.6-sol
-      TRANSLATION_PROVIDER: auto
+      TRANSLATION_PROVIDER: disabled
       PYTHONUNBUFFERED: "1"
     steps:
       - name: جلب فرع الطيار
@@ -41,15 +38,11 @@ jobs:
           python-version: "3.12"
           cache: pip
 
-      - name: تثبيت الأدوات والتحقق من وجود مزود ترجمة
+      - name: تثبيت الأدوات
         shell: bash
         run: |
           set -euo pipefail
           python -m pip install -r requirements.txt
-          if [ -z "${DEEPL_API_KEY:-}" ] && [ -z "${OPENAI_API_KEY:-}" ]; then
-            echo "DEEPL_API_KEY or OPENAI_API_KEY is required" >&2
-            exit 1
-          fi
 
       - name: اختبارات الوحدة
         run: python -m unittest discover -s tests -v
@@ -60,13 +53,6 @@ jobs:
           set -euo pipefail
           cat site-package/part-* > /tmp/syrian-archive-site.zip
           echo "9f35a90d92f9fb0334cb61ffd8434aac03fd0ee61622908a11923dac40da35f3  /tmp/syrian-archive-site.zip" | sha256sum --check
-
-      - name: اختبار مزود الترجمة فعليًا قبل الجمع
-        run: |
-          python scripts/run_first_100_pilot.py \
-            --legacy-zip /tmp/syrian-archive-site.zip \
-            --output-root . \
-            --stage preflight
 
       - name: إنشاء manifest وحفظه
         shell: bash
@@ -142,7 +128,7 @@ jobs:
             git push origin HEAD:pilot/first-100-complete-content
           fi
 
-      - name: ترجمة النصوص في دفعات قابلة للاستئناف
+      - name: تسجيل إلغاء الترجمة مع حفظ النصوص الأصلية
         shell: bash
         run: |
           set -euo pipefail
@@ -151,11 +137,11 @@ jobs:
               --legacy-zip /tmp/syrian-archive-site.zip \
               --output-root . \
               --stage translation \
-              --max-items 25
+              --max-items 1000
             git add data
             git diff --cached --check
             if ! git diff --cached --quiet; then
-              git commit -m "data: checkpoint first-100 translation batch"
+              git commit -m "data: checkpoint first-100 no-translation status"
               git push origin HEAD:pilot/first-100-complete-content
             fi
             if python -c 'import json; raise SystemExit(0 if json.load(open("data/pilot/first-100-stage-result.json"))["done"] else 1)'; then

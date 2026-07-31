@@ -280,13 +280,13 @@ class ArabicTranslator:
     def __init__(self, model: str = TRANSLATION_MODEL, timeout: float = 120.0, retries: int = 3):
         self.openai_api_key = os.environ.get("OPENAI_API_KEY", "")
         self.deepl_api_key = os.environ.get("DEEPL_API_KEY", "")
-        requested_provider = os.environ.get("TRANSLATION_PROVIDER", "auto").strip().casefold()
-        if requested_provider not in {"auto", "openai", "deepl"}:
+        requested_provider = os.environ.get("TRANSLATION_PROVIDER", "disabled").strip().casefold()
+        if requested_provider not in {"auto", "openai", "deepl", "disabled"}:
             raise ValueError(f"unsupported_translation_provider:{requested_provider}")
         if requested_provider == "auto":
             requested_provider = "deepl" if self.deepl_api_key else "openai"
         self.provider = requested_provider
-        self.model = "deepl-text-v2" if self.provider == "deepl" else model
+        self.model = "none" if self.provider == "disabled" else ("deepl-text-v2" if self.provider == "deepl" else model)
         self.timeout = timeout
         self.retries = retries
         self.retry_count = 0
@@ -439,11 +439,20 @@ class ArabicTranslator:
         raise RuntimeError(f"translation_failed:{last_error}")
 
     def translate_chunk(self, text: str) -> tuple[str, dict[str, Any]]:
+        if self.provider == "disabled":
+            raise RuntimeError("translation_disabled_by_user")
         if self.provider == "deepl":
             return self._translate_deepl(text)
         return self._translate_openai(text)
 
     def preflight(self) -> dict[str, Any]:
+        if self.provider == "disabled":
+            return {
+                "provider": "none",
+                "model": "none",
+                "result": "disabled_by_user",
+                "checked_at": utc_now(),
+            }
         translated, metadata = self.translate_chunk("This is a translation connectivity test.")
         return {
             "provider": self.provider,
@@ -462,6 +471,22 @@ class ArabicTranslator:
         state_field: str,
         checkpoint: Callable[[], None],
     ) -> None:
+        if self.provider == "disabled":
+            previous = record.get(state_field) or {}
+            preexisting = bool(record.get(arabic_field))
+            record[state_field] = {
+                "status": "disabled_by_user",
+                "version": "disabled-no-translation-v1",
+                "provider": "none",
+                "review_required": False,
+                "generated_in_pilot": False,
+                "preexisting_source_text_preserved": preexisting,
+                "preexisting_version": previous.get("version") if preexisting else None,
+                "reason": "Preserve retrieved text verbatim; no machine translation requested.",
+                "chunks": [],
+            }
+            checkpoint()
+            return
         text = clean_text(record.get(text_field) or "")
         if not text:
             record[arabic_field] = ""
@@ -1094,7 +1119,7 @@ class PilotRunner:
             work.append((f"source:{path.stem}", path, "text_original", "text_ar", "translation"))
         completed = set(self.progress["translation_completed_records"])
         processed = 0
-        terminal = {"complete", "not_required_arabic_original", "complete_existing_airwars_translation", "not_applicable", "incomplete", "failed"}
+        terminal = {"complete", "not_required_arabic_original", "complete_existing_airwars_translation", "not_applicable", "incomplete", "failed", "disabled_by_user"}
         for key, path, text_field, arabic_field, state_field in work:
             if key in completed:
                 continue
@@ -1160,12 +1185,18 @@ class PilotRunner:
         summary = {
             "generated_at": utc_now(),
             "scope": {"first_sequence": 1, "last_sequence": 100, "count": 100, "later_incidents_processed": 0},
+            "translation_policy": {
+                "enabled": False,
+                "status": "disabled_by_user",
+                "generated_translations": 0,
+                "original_text_preserved": True,
+            },
             "incidents": {
                 "attempted": 100,
                 "records": len(incidents),
                 "status_counts": dict(incident_statuses),
                 "full_narratives": sum(bool(item.get("narrative_original")) for item in incidents),
-                "narratives_translated": sum(item.get("translation", {}).get("status") in {"complete", "not_required_arabic_original"} for item in incidents),
+                "narratives_translated": 0,
                 "victim_records": sum(len(item.get("victims") or []) for item in incidents),
                 "conflicting_fields": sum(len(item.get("conflicts") or []) for item in incidents),
                 "legacy_dependent": sum(not bool(item.get("page_extraction") or item.get("api_extraction")) for item in incidents),
@@ -1176,7 +1207,7 @@ class PilotRunner:
                 "unique_records": len(sources),
                 "status_counts": dict(source_statuses),
                 "texts_extracted": sum(bool(item.get("text_original")) for item in sources),
-                "texts_translated": sum(item.get("translation", {}).get("status") in {"complete", "not_required_arabic_original", "complete_existing_airwars_translation"} for item in sources),
+                "texts_translated": 0,
                 "exact_duplicate_content": sum(max(0, len(group) - 1) for group in content_groups.values()),
                 "review_required": sum(bool(item.get("review_flags") or item.get("translation", {}).get("review_required")) for item in sources),
                 "type_counts": dict(Counter(item.get("source_type") for item in sources)),
@@ -1225,6 +1256,7 @@ class PilotRunner:
             f"- المصادر الفريدة: **{len(sources)}**",
             f"- عناصر الوسائط الوصفية: **{len(media)}**",
             f"- ملفات الوسائط الثنائية: **0**",
+            "- الترجمة الآلية: **معطلة بطلب المستخدم؛ النص الأصلي محفوظ دون ترجمة**",
             "",
             "التفاصيل الآلية الكاملة موجودة في ملفات `first-100-*.json` داخل هذا المجلد.",
         ]
@@ -1327,7 +1359,7 @@ class PilotRunner:
         incidents = [load_json(path, {}) for path in (self.root / "data" / "incidents").glob("*.json") if 1 <= int((load_json(path, {}) or {}).get("legacy_sequence") or 0) <= 100]
         relationships = summary.get("sources", {}).get("relationships", 0)
         original_bytes = sum(len((item.get("text_original") or "").encode("utf-8")) for item in sources) + sum(len((item.get("narrative_original") or "").encode("utf-8")) for item in incidents)
-        arabic_bytes = sum(len((item.get("text_ar") or "").encode("utf-8")) for item in sources) + sum(len((item.get("narrative_ar") or "").encode("utf-8")) for item in incidents)
+        arabic_bytes = 0
         json_bytes = sum(path.stat().st_size for folder in ("incidents", "sources", "media", "relationships") for path in (self.root / "data" / folder).glob("*.json"))
         source_count = max(1, len(sources))
         incident_mean = float(timing.get("incident", {}).get("mean_seconds") or 0)
@@ -1380,6 +1412,7 @@ class PilotRunner:
                 "incident_language_distribution": dict(Counter(item.get("narrative_original_language") or "und" for item in incidents)),
                 "original_text_bytes": original_bytes,
                 "arabic_translation_bytes": arabic_bytes,
+                "translation_policy": "disabled_by_user",
             },
             "projections": projections,
         })

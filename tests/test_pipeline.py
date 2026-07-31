@@ -80,6 +80,22 @@ class PilotTests(unittest.TestCase):
         self.assertEqual(translator.provider, "deepl")
         self.assertEqual(translator.model, "deepl-text-v2")
 
+    def test_translation_can_be_disabled_without_api_key(self) -> None:
+        record = {
+            "text_original": "Original archival text.",
+            "text_ar": "",
+            "translation": {"status": "pending", "version": "old", "review_required": False, "chunks": []},
+        }
+        checkpoints: list[bool] = []
+        with patch.dict("os.environ", {"TRANSLATION_PROVIDER": "disabled"}, clear=True):
+            translator = ArabicTranslator()
+            translator.translate_record(record, "text_original", "text_ar", "translation", lambda: checkpoints.append(True))
+        self.assertEqual(record["text_original"], "Original archival text.")
+        self.assertEqual(record["text_ar"], "")
+        self.assertEqual(record["translation"]["status"], "disabled_by_user")
+        self.assertEqual(record["translation"]["provider"], "none")
+        self.assertEqual(checkpoints, [True])
+
 
 if __name__ == "__main__":
     unittest.main()

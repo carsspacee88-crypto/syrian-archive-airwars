@@ -290,7 +290,7 @@ def _pilot_case_html(
     cards = []
     for source_id in source_ids:
         source = source_records.get(source_id, {})
-        preview = (source.get("text_ar") or source.get("text_original") or "")[:360]
+        preview = (source.get("text_original") or "")[:360]
         archive_url = next(iter(source.get("archived_urls") or []), "")
         cards.append(f'''<article class="pilot-source-card">
           <h3>{_e(source.get("publisher_ar") or source.get("publisher") or source_id)}</h3>
@@ -316,7 +316,7 @@ def _pilot_case_html(
       <div class="pilot-heading"><div><p class="eyebrow">طيار المحتوى الكامل · الحالات 0001–0100</p><h2 id="pilot-title">السجل النصي والمنظّم الكامل المتاح</h2></div><span class="pilot-badge">{_e(record.get("completeness_status"))}</span></div>
       <section class="pilot-section"><h2>1. تفاصيل الحادثة</h2><dl class="pilot-fields">{field_html}</dl><p><a href="{_e(record.get('canonical_url'))}" target="_blank" rel="noopener noreferrer">فتح صفحة Airwars القانونية</a></p></section>
       <section class="pilot-section"><h2>2. السرد الكامل الأصلي</h2><div class="preserved-text" dir="auto">{_text_blocks(record.get("narrative_original"))}</div></section>
-      <section class="pilot-section"><h2>3. الترجمة العربية الكاملة</h2><p class="status-line">الحالة: {_e(translation.get("status"))} · الإصدار: <span class="ltr">{_e(translation.get("version"))}</span></p><div class="preserved-text">{_text_blocks(record.get("narrative_ar"), "لم تكتمل الترجمة العربية بعد")}</div></section>
+      <section class="pilot-section"><h2>3. حالة الترجمة</h2><p class="status-line">الحالة: {_e(translation.get("status") or "disabled_by_user")} · الإصدار: <span class="ltr">{_e(translation.get("version") or "disabled-no-translation-v1")}</span></p><p>الترجمة معطلة في هذا الطيار بطلب المستخدم. يُحفظ النص الأصلي المسترجع ويُعرض كما هو في القسم السابق، ولا يُنشأ نص مترجم جديد.</p></section>
       <section class="pilot-section"><h2>4. الضحايا ({len(victims)})</h2><ul class="pilot-victims">{victim_html}</ul></section>
       <section class="pilot-section"><h2>5. المصادر ({len(source_ids)})</h2><div class="pilot-source-grid">{source_html}</div></section>
       <section class="pilot-section"><h2>6. الروابط المؤرشفة</h2><ul class="archive-url-list">{archives}</ul></section>
@@ -355,7 +355,7 @@ def _source_page_html(source: dict[str, Any], media: list[dict[str, Any]]) -> st
 <main id="main-content"><div class="wrap source-page"><p class="eyebrow">سجل مصدر محلي</p><h1>{_e(source.get("publisher_ar") or source.get("publisher") or source_id)}</h1>
 <section class="pilot-section"><h2>بيانات المصدر</h2><dl class="pilot-fields"><div class="pilot-field"><dt>معرّف المصدر</dt><dd>{_e(source_id)}</dd></div><div class="pilot-field"><dt>النوع</dt><dd>{_e(source.get("source_type"))}</dd></div><div class="pilot-field"><dt>العنوان</dt><dd>{_e(source.get("page_title") or "غير متاح")}</dd></div><div class="pilot-field"><dt>الكاتب/الحساب</dt><dd>{_e(source.get("author") or source.get("publisher"))}</dd></div><div class="pilot-field"><dt>تاريخ النشر</dt><dd>{_e(source.get("publication_date") or "غير متاح")}</dd></div><div class="pilot-field"><dt>حالة الحفظ</dt><dd>{_e(source.get("preservation_status"))}</dd></div></dl><p><a href="{_e(source.get('original_url'))}" target="_blank" rel="noopener noreferrer">الرابط الأصلي</a></p><ul>{archives}</ul></section>
 <section class="pilot-section"><h2>النص الأصلي الكامل</h2><div class="preserved-text" dir="auto">{_text_blocks(source.get("text_original"), "لم يتوفر نص عام قابل للاستخراج")}</div></section>
-<section class="pilot-section"><h2>الترجمة العربية الكاملة</h2><p class="status-line">{_e((source.get('translation') or {}).get('status'))} · {_e((source.get('translation') or {}).get('version'))}</p><div class="preserved-text">{_text_blocks(source.get("text_ar"), "لم تكتمل الترجمة العربية بعد")}</div></section>
+<section class="pilot-section"><h2>حالة الترجمة</h2><p class="status-line">{_e((source.get('translation') or {}).get('status') or 'disabled_by_user')} · {_e((source.get('translation') or {}).get('version') or 'disabled-no-translation-v1')}</p><p>الترجمة معطلة في هذا الطيار بطلب المستخدم. يُعرض النص الأصلي المستخرج أعلاه دون إنشاء ترجمة جديدة.</p></section>
 <section class="pilot-section"><h2>الحوادث المرتبطة</h2><ul>{incidents}</ul></section><section class="pilot-section"><h2>مواضع الوسائط</h2><ul>{media_html}</ul></section>
 <section class="pilot-section source-provenance"><h2>المنشأ والاسترجاع</h2><p>الاسترجاع: {_e(source.get("retrieval_status"))} · الاستخراج: {_e(source.get("extraction_status"))} · التاريخ: {_e(source.get("retrieved_at") or "غير متاح")}</p><pre>{_e(json.dumps(source.get("provenance") or [], ensure_ascii=False, indent=2))}</pre></section>
 <section class="pilot-section"><h2>المعلومات الناقصة والمراجعة</h2><ul>{flags}</ul><p>{_e(source.get("failure_reason"))}</p></section></div></main>

@@ -76,8 +76,8 @@ The pilot branch processes only `cases/0001` through `cases/0100`.
 `archive_pipeline.pilot` enforces that boundary and raises an error for
 sequence `0101` or later. It preserves `legacy_import` values, enriches them
 from live or archived Airwars pages, creates stable source and media-metadata
-records, translates complete non-Arabic text into Arabic, and never downloads
-or commits image, video, or audio binaries.
+records, preserves retrieved text in its original language without translation
+or summarization, and never downloads or commits image, video, or audio binaries.
 
 ```bash
 python scripts/run_first_100_pilot.py \
@@ -86,9 +86,8 @@ python scripts/run_first_100_pilot.py \
 ```
 
 Progress resumes from `data/pilot/first-100-progress.json`, with a checkpoint
-after every incident, source, and completed translation chunk. The OpenAI key
-is read only from `OPENAI_API_KEY` and is never saved in records or attempt
-history. Detailed measurements are written to `data/reports/first-100-*`;
+after every incident and source. Machine translation is disabled at the user's
+request, so no OpenAI or DeepL key is required. Detailed measurements are written to `data/reports/first-100-*`;
 generated source pages live under `sources/{source_id}/index.html` in the site
 artifact.
 
