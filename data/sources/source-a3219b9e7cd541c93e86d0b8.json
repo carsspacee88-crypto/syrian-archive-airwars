@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "270414"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-rtarabic-1918610973247553871-2025-05-03-101756/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.311,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:48:26+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 92753,
+      "content_hash": "d0d3d2fdb7301ae3c0e57ef205567b7481174dd9d246aea83fada915409c5d58",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.311,
+      "error": null,
+      "final_url": "https://x.com/RTarabic/status/1918610973247553871",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:48:26+00:00",
+      "status": 200,
+      "url": "https://x.com/RTarabic/status/1918610973247553871",
+      "waiting_seconds": 0.74
+    }
+  ],
+  "author": "https://x.com/RTarabic",
+  "captions": [],
+  "content_hash": "86b5ceca0cd9e8700609447e5c58b3994f0f5c4671edf77cdb11dcd2f4b5b88f",
+  "content_variants": [
+    {
+      "bytes": 480,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:48:26+00:00",
+      "sha256": "86b5ceca0cd9e8700609447e5c58b3994f0f5c4671edf77cdb11dcd2f4b5b88f",
+      "source_url": "https://x.com/RTarabic/status/1918610973247553871",
+      "text": "Post\n\nPost\n\nRT Arabic@RTarabicقصف إسرائيلي يستهدف عدة مناطق سورية شملت حرستا بريف دمشق ومحيط مدينة إزرع في ريف درعا ومحيط قرية شطحة بريف حماة، حيث أسفرت الغارات عن حدوث عدة إصابات وفقا لوكالة الأنباء السورية \"سانا\".\n\n#ترند #فيديو #viral #اكسبلور #سوريا #إسرائيل00:0010:17 AM · May 3, 20257.4KViews6425"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/RTarabic/status/1918610973247553871",
+  "incident_ids": [
+    "airwars-276118"
+  ],
+  "incident_sequences": [
+    73
+  ],
+  "normalized_url": "https://x.com/RTarabic/status/1918610973247553871",
+  "observed_original_urls": [
+    "https://x.com/RTarabic/status/1918610973247553871"
+  ],
+  "original_url": "https://x.com/RTarabic/status/1918610973247553871",
+  "page_title": "RT Arabic on X: \"قصف إسرائيلي يستهدف عدة مناطق سورية شملت حرستا بريف دمشق ومحيط مدينة إزرع في ريف درعا ومحيط قرية شطحة بريف حماة، حيث أسفرت الغارات عن حدوث عدة إصابات وفقا لوكالة الأنباء السورية \"سانا\".\n\n#ترند #فيديو #viral #اكسبلور #سوريا #إسرائيل https://t.co/PgpSk760Q8\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy081-may-3-2025/",
+      "airwars_source_id": "270414",
+      "incident_id": "airwars-276118",
+      "incident_sequence": 73,
+      "observed_original_url": "https://x.com/RTarabic/status/1918610973247553871",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-05-03T10:17:56.000Z",
+  "publisher": "RTarabic",
+  "publisher_ar": "RTarabic",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:48:26+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a3219b9e7cd541c93e86d0b8",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/RTarabic/status/1918610973247553871",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nRT Arabic@RTarabicقصف إسرائيلي يستهدف عدة مناطق سورية شملت حرستا بريف دمشق ومحيط مدينة إزرع في ريف درعا ومحيط قرية شطحة بريف حماة، حيث أسفرت الغارات عن حدوث عدة إصابات وفقا لوكالة الأنباء السورية \"سانا\".\n\n#ترند #فيديو #viral #اكسبلور #سوريا #إسرائيل00:0010:17 AM · May 3, 20257.4KViews6425",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001707
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

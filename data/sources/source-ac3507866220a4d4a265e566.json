@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "375739"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-alsharqia24news-2003417889039388745-2025-12-23-105021/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.264,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:50:05+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 88239,
+      "content_hash": "8233b75515bbc953cb612e85fbfc080cdd220e2f315316412368aacd572a675e",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.264,
+      "error": null,
+      "final_url": "https://x.com/alsharqia24news/status/2003417889039388745",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:50:05+00:00",
+      "status": 200,
+      "url": "https://x.com/alsharqia24news/status/2003417889039388745",
+      "waiting_seconds": 0.736
+    }
+  ],
+  "author": "https://x.com/alsharqia24news",
+  "captions": [],
+  "content_hash": "ec35e1e2fcc9e5a239b0753bb94688b82f5e53a1bc6786ee0959e6047db988fc",
+  "content_variants": [
+    {
+      "bytes": 568,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:50:05+00:00",
+      "sha256": "ec35e1e2fcc9e5a239b0753bb94688b82f5e53a1bc6786ee0959e6047db988fc",
+      "source_url": "https://x.com/alsharqia24news/status/2003417889039388745",
+      "text": "Post\n\nPost\n\nشبكة الشرقية 24@alsharqia24news#الرقة\nمقتل امرأة مُسنة تُدعى \"فطيم البتال\" وابنها الشاب جاسم محمد اللجي فيما اعتقلت الشاب إبراهيم محمد اللجي والذي قُتل لاحقاً، خلال عملية مداهمة لميليشيا قسد فجر اليوم في منطقة #جديدة_كحيط بريف الرقة الشرقي، وقد رفضت قسد تسليم جُثث الضحايا لذويهم\n#الشرقية24\n#سوريا10:50 AM · Dec 23, 2025205Views1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/alsharqia24news/status/2003417889039388745",
+  "incident_ids": [
+    "airwars-379131"
+  ],
+  "incident_sequences": [
+    13
+  ],
+  "normalized_url": "https://x.com/alsharqia24news/status/2003417889039388745",
+  "observed_original_urls": [
+    "https://x.com/alsharqia24news/status/2003417889039388745"
+  ],
+  "original_url": "https://x.com/alsharqia24news/status/2003417889039388745",
+  "page_title": "شبكة الشرقية 24 on X: \"#الرقة\nمقتل امرأة مُسنة تُدعى \"فطيم البتال\" وابنها الشاب جاسم محمد اللجي فيما اعتقلت الشاب إبراهيم محمد اللجي والذي قُتل لاحقاً، خلال عملية مداهمة لميليشيا قسد فجر اليوم في منطقة #جديدة_كحيط بريف الرقة الشرقي، وقد رفضت قسد تسليم جُثث الضحايا لذويهم\n#الشرقية24\n#سوريا https://t.co/f58M0jq8ic\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2021-december-23-2025/",
+      "airwars_source_id": "375739",
+      "incident_id": "airwars-379131",
+      "incident_sequence": 13,
+      "observed_original_url": "https://x.com/alsharqia24news/status/2003417889039388745",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-23T10:50:21.000Z",
+  "publisher": "alsharqia24news",
+  "publisher_ar": "alsharqia24news",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:50:05+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-ac3507866220a4d4a265e566",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/alsharqia24news/status/2003417889039388745",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nشبكة الشرقية 24@alsharqia24news#الرقة\nمقتل امرأة مُسنة تُدعى \"فطيم البتال\" وابنها الشاب جاسم محمد اللجي فيما اعتقلت الشاب إبراهيم محمد اللجي والذي قُتل لاحقاً، خلال عملية مداهمة لميليشيا قسد فجر اليوم في منطقة #جديدة_كحيط بريف الرقة الشرقي، وقد رفضت قسد تسليم جُثث الضحايا لذويهم\n#الشرقية24\n#سوريا10:50 AM · Dec 23, 2025205Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001755
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

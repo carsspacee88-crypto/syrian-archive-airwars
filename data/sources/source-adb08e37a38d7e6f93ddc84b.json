@@ -1,0 +1,121 @@
+{
+  "airwars_source_ids": [
+    "308469"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/insight-md-org-admin-2025-03-17-162134/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.127,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:50:24+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 505,
+      "content_hash": "ca7ce26d1be5e5454146f9d4fa5234ebc6469407a01c8a97594a143823e7aa15",
+      "content_type": "text/html",
+      "elapsed_seconds": 0.127,
+      "error": "http_403",
+      "final_url": "https://insight-md.org/?p=1316&fbclid=IwY2xjawJGnzlleHRuA2FlbQIxMAABHYZe7CF7REylXb22GpYPsfiSTY2lFmgAE_-8v6oC3SgryJguJCnhxdpsXQ_aem_j32iXiv5zJAtjACLM",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:50:24+00:00",
+      "status": 403,
+      "url": "https://insight-md.org/?p=1316&fbclid=IwY2xjawJGnzlleHRuA2FlbQIxMAABHYZe7CF7REylXb22GpYPsfiSTY2lFmgAE_-8v6oC3SgryJguJCnhxdpsXQ_aem_j32iXiv5zJAtjACLM",
+      "waiting_seconds": 0.736
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/insight-md-org-admin-2025-03-17-162134/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:50:24+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/insight-md-org-admin-2025-03-17-162134/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_role": "wayback_lookup",
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "ok": false,
+      "retrieved_at": "2026-07-31T18:50:24+00:00"
+    }
+  ],
+  "author": "admin",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_403",
+  "final_redirected_url": "https://insight-md.org/?p=1316&fbclid=IwY2xjawJGnzlleHRuA2FlbQIxMAABHYZe7CF7REylXb22GpYPsfiSTY2lFmgAE_-8v6oC3SgryJguJCnhxdpsXQ_aem_j32iXiv5zJAtjACLM",
+  "incident_ids": [
+    "airwars-304188"
+  ],
+  "incident_sequences": [
+    86
+  ],
+  "normalized_url": "https://insight-md.org/?p=1316&fbclid=IwY2xjawJGnzlleHRuA2FlbQIxMAABHYZe7CF7REylXb22GpYPsfiSTY2lFmgAE_-8v6oC3SgryJguJCnhxdpsXQ_aem_j32iXiv5zJAtjACLM",
+  "observed_original_urls": [
+    "https://insight-md.org/?p=1316&fbclid=IwY2xjawJGnzlleHRuA2FlbQIxMAABHYZe7CF7REylXb22GpYPsfiSTY2lFmgAE_-8v6oC3SgryJguJCnhxdpsXQ_aem_j32iXiv5zJAtjACLM"
+  ],
+  "original_url": "https://insight-md.org/?p=1316&fbclid=IwY2xjawJGnzlleHRuA2FlbQIxMAABHYZe7CF7REylXb22GpYPsfiSTY2lFmgAE_-8v6oC3SgryJguJCnhxdpsXQ_aem_j32iXiv5zJAtjACLM",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts796-march-16-2025/",
+      "airwars_source_id": "308469",
+      "incident_id": "airwars-304188",
+      "incident_sequence": 86,
+      "observed_original_url": "https://insight-md.org/?p=1316&fbclid=IwY2xjawJGnzlleHRuA2FlbQIxMAABHYZe7CF7REylXb22GpYPsfiSTY2lFmgAE_-8v6oC3SgryJguJCnhxdpsXQ_aem_j32iXiv5zJAtjACLM",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "17 مارس 2025",
+  "publisher": "admin",
+  "publisher_ar": "admin",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:50:24+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-adb08e37a38d7e6f93ddc84b",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://insight-md.org/?p=1316&fbclid=IwY2xjawJGnzlleHRuA2FlbQIxMAABHYZe7CF7REylXb22GpYPsfiSTY2lFmgAE_-8v6oC3SgryJguJCnhxdpsXQ_aem_j32iXiv5zJAtjACLM",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

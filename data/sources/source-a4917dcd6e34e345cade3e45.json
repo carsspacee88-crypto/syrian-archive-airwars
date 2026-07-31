@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "297557"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d8%a8%d9%88-%d8%a7%d9%84%d9%88%d9%84%d9%8a%d8%af-2025-10-23-164100/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.427,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:48:52+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 494188,
+      "content_hash": "f582141646e8adea3210caef428bec7f98c0c98e6e5ad61c36e4000479e9f81b",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.427,
+      "error": null,
+      "final_url": "https://www.facebook.com/watch/?ref=saved&v=1377074140729756",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:48:52+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?ref=saved&v=1377074140729756",
+      "waiting_seconds": 0.74
+    }
+  ],
+  "author": "خالد ابو الوليد",
+  "captions": [],
+  "content_hash": "1d3ccbbed27973afbede84faf1a7776201f785d309c5d9232ec1f73a3378f651",
+  "content_variants": [
+    {
+      "bytes": 41,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:48:52+00:00",
+      "sha256": "1d3ccbbed27973afbede84faf1a7776201f785d309c5d9232ec1f73a3378f651",
+      "source_url": "https://www.facebook.com/watch/?ref=saved&v=1377074140729756",
+      "text": "Discover Popular Videos | Facebook\n\nVideo"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/watch/?ref=saved&v=1377074140729756",
+  "incident_ids": [
+    "airwars-297455"
+  ],
+  "incident_sequences": [
+    32
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?ref=saved&v=1377074140729756",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?ref=saved&v=1377074140729756"
+  ],
+  "original_url": "https://www.facebook.com/watch/?ref=saved&v=1377074140729756",
+  "page_title": "Discover Popular Videos | Facebook Video",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2015-october-23-2025/",
+      "airwars_source_id": "297557",
+      "incident_id": "airwars-297455",
+      "incident_sequence": 32,
+      "observed_original_url": "https://www.facebook.com/watch/?ref=saved&v=1377074140729756",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "23 أكتوبر 2025",
+  "publisher": "Khaled Abu Al-Walid",
+  "publisher_ar": "خالد ابو الوليد",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:48:52+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a4917dcd6e34e345cade3e45",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?ref=saved&v=1377074140729756",
+  "text_ar": "",
+  "text_original": "Discover Popular Videos | Facebook\n\nVideo",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001709
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

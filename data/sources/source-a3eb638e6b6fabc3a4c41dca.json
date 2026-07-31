@@ -1,0 +1,144 @@
+{
+  "airwars_source_ids": [
+    "162028"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-2025-05-16-074045/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-10: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:48:35+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-10: ordinal not in range(128)",
+      "final_url": "https://www.syriahr.com/بعملية-إنزال-جوي-اعتـ-ـقـ-ـال-3-من-خـ-ـلا/761370/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:48:35+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/بعملية-إنزال-جوي-اعتـ-ـقـ-ـال-3-من-خـ-ـلا/761370/",
+      "waiting_seconds": 0.737
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.028,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:48:36+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1510,
+      "content_hash": "84e3009e256f694fd81ab013678d376c1490ce144a5c165264d1a338c6270151",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.028,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-syriahr-com-2025-05-16-074045/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:48:36+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-syriahr-com-2025-05-16-074045/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.16,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:48:47+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.16,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A8%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D8%A7%D8%B9%D8%AA%D9%80-%D9%80%D9%82%D9%80-%D9%80%D8%A7%D9%84-3-%D9%85%D9%86-%D8%AE%D9%80-%D9%80%D9%84%D8%A7%2F761370%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:48:47+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%A8%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D8%A7%D8%B9%D8%AA%D9%80-%D9%80%D9%82%D9%80-%D9%80%D8%A7%D9%84-3-%D9%85%D9%86-%D8%AE%D9%80-%D9%80%D9%84%D8%A7%2F761370%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-10: ordinal not in range(128)",
+  "final_redirected_url": "https://www.syriahr.com/بعملية-إنزال-جوي-اعتـ-ـقـ-ـال-3-من-خـ-ـلا/761370/",
+  "incident_ids": [
+    "airwars-381555"
+  ],
+  "incident_sequences": [
+    70
+  ],
+  "normalized_url": "https://www.syriahr.com/بعملية-إنزال-جوي-اعتـ-ـقـ-ـال-3-من-خـ-ـلا/761370/",
+  "observed_original_urls": [
+    "https://www.syriahr.com/بعملية-إنزال-جوي-اعتـ-ـقـ-ـال-3-من-خـ-ـلا/761370/"
+  ],
+  "original_url": "https://www.syriahr.com/بعملية-إنزال-جوي-اعتـ-ـقـ-ـال-3-من-خـ-ـلا/761370/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0141-may-16-2025/",
+      "airwars_source_id": "162028",
+      "incident_id": "airwars-381555",
+      "incident_sequence": 70,
+      "observed_original_url": "https://www.syriahr.com/بعملية-إنزال-جوي-اعتـ-ـقـ-ـال-3-من-خـ-ـلا/761370/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "16 مايو 2025",
+  "publisher": "syriahr.com",
+  "publisher_ar": "syriahr.com",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:48:35+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a3eb638e6b6fabc3a4c41dca",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.syriahr.com/بعملية-إنزال-جوي-اعتـ-ـقـ-ـال-3-من-خـ-ـلا/761370/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

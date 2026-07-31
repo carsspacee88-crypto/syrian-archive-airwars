@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "296582"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%b9%d8%a7%d8%ac%d9%84-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86-pfbid02s7cehtum2j89z2xz8j4s41yautsigvbppbtfzd38wszvgsqydhxk7mvwdgnbhrz5l-2025-10-19-123900/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.342,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:47:19+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 353620,
+      "content_hash": "1ac99fabbaa02444434fd81362a345e5965a7b4b5dae88cad69632d7a3a222a3",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.342,
+      "error": null,
+      "final_url": "https://www.facebook.com/ajlalbyan.2025/posts/pfbid02s7CEHTum2j89z2XZ8j4s41YauTsiGVBPPbtfZD38WSzVGSqydhXK7mvWDgnBHrz5l",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:47:19+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/ajlalbyan.2025/posts/pfbid02s7CEHTum2j89z2XZ8j4s41YauTsiGVBPPbtfZD38WSzVGSqydhXK7mvWDgnBHrz5l",
+      "waiting_seconds": 0.731
+    }
+  ],
+  "author": "عاجل البيان",
+  "captions": [],
+  "content_hash": "f9781cd9de5383899bd6ed7026b86d1382eacba2a604dad1c917576791a3f3bb",
+  "content_variants": [
+    {
+      "bytes": 167,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:47:19+00:00",
+      "sha256": "f9781cd9de5383899bd6ed7026b86d1382eacba2a604dad1c917576791a3f3bb",
+      "source_url": "https://www.facebook.com/ajlalbyan.2025/posts/pfbid02s7CEHTum2j89z2XZ8j4s41YauTsiGVBPPbtfZD38WSzVGSqydhXK7mvWDgnBHrz5l",
+      "text": "This page isn't available right nowThis may be because of a technical error that we're working to get fixed. Try reloading this page.Go to FeedGo backVisit Help Center"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/ajlalbyan.2025/posts/pfbid02s7CEHTum2j89z2XZ8j4s41YauTsiGVBPPbtfZD38WSzVGSqydhXK7mvWDgnBHrz5l",
+  "incident_ids": [
+    "airwars-297454"
+  ],
+  "incident_sequences": [
+    36
+  ],
+  "normalized_url": "https://www.facebook.com/ajlalbyan.2025/posts/pfbid02s7CEHTum2j89z2XZ8j4s41YauTsiGVBPPbtfZD38WSzVGSqydhXK7mvWDgnBHrz5l",
+  "observed_original_urls": [
+    "https://www.facebook.com/ajlalbyan.2025/posts/pfbid02s7CEHTum2j89z2XZ8j4s41YauTsiGVBPPbtfZD38WSzVGSqydhXK7mvWDgnBHrz5l"
+  ],
+  "original_url": "https://www.facebook.com/ajlalbyan.2025/posts/pfbid02s7CEHTum2j89z2XZ8j4s41YauTsiGVBPPbtfZD38WSzVGSqydhXK7mvWDgnBHrz5l",
+  "page_title": "Facebook Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2014-october-18-2025/",
+      "airwars_source_id": "296582",
+      "incident_id": "airwars-297454",
+      "incident_sequence": 36,
+      "observed_original_url": "https://www.facebook.com/ajlalbyan.2025/posts/pfbid02s7CEHTum2j89z2XZ8j4s41YauTsiGVBPPbtfZD38WSzVGSqydhXK7mvWDgnBHrz5l",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "19 أكتوبر 2025",
+  "publisher": "Urgent statement",
+  "publisher_ar": "عاجل البيان",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:47:19+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-9ecfcad6214724dc190e24eb",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/ajlalbyan.2025/posts/pfbid02s7CEHTum2j89z2XZ8j4s41YauTsiGVBPPbtfZD38WSzVGSqydhXK7mvWDgnBHrz5l",
+  "text_ar": "",
+  "text_original": "This page isn't available right nowThis may be because of a technical error that we're working to get fixed. Try reloading this page.Go to FeedGo backVisit Help Center",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001416
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

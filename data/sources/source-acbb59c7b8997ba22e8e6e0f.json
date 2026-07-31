@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "379183"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-syriacivildef-1894429161248494006-2025-02-25-164803/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.33,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:50:11+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 84761,
+      "content_hash": "a4aff1476f22f7a9cd548bcf91058e173e985ce9bdac77ef99a6c88cd83df04e",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.33,
+      "error": null,
+      "final_url": "https://x.com/SyriaCivilDef/status/1894429161248494006",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:50:11+00:00",
+      "status": 200,
+      "url": "https://x.com/SyriaCivilDef/status/1894429161248494006",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "https://x.com/SyriaCivilDef",
+  "captions": [],
+  "content_hash": "2a68089302f554b1b4351ef2bdef05c7276eab3572ea6fa2bc7f734d00e21cb9",
+  "content_variants": [
+    {
+      "bytes": 372,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:50:11+00:00",
+      "sha256": "2a68089302f554b1b4351ef2bdef05c7276eab3572ea6fa2bc7f734d00e21cb9",
+      "source_url": "https://x.com/SyriaCivilDef/status/1894429161248494006",
+      "text": "Post\n\nPost\n\nThe White Helmets@SyriaCivilDefA person was killed in a missile strike by an unidentified drone on Tuesday, February 25, near the village of Al-Nasr, south of #Jarabulus in eastern rural #Aleppo.\n\nOur teams recovered the body, transferred it to Jarabulus Hospital, and secured the area from war remnants.\n#WhiteHelmets #Syria4:48 PM · Feb 25, 20255KViews15354"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyriaCivilDef/status/1894429161248494006",
+  "incident_ids": [
+    "airwars-367998"
+  ],
+  "incident_sequences": [
+    98
+  ],
+  "normalized_url": "https://x.com/SyriaCivilDef/status/1894429161248494006",
+  "observed_original_urls": [
+    "https://x.com/SyriaCivilDef/status/1894429161248494006"
+  ],
+  "original_url": "https://x.com/SyriaCivilDef/status/1894429161248494006",
+  "page_title": "The White Helmets on X: \"A person was killed in a missile strike by an unidentified drone on Tuesday, February 25, near the village of Al-Nasr, south of #Jarabulus in eastern rural #Aleppo.\n\nOur teams recovered the body, transferred it to Jarabulus Hospital, and secured the area from war remnants.\n#WhiteHelmets #Syria\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0131-february-25-2025/",
+      "airwars_source_id": "379183",
+      "incident_id": "airwars-367998",
+      "incident_sequence": 98,
+      "observed_original_url": "https://x.com/SyriaCivilDef/status/1894429161248494006",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-02-25T16:48:03.000Z",
+  "publisher": "SyriaCivilDef",
+  "publisher_ar": "SyriaCivilDef",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:50:11+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-acbb59c7b8997ba22e8e6e0f",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyriaCivilDef/status/1894429161248494006",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nThe White Helmets@SyriaCivilDefA person was killed in a missile strike by an unidentified drone on Tuesday, February 25, near the village of Al-Nasr, south of #Jarabulus in eastern rural #Aleppo.\n\nOur teams recovered the body, transferred it to Jarabulus Hospital, and secured the area from war remnants.\n#WhiteHelmets #Syria4:48 PM · Feb 25, 20255KViews15354",
+  "text_original_language": "en",
+  "timing": {
+    "text_extraction_seconds": 0.00162
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

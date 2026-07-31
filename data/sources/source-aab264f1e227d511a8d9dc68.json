@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "286680"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-najdat567-1973820639032324496-2025-10-02-184126/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.283,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:49:56+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 76822,
+      "content_hash": "62c4b36b423fc1f180be38aac21aa9ae1aa4157814a4d87cd280b18d4564cf00",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.283,
+      "error": null,
+      "final_url": "https://x.com/Najdat567/status/1973820639032324496",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:49:56+00:00",
+      "status": 200,
+      "url": "https://x.com/Najdat567/status/1973820639032324496",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "https://x.com/Najdat567",
+  "captions": [],
+  "content_hash": "4ed294ad2ea57a75428ce77875241dd8a71b77e448e7f0137012dfb028ceef71",
+  "content_variants": [
+    {
+      "bytes": 199,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:49:56+00:00",
+      "sha256": "4ed294ad2ea57a75428ce77875241dd8a71b77e448e7f0137012dfb028ceef71",
+      "source_url": "https://x.com/Najdat567/status/1973820639032324496",
+      "text": "Post\n\nPost\n\nأبو أمين 80@Najdat567📌غارة من تحالف الدولي الآن على طريق حارم ـ باريشا بريف إدلب الشمالي ..6:41 PM · Oct 2, 20251.2KViews5"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Najdat567/status/1973820639032324496",
+  "incident_ids": [
+    "airwars-386626"
+  ],
+  "incident_sequences": [
+    37
+  ],
+  "normalized_url": "https://x.com/Najdat567/status/1973820639032324496",
+  "observed_original_urls": [
+    "https://x.com/Najdat567/status/1973820639032324496"
+  ],
+  "original_url": "https://x.com/Najdat567/status/1973820639032324496",
+  "page_title": "أبو أمين 80 on X: \"📌غارة من تحالف الدولي الآن على طريق حارم ـ باريشا بريف إدلب الشمالي .. https://t.co/xJm7jrBVu0\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0158-october-2-2025/",
+      "airwars_source_id": "286680",
+      "incident_id": "airwars-386626",
+      "incident_sequence": 37,
+      "observed_original_url": "https://x.com/Najdat567/status/1973820639032324496",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-10-02T18:41:26.000Z",
+  "publisher": "Najdat567",
+  "publisher_ar": "Najdat567",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:49:56+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-aab264f1e227d511a8d9dc68",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Najdat567/status/1973820639032324496",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nأبو أمين 80@Najdat567📌غارة من تحالف الدولي الآن على طريق حارم ـ باريشا بريف إدلب الشمالي ..6:41 PM · Oct 2, 20251.2KViews5",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001786
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

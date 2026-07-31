@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "296693"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-basil-al-shammari-pfbid02bk3ci5b1wwhcphxmrc3vhdgbxjuhaoyheivp3wetsfdy5fvfa2n8ewwgegh9gwybl-2025-10-23-132700/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.315,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:48:11+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 313410,
+      "content_hash": "66c85d75eaa23dfda2e5e26f0bcefcb19bf59dff3a8844fa1456058f9ca2be75",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.315,
+      "error": null,
+      "final_url": "https://www.facebook.com/basil.al.shammari.902239/posts/pfbid02BK3Ci5b1wWhcpHXMRc3VHDGbxJuhaoYHeivp3wETSFdY5FVFA2N8ewwGEGh9gWybl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:48:11+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/basil.al.shammari.902239/posts/pfbid02BK3Ci5b1wWhcpHXMRc3VHDGbxJuhaoYHeivp3wETSFdY5FVFA2N8ewwGEGh9gWybl",
+      "waiting_seconds": 0.73
+    }
+  ],
+  "author": "Basil AL Shammari",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:48:11+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/basil.al.shammari.902239/posts/pfbid02BK3Ci5b1wWhcpHXMRc3VHDGbxJuhaoYHeivp3wETSFdY5FVFA2N8ewwGEGh9gWybl",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/basil.al.shammari.902239/posts/pfbid02BK3Ci5b1wWhcpHXMRc3VHDGbxJuhaoYHeivp3wETSFdY5FVFA2N8ewwGEGh9gWybl",
+  "incident_ids": [
+    "airwars-297455"
+  ],
+  "incident_sequences": [
+    32
+  ],
+  "normalized_url": "https://www.facebook.com/basil.al.shammari.902239/posts/pfbid02BK3Ci5b1wWhcpHXMRc3VHDGbxJuhaoYHeivp3wETSFdY5FVFA2N8ewwGEGh9gWybl",
+  "observed_original_urls": [
+    "https://www.facebook.com/basil.al.shammari.902239/posts/pfbid02BK3Ci5b1wWhcpHXMRc3VHDGbxJuhaoYHeivp3wETSFdY5FVFA2N8ewwGEGh9gWybl"
+  ],
+  "original_url": "https://www.facebook.com/basil.al.shammari.902239/posts/pfbid02BK3Ci5b1wWhcpHXMRc3VHDGbxJuhaoYHeivp3wETSFdY5FVFA2N8ewwGEGh9gWybl",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2015-october-23-2025/",
+      "airwars_source_id": "296693",
+      "incident_id": "airwars-297455",
+      "incident_sequence": 32,
+      "observed_original_url": "https://www.facebook.com/basil.al.shammari.902239/posts/pfbid02BK3Ci5b1wWhcpHXMRc3VHDGbxJuhaoYHeivp3wETSFdY5FVFA2N8ewwGEGh9gWybl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "23 أكتوبر 2025",
+  "publisher": "Basil AL Shammari",
+  "publisher_ar": "Basil AL Shammari",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:48:11+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a1a08979d4b24a68a7ac05d0",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/basil.al.shammari.902239/posts/pfbid02BK3Ci5b1wWhcpHXMRc3VHDGbxJuhaoYHeivp3wETSFdY5FVFA2N8ewwGEGh9gWybl",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001033
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

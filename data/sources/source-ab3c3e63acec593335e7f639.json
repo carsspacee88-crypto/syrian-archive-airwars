@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "296175"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-abomosaabsharke-1981453688636948794-2025-10-23-201227/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.318,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:49:59+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 93286,
+      "content_hash": "98c4a312facfc9e9e8dca053c31d11059108579dc530484efc98b0c584f2f059",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.318,
+      "error": null,
+      "final_url": "https://x.com/AbomosaabSharke/status/1981453688636948794",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:49:59+00:00",
+      "status": 200,
+      "url": "https://x.com/AbomosaabSharke/status/1981453688636948794",
+      "waiting_seconds": 0.736
+    }
+  ],
+  "author": "https://x.com/AbomosaabSharke",
+  "captions": [],
+  "content_hash": "67d318920659789701ea478f8688d49529cd86024d80565c698a2502ee8c2195",
+  "content_variants": [
+    {
+      "bytes": 531,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:49:59+00:00",
+      "sha256": "67d318920659789701ea478f8688d49529cd86024d80565c698a2502ee8c2195",
+      "source_url": "https://x.com/AbomosaabSharke/status/1981453688636948794",
+      "text": "Post\n\nPost\n\nمراسل الشرقية الرسمي@AbomosaabSharke#الحسكة\nمتابعة: في مشهد جديد من عربدة ميليشيا قسد الإرهابية بحق المدنيين، صورة المسن محمود هليل الذي تصدى لمحاولة عناصر الميليشيا اعتقال ولديه علاء وعلي في قرية #كرهوك التابعة لناحية #اليعربية شمال شرقي الحسكة.\n\n#مراسل_الشرقية_الرسمي ✅00:008:12 PM · Oct 23, 2025369Views11"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AbomosaabSharke/status/1981453688636948794",
+  "incident_ids": [
+    "airwars-297455"
+  ],
+  "incident_sequences": [
+    32
+  ],
+  "normalized_url": "https://x.com/AbomosaabSharke/status/1981453688636948794",
+  "observed_original_urls": [
+    "https://x.com/AbomosaabSharke/status/1981453688636948794"
+  ],
+  "original_url": "https://x.com/AbomosaabSharke/status/1981453688636948794",
+  "page_title": "مراسل الشرقية الرسمي on X: \"#الحسكة\nمتابعة: في مشهد جديد من عربدة ميليشيا قسد الإرهابية بحق المدنيين، صورة المسن محمود هليل الذي تصدى لمحاولة عناصر الميليشيا اعتقال ولديه علاء وعلي في قرية #كرهوك التابعة لناحية #اليعربية شمال شرقي الحسكة.\n\n#مراسل_الشرقية_الرسمي ✅ https://t.co/CuAOVlSFlO\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2015-october-23-2025/",
+      "airwars_source_id": "296175",
+      "incident_id": "airwars-297455",
+      "incident_sequence": 32,
+      "observed_original_url": "https://x.com/AbomosaabSharke/status/1981453688636948794",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-10-23T20:12:27.000Z",
+  "publisher": "AbomosaabSharke",
+  "publisher_ar": "AbomosaabSharke",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:49:59+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-ab3c3e63acec593335e7f639",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AbomosaabSharke/status/1981453688636948794",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nمراسل الشرقية الرسمي@AbomosaabSharke#الحسكة\nمتابعة: في مشهد جديد من عربدة ميليشيا قسد الإرهابية بحق المدنيين، صورة المسن محمود هليل الذي تصدى لمحاولة عناصر الميليشيا اعتقال ولديه علاء وعلي في قرية #كرهوك التابعة لناحية #اليعربية شمال شرقي الحسكة.\n\n#مراسل_الشرقية_الرسمي ✅00:008:12 PM · Oct 23, 2025369Views11",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001715
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

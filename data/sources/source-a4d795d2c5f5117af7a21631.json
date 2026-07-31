@@ -1,0 +1,99 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/09bqQ"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.616,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:48:56+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 87503,
+      "content_hash": "21e7275654e10c8a0daee8e31f23104ea15d3bedd8ee736389a68c85c44ded7e",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.616,
+      "error": null,
+      "final_url": "https://x.com/jadpho99/status/1904517580477370867",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:48:56+00:00",
+      "status": 200,
+      "url": "https://x.com/abdulrahmanpho/status/1904517580477370867",
+      "waiting_seconds": 0.736
+    }
+  ],
+  "author": "https://x.com/jadpho99",
+  "captions": [],
+  "content_hash": "bb00f3d91fb05514fd2277085fd0c9ba0116559b917476a293e7442c08a34c93",
+  "content_variants": [
+    {
+      "bytes": 423,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:48:56+00:00",
+      "sha256": "bb00f3d91fb05514fd2277085fd0c9ba0116559b917476a293e7442c08a34c93",
+      "source_url": "https://x.com/jadpho99/status/1904517580477370867",
+      "text": "Post\n\nPost\n\nAbdulrahman Al Hariri@jadpho99صور من محيط بلدة كويا بريف درعا الغربي، وتظهر في الصورة الأولى ثكنة الجزيرة العسكرية التي تتمركز فيها قوات الاحتلال الإسرائـ.ـيلي، والتي كانت مصدراً للقصف على القرية صباح اليوم.\n\n#درعا #كويا12:55 PM · Mar 25, 20251.3KViews126"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/jadpho99/status/1904517580477370867",
+  "incident_ids": [
+    "airwars-142194"
+  ],
+  "incident_sequences": [
+    80
+  ],
+  "normalized_url": "https://x.com/abdulrahmanpho/status/1904517580477370867",
+  "observed_original_urls": [
+    "https://x.com/abdulrahmanpho/status/1904517580477370867"
+  ],
+  "original_url": "https://x.com/abdulrahmanpho/status/1904517580477370867",
+  "page_title": "Abdulrahman Al Hariri on X: \"صور من محيط بلدة كويا بريف درعا الغربي، وتظهر في الصورة الأولى ثكنة الجزيرة العسكرية التي تتمركز فيها قوات الاحتلال الإسرائـ.ـيلي، والتي كانت مصدراً للقصف على القرية صباح اليوم.\n\n#درعا #كويا https://t.co/Zz68Z0fNri\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy075-march-25-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-142194",
+      "incident_sequence": 80,
+      "observed_original_url": "https://x.com/abdulrahmanpho/status/1904517580477370867",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-03-25T12:55:50.000Z",
+  "publisher": "'@abdulrahmanpho",
+  "publisher_ar": "'@abdulrahmanpho",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:48:56+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a4d795d2c5f5117af7a21631",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/abdulrahmanpho/status/1904517580477370867",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nAbdulrahman Al Hariri@jadpho99صور من محيط بلدة كويا بريف درعا الغربي، وتظهر في الصورة الأولى ثكنة الجزيرة العسكرية التي تتمركز فيها قوات الاحتلال الإسرائـ.ـيلي، والتي كانت مصدراً للقصف على القرية صباح اليوم.\n\n#درعا #كويا12:55 PM · Mar 25, 20251.3KViews126",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001993
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

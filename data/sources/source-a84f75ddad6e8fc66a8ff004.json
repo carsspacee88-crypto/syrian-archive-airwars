@@ -1,0 +1,158 @@
+{
+  "airwars_source_ids": [
+    "308534",
+    "308338"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/aawsat-com-aawsat/",
+    "https://airwars.org/source/aawsat-com-2/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-10: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:49:31+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-10: ordinal not in range(128)",
+      "final_url": "https://aawsat.com/العالم-العربي/5116502-قسد-12-قتيلاً-بغارات-تركية-في-شمال-شرقي-سوريا?page=9",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:49:31+00:00",
+      "status": null,
+      "url": "https://aawsat.com/العالم-العربي/5116502-قسد-12-قتيلاً-بغارات-تركية-في-شمال-شرقي-سوريا?page=9",
+      "waiting_seconds": 0.739
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/aawsat-com-aawsat/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:49:31+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/aawsat-com-aawsat/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/aawsat-com-2/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:49:31+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/aawsat-com-2/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_role": "wayback_lookup",
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "ok": false,
+      "retrieved_at": "2026-07-31T18:49:31+00:00"
+    }
+  ],
+  "author": "Aawsat",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-10: ordinal not in range(128)",
+  "final_redirected_url": "https://aawsat.com/العالم-العربي/5116502-قسد-12-قتيلاً-بغارات-تركية-في-شمال-شرقي-سوريا?page=9",
+  "incident_ids": [
+    "airwars-308525",
+    "airwars-290203"
+  ],
+  "incident_sequences": [
+    94,
+    95
+  ],
+  "normalized_url": "https://aawsat.com/العالم-العربي/5116502-قسد-12-قتيلاً-بغارات-تركية-في-شمال-شرقي-سوريا?page=9",
+  "observed_original_urls": [
+    "https://aawsat.com/العالم-العربي/5116502-قسد-12-قتيلاً-بغارات-تركية-في-شمال-شرقي-سوريا?page=9"
+  ],
+  "original_url": "https://aawsat.com/العالم-العربي/5116502-قسد-12-قتيلاً-بغارات-تركية-في-شمال-شرقي-سوريا?page=9",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts793-february-26-2025/",
+      "airwars_source_id": "308534",
+      "incident_id": "airwars-308525",
+      "incident_sequence": 94,
+      "observed_original_url": "https://aawsat.com/العالم-العربي/5116502-قسد-12-قتيلاً-بغارات-تركية-في-شمال-شرقي-سوريا?page=9",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts792-february-26-2025/",
+      "airwars_source_id": "308338",
+      "incident_id": "airwars-290203",
+      "incident_sequence": 95,
+      "observed_original_url": "https://aawsat.com/العالم-العربي/5116502-قسد-12-قتيلاً-بغارات-تركية-في-شمال-شرقي-سوريا?page=9",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Awsat",
+  "publisher_ar": "Awsat",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:49:31+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a84f75ddad6e8fc66a8ff004",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://aawsat.com/العالم-العربي/5116502-قسد-12-قتيلاً-بغارات-تركية-في-شمال-شرقي-سوريا?page=9",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

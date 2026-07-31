@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "302741"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-syrnetworknews-1942576972019777731-2025-07-08-133016/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.38,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:47:14+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 83099,
+      "content_hash": "947ea93df9ceec74fd8a271e54e81ec4ddc9b0c09eaccad6b0af865fd25da4d2",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.38,
+      "error": null,
+      "final_url": "https://x.com/SyrNetworkNews/status/1942576972019777731",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:47:14+00:00",
+      "status": 200,
+      "url": "https://x.com/SyrNetworkNews/status/1942576972019777731",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "https://x.com/SyrNetworkNews",
+  "captions": [],
+  "content_hash": "1980d5e1e90825f9352f875675847748f1df5ad2e6f6d9e7f266c56f778c262d",
+  "content_variants": [
+    {
+      "bytes": 571,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:47:14+00:00",
+      "sha256": "1980d5e1e90825f9352f875675847748f1df5ad2e6f6d9e7f266c56f778c262d",
+      "source_url": "https://x.com/SyrNetworkNews/status/1942576972019777731",
+      "text": "Post\n\nPost\n\nشبكة أخبار سوريا@SyrNetworkNewsالمعلومات الأولية تفيد أن شخصين وهما \"فيصل الياسين معرتحرمة\"\n\"إبراهيم العبدالله بسرطون\" كانا يستقلان السيارة وبحوزتهما سلاح وذخائر في السيارة، لم يكن هناك أي طائرة تحالف في السماء أثناء حدوث الانفجار، يُرجح أن السيارة تعرضت للانفجار نتيجة الذخائر التي كانت داخلها1:30 PM · Jul 8, 20251.9KViews7"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyrNetworkNews/status/1942576972019777731",
+  "incident_ids": [
+    "airwars-381566"
+  ],
+  "incident_sequences": [
+    52
+  ],
+  "normalized_url": "https://x.com/SyrNetworkNews/status/1942576972019777731",
+  "observed_original_urls": [
+    "https://x.com/SyrNetworkNews/status/1942576972019777731"
+  ],
+  "original_url": "https://x.com/SyrNetworkNews/status/1942576972019777731",
+  "page_title": "شبكة أخبار سوريا on X: \"المعلومات الأولية تفيد أن شخصين وهما \"فيصل الياسين معرتحرمة\"\n\"إبراهيم العبدالله بسرطون\" كانا يستقلان السيارة وبحوزتهما سلاح وذخائر في السيارة، لم يكن هناك أي طائرة تحالف في السماء أثناء حدوث الانفجار، يُرجح أن السيارة تعرضت للانفجار نتيجة الذخائر التي كانت داخلها https://t.co/ktLZQHQFkE\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0151-july-7-2025/",
+      "airwars_source_id": "302741",
+      "incident_id": "airwars-381566",
+      "incident_sequence": 52,
+      "observed_original_url": "https://x.com/SyrNetworkNews/status/1942576972019777731",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-07-08T13:30:16.000Z",
+  "publisher": "SyrNetworkNews",
+  "publisher_ar": "SyrNetworkNews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:47:14+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-9e47bef171c10e92d9193685",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyrNetworkNews/status/1942576972019777731",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nشبكة أخبار سوريا@SyrNetworkNewsالمعلومات الأولية تفيد أن شخصين وهما \"فيصل الياسين معرتحرمة\"\n\"إبراهيم العبدالله بسرطون\" كانا يستقلان السيارة وبحوزتهما سلاح وذخائر في السيارة، لم يكن هناك أي طائرة تحالف في السماء أثناء حدوث الانفجار، يُرجح أن السيارة تعرضت للانفجار نتيجة الذخائر التي كانت داخلها1:30 PM · Jul 8, 20251.9KViews7",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001615
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
