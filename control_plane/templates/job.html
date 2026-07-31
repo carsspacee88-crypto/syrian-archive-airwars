@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}المهمة {{ "%04d"|format(job.first_sequence) }}–{{ "%04d"|format(job.last_sequence) }}{% endblock %}
+{% block content %}
+<div class="page-heading">
+  <div>
+    <p class="eyebrow">مهمة {{ job.id[:8] }}</p>
+    <h1>{{ "%04d"|format(job.first_sequence) }}–{{ "%04d"|format(job.last_sequence) }}</h1>
+  </div>
+  <a class="button secondary" href="/admin">كل المهام</a>
+</div>
+
+<section class="stats" data-job-id="{{ job.id }}">
+  <article class="card"><span>الحالة</span><strong id="job-status" class="status status-{{ job.status }}">{{ job.status }}</strong></article>
+  <article class="card"><span>المرحلة</span><strong id="job-stage">{{ job.current_stage }}</strong></article>
+  <article class="card"><span>الحوادث</span><strong id="incident-progress">{{ job.incident_completed }}/{{ job.incident_total }}</strong><small>{{ job.incident_failed }} فشل</small></article>
+  <article class="card"><span>المصادر</span><strong id="source-progress">{{ job.source_completed }}/{{ job.source_total }}</strong><small>{{ job.source_failed }} غير ناجح</small></article>
+</section>
+
+<section class="card actions">
+  <h2>التحكم</h2>
+  <div class="button-row">
+    {% for action, label in [('pause','إيقاف مؤقت'), ('resume','استئناف'), ('cancel','إلغاء آمن'), ('retry_failed','إعادة الفاشل فقط')] %}
+    <form method="post" action="/admin/jobs/{{ job.id }}/action">
+      <input type="hidden" name="csrf" value="{{ csrf_token }}"><input type="hidden" name="action" value="{{ action }}">
+      <button class="{% if action == 'cancel' %}danger{% else %}secondary{% endif %}" type="submit">{{ label }}</button>
+    </form>
+    {% endfor %}
+  </div>
+  {% if job.last_error %}<div class="alert error"><strong>آخر خطأ بنيوي:</strong> {{ job.last_error }}</div>{% endif %}
+</section>
+
+<div class="grid-two wide">
+  <section class="card">
+    <h2>السجل</h2>
+    <ol id="event-log" class="event-log">
+      {% for event in events %}<li class="event-{{ event.level }}"><time>{{ event.created_at.strftime('%H:%M:%S') }}</time> {{ event.message }}</li>{% endfor %}
+    </ol>
+  </section>
+  <section class="card">
+    <h2>آخر العناصر</h2>
+    <div class="table-wrap">
+      <table><thead><tr><th>النوع</th><th>المعرّف</th><th>الحالة</th><th>المدة</th></tr></thead>
+      <tbody>{% for item in items %}<tr><td>{{ item.kind }}</td><td class="ltr">{{ item.identity }}</td><td>{{ item.status }}</td><td>{{ "%.2f"|format(item.duration_seconds) }}ث</td></tr>{% endfor %}</tbody></table>
+    </div>
+  </section>
+</div>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('admin-static', path='/admin.js') }}" defer></script>{% endblock %}

@@ -1,0 +1,127 @@
+x-archive-app: &archive-app
+  build:
+    context: .
+    dockerfile: Dockerfile.vps
+  restart: unless-stopped
+  env_file: .env.vps
+  environment:
+    ARCHIVE_DATABASE_HOST: postgres
+    ARCHIVE_REDIS_URL: redis://redis:6379/0
+    ARCHIVE_PROJECT_ROOT: /srv/archive
+    ARCHIVE_LEGACY_ZIP: /var/cache/archive/syrian-archive-site.zip
+  secrets:
+    - postgres_password
+    - admin_password_hash
+    - session_secret
+  volumes:
+    - ./data:/srv/archive/data
+    - legacy_cache:/var/cache/archive
+
+services:
+  legacy-init:
+    build:
+      context: .
+      dockerfile: Dockerfile.vps
+    user: "0:0"
+    restart: "no"
+    command:
+      - python
+      - -m
+      - control_plane.cli
+      - prepare-legacy
+      - --source
+      - /srv/archive/site-package
+      - --output
+      - /var/cache/archive/syrian-archive-site.zip
+    volumes:
+      - ./site-package:/srv/archive/site-package:ro
+      - legacy_cache:/var/cache/archive
+
+  web:
+    <<: *archive-app
+    command: ["uvicorn", "control_plane.main:app", "--host", "0.0.0.0", "--port", "8000", "--proxy-headers", "--forwarded-allow-ips=*"]
+    depends_on:
+      legacy-init:
+        condition: service_completed_successfully
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health', timeout=3)"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+
+  worker:
+    <<: *archive-app
+    command: ["celery", "-A", "control_plane.tasks:celery_app", "worker", "--loglevel=INFO", "--concurrency=1"]
+    stop_grace_period: 2m
+    depends_on:
+      legacy-init:
+        condition: service_completed_successfully
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+
+  postgres:
+    image: postgres:17-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${ARCHIVE_DATABASE_NAME:-archive_admin}
+      POSTGRES_USER: ${ARCHIVE_DATABASE_USER:-archive}
+      POSTGRES_PASSWORD_FILE: /run/secrets/postgres_password
+    secrets:
+      - postgres_password
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  redis:
+    image: redis:8-alpine
+    restart: unless-stopped
+    command: ["redis-server", "--appendonly", "yes", "--appendfsync", "everysec"]
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    environment:
+      ARCHIVE_DOMAIN: ${ARCHIVE_DOMAIN}
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    volumes:
+      - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      web:
+        condition: service_healthy
+
+secrets:
+  postgres_password:
+    file: ./secrets/postgres_password
+  admin_password_hash:
+    file: ./secrets/admin_password_hash
+  session_secret:
+    file: ./secrets/session_secret
+
+volumes:
+  legacy_cache:
+  postgres_data:
+  redis_data:
+  caddy_data:
+  caddy_config:

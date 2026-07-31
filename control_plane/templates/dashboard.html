@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="page-heading">
+  <div>
+    <p class="eyebrow">مركز التحكم</p>
+    <h1>مهام الجمع</h1>
+    <p class="muted">الحالة محفوظة في قاعدة البيانات، ويمكن إيقاف المهمة واستئنافها.</p>
+  </div>
+  <a class="button primary" href="/admin/jobs/new">مهمة جديدة</a>
+</div>
+
+<section class="card table-card">
+  {% if jobs %}
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>النطاق</th><th>الحالة</th><th>المرحلة</th><th>الحوادث</th><th>المصادر</th><th>آخر تحديث</th></tr></thead>
+      <tbody>
+      {% for job in jobs %}
+        <tr>
+          <td><a href="/admin/jobs/{{ job.id }}">{{ "%04d"|format(job.first_sequence) }}–{{ "%04d"|format(job.last_sequence) }}</a></td>
+          <td><span class="status status-{{ job.status }}">{{ job.status }}</span></td>
+          <td>{{ job.current_stage }}</td>
+          <td>{{ job.incident_completed }}/{{ job.incident_total }}</td>
+          <td>{{ job.source_completed }}/{{ job.source_total }}</td>
+          <td>{{ job.updated_at.strftime('%Y-%m-%d %H:%M') if job.updated_at else '—' }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  {% else %}
+    <div class="empty"><h2>لا توجد مهام بعد</h2><p>أنشئ نطاقًا، راجع الخيارات، ثم ابدأ الجمع.</p></div>
+  {% endif %}
+</section>
+{% endblock %}

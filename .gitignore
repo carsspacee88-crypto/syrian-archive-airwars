@@ -2,8 +2,11 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .venv/
+.venv-vps/
 _site/
 site.zip
 *.tmp
+.env.vps
+secrets/
 data/cache/
 data/generated/
