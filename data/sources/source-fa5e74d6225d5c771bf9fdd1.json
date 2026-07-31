@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "379060"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-fawazelziyab-2006252980803186960-2025-12-31-063559/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.31,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T19:03:02+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 89462,
+      "content_hash": "b9d0907e3174449e1afbec5736cf7a99828b8256734c28e60b09ae05fa76f38c",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.31,
+      "error": null,
+      "final_url": "https://x.com/FawazElziyab/status/2006252980803186960",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:03:02+00:00",
+      "status": 200,
+      "url": "https://x.com/FawazElziyab/status/2006252980803186960",
+      "waiting_seconds": 0.728
+    }
+  ],
+  "author": "https://x.com/FawazElziyab",
+  "captions": [],
+  "content_hash": "07468b1d066f92661280aaaf2bb973fd58fbe0e50a5a15f7affbcbd4142a8403",
+  "content_variants": [
+    {
+      "bytes": 509,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T19:03:02+00:00",
+      "sha256": "07468b1d066f92661280aaaf2bb973fd58fbe0e50a5a15f7affbcbd4142a8403",
+      "source_url": "https://x.com/FawazElziyab/status/2006252980803186960",
+      "text": "Post\n\nPost\n\nفواز الذياب@FawazElziyabقامت عصابة قسد الليلة الماضية بمداهمة احد المنازل في جديدة كحيط في ريف الرقة الشرقي واعتقلت \" باسل اسماعيل اللقمان و شواخ محمد اللقمان\" وهذه هي الصور وصور المنزل وماحل به من خراب.. يبدو ان هذه العصابة حتى وهي تنتظر زوالها تصر على الاجرام6:35 AM · Dec 31, 20253.6KViews4986"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/FawazElziyab/status/2006252980803186960",
+  "incident_ids": [
+    "airwars-387053"
+  ],
+  "incident_sequences": [
+    5
+  ],
+  "normalized_url": "https://x.com/FawazElziyab/status/2006252980803186960",
+  "observed_original_urls": [
+    "https://x.com/FawazElziyab/status/2006252980803186960"
+  ],
+  "original_url": "https://x.com/FawazElziyab/status/2006252980803186960",
+  "page_title": "فواز الذياب on X: \"قامت عصابة قسد الليلة الماضية بمداهمة احد المنازل في جديدة كحيط في ريف الرقة الشرقي واعتقلت \" باسل اسماعيل اللقمان و شواخ محمد اللقمان\" وهذه هي الصور وصور المنزل وماحل به من خراب.. يبدو ان هذه العصابة حتى وهي تنتظر زوالها تصر على الاجرام https://t.co/3IiMFe8UUu\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0180-december-31-2025/",
+      "airwars_source_id": "379060",
+      "incident_id": "airwars-387053",
+      "incident_sequence": 5,
+      "observed_original_url": "https://x.com/FawazElziyab/status/2006252980803186960",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-31T06:35:59.000Z",
+  "publisher": "FawazElziab",
+  "publisher_ar": "FawazElziab",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T19:03:02+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-fa5e74d6225d5c771bf9fdd1",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/FawazElziyab/status/2006252980803186960",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nفواز الذياب@FawazElziyabقامت عصابة قسد الليلة الماضية بمداهمة احد المنازل في جديدة كحيط في ريف الرقة الشرقي واعتقلت \" باسل اسماعيل اللقمان و شواخ محمد اللقمان\" وهذه هي الصور وصور المنزل وماحل به من خراب.. يبدو ان هذه العصابة حتى وهي تنتظر زوالها تصر على الاجرام6:35 AM · Dec 31, 20253.6KViews4986",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001662
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

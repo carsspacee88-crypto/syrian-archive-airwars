@@ -1,0 +1,144 @@
+{
+  "airwars_source_ids": [
+    "181926"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-2025-06-13-182818/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-9: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T19:02:34+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-9: ordinal not in range(128)",
+      "final_url": "https://www.syriahr.com/تصعيد-إيراني-إسرائيلي-على-حساب-الأراض/765563/?fbclid=IwY2xjawLH5R9leHRuA2FlbQIxMQBicmlkETFJRktMS29ISEhVbGNrTUU5AR4-m3npdIRkM-tG7SLFAtZe5xFvzsFBNEEdvPuQ8VrfK1CJLwZSXoK5JyvTWg_aem_beKASNw1rdvYdYIi044CzQ",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:02:34+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/تصعيد-إيراني-إسرائيلي-على-حساب-الأراض/765563/?fbclid=IwY2xjawLH5R9leHRuA2FlbQIxMQBicmlkETFJRktMS29ISEhVbGNrTUU5AR4-m3npdIRkM-tG7SLFAtZe5xFvzsFBNEEdvPuQ8VrfK1CJLwZSXoK5JyvTWg_aem_beKASNw1rdvYdYIi044CzQ",
+      "waiting_seconds": 0.738
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.031,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T19:02:35+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1510,
+      "content_hash": "14c267b29b389c55075c870e08e23d230e51758350edb75c45002ca4e0b68c5a",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.031,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-syriahr-com-2025-06-13-182818/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:02:35+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-syriahr-com-2025-06-13-182818/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.021,
+          "error": "URLError: <urlopen error timed out>",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T19:02:45+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.021,
+      "error": "URLError: <urlopen error timed out>",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%B9%D9%84%D9%89-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%2F765563%2F%3Ffbclid%3DIwY2xjawLH5R9leHRuA2FlbQIxMQBicmlkETFJRktMS29ISEhVbGNrTUU5AR4-m3npdIRkM-tG7SLFAtZe5xFvzsFBNEEdvPuQ8VrfK1CJLwZSXoK5JyvTWg_aem_beKASNw1rdvYdYIi044CzQ&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:02:45+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%B9%D9%84%D9%89-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%2F765563%2F%3Ffbclid%3DIwY2xjawLH5R9leHRuA2FlbQIxMQBicmlkETFJRktMS29ISEhVbGNrTUU5AR4-m3npdIRkM-tG7SLFAtZe5xFvzsFBNEEdvPuQ8VrfK1CJLwZSXoK5JyvTWg_aem_beKASNw1rdvYdYIi044CzQ&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-9: ordinal not in range(128)",
+  "final_redirected_url": "https://www.syriahr.com/تصعيد-إيراني-إسرائيلي-على-حساب-الأراض/765563/?fbclid=IwY2xjawLH5R9leHRuA2FlbQIxMQBicmlkETFJRktMS29ISEhVbGNrTUU5AR4-m3npdIRkM-tG7SLFAtZe5xFvzsFBNEEdvPuQ8VrfK1CJLwZSXoK5JyvTWg_aem_beKASNw1rdvYdYIi044CzQ",
+  "incident_ids": [
+    "airwars-201199"
+  ],
+  "incident_sequences": [
+    61
+  ],
+  "normalized_url": "https://www.syriahr.com/تصعيد-إيراني-إسرائيلي-على-حساب-الأراض/765563/?fbclid=IwY2xjawLH5R9leHRuA2FlbQIxMQBicmlkETFJRktMS29ISEhVbGNrTUU5AR4-m3npdIRkM-tG7SLFAtZe5xFvzsFBNEEdvPuQ8VrfK1CJLwZSXoK5JyvTWg_aem_beKASNw1rdvYdYIi044CzQ",
+  "observed_original_urls": [
+    "https://www.syriahr.com/تصعيد-إيراني-إسرائيلي-على-حساب-الأراض/765563/?fbclid=IwY2xjawLH5R9leHRuA2FlbQIxMQBicmlkETFJRktMS29ISEhVbGNrTUU5AR4-m3npdIRkM-tG7SLFAtZe5xFvzsFBNEEdvPuQ8VrfK1CJLwZSXoK5JyvTWg_aem_beKASNw1rdvYdYIi044CzQ"
+  ],
+  "original_url": "https://www.syriahr.com/تصعيد-إيراني-إسرائيلي-على-حساب-الأراض/765563/?fbclid=IwY2xjawLH5R9leHRuA2FlbQIxMQBicmlkETFJRktMS29ISEhVbGNrTUU5AR4-m3npdIRkM-tG7SLFAtZe5xFvzsFBNEEdvPuQ8VrfK1CJLwZSXoK5JyvTWg_aem_beKASNw1rdvYdYIi044CzQ",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr250613a-june-13-2025/",
+      "airwars_source_id": "181926",
+      "incident_id": "airwars-201199",
+      "incident_sequence": 61,
+      "observed_original_url": "https://www.syriahr.com/تصعيد-إيراني-إسرائيلي-على-حساب-الأراض/765563/?fbclid=IwY2xjawLH5R9leHRuA2FlbQIxMQBicmlkETFJRktMS29ISEhVbGNrTUU5AR4-m3npdIRkM-tG7SLFAtZe5xFvzsFBNEEdvPuQ8VrfK1CJLwZSXoK5JyvTWg_aem_beKASNw1rdvYdYIi044CzQ",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "13 يونيو 2025",
+  "publisher": "syriahr.com",
+  "publisher_ar": "syriahr.com",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T19:02:34+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-f9b987c06ebe058fe81f4a3a",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.syriahr.com/تصعيد-إيراني-إسرائيلي-على-حساب-الأراض/765563/?fbclid=IwY2xjawLH5R9leHRuA2FlbQIxMQBicmlkETFJRktMS29ISEhVbGNrTUU5AR4-m3npdIRkM-tG7SLFAtZe5xFvzsFBNEEdvPuQ8VrfK1CJLwZSXoK5JyvTWg_aem_beKASNw1rdvYdYIi044CzQ",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

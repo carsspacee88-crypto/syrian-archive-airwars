@@ -1,0 +1,111 @@
+{
+  "airwars_source_ids": [
+    "296732",
+    "296181"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-omar_alharir-1985395755385782291-2025-11-03-171649-2/",
+    "https://airwars.org/source/x-com-omar_alharir-1985395755385782291-2025-11-03-171649/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.421,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T19:02:18+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 147249,
+      "content_hash": "3e06be58296e1969b3e7e34045c5cf56bdc1f08dae04db448f08008795eb6f7f",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.421,
+      "error": null,
+      "final_url": "https://x.com/omar_alharir/status/1985395755385782291",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T19:02:18+00:00",
+      "status": 200,
+      "url": "https://x.com/omar_alharir/status/1985395755385782291",
+      "waiting_seconds": 0.733
+    }
+  ],
+  "author": "https://x.com/omar_alharir",
+  "captions": [],
+  "content_hash": "381a6823d023e98e47eea5026c23a941fd716c216847d90f176b109131bf5f13",
+  "content_variants": [
+    {
+      "bytes": 1219,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T19:02:18+00:00",
+      "sha256": "381a6823d023e98e47eea5026c23a941fd716c216847d90f176b109131bf5f13",
+      "source_url": "https://x.com/omar_alharir/status/1985395755385782291",
+      "text": "Post\n\nPost\n\nOmar Alhariri@omar_alharirقدّم التحالف الدولي ضد داعش العزاء بوفاة الشهيد محمود الهليل الشمري لنجليه علي وعلاء الشمري ، وأعرب عن أسفه واعتذاره عن مشاركة طيرانه في المداهمة التي استهدفت منزل الهليل في قرية كرهوك بريف الحسكة ، موضحاً أن مشاركته جاءت بناءً على بلاغ من قوات قسد يفيد بوجود عناصر من تنظيم داعش في القرية.\n\nوأكد التحالف أنه وقع في مصيدة نتيجة بلاغ كاذب من قسد، متعهداً باتخاذ الإجراءات اللازمة بحق المتورطين في هذا الفعل .5:16 PM · Nov 3, 202575.1KViews375379134\n\nhsan kald@alm_j89854Nov 3, 2025والله يا اخي انا من الجزيرة الله وكيلك الي يصرخ بوجهم بس صرخة بقولو عنو داعشي محتلين الجزيرة باسم داعش وماضل ولا داعشي موجود1622.7K\n\nYaman Abo Turki | يمان@YamanAboTurkiNov 3, 2025شلة مرتزقة شو مفكر التحالف يطلع منهم مثلا؟2532.8K"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/omar_alharir/status/1985395755385782291",
+  "incident_ids": [
+    "airwars-297455"
+  ],
+  "incident_sequences": [
+    32
+  ],
+  "normalized_url": "https://x.com/omar_alharir/status/1985395755385782291",
+  "observed_original_urls": [
+    "https://x.com/omar_alharir/status/1985395755385782291"
+  ],
+  "original_url": "https://x.com/omar_alharir/status/1985395755385782291",
+  "page_title": "Omar Alhariri on X: \"قدّم التحالف الدولي ضد داعش العزاء بوفاة الشهيد محمود الهليل الشمري لنجليه علي وعلاء الشمري ، وأعرب عن أسفه واعتذاره عن مشاركة طيرانه في المداهمة التي استهدفت منزل الهليل في قرية كرهوك بريف الحسكة ، موضحاً أن مشاركته جاءت بناءً على بلاغ من قوات قسد يفيد بوجود عناصر من تنظيم داعش في القرية.\n\nوأكد التحالف أنه وقع في مصيدة نتيجة بلاغ كاذب من قسد، متعهداً باتخاذ الإجراءات اللازمة بحق المتورطين في هذا الفعل .\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2015-october-23-2025/",
+      "airwars_source_id": "296732",
+      "incident_id": "airwars-297455",
+      "incident_sequence": 32,
+      "observed_original_url": "https://x.com/omar_alharir/status/1985395755385782291",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2015-october-23-2025/",
+      "airwars_source_id": "296181",
+      "incident_id": "airwars-297455",
+      "incident_sequence": 32,
+      "observed_original_url": "https://x.com/omar_alharir/status/1985395755385782291",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-11-03T17:16:49.000Z",
+  "publisher": "omar_alharir",
+  "publisher_ar": "omar_alharir",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T19:02:18+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-f8cb2e9dae0a5eb55e78ccc2",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/omar_alharir/status/1985395755385782291",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nOmar Alhariri@omar_alharirقدّم التحالف الدولي ضد داعش العزاء بوفاة الشهيد محمود الهليل الشمري لنجليه علي وعلاء الشمري ، وأعرب عن أسفه واعتذاره عن مشاركة طيرانه في المداهمة التي استهدفت منزل الهليل في قرية كرهوك بريف الحسكة ، موضحاً أن مشاركته جاءت بناءً على بلاغ من قوات قسد يفيد بوجود عناصر من تنظيم داعش في القرية.\n\nوأكد التحالف أنه وقع في مصيدة نتيجة بلاغ كاذب من قسد، متعهداً باتخاذ الإجراءات اللازمة بحق المتورطين في هذا الفعل .5:16 PM · Nov 3, 202575.1KViews375379134\n\nhsan kald@alm_j89854Nov 3, 2025والله يا اخي انا من الجزيرة الله وكيلك الي يصرخ بوجهم بس صرخة بقولو عنو داعشي محتلين الجزيرة باسم داعش وماضل ولا داعشي موجود1622.7K\n\nYaman Abo Turki | يمان@YamanAboTurkiNov 3, 2025شلة مرتزقة شو مفكر التحالف يطلع منهم مثلا؟2532.8K",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002409
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
