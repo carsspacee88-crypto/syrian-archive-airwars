@@ -372,16 +372,27 @@ def _validate_pilot(validation: Validation, site_root: Path, project_root: Path)
         if len(ids) > 1 and any(not source_records[source_id].get("exact_content_duplicate_group") for source_id in ids):
             validation.add("critical", "unrecorded_exact_content_duplicate", "data/sources", "Exact duplicate content exists but the duplicate group was not recorded.", sha256=digest, source_ids=ids)
 
-    relationship_path = project_root / "data" / "relationships" / "incident-sources.json"
-    relationships = load_json(relationship_path, {}).get("relationships", [])
+    relationship_root = project_root / "data" / "relationships"
+    relationship_paths = sorted(relationship_root.glob("incident-sources*.json"))
+    primary_relationship_path = relationship_root / "incident-sources.json"
+    primary_relationships = load_json(primary_relationship_path, {}).get("relationships", [])
+    relationships: list[dict[str, Any]] = []
+    relationship_sources: dict[tuple[str, str], str] = {}
+    for relationship_path in relationship_paths:
+        payload = load_json(relationship_path, {}) or {}
+        for relationship in payload.get("relationships", []):
+            relationships.append(relationship)
+            relationship_sources[(relationship.get("incident_id"), relationship.get("source_id"))] = str(relationship_path.relative_to(project_root))
+    all_incident_ids = {path.stem for path in (project_root / "data" / "incidents").glob("*.json")}
     pairs: set[tuple[str, str]] = set()
     for relationship in relationships:
         pair = (relationship.get("incident_id"), relationship.get("source_id"))
+        relationship_path = relationship_sources.get(pair, "data/relationships")
         if pair in pairs:
-            validation.add("critical", "duplicate_incident_source_relationship", str(relationship_path.relative_to(project_root)), "Incident-source relationship is duplicated.", pair=pair)
+            validation.add("critical", "duplicate_incident_source_relationship", relationship_path, "Incident-source relationship is duplicated.", pair=pair)
         pairs.add(pair)
-        if pair[0] not in incident_ids or pair[1] not in source_records:
-            validation.add("critical", "orphan_incident_source_relationship", str(relationship_path.relative_to(project_root)), "Relationship references an incident or source outside the pilot.", pair=pair)
+        if pair[0] not in all_incident_ids or pair[1] not in source_records:
+            validation.add("critical", "orphan_incident_source_relationship", relationship_path, "Relationship references a missing normalized incident or source.", pair=pair)
     for source_id, record in source_records.items():
         for incident_id in record.get("incident_ids", []):
             if (incident_id, source_id) not in pairs:
@@ -405,8 +416,11 @@ def _validate_pilot(validation: Validation, site_root: Path, project_root: Path)
         "manifest_incidents": len(sequences),
         "scope_exact_0001_0100": sequences == list(range(1, 101)),
         "normalized_incidents": len(pilot_records),
-        "source_records": len(source_records),
-        "incident_source_relationships": len(relationships),
+        "source_records": sum(bool(set(record.get("incident_ids", [])) & incident_ids) for record in source_records.values()),
+        "incident_source_relationships": len(primary_relationships),
+        "all_source_records": len(source_records),
+        "all_incident_source_relationships": len(relationships),
+        "relationship_files": [str(path.relative_to(project_root)) for path in relationship_paths],
         "media_placeholders": media_count,
         "media_binaries": len(media_binaries),
         "schema": schema_checks,
