@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "376811"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-kwnan_syria-2004106302474043460-2025-12-25-082551/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.596,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:24:43+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 88673,
+      "content_hash": "3f3e34a4918c52648b3aaa6e44261825900bec18c14304a2164c016f581105c6",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.596,
+      "error": null,
+      "final_url": "https://x.com/yazan_sofan/status/2004106302474043460",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:24:43+00:00",
+      "status": 200,
+      "url": "https://x.com/kwnan_syria/status/2004106302474043460",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "https://x.com/yazan_sofan",
+  "captions": [],
+  "content_hash": "29b714f30c2f83452adbdb0374ba5fbb4b54dcc08eee20dc310d5dfbc9f95690",
+  "content_variants": [
+    {
+      "bytes": 607,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:24:43+00:00",
+      "sha256": "29b714f30c2f83452adbdb0374ba5fbb4b54dcc08eee20dc310d5dfbc9f95690",
+      "source_url": "https://x.com/yazan_sofan/status/2004106302474043460",
+      "text": "Post\n\nPost\n\nيزن صوفان@yazan_sofanعملية أمنية ليلية في ريف الرقة الشرقي :\n\n​نفذت قوات سوريا الديمقراطية (ق س د)، ليلة أمس، عملية أمنية في قرية الشاهر شرقي الرقة، بدعم وتغطية من قوات التحالف الدولي.\nالمداهمة أسفرت عن اعتقال 3 أشخاص، عُرف منهم \"عبد الجبار السوادي\" و\"عبد الله السوادي\".\n​#الرقة #قسد #التحالف_الدولي\n#المحقق_كونان_السوري8:25 AM · Dec 25, 2025102Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/yazan_sofan/status/2004106302474043460",
+  "incident_ids": [
+    "airwars-387047"
+  ],
+  "incident_sequences": [
+    9
+  ],
+  "normalized_url": "https://x.com/kwnan_syria/status/2004106302474043460",
+  "observed_original_urls": [
+    "https://x.com/kwnan_syria/status/2004106302474043460"
+  ],
+  "original_url": "https://x.com/kwnan_syria/status/2004106302474043460",
+  "page_title": "يزن صوفان on X: \"عملية أمنية ليلية في ريف الرقة الشرقي :\n\n​نفذت قوات سوريا الديمقراطية (ق س د)، ليلة أمس، عملية أمنية في قرية الشاهر شرقي الرقة، بدعم وتغطية من قوات التحالف الدولي.\nالمداهمة أسفرت عن اعتقال 3 أشخاص، عُرف منهم \"عبد الجبار السوادي\" و\"عبد الله السوادي\".\n​#الرقة #قسد #التحالف_الدولي\n#المحقق_كونان_السوري\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0173-december-25-2025/",
+      "airwars_source_id": "376811",
+      "incident_id": "airwars-387047",
+      "incident_sequence": 9,
+      "observed_original_url": "https://x.com/kwnan_syria/status/2004106302474043460",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-25T08:25:51.000Z",
+  "publisher": "kwnan_syria",
+  "publisher_ar": "kwnan_syria",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:24:43+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-1cd0d6251ef11a700929c1e1",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/kwnan_syria/status/2004106302474043460",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nيزن صوفان@yazan_sofanعملية أمنية ليلية في ريف الرقة الشرقي :\n\n​نفذت قوات سوريا الديمقراطية (ق س د)، ليلة أمس، عملية أمنية في قرية الشاهر شرقي الرقة، بدعم وتغطية من قوات التحالف الدولي.\nالمداهمة أسفرت عن اعتقال 3 أشخاص، عُرف منهم \"عبد الجبار السوادي\" و\"عبد الله السوادي\".\n​#الرقة #قسد #التحالف_الدولي\n#المحقق_كونان_السوري8:25 AM · Dec 25, 2025102Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001663
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

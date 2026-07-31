@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "274725"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%b9%d8%b3%d8%a7%d9%81-%d8%a7%d9%84%d9%84%d8%ac%d9%8a-pfbid044g1njhx8vlcqoap2zicrysk3xbnqsqx2nydvnf98xbsdxq4d5eds52h4er1irxcl-2025-07-19-090000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.355,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:24:29+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 353634,
+      "content_hash": "71b77f4277232990a88e2669e9a7d86fc5d2583b22e72fae356d46e4038695bd",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.355,
+      "error": null,
+      "final_url": "https://www.facebook.com/kmljmh59/posts/pfbid044g1njhx8VLcqoap2ZiCRYsk3XBnQSQx2NYDVnf98xBsDxQ4D5Eds52h4ER1irxcl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:24:29+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/kmljmh59/posts/pfbid044g1njhx8VLcqoap2ZiCRYsk3XBnQSQx2NYDVnf98xBsDxQ4D5Eds52h4ER1irxcl",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "عساف اللجي",
+  "captions": [],
+  "content_hash": "f9781cd9de5383899bd6ed7026b86d1382eacba2a604dad1c917576791a3f3bb",
+  "content_variants": [
+    {
+      "bytes": 167,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:24:29+00:00",
+      "sha256": "f9781cd9de5383899bd6ed7026b86d1382eacba2a604dad1c917576791a3f3bb",
+      "source_url": "https://www.facebook.com/kmljmh59/posts/pfbid044g1njhx8VLcqoap2ZiCRYsk3XBnQSQx2NYDVnf98xBsDxQ4D5Eds52h4ER1irxcl",
+      "text": "This page isn't available right nowThis may be because of a technical error that we're working to get fixed. Try reloading this page.Go to FeedGo backVisit Help Center"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/kmljmh59/posts/pfbid044g1njhx8VLcqoap2ZiCRYsk3XBnQSQx2NYDVnf98xBsDxQ4D5Eds52h4ER1irxcl",
+  "incident_ids": [
+    "airwars-287558"
+  ],
+  "incident_sequences": [
+    49
+  ],
+  "normalized_url": "https://www.facebook.com/kmljmh59/posts/pfbid044g1njhx8VLcqoap2ZiCRYsk3XBnQSQx2NYDVnf98xBsDxQ4D5Eds52h4ER1irxcl",
+  "observed_original_urls": [
+    "https://www.facebook.com/kmljmh59/posts/pfbid044g1njhx8VLcqoap2ZiCRYsk3XBnQSQx2NYDVnf98xBsDxQ4D5Eds52h4ER1irxcl"
+  ],
+  "original_url": "https://www.facebook.com/kmljmh59/posts/pfbid044g1njhx8VLcqoap2ZiCRYsk3XBnQSQx2NYDVnf98xBsDxQ4D5Eds52h4ER1irxcl",
+  "page_title": "Facebook Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2011-july-19-2025/",
+      "airwars_source_id": "274725",
+      "incident_id": "airwars-287558",
+      "incident_sequence": 49,
+      "observed_original_url": "https://www.facebook.com/kmljmh59/posts/pfbid044g1njhx8VLcqoap2ZiCRYsk3XBnQSQx2NYDVnf98xBsDxQ4D5Eds52h4ER1irxcl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "19 يوليو 2025",
+  "publisher": "Assaf Al-Laji",
+  "publisher_ar": "عساف اللجي",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:24:29+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-1b8c2101dac324ad646b6f32",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/kmljmh59/posts/pfbid044g1njhx8VLcqoap2ZiCRYsk3XBnQSQx2NYDVnf98xBsDxQ4D5Eds52h4ER1irxcl",
+  "text_ar": "",
+  "text_original": "This page isn't available right nowThis may be because of a technical error that we're working to get fixed. Try reloading this page.Go to FeedGo backVisit Help Center",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001413
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

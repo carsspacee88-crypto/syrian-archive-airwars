@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "302744"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-jokerfr25-1942545981821587835-2025-07-08-112707/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.316,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:23:09+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 81937,
+      "content_hash": "21529db94b959ebd34373d1f39082ba96f41927cc8ac7e01b0a2361a3898eed9",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.316,
+      "error": null,
+      "final_url": "https://x.com/jokerfr25/status/1942545981821587835",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:23:09+00:00",
+      "status": 200,
+      "url": "https://x.com/jokerfr25/status/1942545981821587835",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "https://x.com/jokerfr25",
+  "captions": [],
+  "content_hash": "3f4f99e244bff16f7938badaeec932259ca20f2fa2ae7cd75698abda74a59df0",
+  "content_variants": [
+    {
+      "bytes": 549,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:23:09+00:00",
+      "sha256": "3f4f99e244bff16f7938badaeec932259ca20f2fa2ae7cd75698abda74a59df0",
+      "source_url": "https://x.com/jokerfr25/status/1942545981821587835",
+      "text": "Post\n\nPost\n\n👽chaker@jokerfr25المعلومات الأولية تفيد أن شخصين وهما \"فيصل الياسين معرتحرمة\" و \"إبراهيم العبدالله بسرطون\" كانا يستقلان السيارة وبحوزتهما سلاح وذخائر في السيارة، لم يكن هناك أي طائرة تحالف في السماء أثناء حدوث الانفجار، يُرجح أن السيارة تعرضت للانفجار نتيجة الذخائر التي كانت داخلها11:27 AM · Jul 8, 2025150Views3"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/jokerfr25/status/1942545981821587835",
+  "incident_ids": [
+    "airwars-381566"
+  ],
+  "incident_sequences": [
+    52
+  ],
+  "normalized_url": "https://x.com/jokerfr25/status/1942545981821587835",
+  "observed_original_urls": [
+    "https://x.com/jokerfr25/status/1942545981821587835"
+  ],
+  "original_url": "https://x.com/jokerfr25/status/1942545981821587835",
+  "page_title": "👽chaker on X: \"المعلومات الأولية تفيد أن شخصين وهما \"فيصل الياسين معرتحرمة\" و \"إبراهيم العبدالله بسرطون\" كانا يستقلان السيارة وبحوزتهما سلاح وذخائر في السيارة، لم يكن هناك أي طائرة تحالف في السماء أثناء حدوث الانفجار، يُرجح أن السيارة تعرضت للانفجار نتيجة الذخائر التي كانت داخلها https://t.co/lH4qnWgVSY\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0151-july-7-2025/",
+      "airwars_source_id": "302744",
+      "incident_id": "airwars-381566",
+      "incident_sequence": 52,
+      "observed_original_url": "https://x.com/jokerfr25/status/1942545981821587835",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-07-08T11:27:07.000Z",
+  "publisher": "jokerfr25",
+  "publisher_ar": "jokerfr25",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:23:09+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-13ae4f1912a1ab7478f33147",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/jokerfr25/status/1942545981821587835",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\n👽chaker@jokerfr25المعلومات الأولية تفيد أن شخصين وهما \"فيصل الياسين معرتحرمة\" و \"إبراهيم العبدالله بسرطون\" كانا يستقلان السيارة وبحوزتهما سلاح وذخائر في السيارة، لم يكن هناك أي طائرة تحالف في السماء أثناء حدوث الانفجار، يُرجح أن السيارة تعرضت للانفجار نتيجة الذخائر التي كانت داخلها11:27 AM · Jul 8, 2025150Views3",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001854
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

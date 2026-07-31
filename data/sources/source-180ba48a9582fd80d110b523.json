@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "375740"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-deirezzor24-2003410485656580320-2025-12-23-102056/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.245,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:24:04+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 81790,
+      "content_hash": "ed6da7c32e658747181d22f7eeb0c45cd09deb2d3c35e327e0f293548b0233bc",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.245,
+      "error": null,
+      "final_url": "https://x.com/DeirEzzor24/status/2003410485656580320",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:24:04+00:00",
+      "status": 200,
+      "url": "https://x.com/DeirEzzor24/status/2003410485656580320",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "https://x.com/DeirEzzor24",
+  "captions": [],
+  "content_hash": "fbe019843b0a89c7d0232cf3a92c306ff4fa5661004bb3baac861d5256d23237",
+  "content_variants": [
+    {
+      "bytes": 415,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:24:04+00:00",
+      "sha256": "fbe019843b0a89c7d0232cf3a92c306ff4fa5661004bb3baac861d5256d23237",
+      "source_url": "https://x.com/DeirEzzor24/status/2003410485656580320",
+      "text": "Post\n\nPost\n\nديرالزور24@DeirEzzor24#د24:\nأعدمت قسد السيدة \" فطيم البتال\" و ابنها الشاب \"جاسم محمد اللجي\" واختطفت جثتيهما، واعتقلت الإبن الأصغر \"إبراهيم محمد اللجي\" بعد اقتحامها منزلهم في بلدة #جديدة_كحيط شرق #الرقة.\n#أخبار_الرقة10:20 AM · Dec 23, 2025248Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/DeirEzzor24/status/2003410485656580320",
+  "incident_ids": [
+    "airwars-379131"
+  ],
+  "incident_sequences": [
+    13
+  ],
+  "normalized_url": "https://x.com/DeirEzzor24/status/2003410485656580320",
+  "observed_original_urls": [
+    "https://x.com/DeirEzzor24/status/2003410485656580320"
+  ],
+  "original_url": "https://x.com/DeirEzzor24/status/2003410485656580320",
+  "page_title": "ديرالزور24 on X: \"#د24:\nأعدمت قسد السيدة \" فطيم البتال\" و ابنها الشاب \"جاسم محمد اللجي\" واختطفت جثتيهما، واعتقلت الإبن الأصغر \"إبراهيم محمد اللجي\" بعد اقتحامها منزلهم في بلدة #جديدة_كحيط شرق #الرقة.\n#أخبار_الرقة https://t.co/4ITBVAA93W\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2021-december-23-2025/",
+      "airwars_source_id": "375740",
+      "incident_id": "airwars-379131",
+      "incident_sequence": 13,
+      "observed_original_url": "https://x.com/DeirEzzor24/status/2003410485656580320",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-23T10:20:56.000Z",
+  "publisher": "DeirEzzor24",
+  "publisher_ar": "DeirEzzor24",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:24:04+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-180ba48a9582fd80d110b523",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/DeirEzzor24/status/2003410485656580320",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nديرالزور24@DeirEzzor24#د24:\nأعدمت قسد السيدة \" فطيم البتال\" و ابنها الشاب \"جاسم محمد اللجي\" واختطفت جثتيهما، واعتقلت الإبن الأصغر \"إبراهيم محمد اللجي\" بعد اقتحامها منزلهم في بلدة #جديدة_كحيط شرق #الرقة.\n#أخبار_الرقة10:20 AM · Dec 23, 2025248Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001564
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

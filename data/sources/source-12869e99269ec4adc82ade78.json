@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "296805"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a3%d8%ad%d9%85%d8%af-%d8%b9%d9%88%d9%8a%d9%86%d8%a7%d9%86-%d8%b9%d8%a7%d8%b5%d9%8a-%d8%a7%d9%84%d8%ac%d8%b1%d8%a8%d8%a7-pfbid0cncrz2n56bso4trbg8tey6pd7tgk9y1p3pd4tzvsy3hnykafq/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 2.196,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:22:35+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 924908,
+      "content_hash": "f8b1c98c3808a04304f227637ceca1e4bfe320aff5b00f663b3c86229d5a1050",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 2.196,
+      "error": null,
+      "final_url": "https://www.facebook.com/Ahmad.Aasi.aljarbaa/posts/pfbid0CNCRz2n56bso4tRbg8TeY6pd7tgk9Y1P3PD4tZVsY3HnYKAfqXtrgsfMqBp33Y55l",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:22:35+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/Ahmad.Aasi.aljarbaa/posts/pfbid0CNCRz2n56bso4tRbg8TeY6pd7tgk9Y1P3PD4tZVsY3HnYKAfqXtrgsfMqBp33Y55l",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "أحمد عوينان عاصي الجربا",
+  "captions": [],
+  "content_hash": "05c01da19ce854fccf7e50c3e8559ca1f7965b9e7f1e27b18716114edaed2da6",
+  "content_variants": [
+    {
+      "bytes": 168,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:22:35+00:00",
+      "sha256": "05c01da19ce854fccf7e50c3e8559ca1f7965b9e7f1e27b18716114edaed2da6",
+      "source_url": "https://www.facebook.com/Ahmad.Aasi.aljarbaa/posts/pfbid0CNCRz2n56bso4tRbg8TeY6pd7tgk9Y1P3PD4tZVsY3HnYKAfqXtrgsfMqBp33Y55l",
+      "text": "‎أحمد عوينان عاصي الجربا‎'s Post\n\nأحمد عوينان عاصي الجربا Verified account\n\n39w\n\n39w\n\n39w\n\n39w\n\n39w\n\n39w\n\n39w\n\n39w\n\n39w\n\n39w"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Ahmad.Aasi.aljarbaa/posts/pfbid0CNCRz2n56bso4tRbg8TeY6pd7tgk9Y1P3PD4tZVsY3HnYKAfqXtrgsfMqBp33Y55l",
+  "incident_ids": [
+    "airwars-297455"
+  ],
+  "incident_sequences": [
+    32
+  ],
+  "normalized_url": "https://www.facebook.com/Ahmad.Aasi.aljarbaa/posts/pfbid0CNCRz2n56bso4tRbg8TeY6pd7tgk9Y1P3PD4tZVsY3HnYKAfqXtrgsfMqBp33Y55l",
+  "observed_original_urls": [
+    "https://www.facebook.com/Ahmad.Aasi.aljarbaa/posts/pfbid0CNCRz2n56bso4tRbg8TeY6pd7tgk9Y1P3PD4tZVsY3HnYKAfqXtrgsfMqBp33Y55l"
+  ],
+  "original_url": "https://www.facebook.com/Ahmad.Aasi.aljarbaa/posts/pfbid0CNCRz2n56bso4tRbg8TeY6pd7tgk9Y1P3PD4tZVsY3HnYKAfqXtrgsfMqBp33Y55l",
+  "page_title": "أدين بأشد عبارات الأدانة تغول... - أحمد عوينان عاصي الجربا Facebook Verified account Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2015-october-23-2025/",
+      "airwars_source_id": "296805",
+      "incident_id": "airwars-297455",
+      "incident_sequence": 32,
+      "observed_original_url": "https://www.facebook.com/Ahmad.Aasi.aljarbaa/posts/pfbid0CNCRz2n56bso4tRbg8TeY6pd7tgk9Y1P3PD4tZVsY3HnYKAfqXtrgsfMqBp33Y55l",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "25 أكتوبر 2025",
+  "publisher": "Ahmed Oweinan Assi Al-Jarba",
+  "publisher_ar": "أحمد عوينان عاصي الجربا",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:22:35+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-12869e99269ec4adc82ade78",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/Ahmad.Aasi.aljarbaa/posts/pfbid0CNCRz2n56bso4tRbg8TeY6pd7tgk9Y1P3PD4tZVsY3HnYKAfqXtrgsfMqBp33Y55l",
+  "text_ar": "",
+  "text_original": "‎أحمد عوينان عاصي الجربا‎'s Post\n\nأحمد عوينان عاصي الجربا Verified account\n\n39w\n\n39w\n\n39w\n\n39w\n\n39w\n\n39w\n\n39w\n\n39w\n\n39w\n\n39w",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.004877
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

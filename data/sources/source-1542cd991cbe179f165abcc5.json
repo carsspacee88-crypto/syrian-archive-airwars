@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "275236"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-watch-2025-10-07-210416-2/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 2.319,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:23:26+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 972249,
+      "content_hash": "055369330063753ef4f9459cf0fb4be45238ff833c8b9e9bfd3e11a8177f37e6",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 2.319,
+      "error": null,
+      "final_url": "https://www.facebook.com/AlHadath/videos/1453310895722711/",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:23:26+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=1453310895722711",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": "74902366221db9ed27ba375087cb44f1742234f0cc7c56e6086d5125121c9d47",
+  "content_variants": [
+    {
+      "bytes": 255,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:23:26+00:00",
+      "sha256": "74902366221db9ed27ba375087cb44f1742234f0cc7c56e6086d5125121c9d47",
+      "source_url": "https://www.facebook.com/AlHadath/videos/1453310895722711/",
+      "text": "إعلام سوري: مقتل شخص يدعى هاشم محيي الدين رسلان بغارة في ريف إدلب الجنوبي يُرجح أنها للتحالف الدولي\n#إدلب\n#سوريا\n#قناة_الحدث | قناة الحدث Al Hadath"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/AlHadath/videos/1453310895722711/",
+  "incident_ids": [
+    "airwars-287562"
+  ],
+  "incident_sequences": [
+    39
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=1453310895722711",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=1453310895722711"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=1453310895722711",
+  "page_title": "إعلام سوري: مقتل شخص يدعى هاشم محيي الدين رسلان بغارة في ريف إدلب الجنوبي يُرجح أنها للتحالف الدولي\n#إدلب\n#سوريا\n#قناة_الحدث | قناة الحدث Al Hadath",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2013-september-28-2025/",
+      "airwars_source_id": "275236",
+      "incident_id": "airwars-287562",
+      "incident_sequence": 39,
+      "observed_original_url": "https://www.facebook.com/watch/?v=1453310895722711",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "7 أكتوبر 2025",
+  "publisher": "Al-Hadath Channel",
+  "publisher_ar": "Al-Hadath Channel",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:23:26+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-1542cd991cbe179f165abcc5",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=1453310895722711",
+  "text_ar": "",
+  "text_original": "إعلام سوري: مقتل شخص يدعى هاشم محيي الدين رسلان بغارة في ريف إدلب الجنوبي يُرجح أنها للتحالف الدولي\n#إدلب\n#سوريا\n#قناة_الحدث | قناة الحدث Al Hadath",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003479
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

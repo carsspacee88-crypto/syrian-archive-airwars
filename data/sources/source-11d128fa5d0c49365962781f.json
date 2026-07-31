@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "301807"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-derynews-1930631969286537518-2025-06-05-142505/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.216,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:22:16+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 77228,
+      "content_hash": "fb3c0dbb229ea993afca8e1108ba1d8b49a89f0fb255ac4446971a1e093a9d31",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.216,
+      "error": null,
+      "final_url": "https://x.com/DeryNews/status/1930631969286537518",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:22:16+00:00",
+      "status": 200,
+      "url": "https://x.com/DeryNews/status/1930631969286537518",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "https://x.com/DeryNews",
+  "captions": [],
+  "content_hash": "fa0f8a4e45a833546a17b0d4d708a5d19add89bc6b5595aed04005ef5ca6b2a1",
+  "content_variants": [
+    {
+      "bytes": 265,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:22:16+00:00",
+      "sha256": "fa0f8a4e45a833546a17b0d4d708a5d19add89bc6b5595aed04005ef5ca6b2a1",
+      "source_url": "https://x.com/DeryNews/status/1930631969286537518",
+      "text": "Post\n\nPost\n\nعامر هويدي@DeryNewsاعتقلت قوات التحالف الدولي شخص يُدعى \"عواد الفرج\" من قرية #الحريري بريف #الحسكة الجنوبي، دون معرفة الأسباب.2:25 PM · Jun 5, 2025984Views24"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/DeryNews/status/1930631969286537518",
+  "incident_ids": [
+    "airwars-381556"
+  ],
+  "incident_sequences": [
+    69
+  ],
+  "normalized_url": "https://x.com/DeryNews/status/1930631969286537518",
+  "observed_original_urls": [
+    "https://x.com/DeryNews/status/1930631969286537518"
+  ],
+  "original_url": "https://x.com/DeryNews/status/1930631969286537518",
+  "page_title": "عامر هويدي on X: \"اعتقلت قوات التحالف الدولي شخص يُدعى \"عواد الفرج\" من قرية #الحريري بريف #الحسكة الجنوبي، دون معرفة الأسباب.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0142-june-5-2025/",
+      "airwars_source_id": "301807",
+      "incident_id": "airwars-381556",
+      "incident_sequence": 69,
+      "observed_original_url": "https://x.com/DeryNews/status/1930631969286537518",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-06-05T14:25:05.000Z",
+  "publisher": "DeryNews",
+  "publisher_ar": "DeryNews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:22:16+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-11d128fa5d0c49365962781f",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/DeryNews/status/1930631969286537518",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nعامر هويدي@DeryNewsاعتقلت قوات التحالف الدولي شخص يُدعى \"عواد الفرج\" من قرية #الحريري بريف #الحسكة الجنوبي، دون معرفة الأسباب.2:25 PM · Jun 5, 2025984Views24",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001463
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

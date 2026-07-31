@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "296032"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-soheb209-1899795556207153163-2025-03-12-121211/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.24,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:22:01+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 82690,
+      "content_hash": "0a3d3226f84cfe35ae52d0a356bb406de077e2e117e6095564f5d840962d1b43",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.24,
+      "error": null,
+      "final_url": "https://x.com/SOHEB209/status/1899795556207153163",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:22:01+00:00",
+      "status": 200,
+      "url": "https://x.com/SOHEB209/status/1899795556207153163",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "https://x.com/SOHEB209",
+  "captions": [],
+  "content_hash": "ea067993239920d56a3974a53ee06b2b64a2d0c3b4bcae2c2295d69a6763e4ec",
+  "content_variants": [
+    {
+      "bytes": 587,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:22:01+00:00",
+      "sha256": "ea067993239920d56a3974a53ee06b2b64a2d0c3b4bcae2c2295d69a6763e4ec",
+      "source_url": "https://x.com/SOHEB209/status/1899795556207153163",
+      "text": "Post\n\nPost\n\nصهيب اليعربي@SOHEB209#الرقة\nنفذت ميليشيا PYD/PKK أمس بالتعاون مع التحالف الدولي عملية إنزال جوي استهدفت منزلًا في قرية الهورة غرب الرقة وذلك بعد غياب استمر عدة أشهر\n\nجاءت هذه العملية في إطار محاولة الميليشيا تقديم معلومات مضللة للتحالف الدولي، بهدف إيهامه بوجود تنظيم داعش في المنطقة خشية انسحابه منها.12:12 PM · Mar 12, 20251.6KViews4321"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SOHEB209/status/1899795556207153163",
+  "incident_ids": [
+    "airwars-379486"
+  ],
+  "incident_sequences": [
+    88
+  ],
+  "normalized_url": "https://x.com/SOHEB209/status/1899795556207153163",
+  "observed_original_urls": [
+    "https://x.com/SOHEB209/status/1899795556207153163"
+  ],
+  "original_url": "https://x.com/SOHEB209/status/1899795556207153163",
+  "page_title": "صهيب اليعربي on X: \"#الرقة\nنفذت ميليشيا PYD/PKK أمس بالتعاون مع التحالف الدولي عملية إنزال جوي استهدفت منزلًا في قرية الهورة غرب الرقة وذلك بعد غياب استمر عدة أشهر\n\nجاءت هذه العملية في إطار محاولة الميليشيا تقديم معلومات مضللة للتحالف الدولي، بهدف إيهامه بوجود تنظيم داعش في المنطقة خشية انسحابه منها.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0135-march-12-2025/",
+      "airwars_source_id": "296032",
+      "incident_id": "airwars-379486",
+      "incident_sequence": 88,
+      "observed_original_url": "https://x.com/SOHEB209/status/1899795556207153163",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-03-12T12:12:11.000Z",
+  "publisher": "SOHEB209",
+  "publisher_ar": "SOHEB209",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:22:01+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-10ca07e9ddc3e9cd0a489af1",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SOHEB209/status/1899795556207153163",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nصهيب اليعربي@SOHEB209#الرقة\nنفذت ميليشيا PYD/PKK أمس بالتعاون مع التحالف الدولي عملية إنزال جوي استهدفت منزلًا في قرية الهورة غرب الرقة وذلك بعد غياب استمر عدة أشهر\n\nجاءت هذه العملية في إطار محاولة الميليشيا تقديم معلومات مضللة للتحالف الدولي، بهدف إيهامه بوجود تنظيم داعش في المنطقة خشية انسحابه منها.12:12 PM · Mar 12, 20251.6KViews4321",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001565
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

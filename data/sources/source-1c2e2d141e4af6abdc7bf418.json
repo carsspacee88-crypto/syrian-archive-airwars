@@ -1,0 +1,92 @@
+{
+  "airwars_source_ids": [
+    "308471"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/alkhabour-com-%d8%a7%d9%84%d8%ae%d8%a7%d8%a8%d9%88%d8%b1-2025-11-24-203544/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.855,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:24:34+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 49332,
+      "content_hash": "25670c318221dda4d4710b75f3ff359badebd0bbb3ca18fdd51803c01750f57a",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.855,
+      "error": null,
+      "final_url": "https://alkhabour.com/ar/post/4731?fbclid=IwY2xjawJGlvJleHRuA2FlbQIxMAABHeVb5U3IzYI3LVi9jACvjVvj-QJdem4ub3-Nru1a7bapLIbt6oav3gSUIA_aem_wlnsvi1c2mSpTAl5",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:24:34+00:00",
+      "status": 200,
+      "url": "https://alkhabour.com/ar/post/4731?fbclid=IwY2xjawJGlvJleHRuA2FlbQIxMAABHeVb5U3IzYI3LVi9jACvjVvj-QJdem4ub3-Nru1a7bapLIbt6oav3gSUIA_aem_wlnsvi1c2mSpTAl5",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "الخابور",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "parsing_failed",
+  "failure_reason": null,
+  "final_redirected_url": "https://alkhabour.com/ar/post/4731?fbclid=IwY2xjawJGlvJleHRuA2FlbQIxMAABHeVb5U3IzYI3LVi9jACvjVvj-QJdem4ub3-Nru1a7bapLIbt6oav3gSUIA_aem_wlnsvi1c2mSpTAl5",
+  "incident_ids": [
+    "airwars-304188"
+  ],
+  "incident_sequences": [
+    86
+  ],
+  "normalized_url": "https://alkhabour.com/ar/post/4731?fbclid=IwY2xjawJGlvJleHRuA2FlbQIxMAABHeVb5U3IzYI3LVi9jACvjVvj-QJdem4ub3-Nru1a7bapLIbt6oav3gSUIA_aem_wlnsvi1c2mSpTAl5",
+  "observed_original_urls": [
+    "https://alkhabour.com/ar/post/4731?fbclid=IwY2xjawJGlvJleHRuA2FlbQIxMAABHeVb5U3IzYI3LVi9jACvjVvj-QJdem4ub3-Nru1a7bapLIbt6oav3gSUIA_aem_wlnsvi1c2mSpTAl5"
+  ],
+  "original_url": "https://alkhabour.com/ar/post/4731?fbclid=IwY2xjawJGlvJleHRuA2FlbQIxMAABHeVb5U3IzYI3LVi9jACvjVvj-QJdem4ub3-Nru1a7bapLIbt6oav3gSUIA_aem_wlnsvi1c2mSpTAl5",
+  "page_title": "الجيش التركي ينفي استهداف مدنيين في شمالي سوريا الجيش التركي ينفي استهداف مدنيين في شمالي سوريا",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts796-march-16-2025/",
+      "airwars_source_id": "308471",
+      "incident_id": "airwars-304188",
+      "incident_sequence": 86,
+      "observed_original_url": "https://alkhabour.com/ar/post/4731?fbclid=IwY2xjawJGlvJleHRuA2FlbQIxMAABHeVb5U3IzYI3LVi9jACvjVvj-QJdem4ub3-Nru1a7bapLIbt6oav3gSUIA_aem_wlnsvi1c2mSpTAl5",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2026-07-31T21:24:34+03:00 2026-07-31T21:24:34+03:00",
+  "publisher": "Khabur",
+  "publisher_ar": "الخابور",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:24:34+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-1c2e2d141e4af6abdc7bf418",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://alkhabour.com/ar/post/4731?fbclid=IwY2xjawJGlvJleHRuA2FlbQIxMAABHeVb5U3IzYI3LVi9jACvjVvj-QJdem4ub3-Nru1a7bapLIbt6oav3gSUIA_aem_wlnsvi1c2mSpTAl5",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001125
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

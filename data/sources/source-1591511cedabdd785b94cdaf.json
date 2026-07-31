@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "378995"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-anwaralnahar-2005946498186420674-2025-12-30-101808/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.244,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:23:39+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 77279,
+      "content_hash": "4822fe6d5c3471ba9a7969ee77fd439a5ddf9574a3e6edbf877161de6a0f450a",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.244,
+      "error": null,
+      "final_url": "https://x.com/anwaralnahar/status/2005946498186420674",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:23:39+00:00",
+      "status": 200,
+      "url": "https://x.com/anwaralnahar/status/2005946498186420674",
+      "waiting_seconds": 0.746
+    }
+  ],
+  "author": "https://x.com/anwaralnahar",
+  "captions": [],
+  "content_hash": "5eeba7a86a992f2670f0316489f86611a172b654ca501ddb624cac784cd27b06",
+  "content_variants": [
+    {
+      "bytes": 307,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:23:39+00:00",
+      "sha256": "5eeba7a86a992f2670f0316489f86611a172b654ca501ddb624cac784cd27b06",
+      "source_url": "https://x.com/anwaralnahar/status/2005946498186420674",
+      "text": "Post\n\nPost\n\nأنور النهار@anwaralnahar#عاجل| مصادر محلية: قوات التحالف الدولي تطلق عـدة صواريخ من قاعدتها بـ “الشدادي” جنوبي #الحسكة باتجاه البادية السورية.\n#سوريا10:18 AM · Dec 30, 202569Views11"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/anwaralnahar/status/2005946498186420674",
+  "incident_ids": [
+    "airwars-387052"
+  ],
+  "incident_sequences": [
+    7
+  ],
+  "normalized_url": "https://x.com/anwaralnahar/status/2005946498186420674",
+  "observed_original_urls": [
+    "https://x.com/anwaralnahar/status/2005946498186420674"
+  ],
+  "original_url": "https://x.com/anwaralnahar/status/2005946498186420674",
+  "page_title": "أنور النهار on X: \"#عاجل| مصادر محلية: قوات التحالف الدولي تطلق عـدة صواريخ من قاعدتها بـ “الشدادي” جنوبي #الحسكة باتجاه البادية السورية.\n#سوريا\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0179-december-30-2025/",
+      "airwars_source_id": "378995",
+      "incident_id": "airwars-387052",
+      "incident_sequence": 7,
+      "observed_original_url": "https://x.com/anwaralnahar/status/2005946498186420674",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-30T10:18:08.000Z",
+  "publisher": "anwaralnahar",
+  "publisher_ar": "anwaralnahar",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:23:39+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-1591511cedabdd785b94cdaf",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/anwaralnahar/status/2005946498186420674",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nأنور النهار@anwaralnahar#عاجل| مصادر محلية: قوات التحالف الدولي تطلق عـدة صواريخ من قاعدتها بـ “الشدادي” جنوبي #الحسكة باتجاه البادية السورية.\n#سوريا10:18 AM · Dec 30, 202569Views11",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001492
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

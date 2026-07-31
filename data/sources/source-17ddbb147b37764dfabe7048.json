@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "209092"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-watch-2025-07-18-231320/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.445,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:23:58+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 841773,
+      "content_hash": "7e440a8a7b42d2bc79d1d008e609d97e3ed412028c070a784deaaa148d97cf4c",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.445,
+      "error": null,
+      "final_url": "https://www.facebook.com/syriahro/videos/1751795418720574/",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:23:58+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=1751795418720574",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "المرصد السوري",
+  "captions": [],
+  "content_hash": "4ab47824316469873bbc2e722ff71fc41c48efd8255b63ba70201df18abebf92",
+  "content_variants": [
+    {
+      "bytes": 383,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:23:58+00:00",
+      "sha256": "4ab47824316469873bbc2e722ff71fc41c48efd8255b63ba70201df18abebf92",
+      "source_url": "https://www.facebook.com/syriahro/videos/1751795418720574/",
+      "text": "مدير #المرصد_السوري: تصريحات نتنياهو بما يخص تواجد القوات السورية في #يف_دمشق والجنوب السوري تطبق على الأرض.. واليوم إسرائيل شنت ضربات جوية مكثفة على اللواء 112 في ريف #درعا وريف دمشق\nhttps://youtu.be/Sd_dYHAh6aA | المرصد السوري"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/syriahro/videos/1751795418720574/",
+  "incident_ids": [
+    "airwars-276020"
+  ],
+  "incident_sequences": [
+    97
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=1751795418720574",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=1751795418720574"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=1751795418720574",
+  "page_title": "مدير #المرصد_السوري: تصريحات نتنياهو بما يخص تواجد القوات السورية في #يف_دمشق والجنوب السوري تطبق على الأرض.. واليوم إسرائيل شنت ضربات جوية مكثفة على اللواء 112 في ريف #درعا وريف دمشق\nhttps://youtu.be/Sd_dYHAh6aA | المرصد السوري",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy072-february-25-2025/",
+      "airwars_source_id": "209092",
+      "incident_id": "airwars-276020",
+      "incident_sequence": 97,
+      "observed_original_url": "https://www.facebook.com/watch/?v=1751795418720574",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "18 يوليو 2025",
+  "publisher": "The Syrian Monitor",
+  "publisher_ar": "المرصد السوري",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:23:58+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-17ddbb147b37764dfabe7048",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=1751795418720574",
+  "text_ar": "",
+  "text_original": "مدير #المرصد_السوري: تصريحات نتنياهو بما يخص تواجد القوات السورية في #يف_دمشق والجنوب السوري تطبق على الأرض.. واليوم إسرائيل شنت ضربات جوية مكثفة على اللواء 112 في ريف #درعا وريف دمشق\nhttps://youtu.be/Sd_dYHAh6aA | المرصد السوري",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003051
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

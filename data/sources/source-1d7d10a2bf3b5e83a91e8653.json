@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "376815"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-souriapost-2004096150367092892-2025-12-25-074531/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.226,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:24:49+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 81734,
+      "content_hash": "618de54bab457cb1803c2498818bfd4c411d5014fa57c041e12548a5e5b69f0c",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.226,
+      "error": null,
+      "final_url": "https://x.com/souriapost/status/2004096150367092892",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:24:49+00:00",
+      "status": 200,
+      "url": "https://x.com/souriapost/status/2004096150367092892",
+      "waiting_seconds": 0.74
+    }
+  ],
+  "author": "https://x.com/souriapost",
+  "captions": [],
+  "content_hash": "4df60344ca6327a2df76b836e71096a421bfb5611d951e4ee138215a010ea0c9",
+  "content_variants": [
+    {
+      "bytes": 398,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:24:49+00:00",
+      "sha256": "4df60344ca6327a2df76b836e71096a421bfb5611d951e4ee138215a010ea0c9",
+      "source_url": "https://x.com/souriapost/status/2004096150367092892",
+      "text": "Post\n\nPost\n\nSouria Post - سوريا بوست@souriapostقسد نفّذت عملية أمنية ليلاً في قرية الشاهر شرقي الرقة بتغطية من قوات التحالف الدولي أسفرت عن اعتقال ثلاثة أشخاص، عُرف منهم عبد الجبار السوادي وعبد الله السوادي\n#سوريا_بوست7:45 AM · Dec 25, 202577Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/souriapost/status/2004096150367092892",
+  "incident_ids": [
+    "airwars-387047"
+  ],
+  "incident_sequences": [
+    9
+  ],
+  "normalized_url": "https://x.com/souriapost/status/2004096150367092892",
+  "observed_original_urls": [
+    "https://x.com/souriapost/status/2004096150367092892"
+  ],
+  "original_url": "https://x.com/souriapost/status/2004096150367092892",
+  "page_title": "Souria Post - سوريا بوست on X: \"قسد نفّذت عملية أمنية ليلاً في قرية الشاهر شرقي الرقة بتغطية من قوات التحالف الدولي أسفرت عن اعتقال ثلاثة أشخاص، عُرف منهم عبد الجبار السوادي وعبد الله السوادي\n#سوريا_بوست https://t.co/Iv75Neb34k\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0173-december-25-2025/",
+      "airwars_source_id": "376815",
+      "incident_id": "airwars-387047",
+      "incident_sequence": 9,
+      "observed_original_url": "https://x.com/souriapost/status/2004096150367092892",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-25T07:45:31.000Z",
+  "publisher": "souriapost",
+  "publisher_ar": "souriapost",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:24:49+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-1d7d10a2bf3b5e83a91e8653",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/souriapost/status/2004096150367092892",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nSouria Post - سوريا بوست@souriapostقسد نفّذت عملية أمنية ليلاً في قرية الشاهر شرقي الرقة بتغطية من قوات التحالف الدولي أسفرت عن اعتقال ثلاثة أشخاص، عُرف منهم عبد الجبار السوادي وعبد الله السوادي\n#سوريا_بوست7:45 AM · Dec 25, 202577Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001573
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
