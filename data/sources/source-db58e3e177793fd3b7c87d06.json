@@ -1,0 +1,121 @@
+{
+  "airwars_source_ids": [
+    "366824"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/shaam-org-%d8%b4%d8%a7%d9%85-%d9%86%d9%8a%d9%88%d8%b2/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 21-25: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:57:24+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 21-25: ordinal not in range(128)",
+      "final_url": "https://shaam.org/news/syria-news/تصاعد-الانفلات-الأمني-في-شرق-سوريا-وسط-حوادث-قتل-ومداهمات-واسعة",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:57:24+00:00",
+      "status": null,
+      "url": "https://shaam.org/news/syria-news/تصاعد-الانفلات-الأمني-في-شرق-سوريا-وسط-حوادث-قتل-ومداهمات-واسعة",
+      "waiting_seconds": 0.738
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/shaam-org-%d8%b4%d8%a7%d9%85-%d9%86%d9%8a%d9%88%d8%b2/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:57:24+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/shaam-org-%d8%b4%d8%a7%d9%85-%d9%86%d9%8a%d9%88%d8%b2/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_role": "wayback_lookup",
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "ok": false,
+      "retrieved_at": "2026-07-31T18:57:24+00:00"
+    }
+  ],
+  "author": "شام نيوز",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 21-25: ordinal not in range(128)",
+  "final_redirected_url": "https://shaam.org/news/syria-news/تصاعد-الانفلات-الأمني-في-شرق-سوريا-وسط-حوادث-قتل-ومداهمات-واسعة",
+  "incident_ids": [
+    "airwars-367983"
+  ],
+  "incident_sequences": [
+    15
+  ],
+  "normalized_url": "https://shaam.org/news/syria-news/تصاعد-الانفلات-الأمني-في-شرق-سوريا-وسط-حوادث-قتل-ومداهمات-واسعة",
+  "observed_original_urls": [
+    "https://shaam.org/news/syria-news/تصاعد-الانفلات-الأمني-في-شرق-سوريا-وسط-حوادث-قتل-ومداهمات-واسعة"
+  ],
+  "original_url": "https://shaam.org/news/syria-news/تصاعد-الانفلات-الأمني-في-شرق-سوريا-وسط-حوادث-قتل-ومداهمات-واسعة",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2020-december-21-2025/",
+      "airwars_source_id": "366824",
+      "incident_id": "airwars-367983",
+      "incident_sequence": 15,
+      "observed_original_url": "https://shaam.org/news/syria-news/تصاعد-الانفلات-الأمني-في-شرق-سوريا-وسط-حوادث-قتل-ومداهمات-واسعة",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Sham News",
+  "publisher_ar": "شام نيوز",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:57:24+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-db58e3e177793fd3b7c87d06",
+  "source_type": "news_article",
+  "stable_id_basis": "https://shaam.org/news/syria-news/تصاعد-الانفلات-الأمني-في-شرق-سوريا-وسط-حوادث-قتل-ومداهمات-واسعة",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

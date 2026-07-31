@@ -1,0 +1,144 @@
+{
+  "airwars_source_ids": [
+    "313997"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-11-28-090923/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:56:58+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)",
+      "final_url": "https://www.syriahr.com/في-العملية-الأكبر-من-نوعها-منذ-سقوط-الن/785974/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:56:58+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/في-العملية-الأكبر-من-نوعها-منذ-سقوط-الن/785974/",
+      "waiting_seconds": 0.74
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.028,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:56:59+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1880,
+      "content_hash": "702b07b7ac05ba7b482878ffae775a3d1e340db7b390eaeff28ee9a2d7355788",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.028,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-11-28-090923/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:56:59+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2025-11-28-090923/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.27,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:57:10+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.27,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D9%86-%D9%86%D9%88%D8%B9%D9%87%D8%A7-%D9%85%D9%86%D8%B0-%D8%B3%D9%82%D9%88%D8%B7-%D8%A7%D9%84%D9%86%2F785974%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:57:10+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D9%86-%D9%86%D9%88%D8%B9%D9%87%D8%A7-%D9%85%D9%86%D8%B0-%D8%B3%D9%82%D9%88%D8%B7-%D8%A7%D9%84%D9%86%2F785974%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "المرصد السوري",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)",
+  "final_redirected_url": "https://www.syriahr.com/في-العملية-الأكبر-من-نوعها-منذ-سقوط-الن/785974/",
+  "incident_ids": [
+    "airwars-318800"
+  ],
+  "incident_sequences": [
+    24
+  ],
+  "normalized_url": "https://www.syriahr.com/في-العملية-الأكبر-من-نوعها-منذ-سقوط-الن/785974/",
+  "observed_original_urls": [
+    "https://www.syriahr.com/في-العملية-الأكبر-من-نوعها-منذ-سقوط-الن/785974/"
+  ],
+  "original_url": "https://www.syriahr.com/في-العملية-الأكبر-من-نوعها-منذ-سقوط-الن/785974/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy087-november-28-2025/",
+      "airwars_source_id": "313997",
+      "incident_id": "airwars-318800",
+      "incident_sequence": 24,
+      "observed_original_url": "https://www.syriahr.com/في-العملية-الأكبر-من-نوعها-منذ-سقوط-الن/785974/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "28 نوفمبر 2025",
+  "publisher": "Syrian Observatory",
+  "publisher_ar": "المرصد السوري",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:56:58+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-d9d1a65e8d5ea8c4f05b20aa",
+  "source_type": "ngo_report",
+  "stable_id_basis": "https://www.syriahr.com/في-العملية-الأكبر-من-نوعها-منذ-سقوط-الن/785974/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

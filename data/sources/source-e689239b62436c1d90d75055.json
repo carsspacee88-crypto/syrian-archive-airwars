@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "312412"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-abomosaabsharke-1961701887918387410-2025-08-30-080551/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.277,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:58:56+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 81167,
+      "content_hash": "c2d66f1b44dc84ba924a3ff57601977ac34dad247c66d3fc265c9c2d0592150a",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.277,
+      "error": null,
+      "final_url": "https://x.com/AbomosaabSharke/status/1961701887918387410",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:58:56+00:00",
+      "status": 200,
+      "url": "https://x.com/AbomosaabSharke/status/1961701887918387410",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "https://x.com/AbomosaabSharke",
+  "captions": [],
+  "content_hash": "ee925a59e2f4f0d5478f1f666981b7c0b8dd5ccf39f5dfedcd5cb5f54b047973",
+  "content_variants": [
+    {
+      "bytes": 538,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:58:56+00:00",
+      "sha256": "ee925a59e2f4f0d5478f1f666981b7c0b8dd5ccf39f5dfedcd5cb5f54b047973",
+      "source_url": "https://x.com/AbomosaabSharke/status/1961701887918387410",
+      "text": "Post\n\nPost\n\nمراسل الشرقية الرسمي@AbomosaabSharke#ديرالزور\nضمن سياسة الاعتقالات التعسفية والمداهمات العشوائية، اقتحمت ميليشيا “قسد” قرية الزر بريف #ديرالزور الشرقي ونفّذت حملة همجية أسفرت عن اعتقال كل من:\nعلي الحسن السلامة الغياز (45 عاماً)\nحسين علي الدرويش (50 عاماً)\n#مراسل_الشرقية_الرسمي✅8:05 AM · Aug 30, 2025306Views29"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AbomosaabSharke/status/1961701887918387410",
+  "incident_ids": [
+    "airwars-386621"
+  ],
+  "incident_sequences": [
+    43
+  ],
+  "normalized_url": "https://x.com/AbomosaabSharke/status/1961701887918387410",
+  "observed_original_urls": [
+    "https://x.com/AbomosaabSharke/status/1961701887918387410"
+  ],
+  "original_url": "https://x.com/AbomosaabSharke/status/1961701887918387410",
+  "page_title": "مراسل الشرقية الرسمي on X: \"#ديرالزور\nضمن سياسة الاعتقالات التعسفية والمداهمات العشوائية، اقتحمت ميليشيا “قسد” قرية الزر بريف #ديرالزور الشرقي ونفّذت حملة همجية أسفرت عن اعتقال كل من:\nعلي الحسن السلامة الغياز (45 عاماً)\nحسين علي الدرويش (50 عاماً)\n#مراسل_الشرقية_الرسمي✅\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0155-august-30-2025/",
+      "airwars_source_id": "312412",
+      "incident_id": "airwars-386621",
+      "incident_sequence": 43,
+      "observed_original_url": "https://x.com/AbomosaabSharke/status/1961701887918387410",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-08-30T08:05:51.000Z",
+  "publisher": "AbomosaabSharke",
+  "publisher_ar": "AbomosaabSharke",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:58:56+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-e689239b62436c1d90d75055",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AbomosaabSharke/status/1961701887918387410",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nمراسل الشرقية الرسمي@AbomosaabSharke#ديرالزور\nضمن سياسة الاعتقالات التعسفية والمداهمات العشوائية، اقتحمت ميليشيا “قسد” قرية الزر بريف #ديرالزور الشرقي ونفّذت حملة همجية أسفرت عن اعتقال كل من:\nعلي الحسن السلامة الغياز (45 عاماً)\nحسين علي الدرويش (50 عاماً)\n#مراسل_الشرقية_الرسمي✅8:05 AM · Aug 30, 2025306Views29",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001567
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

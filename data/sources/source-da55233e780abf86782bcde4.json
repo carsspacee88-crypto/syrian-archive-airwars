@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "426981"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-drmahmoudhafez3-2027754000188141923-2026-02-28-143322/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.297,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:57:14+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 87830,
+      "content_hash": "62f11cf0dbf49296970823590a00888796e9f625cc3caf7cf0157dc79f78ffa3",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.297,
+      "error": null,
+      "final_url": "https://x.com/DrMahmoudHafez3/status/2027754000188141923",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:57:14+00:00",
+      "status": 200,
+      "url": "https://x.com/DrMahmoudHafez3/status/2027754000188141923",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "https://x.com/DrMahmoudHafez3",
+  "captions": [],
+  "content_hash": "733df2c6059e241e8e8522b38fd68c2c4bc89357045be34ca96a307d6d9bb5dd",
+  "content_variants": [
+    {
+      "bytes": 263,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:57:14+00:00",
+      "sha256": "733df2c6059e241e8e8522b38fd68c2c4bc89357045be34ca96a307d6d9bb5dd",
+      "source_url": "https://x.com/DrMahmoudHafez3/status/2027754000188141923",
+      "text": "Post\n\nPost\n\nDr.Mahmoud Hafez@DrMahmoudHafez3#عاجل_وهـــــــــام\n\n📌 قتلى وجرحى وانهيار ابنية سكنية في #السويداء جراء سقوط صاروخ باليستي ايراني00:002:33 PM · Feb 28, 2026353Views1182"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/DrMahmoudHafez3/status/2027754000188141923",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://x.com/DrMahmoudHafez3/status/2027754000188141923",
+  "observed_original_urls": [
+    "https://x.com/DrMahmoudHafez3/status/2027754000188141923"
+  ],
+  "original_url": "https://x.com/DrMahmoudHafez3/status/2027754000188141923",
+  "page_title": "Dr.Mahmoud Hafez on X: \"#عاجل_وهـــــــــام\n\n📌 قتلى وجرحى وانهيار ابنية سكنية في #السويداء جراء سقوط صاروخ باليستي ايراني https://t.co/gnyipLELrV\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "426981",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://x.com/DrMahmoudHafez3/status/2027754000188141923",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2026-02-28T14:33:22.000Z",
+  "publisher": "DrMahmoudHafez3",
+  "publisher_ar": "DrMahmoudHafez3",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:57:14+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-da55233e780abf86782bcde4",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/DrMahmoudHafez3/status/2027754000188141923",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nDr.Mahmoud Hafez@DrMahmoudHafez3#عاجل_وهـــــــــام\n\n📌 قتلى وجرحى وانهيار ابنية سكنية في #السويداء جراء سقوط صاروخ باليستي ايراني00:002:33 PM · Feb 28, 2026353Views1182",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001879
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

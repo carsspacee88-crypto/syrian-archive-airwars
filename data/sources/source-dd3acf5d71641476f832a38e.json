@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "379194"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%a7%d9%86-pfbid031svfdbm3hmpytsrybzmf5qfkjkcgyglc99vpnmzr1ffbewzpks6pzan5r4cdfpcol-2025-03-19/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.696,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:57:44+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 428411,
+      "content_hash": "55f76b2c36221590ece7e352f91fd8935913178c2082af0c3eb802e3ba29cb27",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.696,
+      "error": null,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid031SvfdBm3hMpYtSryBzMF5qFKJkCGYgLC99vPnmZr1FfbewZpKs6Pzan5r4CDFpCol%26id%3D61573665970205",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:57:44+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid031SvfdBm3hMpYtSryBzMF5qFKJkCGYgLC99vPnmZr1FfbewZpKs6Pzan5r4CDFpCol&id=61573665970205",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "اخبار العالم الان",
+  "captions": [],
+  "content_hash": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+  "content_variants": [
+    {
+      "bytes": 374,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:57:44+00:00",
+      "sha256": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+      "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid031SvfdBm3hMpYtSryBzMF5qFKJkCGYgLC99vPnmZr1FfbewZpKs6Pzan5r4CDFpCol%26id%3D61573665970205",
+      "text": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid031SvfdBm3hMpYtSryBzMF5qFKJkCGYgLC99vPnmZr1FfbewZpKs6Pzan5r4CDFpCol%26id%3D61573665970205",
+  "incident_ids": [
+    "airwars-379487"
+  ],
+  "incident_sequences": [
+    84
+  ],
+  "normalized_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid031SvfdBm3hMpYtSryBzMF5qFKJkCGYgLC99vPnmZr1FfbewZpKs6Pzan5r4CDFpCol&id=61573665970205",
+  "observed_original_urls": [
+    "https://www.facebook.com/permalink.php?story_fbid=pfbid031SvfdBm3hMpYtSryBzMF5qFKJkCGYgLC99vPnmZr1FfbewZpKs6Pzan5r4CDFpCol&id=61573665970205"
+  ],
+  "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid031SvfdBm3hMpYtSryBzMF5qFKJkCGYgLC99vPnmZr1FfbewZpKs6Pzan5r4CDFpCol&id=61573665970205",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0136-march-19-2025/",
+      "airwars_source_id": "379194",
+      "incident_id": "airwars-379487",
+      "incident_sequence": 84,
+      "observed_original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid031SvfdBm3hMpYtSryBzMF5qFKJkCGYgLC99vPnmZr1FfbewZpKs6Pzan5r4CDFpCol&id=61573665970205",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "19 مارس 2025",
+  "publisher": "World news now",
+  "publisher_ar": "اخبار العالم الان",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:57:44+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-dd3acf5d71641476f832a38e",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid031SvfdBm3hMpYtSryBzMF5qFKJkCGYgLC99vPnmZr1FfbewZpKs6Pzan5r4CDFpCol&id=61573665970205",
+  "text_ar": "",
+  "text_original": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002123
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

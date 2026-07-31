@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "271279"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d9%88%d9%83%d8%a7%d9%84%d8%a9-%d8%ae%d8%a8%d8%b1-khbrpress-pfbid02rjeovh2geucqyn3axnan1v5jdx1wtnvhfby66cbqz8c9xnu1ps5gfn8jqevwiqgnl-2025-06-08-090000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.767,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:58:17+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 621570,
+      "content_hash": "b254b3a1c41a9885c10c7025401209fb8d22fdfcf105a0832f3872e071010be6",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.767,
+      "error": null,
+      "final_url": "https://www.facebook.com/khbrpress1/posts/pfbid02rJeoVh2gEucQyn3axNAn1V5jdx1WTNvHFby66cbQZ8c9Xnu1PS5gFN8jqEvwiqGNl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:58:17+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/khbrpress1/posts/pfbid02rJeoVh2gEucQyn3axNAn1V5jdx1WTNvHFby66cbQZ8c9Xnu1PS5gFN8jqEvwiqGNl",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "وكالة خبر - Khbrpress",
+  "captions": [],
+  "content_hash": "b8fad84f351a96a05d9bf63f4269e3c7a27922f8e7530cdfeaf94e6a20837701",
+  "content_variants": [
+    {
+      "bytes": 408,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:58:17+00:00",
+      "sha256": "b8fad84f351a96a05d9bf63f4269e3c7a27922f8e7530cdfeaf94e6a20837701",
+      "source_url": "https://www.facebook.com/khbrpress1/posts/pfbid02rJeoVh2gEucQyn3axNAn1V5jdx1WTNvHFby66cbQZ8c9Xnu1PS5gFN8jqEvwiqGNl",
+      "text": "الإعلام العبري: \"أحد عناصر حركة... - وكالة خبر - Khbrpress\nFacebook‎وكالة خبر - Khbrpress‎'s Post\n\nوكالة خبر - KhbrpressJune 8, 2025 · Shared with Publicالإعلام العبري: \"أحد عناصر حركة ح,,ماس، هو المستهدف بالقصف الإسرائيلي في قرية بيت جن جنوب سوريا\" .All reactions:10LikeComment"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/khbrpress1/posts/pfbid02rJeoVh2gEucQyn3axNAn1V5jdx1WTNvHFby66cbQZ8c9Xnu1PS5gFN8jqEvwiqGNl",
+  "incident_ids": [
+    "airwars-276120"
+  ],
+  "incident_sequences": [
+    68
+  ],
+  "normalized_url": "https://www.facebook.com/khbrpress1/posts/pfbid02rJeoVh2gEucQyn3axNAn1V5jdx1WTNvHFby66cbQZ8c9Xnu1PS5gFN8jqEvwiqGNl",
+  "observed_original_urls": [
+    "https://www.facebook.com/khbrpress1/posts/pfbid02rJeoVh2gEucQyn3axNAn1V5jdx1WTNvHFby66cbQZ8c9Xnu1PS5gFN8jqEvwiqGNl"
+  ],
+  "original_url": "https://www.facebook.com/khbrpress1/posts/pfbid02rJeoVh2gEucQyn3axNAn1V5jdx1WTNvHFby66cbQZ8c9Xnu1PS5gFN8jqEvwiqGNl",
+  "page_title": "الإعلام العبري: \"أحد عناصر حركة... - وكالة خبر - Khbrpress Facebook Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy082-june-8-2025/",
+      "airwars_source_id": "271279",
+      "incident_id": "airwars-276120",
+      "incident_sequence": 68,
+      "observed_original_url": "https://www.facebook.com/khbrpress1/posts/pfbid02rJeoVh2gEucQyn3axNAn1V5jdx1WTNvHFby66cbQZ8c9Xnu1PS5gFN8jqEvwiqGNl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "8 يونيو 2025",
+  "publisher": "Khbrpress Agency",
+  "publisher_ar": "وكالة خبر - Khbrpress",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:58:17+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-e154d4555bddcbf60cb004e1",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/khbrpress1/posts/pfbid02rJeoVh2gEucQyn3axNAn1V5jdx1WTNvHFby66cbQZ8c9Xnu1PS5gFN8jqEvwiqGNl",
+  "text_ar": "",
+  "text_original": "الإعلام العبري: \"أحد عناصر حركة... - وكالة خبر - Khbrpress\nFacebook‎وكالة خبر - Khbrpress‎'s Post\n\nوكالة خبر - KhbrpressJune 8, 2025 · Shared with Publicالإعلام العبري: \"أحد عناصر حركة ح,,ماس، هو المستهدف بالقصف الإسرائيلي في قرية بيت جن جنوب سوريا\" .All reactions:10LikeComment",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002792
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

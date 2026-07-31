@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "295686"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%ad%d9%82%d9%8a%d9%82%d8%a9-%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d8%a9-rastiya-sorese-pfbid0eekbdjqypnuds4tg4kpmetuzzeaf5jgvswp9batywblyoapv8jqjrcnpzamqkkygl-2025-02-25-090000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.686,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:57:33+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 313944,
+      "content_hash": "64f45e9d48cf2c7a774fb45f0fc3ab4add7b46dbf75a7285418deb6fa9555de4",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.686,
+      "error": null,
+      "final_url": "https://www.facebook.com/hawarnees/posts/pfbid0EEKBDjQYpnUDs4tg4KpmeTUZZeaf5jgvSwP9BatYwBLYoapv8JQjRCnPZAmQkKygl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:57:33+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/hawarnees/posts/pfbid0EEKBDjQYpnUDs4tg4KpmeTUZZeaf5jgvSwP9BatYwBLYoapv8JQjRCnPZAmQkKygl",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "حقيقة الثورة / Rastîya Şoreşê",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:57:33+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/hawarnees/posts/pfbid0EEKBDjQYpnUDs4tg4KpmeTUZZeaf5jgvSwP9BatYwBLYoapv8JQjRCnPZAmQkKygl",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/hawarnees/posts/pfbid0EEKBDjQYpnUDs4tg4KpmeTUZZeaf5jgvSwP9BatYwBLYoapv8JQjRCnPZAmQkKygl",
+  "incident_ids": [
+    "airwars-367998"
+  ],
+  "incident_sequences": [
+    98
+  ],
+  "normalized_url": "https://www.facebook.com/hawarnees/posts/pfbid0EEKBDjQYpnUDs4tg4KpmeTUZZeaf5jgvSwP9BatYwBLYoapv8JQjRCnPZAmQkKygl",
+  "observed_original_urls": [
+    "https://www.facebook.com/hawarnees/posts/pfbid0EEKBDjQYpnUDs4tg4KpmeTUZZeaf5jgvSwP9BatYwBLYoapv8JQjRCnPZAmQkKygl"
+  ],
+  "original_url": "https://www.facebook.com/hawarnees/posts/pfbid0EEKBDjQYpnUDs4tg4KpmeTUZZeaf5jgvSwP9BatYwBLYoapv8JQjRCnPZAmQkKygl",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0131-february-25-2025/",
+      "airwars_source_id": "295686",
+      "incident_id": "airwars-367998",
+      "incident_sequence": 98,
+      "observed_original_url": "https://www.facebook.com/hawarnees/posts/pfbid0EEKBDjQYpnUDs4tg4KpmeTUZZeaf5jgvSwP9BatYwBLYoapv8JQjRCnPZAmQkKygl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "25 فبراير 2025",
+  "publisher": "The truth about the revolution / Rastîya Şoreşê",
+  "publisher_ar": "حقيقة الثورة / Rastîya Şoreşê",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:57:33+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-dbcdbceb2269d21bd3fe6fb7",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/hawarnees/posts/pfbid0EEKBDjQYpnUDs4tg4KpmeTUZZeaf5jgvSwP9BatYwBLYoapv8JQjRCnPZAmQkKygl",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001031
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

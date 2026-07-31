@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "363424"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%84%d8%ad%d8%b1%d8%a9-%d9%84%d9%84%d8%ac%d9%85%d9%8a%d8%b9-pfbid02cs2wdogrvckcjkb3lbymqt8nbqysdbtgntahr8ux3wj3z5jrjuqeeg48be58kmtgl-2025/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.4,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:59:00+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 312317,
+      "content_hash": "c1736bb7b0a30262a3d9a06cf67d6761af6a576c58b83543621809f4521a31e8",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.4,
+      "error": null,
+      "final_url": "https://www.facebook.com/PlanetInnovations/posts/pfbid02cS2wdogrVcKCjKB3LByMqt8NbqysdBTgNtAhR8ux3wJ3Z5jrjuqEEG48bE58KmTGl",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:59:00+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/PlanetInnovations/posts/pfbid02cS2wdogrVcKCjKB3LByMqt8NbqysdBTgNtAhR8ux3wJ3Z5jrjuqEEG48bE58KmTGl",
+      "waiting_seconds": 0.735
+    }
+  ],
+  "author": "سوريا الحرة للجميع",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:59:00+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/PlanetInnovations/posts/pfbid02cS2wdogrVcKCjKB3LByMqt8NbqysdBTgNtAhR8ux3wJ3Z5jrjuqEEG48bE58KmTGl",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/PlanetInnovations/posts/pfbid02cS2wdogrVcKCjKB3LByMqt8NbqysdBTgNtAhR8ux3wJ3Z5jrjuqEEG48bE58KmTGl",
+  "incident_ids": [
+    "airwars-367997"
+  ],
+  "incident_sequences": [
+    100
+  ],
+  "normalized_url": "https://www.facebook.com/PlanetInnovations/posts/pfbid02cS2wdogrVcKCjKB3LByMqt8NbqysdBTgNtAhR8ux3wJ3Z5jrjuqEEG48bE58KmTGl",
+  "observed_original_urls": [
+    "https://www.facebook.com/PlanetInnovations/posts/pfbid02cS2wdogrVcKCjKB3LByMqt8NbqysdBTgNtAhR8ux3wJ3Z5jrjuqEEG48bE58KmTGl"
+  ],
+  "original_url": "https://www.facebook.com/PlanetInnovations/posts/pfbid02cS2wdogrVcKCjKB3LByMqt8NbqysdBTgNtAhR8ux3wJ3Z5jrjuqEEG48bE58KmTGl",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0130-february-23-2025/",
+      "airwars_source_id": "363424",
+      "incident_id": "airwars-367997",
+      "incident_sequence": 100,
+      "observed_original_url": "https://www.facebook.com/PlanetInnovations/posts/pfbid02cS2wdogrVcKCjKB3LByMqt8NbqysdBTgNtAhR8ux3wJ3Z5jrjuqEEG48bE58KmTGl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "23 فبراير 2025",
+  "publisher": "Free Syria for all",
+  "publisher_ar": "سوريا الحرة للجميع",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:59:00+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-e723e1ecade8bc227987dc6d",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/PlanetInnovations/posts/pfbid02cS2wdogrVcKCjKB3LByMqt8NbqysdBTgNtAhR8ux3wJ3Z5jrjuqEEG48bE58KmTGl",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001022
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

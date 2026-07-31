@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "426935"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-alghadnews-2027790903352410152-2026-02-28-170000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.314,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:57:52+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 88433,
+      "content_hash": "ad08e3a8416a2f9279ed5d28aa04d41b9433c9ff3b277225ea14c5cadfd5ecf1",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.314,
+      "error": null,
+      "final_url": "https://x.com/AlghadNews/status/2027790903352410152",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:57:52+00:00",
+      "status": 200,
+      "url": "https://x.com/AlghadNews/status/2027790903352410152",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "https://x.com/AlghadNews",
+  "captions": [],
+  "content_hash": "5f6734bf55350eb0d5eb76391907a454f8fd602d8549b32219e8790f0e513ed1",
+  "content_variants": [
+    {
+      "bytes": 613,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:57:52+00:00",
+      "sha256": "5f6734bf55350eb0d5eb76391907a454f8fd602d8549b32219e8790f0e513ed1",
+      "source_url": "https://x.com/AlghadNews/status/2027790903352410152",
+      "text": "Post\n\nPost\n\nجريدة الغد@AlghadNewsمقتل 5 أشخاص وإصابة أكثر من 10 بسقوط حطام صاروخ إيراني في السويداء\n\nالتفاصيل: alghad.com/story/2068566\n\n#جريدة_الغد #السويداء #إيرانalghad.comمقتل 5 أشخاص وإصابة أكثر من 10 بسقوط حطام صاروخ إيراني في السويداءأسفر سقوط حطام صاروخ إيراني على المنطقة الصناعية في السويداء جنوب سوريا عن مقتل 5 أشخاص وإصابة أكثر من 10 آخرين.5:00 PM · Feb 28, 2026435Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AlghadNews/status/2027790903352410152",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://x.com/AlghadNews/status/2027790903352410152",
+  "observed_original_urls": [
+    "https://x.com/AlghadNews/status/2027790903352410152"
+  ],
+  "original_url": "https://x.com/AlghadNews/status/2027790903352410152",
+  "page_title": "جريدة الغد on X: \"مقتل 5 أشخاص وإصابة أكثر من 10 بسقوط حطام صاروخ إيراني في السويداء\n\nالتفاصيل: https://t.co/RTO0slyvpX\n\n#جريدة_الغد #السويداء #إيران\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "426935",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://x.com/AlghadNews/status/2027790903352410152",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2026-02-28T17:00:00.000Z",
+  "publisher": "AlghadNews",
+  "publisher_ar": "AlghadNews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:57:52+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-deccf9ee5436c4f82121215a",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AlghadNews/status/2027790903352410152",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nجريدة الغد@AlghadNewsمقتل 5 أشخاص وإصابة أكثر من 10 بسقوط حطام صاروخ إيراني في السويداء\n\nالتفاصيل: alghad.com/story/2068566\n\n#جريدة_الغد #السويداء #إيرانalghad.comمقتل 5 أشخاص وإصابة أكثر من 10 بسقوط حطام صاروخ إيراني في السويداءأسفر سقوط حطام صاروخ إيراني على المنطقة الصناعية في السويداء جنوب سوريا عن مقتل 5 أشخاص وإصابة أكثر من 10 آخرين.5:00 PM · Feb 28, 2026435Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001577
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
