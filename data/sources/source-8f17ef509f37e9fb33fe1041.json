@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "296661"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-syriawatannews-1980220523977007431-2025-10-20-103218/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.385,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:44:53+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 89539,
+      "content_hash": "b71091d2bfe33f70b223edb308d35394e73f797168c4dcabea71c2d0be93029b",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.385,
+      "error": null,
+      "final_url": "https://x.com/SyriawatanNews/status/1980220523977007431",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:44:53+00:00",
+      "status": 200,
+      "url": "https://x.com/SyriawatanNews/status/1980220523977007431",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "https://x.com/SyriawatanNews",
+  "captions": [],
+  "content_hash": "f4da8218b93c09bdee7ad8a303f8382117879c3889f088e237f6ed1cb4533f66",
+  "content_variants": [
+    {
+      "bytes": 776,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:44:53+00:00",
+      "sha256": "f4da8218b93c09bdee7ad8a303f8382117879c3889f088e237f6ed1cb4533f66",
+      "source_url": "https://x.com/SyriawatanNews/status/1980220523977007431",
+      "text": "Post\n\nPost\n\nأخبار سوريا الوطن Syrian@SyriawatanNewsمقتل \"خالد عبد العزيز المسعود\" القيادي في \"د١١.عش\" الذي اعتقلته قوات التحالف خلال عملية انزال جوي في مدينة #الضمير بريف #دمشق الشرقي.\n\nالمسعود قتل متأثراً بجراحه بعد أن اعتقلته قوات التحالف من منزله بعد حصارها للحي الذي يقطنه، و تعرضه لإصابة فوق البطن أثناء عملية الاعتقال، مما أدى إلى وفاته لاحقًا، و و بحسب الأنباء الواردة سيسلم جثمانه إلى ذويه في وقت لاحق من هذا الاسبوع .10:32 AM · Oct 20, 20251.6KViews272"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyriawatanNews/status/1980220523977007431",
+  "incident_ids": [
+    "airwars-297454"
+  ],
+  "incident_sequences": [
+    36
+  ],
+  "normalized_url": "https://x.com/SyriawatanNews/status/1980220523977007431",
+  "observed_original_urls": [
+    "https://x.com/SyriawatanNews/status/1980220523977007431"
+  ],
+  "original_url": "https://x.com/SyriawatanNews/status/1980220523977007431",
+  "page_title": "أخبار سوريا الوطن Syrian on X: \"مقتل \"خالد عبد العزيز المسعود\" القيادي في \"د١١.عش\" الذي اعتقلته قوات التحالف خلال عملية انزال جوي في مدينة #الضمير بريف #دمشق الشرقي.\n\nالمسعود قتل متأثراً بجراحه بعد أن اعتقلته قوات التحالف من منزله بعد حصارها للحي الذي يقطنه، و تعرضه لإصابة فوق البطن أثناء عملية الاعتقال، مما أدى إلى وفاته لاحقًا، و و بحسب الأنباء الواردة سيسلم جثمانه إلى ذويه في وقت لاحق من هذا الاسبوع .\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2014-october-18-2025/",
+      "airwars_source_id": "296661",
+      "incident_id": "airwars-297454",
+      "incident_sequence": 36,
+      "observed_original_url": "https://x.com/SyriawatanNews/status/1980220523977007431",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-10-20T10:32:18.000Z",
+  "publisher": "SyriawatanNews",
+  "publisher_ar": "SyriawatanNews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:44:53+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-8f17ef509f37e9fb33fe1041",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyriawatanNews/status/1980220523977007431",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nأخبار سوريا الوطن Syrian@SyriawatanNewsمقتل \"خالد عبد العزيز المسعود\" القيادي في \"د١١.عش\" الذي اعتقلته قوات التحالف خلال عملية انزال جوي في مدينة #الضمير بريف #دمشق الشرقي.\n\nالمسعود قتل متأثراً بجراحه بعد أن اعتقلته قوات التحالف من منزله بعد حصارها للحي الذي يقطنه، و تعرضه لإصابة فوق البطن أثناء عملية الاعتقال، مما أدى إلى وفاته لاحقًا، و و بحسب الأنباء الواردة سيسلم جثمانه إلى ذويه في وقت لاحق من هذا الاسبوع .10:32 AM · Oct 20, 20251.6KViews272",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001692
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

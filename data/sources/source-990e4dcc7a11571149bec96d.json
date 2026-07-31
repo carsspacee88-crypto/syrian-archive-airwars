@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "271317"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-hammamfahim-1931788272658686153-2025-06-08-185949-2/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.421,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:46:34+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 49966,
+      "content_hash": "01d4aa8e139b873b3a813e2f16cd8945c08ea1ed20a3c12466db030eb32464c2",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.421,
+      "error": null,
+      "final_url": "https://x.com/HammamFahim/status/1931788272658686153",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:46:34+00:00",
+      "status": 200,
+      "url": "https://x.com/HammamFahim/status/1931788272658686153",
+      "waiting_seconds": 0.736
+    }
+  ],
+  "author": "HammamFahim",
+  "captions": [],
+  "content_hash": "e35dac4f39812f90513918f9804bfde1d8bd91ae6b8869f4b67208eed67d7b6c",
+  "content_variants": [
+    {
+      "bytes": 29,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:46:34+00:00",
+      "sha256": "e35dac4f39812f90513918f9804bfde1d8bd91ae6b8869f4b67208eed67d7b6c",
+      "source_url": "https://x.com/HammamFahim/status/1931788272658686153",
+      "text": "PostLog inSign upPost144Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/HammamFahim/status/1931788272658686153",
+  "incident_ids": [
+    "airwars-276120"
+  ],
+  "incident_sequences": [
+    68
+  ],
+  "normalized_url": "https://x.com/HammamFahim/status/1931788272658686153",
+  "observed_original_urls": [
+    "https://x.com/HammamFahim/status/1931788272658686153"
+  ],
+  "original_url": "https://x.com/HammamFahim/status/1931788272658686153",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy082-june-8-2025/",
+      "airwars_source_id": "271317",
+      "incident_id": "airwars-276120",
+      "incident_sequence": 68,
+      "observed_original_url": "https://x.com/HammamFahim/status/1931788272658686153",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "8 يونيو 2025",
+  "publisher": "HammamFahim",
+  "publisher_ar": "HammamFahim",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:46:34+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-990e4dcc7a11571149bec96d",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/HammamFahim/status/1931788272658686153",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost144Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001039
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

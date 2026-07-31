@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "426946"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-presssuwayda-2027744869263815094-2026-02-28-135705/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.288,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:46:07+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 89148,
+      "content_hash": "0e2af7305b84f402753211776c176bed3aaa7b8e45db26c9d96547ea647953e0",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.288,
+      "error": null,
+      "final_url": "https://x.com/presssuwayda/status/2027744869263815094",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:46:07+00:00",
+      "status": 200,
+      "url": "https://x.com/presssuwayda/status/2027744869263815094",
+      "waiting_seconds": 0.736
+    }
+  ],
+  "author": "https://x.com/presssuwayda",
+  "captions": [],
+  "content_hash": "73a8d2b33a2b33721a5b4ab7c2044b7158c6575978676c0fdd3b99241fd4c4da",
+  "content_variants": [
+    {
+      "bytes": 1154,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:46:07+00:00",
+      "sha256": "73a8d2b33a2b33721a5b4ab7c2044b7158c6575978676c0fdd3b99241fd4c4da",
+      "source_url": "https://x.com/presssuwayda/status/2027744869263815094",
+      "text": "Post\n\nPost\n\nالسويداء برس@presssuwaydaمصادر طبية للسويداء برس: تم التعرف على جميع الجثامين التي وصلت إلى مشفى السويداء الوطني جرّاء الانفجار الذي وقع في المنطقة الصناعية: الشقيقان طارق ووليد إسماعيل الأعور، الطفلان ورد طارق الأعور، وسيف إسماعيل الشيخ، والشاب محمود إحسان مزهر.\n\nكما أشارت المصادر إلى إسعاف شخصين مصابين بشظايا حيث جرى تقديم العلاج اللازم لهما.\n\nووقع الانفجار في ساعات الظهيرة داخل المنطقة الصناعية، بالتزامن مع عمليات اعتراضية في الأجواء، وفق مراسل السويداء برس، حيث تضاربت المعلومات حول أسبابه بين مصادر تحدثت عن سقوط بقايا صاروخ، ومصادر أخرى قالت إن الانفجار كان من داخل المبنى نتيجة صاروخ من مخلفات الحرب.1:57 PM · Feb 28, 20261.3KViews1323"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/presssuwayda/status/2027744869263815094",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://x.com/presssuwayda/status/2027744869263815094",
+  "observed_original_urls": [
+    "https://x.com/presssuwayda/status/2027744869263815094"
+  ],
+  "original_url": "https://x.com/presssuwayda/status/2027744869263815094",
+  "page_title": "السويداء برس on X: \"مصادر طبية للسويداء برس: تم التعرف على جميع الجثامين التي وصلت إلى مشفى السويداء الوطني جرّاء الانفجار الذي وقع في المنطقة الصناعية: الشقيقان طارق ووليد إسماعيل الأعور، الطفلان ورد طارق الأعور، وسيف إسماعيل الشيخ، والشاب محمود إحسان مزهر.\n\nكما أشارت المصادر إلى إسعاف شخصين مصابين بشظايا حيث جرى تقديم العلاج اللازم لهما.\n\nووقع الانفجار في ساعات الظهيرة داخل المنطقة الصناعية، بالتزامن مع عمليات اعتراضية في الأجواء، وفق مراسل السويداء برس، حيث تضاربت المعلومات حول أسبابه بين مصادر تحدثت عن سقوط بقايا صاروخ، ومصادر أخرى قالت إن الانفجار كان من داخل المبنى نتيجة صاروخ من مخلفات الحرب.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "426946",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://x.com/presssuwayda/status/2027744869263815094",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2026-02-28T13:57:05.000Z",
+  "publisher": "presssuwayda",
+  "publisher_ar": "presssuwayda",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:46:07+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-960a3f03a343fb65f2130090",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/presssuwayda/status/2027744869263815094",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالسويداء برس@presssuwaydaمصادر طبية للسويداء برس: تم التعرف على جميع الجثامين التي وصلت إلى مشفى السويداء الوطني جرّاء الانفجار الذي وقع في المنطقة الصناعية: الشقيقان طارق ووليد إسماعيل الأعور، الطفلان ورد طارق الأعور، وسيف إسماعيل الشيخ، والشاب محمود إحسان مزهر.\n\nكما أشارت المصادر إلى إسعاف شخصين مصابين بشظايا حيث جرى تقديم العلاج اللازم لهما.\n\nووقع الانفجار في ساعات الظهيرة داخل المنطقة الصناعية، بالتزامن مع عمليات اعتراضية في الأجواء، وفق مراسل السويداء برس، حيث تضاربت المعلومات حول أسبابه بين مصادر تحدثت عن سقوط بقايا صاروخ، ومصادر أخرى قالت إن الانفجار كان من داخل المبنى نتيجة صاروخ من مخلفات الحرب.1:57 PM · Feb 28, 20261.3KViews1323",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001726
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

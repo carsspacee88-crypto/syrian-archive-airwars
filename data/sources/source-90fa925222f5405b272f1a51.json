@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "378305"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-backstage_24-2010446304250610167-2026-01-11-201845/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.482,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:45:15+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 83580,
+      "content_hash": "86b63214c94dba75444d0d046428fd23356784bfdfbee9e861437dd5a962a855",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.482,
+      "error": null,
+      "final_url": "https://x.com/backstage_24/status/2010446304250610167",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:45:15+00:00",
+      "status": 200,
+      "url": "https://x.com/backstage_24/status/2010446304250610167",
+      "waiting_seconds": 0.732
+    }
+  ],
+  "author": "https://x.com/backstage_24",
+  "captions": [],
+  "content_hash": "d9f9d3b072d56746a41714acc85499c5cae11b0665e0e2c796bbfd314b95e764",
+  "content_variants": [
+    {
+      "bytes": 365,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:45:15+00:00",
+      "sha256": "d9f9d3b072d56746a41714acc85499c5cae11b0665e0e2c796bbfd314b95e764",
+      "source_url": "https://x.com/backstage_24/status/2010446304250610167",
+      "text": "Post\n\nPost\n\nكواليس سوريا@backstage_24#الرقة\n#قسد تُطلق سراح الأشقاء \"أحمد وبسام و حسين العلي\" بعد 6 أشهر من اعتقالهم من مدينة الرقة بتهمة انتمائهم لتنظيم الدولة، وهم من سكان حي #المشلب في المدينة8:18 PM · Jan 11, 20262.1KViews138"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/backstage_24/status/2010446304250610167",
+  "incident_ids": [
+    "airwars-381564"
+  ],
+  "incident_sequences": [
+    54
+  ],
+  "normalized_url": "https://x.com/backstage_24/status/2010446304250610167",
+  "observed_original_urls": [
+    "https://x.com/backstage_24/status/2010446304250610167"
+  ],
+  "original_url": "https://x.com/backstage_24/status/2010446304250610167",
+  "page_title": "كواليس سوريا on X: \"#الرقة\n#قسد تُطلق سراح الأشقاء \"أحمد وبسام و حسين العلي\" بعد 6 أشهر من اعتقالهم من مدينة الرقة بتهمة انتمائهم لتنظيم الدولة، وهم من سكان حي #المشلب في المدينة https://t.co/N2riTq1OfC\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0149-july-4-2025/",
+      "airwars_source_id": "378305",
+      "incident_id": "airwars-381564",
+      "incident_sequence": 54,
+      "observed_original_url": "https://x.com/backstage_24/status/2010446304250610167",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2026-01-11T20:18:45.000Z",
+  "publisher": "backstage_24",
+  "publisher_ar": "backstage_24",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:45:15+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-90fa925222f5405b272f1a51",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/backstage_24/status/2010446304250610167",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nكواليس سوريا@backstage_24#الرقة\n#قسد تُطلق سراح الأشقاء \"أحمد وبسام و حسين العلي\" بعد 6 أشهر من اعتقالهم من مدينة الرقة بتهمة انتمائهم لتنظيم الدولة، وهم من سكان حي #المشلب في المدينة8:18 PM · Jan 11, 20262.1KViews138",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001609
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

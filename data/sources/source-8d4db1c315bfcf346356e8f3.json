@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "286678"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-radioshamfm-1973820233866723627-2025-10-02-183950/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.271,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:44:20+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 81488,
+      "content_hash": "0ece748a8265134f4b7e83eae794d313bdddc7d7e9535f6766773d45083bf3ff",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.271,
+      "error": null,
+      "final_url": "https://x.com/radioshamfm/status/1973820233866723627",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:44:20+00:00",
+      "status": 200,
+      "url": "https://x.com/radioshamfm/status/1973820233866723627",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "https://x.com/radioshamfm",
+  "captions": [],
+  "content_hash": "76a49eb302dccf583ae6be516eb2f2c2faa3b1e6324d7aaf10e6a9d85b9d28b1",
+  "content_variants": [
+    {
+      "bytes": 333,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:44:20+00:00",
+      "sha256": "76a49eb302dccf583ae6be516eb2f2c2faa3b1e6324d7aaf10e6a9d85b9d28b1",
+      "source_url": "https://x.com/radioshamfm/status/1973820233866723627",
+      "text": "Post\n\nPost\n\nSham fm شام إف إم@radioshamfm#إدلب\nمراسل شام إف إم: طائرة مسيرة يرجح أنها تابعة للتحالف الدولي تستهـ.ـدف سيارة على طريق #حارم - #سرمدا شمالي المحافظة\n\n#شام_إف_إم #للخبر_مصدر6:39 PM · Oct 2, 2025257Views2"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/radioshamfm/status/1973820233866723627",
+  "incident_ids": [
+    "airwars-386626"
+  ],
+  "incident_sequences": [
+    37
+  ],
+  "normalized_url": "https://x.com/radioshamfm/status/1973820233866723627",
+  "observed_original_urls": [
+    "https://x.com/radioshamfm/status/1973820233866723627"
+  ],
+  "original_url": "https://x.com/radioshamfm/status/1973820233866723627",
+  "page_title": "Sham fm شام إف إم on X: \"#إدلب\nمراسل شام إف إم: طائرة مسيرة يرجح أنها تابعة للتحالف الدولي تستهـ.ـدف سيارة على طريق #حارم - #سرمدا شمالي المحافظة\n\n#شام_إف_إم #للخبر_مصدر https://t.co/fIh8H5XByD\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0158-october-2-2025/",
+      "airwars_source_id": "286678",
+      "incident_id": "airwars-386626",
+      "incident_sequence": 37,
+      "observed_original_url": "https://x.com/radioshamfm/status/1973820233866723627",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-10-02T18:39:50.000Z",
+  "publisher": "radioshamfm",
+  "publisher_ar": "radioshamfm",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:44:20+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-8d4db1c315bfcf346356e8f3",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/radioshamfm/status/1973820233866723627",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nSham fm شام إف إم@radioshamfm#إدلب\nمراسل شام إف إم: طائرة مسيرة يرجح أنها تابعة للتحالف الدولي تستهـ.ـدف سيارة على طريق #حارم - #سرمدا شمالي المحافظة\n\n#شام_إف_إم #للخبر_مصدر6:39 PM · Oct 2, 2025257Views2",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001589
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

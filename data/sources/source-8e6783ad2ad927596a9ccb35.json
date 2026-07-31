@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "271289"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-asharqnewssyr-1932090313746571459-2025-06-09-150001/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.418,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:44:25+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 50013,
+      "content_hash": "c0e8cd95ce6a25faeebbead6a6f556ff9c26d575f581babc21a6962ee5747735",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.418,
+      "error": null,
+      "final_url": "https://x.com/AsharqNewsSYR/status/1932090313746571459",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:44:25+00:00",
+      "status": 200,
+      "url": "https://x.com/AsharqNewsSYR/status/1932090313746571459",
+      "waiting_seconds": 0.739
+    }
+  ],
+  "author": "AsharqNewsSYR",
+  "captions": [],
+  "content_hash": "86f979d4fca1b8ee524fc665e3f4799e7e171a9f1a4ffcc245a2704acdd8c084",
+  "content_variants": [
+    {
+      "bytes": 29,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:44:25+00:00",
+      "sha256": "86f979d4fca1b8ee524fc665e3f4799e7e171a9f1a4ffcc245a2704acdd8c084",
+      "source_url": "https://x.com/AsharqNewsSYR/status/1932090313746571459",
+      "text": "PostLog inSign upPost391Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AsharqNewsSYR/status/1932090313746571459",
+  "incident_ids": [
+    "airwars-276120"
+  ],
+  "incident_sequences": [
+    68
+  ],
+  "normalized_url": "https://x.com/AsharqNewsSYR/status/1932090313746571459",
+  "observed_original_urls": [
+    "https://x.com/AsharqNewsSYR/status/1932090313746571459"
+  ],
+  "original_url": "https://x.com/AsharqNewsSYR/status/1932090313746571459",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy082-june-8-2025/",
+      "airwars_source_id": "271289",
+      "incident_id": "airwars-276120",
+      "incident_sequence": 68,
+      "observed_original_url": "https://x.com/AsharqNewsSYR/status/1932090313746571459",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "9 يونيو 2025",
+  "publisher": "AsharqNewsSYR",
+  "publisher_ar": "AsharqNewsSYR",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:44:25+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-8e6783ad2ad927596a9ccb35",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AsharqNewsSYR/status/1932090313746571459",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost391Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001109
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

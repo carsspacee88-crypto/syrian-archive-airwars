@@ -1,0 +1,121 @@
+{
+  "airwars_source_ids": [
+    "275793"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-user155-2025-10-02-181837/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-11: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:47:09+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-11: ordinal not in range(128)",
+      "final_url": "https://www.syriahr.com/معلومات-عن-خسائر-بشرية-غارة-للتحالف-ال/778946/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:47:09+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/معلومات-عن-خسائر-بشرية-غارة-للتحالف-ال/778946/",
+      "waiting_seconds": 0.74
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/www-syriahr-com-user155-2025-10-02-181837/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:47:09+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/www-syriahr-com-user155-2025-10-02-181837/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_role": "wayback_lookup",
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "ok": false,
+      "retrieved_at": "2026-07-31T18:47:09+00:00"
+    }
+  ],
+  "author": "المرصد السوري",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-11: ordinal not in range(128)",
+  "final_redirected_url": "https://www.syriahr.com/معلومات-عن-خسائر-بشرية-غارة-للتحالف-ال/778946/",
+  "incident_ids": [
+    "airwars-386626"
+  ],
+  "incident_sequences": [
+    37
+  ],
+  "normalized_url": "https://www.syriahr.com/معلومات-عن-خسائر-بشرية-غارة-للتحالف-ال/778946/",
+  "observed_original_urls": [
+    "https://www.syriahr.com/معلومات-عن-خسائر-بشرية-غارة-للتحالف-ال/778946/"
+  ],
+  "original_url": "https://www.syriahr.com/معلومات-عن-خسائر-بشرية-غارة-للتحالف-ال/778946/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0158-october-2-2025/",
+      "airwars_source_id": "275793",
+      "incident_id": "airwars-386626",
+      "incident_sequence": 37,
+      "observed_original_url": "https://www.syriahr.com/معلومات-عن-خسائر-بشرية-غارة-للتحالف-ال/778946/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2 أكتوبر 2025",
+  "publisher": "Syrian Observatory",
+  "publisher_ar": "المرصد السوري",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:47:09+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-9da6dc5d6efa195f8c32c6e1",
+  "source_type": "ngo_report",
+  "stable_id_basis": "https://www.syriahr.com/معلومات-عن-خسائر-بشرية-غارة-للتحالف-ال/778946/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

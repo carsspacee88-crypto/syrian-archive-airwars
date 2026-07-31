@@ -1,0 +1,144 @@
+{
+  "airwars_source_ids": [
+    "187352"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-hamsathaara-1934945854239993928-2025-06-17-120655/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.215,
+          "error": "http_404",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:44:40+00:00",
+          "status": 404
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 36759,
+      "content_hash": "9b01c000a5d4b57c3875cb36a74a21408772af1a9261741f3c3f612ebd283dd1",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.215,
+      "error": "http_404",
+      "final_url": "https://x.com/HamsatHaara/status/1934945854239993928",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:44:40+00:00",
+      "status": 404,
+      "url": "https://x.com/HamsatHaara/status/1934945854239993928",
+      "waiting_seconds": 0.738
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.028,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:44:41+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1620,
+      "content_hash": "7a236c5030578ddd204357f804fdc0b54985337af29f52168ad44af294d7e1d7",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.028,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/x-com-hamsathaara-1934945854239993928-2025-06-17-120655/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:44:41+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/x-com-hamsathaara-1934945854239993928-2025-06-17-120655/",
+      "waiting_seconds": 0.749
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.336,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:44:52+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.336,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fx.com%2FHamsatHaara%2Fstatus%2F1934945854239993928&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:44:52+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fx.com%2FHamsatHaara%2Fstatus%2F1934945854239993928&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "HamsatHaara",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_404",
+  "final_redirected_url": "https://x.com/HamsatHaara/status/1934945854239993928",
+  "incident_ids": [
+    "airwars-190695"
+  ],
+  "incident_sequences": [
+    66
+  ],
+  "normalized_url": "https://x.com/HamsatHaara/status/1934945854239993928",
+  "observed_original_urls": [
+    "https://x.com/HamsatHaara/status/1934945854239993928"
+  ],
+  "original_url": "https://x.com/HamsatHaara/status/1934945854239993928",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2009-june-10-2025/",
+      "airwars_source_id": "187352",
+      "incident_id": "airwars-190695",
+      "incident_sequence": 66,
+      "observed_original_url": "https://x.com/HamsatHaara/status/1934945854239993928",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "17 يونيو 2025",
+  "publisher": "HamsatHaara",
+  "publisher_ar": "HamsatHaara",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:44:40+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-8ef412dc95929635357b0755",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/HamsatHaara/status/1934945854239993928",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

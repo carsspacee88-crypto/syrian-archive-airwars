@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "427015"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-ittih7_-2027730063894937933-2026-02-28-125815/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.293,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:45:05+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 76729,
+      "content_hash": "0217192a5442e8894e3d37c26b81b048ee74296aed604328e287362993bbd970",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.293,
+      "error": null,
+      "final_url": "https://x.com/ITTIH7_/status/2027730063894937933",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:45:05+00:00",
+      "status": 200,
+      "url": "https://x.com/ITTIH7_/status/2027730063894937933",
+      "waiting_seconds": 0.74
+    }
+  ],
+  "author": "https://x.com/ITTIH7_",
+  "captions": [],
+  "content_hash": "5c87b8b3723a9704034df58fdfe450dffc986342adbd3a47ad6a6ae57e3b4b43",
+  "content_variants": [
+    {
+      "bytes": 248,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:45:05+00:00",
+      "sha256": "5c87b8b3723a9704034df58fdfe450dffc986342adbd3a47ad6a6ae57e3b4b43",
+      "source_url": "https://x.com/ITTIH7_/status/2027730063894937933",
+      "text": "Post\n\nPost\n\n7@ITTIH7_5 قتلى وعدد من الاصابات اثر محاولة فاشلة لتصنيع صاروخ على ايدي أتباع الدرزي حكمت الهجري في السويداء السورية12:58 PM · Feb 28, 2026322Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/ITTIH7_/status/2027730063894937933",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://x.com/ITTIH7_/status/2027730063894937933",
+  "observed_original_urls": [
+    "https://x.com/ITTIH7_/status/2027730063894937933"
+  ],
+  "original_url": "https://x.com/ITTIH7_/status/2027730063894937933",
+  "page_title": "7 on X: \"5 قتلى وعدد من الاصابات اثر محاولة فاشلة لتصنيع صاروخ على ايدي أتباع الدرزي حكمت الهجري في السويداء السورية https://t.co/bMzt8IvJfq\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "427015",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://x.com/ITTIH7_/status/2027730063894937933",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2026-02-28T12:58:15.000Z",
+  "publisher": "ITTIH7_",
+  "publisher_ar": "ITTIH7_",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:45:05+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-902a0d850ff5ea95c37f6280",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/ITTIH7_/status/2027730063894937933",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\n7@ITTIH7_5 قتلى وعدد من الاصابات اثر محاولة فاشلة لتصنيع صاروخ على ايدي أتباع الدرزي حكمت الهجري في السويداء السورية12:58 PM · Feb 28, 2026322Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001459
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
