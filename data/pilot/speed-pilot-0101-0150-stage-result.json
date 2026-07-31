@@ -1,10 +1,295 @@
 {
-  "completed": 481,
   "done": true,
-  "duplicate_records_updated": 0,
-  "exact_content_duplicate_groups": 26,
-  "processed": 0,
-  "recorded_at": "2026-07-31T20:48:18+00:00",
-  "stage": "sources",
-  "total": 481
+  "recorded_at": "2026-07-31T20:48:19+00:00",
+  "report": {
+    "comparison": {
+      "actual_collection_wall_seconds": 466.392,
+      "baseline": "first-100 serial collector normalized to this incident and source count",
+      "baseline_equivalent_seconds": 1510.91,
+      "speedup_factor": 3.24,
+      "time_saved_seconds": 1044.518
+    },
+    "configuration": {
+      "global_workers": 6,
+      "passes": [
+        "live",
+        "archive_retry_only_when_original_text_missing"
+      ],
+      "per_host_delay_seconds": 0.75,
+      "per_host_workers": 1,
+      "retries": 1,
+      "timeout_seconds": 10.0
+    },
+    "fetching": {
+      "incident": {
+        "circuit_skips": 144,
+        "circuit_state": {
+          "airwars.org": {
+            "consecutive_failures": 3,
+            "last_checked_at": "2026-07-31T20:16:35+00:00",
+            "last_result": "suppressed",
+            "opened_at_epoch": 1785528995.3188014,
+            "opens": 1,
+            "suppressed_requests": 97
+          },
+          "web.archive.org": {
+            "consecutive_failures": 3,
+            "last_checked_at": "2026-07-31T20:16:57+00:00",
+            "last_result": "suppressed",
+            "opened_at_epoch": 1785529017.0768497,
+            "opens": 1,
+            "suppressed_requests": 47
+          }
+        },
+        "requests": 6,
+        "retries": 0,
+        "waiting_seconds": 3.716
+      },
+      "source": {
+        "circuit_skips": 323,
+        "circuit_state": {
+          "aa.com.tr": {
+            "consecutive_failures": 0,
+            "last_checked_at": "2026-07-31T20:17:03+00:00",
+            "last_result": "successful_content_response",
+            "opened_at_epoch": null,
+            "opens": 0,
+            "suppressed_requests": 0
+          },
+          "airwars.org": {
+            "consecutive_failures": 3,
+            "last_checked_at": "2026-07-31T20:19:31+00:00",
+            "last_result": "suppressed",
+            "opened_at_epoch": 1785529171.4070733,
+            "opens": 1,
+            "suppressed_requests": 19
+          },
+          "alyaumtv.net": {
+            "consecutive_failures": 3,
+            "last_checked_at": "2026-07-31T20:17:01+00:00",
+            "last_result": "suppressed",
+            "opened_at_epoch": 1785529021.1088824,
+            "opens": 1,
+            "suppressed_requests": 2
+          },
+          "anfarabic.com": {
+            "consecutive_failures": 3,
+            "last_checked_at": "2026-07-31T20:17:00+00:00",
+            "last_result": "suppressed",
+            "opened_at_epoch": 1785529020.9190507,
+            "opens": 1,
+            "suppressed_requests": 20
+          },
+          "arabic.anf-news.com": {
+            "consecutive_failures": 0,
+            "last_checked_at": "2026-07-31T20:20:07+00:00",
+            "last_result": "successful_content_response",
+            "opened_at_epoch": null,
+            "opens": 0,
+            "suppressed_requests": 0
+          },
+          "archive.is": {
+            "consecutive_failures": 3,
+            "last_checked_at": "2026-07-31T20:19:33+00:00",
+            "last_result": "suppressed",
+            "opened_at_epoch": 1785529173.315729,
+            "opens": 1,
+            "suppressed_requests": 6
+          },
+          "archive.ph": {
+            "consecutive_failures": 3,
+            "last_checked_at": "2026-07-31T20:19:33+00:00",
+            "last_result": "suppressed",
+            "opened_at_epoch": 1785529173.7746737,
+            "opens": 1,
+            "suppressed_requests": 89
+          },
+          "basnews.com": {
+            "consecutive_failures": 3,
+            "last_checked_at": "2026-07-31T20:17:00+00:00",
+            "last_result": "suppressed",
+            "opened_at_epoch": 1785529020.9764068,
+            "opens": 1,
+            "suppressed_requests": 2
+          },
+          "facebook.com": {
+            "consecutive_failures": 0,
+            "last_checked_at": "2026-07-31T20:22:54+00:00",
+            "last_result": "successful_content_response",
+            "opened_at_epoch": null,
+            "opens": 0,
+            "suppressed_requests": 0
+          },
+          "hawarnews.com": {
+            "consecutive_failures": 0,
+            "last_checked_at": "2026-07-31T20:22:19+00:00",
+            "last_result": "successful_content_response",
+            "opened_at_epoch": null,
+            "opens": 0,
+            "suppressed_requests": 0
+          },
+          "instagram.com": {
+            "consecutive_failures": 0,
+            "last_checked_at": "2026-07-31T20:17:02+00:00",
+            "last_result": "successful_content_response",
+            "opened_at_epoch": null,
+            "opens": 0,
+            "suppressed_requests": 0
+          },
+          "kurd-online.com": {
+            "consecutive_failures": 0,
+            "last_checked_at": "2026-07-31T20:22:11+00:00",
+            "last_result": "successful_content_response",
+            "opened_at_epoch": null,
+            "opens": 0,
+            "suppressed_requests": 0
+          },
+          "nabdapp.com": {
+            "consecutive_failures": 0,
+            "last_checked_at": "2026-07-31T20:17:00+00:00",
+            "last_result": "successful_content_response",
+            "opened_at_epoch": null,
+            "opens": 0,
+            "suppressed_requests": 0
+          },
+          "nabdsyria.tv": {
+            "consecutive_failures": 0,
+            "last_checked_at": "2026-07-31T20:17:00+00:00",
+            "last_result": "successful_content_response",
+            "opened_at_epoch": null,
+            "opens": 0,
+            "suppressed_requests": 0
+          },
+          "npasyria.com": {
+            "consecutive_failures": 3,
+            "last_checked_at": "2026-07-31T20:17:00+00:00",
+            "last_result": "suppressed",
+            "opened_at_epoch": 1785529020.948064,
+            "opens": 1,
+            "suppressed_requests": 16
+          },
+          "nudem.org": {
+            "consecutive_failures": 0,
+            "last_checked_at": "2026-07-31T20:20:06+00:00",
+            "last_result": "not_found",
+            "opened_at_epoch": null,
+            "opens": 0,
+            "suppressed_requests": 0
+          },
+          "rojnews.news": {
+            "consecutive_failures": 0,
+            "last_checked_at": "2026-07-31T20:22:13+00:00",
+            "last_result": "successful_content_response",
+            "opened_at_epoch": null,
+            "opens": 0,
+            "suppressed_requests": 0
+          },
+          "ronahi.tv": {
+            "consecutive_failures": 3,
+            "last_checked_at": "2026-07-31T20:17:00+00:00",
+            "last_result": "suppressed",
+            "opened_at_epoch": 1785529020.8658712,
+            "opens": 1,
+            "suppressed_requests": 23
+          },
+          "rudawarabia.net": {
+            "consecutive_failures": 0,
+            "last_checked_at": "2026-07-31T20:20:05+00:00",
+            "last_result": "successful_content_response",
+            "opened_at_epoch": null,
+            "opens": 0,
+            "suppressed_requests": 0
+          },
+          "shaam.org": {
+            "consecutive_failures": 0,
+            "last_checked_at": "2026-07-31T20:22:10+00:00",
+            "last_result": "successful_content_response",
+            "opened_at_epoch": null,
+            "opens": 0,
+            "suppressed_requests": 0
+          },
+          "syria.liveuamap.com": {
+            "consecutive_failures": 1,
+            "last_checked_at": "2026-07-31T20:20:05+00:00",
+            "last_result": "http_403",
+            "opened_at_epoch": null,
+            "opens": 0,
+            "suppressed_requests": 0
+          },
+          "syriahr.com": {
+            "consecutive_failures": 3,
+            "last_checked_at": "2026-07-31T20:17:00+00:00",
+            "last_result": "suppressed",
+            "opened_at_epoch": 1785529020.9035075,
+            "opens": 1,
+            "suppressed_requests": 33
+          },
+          "vdc-nsy.com": {
+            "consecutive_failures": 3,
+            "last_checked_at": "2026-07-31T20:20:06+00:00",
+            "last_result": "suppressed",
+            "opened_at_epoch": 1785529206.027817,
+            "opens": 1,
+            "suppressed_requests": 2
+          },
+          "web.archive.org": {
+            "consecutive_failures": 3,
+            "last_checked_at": "2026-07-31T20:24:11+00:00",
+            "last_result": "suppressed",
+            "opened_at_epoch": 1785529451.6433592,
+            "opens": 2,
+            "suppressed_requests": 11
+          },
+          "x.com": {
+            "consecutive_failures": 0,
+            "last_checked_at": "2026-07-31T20:22:15+00:00",
+            "last_result": "successful_content_response",
+            "opened_at_epoch": null,
+            "opens": 0,
+            "suppressed_requests": 0
+          }
+        },
+        "requests": 405,
+        "retries": 0,
+        "waiting_seconds": 257.35
+      }
+    },
+    "generated_at": "2026-07-31T20:48:19+00:00",
+    "incidents": {
+      "count": 50,
+      "mean_seconds": 0.695,
+      "status_counts": {
+        "blocked": 50
+      },
+      "wall_seconds": 35.291
+    },
+    "media_binaries_downloaded": 0,
+    "scope": {
+      "count": 50,
+      "first_sequence": 101,
+      "last_sequence": 150
+    },
+    "sources": {
+      "archive_deferred_existing_text": 0,
+      "cache_hits": 0,
+      "mean_task_seconds": 68.261,
+      "status_counts": {
+        "archive_lookup_failed": 117,
+        "no_archive_capture": 6,
+        "successful": 358
+      },
+      "texts_preserved": 357,
+      "unique": 481,
+      "wall_seconds": 431.101
+    },
+    "translation_policy": "disabled_by_user",
+    "validation": {
+      "all_scope_incidents_present": true,
+      "all_sources_present": true,
+      "generated_translations": 0,
+      "media_binary_bytes": 0,
+      "outside_scope_sequences_processed": []
+    }
+  },
+  "stage": "report"
 }

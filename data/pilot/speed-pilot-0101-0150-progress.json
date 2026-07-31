@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-07-31T20:47:52+00:00",
+  "finished_at": "2026-07-31T20:48:19+00:00",
   "incident_completed_sequences": [
     101,
     102,
@@ -7580,8 +7580,15 @@
       "result": "complete",
       "stage": "source_collection",
       "started_at": "2026-07-31T20:48:17+00:00"
+    },
+    {
+      "duration_seconds": 0.247,
+      "finished_at": "2026-07-31T20:48:19+00:00",
+      "result": "complete",
+      "stage": "report",
+      "started_at": "2026-07-31T20:48:19+00:00"
     }
   ],
   "started_at": "2026-07-31T20:16:21+00:00",
-  "updated_at": "2026-07-31T20:48:18+00:00"
+  "updated_at": "2026-07-31T20:48:19+00:00"
 }
