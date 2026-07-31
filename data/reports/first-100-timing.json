@@ -1,6 +1,6 @@
 {
   "active_collection_seconds": 3909.648,
-  "generated_at": "2026-07-31T19:04:34+00:00",
+  "generated_at": "2026-07-31T19:10:22+00:00",
   "incident": {
     "count": 100,
     "mean_seconds": 12.325,
@@ -9,24 +9,24 @@
     "total_seconds": 1232.452
   },
   "incident_text_extraction_seconds": 0.0,
-  "pilot_finish_utc": "2026-07-31T19:04:34+00:00",
+  "pilot_finish_utc": "2026-07-31T19:10:22+00:00",
   "pilot_start_utc": "2026-07-31T16:27:34Z",
   "post_collection_stages": [
     {
-      "duration_seconds": 16.0,
-      "finished_at": "2026-07-31T19:04:52+00:00",
+      "duration_seconds": 21.0,
+      "finished_at": "2026-07-31T19:10:45+00:00",
       "result": "complete",
       "stage": "static_site_generation"
     },
     {
-      "duration_seconds": 11.0,
-      "finished_at": "2026-07-31T19:05:03+00:00",
+      "duration_seconds": 10.0,
+      "finished_at": "2026-07-31T19:10:55+00:00",
       "result": "complete",
       "stage": "artifact_generation"
     },
     {
-      "duration_seconds": 55.0,
-      "finished_at": "2026-07-31T19:05:59+00:00",
+      "duration_seconds": 37.0,
+      "finished_at": "2026-07-31T19:11:32+00:00",
       "result": "complete",
       "stage": "validation"
     }
@@ -192,10 +192,70 @@
       "result": "complete",
       "stage": "translation",
       "started_at": "2026-07-31T19:04:19+00:00"
+    },
+    {
+      "duration_seconds": 1.178,
+      "finished_at": "2026-07-31T19:04:34+00:00",
+      "result": "complete",
+      "stage": "reports",
+      "started_at": "2026-07-31T19:04:33+00:00"
+    },
+    {
+      "duration_seconds": 16.0,
+      "finished_at": "2026-07-31T19:04:52+00:00",
+      "result": "complete",
+      "stage": "static_site_generation"
+    },
+    {
+      "duration_seconds": 11.0,
+      "finished_at": "2026-07-31T19:05:03+00:00",
+      "result": "complete",
+      "stage": "artifact_generation"
+    },
+    {
+      "duration_seconds": 55.0,
+      "finished_at": "2026-07-31T19:05:59+00:00",
+      "result": "complete",
+      "stage": "validation"
+    },
+    {
+      "duration_seconds": 0.152,
+      "finished_at": "2026-07-31T19:10:12+00:00",
+      "result": "complete",
+      "stage": "manifest",
+      "started_at": "2026-07-31T19:10:12+00:00"
+    },
+    {
+      "duration_seconds": 0.065,
+      "finished_at": "2026-07-31T19:10:14+00:00",
+      "result": "complete",
+      "stage": "incident_collection",
+      "started_at": "2026-07-31T19:10:14+00:00"
+    },
+    {
+      "duration_seconds": 0.438,
+      "finished_at": "2026-07-31T19:10:15+00:00",
+      "result": "complete",
+      "stage": "source_collection",
+      "started_at": "2026-07-31T19:10:15+00:00"
+    },
+    {
+      "duration_seconds": 2.901,
+      "finished_at": "2026-07-31T19:10:19+00:00",
+      "result": "complete",
+      "stage": "media_placeholders",
+      "started_at": "2026-07-31T19:10:17+00:00"
+    },
+    {
+      "duration_seconds": 0.012,
+      "finished_at": "2026-07-31T19:10:21+00:00",
+      "result": "complete",
+      "stage": "translation",
+      "started_at": "2026-07-31T19:10:21+00:00"
     }
   ],
   "text_extraction_seconds": 4.167,
-  "total_wall_clock_seconds": 9420.0,
+  "total_wall_clock_seconds": 9768.0,
   "translation": {
     "chunk_count": 0,
     "total_seconds": 0

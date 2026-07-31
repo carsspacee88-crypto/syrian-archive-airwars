@@ -1,5 +1,5 @@
 {
-  "finished_at": "2026-07-31T19:04:34+00:00",
+  "finished_at": "2026-07-31T19:10:23+00:00",
   "incident_completed_sequences": [
     1,
     2,
@@ -12634,6 +12634,31 @@
       "result": "complete",
       "stage": "translation",
       "started_at": "2026-07-31T19:10:21+00:00"
+    },
+    {
+      "duration_seconds": 0.959,
+      "finished_at": "2026-07-31T19:10:23+00:00",
+      "result": "complete",
+      "stage": "reports",
+      "started_at": "2026-07-31T19:10:22+00:00"
+    },
+    {
+      "duration_seconds": 21.0,
+      "finished_at": "2026-07-31T19:10:45+00:00",
+      "result": "complete",
+      "stage": "static_site_generation"
+    },
+    {
+      "duration_seconds": 10.0,
+      "finished_at": "2026-07-31T19:10:55+00:00",
+      "result": "complete",
+      "stage": "artifact_generation"
+    },
+    {
+      "duration_seconds": 37.0,
+      "finished_at": "2026-07-31T19:11:32+00:00",
+      "result": "complete",
+      "stage": "validation"
     }
   ],
   "started_at": "2026-07-31T16:27:34Z",
@@ -14178,5 +14203,5 @@
     "source:source-ffa5172cae609190786db3db",
     "source:source-ffd5e852c1077b554e311344"
   ],
-  "updated_at": "2026-07-31T19:10:21+00:00"
+  "updated_at": "2026-07-31T19:11:32+00:00"
 }
