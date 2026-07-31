@@ -1,7 +1,10 @@
 from __future__ import annotations
 
 import asyncio
+import json
+import tempfile
 import unittest
+from pathlib import Path
 from unittest.mock import Mock
 
 import httpx
@@ -12,6 +15,7 @@ from archive_pipeline.speed_pilot import (
     _inherit_airwars_circuit_classification,
     _merge_previous_source,
     _new_source_record,
+    _record_exact_content_duplicate_groups,
     _scope_sequences,
     should_defer_archive,
 )
@@ -77,6 +81,20 @@ class CircuitBreakerTests(unittest.TestCase):
 
 
 class SpeedPilotPolicyTests(unittest.TestCase):
+    def test_exact_content_duplicates_are_recorded_without_merging_sources(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            for source_id in ("source-a", "source-b"):
+                (root / f"{source_id}.json").write_text(json.dumps({
+                    "source_id": source_id,
+                    "content_hash": "a" * 64,
+                }), encoding="utf-8")
+            groups, updated = _record_exact_content_duplicate_groups(root)
+            self.assertEqual((groups, updated), (1, 2))
+            first = json.loads((root / "source-a.json").read_text(encoding="utf-8"))
+            second = json.loads((root / "source-b.json").read_text(encoding="utf-8"))
+            self.assertEqual(first["exact_content_duplicate_group"], second["exact_content_duplicate_group"])
+
     def test_same_batch_403_evidence_classifies_circuit_skips_as_blocked(self) -> None:
         base = {
             "incident_code": "TEST",
