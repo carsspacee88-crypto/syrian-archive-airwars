@@ -1,4 +1,5 @@
 {
+  "finished_at": "2026-07-31T20:24:15+00:00",
   "incident_completed_sequences": [
     101,
     102,
@@ -478,6 +479,7 @@
     }
   ],
   "pilot": "speed-pilot-0101-0150",
+  "result": "complete",
   "scope": {
     "count": 50,
     "first_sequence": 101,
@@ -7466,8 +7468,15 @@
       "result": "complete",
       "stage": "source_collection",
       "started_at": "2026-07-31T20:22:09+00:00"
+    },
+    {
+      "duration_seconds": 0.189,
+      "finished_at": "2026-07-31T20:24:15+00:00",
+      "result": "complete",
+      "stage": "report",
+      "started_at": "2026-07-31T20:24:14+00:00"
     }
   ],
   "started_at": "2026-07-31T20:16:21+00:00",
-  "updated_at": "2026-07-31T20:24:12+00:00"
+  "updated_at": "2026-07-31T20:24:15+00:00"
 }
