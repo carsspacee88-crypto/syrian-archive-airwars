@@ -1,7 +1,482 @@
 {
-  "incident_completed_sequences": [],
-  "incident_fetch_stats": {},
-  "incident_timings": [],
+  "incident_completed_sequences": [
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150
+  ],
+  "incident_fetch_stats": {
+    "circuit_skips": 144,
+    "circuit_state": {
+      "airwars.org": {
+        "consecutive_failures": 3,
+        "last_checked_at": "2026-07-31T20:16:35+00:00",
+        "last_result": "suppressed",
+        "opened_at_epoch": 1785528995.3188014,
+        "opens": 1,
+        "suppressed_requests": 97
+      },
+      "web.archive.org": {
+        "consecutive_failures": 3,
+        "last_checked_at": "2026-07-31T20:16:57+00:00",
+        "last_result": "suppressed",
+        "opened_at_epoch": 1785529017.0768497,
+        "opens": 1,
+        "suppressed_requests": 47
+      }
+    },
+    "requests": 6,
+    "retries": 0,
+    "waiting_seconds": 3.716
+  },
+  "incident_timings": [
+    {
+      "duration_seconds": 11.961,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:34+00:00",
+      "internal_id": "airwars-367994",
+      "sequence": 101,
+      "status": "blocked"
+    },
+    {
+      "duration_seconds": 11.638,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:46+00:00",
+      "internal_id": "airwars-367995",
+      "sequence": 102,
+      "status": "blocked"
+    },
+    {
+      "duration_seconds": 10.891,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-367993",
+      "sequence": 103,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.006,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-367992",
+      "sequence": 104,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.006,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-285735",
+      "sequence": 105,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-290199",
+      "sequence": 106,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.004,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-367991",
+      "sequence": 107,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.004,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-270476",
+      "sequence": 108,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.006,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-275994",
+      "sequence": 109,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.004,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-276016",
+      "sequence": 110,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-290197",
+      "sequence": 111,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-290201",
+      "sequence": 112,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.006,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-290195",
+      "sequence": 113,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-367990",
+      "sequence": 114,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.004,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-367989",
+      "sequence": 115,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.004,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-275410",
+      "sequence": 116,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-290193",
+      "sequence": 117,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-262599",
+      "sequence": 118,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-367988",
+      "sequence": 119,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.006,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-256436",
+      "sequence": 120,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-258243",
+      "sequence": 121,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-256434",
+      "sequence": 122,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-264745",
+      "sequence": 123,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.021,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-256431",
+      "sequence": 124,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-256429",
+      "sequence": 125,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-275992",
+      "sequence": 126,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-256427",
+      "sequence": 127,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-264896",
+      "sequence": 128,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.006,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-264889",
+      "sequence": 129,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-256439",
+      "sequence": 130,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-256424",
+      "sequence": 131,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-275990",
+      "sequence": 132,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-134986",
+      "sequence": 133,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-134998",
+      "sequence": 134,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.006,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-264891",
+      "sequence": 135,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-263436",
+      "sequence": 136,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-367987",
+      "sequence": 137,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.006,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-262328",
+      "sequence": 138,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.004,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-264887",
+      "sequence": 139,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.004,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-240852",
+      "sequence": 140,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.004,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-263434",
+      "sequence": 141,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.004,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-256417",
+      "sequence": 142,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.004,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-103685",
+      "sequence": 143,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-134756",
+      "sequence": 144,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.004,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-258192",
+      "sequence": 145,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.004,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-256420",
+      "sequence": 146,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.004,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-263432",
+      "sequence": 147,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.004,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-256422",
+      "sequence": 148,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.005,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-264885",
+      "sequence": 149,
+      "status": "failed"
+    },
+    {
+      "duration_seconds": 0.004,
+      "error": null,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "internal_id": "airwars-367985",
+      "sequence": 150,
+      "status": "failed"
+    }
+  ],
   "pilot": "speed-pilot-0101-0150",
   "scope": {
     "count": 50,
@@ -19,8 +494,15 @@
       "result": "complete",
       "stage": "manifest",
       "started_at": "2026-07-31T20:16:21+00:00"
+    },
+    {
+      "duration_seconds": 34.838,
+      "finished_at": "2026-07-31T20:16:57+00:00",
+      "result": "complete",
+      "stage": "incident_collection",
+      "started_at": "2026-07-31T20:16:22+00:00"
     }
   ],
   "started_at": "2026-07-31T20:16:21+00:00",
-  "updated_at": "2026-07-31T20:16:21+00:00"
+  "updated_at": "2026-07-31T20:16:57+00:00"
 }
