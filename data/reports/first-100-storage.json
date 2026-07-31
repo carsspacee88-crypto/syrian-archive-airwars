@@ -1,17 +1,17 @@
 {
   "added_bytes": {
-    "compressed_site_artifact": 95223905,
-    "data": 16384647,
+    "compressed_site_artifact": 13368726,
+    "data": 16388047,
     "data/incidents": 5074926,
     "data/media": 938477,
     "data/relationships": 435746,
-    "data/reports": 759003,
+    "data/reports": 760703,
     "data/sources": 8530206,
-    "generated_pilot_incident_html": 9693428,
+    "generated_pilot_incident_html": 3608720,
     "generated_source_html": 7619120,
-    "generated_static_site": 528057159,
-    "git_directory": 5311784,
-    "working_tree_excluding_git": 18764892
+    "generated_static_site": 38680766,
+    "git_directory": 5332259,
+    "working_tree_excluding_git": 18771703
   },
   "baseline": {
     "branch": "pilot/first-100-complete-content",
@@ -19,6 +19,7 @@
     "generated_site_file_count": 16326,
     "historical_case_count": 8114,
     "measurement_notes": {
+      "generated_pilot_incident_html": "Exact historical HTML bytes for cases/0001 through cases/0100 in the verified baseline ZIP.",
       "generated_site_compressed": "Exact byte size of the reassembled historical site ZIP; SHA-256 verified.",
       "generated_site_uncompressed": "Exact sum of regular file bytes after reassembling and extracting the verified historical site package.",
       "git_directory": "Exact sum of regular file bytes under .git in the fresh clone.",
@@ -32,6 +33,7 @@
       "data/relationships": 0,
       "data/reports": 562234,
       "data/sources": 0,
+      "generated_pilot_incident_html": 6084708,
       "generated_site_compressed": 81855462,
       "generated_site_uncompressed": 489379958,
       "git_directory": 80689820,
@@ -42,20 +44,20 @@
     "starting_commit": "1bc71c320f168f1f2576938988bd44f3ed5585d2"
   },
   "current_bytes": {
-    "compressed_site_artifact": 95223905,
-    "data": 17453389,
+    "compressed_site_artifact": 95224188,
+    "data": 17456789,
     "data/incidents": 5535230,
     "data/media": 938477,
     "data/relationships": 435746,
-    "data/reports": 1321237,
+    "data/reports": 1322937,
     "data/sources": 8530206,
     "generated_pilot_incident_html": 9693428,
     "generated_source_html": 7619120,
-    "generated_static_site": 528057159,
-    "git_directory": 86001604,
-    "working_tree_excluding_git": 101860463
+    "generated_static_site": 528060724,
+    "git_directory": 86022079,
+    "working_tree_excluding_git": 101867274
   },
-  "generated_at": "2026-07-31T19:10:23+00:00",
+  "generated_at": "2026-07-31T19:16:37+00:00",
   "generated_html": {
     "incident_count": 100,
     "incident_mean_bytes": 96934.3,
@@ -66,7 +68,7 @@
     "source_p90_bytes": 6633.0,
     "source_total_bytes": 7619120
   },
-  "site_measurement_finalized_at": "2026-07-31T19:10:55+00:00",
+  "site_measurement_finalized_at": "2026-07-31T19:17:08+00:00",
   "source_record_bytes": {
     "count": 1439,
     "mean": 5927.9,
