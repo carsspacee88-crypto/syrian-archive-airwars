@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "272668"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-rofydedo-1945517396799762530-2025-07-16-161428/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.227,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:53:54+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 60789,
+      "content_hash": "337ab52531f778382ef40cd2a9a93026491cb5652371c528bb3c1445e0d36df7",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.227,
+      "error": null,
+      "final_url": "https://x.com/RofyDedo/status/1945517396799762530",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:53:54+00:00",
+      "status": 200,
+      "url": "https://x.com/RofyDedo/status/1945517396799762530",
+      "waiting_seconds": 0.736
+    }
+  ],
+  "author": "RofyDedo",
+  "captions": [],
+  "content_hash": "d425681d4304b06e80a3c2e3c9ff5d2a1094d5bb897740c917222bb13ce520de",
+  "content_variants": [
+    {
+      "bytes": 30,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:53:54+00:00",
+      "sha256": "d425681d4304b06e80a3c2e3c9ff5d2a1094d5bb897740c917222bb13ce520de",
+      "source_url": "https://x.com/RofyDedo/status/1945517396799762530",
+      "text": "PostLog inSign upPost206Views1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/RofyDedo/status/1945517396799762530",
+  "incident_ids": [
+    "airwars-276124"
+  ],
+  "incident_sequences": [
+    51
+  ],
+  "normalized_url": "https://x.com/RofyDedo/status/1945517396799762530",
+  "observed_original_urls": [
+    "https://x.com/RofyDedo/status/1945517396799762530"
+  ],
+  "original_url": "https://x.com/RofyDedo/status/1945517396799762530",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy084-july-16-2025/",
+      "airwars_source_id": "272668",
+      "incident_id": "airwars-276124",
+      "incident_sequence": 51,
+      "observed_original_url": "https://x.com/RofyDedo/status/1945517396799762530",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "16 يوليو 2025",
+  "publisher": "RofyDedo",
+  "publisher_ar": "RofyDedo",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:53:54+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c6e8117535659b3c39921760",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/RofyDedo/status/1945517396799762530",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost206Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001207
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

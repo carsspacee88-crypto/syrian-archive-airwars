@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "377040"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-amyt_bny78415-2004175637666533754-2025-12-25-130122/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.225,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:55:21+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 50637,
+      "content_hash": "7aacc68a197b01670f205ddea2eb5c0217d8dac8a64ade63740af602f7aedaa8",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.225,
+      "error": null,
+      "final_url": "https://x.com/amyt_bny78415/status/2004175637666533754",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:55:21+00:00",
+      "status": 200,
+      "url": "https://x.com/amyt_bny78415/status/2004175637666533754",
+      "waiting_seconds": 0.734
+    }
+  ],
+  "author": "amyt_bny78415",
+  "captions": [],
+  "content_hash": "53747249f43dd1592bb78b6e6702926a56260ff237652f2d6bf7b745f69a60a6",
+  "content_variants": [
+    {
+      "bytes": 46,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:55:21+00:00",
+      "sha256": "53747249f43dd1592bb78b6e6702926a56260ff237652f2d6bf7b745f69a60a6",
+      "source_url": "https://x.com/amyt_bny78415/status/2004175637666533754",
+      "text": "PostLog inSign upPostThis post is unavailable."
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/amyt_bny78415/status/2004175637666533754",
+  "incident_ids": [
+    "airwars-387050"
+  ],
+  "incident_sequences": [
+    11
+  ],
+  "normalized_url": "https://x.com/amyt_bny78415/status/2004175637666533754",
+  "observed_original_urls": [
+    "https://x.com/amyt_bny78415/status/2004175637666533754"
+  ],
+  "original_url": "https://x.com/amyt_bny78415/status/2004175637666533754",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0177-december-25-2025/",
+      "airwars_source_id": "377040",
+      "incident_id": "airwars-387050",
+      "incident_sequence": 11,
+      "observed_original_url": "https://x.com/amyt_bny78415/status/2004175637666533754",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "25 ديسمبر 2025",
+  "publisher": "amyt_bny78415",
+  "publisher_ar": "amyt_bny78415",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:55:21+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-d14e5a366c372d4703604c2d",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/amyt_bny78415/status/2004175637666533754",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPostThis post is unavailable.",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001025
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

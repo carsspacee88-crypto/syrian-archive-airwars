@@ -1,0 +1,99 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/QChPt"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.226,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:54:49+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 75388,
+      "content_hash": "5e090759bf2be9fb9c06795d7a21cb429dcc17457b7b58e24baf58784c530abc",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.226,
+      "error": null,
+      "final_url": "https://x.com/dikur100/status/1901760999654568396",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:54:49+00:00",
+      "status": 200,
+      "url": "https://x.com/dikur100/status/1901760999654568396",
+      "waiting_seconds": 0.731
+    }
+  ],
+  "author": "https://x.com/dikur100",
+  "captions": [],
+  "content_hash": "cd51a553b74736e4983c6d521389fa216326e4c3fceb8e07f068f69f9c9a2d64",
+  "content_variants": [
+    {
+      "bytes": 387,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:54:49+00:00",
+      "sha256": "cd51a553b74736e4983c6d521389fa216326e4c3fceb8e07f068f69f9c9a2d64",
+      "source_url": "https://x.com/dikur100/status/1901760999654568396",
+      "text": "Post\n\nPost\n\nمحمد الموال МОНАМАD AL MAWAL@dikur100استـ.شهد 3 مدنيين وأُصيب 19 مدني آخرين بينهم أربعة أطفال وسيدة نتيجة قصف إسرائـ.يلي على مدينة درعا..اجتمع الأضداد علينا .. مكتوب على هاي البلاد القهر والتعب والدم..10:22 PM · Mar 17, 202540Views"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/dikur100/status/1901760999654568396",
+  "incident_ids": [
+    "airwars-276024"
+  ],
+  "incident_sequences": [
+    85
+  ],
+  "normalized_url": "https://x.com/dikur100/status/1901760999654568396",
+  "observed_original_urls": [
+    "https://x.com/dikur100/status/1901760999654568396"
+  ],
+  "original_url": "https://x.com/dikur100/status/1901760999654568396",
+  "page_title": "محمد الموال МОНАМАD AL MAWAL on X: \"استـ.شهد 3 مدنيين وأُصيب 19 مدني آخرين بينهم أربعة أطفال وسيدة نتيجة قصف إسرائـ.يلي على مدينة درعا..اجتمع الأضداد علينا .. مكتوب على هاي البلاد القهر والتعب والدم..\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy074-march-17-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-276024",
+      "incident_sequence": 85,
+      "observed_original_url": "https://x.com/dikur100/status/1901760999654568396",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-03-17T22:22:09.000Z",
+  "publisher": "'@dikur100",
+  "publisher_ar": "'@dikur100",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:54:49+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-cd9e8590b01bda55ba9c1000",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/dikur100/status/1901760999654568396",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nمحمد الموال МОНАМАD AL MAWAL@dikur100استـ.شهد 3 مدنيين وأُصيب 19 مدني آخرين بينهم أربعة أطفال وسيدة نتيجة قصف إسرائـ.يلي على مدينة درعا..اجتمع الأضداد علينا .. مكتوب على هاي البلاد القهر والتعب والدم..10:22 PM · Mar 17, 202540Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001436
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

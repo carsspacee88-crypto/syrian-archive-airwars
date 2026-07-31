@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "445576"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%aa%d9%86%d8%b3%d9%8a%d9%82%d9%8a%d8%a9-%d9%85%d8%b3%d8%b1%d8%a7%d8%a8%d8%a7-msraba-coordinating-892712073527484-2026-03-02-132519/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.554,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:55:34+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 547515,
+      "content_hash": "04e1b1da03ae5ff3358f5921a7348ac54f96d85d137bcb14a302341de03fb91d",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.554,
+      "error": null,
+      "final_url": "https://www.facebook.com/reel/892712073527484",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:55:34+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/reel/892712073527484",
+      "waiting_seconds": 0.737
+    }
+  ],
+  "author": "تنسيقية مسرابا . Msraba Coordinating",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:55:34+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/reel/892712073527484",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/reel/892712073527484",
+  "incident_ids": [
+    "airwars-454484"
+  ],
+  "incident_sequences": [
+    2
+  ],
+  "normalized_url": "https://www.facebook.com/reel/892712073527484",
+  "observed_original_urls": [
+    "https://www.facebook.com/reel/892712073527484"
+  ],
+  "original_url": "https://www.facebook.com/reel/892712073527484",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260301a-march-1-2026/",
+      "airwars_source_id": "445576",
+      "incident_id": "airwars-454484",
+      "incident_sequence": 2,
+      "observed_original_url": "https://www.facebook.com/reel/892712073527484",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2 مارس 2026",
+  "publisher": "Msraba Coordinating Committee",
+  "publisher_ar": "تنسيقية مسرابا . Msraba Coordinating",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:55:34+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-d2e973cd18e26f33285a92d4",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/reel/892712073527484",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001745
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

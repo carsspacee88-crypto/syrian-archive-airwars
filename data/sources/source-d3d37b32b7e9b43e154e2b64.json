@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "426956"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-asharqnews-2027723409010954664-2026-02-28-123148/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.293,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:55:41+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 89324,
+      "content_hash": "0c1bc2824dc871f2521e94ea7ce7044e859873be0432966ce7648773d5c66ded",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.293,
+      "error": null,
+      "final_url": "https://x.com/AsharqNews/status/2027723409010954664",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:55:41+00:00",
+      "status": 200,
+      "url": "https://x.com/AsharqNews/status/2027723409010954664",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "https://x.com/AsharqNews",
+  "captions": [],
+  "content_hash": "44b707c1dac123020421e644d85b587c1019a54e94ebbf7db00e9db5d0d8a409",
+  "content_variants": [
+    {
+      "bytes": 348,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:55:41+00:00",
+      "sha256": "44b707c1dac123020421e644d85b587c1019a54e94ebbf7db00e9db5d0d8a409",
+      "source_url": "https://x.com/AsharqNews/status/2027723409010954664",
+      "text": "Post\n\nPost\n\nAsharq News الشرق للأخبار@AsharqNewsأفادت مديرية إعلام السويداء لـ\"الشرق\"، بسقوط 4 ضحايا، نتيجة سقوط صاروخ إيراني على مبنى في المنطقة الصناعية داخل مدينة السويداء السورية00:0012:31 PM · Feb 28, 202611.8KViews5404"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AsharqNews/status/2027723409010954664",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://x.com/AsharqNews/status/2027723409010954664",
+  "observed_original_urls": [
+    "https://x.com/AsharqNews/status/2027723409010954664"
+  ],
+  "original_url": "https://x.com/AsharqNews/status/2027723409010954664",
+  "page_title": "Asharq News الشرق للأخبار on X: \"أفادت مديرية إعلام السويداء لـ\"الشرق\"، بسقوط 4 ضحايا، نتيجة سقوط صاروخ إيراني على مبنى في المنطقة الصناعية داخل مدينة السويداء السورية https://t.co/gj7I6XVEVj\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "426956",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://x.com/AsharqNews/status/2027723409010954664",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2026-02-28T12:31:48.000Z",
+  "publisher": "AsharqNews",
+  "publisher_ar": "AsharqNews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:55:41+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-d3d37b32b7e9b43e154e2b64",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AsharqNews/status/2027723409010954664",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nAsharq News الشرق للأخبار@AsharqNewsأفادت مديرية إعلام السويداء لـ\"الشرق\"، بسقوط 4 ضحايا، نتيجة سقوط صاروخ إيراني على مبنى في المنطقة الصناعية داخل مدينة السويداء السورية00:0012:31 PM · Feb 28, 202611.8KViews5404",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001696
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

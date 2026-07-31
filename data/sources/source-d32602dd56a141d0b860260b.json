@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "302740"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-syrianeagle313-1942545436306194600-2025-07-08-112457/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.276,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:55:38+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 75621,
+      "content_hash": "41eb90df49bcfa6a2438322b31a1153bb9e3170a4fbaaf43e08479027f329b90",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.276,
+      "error": null,
+      "final_url": "https://x.com/SyrianEagle313/status/1942545436306194600",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:55:38+00:00",
+      "status": 200,
+      "url": "https://x.com/SyrianEagle313/status/1942545436306194600",
+      "waiting_seconds": 0.737
+    }
+  ],
+  "author": "https://x.com/SyrianEagle313",
+  "captions": [],
+  "content_hash": "cd09b8c51f90bf2aff856eb38517ed6ba914585845d61061e04b842ad64472fa",
+  "content_variants": [
+    {
+      "bytes": 318,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:55:38+00:00",
+      "sha256": "cd09b8c51f90bf2aff856eb38517ed6ba914585845d61061e04b842ad64472fa",
+      "source_url": "https://x.com/SyrianEagle313/status/1942545436306194600",
+      "text": "Post\n\nPost\n\nsalsabeela ⛲️ سلسبيلا@SyrianEagle313منقول:\n\nالمعلومات الأولية تفيد بمقتل ارهابيين إثنين كانوا في السيارة\n\nوهما \"فيصل الياسين معرتحرمة\"\n\"إبراهيم العبدالله بسرطون\"11:24 AM · Jul 8, 2025110Views7"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyrianEagle313/status/1942545436306194600",
+  "incident_ids": [
+    "airwars-381566"
+  ],
+  "incident_sequences": [
+    52
+  ],
+  "normalized_url": "https://x.com/SyrianEagle313/status/1942545436306194600",
+  "observed_original_urls": [
+    "https://x.com/SyrianEagle313/status/1942545436306194600"
+  ],
+  "original_url": "https://x.com/SyrianEagle313/status/1942545436306194600",
+  "page_title": "salsabeela ⛲️ سلسبيلا on X: \"منقول:\n\nالمعلومات الأولية تفيد بمقتل ارهابيين إثنين كانوا في السيارة\n\nوهما \"فيصل الياسين معرتحرمة\"\n\"إبراهيم العبدالله بسرطون\"\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0151-july-7-2025/",
+      "airwars_source_id": "302740",
+      "incident_id": "airwars-381566",
+      "incident_sequence": 52,
+      "observed_original_url": "https://x.com/SyrianEagle313/status/1942545436306194600",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-07-08T11:24:57.000Z",
+  "publisher": "SyrianEagle313",
+  "publisher_ar": "SyrianEagle313",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:55:38+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-d32602dd56a141d0b860260b",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyrianEagle313/status/1942545436306194600",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nsalsabeela ⛲️ سلسبيلا@SyrianEagle313منقول:\n\nالمعلومات الأولية تفيد بمقتل ارهابيين إثنين كانوا في السيارة\n\nوهما \"فيصل الياسين معرتحرمة\"\n\"إبراهيم العبدالله بسرطون\"11:24 AM · Jul 8, 2025110Views7",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001554
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

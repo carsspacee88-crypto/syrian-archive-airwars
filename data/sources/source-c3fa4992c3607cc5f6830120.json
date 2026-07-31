@@ -1,0 +1,144 @@
+{
+  "airwars_source_ids": [
+    "315146"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-aljazeera-net-aljazeera-2025-11-28-102853/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 21-23: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:53:25+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 21-23: ordinal not in range(128)",
+      "final_url": "https://www.aljazeera.net/news/2025/11/28/كيف-تحول-توغل-إسرائيلي-في-بيت-جن",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:53:25+00:00",
+      "status": null,
+      "url": "https://www.aljazeera.net/news/2025/11/28/كيف-تحول-توغل-إسرائيلي-في-بيت-جن",
+      "waiting_seconds": 0.735
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.034,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:53:26+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1570,
+      "content_hash": "6503d2753481f0a5e79d1d26a79dc1e0c921d2974094570229afcbd15181df5d",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.034,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-aljazeera-net-aljazeera-2025-11-28-102853/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:53:26+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-aljazeera-net-aljazeera-2025-11-28-102853/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.222,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:53:37+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.222,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.aljazeera.net%2Fnews%2F2025%2F11%2F28%2F%D9%83%D9%8A%D9%81-%D8%AA%D8%AD%D9%88%D9%84-%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:53:37+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.aljazeera.net%2Fnews%2F2025%2F11%2F28%2F%D9%83%D9%8A%D9%81-%D8%AA%D8%AD%D9%88%D9%84-%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "aljazeera",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 21-23: ordinal not in range(128)",
+  "final_redirected_url": "https://www.aljazeera.net/news/2025/11/28/كيف-تحول-توغل-إسرائيلي-في-بيت-جن",
+  "incident_ids": [
+    "airwars-318800"
+  ],
+  "incident_sequences": [
+    24
+  ],
+  "normalized_url": "https://www.aljazeera.net/news/2025/11/28/كيف-تحول-توغل-إسرائيلي-في-بيت-جن",
+  "observed_original_urls": [
+    "https://www.aljazeera.net/news/2025/11/28/كيف-تحول-توغل-إسرائيلي-في-بيت-جن"
+  ],
+  "original_url": "https://www.aljazeera.net/news/2025/11/28/كيف-تحول-توغل-إسرائيلي-في-بيت-جن",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy087-november-28-2025/",
+      "airwars_source_id": "315146",
+      "incident_id": "airwars-318800",
+      "incident_sequence": 24,
+      "observed_original_url": "https://www.aljazeera.net/news/2025/11/28/كيف-تحول-توغل-إسرائيلي-في-بيت-جن",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "28 نوفمبر 2025",
+  "publisher": "Al Jazeera",
+  "publisher_ar": "Al Jazeera",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:53:25+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c3fa4992c3607cc5f6830120",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.aljazeera.net/news/2025/11/28/كيف-تحول-توغل-إسرائيلي-في-بيت-جن",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "427008"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-skynewsarabia-2027726552872759501-2026-02-28-124418/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.261,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:56:10+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 88091,
+      "content_hash": "2254d632567ae181f40bedbf214925cc7676425f266b4155b24b44bf57d13cbf",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.261,
+      "error": null,
+      "final_url": "https://x.com/skynewsarabia/status/2027726552872759501",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:56:10+00:00",
+      "status": 200,
+      "url": "https://x.com/skynewsarabia/status/2027726552872759501",
+      "waiting_seconds": 0.734
+    }
+  ],
+  "author": "https://x.com/skynewsarabia",
+  "captions": [],
+  "content_hash": "c30fec5504cfda1cb7ecc61a4e9f6fb10d349d6ab510813b9ab3c23612a97a95",
+  "content_variants": [
+    {
+      "bytes": 408,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:56:10+00:00",
+      "sha256": "c30fec5504cfda1cb7ecc61a4e9f6fb10d349d6ab510813b9ab3c23612a97a95",
+      "source_url": "https://x.com/skynewsarabia/status/2027726552872759501",
+      "text": "Post\n\nPost\n\nسكاي نيوز عربية@skynewsarabiaسانا: سقوط صاروخ إيراني على مبنى في المنطقة الصناعية بمدينة السويداء يُسفر عن مقتل 4 أشخاص وإصابة آخرين، ضمن تبادل الضربات بين إسرائيل وإيران\n\n#سوشال_سكاي\n#الهجوم_على_إيران00:0012:44 PM · Feb 28, 202624.7KViews6153"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/skynewsarabia/status/2027726552872759501",
+  "incident_ids": [
+    "airwars-429171"
+  ],
+  "incident_sequences": [
+    3
+  ],
+  "normalized_url": "https://x.com/skynewsarabia/status/2027726552872759501",
+  "observed_original_urls": [
+    "https://x.com/skynewsarabia/status/2027726552872759501"
+  ],
+  "original_url": "https://x.com/skynewsarabia/status/2027726552872759501",
+  "page_title": "سكاي نيوز عربية on X: \"سانا: سقوط صاروخ إيراني على مبنى في المنطقة الصناعية بمدينة السويداء يُسفر عن مقتل 4 أشخاص وإصابة آخرين، ضمن تبادل الضربات بين إسرائيل وإيران\n\n#سوشال_سكاي\n#الهجوم_على_إيران https://t.co/IjmN7PAZaf\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/debsyr260228a-february-28-2026/",
+      "airwars_source_id": "427008",
+      "incident_id": "airwars-429171",
+      "incident_sequence": 3,
+      "observed_original_url": "https://x.com/skynewsarabia/status/2027726552872759501",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2026-02-28T12:44:18.000Z",
+  "publisher": "skynewsarabia",
+  "publisher_ar": "skynewsarabia",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:56:10+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-d70e4a28df10529b1b4ef47b",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/skynewsarabia/status/2027726552872759501",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nسكاي نيوز عربية@skynewsarabiaسانا: سقوط صاروخ إيراني على مبنى في المنطقة الصناعية بمدينة السويداء يُسفر عن مقتل 4 أشخاص وإصابة آخرين، ضمن تبادل الضربات بين إسرائيل وإيران\n\n#سوشال_سكاي\n#الهجوم_على_إيران00:0012:44 PM · Feb 28, 202624.7KViews6153",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001734
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

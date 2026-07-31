@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "303935"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%b4%d8%a8%d9%83%d8%a9-%d8%b9%d9%81%d8%b1%d9%8a%d9%86-%d8%a7%d9%84%d8%a5%d8%ae%d8%a8%d8%a7%d8%b1%d9%8a%d8%a9-afrin-news-network-pfbid04qahd4jxecqgaest2nngqkyrgvgfuqtfm2wxzq7gpcx/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.629,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:55:00+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 426601,
+      "content_hash": "880bc079a735637d339767764e4491a7a48378b5ba86bd0d9fd40804f354045f",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.629,
+      "error": null,
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid04qahd4JXECqgaEst2NnGqKYrgVgFuqtfM2wXZQ7GPCxSrH7sSWVsT1r8KjRZgiSml%26id%3D100093318832279",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:55:00+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid04qahd4JXECqgaEst2NnGqKYrgVgFuqtfM2wXZQ7GPCxSrH7sSWVsT1r8KjRZgiSml&id=100093318832279",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "شبكة عفرين الإخبارية Afrin News Network",
+  "captions": [],
+  "content_hash": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+  "content_variants": [
+    {
+      "bytes": 374,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:55:00+00:00",
+      "sha256": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+      "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid04qahd4JXECqgaEst2NnGqKYrgVgFuqtfM2wXZQ7GPCxSrH7sSWVsT1r8KjRZgiSml%26id%3D100093318832279",
+      "text": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid04qahd4JXECqgaEst2NnGqKYrgVgFuqtfM2wXZQ7GPCxSrH7sSWVsT1r8KjRZgiSml%26id%3D100093318832279",
+  "incident_ids": [
+    "airwars-386620"
+  ],
+  "incident_sequences": [
+    45
+  ],
+  "normalized_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid04qahd4JXECqgaEst2NnGqKYrgVgFuqtfM2wXZQ7GPCxSrH7sSWVsT1r8KjRZgiSml&id=100093318832279",
+  "observed_original_urls": [
+    "https://www.facebook.com/permalink.php?story_fbid=pfbid04qahd4JXECqgaEst2NnGqKYrgVgFuqtfM2wXZQ7GPCxSrH7sSWVsT1r8KjRZgiSml&id=100093318832279"
+  ],
+  "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid04qahd4JXECqgaEst2NnGqKYrgVgFuqtfM2wXZQ7GPCxSrH7sSWVsT1r8KjRZgiSml&id=100093318832279",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0154-august-20-2025/",
+      "airwars_source_id": "303935",
+      "incident_id": "airwars-386620",
+      "incident_sequence": 45,
+      "observed_original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid04qahd4JXECqgaEst2NnGqKYrgVgFuqtfM2wXZQ7GPCxSrH7sSWVsT1r8KjRZgiSml&id=100093318832279",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "20 أغسطس 2025",
+  "publisher": "Afrin News Network",
+  "publisher_ar": "شبكة عفرين الإخبارية Afrin News Network",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:55:00+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-cea0cf9915dfba2b2c293066",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid04qahd4JXECqgaEst2NnGqKYrgVgFuqtfM2wXZQ7GPCxSrH7sSWVsT1r8KjRZgiSml&id=100093318832279",
+  "text_ar": "",
+  "text_original": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002096
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

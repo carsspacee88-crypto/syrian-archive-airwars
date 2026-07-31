@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "275329"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-jouhinanewssy-1972330523281506713-2025-09-28-160015/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.26,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:53:42+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 54816,
+      "content_hash": "5c9a06cd70d0667a290393ce77607601a9e2017955339fcc8d5723c8f37dff91",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.26,
+      "error": null,
+      "final_url": "https://x.com/jouhinanewssy/status/1972330523281506713",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:53:42+00:00",
+      "status": 200,
+      "url": "https://x.com/jouhinanewssy/status/1972330523281506713",
+      "waiting_seconds": 0.74
+    }
+  ],
+  "author": "jouhinanewssy",
+  "captions": [],
+  "content_hash": "31bb677a6e76ec677cefd1b7075a08f8bb2cea33f7d7b98a4dac7644c8acaf92",
+  "content_variants": [
+    {
+      "bytes": 30,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:53:42+00:00",
+      "sha256": "31bb677a6e76ec677cefd1b7075a08f8bb2cea33f7d7b98a4dac7644c8acaf92",
+      "source_url": "https://x.com/jouhinanewssy/status/1972330523281506713",
+      "text": "PostLog inSign upPost135Views1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/jouhinanewssy/status/1972330523281506713",
+  "incident_ids": [
+    "airwars-287562"
+  ],
+  "incident_sequences": [
+    39
+  ],
+  "normalized_url": "https://x.com/jouhinanewssy/status/1972330523281506713",
+  "observed_original_urls": [
+    "https://x.com/jouhinanewssy/status/1972330523281506713"
+  ],
+  "original_url": "https://x.com/jouhinanewssy/status/1972330523281506713",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2013-september-28-2025/",
+      "airwars_source_id": "275329",
+      "incident_id": "airwars-287562",
+      "incident_sequence": 39,
+      "observed_original_url": "https://x.com/jouhinanewssy/status/1972330523281506713",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "28 سبتمبر 2025",
+  "publisher": "jouhinanewssy",
+  "publisher_ar": "jouhinanewssy",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:53:42+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c4de77efab37e0c6e994d133",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/jouhinanewssy/status/1972330523281506713",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPost135Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001087
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "382936"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-nahermedia-1972926806824202354-2025-09-30-072940/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.394,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:56:17+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 81177,
+      "content_hash": "c69d2ccd677be7c8f2863dabf29cef0ce541f3a2394a969114f9a40db15c6108",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.394,
+      "error": null,
+      "final_url": "https://x.com/nahermedia/status/1972926806824202354",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:56:17+00:00",
+      "status": 200,
+      "url": "https://x.com/nahermedia/status/1972926806824202354",
+      "waiting_seconds": 0.728
+    }
+  ],
+  "author": "https://x.com/nahermedia",
+  "captions": [],
+  "content_hash": "1ddfd570cb4c3c56b2e3c7d508bf7d7718b2e76f55d4685d0ef8d569275ab4a7",
+  "content_variants": [
+    {
+      "bytes": 473,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:56:17+00:00",
+      "sha256": "1ddfd570cb4c3c56b2e3c7d508bf7d7718b2e76f55d4685d0ef8d569275ab4a7",
+      "source_url": "https://x.com/nahermedia/status/1972926806824202354",
+      "text": "Post\n\nPost\n\nNaher Media - نهر ميديا@nahermediaمراسل #نهر_ميديا: نفذت قسد حملة مداهمات وتفتتيش في منطقة العتال على أطراف بلدة #الشحيل شرقي #دير_الزور برفقة الطيران المروحي، بعد منتصف الليلة الفائتة، أسفرت عن اعتقال (ماجد البوري وعذاب الحسوني) دون معرفة الأسباب.7:29 AM · Sep 30, 2025256Views3"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/nahermedia/status/1972926806824202354",
+  "incident_ids": [
+    "airwars-386624"
+  ],
+  "incident_sequences": [
+    40
+  ],
+  "normalized_url": "https://x.com/nahermedia/status/1972926806824202354",
+  "observed_original_urls": [
+    "https://x.com/nahermedia/status/1972926806824202354"
+  ],
+  "original_url": "https://x.com/nahermedia/status/1972926806824202354",
+  "page_title": "Naher Media - نهر ميديا on X: \"مراسل #نهر_ميديا: نفذت قسد حملة مداهمات وتفتتيش في منطقة العتال على أطراف بلدة #الشحيل شرقي #دير_الزور برفقة الطيران المروحي، بعد منتصف الليلة الفائتة، أسفرت عن اعتقال (ماجد البوري وعذاب الحسوني) دون معرفة الأسباب.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0156b-september-28-2025/",
+      "airwars_source_id": "382936",
+      "incident_id": "airwars-386624",
+      "incident_sequence": 40,
+      "observed_original_url": "https://x.com/nahermedia/status/1972926806824202354",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-09-30T07:29:40.000Z",
+  "publisher": "mediate",
+  "publisher_ar": "mediate",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:56:17+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-d84979d941fd7ae2365a0c04",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/nahermedia/status/1972926806824202354",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nNaher Media - نهر ميديا@nahermediaمراسل #نهر_ميديا: نفذت قسد حملة مداهمات وتفتتيش في منطقة العتال على أطراف بلدة #الشحيل شرقي #دير_الزور برفقة الطيران المروحي، بعد منتصف الليلة الفائتة، أسفرت عن اعتقال (ماجد البوري وعذاب الحسوني) دون معرفة الأسباب.7:29 AM · Sep 30, 2025256Views3",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001584
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
