@@ -71,7 +71,7 @@
   "civilian_deaths_min": 2,
   "civilian_injuries_max": null,
   "civilian_injuries_min": null,
-  "completeness_status": "failed",
+  "completeness_status": "blocked",
   "conflicts": [],
   "content_hash": null,
   "country": "Syria",
@@ -550,6 +550,8 @@
       "attempts": 0,
       "body_decoded_from": null,
       "bytes": 0,
+      "circuit_open_reason": "http_403_observed_for_same_airwars_host_in_batch",
+      "circuit_open_status": 403,
       "content_hash": null,
       "content_type": "",
       "elapsed_seconds": 0.0,
@@ -606,6 +608,8 @@
       "attempts": 0,
       "body_decoded_from": null,
       "bytes": 0,
+      "circuit_open_reason": "http_403_observed_for_same_airwars_host_in_batch",
+      "circuit_open_status": 403,
       "content_hash": null,
       "content_type": "",
       "elapsed_seconds": 0.0,
@@ -620,10 +624,12 @@
       "url": "https://airwars.org/civilian-casualties/ts767-january-10-2025/",
       "waiting_seconds": 0.0
     },
-    "overall": "failed"
+    "overall": "blocked"
   },
   "retrieved_at": null,
-  "review_flags": [],
+  "review_flags": [
+    "batch_circuit_status_inherited_from_observed_airwars_403"
+  ],
   "schema_version": "2.0.0",
   "source_last_modified": "2025-12-19",
   "source_sections": [],

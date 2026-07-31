@@ -596,6 +596,8 @@
       "attempts": 0,
       "body_decoded_from": null,
       "bytes": 0,
+      "circuit_open_reason": "http_403_observed_for_same_airwars_host_in_batch",
+      "circuit_open_status": 403,
       "content_hash": null,
       "content_type": "",
       "elapsed_seconds": 0.0,
