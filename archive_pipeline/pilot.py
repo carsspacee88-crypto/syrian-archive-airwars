@@ -11,6 +11,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import zipfile
 from collections import Counter, defaultdict
 from copy import deepcopy
 from datetime import datetime
@@ -168,6 +169,16 @@ def _tree_bytes(root: Path, predicate: Callable[[Path], bool] | None = None) -> 
         if path.is_file() and (predicate is None or predicate(path)):
             total += path.stat().st_size
     return total
+
+
+BASELINE_SIZE_ALIASES = {
+    "compressed_site_artifact": "generated_site_compressed",
+    "generated_static_site": "generated_site_uncompressed",
+}
+
+
+def _baseline_size(baseline_sizes: dict[str, Any], current_key: str) -> int:
+    return int(baseline_sizes.get(BASELINE_SIZE_ALIASES.get(current_key, current_key), 0))
 
 
 def _append_unique(items: list[Any], value: Any, key: Callable[[Any], Any] | None = None) -> None:
@@ -1357,6 +1368,16 @@ class PilotRunner:
 
     def _write_storage_report(self) -> None:
         baseline = load_json(self.root / "data" / "pilot" / "first-100-baseline.json", {}) or {}
+        baseline_sizes = baseline.setdefault("sizes_bytes", {})
+        if "generated_pilot_incident_html" not in baseline_sizes:
+            with zipfile.ZipFile(self.legacy_zip) as archive:
+                baseline_sizes["generated_pilot_incident_html"] = sum(
+                    archive.getinfo(f"cases/{sequence:04d}/index.html").file_size
+                    for sequence in PILOT_SEQUENCES
+                )
+            baseline.setdefault("measurement_notes", {})["generated_pilot_incident_html"] = (
+                "Exact historical HTML bytes for cases/0001 through cases/0100 in the verified baseline ZIP."
+            )
         directories = ["incidents", "sources", "media", "relationships", "reports"]
         current = {f"data/{name}": _tree_bytes(self.root / "data" / name) for name in directories}
         current["data"] = _tree_bytes(self.root / "data")
@@ -1367,7 +1388,7 @@ class PilotRunner:
             "generated_at": utc_now(),
             "baseline": baseline,
             "current_bytes": current,
-            "added_bytes": {key: current[key] - int((baseline.get("sizes_bytes") or {}).get(key, 0)) for key in current},
+            "added_bytes": {key: current[key] - _baseline_size(baseline_sizes, key) for key in current},
             "source_record_bytes": {
                 "count": len(source_sizes),
                 "mean": round(statistics.mean(source_sizes), 1) if source_sizes else 0,
@@ -1521,10 +1542,7 @@ def finalize_site_measurements(root: Path, site_root: Path, compressed_artifact:
     })
     baseline = storage.get("baseline", {})
     baseline_sizes = baseline.get("sizes_bytes", {})
-    storage["added_bytes"] = {
-        key: value - int(baseline_sizes.get(key, 0))
-        for key, value in current.items()
-    }
+    storage["added_bytes"] = {key: value - _baseline_size(baseline_sizes, key) for key, value in current.items()}
     storage["generated_html"] = {
         "incident_count": len(incident_html_sizes),
         "incident_total_bytes": sum(incident_html_sizes),
@@ -1543,7 +1561,8 @@ def finalize_site_measurements(root: Path, site_root: Path, compressed_artifact:
     baseline_site = int(baseline_sizes.get("generated_site_uncompressed", 0))
     baseline_zip = int(baseline_sizes.get("generated_site_compressed", 0))
     baseline_worktree = int(baseline_sizes.get("working_tree_excluding_git", 0))
-    pilot_html = sum(incident_html_sizes) + sum(source_html_sizes)
+    baseline_incident_html = int(baseline_sizes.get("generated_pilot_incident_html", 0))
+    pilot_html_growth = max(0, sum(incident_html_sizes) - baseline_incident_html) + sum(source_html_sizes)
     json_data = sum(path.stat().st_size for folder in ("incidents", "sources", "media", "relationships") for path in (root / "data" / folder).glob("*.json"))
     zip_growth = max(0, artifact.stat().st_size - baseline_zip)
     worktree_growth = max(0, current["working_tree_excluding_git"] - baseline_worktree)
@@ -1552,11 +1571,11 @@ def finalize_site_measurements(root: Path, site_root: Path, compressed_artifact:
         for scenario_name, estimate in row.get("estimates", {}).items():
             size_factor = {"low": 0.75, "central": 1.0, "high": 1.5}[scenario_name]
             scale = count / 100 * size_factor
-            estimate["generated_html_bytes"] = round(pilot_html * scale)
+            estimate["generated_html_bytes"] = round(pilot_html_growth * scale)
             estimate["git_working_tree_bytes"] = round(baseline_worktree + worktree_growth * scale)
-            estimate["estimated_git_history_growth_bytes"] = round((json_data + pilot_html) * scale * 1.25)
+            estimate["estimated_git_history_growth_bytes"] = round((json_data + pilot_html_growth) * scale * 1.25)
             estimate["compressed_artifact_bytes"] = round(baseline_zip + zip_growth * scale)
-            estimate["total_generated_site_bytes"] = round(baseline_site + pilot_html * scale)
+            estimate["total_generated_site_bytes"] = round(baseline_site + pilot_html_growth * scale)
     projections.setdefault("site_measurement_finalized_at", utc_now())
     atomic_write_json(projections_path, projections)
     return {"storage": storage, "projections": projections}

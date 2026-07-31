@@ -5,7 +5,7 @@ from unittest.mock import patch
 
 from archive_pipeline.normalize import apply_page_extraction, build_legacy_record, finalize_status
 from archive_pipeline.parser import parse_incident_html
-from archive_pipeline.pilot import ArabicTranslator, _exact_pilot_sequence, _record_exact_url_observations, normalize_source_url, stable_source_id
+from archive_pipeline.pilot import ArabicTranslator, _baseline_size, _exact_pilot_sequence, _record_exact_url_observations, normalize_source_url, stable_source_id
 from archive_pipeline.reports import coordinate_reasons
 
 
@@ -82,6 +82,11 @@ class PilotTests(unittest.TestCase):
         self.assertEqual(len(combined), 4)
         self.assertEqual(len(exact_urls["https://example.org/a"]), 2)
         self.assertEqual(exact_urls["https://example.org/b"], ["https://example.org/b"])
+
+    def test_storage_growth_uses_baseline_site_aliases(self) -> None:
+        sizes = {"generated_site_compressed": 81, "generated_site_uncompressed": 489}
+        self.assertEqual(_baseline_size(sizes, "compressed_site_artifact"), 81)
+        self.assertEqual(_baseline_size(sizes, "generated_static_site"), 489)
 
     def test_translation_chunks_are_complete_and_ordered(self) -> None:
         text = "فقرة أولى\n\n" + ("x" * 8000) + "\n\nفقرة أخيرة"
