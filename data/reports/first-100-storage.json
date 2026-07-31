@@ -1,0 +1,76 @@
+{
+  "added_bytes": {
+    "compressed_site_artifact": 95294036,
+    "data": 16815573,
+    "data/incidents": 5074926,
+    "data/media": 938477,
+    "data/relationships": 435746,
+    "data/reports": 1191697,
+    "data/sources": 8530206,
+    "generated_pilot_incident_html": 9693428,
+    "generated_source_html": 7619120,
+    "generated_static_site": 528531377,
+    "git_directory": 5677011,
+    "working_tree_excluding_git": 19235355
+  },
+  "baseline": {
+    "branch": "pilot/first-100-complete-content",
+    "clean_clone": true,
+    "generated_site_file_count": 16326,
+    "historical_case_count": 8114,
+    "measurement_notes": {
+      "generated_site_compressed": "Exact byte size of the reassembled historical site ZIP; SHA-256 verified.",
+      "generated_site_uncompressed": "Exact sum of regular file bytes after reassembling and extracting the verified historical site package.",
+      "git_directory": "Exact sum of regular file bytes under .git in the fresh clone.",
+      "working_tree_excluding_git": "Exact sum of regular file bytes excluding .git in the fresh clone."
+    },
+    "recorded_at_utc": "2026-07-31T16:27:34Z",
+    "sizes_bytes": {
+      "data": 1068742,
+      "data/incidents": 460304,
+      "data/media": 0,
+      "data/relationships": 0,
+      "data/reports": 562234,
+      "data/sources": 0,
+      "generated_site_compressed": 81855462,
+      "generated_site_uncompressed": 489379958,
+      "git_directory": 80689820,
+      "git_pack_objects": 80635842,
+      "site_package_parts": 81855805,
+      "working_tree_excluding_git": 83095571
+    },
+    "starting_commit": "1bc71c320f168f1f2576938988bd44f3ed5585d2"
+  },
+  "current_bytes": {
+    "compressed_site_artifact": 95294036,
+    "data": 17884315,
+    "data/incidents": 5535230,
+    "data/media": 938477,
+    "data/relationships": 435746,
+    "data/reports": 1753931,
+    "data/sources": 8530206,
+    "generated_pilot_incident_html": 9693428,
+    "generated_source_html": 7619120,
+    "generated_static_site": 528531377,
+    "git_directory": 86366831,
+    "working_tree_excluding_git": 102330926
+  },
+  "generated_at": "2026-07-31T19:04:34+00:00",
+  "generated_html": {
+    "incident_count": 100,
+    "incident_mean_bytes": 96934.3,
+    "incident_total_bytes": 9693428,
+    "source_count": 1439,
+    "source_mean_bytes": 5294.7,
+    "source_median_bytes": 4946,
+    "source_p90_bytes": 6633.0,
+    "source_total_bytes": 7619120
+  },
+  "site_measurement_finalized_at": "2026-07-31T19:05:03+00:00",
+  "source_record_bytes": {
+    "count": 1439,
+    "mean": 5927.9,
+    "median": 5423,
+    "p90": 8216.0
+  }
+}
