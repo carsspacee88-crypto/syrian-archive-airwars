@@ -1,0 +1,121 @@
+{
+  "airwars_source_ids": [
+    "315160"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-shrc-org/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.508,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:34:32+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 52,
+      "content_hash": "889403e5cfbb7981f7a26aced0d7492524e5397d6996f7fccd67562d2a4a71a3",
+      "content_type": "text/html",
+      "elapsed_seconds": 0.508,
+      "error": "http_403",
+      "final_url": "https://www.shrc.org/?p=41964",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:34:32+00:00",
+      "status": 403,
+      "url": "https://www.shrc.org/?p=41964",
+      "waiting_seconds": 0.74
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/www-shrc-org/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:34:32+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/www-shrc-org/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_role": "wayback_lookup",
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "ok": false,
+      "retrieved_at": "2026-07-31T18:34:32+00:00"
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_403",
+  "final_redirected_url": "https://www.shrc.org/?p=41964",
+  "incident_ids": [
+    "airwars-318800"
+  ],
+  "incident_sequences": [
+    24
+  ],
+  "normalized_url": "https://www.shrc.org/?p=41964",
+  "observed_original_urls": [
+    "https://www.shrc.org/?p=41964"
+  ],
+  "original_url": "https://www.shrc.org/?p=41964",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy087-november-28-2025/",
+      "airwars_source_id": "315160",
+      "incident_id": "airwars-318800",
+      "incident_sequence": 24,
+      "observed_original_url": "https://www.shrc.org/?p=41964",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "shrc.org",
+  "publisher_ar": "shrc.org",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:34:32+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-5628dfedb1d86758d389421e",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.shrc.org/?p=41964",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,144 @@
+{
+  "airwars_source_ids": [
+    "366814"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-enabbaladi-net-%d8%b9%d9%86%d8%a8-%d8%a8%d9%84%d8%af%d9%8a-2025-12-21-140659/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:32:23+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)",
+      "final_url": "https://www.enabbaladi.net/788963/قتلى-ومعتقلون-إثر-عملية-أمنية-لـقسد-ف/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:32:23+00:00",
+      "status": null,
+      "url": "https://www.enabbaladi.net/788963/قتلى-ومعتقلون-إثر-عملية-أمنية-لـقسد-ف/",
+      "waiting_seconds": 0.738
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.151,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:32:24+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1745,
+      "content_hash": "d4972756e7714c3f94d2940e406745d44e01bd9aa0b0fa797e0c4d962bc9ec92",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.151,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/www-enabbaladi-net-%d8%b9%d9%86%d8%a8-%d8%a8%d9%84%d8%af%d9%8a-2025-12-21-140659/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:32:24+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/www-enabbaladi-net-%d8%b9%d9%86%d8%a8-%d8%a8%d9%84%d8%af%d9%8a-2025-12-21-140659/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.161,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:32:34+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.161,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.enabbaladi.net%2F788963%2F%D9%82%D8%AA%D9%84%D9%89-%D9%88%D9%85%D8%B9%D8%AA%D9%82%D9%84%D9%88%D9%86-%D8%A5%D8%AB%D8%B1-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D9%80%D9%82%D8%B3%D8%AF-%D9%81%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:32:34+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.enabbaladi.net%2F788963%2F%D9%82%D8%AA%D9%84%D9%89-%D9%88%D9%85%D8%B9%D8%AA%D9%82%D9%84%D9%88%D9%86-%D8%A5%D8%AB%D8%B1-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D9%80%D9%82%D8%B3%D8%AF-%D9%81%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "عنب بلدي",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 12-15: ordinal not in range(128)",
+  "final_redirected_url": "https://www.enabbaladi.net/788963/قتلى-ومعتقلون-إثر-عملية-أمنية-لـقسد-ف/",
+  "incident_ids": [
+    "airwars-367983"
+  ],
+  "incident_sequences": [
+    15
+  ],
+  "normalized_url": "https://www.enabbaladi.net/788963/قتلى-ومعتقلون-إثر-عملية-أمنية-لـقسد-ف/",
+  "observed_original_urls": [
+    "https://www.enabbaladi.net/788963/قتلى-ومعتقلون-إثر-عملية-أمنية-لـقسد-ف/"
+  ],
+  "original_url": "https://www.enabbaladi.net/788963/قتلى-ومعتقلون-إثر-عملية-أمنية-لـقسد-ف/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2020-december-21-2025/",
+      "airwars_source_id": "366814",
+      "incident_id": "airwars-367983",
+      "incident_sequence": 15,
+      "observed_original_url": "https://www.enabbaladi.net/788963/قتلى-ومعتقلون-إثر-عملية-أمنية-لـقسد-ف/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "21 ديسمبر 2025",
+  "publisher": "Enabbaladi",
+  "publisher_ar": "عنب بلدي",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:32:23+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-4b4d649120c2f99fdb43427c",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.enabbaladi.net/788963/قتلى-ومعتقلون-إثر-عملية-أمنية-لـقسد-ف/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

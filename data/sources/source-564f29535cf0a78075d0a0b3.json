@@ -1,0 +1,99 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/eDgyw"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.301,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:34:35+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 82250,
+      "content_hash": "d11f1356fc1e73ebffce1b980c1bc5ca74c78aa3b98b815e781bc1f18f8767ba",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.301,
+      "error": null,
+      "final_url": "https://x.com/omar_alharir/status/1901745927758705073",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:34:35+00:00",
+      "status": 200,
+      "url": "https://x.com/omar_alharir/status/1901745927758705073",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "https://x.com/omar_alharir",
+  "captions": [],
+  "content_hash": "be534cb457ed9f8122ec43ac8d2e4abeace272ce29f4f82375dbdad4590975e6",
+  "content_variants": [
+    {
+      "bytes": 224,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:34:35+00:00",
+      "sha256": "be534cb457ed9f8122ec43ac8d2e4abeace272ce29f4f82375dbdad4590975e6",
+      "source_url": "https://x.com/omar_alharir/status/1901745927758705073",
+      "text": "Post\n\nPost\n\nOmar Alhariri@omar_alharirالشهيد قصي محمد البلبوش أحد شهداء العدوان الإسرائيلي على مدينة درعا اليوم\n\n#درعا9:22 PM · Mar 17, 202523.3KViews50921K3"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/omar_alharir/status/1901745927758705073",
+  "incident_ids": [
+    "airwars-276024"
+  ],
+  "incident_sequences": [
+    85
+  ],
+  "normalized_url": "https://x.com/omar_alharir/status/1901745927758705073",
+  "observed_original_urls": [
+    "https://x.com/omar_alharir/status/1901745927758705073"
+  ],
+  "original_url": "https://x.com/omar_alharir/status/1901745927758705073",
+  "page_title": "Omar Alhariri on X: \"الشهيد قصي محمد البلبوش أحد شهداء العدوان الإسرائيلي على مدينة درعا اليوم\n\n#درعا https://t.co/Z9jSDKafoz\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy074-march-17-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-276024",
+      "incident_sequence": 85,
+      "observed_original_url": "https://x.com/omar_alharir/status/1901745927758705073",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-03-17T21:22:16.000Z",
+  "publisher": "'@omar_alharir",
+  "publisher_ar": "'@omar_alharir",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:34:35+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-564f29535cf0a78075d0a0b3",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/omar_alharir/status/1901745927758705073",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nOmar Alhariri@omar_alharirالشهيد قصي محمد البلبوش أحد شهداء العدوان الإسرائيلي على مدينة درعا اليوم\n\n#درعا9:22 PM · Mar 17, 202523.3KViews50921K3",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001594
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

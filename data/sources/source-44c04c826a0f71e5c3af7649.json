@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "335271"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85%d9%8a-%d9%87%d9%81%d8%a7%d9%84-%d9%87%d8%a7%d9%88%d8%a7%d8%b1-pfbid02tk1phjazoc95n3r3ap7xdbmk8aby2kkhh7qlurdvv4uszkjzerwg93mjxumkzby3l/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.473,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:31:53+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 312488,
+      "content_hash": "868542e10c264e8f7940c18999f70295d134b054727e4315f39e03a6e6120376",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.473,
+      "error": null,
+      "final_url": "https://www.facebook.com/hevalhawar.official/posts/pfbid02tk1PhjAZoC95N3r3Ap7xDBMK8ABy2kkhH7qLuRdvV4uSZkjZerwg93MjxumKzBy3l",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:31:53+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/hevalhawar.official/posts/pfbid02tk1PhjAZoC95N3r3Ap7xDBMK8ABy2kkhH7qLuRdvV4uSZkjZerwg93MjxumKzBy3l",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "الاعلامي هفال هاوار",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:31:53+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/hevalhawar.official/posts/pfbid02tk1PhjAZoC95N3r3Ap7xDBMK8ABy2kkhH7qLuRdvV4uSZkjZerwg93MjxumKzBy3l",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/hevalhawar.official/posts/pfbid02tk1PhjAZoC95N3r3Ap7xDBMK8ABy2kkhH7qLuRdvV4uSZkjZerwg93MjxumKzBy3l",
+  "incident_ids": [
+    "airwars-386633"
+  ],
+  "incident_sequences": [
+    28
+  ],
+  "normalized_url": "https://www.facebook.com/hevalhawar.official/posts/pfbid02tk1PhjAZoC95N3r3Ap7xDBMK8ABy2kkhH7qLuRdvV4uSZkjZerwg93MjxumKzBy3l",
+  "observed_original_urls": [
+    "https://www.facebook.com/hevalhawar.official/posts/pfbid02tk1PhjAZoC95N3r3Ap7xDBMK8ABy2kkhH7qLuRdvV4uSZkjZerwg93MjxumKzBy3l"
+  ],
+  "original_url": "https://www.facebook.com/hevalhawar.official/posts/pfbid02tk1PhjAZoC95N3r3Ap7xDBMK8ABy2kkhH7qLuRdvV4uSZkjZerwg93MjxumKzBy3l",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0165-november-14-2025/",
+      "airwars_source_id": "335271",
+      "incident_id": "airwars-386633",
+      "incident_sequence": 28,
+      "observed_original_url": "https://www.facebook.com/hevalhawar.official/posts/pfbid02tk1PhjAZoC95N3r3Ap7xDBMK8ABy2kkhH7qLuRdvV4uSZkjZerwg93MjxumKzBy3l",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "14 نوفمبر 2025",
+  "publisher": "Journalist Haval Hawar",
+  "publisher_ar": "الاعلامي هفال هاوار",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:31:53+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-44c04c826a0f71e5c3af7649",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/hevalhawar.official/posts/pfbid02tk1PhjAZoC95N3r3Ap7xDBMK8ABy2kkhH7qLuRdvV4uSZkjZerwg93MjxumKzBy3l",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001262
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

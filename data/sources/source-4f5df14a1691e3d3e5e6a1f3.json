@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "308448"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/ronahi-tv-feadvw8fgi-10/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.942,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:33:28+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 176309,
+      "content_hash": "8ce3b163e2848f33f98928f7a39a3962c3d22d79e6096b168fe5f30dd47aa2ed",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.942,
+      "error": null,
+      "final_url": "https://ronahi.tv/ar/archives/275961",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:33:28+00:00",
+      "status": 200,
+      "url": "https://ronahi.tv/ar/archives/275961",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "feAdVw8fgi",
+  "captions": [],
+  "content_hash": "1c99aa32846dd0dff164d367d85f5e2476c6d523ac5c9aa933b1e089b59db1e9",
+  "content_variants": [
+    {
+      "bytes": 171,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:33:28+00:00",
+      "sha256": "1c99aa32846dd0dff164d367d85f5e2476c6d523ac5c9aa933b1e089b59db1e9",
+      "source_url": "https://ronahi.tv/ar/archives/275961",
+      "text": "شمال وشرق سوريا\n\nأهالي جل آغا: الحرية الجسدية للقائد أوجلان شرط أساسي لترسيخ السلام في المنطقة"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://ronahi.tv/ar/archives/275961",
+  "incident_ids": [
+    "airwars-304188"
+  ],
+  "incident_sequences": [
+    86
+  ],
+  "normalized_url": "https://ronahi.tv/ar/archives/275961",
+  "observed_original_urls": [
+    "https://ronahi.tv/ar/archives/275961"
+  ],
+  "original_url": "https://ronahi.tv/ar/archives/275961",
+  "page_title": "استشهاد وإصابة 11 مدني معظمهم أطفال.. الاحتلال التركي يرتكب مجزرة بحق عائلة في كوباني - فضائية روناهي البث المباشر",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts796-march-16-2025/",
+      "airwars_source_id": "308448",
+      "incident_id": "airwars-304188",
+      "incident_sequence": 86,
+      "observed_original_url": "https://ronahi.tv/ar/archives/275961",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-03-17T08:56:10+03:00 2025-03-17T05:56:10+00:00",
+  "publisher": "feAdVw8fgi",
+  "publisher_ar": "feAdVw8fgi",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:33:28+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-4f5df14a1691e3d3e5e6a1f3",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://ronahi.tv/ar/archives/275961",
+  "text_ar": "",
+  "text_original": "شمال وشرق سوريا\n\nأهالي جل آغا: الحرية الجسدية للقائد أوجلان شرط أساسي لترسيخ السلام في المنطقة",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003281
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

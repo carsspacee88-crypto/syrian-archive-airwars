@@ -1,0 +1,144 @@
+{
+  "airwars_source_ids": [
+    "315148"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/asharq-com-%d8%a7%d9%84%d8%b4%d8%b1%d9%82-2025-11-28-170212/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.0,
+          "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 21-23: ordinal not in range(128)",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:33:00+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 21-23: ordinal not in range(128)",
+      "final_url": "https://asharq.com/politics/162492/بيت-جن-في-سوريا-توغل-إسرائيلي-وحركة-نزوح-كبيرة/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:33:00+00:00",
+      "status": null,
+      "url": "https://asharq.com/politics/162492/بيت-جن-في-سوريا-توغل-إسرائيلي-وحركة-نزوح-كبيرة/",
+      "waiting_seconds": 0.74
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.031,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-07-31T18:33:00+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1640,
+      "content_hash": "758cec15d2e002ab5247ef0fac95643bcdd8e66bc91a7d631b4702a601210fef",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 0.031,
+      "error": "http_403",
+      "final_url": "https://airwars.org/source/asharq-com-%d8%a7%d9%84%d8%b4%d8%b1%d9%82-2025-11-28-170212/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:33:00+00:00",
+      "status": 403,
+      "url": "https://airwars.org/source/asharq-com-%d8%a7%d9%84%d8%b4%d8%b1%d9%82-2025-11-28-170212/",
+      "waiting_seconds": 0.75
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.154,
+          "error": "TimeoutError: The read operation timed out",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:33:11+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.154,
+      "error": "TimeoutError: The read operation timed out",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fasharq.com%2Fpolitics%2F162492%2F%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%88%D8%AD%D8%B1%D9%83%D8%A9-%D9%86%D8%B2%D9%88%D8%AD-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:33:11+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fasharq.com%2Fpolitics%2F162492%2F%D8%A8%D9%8A%D8%AA-%D8%AC%D9%86-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%88%D8%AD%D8%B1%D9%83%D8%A9-%D9%86%D8%B2%D9%88%D8%AD-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "الشرق",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 21-23: ordinal not in range(128)",
+  "final_redirected_url": "https://asharq.com/politics/162492/بيت-جن-في-سوريا-توغل-إسرائيلي-وحركة-نزوح-كبيرة/",
+  "incident_ids": [
+    "airwars-318800"
+  ],
+  "incident_sequences": [
+    24
+  ],
+  "normalized_url": "https://asharq.com/politics/162492/بيت-جن-في-سوريا-توغل-إسرائيلي-وحركة-نزوح-كبيرة/",
+  "observed_original_urls": [
+    "https://asharq.com/politics/162492/بيت-جن-في-سوريا-توغل-إسرائيلي-وحركة-نزوح-كبيرة/"
+  ],
+  "original_url": "https://asharq.com/politics/162492/بيت-جن-في-سوريا-توغل-إسرائيلي-وحركة-نزوح-كبيرة/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy087-november-28-2025/",
+      "airwars_source_id": "315148",
+      "incident_id": "airwars-318800",
+      "incident_sequence": 24,
+      "observed_original_url": "https://asharq.com/politics/162492/بيت-جن-في-سوريا-توغل-إسرائيلي-وحركة-نزوح-كبيرة/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "28 نوفمبر 2025",
+  "publisher": "the East",
+  "publisher_ar": "الشرق",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:33:00+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-4d823fd3f03fe991f05dd36d",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://asharq.com/politics/162492/بيت-جن-في-سوريا-توغل-إسرائيلي-وحركة-نزوح-كبيرة/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

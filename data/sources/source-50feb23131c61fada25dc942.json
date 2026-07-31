@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "271398"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-watch-2025-10-03-214104/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 2.885,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:33:39+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 981099,
+      "content_hash": "6970fd9c132255af0ff44bfc5c5941ea36e28914bcae51cb0912010f94246dbd",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 2.885,
+      "error": null,
+      "final_url": "https://www.facebook.com/alarabytelevision/videos/1473699736969085/",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:33:39+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=1473699736969085",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "التلفزيون العربي",
+  "captions": [],
+  "content_hash": "1adf641d218ae48ec909ac5848da70e2f2e6c5227772bf92bade2cf8bb0552df",
+  "content_variants": [
+    {
+      "bytes": 219,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:33:39+00:00",
+      "sha256": "1adf641d218ae48ec909ac5848da70e2f2e6c5227772bf92bade2cf8bb0552df",
+      "source_url": "https://www.facebook.com/alarabytelevision/videos/1473699736969085/",
+      "text": "#عاجل | مراسل التلفزيون العربي: نقل جرحى إثر غارة إسرائيلية استهدفت مبنى قيادة الأركان السورية في دمشق | التلفزيون العربي"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/alarabytelevision/videos/1473699736969085/",
+  "incident_ids": [
+    "airwars-276122"
+  ],
+  "incident_sequences": [
+    50
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=1473699736969085",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=1473699736969085"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=1473699736969085",
+  "page_title": "#عاجل | مراسل التلفزيون العربي: نقل جرحى إثر غارة إسرائيلية استهدفت مبنى قيادة الأركان السورية في دمشق | التلفزيون العربي",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy083-july-16-2025/",
+      "airwars_source_id": "271398",
+      "incident_id": "airwars-276122",
+      "incident_sequence": 50,
+      "observed_original_url": "https://www.facebook.com/watch/?v=1473699736969085",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "3 أكتوبر 2025",
+  "publisher": "Al Araby TV",
+  "publisher_ar": "التلفزيون العربي",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:33:39+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-50feb23131c61fada25dc942",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=1473699736969085",
+  "text_ar": "",
+  "text_original": "#عاجل | مراسل التلفزيون العربي: نقل جرحى إثر غارة إسرائيلية استهدفت مبنى قيادة الأركان السورية في دمشق | التلفزيون العربي",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003431
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "289813"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-syriawatannews-1893656886567682128-2025-02-23-133918/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.265,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:33:18+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 78657,
+      "content_hash": "49a703cbb18c2e854f7856a26935621b9418aacdb7d7821f6496334f03406fac",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.265,
+      "error": null,
+      "final_url": "https://x.com/SyriawatanNews/status/1893656886567682128",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:33:18+00:00",
+      "status": 200,
+      "url": "https://x.com/SyriawatanNews/status/1893656886567682128",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "https://x.com/SyriawatanNews",
+  "captions": [],
+  "content_hash": "c1ed2a17e88c2e3afd0a92bfab3438f098b641af10d650b001ef0cd40d15679d",
+  "content_variants": [
+    {
+      "bytes": 366,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:33:18+00:00",
+      "sha256": "c1ed2a17e88c2e3afd0a92bfab3438f098b641af10d650b001ef0cd40d15679d",
+      "source_url": "https://x.com/SyriawatanNews/status/1893656886567682128",
+      "text": "Post\n\nPost\n\nأخبار سوريا الوطن Syrian@SyriawatanNewsمقتل القيا.دي في \"حــ...را.س الدين\" سابقا يدعى \"مها.جر التر.كي\" باستهدف سيارته من قبل طائرة \"للتحالف\" على الطريق الواصل بين بلدة كللي وكفتين بريف #إدلب .1:39 PM · Feb 23, 20251.1KViews7"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyriawatanNews/status/1893656886567682128",
+  "incident_ids": [
+    "airwars-367996"
+  ],
+  "incident_sequences": [
+    99
+  ],
+  "normalized_url": "https://x.com/SyriawatanNews/status/1893656886567682128",
+  "observed_original_urls": [
+    "https://x.com/SyriawatanNews/status/1893656886567682128"
+  ],
+  "original_url": "https://x.com/SyriawatanNews/status/1893656886567682128",
+  "page_title": "أخبار سوريا الوطن Syrian on X: \"مقتل القيا.دي في \"حــ...را.س الدين\" سابقا يدعى \"مها.جر التر.كي\" باستهدف سيارته من قبل طائرة \"للتحالف\" على الطريق الواصل بين بلدة كللي وكفتين بريف #إدلب .\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0129-february-23-2025/",
+      "airwars_source_id": "289813",
+      "incident_id": "airwars-367996",
+      "incident_sequence": 99,
+      "observed_original_url": "https://x.com/SyriawatanNews/status/1893656886567682128",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-02-23T13:39:18.000Z",
+  "publisher": "SyriawatanNews",
+  "publisher_ar": "SyriawatanNews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:33:18+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-4ea54ce3074ea2fe58da973d",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyriawatanNews/status/1893656886567682128",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nأخبار سوريا الوطن Syrian@SyriawatanNewsمقتل القيا.دي في \"حــ...را.س الدين\" سابقا يدعى \"مها.جر التر.كي\" باستهدف سيارته من قبل طائرة \"للتحالف\" على الطريق الواصل بين بلدة كللي وكفتين بريف #إدلب .1:39 PM · Feb 23, 20251.1KViews7",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00164
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

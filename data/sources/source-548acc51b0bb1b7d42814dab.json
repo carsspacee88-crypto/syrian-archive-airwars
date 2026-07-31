@@ -1,0 +1,121 @@
+{
+  "airwars_source_ids": [
+    "382848"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/jamahir-alwehda-gov-sy/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 11.139,
+          "error": "URLError: <urlopen error timed out>",
+          "result": "network_error",
+          "retrieved_at": "2026-07-31T18:34:16+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 11.139,
+      "error": "URLError: <urlopen error timed out>",
+      "final_url": "https://jamahir.alwehda.gov.sy/?p=131985",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:34:16+00:00",
+      "status": null,
+      "url": "https://jamahir.alwehda.gov.sy/?p=131985",
+      "waiting_seconds": 0.742
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "attempt_role": "listed_archive",
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "final_url": "https://airwars.org/source/jamahir-alwehda-gov-sy/",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:34:16+00:00",
+      "status": null,
+      "url": "https://airwars.org/source/jamahir-alwehda-gov-sy/",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_role": "wayback_lookup",
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "ok": false,
+      "retrieved_at": "2026-07-31T18:34:16+00:00"
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "URLError: <urlopen error timed out>",
+  "final_redirected_url": "https://jamahir.alwehda.gov.sy/?p=131985",
+  "incident_ids": [
+    "airwars-386624"
+  ],
+  "incident_sequences": [
+    40
+  ],
+  "normalized_url": "https://jamahir.alwehda.gov.sy/?p=131985",
+  "observed_original_urls": [
+    "https://jamahir.alwehda.gov.sy/?p=131985"
+  ],
+  "original_url": "https://jamahir.alwehda.gov.sy/?p=131985",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0156b-september-28-2025/",
+      "airwars_source_id": "382848",
+      "incident_id": "airwars-386624",
+      "incident_sequence": 40,
+      "observed_original_url": "https://jamahir.alwehda.gov.sy/?p=131985",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "gov.sy",
+  "publisher_ar": "gov.sy",
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": "2026-07-31T18:34:16+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-548acc51b0bb1b7d42814dab",
+  "source_type": "government_or_military_statement",
+  "stable_id_basis": "https://jamahir.alwehda.gov.sy/?p=131985",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

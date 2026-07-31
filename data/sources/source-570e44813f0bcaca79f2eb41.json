@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "187518"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-bakourbataarvideos2926555217524073-2926555217524073-2025-07-02-131119/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.734,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:34:40+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 773261,
+      "content_hash": "043aa3750ee0bd80ea7754c9ef2ed67020f78fd3ed422f707a3b124b1f6f0450",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.734,
+      "error": null,
+      "final_url": "https://www.facebook.com/bakourbataar/videos/2926555217524073/?rdid=VRxlQik2UGr4SK9v",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:34:40+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/bakourbataar/videos/2926555217524073/?rdid=VRxlQik2UGr4SK9v#",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "bakourbataarvideos2926555217524073",
+  "captions": [],
+  "content_hash": "6485195e3be09692f461326438dc7baaa70e4941a5d878b7bbae609ddcdd9895",
+  "content_variants": [
+    {
+      "bytes": 217,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:34:40+00:00",
+      "sha256": "6485195e3be09692f461326438dc7baaa70e4941a5d878b7bbae609ddcdd9895",
+      "source_url": "https://www.facebook.com/bakourbataar/videos/2926555217524073/?rdid=VRxlQik2UGr4SK9v",
+      "text": "النقيب هاني جمعة الحمود\n\nمن أوائل الضباط المنشقين ومن خيرة شباب باتبو\nأستهدفه اليوم التحالف الدولي\n\nتقبله الله | Bakour Bataar"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/bakourbataar/videos/2926555217524073/?rdid=VRxlQik2UGr4SK9v",
+  "incident_ids": [
+    "airwars-190719"
+  ],
+  "incident_sequences": [
+    67
+  ],
+  "normalized_url": "https://www.facebook.com/bakourbataar/videos/2926555217524073/?rdid=VRxlQik2UGr4SK9v",
+  "observed_original_urls": [
+    "https://www.facebook.com/bakourbataar/videos/2926555217524073/?rdid=VRxlQik2UGr4SK9v#"
+  ],
+  "original_url": "https://www.facebook.com/bakourbataar/videos/2926555217524073/?rdid=VRxlQik2UGr4SK9v#",
+  "page_title": "النقيب هاني جمعة الحمود\n\nمن أوائل الضباط المنشقين ومن خيرة شباب باتبو\nأستهدفه اليوم التحالف الدولي\n\nتقبله الله | Bakour Bataar",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2010-june-10-2025/",
+      "airwars_source_id": "187518",
+      "incident_id": "airwars-190719",
+      "incident_sequence": 67,
+      "observed_original_url": "https://www.facebook.com/bakourbataar/videos/2926555217524073/?rdid=VRxlQik2UGr4SK9v#",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2 يوليو 2025",
+  "publisher": "bakourbataarvideos2926555217524073",
+  "publisher_ar": "bakourbataarvideos2926555217524073",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:34:40+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-570e44813f0bcaca79f2eb41",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/bakourbataar/videos/2926555217524073/?rdid=VRxlQik2UGr4SK9v",
+  "text_ar": "",
+  "text_original": "النقيب هاني جمعة الحمود\n\nمن أوائل الضباط المنشقين ومن خيرة شباب باتبو\nأستهدفه اليوم التحالف الدولي\n\nتقبله الله | Bakour Bataar",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002686
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

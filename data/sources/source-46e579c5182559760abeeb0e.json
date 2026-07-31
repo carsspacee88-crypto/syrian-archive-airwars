@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "366265"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-thiqanewsagency-2001624643749429326-2025-12-18-120438/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.251,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:32:01+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 85509,
+      "content_hash": "7d32a3a89a3d4833410cc1dbba14d47610a40b56369233cd43eed90648445a7d",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.251,
+      "error": null,
+      "final_url": "https://x.com/thiqanewsagency/status/2001624643749429326",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:32:01+00:00",
+      "status": 200,
+      "url": "https://x.com/thiqanewsagency/status/2001624643749429326",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "https://x.com/thiqanewsagency",
+  "captions": [],
+  "content_hash": "cd9e5c1514ca7161e9bf6b97de645ea221890701e2be693d2ab2e79b1cde7023",
+  "content_variants": [
+    {
+      "bytes": 399,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:32:01+00:00",
+      "sha256": "cd9e5c1514ca7161e9bf6b97de645ea221890701e2be693d2ab2e79b1cde7023",
+      "source_url": "https://x.com/thiqanewsagency/status/2001624643749429326",
+      "text": "Post\n\nPost\n\nوكالة ثقة@thiqanewsagency#الرقة #معدان مقتل الطفل \"سامي الفايز الياسين الفياض\" (14 عاماً)، وهو الوحيد لوالديه، وذلك خلال عملية الإنزال التي نفذتها قوات التحالف الدولي فجر اليوم في ناحية معدان.\nوكالة_ثقة12:04 PM · Dec 18, 20251.5KViews1101"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/thiqanewsagency/status/2001624643749429326",
+  "incident_ids": [
+    "airwars-367982"
+  ],
+  "incident_sequences": [
+    20
+  ],
+  "normalized_url": "https://x.com/thiqanewsagency/status/2001624643749429326",
+  "observed_original_urls": [
+    "https://x.com/thiqanewsagency/status/2001624643749429326"
+  ],
+  "original_url": "https://x.com/thiqanewsagency/status/2001624643749429326",
+  "page_title": "وكالة ثقة on X: \"#الرقة #معدان مقتل الطفل \"سامي الفايز الياسين الفياض\" (14 عاماً)، وهو الوحيد لوالديه، وذلك خلال عملية الإنزال التي نفذتها قوات التحالف الدولي فجر اليوم في ناحية معدان.\nوكالة_ثقة https://t.co/FsZF1WHwJm\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2019-december-18-2025/",
+      "airwars_source_id": "366265",
+      "incident_id": "airwars-367982",
+      "incident_sequence": 20,
+      "observed_original_url": "https://x.com/thiqanewsagency/status/2001624643749429326",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-12-18T12:04:38.000Z",
+  "publisher": "thiqanewsagency",
+  "publisher_ar": "thiqanewsagency",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:32:01+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-46e579c5182559760abeeb0e",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/thiqanewsagency/status/2001624643749429326",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nوكالة ثقة@thiqanewsagency#الرقة #معدان مقتل الطفل \"سامي الفايز الياسين الفياض\" (14 عاماً)، وهو الوحيد لوالديه، وذلك خلال عملية الإنزال التي نفذتها قوات التحالف الدولي فجر اليوم في ناحية معدان.\nوكالة_ثقة12:04 PM · Dec 18, 20251.5KViews1101",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001618
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

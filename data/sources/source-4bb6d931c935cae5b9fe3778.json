@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "223314"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-fratercrc-1934456555451371700-2025-06-16-034237/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.282,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:32:36+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 95893,
+      "content_hash": "e1d2ae154f66a45375674cbb9d34514ffbf207d09d979854ebc29ac3444c7578",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.282,
+      "error": null,
+      "final_url": "https://x.com/fratercrc/status/1934456555451371700",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:32:36+00:00",
+      "status": 200,
+      "url": "https://x.com/fratercrc/status/1934456555451371700",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "https://x.com/fratercrc",
+  "captions": [],
+  "content_hash": "8a41292f0d7e22ed85d302e6ce5ce431defc3507ae0de5fe7f2c803ea6e86c33",
+  "content_variants": [
+    {
+      "bytes": 353,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:32:36+00:00",
+      "sha256": "8a41292f0d7e22ed85d302e6ce5ce431defc3507ae0de5fe7f2c803ea6e86c33",
+      "source_url": "https://x.com/fratercrc/status/1934456555451371700",
+      "text": "Post\n\nPost\n\nChristian Rosenkreutz@fratercrcMILITARY/STRATEGIC TARGET: BAZAN Group, formerly Oil Refineries Ltd (Haifa Bay, Israel) hit by IRGC missiles.\nIDF lifeline-supply might be in a perilous condition (and that's what UNRESTRICTED WARFARE is all about)\n#IRGC #IDF #NuclearWar #NuclearWeapons #OilRefinery #BAZAN00:003:42 AM · Jun 16, 2025434Views1"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/fratercrc/status/1934456555451371700",
+  "incident_ids": [
+    "airwars-229045"
+  ],
+  "incident_sequences": [
+    55
+  ],
+  "normalized_url": "https://x.com/fratercrc/status/1934456555451371700",
+  "observed_original_urls": [
+    "https://x.com/fratercrc/status/1934456555451371700"
+  ],
+  "original_url": "https://x.com/fratercrc/status/1934456555451371700",
+  "page_title": "Christian Rosenkreutz on X: \"MILITARY/STRATEGIC TARGET: BAZAN Group, formerly Oil Refineries Ltd (Haifa Bay, Israel) hit by IRGC missiles.\nIDF lifeline-supply might be in a perilous condition (and that's what UNRESTRICTED WARFARE is all about)\n#IRGC #IDF #NuclearWar #NuclearWeapons #OilRefinery #BAZAN https://t.co/GaVtXE8fAX\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/iris250616b-june-26-2025/",
+      "airwars_source_id": "223314",
+      "incident_id": "airwars-229045",
+      "incident_sequence": 55,
+      "observed_original_url": "https://x.com/fratercrc/status/1934456555451371700",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-06-16T03:42:37.000Z",
+  "publisher": "fratercrc",
+  "publisher_ar": "fratercrc",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:32:36+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-4bb6d931c935cae5b9fe3778",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/fratercrc/status/1934456555451371700",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nChristian Rosenkreutz@fratercrcMILITARY/STRATEGIC TARGET: BAZAN Group, formerly Oil Refineries Ltd (Haifa Bay, Israel) hit by IRGC missiles.\nIDF lifeline-supply might be in a perilous condition (and that's what UNRESTRICTED WARFARE is all about)\n#IRGC #IDF #NuclearWar #NuclearWeapons #OilRefinery #BAZAN00:003:42 AM · Jun 16, 2025434Views1",
+  "text_original_language": "en",
+  "timing": {
+    "text_extraction_seconds": 0.001769
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

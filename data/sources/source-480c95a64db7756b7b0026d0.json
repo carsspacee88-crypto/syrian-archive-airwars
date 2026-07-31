@@ -1,0 +1,99 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/KxBFB"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.118,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:32:06+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 933701,
+      "content_hash": "8be96f9e649919cc797e06c7271192e1d0ef837b9161f56f90e05bf85f1b5994",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.118,
+      "error": null,
+      "final_url": "https://www.facebook.com/Daraa.gatherings/videos/429734046867734/",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:32:06+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=429734046867734",
+      "waiting_seconds": 0.741
+    }
+  ],
+  "author": "Daraa al hadath",
+  "captions": [],
+  "content_hash": "0cb28fa8338818138c040feb41551be7e7914f9f220f99951d44fb393ee18248",
+  "content_variants": [
+    {
+      "bytes": 153,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:32:06+00:00",
+      "sha256": "0cb28fa8338818138c040feb41551be7e7914f9f220f99951d44fb393ee18248",
+      "source_url": "https://www.facebook.com/Daraa.gatherings/videos/429734046867734/",
+      "text": "إصابة طفلة بجروح جراء الغارات الإسرائيلية على مدينة درعا. | أخباردرعا الحدث - Daraa Alhadth"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Daraa.gatherings/videos/429734046867734/",
+  "incident_ids": [
+    "airwars-276024"
+  ],
+  "incident_sequences": [
+    85
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=429734046867734",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=429734046867734"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=429734046867734",
+  "page_title": "إصابة طفلة بجروح جراء الغارات الإسرائيلية على مدينة درعا. | أخباردرعا الحدث - Daraa Alhadth",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy074-march-17-2025/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-276024",
+      "incident_sequence": 85,
+      "observed_original_url": "https://www.facebook.com/watch/?v=429734046867734",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Daraa al hadath",
+  "publisher_ar": "Daraa al hadath",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:32:06+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-480c95a64db7756b7b0026d0",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=429734046867734",
+  "text_ar": "",
+  "text_original": "إصابة طفلة بجروح جراء الغارات الإسرائيلية على مدينة درعا. | أخباردرعا الحدث - Daraa Alhadth",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00382
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

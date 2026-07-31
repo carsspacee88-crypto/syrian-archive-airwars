@@ -1,0 +1,101 @@
+{
+  "airwars_source_ids": [
+    "366054"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%a3%d8%a8%d9%88-%d9%85%d8%b5%d8%b9%d8%a8-%d8%a3%d9%84%d9%85%d8%b4%d9%87%d8%af%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d9%87%d8%a7%d8%b4%d9%85%d9%8a-844231154894229-2025-12-18-235256/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.22,
+          "result": "successful",
+          "retrieved_at": "2026-07-31T18:34:20+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 444474,
+      "content_hash": "d4efb8fcc15c676f8a5e08a1ef32f052a94903176a2eec0708fb32611ebf04d0",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.22,
+      "error": null,
+      "final_url": "https://www.facebook.com/reel/844231154894229",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-07-31T18:34:20+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/reel/844231154894229",
+      "waiting_seconds": 0.734
+    }
+  ],
+  "author": "أبو مصعب ألمشهداني الهاشمي",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-07-31T18:34:20+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/reel/844231154894229",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/reel/844231154894229",
+  "incident_ids": [
+    "airwars-367980"
+  ],
+  "incident_sequences": [
+    21
+  ],
+  "normalized_url": "https://www.facebook.com/reel/844231154894229",
+  "observed_original_urls": [
+    "https://www.facebook.com/reel/844231154894229"
+  ],
+  "original_url": "https://www.facebook.com/reel/844231154894229",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs2017-december-17-2025/",
+      "airwars_source_id": "366054",
+      "incident_id": "airwars-367980",
+      "incident_sequence": 21,
+      "observed_original_url": "https://www.facebook.com/reel/844231154894229",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "18 ديسمبر 2025",
+  "publisher": "Abu Musab Al-Mashhadani Al-Hashemi",
+  "publisher_ar": "أبو مصعب ألمشهداني الهاشمي",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-07-31T18:34:20+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-54fe0a9ebd4b86dfc6bfdc7b",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/reel/844231154894229",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001235
+  },
+  "translation": {
+    "chunks": [],
+    "review_required": false,
+    "status": "pending",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
