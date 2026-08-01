@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/xdPKN"
+    "https://archive.is/xdPKN",
+    "https://web.archive.org/web/20211016053657id_/https://www.jesrpress.com/2021/09/26/%D9%82%D8%B3%D8%AF-%D8%AA%D8%B9%D8%B0%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D8%A8-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D9%88/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Jisr Press",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "e7b5029517ba137bc24ec255f0ab03270e8243471345ea33a8c810a863303721",
+  "content_variants": [
+    {
+      "bytes": 2009,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:46:49+00:00",
+      "sha256": "e7b5029517ba137bc24ec255f0ab03270e8243471345ea33a8c810a863303721",
+      "source_url": "https://web.archive.org/web/20211016053657id_/https://www.jesrpress.com/2021/09/26/%D9%82%D8%B3%D8%AF-%D8%AA%D8%B9%D8%B0%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D8%A8-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D9%88/",
+      "text": "“قسد” تعذب الشاب “علي الصالح” حتى الموت وتلقي جثته بريف ديرالزور\n\nأفاد مراسل “جسر” بأن فوات سوريا الديمقراطية (قسد) داهمت صباح اليوم الأحد، بلدة الزر في ريف ديرالزور.\n\nوقال مراسلنا، إن “قسد” اعتقلت الشاب “علي باسل عبادي الصالح” بعد أن أطلقت النار عليه، مشيراً إلى أن الشاب فارق الحياة تحت التعذيب.\n\nوحسب المراسل، فإن قوات سوريا الديمقراطية ألقت جثة الشاب على مفر القرية ولاذت بالفرار، مضيفاً أن الشاب من أبناء قرية الزر.\n\nوكشف المراسل، أن ذوي الشاب أبلغوا بالحادثة، نافياً أن يكون للشاب أي علاقة بتنظيم داعش.\n\nوأضاف، أن الشاب الذي كان يقيم بحمص توجه مع عائلته إلى تركيا عام 2014 قبل أن يعودوا إلى سوريا عام 2018.\n\nيذكر أن الشاب يبلغ من العمر 18 عاماً فقط ويعمل مع أخوته بتربية المواشي وليس له أي نشاط مشبوه، وفقاً لمراسل “جسر”.\n\nالسابق\n\nأنباء عن إقالة قناة “الجزيرة” لأحد أبرز الكوادر الإعلامية فيها\n\nالتالي\n\nالتحالف الدولي يعلن نتيجة هجوم ضد “داعش” بدير الزور\n\nمسؤولون أتراك: القرار اتُخذ والجيش التركي سيهاجم “PYD” في هذه المنطقة\n\nوائل كفوري في العناية المشددة على أثر حادث سير مروع\n\n“تحرير الشام” تعتقل مسؤول التفخيخ في “سرية أبو بكر الصديق”…\n\nقضاء “النظام” يستدعي بروين إبراهيم من “حزب الشباب للبناء…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:46:48+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:46:49+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211016053657id_/https://www.jesrpress.com/2021/09/26/%D9%82%D8%B3%D8%AF-%D8%AA%D8%B9%D8%B0%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D8%A8-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D9%88/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211016053657id_/https://www.jesrpress.com/2021/09/26/%D9%82%D8%B3%D8%AF-%D8%AA%D8%B9%D8%B0%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D8%A8-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D9%88/",
   "incident_ids": [
     "airwars-78934"
   ],
@@ -85,10 +109,10 @@
     "https://www.jesrpress.com/2021/09/26/%D9%82%D8%B3%D8%AF-%D8%AA%D8%B9%D8%B0%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D8%A8-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D9%88/"
   ],
   "original_url": "https://www.jesrpress.com/2021/09/26/%D9%82%D8%B3%D8%AF-%D8%AA%D8%B9%D8%B0%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D8%A8-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D9%88/",
-  "page_title": "",
+  "page_title": "\"قسد\" تعذب الشاب \"علي الصالح\" حتى الموت وتلقي جثته بريف ديرالزور - صحيفة جسر \"قسد\" تعذب الشاب \"علي الصالح\" حتى الموت وتلقي جثته بريف ديرالزور - صحيفة جسر",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1964-september-26-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:46:49+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-bbc92551afeab9e3f05cf79a",
   "source_type": "news_article",
   "stable_id_basis": "https://www.jesrpress.com/2021/09/26/%D9%82%D8%B3%D8%AF-%D8%AA%D8%B9%D8%B0%D8%A8-%D8%A7%D9%84%D8%B4%D8%A7%D8%A8-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D9%88/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "“قسد” تعذب الشاب “علي الصالح” حتى الموت وتلقي جثته بريف ديرالزور\n\nأفاد مراسل “جسر” بأن فوات سوريا الديمقراطية (قسد) داهمت صباح اليوم الأحد، بلدة الزر في ريف ديرالزور.\n\nوقال مراسلنا، إن “قسد” اعتقلت الشاب “علي باسل عبادي الصالح” بعد أن أطلقت النار عليه، مشيراً إلى أن الشاب فارق الحياة تحت التعذيب.\n\nوحسب المراسل، فإن قوات سوريا الديمقراطية ألقت جثة الشاب على مفر القرية ولاذت بالفرار، مضيفاً أن الشاب من أبناء قرية الزر.\n\nوكشف المراسل، أن ذوي الشاب أبلغوا بالحادثة، نافياً أن يكون للشاب أي علاقة بتنظيم داعش.\n\nوأضاف، أن الشاب الذي كان يقيم بحمص توجه مع عائلته إلى تركيا عام 2014 قبل أن يعودوا إلى سوريا عام 2018.\n\nيذكر أن الشاب يبلغ من العمر 18 عاماً فقط ويعمل مع أخوته بتربية المواشي وليس له أي نشاط مشبوه، وفقاً لمراسل “جسر”.\n\nالسابق\n\nأنباء عن إقالة قناة “الجزيرة” لأحد أبرز الكوادر الإعلامية فيها\n\nالتالي\n\nالتحالف الدولي يعلن نتيجة هجوم ضد “داعش” بدير الزور\n\nمسؤولون أتراك: القرار اتُخذ والجيش التركي سيهاجم “PYD” في هذه المنطقة\n\nوائل كفوري في العناية المشددة على أثر حادث سير مروع\n\n“تحرير الشام” تعتقل مسؤول التفخيخ في “سرية أبو بكر الصديق”…\n\nقضاء “النظام” يستدعي بروين إبراهيم من “حزب الشباب للبناء…",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

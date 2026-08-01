@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/zudrR"
+    "https://archive.md/zudrR",
+    "https://web.archive.org/web/20260315144233id_/https://www.zamanalwsl.net/news/article/141830"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaman Al Wasl",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "3503db727f7902dc7748a1ab436ad58581d480a71422c146da5dee9466b4714e",
+  "content_variants": [
+    {
+      "bytes": 268,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:54:02+00:00",
+      "sha256": "3503db727f7902dc7748a1ab436ad58581d480a71422c146da5dee9466b4714e",
+      "source_url": "https://web.archive.org/web/20260315144233id_/https://www.zamanalwsl.net/news/article/141830",
+      "text": "02 كانون الأول 2021\n\nوفاة طفلة متأثرةً بجراحها إثر قصف النظام في إدلب\n\n0\n\nالتعليقات\n\nمحافظة\n\nاليوم\n\nإدلب\n\nالخميس\n\nوكفر\n\nمنطقة\n\nضمن\n\nإثر\n\nتعليقات حول الموضوع"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:54:02+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:54:02+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260315144233id_/https://www.zamanalwsl.net/news/article/141830"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260315144233id_/https://www.zamanalwsl.net/news/article/141830",
   "incident_ids": [
     "airwars-80621"
   ],
@@ -85,10 +109,10 @@
     "https://www.zamanalwsl.net/news/article/141830/"
   ],
   "original_url": "https://www.zamanalwsl.net/news/article/141830/",
-  "page_title": "",
+  "page_title": "وفاة طفلة متأثرةً بجراحها إثر قصف النظام في إدلب | زمان الوصل وفاة طفلة متأثرةً بجراحها إثر قصف النظام في إدلب وفاة طفلة متأثرةً بجراحها إثر قصف النظام في إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4676-december-2-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:54:02+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e990f52d3f84e771ac19e238",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.zamanalwsl.net/news/article/141830/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "02 كانون الأول 2021\n\nوفاة طفلة متأثرةً بجراحها إثر قصف النظام في إدلب\n\n0\n\nالتعليقات\n\nمحافظة\n\nاليوم\n\nإدلب\n\nالخميس\n\nوكفر\n\nمنطقة\n\nضمن\n\nإثر\n\nتعليقات حول الموضوع",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

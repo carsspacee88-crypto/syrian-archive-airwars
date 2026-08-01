@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20250726031310id_/https://english.almanar.com.lb/1485684"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Al Manar TV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "9ff86d01fc7625bc53eda7dbdcbadf847da94c6a1fb286ac026c30b5ae973bab",
+  "content_variants": [
+    {
+      "bytes": 3604,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:48:08+00:00",
+      "sha256": "9ff86d01fc7625bc53eda7dbdcbadf847da94c6a1fb286ac026c30b5ae973bab",
+      "source_url": "https://web.archive.org/web/20250726031310id_/https://english.almanar.com.lb/1485684",
+      "text": "Civilians killed, Injured in US Drone Strike in Syria’s Idlib\n\nAt least a civilian has been killed and seven others injured in a US military drone strike in Syria’s northwestern province of Idlib, only a few days after Pentagon chief Lloyd Austin ordered a review into a 2019 US Syria bombings that killed dozens of civilians.\n\nThe Arabic-language Enab Baladi weekly newspaper reported that the air raid targeted a man riding a motorcycle near the village of Kafr Battikh, which lies in the southern Saraqib district of the province, on Friday.\n\nSeven members of a family, including three women and a child, were also injured while they were traveling in a car across the road.\n\nEnab Baladi went on to say that the US-made MQ-9 Reaper unmanned aerial vehicle struck the motorcycle with three missiles.\n\nHours later, United States Central Command (USCENTCOM) said it would open an investigation into possible civilian casualties inflicted in the drone strike in Idlib, with Pentagon officials claiming the attack was meant to target a “senior al-Qaeda leader.”\n\n“We abhor the loss of innocent life and take all possible measures to prevent them,” Captain Bill Urban, a spokesman for Central Command, said in a statement.\n\nHe added, “The possibility of a civilian casualty was immediately self-reported to US Central Command. We are initiating a full investigation of the allegations and will release the results when appropriate.”\n\nFriday’s drone strike follows another attack on Idlib in September, which was also alleged to have killed a top terrorist operative. The US military claimed at the time that no civilians were killed in that attack.\n\nLast month, the New York Times, citing anonymous sources and classified documents, published a report that said a previous American air strike in March 2019 hit “a large crowd of women and children huddled against a river bank” near the town of Baghuz, and may have resulted in the Pentagon’s largest civilian casualty incident in Syria.\n\n“Without warning, an American F-15E attack jet streaked across the drone’s high-definition field of vision and dropped a 500-pound bomb on the crowd, swallowing it in a shuddering blast. As the smoke cleared, a few people stumbled away in search of cover. Then a jet tracking them dropped one 2,000-pound bomb, then another, killing most of the survivors,” the Times wrote.\n\nFollowing the report, CENTCOM reluctantly admitted that it may have killed up to 80 people, including some civilians, though still argued that the slain women and children may have been working on behalf of the Daesh Takfiri terrorist group at the time they were bombed.\n\nThe US military has stationed forces and equipment in eastern and northeastern Syria, with the Pentagon claiming that the deployment is aimed at preventing the oilfields in the area from falling into the hands of Daesh terrorists.\n\nDamascus says the unlawful US deployment is meant to plunder the Arab country’s resources.\n\nFormer US president Donald Trump admitted on several occasions that American forces were in Syria for its oil.\n\nAfter failing to oust the Syrian government with the help of its proxies and direct involvement in the conflict, the US government has now stepped up its economic war on the Arab country.\n\nSource: SANA and Tasnim news agencies\n\nComments\n\nRelated Articles\n\nIsrael’s Quiet Partition Plan: Sectarian Cantons from Golan to Sweida\n\nTense Calm in Syria’s Sweida as Week of Violence Killed at Least 1,000 People\n\nDamascus Believed It Had Green Light from US, ‘Israel’ to Deploy Forces to Sweida: Report"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:48:08+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:48:08+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250726031310id_/https://english.almanar.com.lb/1485684"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250726031310id_/https://english.almanar.com.lb/1485684",
   "incident_ids": [
     "airwars-80506"
   ],
@@ -55,10 +80,10 @@
     "https://english.almanar.com.lb/1485684"
   ],
   "original_url": "https://english.almanar.com.lb/1485684",
-  "page_title": "",
+  "page_title": "Civilians killed, Injured in US Drone Strike in Syria’s Idlib – Al-Manar TV Lebanon Civilians killed, Injured in US Drone Strike in Syria’s Idlib",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1973-december-3-2021/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:48:08+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-c4e7a33eb3a4d66c6be1435d",
   "source_type": "other_web_page",
   "stable_id_basis": "https://english.almanar.com.lb/1485684",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Civilians killed, Injured in US Drone Strike in Syria’s Idlib\n\nAt least a civilian has been killed and seven others injured in a US military drone strike in Syria’s northwestern province of Idlib, only a few days after Pentagon chief Lloyd Austin ordered a review into a 2019 US Syria bombings that killed dozens of civilians.\n\nThe Arabic-language Enab Baladi weekly newspaper reported that the air raid targeted a man riding a motorcycle near the village of Kafr Battikh, which lies in the southern Saraqib district of the province, on Friday.\n\nSeven members of a family, including three women and a child, were also injured while they were traveling in a car across the road.\n\nEnab Baladi went on to say that the US-made MQ-9 Reaper unmanned aerial vehicle struck the motorcycle with three missiles.\n\nHours later, United States Central Command (USCENTCOM) said it would open an investigation into possible civilian casualties inflicted in the drone strike in Idlib, with Pentagon officials claiming the attack was meant to target a “senior al-Qaeda leader.”\n\n“We abhor the loss of innocent life and take all possible measures to prevent them,” Captain Bill Urban, a spokesman for Central Command, said in a statement.\n\nHe added, “The possibility of a civilian casualty was immediately self-reported to US Central Command. We are initiating a full investigation of the allegations and will release the results when appropriate.”\n\nFriday’s drone strike follows another attack on Idlib in September, which was also alleged to have killed a top terrorist operative. The US military claimed at the time that no civilians were killed in that attack.\n\nLast month, the New York Times, citing anonymous sources and classified documents, published a report that said a previous American air strike in March 2019 hit “a large crowd of women and children huddled against a river bank” near the town of Baghuz, and may have resulted in the Pentagon’s largest civilian casualty incident in Syria.\n\n“Without warning, an American F-15E attack jet streaked across the drone’s high-definition field of vision and dropped a 500-pound bomb on the crowd, swallowing it in a shuddering blast. As the smoke cleared, a few people stumbled away in search of cover. Then a jet tracking them dropped one 2,000-pound bomb, then another, killing most of the survivors,” the Times wrote.\n\nFollowing the report, CENTCOM reluctantly admitted that it may have killed up to 80 people, including some civilians, though still argued that the slain women and children may have been working on behalf of the Daesh Takfiri terrorist group at the time they were bombed.\n\nThe US military has stationed forces and equipment in eastern and northeastern Syria, with the Pentagon claiming that the deployment is aimed at preventing the oilfields in the area from falling into the hands of Daesh terrorists.\n\nDamascus says the unlawful US deployment is meant to plunder the Arab country’s resources.\n\nFormer US president Donald Trump admitted on several occasions that American forces were in Syria for its oil.\n\nAfter failing to oust the Syrian government with the help of its proxies and direct involvement in the conflict, the US government has now stepped up its economic war on the Arab country.\n\nSource: SANA and Tasnim news agencies\n\nComments\n\nRelated Articles\n\nIsrael’s Quiet Partition Plan: Sectarian Cantons from Golan to Sweida\n\nTense Calm in Syria’s Sweida as Week of Violence Killed at Least 1,000 People\n\nDamascus Believed It Had Green Light from US, ‘Israel’ to Deploy Forces to Sweida: Report",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

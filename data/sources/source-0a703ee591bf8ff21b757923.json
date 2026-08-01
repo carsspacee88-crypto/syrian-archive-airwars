@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/5bWXQ"
+    "https://archive.is/5bWXQ",
+    "https://web.archive.org/web/20221003035609id_/https://www.syriahr.com/en/220936/?fbclid=IwAR02Hn82lxRdTWkonOBTuH4LTC6DaoLHx-7kMystc4zamJ8GG2tQpmpazVw"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "adc59c34d62826a61a97d19ecd1840f337dc5d6235b7841b2716466014bfadeb",
+  "content_variants": [
+    {
+      "bytes": 2111,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:14:28+00:00",
+      "sha256": "adc59c34d62826a61a97d19ecd1840f337dc5d6235b7841b2716466014bfadeb",
+      "source_url": "https://web.archive.org/web/20221003035609id_/https://www.syriahr.com/en/220936/?fbclid=IwAR02Hn82lxRdTWkonOBTuH4LTC6DaoLHx-7kMystc4zamJ8GG2tQpmpazVw",
+      "text": "Strikes on Afrin kill three |Turkish forces continue bombarding Kurdish forces-held areas in north Aleppo countryside\n\nAleppo province: Three civilians have been killed and others have been wounded in a rocket fire targeting Afrin city in north Aleppo countryside.\n\nOn the other hand, rocket fire renewed on Afrin city and its surrounding areas amid continuous Turkish strikes on Kurdish forces-held areas in north Aleppo countryside.\n\nEarlier, several explosions heared in Afrin city under control of the Turkish forces and its factions due to drop of rocket fire on al-Mazout road and al-Villat street in the city, which caused large fire, but no casualties were reported.\n\nOn the other hand, Turkish forces stationed in the military bases in Aleppo countryside bombarded Mengh Military Airport and Mar’anaz frontlines under control of the Kurdish forces in north Aleppo countryside.\n\nOn August 16, SOHR activists reported that Turkish forces and their proxies shelled, this evening, positions in the Kurdish-held villages of Ain Daqna, al-Bayloniya and Maraanar in north Aleppo countryside with heavy artillery. However, no causalities have been reported.\n\nOn August 15, SOHR activists reported that the Turkish forces and their proxies carried out artillery attacks, targeting positions in the Kurdish-held towns and villages of Maraanaz, Kashtaar, al-Shawargha castle, al-Shawargha, the bushes of Soughanka, Tat Marash, the vicinity of al-Zeyara and Deir Jamal in Sherawa district in the countryside of Afrin in the countryside of Aleppo.\n\nPrev Post\n\nBombardments target Afrin amid Turkish strikes on Kurdish-held areas in Aleppo countryside\n\nNext Post\n\n“SOHR camera” captures the US base in Tel Bayder in the area between Tel Tamr and al-Qamishli in al-Hasakah province\n\nDaily death toll | Five persons killed on October 2 across Syria\n\nAerial cover by International Coalition | SDF conduct raiding campaign in Al-Zer in…\n\nTo facilitate commercial trading | SDF establishes river crossing between SDF and…\n\nNew assassination | Unidentified gunmen assassinate member of “State Security” in…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:14:28+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:14:28+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20221003035609id_/https://www.syriahr.com/en/220936/?fbclid=IwAR02Hn82lxRdTWkonOBTuH4LTC6DaoLHx-7kMystc4zamJ8GG2tQpmpazVw"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20221003035609id_/https://www.syriahr.com/en/220936/?fbclid=IwAR02Hn82lxRdTWkonOBTuH4LTC6DaoLHx-7kMystc4zamJ8GG2tQpmpazVw",
   "incident_ids": [
     "airwars-77435"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/220936/?fbclid=IwAR02Hn82lxRdTWkonOBTuH4LTC6DaoLHx-7kMystc4zamJ8GG2tQpmpazVw"
   ],
   "original_url": "https://www.syriahr.com/en/220936/?fbclid=IwAR02Hn82lxRdTWkonOBTuH4LTC6DaoLHx-7kMystc4zamJ8GG2tQpmpazVw",
-  "page_title": "",
+  "page_title": "Strikes on Afrin kill three |Turkish forces continue bombarding Kurdish forces-held areas in north Aleppo countryside • The Syrian Observatory For Human Rights Strikes on Afrin kill three |Turkish forces continue bombarding Kurdish forces-held areas in north Aleppo countryside • The Syrian Observatory For Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys113-rs4627-august-18-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:14:28+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0a703ee591bf8ff21b757923",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/220936/?fbclid=IwAR02Hn82lxRdTWkonOBTuH4LTC6DaoLHx-7kMystc4zamJ8GG2tQpmpazVw",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Strikes on Afrin kill three |Turkish forces continue bombarding Kurdish forces-held areas in north Aleppo countryside\n\nAleppo province: Three civilians have been killed and others have been wounded in a rocket fire targeting Afrin city in north Aleppo countryside.\n\nOn the other hand, rocket fire renewed on Afrin city and its surrounding areas amid continuous Turkish strikes on Kurdish forces-held areas in north Aleppo countryside.\n\nEarlier, several explosions heared in Afrin city under control of the Turkish forces and its factions due to drop of rocket fire on al-Mazout road and al-Villat street in the city, which caused large fire, but no casualties were reported.\n\nOn the other hand, Turkish forces stationed in the military bases in Aleppo countryside bombarded Mengh Military Airport and Mar’anaz frontlines under control of the Kurdish forces in north Aleppo countryside.\n\nOn August 16, SOHR activists reported that Turkish forces and their proxies shelled, this evening, positions in the Kurdish-held villages of Ain Daqna, al-Bayloniya and Maraanar in north Aleppo countryside with heavy artillery. However, no causalities have been reported.\n\nOn August 15, SOHR activists reported that the Turkish forces and their proxies carried out artillery attacks, targeting positions in the Kurdish-held towns and villages of Maraanaz, Kashtaar, al-Shawargha castle, al-Shawargha, the bushes of Soughanka, Tat Marash, the vicinity of al-Zeyara and Deir Jamal in Sherawa district in the countryside of Afrin in the countryside of Aleppo.\n\nPrev Post\n\nBombardments target Afrin amid Turkish strikes on Kurdish-held areas in Aleppo countryside\n\nNext Post\n\n“SOHR camera” captures the US base in Tel Bayder in the area between Tel Tamr and al-Qamishli in al-Hasakah province\n\nDaily death toll | Five persons killed on October 2 across Syria\n\nAerial cover by International Coalition | SDF conduct raiding campaign in Al-Zer in…\n\nTo facilitate commercial trading | SDF establishes river crossing between SDF and…\n\nNew assassination | Unidentified gunmen assassinate member of “State Security” in…",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

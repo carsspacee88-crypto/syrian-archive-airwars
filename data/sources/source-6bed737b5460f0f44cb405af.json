@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/Wmig3"
+    "https://archive.is/Wmig3",
+    "https://web.archive.org/web/20230130204640id_/https://npasyria.com/en/85054/?fbclid=IwAR0xqDynfLf8zd-VJm36yhahouMhER59E5aJteNHiGIO-bWEi1CG7iI4P2Q"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1e51eafe622704718c6a72709e1269b89c4f9b9f583c6b892aa2b3231fbaa5ca",
+  "content_variants": [
+    {
+      "bytes": 2624,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:32:45+00:00",
+      "sha256": "1e51eafe622704718c6a72709e1269b89c4f9b9f583c6b892aa2b3231fbaa5ca",
+      "source_url": "https://web.archive.org/web/20230130204640id_/https://npasyria.com/en/85054/?fbclid=IwAR0xqDynfLf8zd-VJm36yhahouMhER59E5aJteNHiGIO-bWEi1CG7iI4P2Q",
+      "text": "Turkish shelling turns Syria’s northern border to war zone\n\nIDPS from Kolteb village in Kobani – North Press\n\nQAMISHLI, Syria (North Press) – Turkish escalation on the frontlines in north and northeast Syria on Monday left injuries, caused damage and led to a wide scale displacement.\n\nSince the very early hours of Monday, Turkish forces shelled the village of Herbel in Aleppo northern countryside for the second time in less than 24 hours.\n\nA local source told North Press that the two waves of shelling caused material damage in people’s properties.\n\nHot frontlines\n\nLate on Monday evening, the villages of Qaramogh, Kolteb, Jishan, Mazraa Abrosh and Tel Shaer in east and west Kobani underwent indiscriminate Turkish shelling.\n\nMore than 10 shells landed on Qaramogh and six on the farmland close to Mazraa Arbosh and the area around Tel Shaer.\n\nThe shelling on Kobani coincided with similar escalation on the contact lines in Tel Tamr, Manbij, Tel Abyad, Ain Issa and Aleppo northern countryside.\n\nDisplacement and fear\n\nResidents of Kolteb village – some 30 km east of Kobani city, near the contact lines between the Syrian government forces and the Turkish-backed opposition factions, known as the Syrian National Army (SNA) – were displaced due to the intensity of shelling.\n\nVillagers spent the night in the open. In a phone call a man told North Press that they fear to return home as “shelling could resume at any moment.”\n\nThe man added that the bombardment caused significant damage many homes in the village and destroyed a car.\n\nThe shelling of the village of al-Mahsinli, north of Manbij, spread panic among locals.\n\nIgnited border strip\n\nIn northern Raqqa, Turkish forces and SNA factions struck several areas abutting the border strip at Tel Abyad including the villages of Qerma, Qazali, Bagdik and the M4 Highway. They also bombarded villages in the countryside of Ain Issa.\n\nMoving to the northern countryside of Hasakah, Turkish artillery targeted the village of Quboor al-Qarajneh at the town of Tel Tamr and the center of the town of Zirgan (Abu Rasin).\n\nEarlier on Monday, Turkish forces shelled the villages of Sogunaka and Herbel in Aleppo northern countryside with at least 10 artillery shells.\n\nInjuries and losses\n\nThe Turkish bombardment on the Kobani villages led to the injury of Masoud Abu Ayoub, 53, from Qaramogh, Mustafa Hero, 25, from the village of Goran.\n\nFour people were injured in northern Hasakah, according to a medical source from the Legerin Hospital in Tel Tamr town.\n\nMaterial damage were reported in all areas underwent shelling.\n\nReporting by Rahaf Youssef"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:32:44+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:32:45+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230130204640id_/https://npasyria.com/en/85054/?fbclid=IwAR0xqDynfLf8zd-VJm36yhahouMhER59E5aJteNHiGIO-bWEi1CG7iI4P2Q"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230130204640id_/https://npasyria.com/en/85054/?fbclid=IwAR0xqDynfLf8zd-VJm36yhahouMhER59E5aJteNHiGIO-bWEi1CG7iI4P2Q",
   "incident_ids": [
     "airwars-84998"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/85054/?fbclid=IwAR0xqDynfLf8zd-VJm36yhahouMhER59E5aJteNHiGIO-bWEi1CG7iI4P2Q"
   ],
   "original_url": "https://npasyria.com/en/85054/?fbclid=IwAR0xqDynfLf8zd-VJm36yhahouMhER59E5aJteNHiGIO-bWEi1CG7iI4P2Q",
-  "page_title": "",
+  "page_title": "Turkish shelling turns Syria’s northern border to war zone Turkish shelling turns Syria’s northern border to war zone",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts558-october-3-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:32:45+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-6bed737b5460f0f44cb405af",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/85054/?fbclid=IwAR0xqDynfLf8zd-VJm36yhahouMhER59E5aJteNHiGIO-bWEi1CG7iI4P2Q",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish shelling turns Syria’s northern border to war zone\n\nIDPS from Kolteb village in Kobani – North Press\n\nQAMISHLI, Syria (North Press) – Turkish escalation on the frontlines in north and northeast Syria on Monday left injuries, caused damage and led to a wide scale displacement.\n\nSince the very early hours of Monday, Turkish forces shelled the village of Herbel in Aleppo northern countryside for the second time in less than 24 hours.\n\nA local source told North Press that the two waves of shelling caused material damage in people’s properties.\n\nHot frontlines\n\nLate on Monday evening, the villages of Qaramogh, Kolteb, Jishan, Mazraa Abrosh and Tel Shaer in east and west Kobani underwent indiscriminate Turkish shelling.\n\nMore than 10 shells landed on Qaramogh and six on the farmland close to Mazraa Arbosh and the area around Tel Shaer.\n\nThe shelling on Kobani coincided with similar escalation on the contact lines in Tel Tamr, Manbij, Tel Abyad, Ain Issa and Aleppo northern countryside.\n\nDisplacement and fear\n\nResidents of Kolteb village – some 30 km east of Kobani city, near the contact lines between the Syrian government forces and the Turkish-backed opposition factions, known as the Syrian National Army (SNA) – were displaced due to the intensity of shelling.\n\nVillagers spent the night in the open. In a phone call a man told North Press that they fear to return home as “shelling could resume at any moment.”\n\nThe man added that the bombardment caused significant damage many homes in the village and destroyed a car.\n\nThe shelling of the village of al-Mahsinli, north of Manbij, spread panic among locals.\n\nIgnited border strip\n\nIn northern Raqqa, Turkish forces and SNA factions struck several areas abutting the border strip at Tel Abyad including the villages of Qerma, Qazali, Bagdik and the M4 Highway. They also bombarded villages in the countryside of Ain Issa.\n\nMoving to the northern countryside of Hasakah, Turkish artillery targeted the village of Quboor al-Qarajneh at the town of Tel Tamr and the center of the town of Zirgan (Abu Rasin).\n\nEarlier on Monday, Turkish forces shelled the villages of Sogunaka and Herbel in Aleppo northern countryside with at least 10 artillery shells.\n\nInjuries and losses\n\nThe Turkish bombardment on the Kobani villages led to the injury of Masoud Abu Ayoub, 53, from Qaramogh, Mustafa Hero, 25, from the village of Goran.\n\nFour people were injured in northern Hasakah, according to a medical source from the Legerin Hospital in Tel Tamr town.\n\nMaterial damage were reported in all areas underwent shelling.\n\nReporting by Rahaf Youssef",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

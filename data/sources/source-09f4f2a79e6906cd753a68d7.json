@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/lwg8o"
+    "https://archive.is/lwg8o",
+    "https://web.archive.org/web/20240515221433id_/https://www.facebook.com/EdlibEmc1/posts/2989345207945695"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@EdlibEmc1",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d71105d7d27ac40a7a2e0cca73dc4cb4906b73ac032c7bbe0c9075b4e86b25a9",
+  "content_variants": [
+    {
+      "bytes": 260,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:14:35+00:00",
+      "sha256": "d71105d7d27ac40a7a2e0cca73dc4cb4906b73ac032c7bbe0c9075b4e86b25a9",
+      "source_url": "https://web.archive.org/web/20240515221433id_/https://www.facebook.com/EdlibEmc1/posts/2989345207945695",
+      "text": "مركز #إدلب الإعلامي\nورد الآن| ثلاثة شهداء من بينهم طفل و إصابة العشرات نتيجة قصف مدفعي للأحزاب الكردية الإنفصالية على مدينة #عفرين شمال #حلب.\n\n#EMC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:14:35+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:14:35+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515221433id_/https://www.facebook.com/EdlibEmc1/posts/2989345207945695"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515221433id_/https://www.facebook.com/EdlibEmc1/posts/2989345207945695",
   "incident_ids": [
     "airwars-77435"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/EdlibEmc1/posts/2989345207945695"
   ],
   "original_url": "https://www.facebook.com/EdlibEmc1/posts/2989345207945695",
-  "page_title": "",
+  "page_title": "مركز إدلب الإعلامي Edlib Media Center مركز إدلب الإعلامي Edlib Media Center مركز #إدلب... - مركز إدلب الإعلامي Edlib Media Center",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys113-rs4627-august-18-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:14:35+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-09f4f2a79e6906cd753a68d7",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/EdlibEmc1/posts/2989345207945695",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مركز #إدلب الإعلامي\nورد الآن| ثلاثة شهداء من بينهم طفل و إصابة العشرات نتيجة قصف مدفعي للأحزاب الكردية الإنفصالية على مدينة #عفرين شمال #حلب.\n\n#EMC",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

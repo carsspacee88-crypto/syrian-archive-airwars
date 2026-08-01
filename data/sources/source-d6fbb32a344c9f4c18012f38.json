@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/MDXTM"
+    "https://archive.is/MDXTM",
+    "https://web.archive.org/web/20240524183807id_/https://www.facebook.com/Elmohrar/posts/pfbid02y84e2B99rtVvK4ENcc3CrKeyC9H6qv4kqPyN5qdTjAVobSksRbMhRYhPjvpkzntpl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Moharar",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f76ddb72d27bc6443a596e2e1179416d30eac43231978a6a6bbb7165686f5ee5",
+  "content_variants": [
+    {
+      "bytes": 603,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:51:04+00:00",
+      "sha256": "f76ddb72d27bc6443a596e2e1179416d30eac43231978a6a6bbb7165686f5ee5",
+      "source_url": "https://web.archive.org/web/20240524183807id_/https://www.facebook.com/Elmohrar/posts/pfbid02y84e2B99rtVvK4ENcc3CrKeyC9H6qv4kqPyN5qdTjAVobSksRbMhRYhPjvpkzntpl",
+      "text": "#عاجــــــــــل\n\nاستشهاد الطفلة ليلى أحمد المصري اثناء عودتها من المدرسة واصابة 6 آخرين بينهم نساء وأطفال بسبب قصف الإحتلال #الروسي براجمات الصواريخ على...\n\n#عاجــــــــــل\n\nاستشهاد الطفلة ليلى أحمد المصري اثناء عودتها من المدرسة واصابة 6 آخرين بينهم نساء وأطفال بسبب قصف الإحتلال #الروسي براجمات الصواريخ على مدينة #سرمين شرقي #إدلب"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:51:04+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:51:04+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524183807id_/https://www.facebook.com/Elmohrar/posts/pfbid02y84e2B99rtVvK4ENcc3CrKeyC9H6qv4kqPyN5qdTjAVobSksRbMhRYhPjvpkzntpl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524183807id_/https://www.facebook.com/Elmohrar/posts/pfbid02y84e2B99rtVvK4ENcc3CrKeyC9H6qv4kqPyN5qdTjAVobSksRbMhRYhPjvpkzntpl",
   "incident_ids": [
     "airwars-103853"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/Elmohrar/posts/pfbid02y84e2B99rtVvK4ENcc3CrKeyC9H6qv4kqPyN5qdTjAVobSksRbMhRYhPjvpkzntpl"
   ],
   "original_url": "https://www.facebook.com/Elmohrar/posts/pfbid02y84e2B99rtVvK4ENcc3CrKeyC9H6qv4kqPyN5qdTjAVobSksRbMhRYhPjvpkzntpl",
-  "page_title": "",
+  "page_title": "المحرر لحظة بلحظة المحرر لحظة بلحظة #عاجــــــــــل\n\nاستشهاد الطفلة ليلى... - المحرر لحظة بلحظة",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4815-october-4-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:51:04+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d6fbb32a344c9f4c18012f38",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/Elmohrar/posts/pfbid02y84e2B99rtVvK4ENcc3CrKeyC9H6qv4kqPyN5qdTjAVobSksRbMhRYhPjvpkzntpl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#عاجــــــــــل\n\nاستشهاد الطفلة ليلى أحمد المصري اثناء عودتها من المدرسة واصابة 6 آخرين بينهم نساء وأطفال بسبب قصف الإحتلال #الروسي براجمات الصواريخ على...\n\n#عاجــــــــــل\n\nاستشهاد الطفلة ليلى أحمد المصري اثناء عودتها من المدرسة واصابة 6 آخرين بينهم نساء وأطفال بسبب قصف الإحتلال #الروسي براجمات الصواريخ على مدينة #سرمين شرقي #إدلب",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

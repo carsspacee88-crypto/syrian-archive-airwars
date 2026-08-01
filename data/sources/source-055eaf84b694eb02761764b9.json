@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/LyEqE"
+    "https://archive.is/LyEqE",
+    "https://web.archive.org/web/20240529144243id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/y-83159"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "83ebce88e78038cb23bce0b36640e72d54d081e8a9f8ed2aab60733d9d7302b8",
+  "content_variants": [
+    {
+      "bytes": 1053,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:14:18+00:00",
+      "sha256": "83ebce88e78038cb23bce0b36640e72d54d081e8a9f8ed2aab60733d9d7302b8",
+      "source_url": "https://web.archive.org/web/20240529144243id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/y-83159",
+      "text": "ANF\n\nعين عيسى\n\nالأربعاء, ٢١ سبتمبر ٢٠٢٢, ٠٩:٥٨\n\nوبحسب وكالة هاوار للأنباء، استهدف الاحتلال التركي، في ساعة متأخرة من مساء أمس الثلاثاء، عبر الطيران المسير منازل المدنيّين في قرية السويدية، ما أدى إلى استشهاد المدنيَين \"خالد حنيفة، وبشّار بركات\"، وجرح كل من \"صبري سيدو/ 20 عاماً، عزيز زيدان/ 32 عاماً، ورشيد زيدان/ 42 عاماً\".\n\nكما ألحق القصف أضراراً ماديّة كبيرة بمنازل وممتلكات المدنيّين.\n\nوعمد الاحتلال التركي إلى زيادة وتيرة قصفه على مناطق مختلفة من شمال وشرق سوريا، حيث قصف خلال اليوم الفائتين الأحياء الشرقية في كوباني، إضافة إلى استهداف ريف بلدة عين عيسى والشهباء وريف عفرين الجنوبي."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:14:16+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:14:18+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240529144243id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/y-83159"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240529144243id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/y-83159",
   "incident_ids": [
     "airwars-84928"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/y-83159"
   ],
   "original_url": "https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/y-83159",
-  "page_title": "",
+  "page_title": "ANF |\nمسيّرة تابعة للاحتلال التركي تقصف ريف عين عيسى مسيّرة تابعة للاحتلال التركي تقصف ريف عين عيسى مسيّرة تابعة للاحتلال التركي تقصف ريف عين عيسى",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts555-september-20-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:14:18+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-055eaf84b694eb02761764b9",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/y-83159",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ANF\n\nعين عيسى\n\nالأربعاء, ٢١ سبتمبر ٢٠٢٢, ٠٩:٥٨\n\nوبحسب وكالة هاوار للأنباء، استهدف الاحتلال التركي، في ساعة متأخرة من مساء أمس الثلاثاء، عبر الطيران المسير منازل المدنيّين في قرية السويدية، ما أدى إلى استشهاد المدنيَين \"خالد حنيفة، وبشّار بركات\"، وجرح كل من \"صبري سيدو/ 20 عاماً، عزيز زيدان/ 32 عاماً، ورشيد زيدان/ 42 عاماً\".\n\nكما ألحق القصف أضراراً ماديّة كبيرة بمنازل وممتلكات المدنيّين.\n\nوعمد الاحتلال التركي إلى زيادة وتيرة قصفه على مناطق مختلفة من شمال وشرق سوريا، حيث قصف خلال اليوم الفائتين الأحياء الشرقية في كوباني، إضافة إلى استهداف ريف بلدة عين عيسى والشهباء وريف عفرين الجنوبي.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

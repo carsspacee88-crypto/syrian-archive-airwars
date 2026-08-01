@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/NMvhD"
+    "https://archive.is/NMvhD",
+    "https://web.archive.org/web/20220704065651id_/https://twitter.com/spc_fr/status/1543851028646330371"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@spc_fr",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8c8bdba494c1b7e71866f91067e2aa32184e1969629982edc8cd3c2519f87801",
+  "content_variants": [
+    {
+      "bytes": 298,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:46:36+00:00",
+      "sha256": "8c8bdba494c1b7e71866f91067e2aa32184e1969629982edc8cd3c2519f87801",
+      "source_url": "https://web.archive.org/web/20220704065651id_/https://twitter.com/spc_fr/status/1543851028646330371",
+      "text": "Conversationمركز الصحافة الاجتماعية (SPC)@spc_frمحلي || مقتل الشاب \"محمد فاتح خلف الدهام\" وشخص آخر بعملية إنزال جوي للتحالف الدولي في قرية الزر شرق #دير_الزور.6:55 AM · Jul 4, 2022·TweetDeck"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:46:35+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:46:36+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220704065651id_/https://twitter.com/spc_fr/status/1543851028646330371"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220704065651id_/https://twitter.com/spc_fr/status/1543851028646330371",
   "incident_ids": [
     "airwars-83957"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/spc_fr/status/1543851028646330371"
   ],
   "original_url": "https://twitter.com/spc_fr/status/1543851028646330371",
-  "page_title": "",
+  "page_title": "مركز الصحافة الاجتماعية (SPC) on Twitter مركز الصحافة الاجتماعية (SPC) on Twitter: \"محلي || مقتل الشاب \"محمد فاتح خلف الدهام\" وشخص آخر بعملية إنزال جوي للتحالف الدولي في قرية الزر شرق #دير_الزور.\" / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1982-july-4-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:46:36+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b8da4066cb5cd3a2a519a7d4",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/spc_fr/status/1543851028646330371",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Conversationمركز الصحافة الاجتماعية (SPC)@spc_frمحلي || مقتل الشاب \"محمد فاتح خلف الدهام\" وشخص آخر بعملية إنزال جوي للتحالف الدولي في قرية الزر شرق #دير_الزور.6:55 AM · Jul 4, 2022·TweetDeck",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

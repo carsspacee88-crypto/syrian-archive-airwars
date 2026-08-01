@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20251030122045id_/https://www.zamanalwsl.net/news/article/139741/"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Zaman Al Wasl",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "6f15c46c3095ac0edb5e3abfd8ede7f28843c0b4c0dd6625994806c8992293e9",
+  "content_variants": [
+    {
+      "bytes": 251,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:57:26+00:00",
+      "sha256": "6f15c46c3095ac0edb5e3abfd8ede7f28843c0b4c0dd6625994806c8992293e9",
+      "source_url": "https://web.archive.org/web/20251030122045id_/https://www.zamanalwsl.net/news/article/139741/",
+      "text": "07 ايلول 2021\n\nجرحى مدنيون بقصف للأسد و\"قسد\" غرب إدلب وشرق حلب\n\n0\n\nالتعليقات\n\nقصف\n\nإثر\n\nمدفعي\n\nقرية\n\nالمدنيين\n\nصيب\n\nجسر\n\nإصابات\n\nتعليقات حول الموضوع"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:57:25+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:57:26+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251030122045id_/https://www.zamanalwsl.net/news/article/139741/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251030122045id_/https://www.zamanalwsl.net/news/article/139741/",
   "incident_ids": [
     "airwars-78049"
   ],
@@ -55,10 +80,10 @@
     "https://www.zamanalwsl.net/news/article/139741/"
   ],
   "original_url": "https://www.zamanalwsl.net/news/article/139741/",
-  "page_title": "",
+  "page_title": "جرحى مدنيون بقصف للأسد و\"قسد\" غرب إدلب وشرق حلب | زمان الوصل جرحى مدنيون بقصف للأسد و قسد غرب إدلب وشرق حلب جرحى مدنيون بقصف للأسد و قسد غرب إدلب وشرق حلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys116-september-7-2021/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:57:26+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-fc1c89bc855d374b7ca71401",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.zamanalwsl.net/news/article/139741/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "07 ايلول 2021\n\nجرحى مدنيون بقصف للأسد و\"قسد\" غرب إدلب وشرق حلب\n\n0\n\nالتعليقات\n\nقصف\n\nإثر\n\nمدفعي\n\nقرية\n\nالمدنيين\n\nصيب\n\nجسر\n\nإصابات\n\nتعليقات حول الموضوع",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

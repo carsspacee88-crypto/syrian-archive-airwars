@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/DmwYd"
+    "https://archive.is/DmwYd",
+    "https://web.archive.org/web/20250517175533id_/https://npasyria.com/en/81065/?fbclid=IwAR2OIHQIHZLKEwt1cIi2B26DV9TXiB_ip3j5uAaSfLIOBBtz_9Rz-7oLmw8"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "5df9409e3cc4ed88a40f1fbe33f8d2aa4c2993a13043e52f2a2a8e3fd2a13bac",
+  "content_variants": [
+    {
+      "bytes": 1608,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:47:42+00:00",
+      "sha256": "5df9409e3cc4ed88a40f1fbe33f8d2aa4c2993a13043e52f2a2a8e3fd2a13bac",
+      "source_url": "https://web.archive.org/web/20250517175533id_/https://npasyria.com/en/81065/?fbclid=IwAR2OIHQIHZLKEwt1cIi2B26DV9TXiB_ip3j5uAaSfLIOBBtz_9Rz-7oLmw8",
+      "text": "4 people wounded in Turkish shelling north of Syria’s Aleppo\n\nTurkish shelling of the countryside of Tel Rifaat town north of Aleppo – North Press\n\nALEPPO, Syria (North Press) – Four people were injured, on Tuesday evening, in a Turkish shelling of villages in the countryside of Tel Rifaat, a town in Aleppo northern countryside.\n\nThe town of Tel Rifaat, 35 km north of Aleppo city, has been a shelter for Afrin displaced people since 2018 following the Turkish invasion of Afrin and its countryside which resulted in the displacement of about 300.000 of the original inhabitants.\n\nA local source told North Press that “four people were wounded in the Turkish bombardment of the village of Sheikh Issa in the northern countryside of Aleppo.”\n\n“At 07:30 pm, the Turkish forces started shelling the villages and towns of Maraanaz, al-Alqamiyah, Menagh and the Menagh Military Airbase, hitting them with more than 40 artillery shells. After that, it began shelling the village of Sheikh Issa, injuring four people as a result,” the source added.\n\nThe source said, “the Turkish forces also struck the center of Tel Rifaat with more than 15 shells, as well as villages in the Sherawa District.”\n\n“The shelling is still taking place in Menagh, Maraanaz, al-Alqamiyah, Marea, Shaykh Issa and Tel Rifaat,” the source stated.\n\nTurkey’s President Recep Tayyip Erdogan has recently announced plans to carry out another major military cross-border incursion into northern Syria. Erdogan specified his targets in the two northern Syrian cities of Manbij and Tel Rifaat.\n\nReporting by Jamil Jaafar"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:47:41+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:47:42+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250517175533id_/https://npasyria.com/en/81065/?fbclid=IwAR2OIHQIHZLKEwt1cIi2B26DV9TXiB_ip3j5uAaSfLIOBBtz_9Rz-7oLmw8"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250517175533id_/https://npasyria.com/en/81065/?fbclid=IwAR2OIHQIHZLKEwt1cIi2B26DV9TXiB_ip3j5uAaSfLIOBBtz_9Rz-7oLmw8",
   "incident_ids": [
     "airwars-84218"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/81065/?fbclid=IwAR2OIHQIHZLKEwt1cIi2B26DV9TXiB_ip3j5uAaSfLIOBBtz_9Rz-7oLmw8"
   ],
   "original_url": "https://npasyria.com/en/81065/?fbclid=IwAR2OIHQIHZLKEwt1cIi2B26DV9TXiB_ip3j5uAaSfLIOBBtz_9Rz-7oLmw8",
-  "page_title": "",
+  "page_title": "4 people wounded in Turkish shelling north of Syria’s Aleppo - North press agency 4 people wounded in Turkish shelling north of Syria’s Aleppo - North press agency 4 people wounded in Turkish shelling north of Syria’s Aleppo - North press agency 4 people wounded in Turkish shelling north of Syria’s Aleppo - North press agency 4 people wounded in Turkish shelling north of Syria’s Aleppo - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts535-july-26-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:47:42+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-c71656ff0b0d65d1fa992957",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/81065/?fbclid=IwAR2OIHQIHZLKEwt1cIi2B26DV9TXiB_ip3j5uAaSfLIOBBtz_9Rz-7oLmw8",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "4 people wounded in Turkish shelling north of Syria’s Aleppo\n\nTurkish shelling of the countryside of Tel Rifaat town north of Aleppo – North Press\n\nALEPPO, Syria (North Press) – Four people were injured, on Tuesday evening, in a Turkish shelling of villages in the countryside of Tel Rifaat, a town in Aleppo northern countryside.\n\nThe town of Tel Rifaat, 35 km north of Aleppo city, has been a shelter for Afrin displaced people since 2018 following the Turkish invasion of Afrin and its countryside which resulted in the displacement of about 300.000 of the original inhabitants.\n\nA local source told North Press that “four people were wounded in the Turkish bombardment of the village of Sheikh Issa in the northern countryside of Aleppo.”\n\n“At 07:30 pm, the Turkish forces started shelling the villages and towns of Maraanaz, al-Alqamiyah, Menagh and the Menagh Military Airbase, hitting them with more than 40 artillery shells. After that, it began shelling the village of Sheikh Issa, injuring four people as a result,” the source added.\n\nThe source said, “the Turkish forces also struck the center of Tel Rifaat with more than 15 shells, as well as villages in the Sherawa District.”\n\n“The shelling is still taking place in Menagh, Maraanaz, al-Alqamiyah, Marea, Shaykh Issa and Tel Rifaat,” the source stated.\n\nTurkey’s President Recep Tayyip Erdogan has recently announced plans to carry out another major military cross-border incursion into northern Syria. Erdogan specified his targets in the two northern Syrian cities of Manbij and Tel Rifaat.\n\nReporting by Jamil Jaafar",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

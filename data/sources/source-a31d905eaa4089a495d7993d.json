@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/esMWq"
+    "https://archive.is/esMWq",
+    "https://web.archive.org/web/20230731085450id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/asabt-tfl-wamrat-fy-qsf-ljysh-alahtlal-altrky-lqry-nahyt-shyrawa-93868"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "02f150fbc3370379c3a65c3c8e85824f809a23d7e17eb59dca7a96853e25294a",
+  "content_variants": [
+    {
+      "bytes": 605,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:44:32+00:00",
+      "sha256": "02f150fbc3370379c3a65c3c8e85824f809a23d7e17eb59dca7a96853e25294a",
+      "source_url": "https://web.archive.org/web/20230731085450id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/asabt-tfl-wamrat-fy-qsf-ljysh-alahtlal-altrky-lqry-nahyt-shyrawa-93868",
+      "text": "اصابة طفل وامرأة في قصف لجيش الاحتلال التركي لقرى ناحية شيراوا\n\nوسع جيش الاحتلال التركي ومرتزقته من قصفهم لقرى ناحية شيراوا.\n\nANF\n\nالشهباء\n\nالاثنين, ٣١ يوليو ٢٠٢٣, ١١:٤٧\n\nوسع جيش الاحتلال التركي من قصفه لناحية شيراوا، حيث يستهدف في هذه الاثناء قرى، كالوتيه، مياسة، برج القاص، كوندي مازن، ما أسفر عن أصابة طفل و إمرأة من أهالي قرية كلوتيه."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:44:31+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:44:32+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230731085450id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/asabt-tfl-wamrat-fy-qsf-ljysh-alahtlal-altrky-lqry-nahyt-shyrawa-93868"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230731085450id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/asabt-tfl-wamrat-fy-qsf-ljysh-alahtlal-altrky-lqry-nahyt-shyrawa-93868",
   "incident_ids": [
     "airwars-92591"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/سوريا/asabt-tfl-wamrat-fy-qsf-ljysh-alahtlal-altrky-lqry-nahyt-shyrawa-93868"
   ],
   "original_url": "https://anfarabic.com/سوريا/asabt-tfl-wamrat-fy-qsf-ljysh-alahtlal-altrky-lqry-nahyt-shyrawa-93868",
-  "page_title": "",
+  "page_title": "ANF | اصابة طفل وامرأة في قصف لجيش الاحتلال التركي لقرى ناحية شيراوا اصابة طفل وامرأة في قصف لجيش الاحتلال التركي لقرى ناحية شيراوا اصابة طفل وامرأة في قصف لجيش الاحتلال التركي لقرى ناحية شيراوا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts619-july-31-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:44:32+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-a31d905eaa4089a495d7993d",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfarabic.com/سوريا/asabt-tfl-wamrat-fy-qsf-ljysh-alahtlal-altrky-lqry-nahyt-shyrawa-93868",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "اصابة طفل وامرأة في قصف لجيش الاحتلال التركي لقرى ناحية شيراوا\n\nوسع جيش الاحتلال التركي ومرتزقته من قصفهم لقرى ناحية شيراوا.\n\nANF\n\nالشهباء\n\nالاثنين, ٣١ يوليو ٢٠٢٣, ١١:٤٧\n\nوسع جيش الاحتلال التركي من قصفه لناحية شيراوا، حيث يستهدف في هذه الاثناء قرى، كالوتيه، مياسة، برج القاص، كوندي مازن، ما أسفر عن أصابة طفل و إمرأة من أهالي قرية كلوتيه.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

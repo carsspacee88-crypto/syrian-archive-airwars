@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/4dEfv"
+    "https://archive.is/4dEfv",
+    "https://web.archive.org/web/20250426121800id_/https://www.syriahr.com/en/304092/?fbclid=IwAR3u2XoV0QMNWwjNK09VZRj2qwLm9J0lWljK-AHV2KMxrkt535SkvRw6_4E"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "878b28bda556d6c993574d09f0b99519dc3690991ab032ba65e041c8d2183773",
+  "content_variants": [
+    {
+      "bytes": 1673,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:27:44+00:00",
+      "sha256": "878b28bda556d6c993574d09f0b99519dc3690991ab032ba65e041c8d2183773",
+      "source_url": "https://web.archive.org/web/20250426121800id_/https://www.syriahr.com/en/304092/?fbclid=IwAR3u2XoV0QMNWwjNK09VZRj2qwLm9J0lWljK-AHV2KMxrkt535SkvRw6_4E",
+      "text": "Woman inj*ured in bombardment | Factions target regime positions in Lattakia countryside\n\nAn elder woman was injured in artillery shelling by the regime on the vicinity of Al-Atareb City in western Aleppo countryside, and regime forces fired mortar shells on the vicinity of Folaifal Village in southern of Idlib.\n\nOn the same context, opposition factions shelled regime positions on Ain Al-Ashra frontlines in northern Lattakia countryside. However, no casualties have been reported yet.\n\nYesterday, a regime soldier was killed and three civilians were injured in shelling with heavy artillery by factions of “Al-Fath Al-Mubin” operation room, on Jurin Town in Sahl Al-Ghab in western Hama countryside.\n\nOn the same context, regime forces shelled Jisr Al-Shughour City in Idlib countryside with several shells, amid information regarding the presence of injuries among civilians.\n\n“Zobair Bin Al-Awam” Brigade that belongs to HTS fired mortar shells on “Dashma” of the regime forces in Jubas Village in eastern Idlib countryside.\n\nMoreover, HTS fired rockets on sites and positions of the regime forces in Tel Dadikh eastern of Idlib.\n\nPrev Post\n\nSupported by International Coalition | Special units of SDF arrest two IS*IS members in Manbij in Aleppo\n\nNext Post\n\nAleppo | Turkish-backed factions cla*sh with dr*ug dealer and arrest him\n\nSecurity vacuum | Body of woman found in eastern Deir Ezzor countryside\n\nAccused of “smuggling weapons and drugs” | General security forces arrest four…\n\nUsing silenced guns | Unknown gunmen assassinate members of reconciliation council in…\n\nSecurity chaos | Two civilians killed by unidentified gunmen in Damascus"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:27:42+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:27:44+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250426121800id_/https://www.syriahr.com/en/304092/?fbclid=IwAR3u2XoV0QMNWwjNK09VZRj2qwLm9J0lWljK-AHV2KMxrkt535SkvRw6_4E"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250426121800id_/https://www.syriahr.com/en/304092/?fbclid=IwAR3u2XoV0QMNWwjNK09VZRj2qwLm9J0lWljK-AHV2KMxrkt535SkvRw6_4E",
   "incident_ids": [
     "airwars-91720"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/304092/?fbclid=IwAR3u2XoV0QMNWwjNK09VZRj2qwLm9J0lWljK-AHV2KMxrkt535SkvRw6_4E"
   ],
   "original_url": "https://www.syriahr.com/en/304092/?fbclid=IwAR3u2XoV0QMNWwjNK09VZRj2qwLm9J0lWljK-AHV2KMxrkt535SkvRw6_4E",
-  "page_title": "",
+  "page_title": "Woman inj*ured in bombardment | Factions target regime positions in Lattakia countryside - The Syrian Observatory For Human Rights Woman inj*ured in bombardment | Factions target regime positions in Lattakia countryside - The Syrian Observatory For Human Rights Woman inj*ured in bombardment | Factions target regime positions in Lattakia countryside - The Syrian Observatory For Human Rights Woman inj*ured in bombardment | Factions target regime positions in Lattakia countryside Woman inj*ured in bombardment | Factions target regime positions in Lattakia countryside",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts610-july-9-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:27:44+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-52323ebf9e785c7ab4245d62",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/304092/?fbclid=IwAR3u2XoV0QMNWwjNK09VZRj2qwLm9J0lWljK-AHV2KMxrkt535SkvRw6_4E",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Woman inj*ured in bombardment | Factions target regime positions in Lattakia countryside\n\nAn elder woman was injured in artillery shelling by the regime on the vicinity of Al-Atareb City in western Aleppo countryside, and regime forces fired mortar shells on the vicinity of Folaifal Village in southern of Idlib.\n\nOn the same context, opposition factions shelled regime positions on Ain Al-Ashra frontlines in northern Lattakia countryside. However, no casualties have been reported yet.\n\nYesterday, a regime soldier was killed and three civilians were injured in shelling with heavy artillery by factions of “Al-Fath Al-Mubin” operation room, on Jurin Town in Sahl Al-Ghab in western Hama countryside.\n\nOn the same context, regime forces shelled Jisr Al-Shughour City in Idlib countryside with several shells, amid information regarding the presence of injuries among civilians.\n\n“Zobair Bin Al-Awam” Brigade that belongs to HTS fired mortar shells on “Dashma” of the regime forces in Jubas Village in eastern Idlib countryside.\n\nMoreover, HTS fired rockets on sites and positions of the regime forces in Tel Dadikh eastern of Idlib.\n\nPrev Post\n\nSupported by International Coalition | Special units of SDF arrest two IS*IS members in Manbij in Aleppo\n\nNext Post\n\nAleppo | Turkish-backed factions cla*sh with dr*ug dealer and arrest him\n\nSecurity vacuum | Body of woman found in eastern Deir Ezzor countryside\n\nAccused of “smuggling weapons and drugs” | General security forces arrest four…\n\nUsing silenced guns | Unknown gunmen assassinate members of reconciliation council in…\n\nSecurity chaos | Two civilians killed by unidentified gunmen in Damascus",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

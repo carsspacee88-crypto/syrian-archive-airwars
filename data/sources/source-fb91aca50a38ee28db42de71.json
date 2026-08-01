@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/QyhWo"
+    "https://archive.ph/QyhWo",
+    "https://web.archive.org/web/20230930183509id_/https://www.syriahr.com/en/308357/?fbclid=IwAR00Zv0FI8gILvw7gVLEnhV3JZC12UKpvNX2FnRIIDnwVwWL2Hfyz3xLwPU"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "fecb58dc8b40c2a1c3b4ba85bf32c21682194851d20a02f885281641479c1ad8",
+  "content_variants": [
+    {
+      "bytes": 1726,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:57:00+00:00",
+      "sha256": "fecb58dc8b40c2a1c3b4ba85bf32c21682194851d20a02f885281641479c1ad8",
+      "source_url": "https://web.archive.org/web/20230930183509id_/https://www.syriahr.com/en/308357/?fbclid=IwAR00Zv0FI8gILvw7gVLEnhV3JZC12UKpvNX2FnRIIDnwVwWL2Hfyz3xLwPU",
+      "text": "Al-Hasakah | Person kil*led in an attack by Turkish drone on car of journalists in areas of Autonomous Administration\n\nAl-Hasakah province: A Turkish drone targeted a car carrying journalists near Mazar Shaikh Jabr Village on Ali Faro Road between Al-Hasakah and Al-Qamishly Cities within areas of the Autonomous Administration in Al-Hasakah countryside, killing one person and injuring another.\n\nAccordingly, the number of attacks carried out by Turkish drones on areas controlled by the Autonomous Administration in north and north-east Syria since early 2023 has increased to 37. These attacks left 54 fatalities: 12 civilians, including a child and two women, 39 military personnel and three regime soldiers, as well as the injury of over 50 others. Turkish drone attacks in 2023 are distributed regionally as follows:\n• Al-Hasakah: 18 attacks left nine civilians, including three women and a child, and 23 military personnel dead and others injured.\n• Al-Raqqah: Two attacks.\n• Aleppo countryside: 17 attacks left 16 combatants including three of units of protecting Kurdish people, three regime soldiers and three civilians dead.\n\nPrev Post\n\nSecond attack in hours | IS*IS cells storm house of a dignitary of Al-Okaidat Tribe in Deir Ezzor\n\nNext Post\n\nAgainst the regime | Unidentified people write sentences on walls in Deir Ezzor and security forces remove them\n\nThrowing him from fourth floor | Drunk members of NDF kill young man in Deir Ezzor…\n\n“SOHR camera” captures the daily activity in Al-Haal market in Ain Al-Arab city…\n\nMysterious circumstances | Residents find body of young man hanged to death inside…\n\nAleppo | Al-Tayehah crossing in southwestern Manbij reopened to civil movement after…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:57:00+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:57:00+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230930183509id_/https://www.syriahr.com/en/308357/?fbclid=IwAR00Zv0FI8gILvw7gVLEnhV3JZC12UKpvNX2FnRIIDnwVwWL2Hfyz3xLwPU"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230930183509id_/https://www.syriahr.com/en/308357/?fbclid=IwAR00Zv0FI8gILvw7gVLEnhV3JZC12UKpvNX2FnRIIDnwVwWL2Hfyz3xLwPU",
   "incident_ids": [
     "airwars-92625"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/308357/?fbclid=IwAR00Zv0FI8gILvw7gVLEnhV3JZC12UKpvNX2FnRIIDnwVwWL2Hfyz3xLwPU"
   ],
   "original_url": "https://www.syriahr.com/en/308357/?fbclid=IwAR00Zv0FI8gILvw7gVLEnhV3JZC12UKpvNX2FnRIIDnwVwWL2Hfyz3xLwPU",
-  "page_title": "",
+  "page_title": "Al-Hasakah | Person kil*led in an attack by Turkish drone on car of journalists in areas of Autonomous Administration - The Syrian Observatory For Human Rights Al-Hasakah | Person kil*led in an attack by Turkish drone on car of journalists in areas of Autonomous Administration - The Syrian Observatory For Human Rights Al-Hasakah | Person kil*led in an attack by Turkish drone on car of journalists in areas of Autonomous Administration - The Syrian Observatory For Human Rights Al-Hasakah | Person kil*led in an attack by Turkish drone on car of journalists in areas of Autonomous Administration Al-Hasakah | Person kil*led in an attack by Turkish drone on car of journalists in areas of Autonomous Administration",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts624-august-23-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:57:00+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-fb91aca50a38ee28db42de71",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/308357/?fbclid=IwAR00Zv0FI8gILvw7gVLEnhV3JZC12UKpvNX2FnRIIDnwVwWL2Hfyz3xLwPU",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Al-Hasakah | Person kil*led in an attack by Turkish drone on car of journalists in areas of Autonomous Administration\n\nAl-Hasakah province: A Turkish drone targeted a car carrying journalists near Mazar Shaikh Jabr Village on Ali Faro Road between Al-Hasakah and Al-Qamishly Cities within areas of the Autonomous Administration in Al-Hasakah countryside, killing one person and injuring another.\n\nAccordingly, the number of attacks carried out by Turkish drones on areas controlled by the Autonomous Administration in north and north-east Syria since early 2023 has increased to 37. These attacks left 54 fatalities: 12 civilians, including a child and two women, 39 military personnel and three regime soldiers, as well as the injury of over 50 others. Turkish drone attacks in 2023 are distributed regionally as follows:\n• Al-Hasakah: 18 attacks left nine civilians, including three women and a child, and 23 military personnel dead and others injured.\n• Al-Raqqah: Two attacks.\n• Aleppo countryside: 17 attacks left 16 combatants including three of units of protecting Kurdish people, three regime soldiers and three civilians dead.\n\nPrev Post\n\nSecond attack in hours | IS*IS cells storm house of a dignitary of Al-Okaidat Tribe in Deir Ezzor\n\nNext Post\n\nAgainst the regime | Unidentified people write sentences on walls in Deir Ezzor and security forces remove them\n\nThrowing him from fourth floor | Drunk members of NDF kill young man in Deir Ezzor…\n\n“SOHR camera” captures the daily activity in Al-Haal market in Ain Al-Arab city…\n\nMysterious circumstances | Residents find body of young man hanged to death inside…\n\nAleppo | Al-Tayehah crossing in southwestern Manbij reopened to civil movement after…",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

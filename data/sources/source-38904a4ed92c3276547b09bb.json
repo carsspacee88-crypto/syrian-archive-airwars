@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/EHCJL"
+    "https://archive.is/EHCJL",
+    "https://web.archive.org/web/20240304074100id_/https://shaam.org/news/syria-news/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%A8-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%A8%D9%84%D8%B4%D9%88%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8.html?fbclid=IwAR393XsD6X1fOSv9agcblCNlFVy7SIGEcsE6ZRR7B4ulMYFN-FCCiiuIA5I"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "94db59e0abc49bb47024b9d27e0a05e1fa900f67b10bf912a1649695d8a90e68",
+  "content_variants": [
+    {
+      "bytes": 1548,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:25:08+00:00",
+      "sha256": "94db59e0abc49bb47024b9d27e0a05e1fa900f67b10bf912a1649695d8a90e68",
+      "source_url": "https://web.archive.org/web/20240304074100id_/https://shaam.org/news/syria-news/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%A8-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%A8%D9%84%D8%B4%D9%88%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8.html?fbclid=IwAR393XsD6X1fOSv9agcblCNlFVy7SIGEcsE6ZRR7B4ulMYFN-FCCiiuIA5I",
+      "text": "قوات الأسد ترتكب مجزرة في قرية بلشون بريف إدلب\n\nقوات الأسد ترتكب مجزرة في قرية بلشون بريف إدلب\n\nارتكبت قوات الأسد صباح اليوم الخميس 19 آب/ أغسطس، مجزرة بحق المدنيين في قرية بلشون في جبل الزاوية بريف إدلب الجنوبي، تضاف إلى سلسلة من المجازر التي راح ضحيتها عدد من الشهداء والجرحى.\n\nوقال ناشطون في جبل الزاوية إن قوات الأسد استهدفت بصواريخ ليزرية موجهة على قريتي ابلين وبلشون بجبل الزاوية، أسفرت عن استشهاد 5 مدنيين في قرية بلشون معظمهم من الأطفال.\n\nوذكر الناشطون أن القذائف الموجهة أسفرت عن استشهاد 4 أطفال وامرأة، هي والدتهم وبث تسجيلا مصورا يظهر مشاهد مؤلمة لرجل وهو يودع أطفاله الذين حولتهم قذائف ميليشيات النظام وروسيا إلى أشلاء.\n\nهذا وصعدت روسيا خلال الشهرين الماضيين من قصف مناطق سهل الغاب وجبل الزاوية، عبر الرصد بطائرات الاستطلاع والاستهداف المركز بقذائف كراسنبول المتطورة، خلفت العديد من الشهداء والجرحى بين المدنيين ضمن سلسلة من المجازر المروعة."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:25:07+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:25:08+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240304074100id_/https://shaam.org/news/syria-news/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%A8-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%A8%D9%84%D8%B4%D9%88%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8.html?fbclid=IwAR393XsD6X1fOSv9agcblCNlFVy7SIGEcsE6ZRR7B4ulMYFN-FCCiiuIA5I"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240304074100id_/https://shaam.org/news/syria-news/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%A8-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%A8%D9%84%D8%B4%D9%88%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8.html?fbclid=IwAR393XsD6X1fOSv9agcblCNlFVy7SIGEcsE6ZRR7B4ulMYFN-FCCiiuIA5I",
   "incident_ids": [
     "airwars-77569"
   ],
@@ -85,10 +109,10 @@
     "http://www.shaam.org/news/syria-news/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%A8-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%A8%D9%84%D8%B4%D9%88%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8.html?fbclid=IwAR393XsD6X1fOSv9agcblCNlFVy7SIGEcsE6ZRR7B4ulMYFN-FCCiiuIA5I"
   ],
   "original_url": "http://www.shaam.org/news/syria-news/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%A8-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%A8%D9%84%D8%B4%D9%88%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8.html?fbclid=IwAR393XsD6X1fOSv9agcblCNlFVy7SIGEcsE6ZRR7B4ulMYFN-FCCiiuIA5I",
-  "page_title": "",
+  "page_title": "قوات الأسد ترتكب مجزرة في قرية بلشون بريف إدلب | شبكة شام الإخبارية قوات الأسد ترتكب مجزرة في قرية بلشون بريف إدلب قوات الأسد ترتكب مجزرة في قرية بلشون بريف إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4628-august-19-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:25:08+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-38904a4ed92c3276547b09bb",
   "source_type": "news_article",
   "stable_id_basis": "http://www.shaam.org/news/syria-news/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%A8-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%A8%D9%84%D8%B4%D9%88%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8.html?fbclid=IwAR393XsD6X1fOSv9agcblCNlFVy7SIGEcsE6ZRR7B4ulMYFN-FCCiiuIA5I",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قوات الأسد ترتكب مجزرة في قرية بلشون بريف إدلب\n\nقوات الأسد ترتكب مجزرة في قرية بلشون بريف إدلب\n\nارتكبت قوات الأسد صباح اليوم الخميس 19 آب/ أغسطس، مجزرة بحق المدنيين في قرية بلشون في جبل الزاوية بريف إدلب الجنوبي، تضاف إلى سلسلة من المجازر التي راح ضحيتها عدد من الشهداء والجرحى.\n\nوقال ناشطون في جبل الزاوية إن قوات الأسد استهدفت بصواريخ ليزرية موجهة على قريتي ابلين وبلشون بجبل الزاوية، أسفرت عن استشهاد 5 مدنيين في قرية بلشون معظمهم من الأطفال.\n\nوذكر الناشطون أن القذائف الموجهة أسفرت عن استشهاد 4 أطفال وامرأة، هي والدتهم وبث تسجيلا مصورا يظهر مشاهد مؤلمة لرجل وهو يودع أطفاله الذين حولتهم قذائف ميليشيات النظام وروسيا إلى أشلاء.\n\nهذا وصعدت روسيا خلال الشهرين الماضيين من قصف مناطق سهل الغاب وجبل الزاوية، عبر الرصد بطائرات الاستطلاع والاستهداف المركز بقذائف كراسنبول المتطورة، خلفت العديد من الشهداء والجرحى بين المدنيين ضمن سلسلة من المجازر المروعة.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/xMNrl"
+    "https://archive.is/xMNrl",
+    "https://web.archive.org/web/20230206183031id_/https://www.syriahr.com/en/239114/?fbclid=IwAR3KYCAObXtGgcCxsbSLYAKynXit0i57v3E2j9KvIgNRUxc7vSxJUzzrc8U"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "844523f6b46bdbaa37b2bf8bfc8b26f087fc023fea2395869253505cb576cb6d",
+  "content_variants": [
+    {
+      "bytes": 1229,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:46:34+00:00",
+      "sha256": "844523f6b46bdbaa37b2bf8bfc8b26f087fc023fea2395869253505cb576cb6d",
+      "source_url": "https://web.archive.org/web/20230206183031id_/https://www.syriahr.com/en/239114/?fbclid=IwAR3KYCAObXtGgcCxsbSLYAKynXit0i57v3E2j9KvIgNRUxc7vSxJUzzrc8U",
+      "text": "Aleppo chaos | Shells hit jarablus outskirts leaving injuries of displaced civilians\n\nAleppo province: SOHR activists have documented the injury of two displaced in children and a civilian from Homs, after shells hit jrablus outskirts in Aleppo countryside in ” Euphrates Shild” area.\n\nAccording to SOHR sources, the shells were fired from areas holding regime forces and forces of the SDF-backed Military Council in eastern Aleppo countryside.\n\nSince the early hours of Saturday morning, Syrian Observatory activists reported that clashes erupted between Turkish-backed National Army factions and military forces operating in the area, on Al-Hawshriya and Al-Jat frontlines north of Manbij, in the northeastern countryside of Aleppo, with heavy machine-guns. No casualties were reported.\n\nPrev Post\n\nHoms | 25 Afghan families of Iranian militias travel to third station\n\nNext Post\n\nSOHR: Two children among six dead in Syria\n\n“SOHR camera” captures the establishment of large tents in the public gardens and…\n\nMore bodies recovered | Casualties rise to 1,083 due to earthquake\n\nOld ordnance | Civilian injured by landmine explosion while searching for truffle in…\n\nSyria earthquake | nearly 900 people ki*lled so far"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:46:34+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:46:34+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230206183031id_/https://www.syriahr.com/en/239114/?fbclid=IwAR3KYCAObXtGgcCxsbSLYAKynXit0i57v3E2j9KvIgNRUxc7vSxJUzzrc8U"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230206183031id_/https://www.syriahr.com/en/239114/?fbclid=IwAR3KYCAObXtGgcCxsbSLYAKynXit0i57v3E2j9KvIgNRUxc7vSxJUzzrc8U",
   "incident_ids": [
     "airwars-81865"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/239114/?fbclid=IwAR3KYCAObXtGgcCxsbSLYAKynXit0i57v3E2j9KvIgNRUxc7vSxJUzzrc8U"
   ],
   "original_url": "https://www.syriahr.com/en/239114/?fbclid=IwAR3KYCAObXtGgcCxsbSLYAKynXit0i57v3E2j9KvIgNRUxc7vSxJUzzrc8U",
-  "page_title": "",
+  "page_title": "Aleppo chaos | Shells hit jarablus outskirts leaving injuries of displaced civilians • The Syrian Observatory For Human Rights Aleppo chaos | Shells hit jarablus outskirts leaving injuries of displaced civilians • The Syrian Observatory For Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys124-february-12-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:46:34+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b7759132d18784f412635232",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/239114/?fbclid=IwAR3KYCAObXtGgcCxsbSLYAKynXit0i57v3E2j9KvIgNRUxc7vSxJUzzrc8U",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Aleppo chaos | Shells hit jarablus outskirts leaving injuries of displaced civilians\n\nAleppo province: SOHR activists have documented the injury of two displaced in children and a civilian from Homs, after shells hit jrablus outskirts in Aleppo countryside in ” Euphrates Shild” area.\n\nAccording to SOHR sources, the shells were fired from areas holding regime forces and forces of the SDF-backed Military Council in eastern Aleppo countryside.\n\nSince the early hours of Saturday morning, Syrian Observatory activists reported that clashes erupted between Turkish-backed National Army factions and military forces operating in the area, on Al-Hawshriya and Al-Jat frontlines north of Manbij, in the northeastern countryside of Aleppo, with heavy machine-guns. No casualties were reported.\n\nPrev Post\n\nHoms | 25 Afghan families of Iranian militias travel to third station\n\nNext Post\n\nSOHR: Two children among six dead in Syria\n\n“SOHR camera” captures the establishment of large tents in the public gardens and…\n\nMore bodies recovered | Casualties rise to 1,083 due to earthquake\n\nOld ordnance | Civilian injured by landmine explosion while searching for truffle in…\n\nSyria earthquake | nearly 900 people ki*lled so far",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

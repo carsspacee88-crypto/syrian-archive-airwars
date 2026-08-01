@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/P70iX"
+    "https://archive.md/P70iX",
+    "https://web.archive.org/web/20240515190741id_/https://www.facebook.com/SYRMMC/posts/1253451055121516"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Macro Media Center",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "6493a98329e74f969a98306ca8be42458204a5f4a2cf340d8c87ffd37a40d5b5",
+  "content_variants": [
+    {
+      "bytes": 639,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:46:50+00:00",
+      "sha256": "6493a98329e74f969a98306ca8be42458204a5f4a2cf340d8c87ffd37a40d5b5",
+      "source_url": "https://web.archive.org/web/20240515190741id_/https://www.facebook.com/SYRMMC/posts/1253451055121516",
+      "text": "استشهاد 5 مدنيين بينهم 3 أطفال وامرأة وإصابة 6 آخرين، أغلبهم من عائلة واحدة، في مجزرة ارتكبتها الطائرات الحربية الروسية اليوم الخميس 11 تشرين الثاني،...\n\nاستشهاد 5 مدنيين بينهم 3 أطفال وامرأة وإصابة 6 آخرين، أغلبهم من عائلة واحدة، في مجزرة ارتكبتها الطائرات الحربية الروسية اليوم الخميس 11 تشرين الثاني، باستهدافها مزرعة لتربية الدواجن يقطنها نازحون على..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:46:49+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:46:50+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515190741id_/https://www.facebook.com/SYRMMC/posts/1253451055121516"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515190741id_/https://www.facebook.com/SYRMMC/posts/1253451055121516",
   "incident_ids": [
     "airwars-79975"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/SYRMMC/posts/1253451055121516"
   ],
   "original_url": "https://www.facebook.com/SYRMMC/posts/1253451055121516",
-  "page_title": "",
+  "page_title": "المركز الإعلامي العام MMC المركز الإعلامي العام MMC استشهاد 5 مدنيين بينهم 3 أطفال... - المركز الإعلامي العام MMC",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4666-november-11-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:46:50+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ba4b2716513e95a24df60f4d",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SYRMMC/posts/1253451055121516",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "استشهاد 5 مدنيين بينهم 3 أطفال وامرأة وإصابة 6 آخرين، أغلبهم من عائلة واحدة، في مجزرة ارتكبتها الطائرات الحربية الروسية اليوم الخميس 11 تشرين الثاني،...\n\nاستشهاد 5 مدنيين بينهم 3 أطفال وامرأة وإصابة 6 آخرين، أغلبهم من عائلة واحدة، في مجزرة ارتكبتها الطائرات الحربية الروسية اليوم الخميس 11 تشرين الثاني، باستهدافها مزرعة لتربية الدواجن يقطنها نازحون على...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

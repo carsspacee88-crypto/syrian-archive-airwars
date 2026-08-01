@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/ADhuy"
+    "https://archive.ph/ADhuy",
+    "https://web.archive.org/web/20251103202759id_/https://www.shaam.org/news/syria-news/shhdaa-wjrha-jraa-qsf-mylyshyat-qsd-lmdynh-tl-abydh-shmaly-alrqh"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "299b4bee253a96d13742f673b950282fee33c7928410f62032edaa8d0c4ce580",
+  "content_variants": [
+    {
+      "bytes": 2239,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:47:20+00:00",
+      "sha256": "299b4bee253a96d13742f673b950282fee33c7928410f62032edaa8d0c4ce580",
+      "source_url": "https://web.archive.org/web/20251103202759id_/https://www.shaam.org/news/syria-news/shhdaa-wjrha-jraa-qsf-mylyshyat-qsd-lmdynh-tl-abydh-shmaly-alrqh",
+      "text": "شهداء وجرحى جراء قصف ميليشيات \"قسد\" لمدينة تل أبيض شمالي الرقة\n\nشهداء وجرحى جراء قصف ميليشيات \"قسد\" لمدينة تل أبيض شمالي الرقة\n\nقصفت ميليشيات \"قسد\"، اليوم الأربعاء 1 حزيران/ يونيو الأحياء السكنية وسط مدينة تل أبيض بريف الرقة الشمالي، ما أدى إلى سقوط شهداء وجرحى بين صفوف المدنيين.\n\nوقال ناشطون في المدينة إن قوات سوريا الديمقراطية \"قسد\"، قصفت مركز المدينة بعدة قذائف من المدفعية الثقيلة انطلاقا من مواقعها العسكرية، ولفتت مصادر إلى أن الحصيلة الأولية هي شهيدين وعدّة جرحى.\n\nوأكدت وحدة الإعلام الحربي التابعة للجيش الوطني إن ميليشيا \"قسد\" الإرهابية قصفت بقذائف المدفعية الأحياء السكنية بمدينة تل أبيض وأشارت إلى سقوط ضحايا بين صفوف المدنيين.\n\nفيما كشفت مؤسسة الدفاع المدني \"الخوذ البيضاء\"، عن إصابة طفل، اليوم الأربعاء إثر استهداف قوات \"قسد\" بالرشاشات الثقيلة سيارة على طريق \"المحسنلي - الحلونجي\"، في منطقة جرابلس بريف حلب الشرقي.\n\nويأتي ذلك مع وسط تصاعد وتيرة الأحداث الميدانية في مناطق التماس مع ميليشيات \"قسد\"، التي كثفت من استهداف المناطق المدنية، بالمقابل استهدف الجيش التركي يوم أمس مواقع \"قسد\" في محيط قريتي صيدا ومعلق بريف الرقة الشمالي بقذائف المدفعية.\n\nويذكر أن ميليشيات \"قسد\" تستهدف بشكل متكرر عدة مناطق ومواقع مدنية، ضمن مدن الباب وجرابلس وعفرين ومارع، الأمر الذي ينتج عنه سقوط شهداء وجرحى فضلا عن حدوث دمار في الأبنية المستهدفة."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:47:20+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:47:20+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251103202759id_/https://www.shaam.org/news/syria-news/shhdaa-wjrha-jraa-qsf-mylyshyat-qsd-lmdynh-tl-abydh-shmaly-alrqh"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251103202759id_/https://www.shaam.org/news/syria-news/shhdaa-wjrha-jraa-qsf-mylyshyat-qsd-lmdynh-tl-abydh-shmaly-alrqh",
   "incident_ids": [
     "airwars-83793"
   ],
@@ -85,10 +109,10 @@
     "https://www.shaam.org/news/syria-news/shhdaa-wjrha-jraa-qsf-mylyshyat-qsd-lmdynh-tl-abydh-shmaly-alrqh"
   ],
   "original_url": "https://www.shaam.org/news/syria-news/shhdaa-wjrha-jraa-qsf-mylyshyat-qsd-lmdynh-tl-abydh-shmaly-alrqh",
-  "page_title": "",
+  "page_title": "شهداء وجرحى جراء قصف ميليشيات \"قسد\" لمدينة تل أبيض شمالي الرقة | شبكة شام الإخبارية شهداء وجرحى جراء قصف ميليشيات \"قسد\" لمدينة تل أبيض شمالي الرقة شهداء وجرحى جراء قصف ميليشيات \"قسد\" لمدينة تل أبيض شمالي الرقة",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys135-june-1-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:47:20+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b29fccd9ee11d68bb3c73d38",
   "source_type": "news_article",
   "stable_id_basis": "https://www.shaam.org/news/syria-news/shhdaa-wjrha-jraa-qsf-mylyshyat-qsd-lmdynh-tl-abydh-shmaly-alrqh",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "شهداء وجرحى جراء قصف ميليشيات \"قسد\" لمدينة تل أبيض شمالي الرقة\n\nشهداء وجرحى جراء قصف ميليشيات \"قسد\" لمدينة تل أبيض شمالي الرقة\n\nقصفت ميليشيات \"قسد\"، اليوم الأربعاء 1 حزيران/ يونيو الأحياء السكنية وسط مدينة تل أبيض بريف الرقة الشمالي، ما أدى إلى سقوط شهداء وجرحى بين صفوف المدنيين.\n\nوقال ناشطون في المدينة إن قوات سوريا الديمقراطية \"قسد\"، قصفت مركز المدينة بعدة قذائف من المدفعية الثقيلة انطلاقا من مواقعها العسكرية، ولفتت مصادر إلى أن الحصيلة الأولية هي شهيدين وعدّة جرحى.\n\nوأكدت وحدة الإعلام الحربي التابعة للجيش الوطني إن ميليشيا \"قسد\" الإرهابية قصفت بقذائف المدفعية الأحياء السكنية بمدينة تل أبيض وأشارت إلى سقوط ضحايا بين صفوف المدنيين.\n\nفيما كشفت مؤسسة الدفاع المدني \"الخوذ البيضاء\"، عن إصابة طفل، اليوم الأربعاء إثر استهداف قوات \"قسد\" بالرشاشات الثقيلة سيارة على طريق \"المحسنلي - الحلونجي\"، في منطقة جرابلس بريف حلب الشرقي.\n\nويأتي ذلك مع وسط تصاعد وتيرة الأحداث الميدانية في مناطق التماس مع ميليشيات \"قسد\"، التي كثفت من استهداف المناطق المدنية، بالمقابل استهدف الجيش التركي يوم أمس مواقع \"قسد\" في محيط قريتي صيدا ومعلق بريف الرقة الشمالي بقذائف المدفعية.\n\nويذكر أن ميليشيات \"قسد\" تستهدف بشكل متكرر عدة مناطق ومواقع مدنية، ضمن مدن الباب وجرابلس وعفرين ومارع، الأمر الذي ينتج عنه سقوط شهداء وجرحى فضلا عن حدوث دمار في الأبنية المستهدفة.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

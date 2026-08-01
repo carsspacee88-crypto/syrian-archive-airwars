@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/8R9VI"
+    "https://archive.is/8R9VI",
+    "https://web.archive.org/web/20250614203323id_/https://npasyria.com/en/89146/?fbclid=IwAR1Sh4c5CSy-Zi4fT7gsglxyhpME2Pydi9HDSbdFP9m_3NhpI2A9f4J44n8"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "NPA",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d620e9da25510b2f11ce5c636f2d3c8ac6a789c839e4853824bc593fb44e93a0",
+  "content_variants": [
+    {
+      "bytes": 1088,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:56:56+00:00",
+      "sha256": "d620e9da25510b2f11ce5c636f2d3c8ac6a789c839e4853824bc593fb44e93a0",
+      "source_url": "https://web.archive.org/web/20250614203323id_/https://npasyria.com/en/89146/?fbclid=IwAR1Sh4c5CSy-Zi4fT7gsglxyhpME2Pydi9HDSbdFP9m_3NhpI2A9f4J44n8",
+      "text": "Turkish drone claims three lives in Syria’s Kobani, including child\n\nTurkish shelling on the outskirts of the village of Jareqli in Kobani - North Press\n\nQAMISHLI, Syria (North Press)- Three people were killed on Saturday and three others were injured in a Turkish drone strike against a village in the countryside of Kobani city, north Syria.\n\nA statement released by Media Office of the Syrian Democratic Forces (SDF) said Turkey continues to commit crimes against civilians in northern Syria.\n\nA Turkish drone struck the village of al-Raqas in the countryside of the town of Chalabiya in south of Kobani city. Three people, including 12-year-old Weisi Muhammad Weisi, were killed in the strike. Three other civilians were injured too, according to the statement.\n\nSince December 1, sixteen people have been killed in Turkish attacks, according to the SDF statement.\n\nOn November 20, an unprecedented aerial bombardment and artillery shelling was commenced by the Turkish forces that lasted for days in which vital facilities and infrastructure was destroyed.\n\nReporting by Adnan Hamo"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:56:56+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:56:56+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250614203323id_/https://npasyria.com/en/89146/?fbclid=IwAR1Sh4c5CSy-Zi4fT7gsglxyhpME2Pydi9HDSbdFP9m_3NhpI2A9f4J44n8"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250614203323id_/https://npasyria.com/en/89146/?fbclid=IwAR1Sh4c5CSy-Zi4fT7gsglxyhpME2Pydi9HDSbdFP9m_3NhpI2A9f4J44n8",
   "incident_ids": [
     "airwars-86168"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/89146/?fbclid=IwAR1Sh4c5CSy-Zi4fT7gsglxyhpME2Pydi9HDSbdFP9m_3NhpI2A9f4J44n8"
   ],
   "original_url": "https://npasyria.com/en/89146/?fbclid=IwAR1Sh4c5CSy-Zi4fT7gsglxyhpME2Pydi9HDSbdFP9m_3NhpI2A9f4J44n8",
-  "page_title": "",
+  "page_title": "Turkish drone claims three lives in Syria’s Kobani, including child Turkish drone claims three lives in Syria’s Kobani, including child Turkish drone claims three lives in Syria’s Kobani, including child Turkish drone claims three lives in Syria’s Kobani, including child - North press agency Turkish drone claims three lives in Syria’s Kobani, including child - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts580-december-17-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:56:56+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-fae350fa496ba92722a2b57f",
   "source_type": "other_web_page",
   "stable_id_basis": "https://npasyria.com/en/89146/?fbclid=IwAR1Sh4c5CSy-Zi4fT7gsglxyhpME2Pydi9HDSbdFP9m_3NhpI2A9f4J44n8",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish drone claims three lives in Syria’s Kobani, including child\n\nTurkish shelling on the outskirts of the village of Jareqli in Kobani - North Press\n\nQAMISHLI, Syria (North Press)- Three people were killed on Saturday and three others were injured in a Turkish drone strike against a village in the countryside of Kobani city, north Syria.\n\nA statement released by Media Office of the Syrian Democratic Forces (SDF) said Turkey continues to commit crimes against civilians in northern Syria.\n\nA Turkish drone struck the village of al-Raqas in the countryside of the town of Chalabiya in south of Kobani city. Three people, including 12-year-old Weisi Muhammad Weisi, were killed in the strike. Three other civilians were injured too, according to the statement.\n\nSince December 1, sixteen people have been killed in Turkish attacks, according to the SDF statement.\n\nOn November 20, an unprecedented aerial bombardment and artillery shelling was commenced by the Turkish forces that lasted for days in which vital facilities and infrastructure was destroyed.\n\nReporting by Adnan Hamo",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

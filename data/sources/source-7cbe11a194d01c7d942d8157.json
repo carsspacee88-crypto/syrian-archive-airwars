@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/NpMxC"
+    "https://archive.is/NpMxC",
+    "https://web.archive.org/web/20220209075305id_/https://twitter.com/SOHEB2019/status/1491317938988916743"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@SOHEB2019",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "60109862d8634cd332e34230041ec85c8869f5db51bc55efa35f259f567c36a8",
+  "content_variants": [
+    {
+      "bytes": 471,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:35:07+00:00",
+      "sha256": "60109862d8634cd332e34230041ec85c8869f5db51bc55efa35f259f567c36a8",
+      "source_url": "https://web.archive.org/web/20220209075305id_/https://twitter.com/SOHEB2019/status/1491317938988916743",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\n#ديرالزور\nمقتل الشاب \"نشوان الجميل\" وإصابة والده \"حسون الجميل\" أثناء مداهمة دورية عسكرية تابعة لميليشيا PYD/PKK منزله في مدينة #البصيرة شرق ديرالزور\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:35:06+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:35:07+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220209075305id_/https://twitter.com/SOHEB2019/status/1491317938988916743"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220209075305id_/https://twitter.com/SOHEB2019/status/1491317938988916743",
   "incident_ids": [
     "airwars-81854"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/SOHEB2019/status/1491317938988916743"
   ],
   "original_url": "https://twitter.com/SOHEB2019/status/1491317938988916743",
-  "page_title": "",
+  "page_title": "صهيب اليعربي on Twitter: \"#ديرالزور\nمقتل الشاب \"نشوان الجميل\" وإصابة والده \"حسون الجميل\" أثناء مداهمة دورية عسكرية تابعة لميليشيا PYD/PKK منزله في مدينة #البصيرة شرق ديرالزور\" صهيب اليعربي on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1978-february-8-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:35:07+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7cbe11a194d01c7d942d8157",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/SOHEB2019/status/1491317938988916743",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\n#ديرالزور\nمقتل الشاب \"نشوان الجميل\" وإصابة والده \"حسون الجميل\" أثناء مداهمة دورية عسكرية تابعة لميليشيا PYD/PKK منزله في مدينة #البصيرة شرق ديرالزور\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

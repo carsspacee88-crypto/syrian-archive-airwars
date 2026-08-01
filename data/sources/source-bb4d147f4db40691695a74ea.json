@@ -2,7 +2,8 @@
   "airwars_source_ids": [],
   "archived_urls": [
     "https://archive.is/eCv5J",
-    "https://archive.is/UcuJQ"
+    "https://archive.is/UcuJQ",
+    "https://web.archive.org/web/20250621165953id_/https://npasyria.com/104775/"
   ],
   "attempt_history": [
     {
@@ -93,12 +94,35 @@
   "author": "'@HalabTodayTV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "9d6379f8bbf2cbd5af0b20305727ff645374d7d8c5d1c0dddc0d698822afd881",
+  "content_variants": [
+    {
+      "bytes": 1739,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:46:48+00:00",
+      "sha256": "9d6379f8bbf2cbd5af0b20305727ff645374d7d8c5d1c0dddc0d698822afd881",
+      "source_url": "https://web.archive.org/web/20250621165953id_/https://npasyria.com/104775/",
+      "text": "“قسد”: قواتنا لم تقصف جرابلس والاستخبارات التركية تعرف الجهة الفاعلة\n\n\"دوار الشهداء\" في مدينة جرابلس شرقي حلب- نورث برس\n\nالقامشلي – نورث برس\n\nقالت قوات سوريا الديمقراطية “قسد”، مساء الاثنين، إن قواتها لم تقصف مدينة جرابلس، وإن الاستخبارات التركية تعرف الجهة الفاعلة.\n\nونشرت “قسد” عبر موقعها الرسمي، أن مواقع وصفحات تابعة لتركيا تناقلت “أنباء كاذبة عن قصف مدفعي نُسب إلى قواتنا واستهدف سيارة وعدد من الأشخاص في مدينة جرابلس، وأودت بحياة وجرح عدد من الأشخاص بينهم عسكريين، بحسب تلك المصادر”.\n\nوشددت “قسد”، على أن قواتها لم تقم بأي هجوم خلال الفترة الماضية في المنطقة المذكورة.\n\nوأشارت إلى أن “نسب ذاك الهجوم لقواتنا إنما يهدف إلى التغطية على الجهة الحقيقية الفاعلة والتي تتستر خلفها استخبارات الاحتلال التركي”.\n\nوذكرت “قسد”: “تؤكد الأدلة والتحقيقات الميدانية بحسب الصور المنشورة لمكان الاستهداف والسيارة المستهدفة أن الهجوم تمّ بواسطة طائرة مسيّرة اخترقت الأجواء السورية، وتكررها عادةً الطائرات المسيرة التابعة لتركيا”.\n\nإعداد وتحرير: محمد القاضي"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:46:47+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:46:48+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250621165953id_/https://npasyria.com/104775/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250621165953id_/https://npasyria.com/104775/",
   "incident_ids": [
     "airwars-82682",
     "airwars-82694"
@@ -116,10 +140,10 @@
     "https://npasyria.com/104775/"
   ],
   "original_url": "https://npasyria.com/104775/",
-  "page_title": "",
+  "page_title": "\"قسد\": قواتنا لم تقصف جرابلس والاستخبارات التركية تعرف الجهة الفاعلة - North press agency | وكالة نورث برس \"قسد\": قواتنا لم تقصف جرابلس والاستخبارات التركية تعرف الجهة الفاعلة - North press agency | وكالة نورث برس",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys129-april-18-2022/",
@@ -147,15 +171,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:46:48+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-bb4d147f4db40691695a74ea",
   "source_type": "other_web_page",
   "stable_id_basis": "https://npasyria.com/104775/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "“قسد”: قواتنا لم تقصف جرابلس والاستخبارات التركية تعرف الجهة الفاعلة\n\n\"دوار الشهداء\" في مدينة جرابلس شرقي حلب- نورث برس\n\nالقامشلي – نورث برس\n\nقالت قوات سوريا الديمقراطية “قسد”، مساء الاثنين، إن قواتها لم تقصف مدينة جرابلس، وإن الاستخبارات التركية تعرف الجهة الفاعلة.\n\nونشرت “قسد” عبر موقعها الرسمي، أن مواقع وصفحات تابعة لتركيا تناقلت “أنباء كاذبة عن قصف مدفعي نُسب إلى قواتنا واستهدف سيارة وعدد من الأشخاص في مدينة جرابلس، وأودت بحياة وجرح عدد من الأشخاص بينهم عسكريين، بحسب تلك المصادر”.\n\nوشددت “قسد”، على أن قواتها لم تقم بأي هجوم خلال الفترة الماضية في المنطقة المذكورة.\n\nوأشارت إلى أن “نسب ذاك الهجوم لقواتنا إنما يهدف إلى التغطية على الجهة الحقيقية الفاعلة والتي تتستر خلفها استخبارات الاحتلال التركي”.\n\nوذكرت “قسد”: “تؤكد الأدلة والتحقيقات الميدانية بحسب الصور المنشورة لمكان الاستهداف والسيارة المستهدفة أن الهجوم تمّ بواسطة طائرة مسيّرة اخترقت الأجواء السورية، وتكررها عادةً الطائرات المسيرة التابعة لتركيا”.\n\nإعداد وتحرير: محمد القاضي",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
