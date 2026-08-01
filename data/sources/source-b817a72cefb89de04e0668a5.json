@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/w3N1K"
+    "https://archive.is/w3N1K",
+    "https://web.archive.org/web/20250315132833id_/https://halabtodaytv.net/archives/197329"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Halab Today",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a27ad18a66c6613fd72771b4f252f43fdc57c2b2718e9db525c3cb168048a5a9",
+  "content_variants": [
+    {
+      "bytes": 533,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:39:27+00:00",
+      "sha256": "a27ad18a66c6613fd72771b4f252f43fdc57c2b2718e9db525c3cb168048a5a9",
+      "source_url": "https://web.archive.org/web/20250315132833id_/https://halabtodaytv.net/archives/197329",
+      "text": "قتل وجرح عدد من الأشخاص، اليوم الأربعاء، جراء قصف صاروخي مصدره قوات سوريا الديمقراطية \"قسد\" استهدف الأحياء السكينة في مدينة\n\nقتل وجرح عدد من الأشخاص، اليوم الأربعاء، جراء قصف صاروخي مصدره قوات سوريا الديمقراطية \"قسد\" استهدف الأحياء السكينة في مدينة عفرين شمال حلب، حسبما أفاد مراسل \"حلب اليوم\"."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:39:26+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:39:27+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250315132833id_/https://halabtodaytv.net/archives/197329"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250315132833id_/https://halabtodaytv.net/archives/197329",
   "incident_ids": [
     "airwars-77435"
   ],
@@ -85,10 +109,10 @@
     "https://halabtodaytv.net/archives/197329"
   ],
   "original_url": "https://halabtodaytv.net/archives/197329",
-  "page_title": "",
+  "page_title": "قتلى وجرحى بقصف صاروخي مصدره “قسد” استهدف عفرين شمال حلب قتلى وجرحى بقصف صاروخي مصدره “قسد” استهدف عفرين شمال حلب قتلى وجرحى بقصف صاروخي مصدره \"قسد\" استهدف عفرين شمال حلب قتلى وجرحى بقصف صاروخي مصدره \"قسد\" استهدف عفرين شمال حلب قتلى وجرحى بقصف صاروخي مصدره “قسد” استهدف عفرين شمال حلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys113-rs4627-august-18-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:39:27+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b817a72cefb89de04e0668a5",
   "source_type": "other_web_page",
   "stable_id_basis": "https://halabtodaytv.net/archives/197329",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قتل وجرح عدد من الأشخاص، اليوم الأربعاء، جراء قصف صاروخي مصدره قوات سوريا الديمقراطية \"قسد\" استهدف الأحياء السكينة في مدينة\n\nقتل وجرح عدد من الأشخاص، اليوم الأربعاء، جراء قصف صاروخي مصدره قوات سوريا الديمقراطية \"قسد\" استهدف الأحياء السكينة في مدينة عفرين شمال حلب، حسبما أفاد مراسل \"حلب اليوم\".",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

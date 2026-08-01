@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/7YA9g"
+    "https://archive.ph/7YA9g",
+    "https://web.archive.org/web/20240715061844id_/https://www.syriahr.com/en/303347/?fbclid=IwAR3Woj51qiFfZAXOyU5mARnlSv4udUCxLuUHHj0AD4PizY1FiDQDGFhTmcg"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0a70662f203e76cfdbf86f619aeb2f1ef0473c30c3666e6df5656789f9238061",
+  "content_variants": [
+    {
+      "bytes": 1970,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:43:51+00:00",
+      "sha256": "0a70662f203e76cfdbf86f619aeb2f1ef0473c30c3666e6df5656789f9238061",
+      "source_url": "https://web.archive.org/web/20240715061844id_/https://www.syriahr.com/en/303347/?fbclid=IwAR3Woj51qiFfZAXOyU5mARnlSv4udUCxLuUHHj0AD4PizY1FiDQDGFhTmcg",
+      "text": "“Al-Fath Al-Mubin” bombardment | Family of four members including two children killed in Awrem Al-Kubra in western countryside of Aleppo\n\nAleppo province: A whole family of four members: father, mother and two little girls, were killed, due to shells fell on their house in the artillery shelling of factions of “Al-Fath Al-Mubin” operations room, yesterday, on Awrem Al-Kubra town within regime-held areas in the western countryside of Aleppo.\n“Putin-Erdogan” area witnessed in the early hours of this morning, an exchanged artillery shelling between regime forces and factions of “Al-Fath Al-Mubin” operations room, where regime forces fired heavy artillery shells on Al-Fatirah, Fuleyfel and Safouhen villages in Jabal Al-ZAwiyah in the southern countryside of Idlib and Al-Ankawi village in Sahil Al-Ghab in the western countryside of Hama.\nIn contrast, faction of “Al-Fath Al-Mubin” targeted positions of regime forces in Al-Dar Al-Kabirah and Al-Malajah in the southern countryside of Idlib. No causalities were reported.\nMoreover, frontlines of Al-Masharea in Sahil Al-Ghab in the western countryside of Hama and Kabanah in Jabal Al-Akrad in the northern countryside of Latakia, witnessed an exchange of artillery shelling between regime forces and factions. No causalities were reported.\n\nPrev Post\n\nContinuing deporting “ISIS” families | 25 children among 35 people leave Roj camp in Al-Hasakah countryside towards France.\n\nNext Post\n\nUsing live ammunition | “Free Syria Army” and International Coalition forces conduct joint military exercises within the 55 kilometre de-confliction zone\n\nExcept for members of regime forces | Security Committee issues resolution preventing…\n\nIn less than five days | Seven members of regime forces kil*led in explo*sion of…\n\n53rd Israeli attack | Two members of Syrian Air Force Defence kil*led in Syrian…\n\nMilitary escalation | Civilian kil*led under ground shelling by Turkish forces on…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:43:50+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:43:51+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240715061844id_/https://www.syriahr.com/en/303347/?fbclid=IwAR3Woj51qiFfZAXOyU5mARnlSv4udUCxLuUHHj0AD4PizY1FiDQDGFhTmcg"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240715061844id_/https://www.syriahr.com/en/303347/?fbclid=IwAR3Woj51qiFfZAXOyU5mARnlSv4udUCxLuUHHj0AD4PizY1FiDQDGFhTmcg",
   "incident_ids": [
     "airwars-89761"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/303347/?fbclid=IwAR3Woj51qiFfZAXOyU5mARnlSv4udUCxLuUHHj0AD4PizY1FiDQDGFhTmcg"
   ],
   "original_url": "https://www.syriahr.com/en/303347/?fbclid=IwAR3Woj51qiFfZAXOyU5mARnlSv4udUCxLuUHHj0AD4PizY1FiDQDGFhTmcg",
-  "page_title": "",
+  "page_title": "“Al-Fath Al-Mubin” bombardment | Family of four members including two children killed in Awrem Al-Kubra in western countryside of Aleppo - The Syrian Observatory For Human Rights “Al-Fath Al-Mubin” bombardment | Family of four members including two children killed in Awrem Al-Kubra in western countryside of Aleppo - The Syrian Observatory For Human Rights “Al-Fath Al-Mubin” bombardment | Family of four members including two children killed in Awrem Al-Kubra in western countryside of Aleppo - The Syrian Observatory For Human Rights “Al-Fath Al-Mubin” bombardment | Family of four members including two children killed in Awrem Al-Kubra in western countryside of Aleppo “Al-Fath Al-Mubin” bombardment | Family of four members including two children killed in Awrem Al-Kubra in western countryside of Aleppo",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts607-july-4-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:43:51+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d4e6603fbdfdfa0bdc29ce91",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/303347/?fbclid=IwAR3Woj51qiFfZAXOyU5mARnlSv4udUCxLuUHHj0AD4PizY1FiDQDGFhTmcg",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "“Al-Fath Al-Mubin” bombardment | Family of four members including two children killed in Awrem Al-Kubra in western countryside of Aleppo\n\nAleppo province: A whole family of four members: father, mother and two little girls, were killed, due to shells fell on their house in the artillery shelling of factions of “Al-Fath Al-Mubin” operations room, yesterday, on Awrem Al-Kubra town within regime-held areas in the western countryside of Aleppo.\n“Putin-Erdogan” area witnessed in the early hours of this morning, an exchanged artillery shelling between regime forces and factions of “Al-Fath Al-Mubin” operations room, where regime forces fired heavy artillery shells on Al-Fatirah, Fuleyfel and Safouhen villages in Jabal Al-ZAwiyah in the southern countryside of Idlib and Al-Ankawi village in Sahil Al-Ghab in the western countryside of Hama.\nIn contrast, faction of “Al-Fath Al-Mubin” targeted positions of regime forces in Al-Dar Al-Kabirah and Al-Malajah in the southern countryside of Idlib. No causalities were reported.\nMoreover, frontlines of Al-Masharea in Sahil Al-Ghab in the western countryside of Hama and Kabanah in Jabal Al-Akrad in the northern countryside of Latakia, witnessed an exchange of artillery shelling between regime forces and factions. No causalities were reported.\n\nPrev Post\n\nContinuing deporting “ISIS” families | 25 children among 35 people leave Roj camp in Al-Hasakah countryside towards France.\n\nNext Post\n\nUsing live ammunition | “Free Syria Army” and International Coalition forces conduct joint military exercises within the 55 kilometre de-confliction zone\n\nExcept for members of regime forces | Security Committee issues resolution preventing…\n\nIn less than five days | Seven members of regime forces kil*led in explo*sion of…\n\n53rd Israeli attack | Two members of Syrian Air Force Defence kil*led in Syrian…\n\nMilitary escalation | Civilian kil*led under ground shelling by Turkish forces on…",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/O54vH"
+    "https://archive.is/O54vH",
+    "https://web.archive.org/web/20230625134149id_/https://abcnews.go.com/International/wireStory/turkish-drone-strike-kills-2-kurdish-local-officials-100232689"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ABC (AP)",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "cbacb618fbeff92d329f8315e19d6a2bbde8854e47098b3929a8d4bd844caf2a",
+  "content_variants": [
+    {
+      "bytes": 4544,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:49:20+00:00",
+      "sha256": "cbacb618fbeff92d329f8315e19d6a2bbde8854e47098b3929a8d4bd844caf2a",
+      "source_url": "https://web.archive.org/web/20230625134149id_/https://abcnews.go.com/International/wireStory/turkish-drone-strike-kills-2-kurdish-local-officials-100232689",
+      "text": "Turkish drone strike kills 2 Kurdish local officials and their driver in north Syria, officials say\n\nOfficials say a Turkish drone attack has killed two Kurdish local officials and their driver in northeast Syria, in the latest such strike in the war-torn country\n\nBEIRUT -- A Turkish drone attack killed two Kurdish local officials and their driver in northeast Syria on Tuesday in the latest such strike in the war-torn country, officials said, as talks on Syria’s conflict began in Kazakhstan.\n\nThe Kurdish-led authority in northeast Syria said Tuesday’s strike hit a car near the town of Qamishli, killing the co-chairperson of the town’s council, Yusra Darwish, and her deputy, Liman Shweish, as well as their driver. An additional local officials was wounded in the attack.\n\nThe attack is the latest in a series of such strikes by Turkey’s military that has been targeting Kurdish officials and fighters in northeast Syria for months. Turkey says the main Syrian Kurdish militia is allied to the outlawed Kurdish group, the Kurdistan Workers’ Party, PKK, has led an insurgency against Turkey since 1984, which has killed tens of thousands of people.\n\nThe authority said in a statement that the four were visiting institutions run by the Kurdish-led Autonomous Administration of North and East Syria when they came under drone attack while on the road outside Qamishli.\n\nAlso Tuesday, a two-day round of talks aimed at resolving the broader conflict in Syria opened in the Kazakh capital, Astana, among officials from Russia, Iran, Turkey and Syria. Attempts at reconciliation between Syria and Turkey, which has troops in Syria and backs opposition fighters, have been slow.\n\nSyrian state media quoted Syrian Assistant Foreign Minister Ayman Sousan saying that “any active results” that come out of the meetings should be based on Turkey agreeing to withdraw its troops from Syria with a “clear timeline.”\n\nThe meeting follows ongoing improvement in relations between Syria and Arab countries that once backed opposition groups since the conflict began in March 2011, which has killed half a million people and displaced half the country’s pre-war population of 23 million.\n\nPresident Bashar Assad attended the Arab Summit in Saudi Arabia in May after Syria’s membership was reinstated 12 years after it was suspended.\n\nIn southern Syria, U.S.-based organization the Syrian Emergency Task Force announced Tuesday the first aid delivery to a remote desert camp near the Jordanian border housing some 8,000 internally displaced people since September 2019.\n\nDamascus and Moscow blame U.S. troops stationed nearby for failing to provide security for aid shipments to Rukban camp, allegations denied by the Americans. Jordan closed the border years ago over security concerns.\n\nThe humanitarian and advocacy group said the delivery includes seeds and irrigation tools for residents to sustain themselves, as well as school supplies for the over 1,000 children in the camp who have been deprived of education. The aid group said it is preparing to send baby formula, prenatal vitamins, school books, and food items in the coming weeks.\n\n“The world for a long time has been forgetting the crisis of refugees, especially those besieged within Syria,” Omar al-Shogre, the group's director of detainee affairs, told The Associated Press.\n\nIt took a few years of talks with the Department of Defense to approve the facilitation of assistance to Rukban via its Denton Program, which aids U.S.-based non-governmental organizations with transporting humanitarian aid. The organization purchases the aid and it is stored on whatever space is available on United States aircraft in the Ain al-Assad base in Iraq’s Anbar province already scheduled to fly to the Al-Tanf garrison near the camp.\n\nMouaz Moustafa, who heads the organization, says efforts to deliver aid for years formally through the U.N. has “obviously failed” due to the Syrian government’s obstructions.\n\n“You cannot rely on a process that is under the control of the powers besieging the camp,” Moustafa said.\n\nAborted mercenary uprising in Russia shows 'cracks' in Putin's power: Blinken\n\n29 minutes ago\n\n'Multiple deaths' in shootings in same area of Kansas City: Sheriff\n\n27 minutes ago\n\n12 people taken to hospital after Houston chemical spill\n\nJun 24, 11:05 PM\n\nAt least 2 wounded in shooting at entertainment complex, officials say\n\nJun 24, 12:19 AM\n\nHarris defends abortion access, Pence seeks federal ban 1 year after Dobbs\n\nJun 24, 5:44 PM"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:49:19+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:49:20+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230625134149id_/https://abcnews.go.com/International/wireStory/turkish-drone-strike-kills-2-kurdish-local-officials-100232689"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230625134149id_/https://abcnews.go.com/International/wireStory/turkish-drone-strike-kills-2-kurdish-local-officials-100232689",
   "incident_ids": [
     "airwars-89708"
   ],
@@ -85,10 +109,10 @@
     "https://abcnews.go.com/International/wireStory/turkish-drone-strike-kills-2-kurdish-local-officials-100232689"
   ],
   "original_url": "https://abcnews.go.com/International/wireStory/turkish-drone-strike-kills-2-kurdish-local-officials-100232689",
-  "page_title": "",
+  "page_title": "Turkish drone strike kills 2 Kurdish local officials and their driver in north Syria, officials say - ABC News Turkish drone strike kills 2 Kurdish local officials and their driver in north Syria, officials say",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts605-june-20-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:49:20+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-fdc8f4522bc98a0d56500e34",
   "source_type": "news_article",
   "stable_id_basis": "https://abcnews.go.com/International/wireStory/turkish-drone-strike-kills-2-kurdish-local-officials-100232689",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish drone strike kills 2 Kurdish local officials and their driver in north Syria, officials say\n\nOfficials say a Turkish drone attack has killed two Kurdish local officials and their driver in northeast Syria, in the latest such strike in the war-torn country\n\nBEIRUT -- A Turkish drone attack killed two Kurdish local officials and their driver in northeast Syria on Tuesday in the latest such strike in the war-torn country, officials said, as talks on Syria’s conflict began in Kazakhstan.\n\nThe Kurdish-led authority in northeast Syria said Tuesday’s strike hit a car near the town of Qamishli, killing the co-chairperson of the town’s council, Yusra Darwish, and her deputy, Liman Shweish, as well as their driver. An additional local officials was wounded in the attack.\n\nThe attack is the latest in a series of such strikes by Turkey’s military that has been targeting Kurdish officials and fighters in northeast Syria for months. Turkey says the main Syrian Kurdish militia is allied to the outlawed Kurdish group, the Kurdistan Workers’ Party, PKK, has led an insurgency against Turkey since 1984, which has killed tens of thousands of people.\n\nThe authority said in a statement that the four were visiting institutions run by the Kurdish-led Autonomous Administration of North and East Syria when they came under drone attack while on the road outside Qamishli.\n\nAlso Tuesday, a two-day round of talks aimed at resolving the broader conflict in Syria opened in the Kazakh capital, Astana, among officials from Russia, Iran, Turkey and Syria. Attempts at reconciliation between Syria and Turkey, which has troops in Syria and backs opposition fighters, have been slow.\n\nSyrian state media quoted Syrian Assistant Foreign Minister Ayman Sousan saying that “any active results” that come out of the meetings should be based on Turkey agreeing to withdraw its troops from Syria with a “clear timeline.”\n\nThe meeting follows ongoing improvement in relations between Syria and Arab countries that once backed opposition groups since the conflict began in March 2011, which has killed half a million people and displaced half the country’s pre-war population of 23 million.\n\nPresident Bashar Assad attended the Arab Summit in Saudi Arabia in May after Syria’s membership was reinstated 12 years after it was suspended.\n\nIn southern Syria, U.S.-based organization the Syrian Emergency Task Force announced Tuesday the first aid delivery to a remote desert camp near the Jordanian border housing some 8,000 internally displaced people since September 2019.\n\nDamascus and Moscow blame U.S. troops stationed nearby for failing to provide security for aid shipments to Rukban camp, allegations denied by the Americans. Jordan closed the border years ago over security concerns.\n\nThe humanitarian and advocacy group said the delivery includes seeds and irrigation tools for residents to sustain themselves, as well as school supplies for the over 1,000 children in the camp who have been deprived of education. The aid group said it is preparing to send baby formula, prenatal vitamins, school books, and food items in the coming weeks.\n\n“The world for a long time has been forgetting the crisis of refugees, especially those besieged within Syria,” Omar al-Shogre, the group's director of detainee affairs, told The Associated Press.\n\nIt took a few years of talks with the Department of Defense to approve the facilitation of assistance to Rukban via its Denton Program, which aids U.S.-based non-governmental organizations with transporting humanitarian aid. The organization purchases the aid and it is stored on whatever space is available on United States aircraft in the Ain al-Assad base in Iraq’s Anbar province already scheduled to fly to the Al-Tanf garrison near the camp.\n\nMouaz Moustafa, who heads the organization, says efforts to deliver aid for years formally through the U.N. has “obviously failed” due to the Syrian government’s obstructions.\n\n“You cannot rely on a process that is under the control of the powers besieging the camp,” Moustafa said.\n\nAborted mercenary uprising in Russia shows 'cracks' in Putin's power: Blinken\n\n29 minutes ago\n\n'Multiple deaths' in shootings in same area of Kansas City: Sheriff\n\n27 minutes ago\n\n12 people taken to hospital after Houston chemical spill\n\nJun 24, 11:05 PM\n\nAt least 2 wounded in shooting at entertainment complex, officials say\n\nJun 24, 12:19 AM\n\nHarris defends abortion access, Pence seeks federal ban 1 year after Dobbs\n\nJun 24, 5:44 PM",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

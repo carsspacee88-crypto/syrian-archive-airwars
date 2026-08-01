@@ -108,8 +108,22 @@
   "content_hash": null,
   "content_variants": [],
   "descriptions": [],
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:44:20+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:44:21+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515135735id_/https://twitter.com/thiqanewsagency/status/1658046280038244355"
+    }
+  ],
   "extraction_status": "pending",
-  "failure_reason": "no_archive_capture",
+  "failure_reason": "capture_without_text",
   "final_redirected_url": "",
   "incident_ids": [
     "airwars-89364"
@@ -149,7 +163,7 @@
     "reason": "no_archive_capture",
     "status": "deferred"
   },
-  "retrieval_status": "no_archive_capture",
+  "retrieval_status": "capture_without_text",
   "retrieved_at": null,
   "review_flags": [],
   "schema_version": "1.0.0",

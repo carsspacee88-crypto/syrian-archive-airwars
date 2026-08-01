@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20230924213036id_/https://www.kurdistan24.net/en/story/28081-Turkey-bombs-Kobani-city-center"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Kurdistan24",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "637bae9b2cc99986d8be2b97161375e6d388d70090baaa5a5aa7fa02d11286fb",
+  "content_variants": [
+    {
+      "bytes": 968,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:30:31+00:00",
+      "sha256": "637bae9b2cc99986d8be2b97161375e6d388d70090baaa5a5aa7fa02d11286fb",
+      "source_url": "https://web.archive.org/web/20230924213036id_/https://www.kurdistan24.net/en/story/28081-Turkey-bombs-Kobani-city-center",
+      "text": "Turkey bombs Kobani city center\n\nThe Turkish Army on Kobani city center on the morning of Friday, Apr. 22, 2022 (Photo: Hawar News Agency)\n\nERBIL (Kurdistan 24) – The Turkish military on Friday morning targeted the city center of Kobani in northern Syria, injuring an unknown number of civilians, the Syria-based Rojava Media Centre (RMC) reported Friday.\n\nThe RMC said due to Turkey's \"bombardment of Kobani city center with howitzers, civilians were injured and shops were burned.\"\n\nThe Turkish artillery targeted Kobani's 48th and Martyr Kawa neighborhoods.\n\nThe local Hawar News Agency (ANHA) reported that four \"artillery shells have hit the city so far,\" adding that the shells \"fell on 48th Street and Kaniya Kurda neighborhood in Kobani city.\"\n\nIn recent days, Turkish-backed forces have intensified their shelling of areas near Ain Issa and Tal Tamr in the Hasakah province.\n\nTurkey has also markedly increased its drone attacks on northeast Syria recently."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:30:30+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:30:31+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230924213036id_/https://www.kurdistan24.net/en/story/28081-Turkey-bombs-Kobani-city-center"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230924213036id_/https://www.kurdistan24.net/en/story/28081-Turkey-bombs-Kobani-city-center",
   "incident_ids": [
     "airwars-84334",
     "airwars-82749"
@@ -57,10 +82,10 @@
     "https://www.kurdistan24.net/en/story/28081-Turkey-bombs-Kobani-city-center"
   ],
   "original_url": "https://www.kurdistan24.net/en/story/28081-Turkey-bombs-Kobani-city-center",
-  "page_title": "",
+  "page_title": "Turkey bombs Kobani city center Turkey bombs Kobani city center Turkey bombs Kobani city center",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts502a-april-22-2022/",
@@ -88,15 +113,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:30:31+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7110bd8d1aaf7950dea4ca25",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.kurdistan24.net/en/story/28081-Turkey-bombs-Kobani-city-center",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkey bombs Kobani city center\n\nThe Turkish Army on Kobani city center on the morning of Friday, Apr. 22, 2022 (Photo: Hawar News Agency)\n\nERBIL (Kurdistan 24) – The Turkish military on Friday morning targeted the city center of Kobani in northern Syria, injuring an unknown number of civilians, the Syria-based Rojava Media Centre (RMC) reported Friday.\n\nThe RMC said due to Turkey's \"bombardment of Kobani city center with howitzers, civilians were injured and shops were burned.\"\n\nThe Turkish artillery targeted Kobani's 48th and Martyr Kawa neighborhoods.\n\nThe local Hawar News Agency (ANHA) reported that four \"artillery shells have hit the city so far,\" adding that the shells \"fell on 48th Street and Kaniya Kurda neighborhood in Kobani city.\"\n\nIn recent days, Turkish-backed forces have intensified their shelling of areas near Ain Issa and Tal Tamr in the Hasakah province.\n\nTurkey has also markedly increased its drone attacks on northeast Syria recently.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

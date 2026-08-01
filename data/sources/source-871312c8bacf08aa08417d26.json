@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/t1XwM"
+    "https://archive.md/t1XwM",
+    "https://web.archive.org/web/20211203074606id_/https://twitter.com/NidalAbdulmonem/status/1466673771675271168"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@NidalAbdulmonem",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "3f40fadb37809e55ca43f11ec28ad95ff746c80be632be6aef4673f3a591c99f",
+  "content_variants": [
+    {
+      "bytes": 535,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:33:05+00:00",
+      "sha256": "3f40fadb37809e55ca43f11ec28ad95ff746c80be632be6aef4673f3a591c99f",
+      "source_url": "https://web.archive.org/web/20211203074606id_/https://twitter.com/NidalAbdulmonem/status/1466673771675271168",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\nA laser drone is flying above #Ariha now. Seeing such a drone in the sky is a very bad sign! It gives coordinates to the artillery to launch #krasnopol shells which will hit the target that has been mainly civilians. Hopefully people will notice it and hide!\n#Idlib #أريحا #ادلب\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:33:04+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:33:05+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211203074606id_/https://twitter.com/NidalAbdulmonem/status/1466673771675271168"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211203074606id_/https://twitter.com/NidalAbdulmonem/status/1466673771675271168",
   "incident_ids": [
     "airwars-80506"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/NidalAbdulmonem/status/1466673771675271168"
   ],
   "original_url": "https://twitter.com/NidalAbdulmonem/status/1466673771675271168",
-  "page_title": "",
+  "page_title": "Nidal Abdulmonem on Twitter: \"A laser drone is flying above #Ariha now. Seeing such a drone in the sky is a very bad sign! It gives coordinates to the artillery to launch #krasnopol shells which will hit the target that has been mainly civilians. Hopefully people will notice it and hide!\n#Idlib #أريحا #ادلب\" Nidal Abdulmonem on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1973-december-3-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:33:05+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-871312c8bacf08aa08417d26",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/NidalAbdulmonem/status/1466673771675271168",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\nA laser drone is flying above #Ariha now. Seeing such a drone in the sky is a very bad sign! It gives coordinates to the artillery to launch #krasnopol shells which will hit the target that has been mainly civilians. Hopefully people will notice it and hide!\n#Idlib #أريحا #ادلب\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20240521131704id_/https://www.youtube.com/watch?v=auujYb9jBkg"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Shaam",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "351c6563ab4ebc87556812307221301044cc9e4d80c815dc2287e4aa8e427044",
+  "content_variants": [
+    {
+      "bytes": 317,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:25:11+00:00",
+      "sha256": "351c6563ab4ebc87556812307221301044cc9e4d80c815dc2287e4aa8e427044",
+      "source_url": "https://web.archive.org/web/20240521131704id_/https://www.youtube.com/watch?v=auujYb9jBkg",
+      "text": "عملية إنزال جوي لقوات التحالف الدولي في بلدة أطمة تخلف 13 قتيلاً على الأقل بينهم أطفال - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2024 Google LLC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:25:08+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:25:11+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240521131704id_/https://www.youtube.com/watch?v=auujYb9jBkg"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240521131704id_/https://www.youtube.com/watch?v=auujYb9jBkg",
   "incident_ids": [
     "airwars-81560"
   ],
@@ -55,10 +80,10 @@
     "https://www.youtube.com/watch?v=auujYb9jBkg"
   ],
   "original_url": "https://www.youtube.com/watch?v=auujYb9jBkg",
-  "page_title": "",
+  "page_title": "عملية إنزال جوي لقوات التحالف الدولي في بلدة أطمة تخلف 13 قتيلاً على الأقل بينهم أطفال - YouTube عملية إنزال جوي لقوات التحالف الدولي في بلدة أطمة تخلف 13 قتيلاً على الأقل بينهم أطفال عملية إنزال جوي لقوات التحالف الدولي في بلدة أطمة تخلف 13 قتيلاً على الأقل بينهم أطفال",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1977-february-3-2022/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:25:11+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-429ac4e79bee887306fdcf9a",
   "source_type": "youtube_page",
   "stable_id_basis": "https://www.youtube.com/watch?v=auujYb9jBkg",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "عملية إنزال جوي لقوات التحالف الدولي في بلدة أطمة تخلف 13 قتيلاً على الأقل بينهم أطفال - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2024 Google LLC",
   "text_original_language": "und",
   "translation": {
     "chunks": [],

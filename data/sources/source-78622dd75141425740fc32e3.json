@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/BzfVx"
+    "https://archive.ph/BzfVx",
+    "https://web.archive.org/web/20241225065002id_/https://rojnews.news/ar/?p=161579"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Roj News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "116b686885a410c6a718847b6714d41f96ccdff00b26e2a9c56285de189c40f7",
+  "content_variants": [
+    {
+      "bytes": 1573,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:31:24+00:00",
+      "sha256": "116b686885a410c6a718847b6714d41f96ccdff00b26e2a9c56285de189c40f7",
+      "source_url": "https://web.archive.org/web/20241225065002id_/https://rojnews.news/ar/?p=161579",
+      "text": "هاوار: الاحتلال التركي يستهدف الحسكة وأنباء عن وقوع إصابات\n\nمركز الأخبار\n\nأفادت وكالة هاوار بأن الاحتلال التركي استهداف مزارع مشيرفة حمة شمال مدينة الحسكة، حيث تشير المعلومات الأولية بإصابة 3 مواطنين بجروح.\n\nوبحسب ما نقلته وكالة أنباء هاوار من المنطقة، فقد قام طيران دولة الاحتلال التركي بقصف مزارع مشيرفة حمة شمال مدينة الحسكة، على الطريق الواصل بين مدينة الحسكة وتل تمر، وبحسب المعلومات الأولية فقد أصيب 3 مواطنين بجروح.\n\nكما أشارت الوكالة إلى أن الطيران الحربي يقوم بالتحليق فوق المنطقة.\n\n“واشنطن بوست” تسلط الضوء على مقابر جماعية قرب دمشق\n\nللمرة الأولى منذ سريان اتفاق وقف إطلاق النار.. إسرائيل تستهدف البقاع اللبناني\n\nالبنتاغون يعترف بوجود قوات أمريكية إضافية في العراق لم يُعلن عنها\n\nالجيش الإسرائيلي يكشف عن تفاصيل مقتل 6 رهائن في غزة ويؤكد مسؤولية حماس\n\nوزير الخارجية السوري يحذر إيران من بث الفوضى في سوريا\n\nإسرائيل تهدد باستهداف قادة الحوثيين في تصعيد جديد"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:31:23+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:31:24+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241225065002id_/https://rojnews.news/ar/?p=161579"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241225065002id_/https://rojnews.news/ar/?p=161579",
   "incident_ids": [
     "airwars-106117"
   ],
@@ -85,10 +109,10 @@
     "https://rojnews.news/ar/?p=161579"
   ],
   "original_url": "https://rojnews.news/ar/?p=161579",
-  "page_title": "",
+  "page_title": "هاوار: الاحتلال التركي يستهدف الحسكة وأنباء عن وقوع إصابات - العربية - Rojnews.news هاوار: الاحتلال التركي يستهدف الحسكة وأنباء عن وقوع إصابات - العربية - Rojnews.news",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts634-october-5-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:31:24+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-78622dd75141425740fc32e3",
   "source_type": "news_article",
   "stable_id_basis": "https://rojnews.news/ar/?p=161579",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "هاوار: الاحتلال التركي يستهدف الحسكة وأنباء عن وقوع إصابات\n\nمركز الأخبار\n\nأفادت وكالة هاوار بأن الاحتلال التركي استهداف مزارع مشيرفة حمة شمال مدينة الحسكة، حيث تشير المعلومات الأولية بإصابة 3 مواطنين بجروح.\n\nوبحسب ما نقلته وكالة أنباء هاوار من المنطقة، فقد قام طيران دولة الاحتلال التركي بقصف مزارع مشيرفة حمة شمال مدينة الحسكة، على الطريق الواصل بين مدينة الحسكة وتل تمر، وبحسب المعلومات الأولية فقد أصيب 3 مواطنين بجروح.\n\nكما أشارت الوكالة إلى أن الطيران الحربي يقوم بالتحليق فوق المنطقة.\n\n“واشنطن بوست” تسلط الضوء على مقابر جماعية قرب دمشق\n\nللمرة الأولى منذ سريان اتفاق وقف إطلاق النار.. إسرائيل تستهدف البقاع اللبناني\n\nالبنتاغون يعترف بوجود قوات أمريكية إضافية في العراق لم يُعلن عنها\n\nالجيش الإسرائيلي يكشف عن تفاصيل مقتل 6 رهائن في غزة ويؤكد مسؤولية حماس\n\nوزير الخارجية السوري يحذر إيران من بث الفوضى في سوريا\n\nإسرائيل تهدد باستهداف قادة الحوثيين في تصعيد جديد",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

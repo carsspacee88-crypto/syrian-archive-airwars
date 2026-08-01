@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/XheIw"
+    "https://archive.is/XheIw",
+    "https://web.archive.org/web/20240612212317id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/b-90504"
   ],
   "attempt_history": [
     {
@@ -105,12 +106,35 @@
   "author": "ANF",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "95ff8773ecdb172ede87c8a7084f53c48c0ca841877f7777f2bc60a74cf01ab1",
+  "content_variants": [
+    {
+      "bytes": 1091,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:48:42+00:00",
+      "sha256": "95ff8773ecdb172ede87c8a7084f53c48c0ca841877f7777f2bc60a74cf01ab1",
+      "source_url": "https://web.archive.org/web/20240612212317id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/b-90504",
+      "text": "وكالة فرات\n\nمركز الأخبار\n\nالأربعاء, ٣ مايو ٢٠٢٣, ٢٠:٢٤\n\nوأفاد عادل دربو وهو أحد أقارب المصاب، لمراسل وكالة \"هاوار\" للأنباء، عن قيام جنود جيش الاحتلال التركي ، بإطلاق الرصاص الحي بين الساعة 14:00 - 14:30، على المواطن عبد العزيز دربو، وعادل دربو، في قرية بهيرا، 5 كيلو متر غرب ناحية عامودا، ما أسفر عن إصابة عبد العزيز 49 عاماً، بطلقة في ظهره، تم نقله إلى مشفى الشعب في ناحية عامودا، من قبل الأهالي.\n\nوقال عادل دربو الذي كان متواجداً مع المواطن عبد العزيز دربو، إنهم توجهوا الى أرضهم لسقايتها، وإن الأرض ليست قريبة من الحدود التركية.\n\nوبحسب المعلومات فقد تم إخراج المصاب عبد العزيز دربو من المشفى وهو في حالة مستقرة."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "no_archive_capture",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:48:42+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:48:42+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240612212317id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/b-90504"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240612212317id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/b-90504",
   "incident_ids": [
     "airwars-89329"
   ],
@@ -126,10 +150,10 @@
     "https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/b-90504"
   ],
   "original_url": "https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/b-90504",
-  "page_title": "",
+  "page_title": "ANF |\nجنود الاحتلال التركي يصيبون مواطناً في عامودا جنود الاحتلال التركي يصيبون مواطناً في عامودا جنود الاحتلال التركي يصيبون مواطناً في عامودا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts592-may-3-2023/",
@@ -149,15 +173,15 @@
     "reason": "no_archive_capture",
     "status": "deferred"
   },
-  "retrieval_status": "no_archive_capture",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:48:42+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f98f2acaca59ffb8895c75cc",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/b-90504",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "وكالة فرات\n\nمركز الأخبار\n\nالأربعاء, ٣ مايو ٢٠٢٣, ٢٠:٢٤\n\nوأفاد عادل دربو وهو أحد أقارب المصاب، لمراسل وكالة \"هاوار\" للأنباء، عن قيام جنود جيش الاحتلال التركي ، بإطلاق الرصاص الحي بين الساعة 14:00 - 14:30، على المواطن عبد العزيز دربو، وعادل دربو، في قرية بهيرا، 5 كيلو متر غرب ناحية عامودا، ما أسفر عن إصابة عبد العزيز 49 عاماً، بطلقة في ظهره، تم نقله إلى مشفى الشعب في ناحية عامودا، من قبل الأهالي.\n\nوقال عادل دربو الذي كان متواجداً مع المواطن عبد العزيز دربو، إنهم توجهوا الى أرضهم لسقايتها، وإن الأرض ليست قريبة من الحدود التركية.\n\nوبحسب المعلومات فقد تم إخراج المصاب عبد العزيز دربو من المشفى وهو في حالة مستقرة.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

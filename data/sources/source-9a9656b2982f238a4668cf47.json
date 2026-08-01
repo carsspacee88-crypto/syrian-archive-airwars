@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/bHVbg"
+    "https://archive.md/bHVbg",
+    "https://web.archive.org/web/20211027130024id_/https://twitter.com/AsharqNewsSYR/status/1453345747387179011"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@AsharqNewsSYR",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "50d7c716c8197f4af93b8d41b5886ded5b587e8e9af726d62fcb41f61ce0c1b6",
+  "content_variants": [
+    {
+      "bytes": 643,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:34:29+00:00",
+      "sha256": "50d7c716c8197f4af93b8d41b5886ded5b587e8e9af726d62fcb41f61ce0c1b6",
+      "source_url": "https://web.archive.org/web/20211027130024id_/https://twitter.com/AsharqNewsSYR/status/1453345747387179011",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nمقتل المسؤول في المجلس المدني التابع لـ\"الإدارة الذاتية\" سامر العبد الله، \"عن طريق الخطأ\"، وذلك خلال مداهمة نفذتها قوات التحالف الدولي و\"قسد\" قرب منزله في بلدة بمحافظة #دير_الزور، استهدفت خلايا تابعة لتنظيم \"داعش\".\n#الشرق_سورياpic.twitter.com/2DX6AecOro\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:34:28+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:34:29+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211027130024id_/https://twitter.com/AsharqNewsSYR/status/1453345747387179011"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211027130024id_/https://twitter.com/AsharqNewsSYR/status/1453345747387179011",
   "incident_ids": [
     "airwars-79815"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/AsharqNewsSYR/status/1453345747387179011"
   ],
   "original_url": "https://twitter.com/AsharqNewsSYR/status/1453345747387179011",
-  "page_title": "",
+  "page_title": "الشرق للأخبار - سوريا on Twitter: \"مقتل المسؤول في المجلس المدني التابع لـ\"الإدارة الذاتية\" سامر العبد الله، \"عن طريق الخطأ\"، وذلك خلال مداهمة نفذتها قوات التحالف الدولي و\"قسد\" قرب منزله في بلدة بمحافظة #دير_الزور، استهدفت خلايا تابعة لتنظيم \"داعش\".\n#الشرق_سوريا… https://t.co/u3OMv1qZEP\" الشرق للأخبار - سوريا on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1968-october-27-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:34:29+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9a9656b2982f238a4668cf47",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/AsharqNewsSYR/status/1453345747387179011",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nمقتل المسؤول في المجلس المدني التابع لـ\"الإدارة الذاتية\" سامر العبد الله، \"عن طريق الخطأ\"، وذلك خلال مداهمة نفذتها قوات التحالف الدولي و\"قسد\" قرب منزله في بلدة بمحافظة #دير_الزور، استهدفت خلايا تابعة لتنظيم \"داعش\".\n#الشرق_سورياpic.twitter.com/2DX6AecOro\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

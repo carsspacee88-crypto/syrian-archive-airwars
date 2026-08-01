@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/N4YPh"
+    "https://archive.ph/N4YPh",
+    "https://web.archive.org/web/20250117122829id_/https://anfarabic.com/akhr-l-khbr/q-102534"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0a6b56cc587cf1f4261574b0c631a212f81b3416a7b7e0d6c135144ee83afd40",
+  "content_variants": [
+    {
+      "bytes": 876,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:31:22+00:00",
+      "sha256": "0a6b56cc587cf1f4261574b0c631a212f81b3416a7b7e0d6c135144ee83afd40",
+      "source_url": "https://web.archive.org/web/20250117122829id_/https://anfarabic.com/akhr-l-khbr/q-102534",
+      "text": "وكالة فرات للأنباء\n\nالشهباء\n\nالخميس, ٢٩ فبراير ٢٠٢٤, ١٠:١١\n\nيقصف جيش الاحتلال التركي الآن مقاطعة الشهباء.\n\nحيث شن الاحتلال التركي قصفه ليلة الأمس على مدجنة للطيور في قرية الطعانة التابعة لمقاطعة الشهباء مما أدى إلى فقدان شخص لحياته يدعى يوسف الحايك البالغ من العمر 30 عاماً من أهالي الطعانة وإصابة شخص آخر يدعى عبد الرحمن الحايك البالغ من العمر 16 عاماً يتلقى العلاج في مشفى افرين.\n\nكما طال القصف يوم أمس، على كل من قرية نيربية وتل رفعت وشيخ عيسى التابعة لمقاطعة الشهباء في الساعات الظهر."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:31:21+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:31:22+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250117122829id_/https://anfarabic.com/akhr-l-khbr/q-102534"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250117122829id_/https://anfarabic.com/akhr-l-khbr/q-102534",
   "incident_ids": [
     "airwars-115963"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/akhr-l-khbr/q-102534"
   ],
   "original_url": "https://anfarabic.com/akhr-l-khbr/q-102534",
-  "page_title": "",
+  "page_title": "ANF |\nفقدان شخص لحياته جراء استهداف الاحتلال التركي لمقاطعة الشهباء فقدان شخص لحياته جراء استهداف الاحتلال التركي لمقاطعة الشهباء فقدان شخص لحياته جراء استهداف الاحتلال التركي لمقاطعة الشهباء",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts685-february-28-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:31:22+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-75fb231436c8fa92c8aa0ace",
   "source_type": "news_article",
   "stable_id_basis": "https://anfarabic.com/akhr-l-khbr/q-102534",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "وكالة فرات للأنباء\n\nالشهباء\n\nالخميس, ٢٩ فبراير ٢٠٢٤, ١٠:١١\n\nيقصف جيش الاحتلال التركي الآن مقاطعة الشهباء.\n\nحيث شن الاحتلال التركي قصفه ليلة الأمس على مدجنة للطيور في قرية الطعانة التابعة لمقاطعة الشهباء مما أدى إلى فقدان شخص لحياته يدعى يوسف الحايك البالغ من العمر 30 عاماً من أهالي الطعانة وإصابة شخص آخر يدعى عبد الرحمن الحايك البالغ من العمر 16 عاماً يتلقى العلاج في مشفى افرين.\n\nكما طال القصف يوم أمس، على كل من قرية نيربية وتل رفعت وشيخ عيسى التابعة لمقاطعة الشهباء في الساعات الظهر.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

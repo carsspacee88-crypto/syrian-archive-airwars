@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/MTN9t"
+    "https://archive.is/MTN9t",
+    "https://web.archive.org/web/20240725065516id_/https://www.etilaf.org/all-news/news/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%88%D8%B1%D9%88%D8%B3%D9%8A"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Etilaf",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d6a7a4c8944a118283de7913dab762b37eec7c1e7100f5d61c03a48cbf07a7c0",
+  "content_variants": [
+    {
+      "bytes": 436,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:14:54+00:00",
+      "sha256": "d6a7a4c8944a118283de7913dab762b37eec7c1e7100f5d61c03a48cbf07a7c0",
+      "source_url": "https://web.archive.org/web/20240725065516id_/https://www.etilaf.org/all-news/news/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%88%D8%B1%D9%88%D8%B3%D9%8A",
+      "text": "أدان أمين سر الهيئة السياسية في الائتلاف الوطني السوري عبد المجيد بركات، استمرار عمليات القصف التي تنفذها قوات نظام الأسد\n\nضحايا مدنيون بهجمات قوات النظام وروسيا وحركة نزوح من قرية كفر نوران - الائتلاف الوطني لقوى الثورة والمعارضة السورية"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:14:53+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:14:54+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240725065516id_/https://www.etilaf.org/all-news/news/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%88%D8%B1%D9%88%D8%B3%D9%8A"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240725065516id_/https://www.etilaf.org/all-news/news/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%88%D8%B1%D9%88%D8%B3%D9%8A",
   "incident_ids": [
     "airwars-91670"
   ],
@@ -85,10 +109,10 @@
     "https://www.etilaf.org/all-news/news/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%88%D8%B1%D9%88%D8%B3%D9%8A"
   ],
   "original_url": "https://www.etilaf.org/all-news/news/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%88%D8%B1%D9%88%D8%B3%D9%8A",
-  "page_title": "",
+  "page_title": "ضحايا مدنيون بهجمات قوات النظام وروسيا وحركة نزوح من قرية كفر نوران ضحايا مدنيون بهجمات قوات النظام وروسيا وحركة نزوح من قرية كفر نوران ضحايا مدنيون بهجمات قوات النظام وروسيا وحركة نزوح من قرية كفر نوران - الائتلاف الوطني لقوى الثورة والمعارضة السورية ضحايا مدنيون بهجمات قوات النظام وروسيا وحركة نزوح من قرية كفر نوران",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4773-june-21-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:14:54+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-084e93855f6b3e79f56b0e5a",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.etilaf.org/all-news/news/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%88%D8%B1%D9%88%D8%B3%D9%8A",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "أدان أمين سر الهيئة السياسية في الائتلاف الوطني السوري عبد المجيد بركات، استمرار عمليات القصف التي تنفذها قوات نظام الأسد\n\nضحايا مدنيون بهجمات قوات النظام وروسيا وحركة نزوح من قرية كفر نوران - الائتلاف الوطني لقوى الثورة والمعارضة السورية",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

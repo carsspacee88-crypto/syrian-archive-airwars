@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/eoQot"
+    "https://archive.is/eoQot",
+    "https://web.archive.org/web/20240524163352id_/https://www.facebook.com/AlHadathSyria/posts/pfbid02ZdDqgEiJBHyj7Jd2kn3fUsNqVain5xbmtz5TwjB2hAPv58NE8qRm2Wj8WZot9dYl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Al Hadath Syria",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "748e503047c34cb97988e0abd6cc0f40934ea7914cdeb3c59ba4405d843d031a",
+  "content_variants": [
+    {
+      "bytes": 169,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:20:02+00:00",
+      "sha256": "748e503047c34cb97988e0abd6cc0f40934ea7914cdeb3c59ba4405d843d031a",
+      "source_url": "https://web.archive.org/web/20240524163352id_/https://www.facebook.com/AlHadathSyria/posts/pfbid02ZdDqgEiJBHyj7Jd2kn3fUsNqVain5xbmtz5TwjB2hAPv58NE8qRm2Wj8WZot9dYl",
+      "text": "#سوريا - مراسلنا: جرحى مدنيون بقصف مدفعي للجيش السوري على قرية معربليت بريف إدلب\n\n#الحدث\n#سوريا"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:20:01+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:20:02+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524163352id_/https://www.facebook.com/AlHadathSyria/posts/pfbid02ZdDqgEiJBHyj7Jd2kn3fUsNqVain5xbmtz5TwjB2hAPv58NE8qRm2Wj8WZot9dYl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524163352id_/https://www.facebook.com/AlHadathSyria/posts/pfbid02ZdDqgEiJBHyj7Jd2kn3fUsNqVain5xbmtz5TwjB2hAPv58NE8qRm2Wj8WZot9dYl",
   "incident_ids": [
     "airwars-92614"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/AlHadathSyria/posts/pfbid02ZdDqgEiJBHyj7Jd2kn3fUsNqVain5xbmtz5TwjB2hAPv58NE8qRm2Wj8WZot9dYl"
   ],
   "original_url": "https://www.facebook.com/AlHadathSyria/posts/pfbid02ZdDqgEiJBHyj7Jd2kn3fUsNqVain5xbmtz5TwjB2hAPv58NE8qRm2Wj8WZot9dYl",
-  "page_title": "",
+  "page_title": "Al Hadath Syria الحدث السوري Al Hadath Syria الحدث السوري #سوريا - مراسلنا: جرحى... - Al Hadath Syria الحدث السوري",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4789-august-1-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:20:02+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-228ea62d67b82ad94b59f796",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/AlHadathSyria/posts/pfbid02ZdDqgEiJBHyj7Jd2kn3fUsNqVain5xbmtz5TwjB2hAPv58NE8qRm2Wj8WZot9dYl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#سوريا - مراسلنا: جرحى مدنيون بقصف مدفعي للجيش السوري على قرية معربليت بريف إدلب\n\n#الحدث\n#سوريا",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/uBJQB"
+    "https://archive.ph/uBJQB",
+    "https://web.archive.org/web/20241202120522id_/https://n.chamtimes.com/archives/478684"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Chamtime",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ebd06c3de6ebbcfcda7366730e555d9cdfcd552713247fdb864f76055bf218ac",
+  "content_variants": [
+    {
+      "bytes": 1827,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:24:21+00:00",
+      "sha256": "ebd06c3de6ebbcfcda7366730e555d9cdfcd552713247fdb864f76055bf218ac",
+      "source_url": "https://web.archive.org/web/20241202120522id_/https://n.chamtimes.com/archives/478684",
+      "text": "2022-11-22\n\nمقالات مشابهة\n\nاستمرار صرف المعاشات التقاعدية للمتقاعدين ‏والمستحقين عنهم في حلب ‏\n\n2024-12-02\n\nالسويداء.. ترميم قسم الأطفال في المشفى الوطني\n\n2024-12-02\n\nالرئيس العراقي: التطورات في سورية موضع اهتمام شديد ونؤكد حرصنا على استقرارها وأمنها\n\n2024-12-02\n\nشام تايمز – دير الزور – مالك الجاسم\n\nأصيب مدني برصاص عناصر ميليشيا”قسد” المدعومة أمريكياً بعد قيامها بشن حملة مداهمات صباح اليوم استهدفت عدداً من المنازل داخل قرية “الزر” بريف دير الزور الشرقي كما داهمت هذه الميليشيات قرية “الطكيحي” شمال دير الزور، واختطفت عدداً من أبناء هذه القرية، واقتادتهم باتجاه جهة مجهولة، وشهدت عدد من القرى والبلدات انتشاراً مكثفاً لعناصر ميليشيات “قسد” بدءاً من بلدة “الشحيل” بريف دير الزور الشرقي وصولاً إلى دوار المعامل شمال دير الزور مع نصب عدد كبير من الحواجز.\n\nويأتي هذا التصعيد على خلفية معلومات تتحدث عن نية “قسد” بشن حملة مداهمات واسعة في قرى وبلدات الريفين الشرقي والشمالي بهدف اختطاف الشبان لزجهم في صفوفها بالقوة وبخاصة بعد الاعتداءات الأخيرة من قبل الاحتلال التركي على عدد من قرى وبلدات أرياف الرقة والحسكة وحلب."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:24:15+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:24:21+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241202120522id_/https://n.chamtimes.com/archives/478684"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241202120522id_/https://n.chamtimes.com/archives/478684",
   "incident_ids": [
     "airwars-86185"
   ],
@@ -85,10 +109,10 @@
     "https://n.chamtimes.com/archives/478684"
   ],
   "original_url": "https://n.chamtimes.com/archives/478684",
-  "page_title": "",
+  "page_title": "إصابة مدني برصاص “قسد” بريف دير الزور – شام تايمز الإخباري إصابة مدني برصاص “قسد” بريف دير الزور - شام تايمز الإخباري Humidity Pressure Wind",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1988-november-22-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:24:21+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-42c58edbb85ac05f0c35924d",
   "source_type": "other_web_page",
   "stable_id_basis": "https://n.chamtimes.com/archives/478684",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "2022-11-22\n\nمقالات مشابهة\n\nاستمرار صرف المعاشات التقاعدية للمتقاعدين ‏والمستحقين عنهم في حلب ‏\n\n2024-12-02\n\nالسويداء.. ترميم قسم الأطفال في المشفى الوطني\n\n2024-12-02\n\nالرئيس العراقي: التطورات في سورية موضع اهتمام شديد ونؤكد حرصنا على استقرارها وأمنها\n\n2024-12-02\n\nشام تايمز – دير الزور – مالك الجاسم\n\nأصيب مدني برصاص عناصر ميليشيا”قسد” المدعومة أمريكياً بعد قيامها بشن حملة مداهمات صباح اليوم استهدفت عدداً من المنازل داخل قرية “الزر” بريف دير الزور الشرقي كما داهمت هذه الميليشيات قرية “الطكيحي” شمال دير الزور، واختطفت عدداً من أبناء هذه القرية، واقتادتهم باتجاه جهة مجهولة، وشهدت عدد من القرى والبلدات انتشاراً مكثفاً لعناصر ميليشيات “قسد” بدءاً من بلدة “الشحيل” بريف دير الزور الشرقي وصولاً إلى دوار المعامل شمال دير الزور مع نصب عدد كبير من الحواجز.\n\nويأتي هذا التصعيد على خلفية معلومات تتحدث عن نية “قسد” بشن حملة مداهمات واسعة في قرى وبلدات الريفين الشرقي والشمالي بهدف اختطاف الشبان لزجهم في صفوفها بالقوة وبخاصة بعد الاعتداءات الأخيرة من قبل الاحتلال التركي على عدد من قرى وبلدات أرياف الرقة والحسكة وحلب.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

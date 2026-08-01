@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/WZUmW"
+    "https://archive.md/WZUmW",
+    "https://web.archive.org/web/20220523114244id_/https://www.kurdistan24.net/en/story/26171-Drone-strike-targets-alleged-ISIS-member-in-Jarabulus"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Kurdistan 24",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "03805134b4c68d05fbb0435308cfb7dcdfa851be233cc7aa58b6339fb578068e",
+  "content_variants": [
+    {
+      "bytes": 2213,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:25:06+00:00",
+      "sha256": "03805134b4c68d05fbb0435308cfb7dcdfa851be233cc7aa58b6339fb578068e",
+      "source_url": "https://web.archive.org/web/20220523114244id_/https://www.kurdistan24.net/en/story/26171-Drone-strike-targets-alleged-ISIS-member-in-Jarabulus",
+      "text": "Drone strike targets alleged ISIS member in Jarabulus\n\nAn MQ-9 drone. (Photo: Isaac Brekken / AFP)\n\nERBIL (Kurdistan 24) – The UK-based Syrian Observatory for Human Rights (SOHR) reported on Sunday that an alleged coalition strike targeted a car in Jarabulus in northeast Syria, killing one person, and seriously wounding another.\n\n“The two men are believed to be ISIS members,” SOHR reported.\n\nThe Syrian Documentation Centre tweeted that the man killed in the strike was nicknamed “Abu Abdo Al-Hamwi”.\n\nTurkish-backed groups captured Jarabulus from Islamic State control in August 2016.\n\nAccording to the Syria-based Violations Documentation Center (VDC), the US have carried out more airstrikes targeting individuals affiliated to Al-Qaeda and ISIS in the last few days.\n\n“This man was targeted today in Jarabulus city,” the VDC said in a tweet, adding that two other militants were targeted in Suluk and near Ras al-Ain (Serekaniye) in October.\n\nIn late October, an alleged US drone strike killed former ISIS commander Subhi Ibrahim Muslih and two of his guards in Serekaniye (Ras al-Ain).\n\nRead More: Alleged US drone strike kills former ISIS commander: SDF\n\nMoreover, in the same week, a confirmed US airstrike in northeast Syria killed senior al-Qaeda leader Abdul Hamid al-Matar in the town of Suluk near the Turkish-controlled Tal Abyad area.\n\nAlso, in the past, unidentified drone attacks have targeted ISIS leaders in areas under Turkish control or near the border of Turkey. It's unclear if the drone strikes are coordinated with Turkey.\n\nIslamic State leader Abu Bakr Al-Baghdadi and the group’s spokesperson Abu Hassan al-Muhajir were both killed in US operations in Syria near the Turkish border in October 2019.\n\nMuhajir was targeted in a village near Jarabulus.\n\n“Turkish-controlled areas of northern Syria are key transit routes for ISIS members into and out of Syria,” Nicholas Heras, a Senior Analyst and Program Head for State Resilience and Fragility at New Lines told Kurdistan 24.\n\n“The Turkish intelligence picture on ISIS in these areas is good and the uptick in strikes would indicate that the US and Turkey are wheeling and dealing behind the scenes,” he added."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:25:04+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:25:06+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220523114244id_/https://www.kurdistan24.net/en/story/26171-Drone-strike-targets-alleged-ISIS-member-in-Jarabulus"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220523114244id_/https://www.kurdistan24.net/en/story/26171-Drone-strike-targets-alleged-ISIS-member-in-Jarabulus",
   "incident_ids": [
     "airwars-79890"
   ],
@@ -85,10 +109,10 @@
     "https://www.kurdistan24.net/en/story/26171-Drone-strike-targets-alleged-ISIS-member-in-Jarabulus"
   ],
   "original_url": "https://www.kurdistan24.net/en/story/26171-Drone-strike-targets-alleged-ISIS-member-in-Jarabulus",
-  "page_title": "",
+  "page_title": "Drone strike targets alleged ISIS member in Jarabulus Drone strike targets alleged ISIS member in Jarabulus Drone strike targets alleged ISIS member in Jarabulus",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1969-november-7-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:25:06+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5084cfe7df22cc1fa489e936",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.kurdistan24.net/en/story/26171-Drone-strike-targets-alleged-ISIS-member-in-Jarabulus",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Drone strike targets alleged ISIS member in Jarabulus\n\nAn MQ-9 drone. (Photo: Isaac Brekken / AFP)\n\nERBIL (Kurdistan 24) – The UK-based Syrian Observatory for Human Rights (SOHR) reported on Sunday that an alleged coalition strike targeted a car in Jarabulus in northeast Syria, killing one person, and seriously wounding another.\n\n“The two men are believed to be ISIS members,” SOHR reported.\n\nThe Syrian Documentation Centre tweeted that the man killed in the strike was nicknamed “Abu Abdo Al-Hamwi”.\n\nTurkish-backed groups captured Jarabulus from Islamic State control in August 2016.\n\nAccording to the Syria-based Violations Documentation Center (VDC), the US have carried out more airstrikes targeting individuals affiliated to Al-Qaeda and ISIS in the last few days.\n\n“This man was targeted today in Jarabulus city,” the VDC said in a tweet, adding that two other militants were targeted in Suluk and near Ras al-Ain (Serekaniye) in October.\n\nIn late October, an alleged US drone strike killed former ISIS commander Subhi Ibrahim Muslih and two of his guards in Serekaniye (Ras al-Ain).\n\nRead More: Alleged US drone strike kills former ISIS commander: SDF\n\nMoreover, in the same week, a confirmed US airstrike in northeast Syria killed senior al-Qaeda leader Abdul Hamid al-Matar in the town of Suluk near the Turkish-controlled Tal Abyad area.\n\nAlso, in the past, unidentified drone attacks have targeted ISIS leaders in areas under Turkish control or near the border of Turkey. It's unclear if the drone strikes are coordinated with Turkey.\n\nIslamic State leader Abu Bakr Al-Baghdadi and the group’s spokesperson Abu Hassan al-Muhajir were both killed in US operations in Syria near the Turkish border in October 2019.\n\nMuhajir was targeted in a village near Jarabulus.\n\n“Turkish-controlled areas of northern Syria are key transit routes for ISIS members into and out of Syria,” Nicholas Heras, a Senior Analyst and Program Head for State Resilience and Fragility at New Lines told Kurdistan 24.\n\n“The Turkish intelligence picture on ISIS in these areas is good and the uptick in strikes would indicate that the US and Turkey are wheeling and dealing behind the scenes,” he added.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

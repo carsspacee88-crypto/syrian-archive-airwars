@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/xYLv5"
+    "https://archive.md/xYLv5",
+    "https://web.archive.org/web/20211027214232id_/https://twitter.com/DeirEzzor24/status/1453477215518212096"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@DeirEzzorNow",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "cbd6ed6b4cf1b4cc418746249763484d1bbdabe14fa23915e3e5794b86b910d3",
+  "content_variants": [
+    {
+      "bytes": 436,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:28:38+00:00",
+      "sha256": "cbd6ed6b4cf1b4cc418746249763484d1bbdabe14fa23915e3e5794b86b910d3",
+      "source_url": "https://web.archive.org/web/20211027214232id_/https://twitter.com/DeirEzzor24/status/1453477215518212096",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\n#D24:\n\"Samer Al-Abdullah\", Deputy Chief of Deir Ezzor Civil Council, was killed in an operation by SDF by mistake during a raid in search of a wanted person in the town of #AlSabha, east of #DeirEzzor.pic.twitter.com/6oPTRvtxxP\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:28:37+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:28:38+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211027214232id_/https://twitter.com/DeirEzzor24/status/1453477215518212096"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211027214232id_/https://twitter.com/DeirEzzor24/status/1453477215518212096",
   "incident_ids": [
     "airwars-79815"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/DeirEzzor24/status/1453477215518212096"
   ],
   "original_url": "https://twitter.com/DeirEzzor24/status/1453477215518212096",
-  "page_title": "",
+  "page_title": "ديرالزور24 on Twitter: \"#D24:\n\"Samer Al-Abdullah\", Deputy Chief of Deir Ezzor Civil Council, was killed in an operation by SDF by mistake during a raid in search of a wanted person in the town of #AlSabha, east of #DeirEzzor.… https://t.co/wf9PofUKwf\" ديرالزور24 on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1968-october-27-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:28:38+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-622d44c7e80017e2ac83acc4",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/DeirEzzor24/status/1453477215518212096",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\n#D24:\n\"Samer Al-Abdullah\", Deputy Chief of Deir Ezzor Civil Council, was killed in an operation by SDF by mistake during a raid in search of a wanted person in the town of #AlSabha, east of #DeirEzzor.pic.twitter.com/6oPTRvtxxP\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

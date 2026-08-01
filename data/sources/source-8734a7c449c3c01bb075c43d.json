@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/UjUHu"
+    "https://archive.is/UjUHu",
+    "https://web.archive.org/web/20220817162725id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/qwy-alamn-aldakhly-tln-n-asabt-7-mwatnyn-jra-hjmat-alahtlal-ly-tl-tmr-81451"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Anf Arabic",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "df5135f1a9ad83ac8aa5b1e38e74b950ed6ca594ade17d9222a396d2a64260ca",
+  "content_variants": [
+    {
+      "bytes": 2044,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:33:10+00:00",
+      "sha256": "df5135f1a9ad83ac8aa5b1e38e74b950ed6ca594ade17d9222a396d2a64260ca",
+      "source_url": "https://web.archive.org/web/20220817162725id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/qwy-alamn-aldakhly-tln-n-asabt-7-mwatnyn-jra-hjmat-alahtlal-ly-tl-tmr-81451",
+      "text": "قوى الأمن الداخلي تعلن عن إصابة 7 مواطنين جراء هجمات الاحتلال على تل تمر\n\nأعلنت قوى الأمن الداخلي في شمال وشرق سوريا، اليوم، عن إصابة 7 مواطنين، بينهم أطفال ونساء، بجروح متفاوتة جراء هجمات الاحتلال التركي ومرتزقته على قرى ناحية تل تمر.\n\nANF\n\nمركز الأخبار\n\nالسبت, ٣٠ يوليو ٢٠٢٢, ١٤:٤٦\n\nونشرت قوى الأمن الداخلي بياناً على صفحتها على فيسبوك حول الهجوم الذي طال تل تمر، وجاء فيه:\n\n\"في استمرار للاعتداءات التركية على مناطقنا وعمليات التصعيد التي يقوم بها مرتزقة الاحتلال التركي، تعرضت قرى ريف تل تمر صباح اليوم السبت لقصف مدفعي مكثف نتج عنه إصابة 7 مدنيين بينهم أطفال وكبار السن\".\n\nأضاف الموقع \"إن هذه الاعتداءات مستمرة بسبب الصمت الدولي وعدم وجود أي ردع لها من قبل القوى الضامنة الموجودة في المنطقة\".\n\nوشدد الموقع \"كل هذا التصعيد واستهداف مناطقنا من قبل المحتل التركي لن تزيد شعبنا إلا إصراراً على الكفاح والنضال والمقاومة\".\n\nوبحسب المعلومات الواردة من المنطقة، ارتفع عدد الجرحى إلى 9 وتم نقل 5 مصابين إلى المشفى لخطورة إصاباتهم.\n\nأسماء المصابين هي كالتالي:\n\nعمر حسين ذياب\n\nليلى عمر صالح (4 أعوام)\n\nجوري عمر صالح (25 عاماً)\n\nاحمد محمد المحمد ( 60عاماً)\n\nنوفة علاوي العلي (60 عاماً)\n\nحلوه عزو عواد (63 عاماً)\n\nنعيم محمد وزوو (30 عاماً)\n\nنورس حميد عنتر (25 عاماً)"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:33:09+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:33:10+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220817162725id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/qwy-alamn-aldakhly-tln-n-asabt-7-mwatnyn-jra-hjmat-alahtlal-ly-tl-tmr-81451"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220817162725id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/qwy-alamn-aldakhly-tln-n-asabt-7-mwatnyn-jra-hjmat-alahtlal-ly-tl-tmr-81451",
   "incident_ids": [
     "airwars-84302"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/qwy-alamn-aldakhly-tln-n-asabt-7-mwatnyn-jra-hjmat-alahtlal-ly-tl-tmr-81451"
   ],
   "original_url": "https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/qwy-alamn-aldakhly-tln-n-asabt-7-mwatnyn-jra-hjmat-alahtlal-ly-tl-tmr-81451",
-  "page_title": "",
+  "page_title": "ANF | قوى الأمن الداخلي تعلن عن إصابة 7 مواطنين جراء هجمات الاحتلال على تل تمر قوى الأمن الداخلي تعلن عن إصابة 7 مواطنين جراء هجمات الاحتلال على تل تمر قوى الأمن الداخلي تعلن عن إصابة 7 مواطنين جراء هجمات الاحتلال على تل تمر",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts536-july-30-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:33:10+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-8734a7c449c3c01bb075c43d",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/qwy-alamn-aldakhly-tln-n-asabt-7-mwatnyn-jra-hjmat-alahtlal-ly-tl-tmr-81451",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قوى الأمن الداخلي تعلن عن إصابة 7 مواطنين جراء هجمات الاحتلال على تل تمر\n\nأعلنت قوى الأمن الداخلي في شمال وشرق سوريا، اليوم، عن إصابة 7 مواطنين، بينهم أطفال ونساء، بجروح متفاوتة جراء هجمات الاحتلال التركي ومرتزقته على قرى ناحية تل تمر.\n\nANF\n\nمركز الأخبار\n\nالسبت, ٣٠ يوليو ٢٠٢٢, ١٤:٤٦\n\nونشرت قوى الأمن الداخلي بياناً على صفحتها على فيسبوك حول الهجوم الذي طال تل تمر، وجاء فيه:\n\n\"في استمرار للاعتداءات التركية على مناطقنا وعمليات التصعيد التي يقوم بها مرتزقة الاحتلال التركي، تعرضت قرى ريف تل تمر صباح اليوم السبت لقصف مدفعي مكثف نتج عنه إصابة 7 مدنيين بينهم أطفال وكبار السن\".\n\nأضاف الموقع \"إن هذه الاعتداءات مستمرة بسبب الصمت الدولي وعدم وجود أي ردع لها من قبل القوى الضامنة الموجودة في المنطقة\".\n\nوشدد الموقع \"كل هذا التصعيد واستهداف مناطقنا من قبل المحتل التركي لن تزيد شعبنا إلا إصراراً على الكفاح والنضال والمقاومة\".\n\nوبحسب المعلومات الواردة من المنطقة، ارتفع عدد الجرحى إلى 9 وتم نقل 5 مصابين إلى المشفى لخطورة إصاباتهم.\n\nأسماء المصابين هي كالتالي:\n\nعمر حسين ذياب\n\nليلى عمر صالح (4 أعوام)\n\nجوري عمر صالح (25 عاماً)\n\nاحمد محمد المحمد ( 60عاماً)\n\nنوفة علاوي العلي (60 عاماً)\n\nحلوه عزو عواد (63 عاماً)\n\nنعيم محمد وزوو (30 عاماً)\n\nنورس حميد عنتر (25 عاماً)",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

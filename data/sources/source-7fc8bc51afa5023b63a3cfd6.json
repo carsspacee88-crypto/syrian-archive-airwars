@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.fo/VFj0R"
+    "https://archive.fo/VFj0R",
+    "https://web.archive.org/web/20251117233800id_/https://www.aljazeera.com/news/2022/2/2/turkish-air-raids-target-kurdish-groups-in-northern-syria-iraq"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Al Jazeera",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8c5f065d2f6ac21effd8855cebdbcfe294d286b64a87fb2c03c6b28b25348d7a",
+  "content_variants": [
+    {
+      "bytes": 3691,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:32:54+00:00",
+      "sha256": "8c5f065d2f6ac21effd8855cebdbcfe294d286b64a87fb2c03c6b28b25348d7a",
+      "source_url": "https://web.archive.org/web/20251117233800id_/https://www.aljazeera.com/news/2022/2/2/turkish-air-raids-target-kurdish-groups-in-northern-syria-iraq",
+      "text": "Turkish Defence Minister Hulusi Akar, centre, said a 'great number of terrorists were neutralised in Operation Winter Eagle [Arif Akdogan/Anadolu Agency]\n\nBy Paul Benjamin Osterlund\n\nShare\n\nSave\n\nIstanbul, Turkey – Turkey’s armed forces have launched air raids targeting the the banned Kurdistan Workers’ Party (PKK) and its affiliates in three areas of northern Syria and Iraq, defence minister Hulusi Akar said.\n\nAnkara said the attacks were launched against positions occupied by the PKK, the People’s Protection Units (YPG) who it views as a PKK affiliate, and other “outlawed groups” in the northern Syrian area of Derik and the northern Iraqi regions of Sinjar and Karacak.\n\nRecommended Stories\n\nlist 1 of 4With flights set to resume, what next for Turkish-Armenian ties?\n\nlist 2 of 4Why is Turkey trying to mediate the Ukraine-Russia crisis?\n\nlist 3 of 4Turkey’s Erdogan warns media against publishing ‘harmful content’\n\nlist 4 of 4Turkey hits PKK targets in Iraq after three of its troops killed\n\n“Our objective is to ensure the security of our 84 million citizens and our borders,” Akar said on Wednesday, declaring the operation, dubbed Operation Winter Eagle, had been carried out successfully.\n\n“A great number of terrorists were neutralised in Operation Winter Eagle. We are following the results closely,” Akar said, without providing specific figures regarding the number of casualties.\n\nIraq’s military condemned the Turkish strikes as a violation of Iraqi air space in a statement on Twitter.\n\nTurkey has fought the PKK for nearly four decades. Turkey, the United States, and the European Union label the group as a “terrorist organisation“.\n\nYPG fighters form the backbone of the Syrian Democratic Forces, a key United States ally against the ISIL (ISIS) group.\n\nEarly on Wednesday, Turkish President Recep Tayyip Erdogan retweeted a post from Turkey’s Defence Ministry featuring a photo of a jet taking off with a caption reading “the dens of the terrorists are caving in on their heads!”\n\nTeröristlerin inleri başlarına yıkılıyor! 🇹🇷 pic.twitter.com/xi0PehdvAI\n— T.C. Millî Savunma Bakanlığı (@tcsavunma) February 1, 2022\n\nTeröristlerin inleri başlarına yıkılıyor! 🇹🇷 pic.twitter.com/xi0PehdvAI\n\n— T.C. Millî Savunma Bakanlığı (@tcsavunma) February 1, 2022\n\nAkar said the attacks succeeded in targeting wanted “terrorists of every stripe and colour”, and specifically credited Turkey’s air force for its role in the operation.\n\nThe operation targeted “shelters, bunkers, caves, ammunition warehouses, and so-called headquarters and training camps”, according to a statement from the defence ministry on Wednesday.\n\n“Following the operation, in which primarily domestic and national ammunition was used, all of our aircraft returned safely to their bases,” the ministry’s statement read.\n\nThe statement cited the 51st article of the UN Charter, which states that “nothing in the present Charter shall impair the inherent right of individual or collective self-defence if an armed attack occurs against a Member of the United Nations, until the Security Council has taken measures necessary to maintain international peace and security”.\n\nIn a tweet on Wednesday, Turkey’s Communications Director Fahrettin Altun said the international community needs to support Ankara more in its fight against “terror”.\n\n“Our strategy of eradicating terror at its source has made significant contributions to our national unity, territorial integrity, and border security. This strategy, which has been outlined by our president, is also at the service of global peace,” Altun wrote."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:32:54+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:32:54+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251117233800id_/https://www.aljazeera.com/news/2022/2/2/turkish-air-raids-target-kurdish-groups-in-northern-syria-iraq"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251117233800id_/https://www.aljazeera.com/news/2022/2/2/turkish-air-raids-target-kurdish-groups-in-northern-syria-iraq",
   "incident_ids": [
     "airwars-81550"
   ],
@@ -85,10 +109,10 @@
     "https://www.aljazeera.com/news/2022/2/2/turkish-air-raids-target-kurdish-groups-in-northern-syria-iraq"
   ],
   "original_url": "https://www.aljazeera.com/news/2022/2/2/turkish-air-raids-target-kurdish-groups-in-northern-syria-iraq",
-  "page_title": "",
+  "page_title": "Turkish air raids target the PKK in northern Syria and Iraq | PKK News | Al Jazeera Turkish air raids target the PKK in northern Syria and Iraq Turkish air raids target the PKK in northern Syria and Iraq play Show navigation menu play search caret-left caret-right share2 facebook twitter whatsapp copylink aj-logo aj-logo aj-logo facebook twitter youtube instagram-colored-outline rss",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts487-february-1-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:32:54+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7fc8bc51afa5023b63a3cfd6",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.aljazeera.com/news/2022/2/2/turkish-air-raids-target-kurdish-groups-in-northern-syria-iraq",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Turkish Defence Minister Hulusi Akar, centre, said a 'great number of terrorists were neutralised in Operation Winter Eagle [Arif Akdogan/Anadolu Agency]\n\nBy Paul Benjamin Osterlund\n\nShare\n\nSave\n\nIstanbul, Turkey – Turkey’s armed forces have launched air raids targeting the the banned Kurdistan Workers’ Party (PKK) and its affiliates in three areas of northern Syria and Iraq, defence minister Hulusi Akar said.\n\nAnkara said the attacks were launched against positions occupied by the PKK, the People’s Protection Units (YPG) who it views as a PKK affiliate, and other “outlawed groups” in the northern Syrian area of Derik and the northern Iraqi regions of Sinjar and Karacak.\n\nRecommended Stories\n\nlist 1 of 4With flights set to resume, what next for Turkish-Armenian ties?\n\nlist 2 of 4Why is Turkey trying to mediate the Ukraine-Russia crisis?\n\nlist 3 of 4Turkey’s Erdogan warns media against publishing ‘harmful content’\n\nlist 4 of 4Turkey hits PKK targets in Iraq after three of its troops killed\n\n“Our objective is to ensure the security of our 84 million citizens and our borders,” Akar said on Wednesday, declaring the operation, dubbed Operation Winter Eagle, had been carried out successfully.\n\n“A great number of terrorists were neutralised in Operation Winter Eagle. We are following the results closely,” Akar said, without providing specific figures regarding the number of casualties.\n\nIraq’s military condemned the Turkish strikes as a violation of Iraqi air space in a statement on Twitter.\n\nTurkey has fought the PKK for nearly four decades. Turkey, the United States, and the European Union label the group as a “terrorist organisation“.\n\nYPG fighters form the backbone of the Syrian Democratic Forces, a key United States ally against the ISIL (ISIS) group.\n\nEarly on Wednesday, Turkish President Recep Tayyip Erdogan retweeted a post from Turkey’s Defence Ministry featuring a photo of a jet taking off with a caption reading “the dens of the terrorists are caving in on their heads!”\n\nTeröristlerin inleri başlarına yıkılıyor! 🇹🇷 pic.twitter.com/xi0PehdvAI\n— T.C. Millî Savunma Bakanlığı (@tcsavunma) February 1, 2022\n\nTeröristlerin inleri başlarına yıkılıyor! 🇹🇷 pic.twitter.com/xi0PehdvAI\n\n— T.C. Millî Savunma Bakanlığı (@tcsavunma) February 1, 2022\n\nAkar said the attacks succeeded in targeting wanted “terrorists of every stripe and colour”, and specifically credited Turkey’s air force for its role in the operation.\n\nThe operation targeted “shelters, bunkers, caves, ammunition warehouses, and so-called headquarters and training camps”, according to a statement from the defence ministry on Wednesday.\n\n“Following the operation, in which primarily domestic and national ammunition was used, all of our aircraft returned safely to their bases,” the ministry’s statement read.\n\nThe statement cited the 51st article of the UN Charter, which states that “nothing in the present Charter shall impair the inherent right of individual or collective self-defence if an armed attack occurs against a Member of the United Nations, until the Security Council has taken measures necessary to maintain international peace and security”.\n\nIn a tweet on Wednesday, Turkey’s Communications Director Fahrettin Altun said the international community needs to support Ankara more in its fight against “terror”.\n\n“Our strategy of eradicating terror at its source has made significant contributions to our national unity, territorial integrity, and border security. This strategy, which has been outlined by our president, is also at the service of global peace,” Altun wrote.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

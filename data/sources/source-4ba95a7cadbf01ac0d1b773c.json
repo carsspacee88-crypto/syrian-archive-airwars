@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/6sNsf"
+    "https://archive.ph/6sNsf",
+    "https://web.archive.org/web/20251120020129id_/https://aleteia.org/2022/07/25/two-dead-and-twelve-injured-in-attack-on-new-church-in-syria/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Aleteia",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f052eb5cea306fc28225986e04ee231c33feac997aa5c1fb9c66ee77c06c7fa3",
+  "content_variants": [
+    {
+      "bytes": 2581,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:24:56+00:00",
+      "sha256": "f052eb5cea306fc28225986e04ee231c33feac997aa5c1fb9c66ee77c06c7fa3",
+      "source_url": "https://web.archive.org/web/20251120020129id_/https://aleteia.org/2022/07/25/two-dead-and-twelve-injured-in-attack-on-new-church-in-syria/",
+      "text": "2 Dead and 12 injured in attack on new church in Syria\n\nAFP\n\nDes frappes russes à Jirs al-Shughur dans le nord-ouest syrien, dans la province d'Idleb, bordant la province de Hama, le 22 juillet 2022.\n\nDONATION WEEK\n\nIn this season of Gratitude, we are thankful for our mission of hope.\nThis Thanksgiving week, become a part of Aleteia's mission.\nShare hope with the world.\n\nTwo were killed and 12 others were injured in Syria on Sunday, July 24, in a rocket attack during the inauguration of the Orthodox Church of Saint Sophia. The church, called Aya Sofia in Arabic, is located in the town of al-Suqaylabiyah near Hama (central Syria).\n\nThe Syrian Observatory for Human Rights (OSDH) confirmed the attack, saying it was possibly a shelling or a drone attack by rebel factions, positioned in nearby areas.\n\nThe explosion took place 15 meters from the families and the archbishops of Hama, Nicolas Baalbaki, and Homs, Georges Abou Zahem, gathered in front of the building.\n\nThe Greek Orthodox Patriarch of Antioch, John X, condemned the attack saying, \"Our children in Suqaylabiyah are paying the price of their faith with blood.\"\n\nHe continued, \"What happened in Suqaylabiyah is a despicable and reprehensible act of terrorism.\"\n\nViolence and terrorism\n\nThe attack comes two days after Russian bombings killed seven people in the Idleb region, the country's last major jihadist and rebel stronghold. Nearly half of Idleb province, as well as parts of Aleppo, Hama and Latakia provinces, are controlled by Hayat Tahrir al-Sham, the former Syrian branch of al-Qaeda.\n\nThis area is also home to rebel groups, supported to varying degrees by Turkey, and other jihadist associations, such as Houras al-Din. Fides news agency reports that prior to the Syrian war, about 20,000 Orthodox Christians lived in Suqaylabiyah.\n\nThe new Saint Sophia Church was built with funding from the Suqaylabiyah municipal authorities, after the Turkish government turned the iconic Hagia Sophia Church in Istanbul into a mosque. It is a miniature replica of Hagia Sophia in Constantinople. The new church was built with the agreement of the Syrian government and the support of Russian political and military sectors.\n\nGet Aleteia delivered to your inbox. It’s free!\n\nArticles like these are sponsored free for every Catholic through the support of generous readers just like you. Please make a tax-deductible donation today!\n\nHelp us continue to bring the Gospel to people everywhere through uplifting Catholic news, stories, spirituality, and more.\n\nGet Aleteia delivered to your inbox. It’s free!"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:24:55+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:24:56+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251120020129id_/https://aleteia.org/2022/07/25/two-dead-and-twelve-injured-in-attack-on-new-church-in-syria/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251120020129id_/https://aleteia.org/2022/07/25/two-dead-and-twelve-injured-in-attack-on-new-church-in-syria/",
   "incident_ids": [
     "airwars-84211"
   ],
@@ -85,10 +109,10 @@
     "https://aleteia.org/2022/07/25/two-dead-and-twelve-injured-in-attack-on-new-church-in-syria/"
   ],
   "original_url": "https://aleteia.org/2022/07/25/two-dead-and-twelve-injured-in-attack-on-new-church-in-syria/",
-  "page_title": "",
+  "page_title": "2 Dead and 12 injured in attack on new church in Syria 2 Dead and 12 injured in attack on new church in Syria 2 Dead and 12 injured in attack on new church in Syria Open menu Close Menu logo-blue-header logo-white-header logo-blue-print-header logo-blue-print-header separateur Aleteia logo",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts532-july-24-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:24:56+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4ba95a7cadbf01ac0d1b773c",
   "source_type": "other_web_page",
   "stable_id_basis": "https://aleteia.org/2022/07/25/two-dead-and-twelve-injured-in-attack-on-new-church-in-syria/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "2 Dead and 12 injured in attack on new church in Syria\n\nAFP\n\nDes frappes russes à Jirs al-Shughur dans le nord-ouest syrien, dans la province d'Idleb, bordant la province de Hama, le 22 juillet 2022.\n\nDONATION WEEK\n\nIn this season of Gratitude, we are thankful for our mission of hope.\nThis Thanksgiving week, become a part of Aleteia's mission.\nShare hope with the world.\n\nTwo were killed and 12 others were injured in Syria on Sunday, July 24, in a rocket attack during the inauguration of the Orthodox Church of Saint Sophia. The church, called Aya Sofia in Arabic, is located in the town of al-Suqaylabiyah near Hama (central Syria).\n\nThe Syrian Observatory for Human Rights (OSDH) confirmed the attack, saying it was possibly a shelling or a drone attack by rebel factions, positioned in nearby areas.\n\nThe explosion took place 15 meters from the families and the archbishops of Hama, Nicolas Baalbaki, and Homs, Georges Abou Zahem, gathered in front of the building.\n\nThe Greek Orthodox Patriarch of Antioch, John X, condemned the attack saying, \"Our children in Suqaylabiyah are paying the price of their faith with blood.\"\n\nHe continued, \"What happened in Suqaylabiyah is a despicable and reprehensible act of terrorism.\"\n\nViolence and terrorism\n\nThe attack comes two days after Russian bombings killed seven people in the Idleb region, the country's last major jihadist and rebel stronghold. Nearly half of Idleb province, as well as parts of Aleppo, Hama and Latakia provinces, are controlled by Hayat Tahrir al-Sham, the former Syrian branch of al-Qaeda.\n\nThis area is also home to rebel groups, supported to varying degrees by Turkey, and other jihadist associations, such as Houras al-Din. Fides news agency reports that prior to the Syrian war, about 20,000 Orthodox Christians lived in Suqaylabiyah.\n\nThe new Saint Sophia Church was built with funding from the Suqaylabiyah municipal authorities, after the Turkish government turned the iconic Hagia Sophia Church in Istanbul into a mosque. It is a miniature replica of Hagia Sophia in Constantinople. The new church was built with the agreement of the Syrian government and the support of Russian political and military sectors.\n\nGet Aleteia delivered to your inbox. It’s free!\n\nArticles like these are sponsored free for every Catholic through the support of generous readers just like you. Please make a tax-deductible donation today!\n\nHelp us continue to bring the Gospel to people everywhere through uplifting Catholic news, stories, spirituality, and more.\n\nGet Aleteia delivered to your inbox. It’s free!",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

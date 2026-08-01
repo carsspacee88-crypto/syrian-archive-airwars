@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/l2d9G"
+    "https://archive.is/l2d9G",
+    "https://web.archive.org/web/20220819172653id_/https://twitter.com/jabalybaraa/status/1560556306955546627"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@jabalybaraa",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "53996a61ae317f55c89c8b3976afcd2dee43e0cc221d0f9f636a6ea5ea4c843b",
+  "content_variants": [
+    {
+      "bytes": 1866,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:28:57+00:00",
+      "sha256": "53996a61ae317f55c89c8b3976afcd2dee43e0cc221d0f9f636a6ea5ea4c843b",
+      "source_url": "https://web.archive.org/web/20220819172653id_/https://twitter.com/jabalybaraa/status/1560556306955546627",
+      "text": "Conversationبهاء الحلبي@jabalybaraaكتب المسعف الميداني في مدينة الباب\nعمو زكاتك صيحلي لأبوي كنا سوا انا وهو وقت نزل الصاروخ\nيالله عمو رح صحلو شوي وبجي لعندك\nلحظات وأغمي على الطفل مصطفى نتيجة إصابته الشديدة التي تعرّض لها\nلم أستطع إخباره بأنّ أباه قد انتقل إلى بارئه وأنّ حالته لا تقلّ خطورةً عن أبيه\n#مجزرة_الباب9:16 AM · Aug 19, 2022·Twitter for Android88 Retweets13 Quote Tweets293 Likesمحمد أحمد ولد لصهار@WldLshar·7hReplying to @jabalybaraaلاحول ولاقوة إلاباالله العلي العظيممصطفى حميدي@lostlive7·7hReplying to @jabalybaraaقسما بالله ماضل في دين لا بالقادات ولا بتركيا\nلك أتفييي على أحسن قائد بالجيش الوطني2أحمد alahwazi@AlahwaziAhmad·7hReplying to @jabalybaraaحسبنا الله ونعم الوكيلmahmad@mahmad11536524·7hReplying to @jabalybaraaحسبي الله ونعم الوكيلفاطمة العلي@ambondage·6hReplying to @jabalybaraaوالله شي ببكي الحجرأحمد عبد الكريم نجيب@DrAhmedNajeeb·5hReplying to @jabalybaraaاللهم فرجاً قريباًMohammad Ahmed@Mohamma41458269·5hReplying to @jabalybaraaلااله إلا الله لا حولا ولا قوة الا بالله حبسي الله ونعم الوكيلdeniz@denizbozo1·4hReplying to @jabalybaraa#Katil_Esed\n#Suriyeأشراقة أمل@BeqkCOduZlmFkPk·4hReplying to @jabalybaraaحسبناالله ونعم الوكيلNasr A@NasrA33399856·4hReplying to @jabalybaraaحسبنا الله ونعم الوكيل. رحمة الله عليهم جميعا وشفى الله مصابهم"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:28:56+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:28:57+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220819172653id_/https://twitter.com/jabalybaraa/status/1560556306955546627"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220819172653id_/https://twitter.com/jabalybaraa/status/1560556306955546627",
   "incident_ids": [
     "airwars-84682"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/jabalybaraa/status/1560556306955546627"
   ],
   "original_url": "https://twitter.com/jabalybaraa/status/1560556306955546627",
-  "page_title": "",
+  "page_title": "بهاء الحلبي on Twitter بهاء الحلبي on Twitter: \"كتب المسعف الميداني في مدينة الباب\nعمو زكاتك صيحلي لأبوي كنا سوا انا وهو وقت نزل الصاروخ\nيالله عمو رح صحلو شوي وبجي لعندك\nلحظات وأغمي على الطفل مصطفى نتيجة إصابته الشديدة التي تعرّض لها\nلم أستطع إخباره بأنّ أباه قد انتقل إلى بارئه وأنّ حالته لا تقلّ خطورةً عن أبيه\n#مجزرة_الباب https://t.co/Gm0wciuuir\" / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys149-august-19-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:28:57+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-62f25b04169b5e93834a5b70",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/jabalybaraa/status/1560556306955546627",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Conversationبهاء الحلبي@jabalybaraaكتب المسعف الميداني في مدينة الباب\nعمو زكاتك صيحلي لأبوي كنا سوا انا وهو وقت نزل الصاروخ\nيالله عمو رح صحلو شوي وبجي لعندك\nلحظات وأغمي على الطفل مصطفى نتيجة إصابته الشديدة التي تعرّض لها\nلم أستطع إخباره بأنّ أباه قد انتقل إلى بارئه وأنّ حالته لا تقلّ خطورةً عن أبيه\n#مجزرة_الباب9:16 AM · Aug 19, 2022·Twitter for Android88 Retweets13 Quote Tweets293 Likesمحمد أحمد ولد لصهار@WldLshar·7hReplying to @jabalybaraaلاحول ولاقوة إلاباالله العلي العظيممصطفى حميدي@lostlive7·7hReplying to @jabalybaraaقسما بالله ماضل في دين لا بالقادات ولا بتركيا\nلك أتفييي على أحسن قائد بالجيش الوطني2أحمد alahwazi@AlahwaziAhmad·7hReplying to @jabalybaraaحسبنا الله ونعم الوكيلmahmad@mahmad11536524·7hReplying to @jabalybaraaحسبي الله ونعم الوكيلفاطمة العلي@ambondage·6hReplying to @jabalybaraaوالله شي ببكي الحجرأحمد عبد الكريم نجيب@DrAhmedNajeeb·5hReplying to @jabalybaraaاللهم فرجاً قريباًMohammad Ahmed@Mohamma41458269·5hReplying to @jabalybaraaلااله إلا الله لا حولا ولا قوة الا بالله حبسي الله ونعم الوكيلdeniz@denizbozo1·4hReplying to @jabalybaraa#Katil_Esed\n#Suriyeأشراقة أمل@BeqkCOduZlmFkPk·4hReplying to @jabalybaraaحسبناالله ونعم الوكيلNasr A@NasrA33399856·4hReplying to @jabalybaraaحسبنا الله ونعم الوكيل. رحمة الله عليهم جميعا وشفى الله مصابهم",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

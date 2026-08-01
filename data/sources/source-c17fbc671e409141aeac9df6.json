@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/HihrE"
+    "https://archive.ph/HihrE",
+    "https://web.archive.org/web/20250927001934id_/https://hawarnews.com/ar/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D9%85%D8%AA%D8%A3%D8%AB%D8%B1%D8%A7%D9%8B-%D8%A8%D8%AC%D8%B1%D8%A7%D8%AD%D9%87-%D9%81%D9%8A-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%B9%D8%A7%D9%85%D9%88%D8%AF%D8%A7"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Hawar news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2f9ae4b6f7aaee54f5ccd644038c236e769d8f2393a279aa34f3f1d77cc485b1",
+  "content_variants": [
+    {
+      "bytes": 1644,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:41:04+00:00",
+      "sha256": "2f9ae4b6f7aaee54f5ccd644038c236e769d8f2393a279aa34f3f1d77cc485b1",
+      "source_url": "https://web.archive.org/web/20250927001934id_/https://hawarnews.com/ar/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D9%85%D8%AA%D8%A3%D8%AB%D8%B1%D8%A7%D9%8B-%D8%A8%D8%AC%D8%B1%D8%A7%D8%AD%D9%87-%D9%81%D9%8A-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%B9%D8%A7%D9%85%D9%88%D8%AF%D8%A7",
+      "text": "السبت 27 يلول, 2025\n\nشبيبة حلب تؤكد التزامها بفكر وفلسفة القائد\n\nقسد تتصدى لهجوم خلايا داعش بريف دير الزور\n\nمجلس الأمن يفشل في تمرير مشروع قرار بتمديد تأجيل إعادة فرض العقوبات على إيران\n\nحكم فرنسي بسجن ثلاث عائدات من سوريا للانتماء الى داعش\n\nأطباء بلا حدود تعلن تعليق عملياتها في مدينة غزة بسبب الهجوم الإسرائيلي\n\nالإفراج عن الصحافي عامر مطر بعد اعتقال أثار جدلاً وانتقادات\n\nالقيادة المركزية الأميركية تحث الدول على إعادة مواطنيها من مخيمات شمال شرق سوريا\n\nرويترز: إيران تقف وراء دعوة حزب الله لفتح صفحة جديدة مع السعودية\n\nنتنياهو يتمسك بمواصلة الحرب وترامب يتحدث عن اتفاق قريب في غزة\n\nالعثور على مقبرة جماعية في ريف دمشق\n\nفقدان 6 أشخاص لحياتهم في حادث سير على طريق الرقة _ دير الزور\n\nتعثر المحادثات الإسرائيلية مع الحكومة الانتقالية في سوريا\n\nنساء السويداء يدخلن ميدان التدريب العسكري\n\nتحديد موعد امتحان السبر العلمي في جامعات شمال وشرق سوريا\n\nاللغة/Language\n\nعربي\nKURDÎ\nTÜRKÇE\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nTÜRKÇE\n\nENGLISH\n\nSPANISH\n\nRUSSIAN"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:41:02+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:41:04+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250927001934id_/https://hawarnews.com/ar/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D9%85%D8%AA%D8%A3%D8%AB%D8%B1%D8%A7%D9%8B-%D8%A8%D8%AC%D8%B1%D8%A7%D8%AD%D9%87-%D9%81%D9%8A-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%B9%D8%A7%D9%85%D9%88%D8%AF%D8%A7"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250927001934id_/https://hawarnews.com/ar/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D9%85%D8%AA%D8%A3%D8%AB%D8%B1%D8%A7%D9%8B-%D8%A8%D8%AC%D8%B1%D8%A7%D8%AD%D9%87-%D9%81%D9%8A-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%B9%D8%A7%D9%85%D9%88%D8%AF%D8%A7",
   "incident_ids": [
     "airwars-116900"
   ],
@@ -85,10 +109,10 @@
     "https://hawarnews.com/ar/استشهاد-مواطن-متأثراً-بجراحه-في-استهداف-مدينة-عامودا"
   ],
   "original_url": "https://hawarnews.com/ar/استشهاد-مواطن-متأثراً-بجراحه-في-استهداف-مدينة-عامودا",
-  "page_title": "",
+  "page_title": "استشهاد مواطن متأثراً بجراحه في استهداف مدينة عامودا -ANHA استشهاد مواطن متأثراً بجراحه في استهداف مدينة عامودا استشهاد مواطن متأثراً بجراحه في استهداف مدينة عامودا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts708-august-29-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:41:04+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-c17fbc671e409141aeac9df6",
   "source_type": "news_article",
   "stable_id_basis": "https://hawarnews.com/ar/استشهاد-مواطن-متأثراً-بجراحه-في-استهداف-مدينة-عامودا",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "السبت 27 يلول, 2025\n\nشبيبة حلب تؤكد التزامها بفكر وفلسفة القائد\n\nقسد تتصدى لهجوم خلايا داعش بريف دير الزور\n\nمجلس الأمن يفشل في تمرير مشروع قرار بتمديد تأجيل إعادة فرض العقوبات على إيران\n\nحكم فرنسي بسجن ثلاث عائدات من سوريا للانتماء الى داعش\n\nأطباء بلا حدود تعلن تعليق عملياتها في مدينة غزة بسبب الهجوم الإسرائيلي\n\nالإفراج عن الصحافي عامر مطر بعد اعتقال أثار جدلاً وانتقادات\n\nالقيادة المركزية الأميركية تحث الدول على إعادة مواطنيها من مخيمات شمال شرق سوريا\n\nرويترز: إيران تقف وراء دعوة حزب الله لفتح صفحة جديدة مع السعودية\n\nنتنياهو يتمسك بمواصلة الحرب وترامب يتحدث عن اتفاق قريب في غزة\n\nالعثور على مقبرة جماعية في ريف دمشق\n\nفقدان 6 أشخاص لحياتهم في حادث سير على طريق الرقة _ دير الزور\n\nتعثر المحادثات الإسرائيلية مع الحكومة الانتقالية في سوريا\n\nنساء السويداء يدخلن ميدان التدريب العسكري\n\nتحديد موعد امتحان السبر العلمي في جامعات شمال وشرق سوريا\n\nاللغة/Language\n\nعربي\nKURDÎ\nTÜRKÇE\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nTÜRKÇE\n\nENGLISH\n\nSPANISH\n\nRUSSIAN",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
