@@ -3,7 +3,13 @@ name: نشر الأرشيف على GitHub Pages
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - ".github/v4-request.json"
   workflow_dispatch:
+  workflow_run:
+    workflows: ["جمع بيانات Airwars"]
+    types: [completed]
+    branches: [main]
 
 permissions:
   actions: read
@@ -17,7 +23,12 @@ concurrency:
 
 jobs:
   deploy:
-    if: "${{ github.event_name == 'workflow_dispatch' || !startsWith(github.event.head_commit.message, 'data: checkpoint V4') }}"
+    if: >-
+      ${{
+        github.event_name == 'workflow_dispatch' ||
+        (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') ||
+        (github.event_name == 'push' && !startsWith(github.event.head_commit.message, 'data: checkpoint V4'))
+      }}
     runs-on: ubuntu-latest
     timeout-minutes: 45
     environment:
