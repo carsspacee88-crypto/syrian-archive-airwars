@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/uxRZE"
+    "https://archive.md/uxRZE",
+    "https://web.archive.org/web/20240524213604id_/https://www.facebook.com/permalink.php?story_fbid=303139788488501&id=100063774474460"
   ],
   "attempt_history": [
     {
@@ -67,12 +68,35 @@
   "author": "Mari Al Boukamal",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0abbaad95962ea7b0930c957826b9f681bc9fdaa304a9dfa23183fc0818eabb0",
+  "content_variants": [
+    {
+      "bytes": 173,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:21:58+00:00",
+      "sha256": "0abbaad95962ea7b0930c957826b9f681bc9fdaa304a9dfa23183fc0818eabb0",
+      "source_url": "https://web.archive.org/web/20240524213604id_/https://www.facebook.com/permalink.php?story_fbid=303139788488501&id=100063774474460",
+      "text": "الطيران الحربي الروسي يستهدف بعدة غارات جوية بالصواريخ الفراغية محيط بلدة \"البارة\" في ريف إدلب."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:21:58+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:21:58+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524213604id_/https://www.facebook.com/permalink.php?story_fbid=303139788488501&id=100063774474460"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524213604id_/https://www.facebook.com/permalink.php?story_fbid=303139788488501&id=100063774474460",
   "incident_ids": [
     "airwars-80625"
   ],
@@ -88,10 +112,10 @@
     "https://www.facebook.com/permalink.php?story_fbid=303139788488501&id=100063774474460"
   ],
   "original_url": "https://www.facebook.com/permalink.php?story_fbid=303139788488501&id=100063774474460",
-  "page_title": "",
+  "page_title": "ماري البوكمـــال - Mari Albukamal ماري البوكمـــال - Mari Albukamal الطيران الحربي الروسي... - ماري البوكمـــال - Mari Albukamal",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4677-december-6-2021/",
@@ -111,15 +135,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:21:58+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-84cc4a525a96139fa8598a1a",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=303139788488501&id=100063774474460",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "الطيران الحربي الروسي يستهدف بعدة غارات جوية بالصواريخ الفراغية محيط بلدة \"البارة\" في ريف إدلب.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

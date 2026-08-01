@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20260512024420id_/https://edition.cnn.com/2022/10/06/politics/us-isis-raid-syria/index.html"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "CNN",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "13baf25a69d2ac9789c3e79bce9346662cd5e5109007e817362b3ba38741455a",
+  "content_variants": [
+    {
+      "bytes": 5034,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:32:50+00:00",
+      "sha256": "13baf25a69d2ac9789c3e79bce9346662cd5e5109007e817362b3ba38741455a",
+      "source_url": "https://web.archive.org/web/20260512024420id_/https://edition.cnn.com/2022/10/06/politics/us-isis-raid-syria/index.html",
+      "text": "STAFF/AFP/Getty Images\n\nUS forces killed two top ISIS leaders in an airstrike in northern Syria on Thursday, according to two defense officials, one day after a US raid killed an ISIS smuggler.\n\nThe strike killed Abu ‘Ala, one of the top five ISIS leaders and the deputy leader of ISIS in Syria, as well as Abu Mu’Ad al-Qahtani, an ISIS official responsible for prisoner affairs, the officials said. The strike was conducted at 6:23pm local time in Syria.\n\nNo US forces were injured or killed during the operation, and there was no damage or loss to US equipment because of the strike.\n\nUS Central Command forces in the region spent more than 1,000 hours collecting intelligence on the targets to limit the risk of collateral damage, the officials said, and according to an initial assessment, no civilians were killed or wounded, the officials said.\n\nThe airstrike comes after the US military conducted a separate raid in northeast Syria that killed an ISIS weapons smuggler on Wednesday night local time, the Pentagon announced in a statement Thursday.\n\nThe US has continued to go after ISIS leadership in Syria, even as the terror group has been reduced to a fraction of its former self. The back-to-back raid and airstrike within such a short period of time represent an increase in the intensity of operations against the terror group and underscores the US focus on ensuring ISIS doesn’t increase in strength.\n\n“Last night, U.S. Central Command forces conducted a helicopter raid in northeast Syria, near the village of Qamishli, targeting Rakkan Wahid al-Shammri, an ISIS official known to facilitate the smuggling of weapons and fighters to support ISIS operations. During the operation, the targeted individual was killed and one of his associates was wounded,” the statement on the raid from US Central Command said.\n\nCENTCOM added that no US forces or civilians were killed or injured in that operation.\n\nThree defense officials told CNN the weapons the target smuggled were used to support ISIS operations.\n\nOne of the defense officials said the raid was a unilateral US operation and didn’t involve the coalition to defeat ISIS. The operation involved US special operations forces using helicopters.\n\nThe deconfliction line was not used to notify Russia in advance of the operation, one official said, both because of the location of the raid and because of its sensitivity.\n\n“USCENTCOM is committed to our allies and partners in the enduring defeat of ISIS,” CENTCOM spokesman Col. Joe Buccino said in a statement.\n\nEarlier on Thursday the Pentagon said a senior ISIS official had been targeted but declined to give any more details.\n\nSyrian state TV said on Telegram that a US operation in northeast Syria killed one person and accused the US of having “kidnapped” several people.\n\nThe US has gone after several senior ISIS officials this year in Syria. In February, the US conducted a raid in northwest Syria in which ISIS leader Abu Ibrahim al-Hashimi al-Qurayshi was killed after he blew himself up. It was the largest US raid in Syria since the 2019 operation that killed the previous ISIS leader, Abu Bakr al-Baghdadi.\n\nQurayshi was named the terrorist group’s leader in November 2019 at the same time ISIS confirmed that Baghdadi had been killed.\n\nThe US knew his location for several months before the raid, officials said. He was holed up in the third floor of a building with his family, running the terror group’s operations through a network of couriers. His deputy, who lived on the second floor, was also killed in the raid.\n\nSince March, the leader of ISIS has been Abu al-Hasan al-Hashimi al-Qurashi, the group announced, but it is thought to be an assumed name.\n\nSeveral months after the Qurayshi raid, the US-led combined joint task force fighting ISIS detained another senior ISIS leader in Syria, Hani Ahmed al-Kurdi, known as Salim. And in July, the US carried out a drone strike in northwest Syria that killed Maher al-Agal, the leader of ISIS in Syria.\n\nThe operations in Syria come even as the Biden administration has tried to shift the military away from the Middle East – and the wars in Iraq and Afghanistan – and to what the US considers the challenges of the future in an increasingly assertive China and a Russia willing to use force against its neighbors.\n\nAfter the defeat of the self-proclaimed ISIS caliphate in 2019, the group has continually sought to regroup, trying to challenge the US-led coalition to defeat ISIS. Those efforts have included multiple attempts to attack the al-Hol camp in Syria which holds around 60,000 people. ISIS views the displaced persons camp as a recruiting ground.\n\nLast month, ISIS attempted to carry out a suicide attack against the camp, rigging two vehicles with explosives, according to US Central Command. One vehicle exploded prematurely, while the other was intercepted by the US-partnered Syrian Democratic Forces.\n\nThis story has been updated with additional reporting.\n\nCNN’s Mostafa Salem contributed reporting."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:32:48+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:32:50+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260512024420id_/https://edition.cnn.com/2022/10/06/politics/us-isis-raid-syria/index.html"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260512024420id_/https://edition.cnn.com/2022/10/06/politics/us-isis-raid-syria/index.html",
   "incident_ids": [
     "airwars-85098"
   ],
@@ -55,10 +80,10 @@
     "https://edition.cnn.com/2022/10/06/politics/us-isis-raid-syria/index.html"
   ],
   "original_url": "https://edition.cnn.com/2022/10/06/politics/us-isis-raid-syria/index.html",
-  "page_title": "",
+  "page_title": "Syria: US kills two top ISIS leaders in airstrike | CNN Politics US kills two top ISIS leaders in airstrike in Syria | CNN Politics US kills two top ISIS leaders in airstrike in Syria | CNN Politics Close icon",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1984-october-6-2022/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:32:50+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ef802f5fce2f79f3c586380d",
   "source_type": "other_web_page",
   "stable_id_basis": "https://edition.cnn.com/2022/10/06/politics/us-isis-raid-syria/index.html",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "STAFF/AFP/Getty Images\n\nUS forces killed two top ISIS leaders in an airstrike in northern Syria on Thursday, according to two defense officials, one day after a US raid killed an ISIS smuggler.\n\nThe strike killed Abu ‘Ala, one of the top five ISIS leaders and the deputy leader of ISIS in Syria, as well as Abu Mu’Ad al-Qahtani, an ISIS official responsible for prisoner affairs, the officials said. The strike was conducted at 6:23pm local time in Syria.\n\nNo US forces were injured or killed during the operation, and there was no damage or loss to US equipment because of the strike.\n\nUS Central Command forces in the region spent more than 1,000 hours collecting intelligence on the targets to limit the risk of collateral damage, the officials said, and according to an initial assessment, no civilians were killed or wounded, the officials said.\n\nThe airstrike comes after the US military conducted a separate raid in northeast Syria that killed an ISIS weapons smuggler on Wednesday night local time, the Pentagon announced in a statement Thursday.\n\nThe US has continued to go after ISIS leadership in Syria, even as the terror group has been reduced to a fraction of its former self. The back-to-back raid and airstrike within such a short period of time represent an increase in the intensity of operations against the terror group and underscores the US focus on ensuring ISIS doesn’t increase in strength.\n\n“Last night, U.S. Central Command forces conducted a helicopter raid in northeast Syria, near the village of Qamishli, targeting Rakkan Wahid al-Shammri, an ISIS official known to facilitate the smuggling of weapons and fighters to support ISIS operations. During the operation, the targeted individual was killed and one of his associates was wounded,” the statement on the raid from US Central Command said.\n\nCENTCOM added that no US forces or civilians were killed or injured in that operation.\n\nThree defense officials told CNN the weapons the target smuggled were used to support ISIS operations.\n\nOne of the defense officials said the raid was a unilateral US operation and didn’t involve the coalition to defeat ISIS. The operation involved US special operations forces using helicopters.\n\nThe deconfliction line was not used to notify Russia in advance of the operation, one official said, both because of the location of the raid and because of its sensitivity.\n\n“USCENTCOM is committed to our allies and partners in the enduring defeat of ISIS,” CENTCOM spokesman Col. Joe Buccino said in a statement.\n\nEarlier on Thursday the Pentagon said a senior ISIS official had been targeted but declined to give any more details.\n\nSyrian state TV said on Telegram that a US operation in northeast Syria killed one person and accused the US of having “kidnapped” several people.\n\nThe US has gone after several senior ISIS officials this year in Syria. In February, the US conducted a raid in northwest Syria in which ISIS leader Abu Ibrahim al-Hashimi al-Qurayshi was killed after he blew himself up. It was the largest US raid in Syria since the 2019 operation that killed the previous ISIS leader, Abu Bakr al-Baghdadi.\n\nQurayshi was named the terrorist group’s leader in November 2019 at the same time ISIS confirmed that Baghdadi had been killed.\n\nThe US knew his location for several months before the raid, officials said. He was holed up in the third floor of a building with his family, running the terror group’s operations through a network of couriers. His deputy, who lived on the second floor, was also killed in the raid.\n\nSince March, the leader of ISIS has been Abu al-Hasan al-Hashimi al-Qurashi, the group announced, but it is thought to be an assumed name.\n\nSeveral months after the Qurayshi raid, the US-led combined joint task force fighting ISIS detained another senior ISIS leader in Syria, Hani Ahmed al-Kurdi, known as Salim. And in July, the US carried out a drone strike in northwest Syria that killed Maher al-Agal, the leader of ISIS in Syria.\n\nThe operations in Syria come even as the Biden administration has tried to shift the military away from the Middle East – and the wars in Iraq and Afghanistan – and to what the US considers the challenges of the future in an increasingly assertive China and a Russia willing to use force against its neighbors.\n\nAfter the defeat of the self-proclaimed ISIS caliphate in 2019, the group has continually sought to regroup, trying to challenge the US-led coalition to defeat ISIS. Those efforts have included multiple attempts to attack the al-Hol camp in Syria which holds around 60,000 people. ISIS views the displaced persons camp as a recruiting ground.\n\nLast month, ISIS attempted to carry out a suicide attack against the camp, rigging two vehicles with explosives, according to US Central Command. One vehicle exploded prematurely, while the other was intercepted by the US-partnered Syrian Democratic Forces.\n\nThis story has been updated with additional reporting.\n\nCNN’s Mostafa Salem contributed reporting.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/kRcLg"
+    "https://archive.is/kRcLg",
+    "https://web.archive.org/web/20240527063008id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-21-02-2022.html?fbclid=IwAR18YPn-zg3YTGAXdB8VlFxMFUoLMOxjfrlyQTTzFHrJd48jry7NM2onSsM"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ac61c4a3e68d9f0bff381ad67d544ad0817240e79f2182b08603cd14bd499ac9",
+  "content_variants": [
+    {
+      "bytes": 1872,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:28:58+00:00",
+      "sha256": "ac61c4a3e68d9f0bff381ad67d544ad0817240e79f2182b08603cd14bd499ac9",
+      "source_url": "https://web.archive.org/web/20240527063008id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-21-02-2022.html?fbclid=IwAR18YPn-zg3YTGAXdB8VlFxMFUoLMOxjfrlyQTTzFHrJd48jry7NM2onSsM",
+      "text": "حصاد الأحداث الميدانية ليوم الإثنين 21-02-2022\n\nحصاد الأحداث الميدانية ليوم الإثنين 21-02-2022\n\nإدلب::أصيب ثلاثة أطفال بجروح جراء انفجار ذخائر غير منفجرة من مخلفات قصف سابق لقوات الأسد وروسيا في مدينة جسر الشغور بالريف الغربي، كما أصيبت طفلة بطريقة مماثلة في محيط بلدة دركوش.\n\nحماة::قُتل خمسة عناصر من \"لواء الباقر\" التابع للميليشيات الإيرانية جراء انفجار لغم أرضي في بادية آثريا قرب المثلث الواصل بين محافظتي حماة والرقة.\n\nشنت قوات الأسد حملة مداهمات في بلدة قمحانة بالريف الشمالي، واعتقلت 11 شخصاً بتهم أمنية وجنائية.\n\nدرعا::أطلق مجهولون النار على القيادي السابق في الجيش الحر \"إسماعيل الدرعان\" في بلدة المليحة الشرقية بالريف الشرقي، ما أدى لمقتله.\n\nالحسكة::أصيب شخص جراء هجوم مسلح استهدف صهريجاً لنقل النفط تابعاً لـ \"قسد\" على طريق الهول بالريف الشرقي.\n\nالرقة::قُتل عنصرين من قوات الأسد جراء انفجار عبوة ناسفة بسيارة عسكرية قرب حقل الزملة بالريف الجنوبي.\n\nقُتل عنصر من \"قسد\" بقصف للجيشين التركي والوطني استهدف محيط مدينة عين عيسى بالريف الشمالي.\n\nشن الطيران الحربي الروسي عدة غارات جوية على مواقع لتنظيم الدولة في بادية الرقة الجنوبية والشرقية."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:28:57+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:28:58+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240527063008id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-21-02-2022.html?fbclid=IwAR18YPn-zg3YTGAXdB8VlFxMFUoLMOxjfrlyQTTzFHrJd48jry7NM2onSsM"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240527063008id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-21-02-2022.html?fbclid=IwAR18YPn-zg3YTGAXdB8VlFxMFUoLMOxjfrlyQTTzFHrJd48jry7NM2onSsM",
   "incident_ids": [
     "airwars-82130",
     "airwars-82131"
@@ -87,10 +111,10 @@
     "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-21-02-2022.html?fbclid=IwAR18YPn-zg3YTGAXdB8VlFxMFUoLMOxjfrlyQTTzFHrJd48jry7NM2onSsM"
   ],
   "original_url": "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-21-02-2022.html?fbclid=IwAR18YPn-zg3YTGAXdB8VlFxMFUoLMOxjfrlyQTTzFHrJd48jry7NM2onSsM",
-  "page_title": "",
+  "page_title": "حصاد الأحداث الميدانية ليوم الإثنين 21-02-2022 | شبكة شام الإخبارية حصاد الأحداث الميدانية ليوم الإثنين 21-02-2022 حصاد الأحداث الميدانية ليوم الإثنين 21-02-2022",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4692-february-21-2022/",
@@ -118,15 +142,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:28:58+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-c58faac84ade4bf35e12bb28",
   "source_type": "news_article",
   "stable_id_basis": "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%AB%D9%86%D9%8A%D9%86-21-02-2022.html?fbclid=IwAR18YPn-zg3YTGAXdB8VlFxMFUoLMOxjfrlyQTTzFHrJd48jry7NM2onSsM",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "حصاد الأحداث الميدانية ليوم الإثنين 21-02-2022\n\nحصاد الأحداث الميدانية ليوم الإثنين 21-02-2022\n\nإدلب::أصيب ثلاثة أطفال بجروح جراء انفجار ذخائر غير منفجرة من مخلفات قصف سابق لقوات الأسد وروسيا في مدينة جسر الشغور بالريف الغربي، كما أصيبت طفلة بطريقة مماثلة في محيط بلدة دركوش.\n\nحماة::قُتل خمسة عناصر من \"لواء الباقر\" التابع للميليشيات الإيرانية جراء انفجار لغم أرضي في بادية آثريا قرب المثلث الواصل بين محافظتي حماة والرقة.\n\nشنت قوات الأسد حملة مداهمات في بلدة قمحانة بالريف الشمالي، واعتقلت 11 شخصاً بتهم أمنية وجنائية.\n\nدرعا::أطلق مجهولون النار على القيادي السابق في الجيش الحر \"إسماعيل الدرعان\" في بلدة المليحة الشرقية بالريف الشرقي، ما أدى لمقتله.\n\nالحسكة::أصيب شخص جراء هجوم مسلح استهدف صهريجاً لنقل النفط تابعاً لـ \"قسد\" على طريق الهول بالريف الشرقي.\n\nالرقة::قُتل عنصرين من قوات الأسد جراء انفجار عبوة ناسفة بسيارة عسكرية قرب حقل الزملة بالريف الجنوبي.\n\nقُتل عنصر من \"قسد\" بقصف للجيشين التركي والوطني استهدف محيط مدينة عين عيسى بالريف الشمالي.\n\nشن الطيران الحربي الروسي عدة غارات جوية على مواقع لتنظيم الدولة في بادية الرقة الجنوبية والشرقية.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

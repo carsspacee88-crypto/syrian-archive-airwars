@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/BPige"
+    "https://archive.is/BPige",
+    "https://web.archive.org/web/20220222194211id_/https://syrianpc.com/archives/333375"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian pc",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "63856171a7a17f20978bf988f770fd269001ebadd68ca1e06868f86df11ea15f",
+  "content_variants": [
+    {
+      "bytes": 1855,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:15:01+00:00",
+      "sha256": "63856171a7a17f20978bf988f770fd269001ebadd68ca1e06868f86df11ea15f",
+      "source_url": "https://web.archive.org/web/20220222194211id_/https://syrianpc.com/archives/333375",
+      "text": "إصابة طفلين جرّاء انفجار ذخائر من مخلّفات القصف في ريف ادلب\n\nأصيب طفلان بجروح متفاوتة جرّاء انفجار ذخائر غير منفجرة من مخلفات القصف في ريف ادلب الغربي.\n\nأفاد الدفاع المدني السوري عبر حسابه الرسمي في موقع فيسبوك اليوم الثلاثاء، بإصابة طفلين بجروح خطرة إثر انفجار ذخائر غير منفجرة من مخلفات قصف سابق لقوات النظام وحليفته روسيا في قرية عدوان غربي إدلب.\n\nأضاف الدفاع المدني أنّ هذه تعتبر ثالث حادثة من نوعها خلال 24 ساعة الماضية، بعد أن أصيب 4 أطفال أمس الاثنين، بانفجارين مماثلين في جسر الشغور ودركوش غربي إدلب.\n\nالجدير ذكره أنّ مخلفات قصف قوات النظام وحليفه الروسي تنتشر في المناطق الزراعية وبين منازل المدنيين في شمال غربي سوريا بشكل كبير، وتشكل تهديداً خطيراً على حياة المدنيين.\n\nالمركز الصحفي السوري\n\nعين على الواقع\n\nالخبر السابق\n\nالإعلان عن إيقاف تسجيل الأجانب في كل من الفاتح وأسنيورت باسطنبول\n\nمقتل طفلين شقيقين بانفجار جسم من مخلفات الحرب بريف دمشق\n\nبعد أن دمرها بصواريخه النظام يطالب أهالي دير الزور بإزالة مخلفات الحرب من أحيائها\n\nمخلفات الحرب تهدد حياة المدنيين في سوريا\n\nمقتل طفل جنوب سوريا أثناء بحثه عن الفطر البري"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:14:58+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:15:01+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220222194211id_/https://syrianpc.com/archives/333375"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220222194211id_/https://syrianpc.com/archives/333375",
   "incident_ids": [
     "airwars-82133"
   ],
@@ -85,10 +109,10 @@
     "https://syrianpc.com/archives/333375"
   ],
   "original_url": "https://syrianpc.com/archives/333375",
-  "page_title": "",
+  "page_title": "إصابة طفلين جرّاء انفجار ذخائر من مخلّفات القصف في ريف ادلب - مركز الصحافة الاجتماعية إصابة طفلين جرّاء انفجار ذخائر من مخلّفات القصف في ريف ادلب - مركز الصحافة الاجتماعية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4694-february-22-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:15:01+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-3972219e835471568c936509",
   "source_type": "other_web_page",
   "stable_id_basis": "https://syrianpc.com/archives/333375",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة طفلين جرّاء انفجار ذخائر من مخلّفات القصف في ريف ادلب\n\nأصيب طفلان بجروح متفاوتة جرّاء انفجار ذخائر غير منفجرة من مخلفات القصف في ريف ادلب الغربي.\n\nأفاد الدفاع المدني السوري عبر حسابه الرسمي في موقع فيسبوك اليوم الثلاثاء، بإصابة طفلين بجروح خطرة إثر انفجار ذخائر غير منفجرة من مخلفات قصف سابق لقوات النظام وحليفته روسيا في قرية عدوان غربي إدلب.\n\nأضاف الدفاع المدني أنّ هذه تعتبر ثالث حادثة من نوعها خلال 24 ساعة الماضية، بعد أن أصيب 4 أطفال أمس الاثنين، بانفجارين مماثلين في جسر الشغور ودركوش غربي إدلب.\n\nالجدير ذكره أنّ مخلفات قصف قوات النظام وحليفه الروسي تنتشر في المناطق الزراعية وبين منازل المدنيين في شمال غربي سوريا بشكل كبير، وتشكل تهديداً خطيراً على حياة المدنيين.\n\nالمركز الصحفي السوري\n\nعين على الواقع\n\nالخبر السابق\n\nالإعلان عن إيقاف تسجيل الأجانب في كل من الفاتح وأسنيورت باسطنبول\n\nمقتل طفلين شقيقين بانفجار جسم من مخلفات الحرب بريف دمشق\n\nبعد أن دمرها بصواريخه النظام يطالب أهالي دير الزور بإزالة مخلفات الحرب من أحيائها\n\nمخلفات الحرب تهدد حياة المدنيين في سوريا\n\nمقتل طفل جنوب سوريا أثناء بحثه عن الفطر البري",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/2kurG"
+    "https://archive.is/2kurG",
+    "https://web.archive.org/web/20220814224644id_/https://hawarnews.com/en/haber/civilians-killed-in-turkish-shelling-of-villages-of-manbij-h31540.html"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Hawar News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f230e196372e86ca93d82e764d861adb55cd86523c7e32ed85b21d5ec62bd9a2",
+  "content_variants": [
+    {
+      "bytes": 486,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:23:47+00:00",
+      "sha256": "f230e196372e86ca93d82e764d861adb55cd86523c7e32ed85b21d5ec62bd9a2",
+      "source_url": "https://web.archive.org/web/20220814224644id_/https://hawarnews.com/en/haber/civilians-killed-in-turkish-shelling-of-villages-of-manbij-h31540.html",
+      "text": "The media center of the Manbij Military Council stated that two civilians were killed as a result of the Turkish occupation's shelling of the village of Arab Hassan, on the northern side of the city of Manbij.\n\nThe media center reported that the shelling continues until this moment.\n\nA\n\nANHA\n\nOther news\n\n​​​​​​​Hearing explosions in the sky of Tartus\n\n​​​​​​​ Kafr Saghir massacre recalled in Qamishlo\n\nNew batch of more than 400 persons leaves al Hol Camp"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:23:46+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:23:47+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220814224644id_/https://hawarnews.com/en/haber/civilians-killed-in-turkish-shelling-of-villages-of-manbij-h31540.html"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220814224644id_/https://hawarnews.com/en/haber/civilians-killed-in-turkish-shelling-of-villages-of-manbij-h31540.html",
   "incident_ids": [
     "airwars-83944"
   ],
@@ -85,10 +109,10 @@
     "https://hawarnews.com/en/haber/civilians-killed-in-turkish-shelling-of-villages-of-manbij-h31540.html"
   ],
   "original_url": "https://hawarnews.com/en/haber/civilians-killed-in-turkish-shelling-of-villages-of-manbij-h31540.html",
-  "page_title": "",
+  "page_title": "​​​​​​​Civilians killed in Turkish shelling of villages of Manbij - ANHA | HAWARNEWS | English ​​​​​​​Civilians killed in Turkish shelling of villages of Manbij - ANHA | HAWARNEWS | English ​​​​​​​Civilians killed in Turkish shelling of villages of Manbij - ANHA | HAWARNEWS | English",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts522-june-29-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:23:47+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-86e041d3353ef88dbf58bba4",
   "source_type": "news_article",
   "stable_id_basis": "https://hawarnews.com/en/haber/civilians-killed-in-turkish-shelling-of-villages-of-manbij-h31540.html",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "The media center of the Manbij Military Council stated that two civilians were killed as a result of the Turkish occupation's shelling of the village of Arab Hassan, on the northern side of the city of Manbij.\n\nThe media center reported that the shelling continues until this moment.\n\nA\n\nANHA\n\nOther news\n\n​​​​​​​Hearing explosions in the sky of Tartus\n\n​​​​​​​ Kafr Saghir massacre recalled in Qamishlo\n\nNew batch of more than 400 persons leaves al Hol Camp",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

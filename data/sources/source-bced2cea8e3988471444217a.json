@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/obKO7"
+    "https://archive.is/obKO7",
+    "https://web.archive.org/web/20230510085622id_/http://www.zaitonmag.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaiton Mag",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "65060ea8c258433d1d84856aa37fa4b70bcb7f4ca2e2932b5db30ba54e92d233",
+  "content_variants": [
+    {
+      "bytes": 1769,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:28:36+00:00",
+      "sha256": "65060ea8c258433d1d84856aa37fa4b70bcb7f4ca2e2932b5db30ba54e92d233",
+      "source_url": "https://web.archive.org/web/20230510085622id_/http://www.zaitonmag.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8/",
+      "text": "استشهاد امرأة وإصابة عدد من المدنيين بقصف للنظام على قرية معربليت جنوبي إدلب\n\n2023-04-26\n80 زيارة\n\nاستشهدت امرأة وأصيب عدد من المدنيين بينهم أطفال مساء أمس الثلاثاء، بقصف مدفعي من قبل قوات النظام استهدف قرية معربليت بريف إدلب الجنوبي.\n\nوأفاد الدفاع المدني السوري، بمقتل امرأة وإصابة 4 مدنيين من عائلة واحدة بينهم طفلتان إحداهما رضيعة، بقصف مدفعي لقوات النظام وروسيا، استهدف منازل المدنيين في قرية معربليت شرق مدينة أريحا جنوبي إدلب.\n\nوقامت فرق الدفاع المدني بانتشال جثة المرأة وأسعفت المصابين إلى المشافي لتلقي العلاج.\n\nوقصفت قوات النظام يوم أمس قرى وبلدات سان ومعربليت والرويحة جنوبي إدلب، وكفرنوران غربي حلب، والسرمانية وخربة الناقوس والمشيك والزيارة وتل واسط غربي حماة.\n\nمن جانبها، أعلنت الفصائل العسكرية عن قنص عنصرين من قوات النظام على جبهتي جوباس جنوب شرقي إدلب، ونحشبا شمالي اللاذقية، يوم أمس.\n\nاستهدفت سرايا المدفعية والصواريخ في غرفة عمليات الفتح المبين مواقع وتجمعات قوات النظام على محاور بلدة معرة حرمة جنوبي إدلب، والفوج 46 غربي حلب، وقرية فورو بسهل الغاب غربي حماة."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:28:35+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:28:36+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230510085622id_/http://www.zaitonmag.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230510085622id_/http://www.zaitonmag.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8/",
   "incident_ids": [
     "airwars-89489"
   ],
@@ -85,10 +109,10 @@
     "https://www.zaitonmag.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8/"
   ],
   "original_url": "https://www.zaitonmag.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8/",
-  "page_title": "",
+  "page_title": "استشهاد امرأة وإصابة عدد من المدنيين بقصف للنظام على قرية معربليت جنوبي إدلب - جريدة زيتون استشهاد امرأة وإصابة عدد من المدنيين بقصف للنظام على قرية معربليت جنوبي إدلب - جريدة زيتون",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4766-april-25-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:28:36+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-bced2cea8e3988471444217a",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.zaitonmag.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "استشهاد امرأة وإصابة عدد من المدنيين بقصف للنظام على قرية معربليت جنوبي إدلب\n\n2023-04-26\n80 زيارة\n\nاستشهدت امرأة وأصيب عدد من المدنيين بينهم أطفال مساء أمس الثلاثاء، بقصف مدفعي من قبل قوات النظام استهدف قرية معربليت بريف إدلب الجنوبي.\n\nوأفاد الدفاع المدني السوري، بمقتل امرأة وإصابة 4 مدنيين من عائلة واحدة بينهم طفلتان إحداهما رضيعة، بقصف مدفعي لقوات النظام وروسيا، استهدف منازل المدنيين في قرية معربليت شرق مدينة أريحا جنوبي إدلب.\n\nوقامت فرق الدفاع المدني بانتشال جثة المرأة وأسعفت المصابين إلى المشافي لتلقي العلاج.\n\nوقصفت قوات النظام يوم أمس قرى وبلدات سان ومعربليت والرويحة جنوبي إدلب، وكفرنوران غربي حلب، والسرمانية وخربة الناقوس والمشيك والزيارة وتل واسط غربي حماة.\n\nمن جانبها، أعلنت الفصائل العسكرية عن قنص عنصرين من قوات النظام على جبهتي جوباس جنوب شرقي إدلب، ونحشبا شمالي اللاذقية، يوم أمس.\n\nاستهدفت سرايا المدفعية والصواريخ في غرفة عمليات الفتح المبين مواقع وتجمعات قوات النظام على محاور بلدة معرة حرمة جنوبي إدلب، والفوج 46 غربي حلب، وقرية فورو بسهل الغاب غربي حماة.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/4mOn3"
+    "https://archive.ph/4mOn3",
+    "https://web.archive.org/web/20260111172719id_/https://www.jpost.com/breaking-news/article-709086"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Jerusalem Post",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c6c24dc61aed18e67a565e4688becfb395f61e49f653627d3b30de661ab637f5",
+  "content_variants": [
+    {
+      "bytes": 2754,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:29:13+00:00",
+      "sha256": "c6c24dc61aed18e67a565e4688becfb395f61e49f653627d3b30de661ab637f5",
+      "source_url": "https://web.archive.org/web/20260111172719id_/https://www.jpost.com/breaking-news/article-709086",
+      "text": "Israeli airstrikes in Syria injure one, missiles shot down - Syrian reports\n\nIn the third alleged Israeli airstrike this week, sites south of Damascus were targeted and one person was injured, according to Syrian reports.\n\nIsraeli airstrikes targeted sites south of Damascus, injuring one, at around 4 a.m. early Friday morning, Syrian state media SANA reported.\n\nAccording to the report, Syrian air defense systems shot most of the missiles down and some material damage was sustained.\n\nIsraeli sources have not commented on the report.\n\nA repeating pattern\n\nThis is the third alleged airstrike this week.\n\nA WORKER fixes damage to a building from an Israeli airstrike in Damascus on November 20, 2019. Israel said it struck dozens of Iranian targets in Syria in response to rocket fire the prior day in the Golan Heights. (credit: REUTERS/OMAR SANADIKI)\n\nOn Monday night, an alleged Israeli airstrike targeted sites south of Damascus.\n\nThe Syrian Capital Voice site reported on Tuesday morning that the strike had targeted a factory for developing Iranian weapons in the town of Aqraba, south of Damascus.\n\nOn Tuesday night, Syrian reports alleged that Israeli tanks targeted positions belonging to the Syrian military near El Malgah in the Quneitra region of southwestern Syria.\n\nAfter the alleged tank strike, Israeli aircraft dropped leaflets warning that Israel would not tolerate any presence of the Syrian military in the demilitarized zone, according to the opposition-affiliated Radio Houran.\n\nThe last alleged Israeli strike in Quneitra was reported in May, when one strike targeted the Qurs al-Nafl site and another strike targeted sites in Jubata Al Khashab and az-Zuhur, areas where both the Syrian military and Hezbollah operate.\n\nThe background\n\nThese attacks come on the backdrop of growing tensions with Hezbollah and Iran in Syria, and the weight of the pressure landing on Iran from Western leaders, chiefly the IAEA resolution to censure Iran for nuclear violations.\n\nIn the US, bipartisan support for increasing awareness and an active approach towards Iran's nuclear developments is growing. On Thursday, members of the Abraham Accords Caucus in the House and Senate introduced on Thursday a bipartisan, bicameral bill that would “unite Middle East partners as global threats from Iran and Iranian backed-extremists continue to rise.”\n\nIsrael, whose longtime and consistent policy was that Iran's alleged nuclear development requires a harsher approach, wrapped up two weeks ago its largest training exercise in Israeli history, dubbed \"Chariots of Fire.\" It included simulating striking targets far from Israel’s borders, including Iran.\n\nTzvi Joffre, Anna Ahronheim and Omri Nahmias contributed to this report.\n\nSee more on"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:29:13+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:29:13+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260111172719id_/https://www.jpost.com/breaking-news/article-709086"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260111172719id_/https://www.jpost.com/breaking-news/article-709086",
   "incident_ids": [
     "airwars-83804"
   ],
@@ -85,10 +109,10 @@
     "https://www.jpost.com/breaking-news/article-709086"
   ],
   "original_url": "https://www.jpost.com/breaking-news/article-709086",
-  "page_title": "",
+  "page_title": "Israeli airstrikes in Syria injure one, missiles shot down - Syria | The Jerusalem Post Israeli airstrikes in Syria injure one, missiles shot down - Syria | The Jerusalem Post Israeli airstrikes in Syria injure one, missiles shot down - Syrian reports",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy023-june-10-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:29:13+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-cd26e6d0c4bdd1a42de34318",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.jpost.com/breaking-news/article-709086",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Israeli airstrikes in Syria injure one, missiles shot down - Syrian reports\n\nIn the third alleged Israeli airstrike this week, sites south of Damascus were targeted and one person was injured, according to Syrian reports.\n\nIsraeli airstrikes targeted sites south of Damascus, injuring one, at around 4 a.m. early Friday morning, Syrian state media SANA reported.\n\nAccording to the report, Syrian air defense systems shot most of the missiles down and some material damage was sustained.\n\nIsraeli sources have not commented on the report.\n\nA repeating pattern\n\nThis is the third alleged airstrike this week.\n\nA WORKER fixes damage to a building from an Israeli airstrike in Damascus on November 20, 2019. Israel said it struck dozens of Iranian targets in Syria in response to rocket fire the prior day in the Golan Heights. (credit: REUTERS/OMAR SANADIKI)\n\nOn Monday night, an alleged Israeli airstrike targeted sites south of Damascus.\n\nThe Syrian Capital Voice site reported on Tuesday morning that the strike had targeted a factory for developing Iranian weapons in the town of Aqraba, south of Damascus.\n\nOn Tuesday night, Syrian reports alleged that Israeli tanks targeted positions belonging to the Syrian military near El Malgah in the Quneitra region of southwestern Syria.\n\nAfter the alleged tank strike, Israeli aircraft dropped leaflets warning that Israel would not tolerate any presence of the Syrian military in the demilitarized zone, according to the opposition-affiliated Radio Houran.\n\nThe last alleged Israeli strike in Quneitra was reported in May, when one strike targeted the Qurs al-Nafl site and another strike targeted sites in Jubata Al Khashab and az-Zuhur, areas where both the Syrian military and Hezbollah operate.\n\nThe background\n\nThese attacks come on the backdrop of growing tensions with Hezbollah and Iran in Syria, and the weight of the pressure landing on Iran from Western leaders, chiefly the IAEA resolution to censure Iran for nuclear violations.\n\nIn the US, bipartisan support for increasing awareness and an active approach towards Iran's nuclear developments is growing. On Thursday, members of the Abraham Accords Caucus in the House and Senate introduced on Thursday a bipartisan, bicameral bill that would “unite Middle East partners as global threats from Iran and Iranian backed-extremists continue to rise.”\n\nIsrael, whose longtime and consistent policy was that Iran's alleged nuclear development requires a harsher approach, wrapped up two weeks ago its largest training exercise in Israeli history, dubbed \"Chariots of Fire.\" It included simulating striking targets far from Israel’s borders, including Iran.\n\nTzvi Joffre, Anna Ahronheim and Omri Nahmias contributed to this report.\n\nSee more on",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

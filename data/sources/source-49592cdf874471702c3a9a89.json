@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/P7YRj"
+    "https://archive.is/P7YRj",
+    "https://web.archive.org/web/20240808223905id_/https://www.youtube.com/watch?v=m0KLyl_TIiQ"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SY-24",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "dd303164b67c69f3b254dcd65728b630a5b2f458adea02e00e67e098f48ac673",
+  "content_variants": [
+    {
+      "bytes": 287,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:15:31+00:00",
+      "sha256": "dd303164b67c69f3b254dcd65728b630a5b2f458adea02e00e67e098f48ac673",
+      "source_url": "https://web.archive.org/web/20240808223905id_/https://www.youtube.com/watch?v=m0KLyl_TIiQ",
+      "text": "إصابة 4 نساء وطفل جراء قصف صاروخي من قبل النظام السوري على بلدة سرمين بريف إدلب - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new features© 2024 Google LLC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:15:30+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:15:31+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240808223905id_/https://www.youtube.com/watch?v=m0KLyl_TIiQ"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240808223905id_/https://www.youtube.com/watch?v=m0KLyl_TIiQ",
   "incident_ids": [
     "airwars-91705"
   ],
@@ -85,10 +109,10 @@
     "https://www.youtube.com/watch?v=m0KLyl_TIiQ"
   ],
   "original_url": "https://www.youtube.com/watch?v=m0KLyl_TIiQ",
-  "page_title": "",
+  "page_title": "إصابة 4 نساء وطفل جراء قصف صاروخي من قبل النظام السوري على بلدة سرمين بريف إدلب - YouTube إصابة 4 نساء وطفل جراء قصف صاروخي من قبل النظام السوري على بلدة سرمين بريف إدلب إصابة 4 نساء وطفل جراء قصف صاروخي من قبل النظام السوري على بلدة سرمين بريف إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4774-june-22-2023/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:15:31+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-49592cdf874471702c3a9a89",
   "source_type": "youtube_page",
   "stable_id_basis": "https://www.youtube.com/watch?v=m0KLyl_TIiQ",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "إصابة 4 نساء وطفل جراء قصف صاروخي من قبل النظام السوري على بلدة سرمين بريف إدلب - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new features© 2024 Google LLC",
+  "text_original_language": "und",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/KhEV6"
+    "https://archive.is/KhEV6",
+    "https://web.archive.org/web/20250123173907id_/https://www.rasdsyria.org/news/7852/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Rasd Syria",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d885c7e08234ac22b875f16031d9760b8c7fe7b885d9945f78b3a822277a4239",
+  "content_variants": [
+    {
+      "bytes": 1572,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:14:14+00:00",
+      "sha256": "d885c7e08234ac22b875f16031d9760b8c7fe7b885d9945f78b3a822277a4239",
+      "source_url": "https://web.archive.org/web/20250123173907id_/https://www.rasdsyria.org/news/7852/",
+      "text": "وثقت شبكة رصد سوريا لحقوق الإنسان بتاريخ ١١-٧-٢٠٢٣ مقتل الشاب عبدالباسط احمد عبد الخالق جراء قصف استهدف سيارته من قبل قوات النظام السوري في محيط بلدة الاتارب بريف محافظة حلب الغربي.\n\nيذكر ان الشاب كان يعمل ضمن فريق الدفاع المدني السوري وتم استهدافه اثناء قيامه بعمله ومحاولته اخماد الحريق جراء القصف الذي استهدف اطراف البلدة من قبل قوات النظام السوري.\n\nتدين شبكة رصد سوريا لحقوق الإنسان كافة عمليات القصف التي تستهدف المدنيين في كافة المناطق وتطالب المجتمع الدولي بتحمل مسؤولياته تجاه المدنيين وحمايتهم ومحاسبة المسؤولين وتقديمهم الى العدالة\n\nوتؤكد شبكة رصد سوريا لحقوق الإنسان ان قوات النظام السوري مازالت مستمرة في انتهاكاتها ضد المدنيين في مناطق سيطرتها وتقوم بخرق القوانين الدولية وعدم الالتزام بها وقامت بخرق اتفاقية وقف اطلاق النار وزادت في الآونة الاخيرة عمليات القصف من قبل قوات النظام السوري على مدن الآهلة بالمدنيين في ريف محافظة ادلب وريف محافظة حلب"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:14:12+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:14:14+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250123173907id_/https://www.rasdsyria.org/news/7852/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250123173907id_/https://www.rasdsyria.org/news/7852/",
   "incident_ids": [
     "airwars-91858"
   ],
@@ -85,10 +109,10 @@
     "https://www.rasdsyria.org/news/7852/"
   ],
   "original_url": "https://www.rasdsyria.org/news/7852/",
-  "page_title": "",
+  "page_title": "مقتل متطوع في الدفاع المدني السوري \"الخوذ البيضاء\" بقصف من قبل قوات النظام السوري استهدف الأتارب غربي حلب - شبكة رصد سوريا لحقوق الإنسان مقتل متطوع في الدفاع المدني السوري \"الخوذ البيضاء\" بقصف من قبل قوات النظام السوري استهدف الأتارب غربي حلب - شبكة رصد سوريا لحقوق الإنسان",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4785-july-11-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:14:14+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2da5c444d2a197dd9c907569",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.rasdsyria.org/news/7852/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "وثقت شبكة رصد سوريا لحقوق الإنسان بتاريخ ١١-٧-٢٠٢٣ مقتل الشاب عبدالباسط احمد عبد الخالق جراء قصف استهدف سيارته من قبل قوات النظام السوري في محيط بلدة الاتارب بريف محافظة حلب الغربي.\n\nيذكر ان الشاب كان يعمل ضمن فريق الدفاع المدني السوري وتم استهدافه اثناء قيامه بعمله ومحاولته اخماد الحريق جراء القصف الذي استهدف اطراف البلدة من قبل قوات النظام السوري.\n\nتدين شبكة رصد سوريا لحقوق الإنسان كافة عمليات القصف التي تستهدف المدنيين في كافة المناطق وتطالب المجتمع الدولي بتحمل مسؤولياته تجاه المدنيين وحمايتهم ومحاسبة المسؤولين وتقديمهم الى العدالة\n\nوتؤكد شبكة رصد سوريا لحقوق الإنسان ان قوات النظام السوري مازالت مستمرة في انتهاكاتها ضد المدنيين في مناطق سيطرتها وتقوم بخرق القوانين الدولية وعدم الالتزام بها وقامت بخرق اتفاقية وقف اطلاق النار وزادت في الآونة الاخيرة عمليات القصف من قبل قوات النظام السوري على مدن الآهلة بالمدنيين في ريف محافظة ادلب وريف محافظة حلب",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

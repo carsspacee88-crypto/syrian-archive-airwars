@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/V1elU"
+    "https://archive.is/V1elU",
+    "https://web.archive.org/web/20210924060827id_/https://www.syriahr.com/en/220916/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "934eadc0d4223d4fb85fdb489cf9573bbc7767443ffec56c76efb00de94a647c",
+  "content_variants": [
+    {
+      "bytes": 2386,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:29:31+00:00",
+      "sha256": "934eadc0d4223d4fb85fdb489cf9573bbc7767443ffec56c76efb00de94a647c",
+      "source_url": "https://web.archive.org/web/20210924060827id_/https://www.syriahr.com/en/220916/",
+      "text": "Turkish bombardment | Child killed and five civilians injured in of al-Hasakah countryside, along with displacement of dozens of families\n\nAl-Hasakah province: SOHR activists have reported that a little girl was killed and five other civilians were injured by Turkish ground shelling on the countryside of Abu Raseen (Zarkan).\n\nOn the same context, Turkish forces and their proxies have shelled positions in the countryside of Tel Tamr and Abu Raseen in the countryside of al-Hasakah province, targeting Tel Shenan, Bab al-Khair, Bab al-Farag in Abu Raseen, and the vicinity of the Asayish headquarter, amid reports of injuries.\n\nOn the other hand, the area has experienced large displacement movement of civilians who used no cars, fearing of being targeted. Accordingly, the civilians fled from the area on motorbikes and on barefoot.\n\nTurkish forces and its proxies had shelled with heavy machines, in the early hours of Tuesday, Derdarah and Tal Shanan villages and artillery shells were dropped near the Russian base in Tal Amr countryside in al-Hasakah. Also, in the morning, the electricity station in Tal Tamr has been targeted with several shells which caused material losses.\n\nYesterday, SOHR activists reported halt of bombardment in Tal Tamr in al-Hasakah province, in the morning, after the previous hours witnessed trading fire between the Turkish bases and its factions on one side and the SDF on the other.\n\nMeanwhile, shells were dropped on the village of Asfouriyah that is far from the clashes line south of Tal Tamr and al-Dirdarah. The bombardment coincided with machine guns’ clashes between the SDF on one side and the Turkish-backed factions on the other in northwest Tal Tamr amid information of an attempted advancement in al-Dirdarah.\n\nPrev Post\n\nIsraeli strikes on al-Qunaitra | Three missiles hit position of regime forces and Iranian militias, breaking out fires\n\nNext Post\n\nDeath toll update | More than 14 killed and wounded in Turkish bombardment on residential areas in Tel Tamr and Abu Raseen (Zarkan)\n\nPretended to be Syrians | National Army arrests nine Iranian people, after having…\n\nRif Dimashq | “Al-Baath” Battalions shoot two young men dead, after refusing to stop…\n\nFor unknown reasons | Turkish Intelligence in Azaz city arrests displaced university…\n\nLandmine attack | Nine regime soldiers and loyalists killed in explosion in…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:29:30+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:29:31+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20210924060827id_/https://www.syriahr.com/en/220916/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20210924060827id_/https://www.syriahr.com/en/220916/",
   "incident_ids": [
     "airwars-77399"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/220916/"
   ],
   "original_url": "https://www.syriahr.com/en/220916/",
-  "page_title": "",
+  "page_title": "Turkish bombardment | Child killed and five civilians injured in of al-Hasakah countryside, along with displacement of dozens of families • The Syrian Observatory For Human Rights Turkish bombardment | Child killed and five civilians injured in of al-Hasakah countryside, along with displacement of dozens of families • The Syrian Observatory For Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts471-august-17-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:29:31+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ca4fb5ce047995b65f272eae",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/220916/",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Turkish bombardment | Child killed and five civilians injured in of al-Hasakah countryside, along with displacement of dozens of families\n\nAl-Hasakah province: SOHR activists have reported that a little girl was killed and five other civilians were injured by Turkish ground shelling on the countryside of Abu Raseen (Zarkan).\n\nOn the same context, Turkish forces and their proxies have shelled positions in the countryside of Tel Tamr and Abu Raseen in the countryside of al-Hasakah province, targeting Tel Shenan, Bab al-Khair, Bab al-Farag in Abu Raseen, and the vicinity of the Asayish headquarter, amid reports of injuries.\n\nOn the other hand, the area has experienced large displacement movement of civilians who used no cars, fearing of being targeted. Accordingly, the civilians fled from the area on motorbikes and on barefoot.\n\nTurkish forces and its proxies had shelled with heavy machines, in the early hours of Tuesday, Derdarah and Tal Shanan villages and artillery shells were dropped near the Russian base in Tal Amr countryside in al-Hasakah. Also, in the morning, the electricity station in Tal Tamr has been targeted with several shells which caused material losses.\n\nYesterday, SOHR activists reported halt of bombardment in Tal Tamr in al-Hasakah province, in the morning, after the previous hours witnessed trading fire between the Turkish bases and its factions on one side and the SDF on the other.\n\nMeanwhile, shells were dropped on the village of Asfouriyah that is far from the clashes line south of Tal Tamr and al-Dirdarah. The bombardment coincided with machine guns’ clashes between the SDF on one side and the Turkish-backed factions on the other in northwest Tal Tamr amid information of an attempted advancement in al-Dirdarah.\n\nPrev Post\n\nIsraeli strikes on al-Qunaitra | Three missiles hit position of regime forces and Iranian militias, breaking out fires\n\nNext Post\n\nDeath toll update | More than 14 killed and wounded in Turkish bombardment on residential areas in Tel Tamr and Abu Raseen (Zarkan)\n\nPretended to be Syrians | National Army arrests nine Iranian people, after having…\n\nRif Dimashq | “Al-Baath” Battalions shoot two young men dead, after refusing to stop…\n\nFor unknown reasons | Turkish Intelligence in Azaz city arrests displaced university…\n\nLandmine attack | Nine regime soldiers and loyalists killed in explosion in…",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

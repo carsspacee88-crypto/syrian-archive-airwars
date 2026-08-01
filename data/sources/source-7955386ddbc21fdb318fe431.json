@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20230321004450id_/https://www.syriahr.com/en/236215/"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d411838245a0a10a2e66b64bd27ab7216336d7e9cbbe9bab571e359e2b502178",
+  "content_variants": [
+    {
+      "bytes": 4428,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:21:09+00:00",
+      "sha256": "d411838245a0a10a2e66b64bd27ab7216336d7e9cbbe9bab571e359e2b502178",
+      "source_url": "https://web.archive.org/web/20230321004450id_/https://www.syriahr.com/en/236215/",
+      "text": "Nearly 600 surrendered so far | More prisoners hand themselves in to military forces, amid inspection and combing operations\n\nOngoing security campaigns in neighbourhoods around Ghuwayran prison, after displacement of tens of thousands of civilians\n\nAl-Hasakah province: SOHR sources have reported that the military forces participating in the operation of “Ghuwayran prison” in Al-Hasakah city continue inspecting and combing quarters and sections including unarmed ISIS prisoners with extreme caution, fearing eruption of acts of violence in light of the ongoing disobedience in these sections.\n\nOn the other hand, reliable sources told SOHR that the number of prisoners who handed themselves in to the military forces since the beginning of the operation has risen to 600, as tens of prisoners surrendered in the past hours. It is worth noting that all of these prisoners have been evacuated from the prison.\n\nOn the other hand, inspection and combing operations are still underway in neighbourhoods in the vicinity of the prison, searching for ISIS cells. These operations come after the displacement of thousands of residents from these neighbourhoods since the evening of January 20. Most of these civilians are staying with their relatives in other areas in Al-Hasakah province, while a few have headed to refugee camps.\n\nMoreover, ISIS has circulated a video footage showing bodies of ISIS members after being killed inside the prison in US airstrikes which SOHR had reported about yesterday. Also, an injured child of the “Caliphate Cubs” was appeared in the video footage circulated by ISIS.\n\nSOHR sources have just reported that seven ISIS members were killed in gunfire by Syrian Democratic Forces (SDF) and the Internal Security Forces (Asayish) during combing operations by the joint forces in the surroundings of Ghuwayran prison in Al-Hasakah city.\n\nMeanwhile, cautious clam prevailed inside the prison, along with flights by International Coalition helicopters over the region. In addition, the joint forces continued to search some sections in the prison which include ISIS members who stages unarmed disobedience.\n\nAccordingly, the total death toll since the start of Ghuwayran prison break on January 20 evening reached 166: 114 ISIS fighters, seven civilians and 45 members of Asayish Forces, prison guards and counter-terrorism forces.\n\nObservatory asserts that the death toll is even higher, and the real number of fatalists is not exactly identified, as the fate of dozens members on both sides is still unknown. In addition, there are many people who have sustained serious injuries.\n\nEarlier today, SOHR sources reported that cautious calm prevailed in Ghuwayran prison and its surroundings in Al-Hasakah city, along with the ongoing flights by Coalition aircraft and constant calls by military forces inside the prison upon ISIS prisoners to surrender and leave the dormitories in which they were holed up.\n\nMeanwhile, military forces exercised extreme caution in dormitories searches, concerning about the lives and safety of the captives.\n\nThis coincided with ongoing combing operations in the vicinity of the prison in search for ISIS members, while Coalition aircraft broke through the sound barrier in the early hours of Tuesday morning.\n\nAccording to Syrian Observatory sources, ISIS prisoners were transferred yesterday from Ghuwayran prison to Al-Shaddadi.\n\nYesterday, SOHR sources reported that a group of children, who had fought in the ranks of ISIS-backed formation of the “Caliphate Cubs” and were held in Ghuwayran prison, was evacuated from the prison, where they transported in the buses which carried ISIS prisoners. However, the final destination of these buses remained unknown.\n\nOn the other hand, very reliable sources informed SOHR that negotiations were underway between the military forces and ISIS to set the hostages and SDF captives free in return for curing injured ISIS members in the prison.\n\nPrev Post\n\nSOHR: Kurds locked in tense Syria prison standoff with jihadists\n\nNext Post\n\nSOHR: SDF will storm Al Hasakah prison\n\nToll update | Turkish-backed militiamen kill and wound Kurdish family of seven while…\n\nCeasefire violations | Two regime soldiers shot dead by HTS snipers in east Idlib…\n\nSetting fire to celebrate Nowruz | Turkish-backed factions shoot Kurdish civilians in…\n\nOld ordnance | Landmine explosion injures child in Deir Ezzor countryside"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:21:08+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:21:09+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230321004450id_/https://www.syriahr.com/en/236215/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230321004450id_/https://www.syriahr.com/en/236215/",
   "incident_ids": [
     "airwars-81424"
   ],
@@ -55,10 +80,10 @@
     "https://www.syriahr.com/en/236215/"
   ],
   "original_url": "https://www.syriahr.com/en/236215/",
-  "page_title": "",
+  "page_title": "Nearly 600 surrendered so far | More prisoners hand themselves in to military forces, amid inspection and combing operations • The Syrian Observatory For Human Rights Nearly 600 surrendered so far | More prisoners hand themselves in to military forces, amid inspection and combing operations • The Syrian Observatory For Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1976-january-20-2022/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:21:09+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7955386ddbc21fdb318fe431",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/236215/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Nearly 600 surrendered so far | More prisoners hand themselves in to military forces, amid inspection and combing operations\n\nOngoing security campaigns in neighbourhoods around Ghuwayran prison, after displacement of tens of thousands of civilians\n\nAl-Hasakah province: SOHR sources have reported that the military forces participating in the operation of “Ghuwayran prison” in Al-Hasakah city continue inspecting and combing quarters and sections including unarmed ISIS prisoners with extreme caution, fearing eruption of acts of violence in light of the ongoing disobedience in these sections.\n\nOn the other hand, reliable sources told SOHR that the number of prisoners who handed themselves in to the military forces since the beginning of the operation has risen to 600, as tens of prisoners surrendered in the past hours. It is worth noting that all of these prisoners have been evacuated from the prison.\n\nOn the other hand, inspection and combing operations are still underway in neighbourhoods in the vicinity of the prison, searching for ISIS cells. These operations come after the displacement of thousands of residents from these neighbourhoods since the evening of January 20. Most of these civilians are staying with their relatives in other areas in Al-Hasakah province, while a few have headed to refugee camps.\n\nMoreover, ISIS has circulated a video footage showing bodies of ISIS members after being killed inside the prison in US airstrikes which SOHR had reported about yesterday. Also, an injured child of the “Caliphate Cubs” was appeared in the video footage circulated by ISIS.\n\nSOHR sources have just reported that seven ISIS members were killed in gunfire by Syrian Democratic Forces (SDF) and the Internal Security Forces (Asayish) during combing operations by the joint forces in the surroundings of Ghuwayran prison in Al-Hasakah city.\n\nMeanwhile, cautious clam prevailed inside the prison, along with flights by International Coalition helicopters over the region. In addition, the joint forces continued to search some sections in the prison which include ISIS members who stages unarmed disobedience.\n\nAccordingly, the total death toll since the start of Ghuwayran prison break on January 20 evening reached 166: 114 ISIS fighters, seven civilians and 45 members of Asayish Forces, prison guards and counter-terrorism forces.\n\nObservatory asserts that the death toll is even higher, and the real number of fatalists is not exactly identified, as the fate of dozens members on both sides is still unknown. In addition, there are many people who have sustained serious injuries.\n\nEarlier today, SOHR sources reported that cautious calm prevailed in Ghuwayran prison and its surroundings in Al-Hasakah city, along with the ongoing flights by Coalition aircraft and constant calls by military forces inside the prison upon ISIS prisoners to surrender and leave the dormitories in which they were holed up.\n\nMeanwhile, military forces exercised extreme caution in dormitories searches, concerning about the lives and safety of the captives.\n\nThis coincided with ongoing combing operations in the vicinity of the prison in search for ISIS members, while Coalition aircraft broke through the sound barrier in the early hours of Tuesday morning.\n\nAccording to Syrian Observatory sources, ISIS prisoners were transferred yesterday from Ghuwayran prison to Al-Shaddadi.\n\nYesterday, SOHR sources reported that a group of children, who had fought in the ranks of ISIS-backed formation of the “Caliphate Cubs” and were held in Ghuwayran prison, was evacuated from the prison, where they transported in the buses which carried ISIS prisoners. However, the final destination of these buses remained unknown.\n\nOn the other hand, very reliable sources informed SOHR that negotiations were underway between the military forces and ISIS to set the hostages and SDF captives free in return for curing injured ISIS members in the prison.\n\nPrev Post\n\nSOHR: Kurds locked in tense Syria prison standoff with jihadists\n\nNext Post\n\nSOHR: SDF will storm Al Hasakah prison\n\nToll update | Turkish-backed militiamen kill and wound Kurdish family of seven while…\n\nCeasefire violations | Two regime soldiers shot dead by HTS snipers in east Idlib…\n\nSetting fire to celebrate Nowruz | Turkish-backed factions shoot Kurdish civilians in…\n\nOld ordnance | Landmine explosion injures child in Deir Ezzor countryside",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

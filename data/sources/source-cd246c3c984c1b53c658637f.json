@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/N7DeP"
+    "https://archive.ph/N7DeP",
+    "https://web.archive.org/web/20241116125252id_/https://963media.com/23843/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "963media news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2b677b0566bec3376b234a799db63f5a2a6e91ed6d834d069a1e1d95c6c1a854",
+  "content_variants": [
+    {
+      "bytes": 584,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:29:13+00:00",
+      "sha256": "2b677b0566bec3376b234a799db63f5a2a6e91ed6d834d069a1e1d95c6c1a854",
+      "source_url": "https://web.archive.org/web/20241116125252id_/https://963media.com/23843/",
+      "text": "حلب أصيب 4 مدنيين بينهم طفلان اليوم الإثنين، بقصف للقوات التركية والفصائل المدعومة منها، على مناطق في ريف حلب شمالي سوريا. وقصفت القوات التركية والفصائل الموالية لها بالمدفعية الثقيلة، قرية “تنب” بريف حلب الشمالي، ما أسفر عن إصابة امرأة وطفلين شقيقين هما أحمد فيصل جنيد (6 سنوات) وزينب فيصل جنيد (4 سنوات)، وفق ما أفادت […]"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:29:12+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:29:13+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241116125252id_/https://963media.com/23843/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241116125252id_/https://963media.com/23843/",
   "incident_ids": [
     "airwars-126448",
     "airwars-126849"
@@ -87,10 +111,10 @@
     "https://963media.com/23843/"
   ],
   "original_url": "https://963media.com/23843/",
-  "page_title": "",
+  "page_title": "جرحى مدنيون بقصف للقوات التركية شمالي سوريا - 963+ جرحى مدنيون بقصف للقوات التركية شمالي سوريا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts713-september-9-2024/",
@@ -118,15 +142,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:29:13+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-cd246c3c984c1b53c658637f",
   "source_type": "news_article",
   "stable_id_basis": "https://963media.com/23843/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "حلب أصيب 4 مدنيين بينهم طفلان اليوم الإثنين، بقصف للقوات التركية والفصائل المدعومة منها، على مناطق في ريف حلب شمالي سوريا. وقصفت القوات التركية والفصائل الموالية لها بالمدفعية الثقيلة، قرية “تنب” بريف حلب الشمالي، ما أسفر عن إصابة امرأة وطفلين شقيقين هما أحمد فيصل جنيد (6 سنوات) وزينب فيصل جنيد (4 سنوات)، وفق ما أفادت […]",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/Py5Gm"
+    "https://archive.ph/Py5Gm",
+    "https://web.archive.org/web/20240524183729id_/https://www.facebook.com/Elmohrar/posts/pfbid027DjWZ5uia7t7dS5B3yChevPqGJGDJpFWJ8o6rR17DPUatSH3nFth2JBwTHrdBuKzl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Elmohrar",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "3992a48fca48bc13087b897635dfbdd8fca501963d2bd84b7734096d8723a30e",
+  "content_variants": [
+    {
+      "bytes": 191,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:23:24+00:00",
+      "sha256": "3992a48fca48bc13087b897635dfbdd8fca501963d2bd84b7734096d8723a30e",
+      "source_url": "https://web.archive.org/web/20240524183729id_/https://www.facebook.com/Elmohrar/posts/pfbid027DjWZ5uia7t7dS5B3yChevPqGJGDJpFWJ8o6rR17DPUatSH3nFth2JBwTHrdBuKzl",
+      "text": "#عاجــــــــــل\n\nاستشهاد المدني عبدو أحمد قدور بقصف مدفعي للإحتلال #الروسي استهدف قرية #كفرتعال غربي #حلب"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:23:23+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:23:24+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524183729id_/https://www.facebook.com/Elmohrar/posts/pfbid027DjWZ5uia7t7dS5B3yChevPqGJGDJpFWJ8o6rR17DPUatSH3nFth2JBwTHrdBuKzl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524183729id_/https://www.facebook.com/Elmohrar/posts/pfbid027DjWZ5uia7t7dS5B3yChevPqGJGDJpFWJ8o6rR17DPUatSH3nFth2JBwTHrdBuKzl",
   "incident_ids": [
     "airwars-100736"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/Elmohrar/posts/pfbid027DjWZ5uia7t7dS5B3yChevPqGJGDJpFWJ8o6rR17DPUatSH3nFth2JBwTHrdBuKzl"
   ],
   "original_url": "https://www.facebook.com/Elmohrar/posts/pfbid027DjWZ5uia7t7dS5B3yChevPqGJGDJpFWJ8o6rR17DPUatSH3nFth2JBwTHrdBuKzl",
-  "page_title": "",
+  "page_title": "المحرر لحظة بلحظة المحرر لحظة بلحظة #عاجــــــــــل\n\nاستشهاد المدني عبدو... - المحرر لحظة بلحظة",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4804-september-2-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:23:24+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-894ec400ca7bbaad109a350c",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/Elmohrar/posts/pfbid027DjWZ5uia7t7dS5B3yChevPqGJGDJpFWJ8o6rR17DPUatSH3nFth2JBwTHrdBuKzl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#عاجــــــــــل\n\nاستشهاد المدني عبدو أحمد قدور بقصف مدفعي للإحتلال #الروسي استهدف قرية #كفرتعال غربي #حلب",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/p24jh"
+    "https://archive.ph/p24jh",
+    "https://web.archive.org/web/20240320012904id_/https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/mraslna-yhsl-ly-asma-dhaya-alqsf-altrky-ly-mqatt-fryn-walshhba-103219"
   ],
   "attempt_history": [
     {
@@ -67,12 +68,35 @@
   "author": "ANF news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "45ba5bab4a75cc80b8c294f221a84311371bc1af73fbd0bde0fde803a7ef9c03",
+  "content_variants": [
+    {
+      "bytes": 626,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:32:07+00:00",
+      "sha256": "45ba5bab4a75cc80b8c294f221a84311371bc1af73fbd0bde0fde803a7ef9c03",
+      "source_url": "https://web.archive.org/web/20240320012904id_/https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/mraslna-yhsl-ly-asma-dhaya-alqsf-altrky-ly-mqatt-fryn-walshhba-103219",
+      "text": "وكالة فرات للأنباء\n\nالشهباء\n\nالأحد, ١٧ مارس ٢٠٢٤, ١٧:١٥\n\nاستهدفت طائرة مسيّرة تابعة لجيش الاحتلال التركي، اليوم، في تمام الساعة الـ 10.30 مواطنين اثنين، على طريق قرية بيلونية، ما أدى إلى استشهاد المواطن علي عبد الرحمن محمد /18/ عام وإصابة المواطن محمد صبري خالد.\n\nكما قصفت دولة الاحتلال التركي بعد ظهر اليوم، قرى، كالوتية وخربة شمسة وكوندي مزن، 3 مرات."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:32:06+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:32:07+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240320012904id_/https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/mraslna-yhsl-ly-asma-dhaya-alqsf-altrky-ly-mqatt-fryn-walshhba-103219"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240320012904id_/https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/mraslna-yhsl-ly-asma-dhaya-alqsf-altrky-ly-mqatt-fryn-walshhba-103219",
   "incident_ids": [
     "airwars-115964"
   ],
@@ -88,10 +112,10 @@
     "https://anfarabic.com/روج آفا - سوريا/mraslna-yhsl-ly-asma-dhaya-alqsf-altrky-ly-mqatt-fryn-walshhba-103219"
   ],
   "original_url": "https://anfarabic.com/روج آفا - سوريا/mraslna-yhsl-ly-asma-dhaya-alqsf-altrky-ly-mqatt-fryn-walshhba-103219",
-  "page_title": "",
+  "page_title": "ANF |\nمراسلنا يحصل على أسماء ضحايا القصف التركي على مقاطعة عفرين والشهباء مراسلنا يحصل على أسماء ضحايا القصف التركي على مقاطعة عفرين والشهباء مراسلنا يحصل على أسماء ضحايا القصف التركي على مقاطعة عفرين والشهباء",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts689-march-17-2024/",
@@ -111,15 +135,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:32:07+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e714a64f38363bce5d91cf1c",
   "source_type": "news_article",
   "stable_id_basis": "https://anfarabic.com/روج آفا - سوريا/mraslna-yhsl-ly-asma-dhaya-alqsf-altrky-ly-mqatt-fryn-walshhba-103219",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "وكالة فرات للأنباء\n\nالشهباء\n\nالأحد, ١٧ مارس ٢٠٢٤, ١٧:١٥\n\nاستهدفت طائرة مسيّرة تابعة لجيش الاحتلال التركي، اليوم، في تمام الساعة الـ 10.30 مواطنين اثنين، على طريق قرية بيلونية، ما أدى إلى استشهاد المواطن علي عبد الرحمن محمد /18/ عام وإصابة المواطن محمد صبري خالد.\n\nكما قصفت دولة الاحتلال التركي بعد ظهر اليوم، قرى، كالوتية وخربة شمسة وكوندي مزن، 3 مرات.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

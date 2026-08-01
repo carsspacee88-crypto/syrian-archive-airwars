@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/QVxoX"
+    "https://archive.is/QVxoX",
+    "https://web.archive.org/web/20250814073252id_/https://npasyria.com/en/84331/?fbclid=IwAR1PjSx-CXMKzbrrCyuE0APXKZP2RCutZ8tV6imjy47Varr0Cl2NY-vRusY"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d30f77326a4b39ec54dc7dcdc6558578b402c4394526c9908bba309f70d1dbc5",
+  "content_variants": [
+    {
+      "bytes": 1062,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:24:57+00:00",
+      "sha256": "d30f77326a4b39ec54dc7dcdc6558578b402c4394526c9908bba309f70d1dbc5",
+      "source_url": "https://web.archive.org/web/20250814073252id_/https://npasyria.com/en/84331/?fbclid=IwAR1PjSx-CXMKzbrrCyuE0APXKZP2RCutZ8tV6imjy47Varr0Cl2NY-vRusY",
+      "text": "Turkish drone targets Syria’s Ain Issa, 2 civilians killed\n\nMain road in Ain Issa town, north of Syria’s Raqqa – North Press\n\nAIN ISSA, Syria (North Press) – A Turkish drone targeted on Tuesday night the countryside of the town of Ain Issa, north of Raqqa, a governorate in northern Syria, killing two civilians and injuring others.\n\nAn eyewitness from the area said that late on Tuesday night, Turkish forces targeted civilians’ houses in the village of al-Suwaydiyah, in the northern countryside of Ain Issa, by drones, causing casualties and material damage to civilians’ property.\n\nThe targeting claimed the lives of Khaled Hanifa and Bashar Barakat, and injured Sabri Sido,20, Aziz Zeidan, 32, and Rashid Zeidan, 42.\n\nOn September 9, an individual lost his life in a Turkish shelling of the countryside of Ain Issa.\n\nAin Issa and other areas in northern Syria have recently witnessed military escalation by the Turkish forces and Turkish-backed armed opposition factions, also known as Syrian National Army (SNA).\n\nReporting by Gulistan Muhammad"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:24:57+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:24:57+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250814073252id_/https://npasyria.com/en/84331/?fbclid=IwAR1PjSx-CXMKzbrrCyuE0APXKZP2RCutZ8tV6imjy47Varr0Cl2NY-vRusY"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250814073252id_/https://npasyria.com/en/84331/?fbclid=IwAR1PjSx-CXMKzbrrCyuE0APXKZP2RCutZ8tV6imjy47Varr0Cl2NY-vRusY",
   "incident_ids": [
     "airwars-84928"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/84331/?fbclid=IwAR1PjSx-CXMKzbrrCyuE0APXKZP2RCutZ8tV6imjy47Varr0Cl2NY-vRusY"
   ],
   "original_url": "https://npasyria.com/en/84331/?fbclid=IwAR1PjSx-CXMKzbrrCyuE0APXKZP2RCutZ8tV6imjy47Varr0Cl2NY-vRusY",
-  "page_title": "",
+  "page_title": "Turkish drone targets Syria’s Ain Issa, 2 civilians killed Turkish drone targets Syria’s Ain Issa, 2 civilians killed Turkish drone targets Syria’s Ain Issa, 2 civilians killed Turkish drone targets Syria’s Ain Issa, 2 civilians killed - North press agency Turkish drone targets Syria’s Ain Issa, 2 civilians killed - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts555-september-20-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:24:57+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-935fe52b61dcde9a50b4346e",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/84331/?fbclid=IwAR1PjSx-CXMKzbrrCyuE0APXKZP2RCutZ8tV6imjy47Varr0Cl2NY-vRusY",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish drone targets Syria’s Ain Issa, 2 civilians killed\n\nMain road in Ain Issa town, north of Syria’s Raqqa – North Press\n\nAIN ISSA, Syria (North Press) – A Turkish drone targeted on Tuesday night the countryside of the town of Ain Issa, north of Raqqa, a governorate in northern Syria, killing two civilians and injuring others.\n\nAn eyewitness from the area said that late on Tuesday night, Turkish forces targeted civilians’ houses in the village of al-Suwaydiyah, in the northern countryside of Ain Issa, by drones, causing casualties and material damage to civilians’ property.\n\nThe targeting claimed the lives of Khaled Hanifa and Bashar Barakat, and injured Sabri Sido,20, Aziz Zeidan, 32, and Rashid Zeidan, 42.\n\nOn September 9, an individual lost his life in a Turkish shelling of the countryside of Ain Issa.\n\nAin Issa and other areas in northern Syria have recently witnessed military escalation by the Turkish forces and Turkish-backed armed opposition factions, also known as Syrian National Army (SNA).\n\nReporting by Gulistan Muhammad",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

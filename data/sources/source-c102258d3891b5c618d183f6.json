@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/L2ybM"
+    "https://archive.is/L2ybM",
+    "https://web.archive.org/web/20220724080752id_/https://twitter.com/ZaitunAgency/status/1551116565868838917"
   ],
   "attempt_history": [
     {
@@ -67,12 +68,35 @@
   "author": "'@ZaitunAgency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a3cf4079bc7aff90502180488a472075c9f7eaa643132dd95174440cfc84ca32",
+  "content_variants": [
+    {
+      "bytes": 261,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:28:46+00:00",
+      "sha256": "a3cf4079bc7aff90502180488a472075c9f7eaa643132dd95174440cfc84ca32",
+      "source_url": "https://web.archive.org/web/20220724080752id_/https://twitter.com/ZaitunAgency/status/1551116565868838917",
+      "text": "Conversationوكالة زيتون الإعلامية - Zaitun Agency@ZaitunAgency#عاجل: ميليشيا قسد تستهدف بالصواريخ قرية #كفرجنة بريف مدينة #عفرين شمال #حلب8:06 AM · Jul 24, 2022·Twitter for Android"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:28:45+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:28:46+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220724080752id_/https://twitter.com/ZaitunAgency/status/1551116565868838917"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220724080752id_/https://twitter.com/ZaitunAgency/status/1551116565868838917",
   "incident_ids": [
     "airwars-84197"
   ],
@@ -88,10 +112,10 @@
     "https://twitter.com/ZaitunAgency/status/1551116565868838917"
   ],
   "original_url": "https://twitter.com/ZaitunAgency/status/1551116565868838917",
-  "page_title": "",
+  "page_title": "وكالة زيتون الإعلامية - Zaitun Agency on Twitter وكالة زيتون الإعلامية - Zaitun Agency on Twitter: \"#عاجل: ميليشيا قسد تستهدف بالصواريخ قرية #كفرجنة بريف مدينة #عفرين شمال #حلب\" / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys142-july-24-2022/",
@@ -111,15 +135,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:28:46+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-c102258d3891b5c618d183f6",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/ZaitunAgency/status/1551116565868838917",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Conversationوكالة زيتون الإعلامية - Zaitun Agency@ZaitunAgency#عاجل: ميليشيا قسد تستهدف بالصواريخ قرية #كفرجنة بريف مدينة #عفرين شمال #حلب8:06 AM · Jul 24, 2022·Twitter for Android",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

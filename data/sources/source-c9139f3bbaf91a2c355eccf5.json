@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/SMAyI"
+    "https://archive.is/SMAyI",
+    "https://web.archive.org/web/20230926121944id_/http://www.zaitonmag.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%85%D8%AF%D9%86%D9%8A-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AC/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaiton Mag",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c0399e00f63d4b76db8b3f64997ab408cf9ac26fd764d7c2bae1c632c1e17211",
+  "content_variants": [
+    {
+      "bytes": 1588,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:29:09+00:00",
+      "sha256": "c0399e00f63d4b76db8b3f64997ab408cf9ac26fd764d7c2bae1c632c1e17211",
+      "source_url": "https://web.archive.org/web/20230926121944id_/http://www.zaitonmag.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%85%D8%AF%D9%86%D9%8A-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AC/",
+      "text": "استشهاد مدني بقصف مدفعي لقوات النظام جنوبي إدلب\n\n2023-05-15\n131 زيارة\n\nاستشهد مدني متأثرا بجروح أصيب بها ظهر اليوم الاثنين، جراء قصف مدفعي استهدف قرية كفرعويد بجبل الزاوية جنوبي إدلب.\n\nوقال الدفاع المدني السوري، إن “سليمان السليم” استشهد متأثرا بإصابته، جراء قصف قوات النظام وروسيا على قرية كفرعويد بريف إدلب الجنوبي.\n\nكما تعرضت بلدة البارة ودير سنبل وبينين جنوبي إدلب، ومعارة النعسان شمال شرقي إدلب، ومحيط الأتارب والقصر والوساطة وكفرعمة وكفرتعال غربي حلب، والسرمانية ودوير الأكراد غربي حماة، لقصف مماثل دون وقوع إصابات.\n\nواستهدفت فصائل غرفة عمليات الفتح المبين براجمات الصواريخ، مواقع قوات النظام على محور قرية حنتوتين بريف إدلب الجنوبي، محققة إصابات مباشرة في صفوفهم.\n\nوتشهد قرى وبلدات جبل الزاوية بريف إدلب الجنوبي وريفي حلب وحماة المحاذية لخطوط التماس مع قوات النظام، عمليات قصف من قبل قوات النظام والميليشيات المساندة لها بشكل يومي، لمنع عودة المدنيين لمنازلهم وقراهم."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:29:08+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:29:09+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230926121944id_/http://www.zaitonmag.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%85%D8%AF%D9%86%D9%8A-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AC/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230926121944id_/http://www.zaitonmag.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%85%D8%AF%D9%86%D9%8A-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AC/",
   "incident_ids": [
     "airwars-89364"
   ],
@@ -85,10 +109,10 @@
     "http://www.zaitonmag.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%85%D8%AF%D9%86%D9%8A-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AC/"
   ],
   "original_url": "http://www.zaitonmag.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%85%D8%AF%D9%86%D9%8A-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AC/",
-  "page_title": "",
+  "page_title": "استشهاد مدني بقصف مدفعي لقوات النظام جنوبي إدلب - جريدة زيتون استشهاد مدني بقصف مدفعي لقوات النظام جنوبي إدلب - جريدة زيتون",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4767-may-15-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:29:09+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-c9139f3bbaf91a2c355eccf5",
   "source_type": "other_web_page",
   "stable_id_basis": "http://www.zaitonmag.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%85%D8%AF%D9%86%D9%8A-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AC/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "استشهاد مدني بقصف مدفعي لقوات النظام جنوبي إدلب\n\n2023-05-15\n131 زيارة\n\nاستشهد مدني متأثرا بجروح أصيب بها ظهر اليوم الاثنين، جراء قصف مدفعي استهدف قرية كفرعويد بجبل الزاوية جنوبي إدلب.\n\nوقال الدفاع المدني السوري، إن “سليمان السليم” استشهد متأثرا بإصابته، جراء قصف قوات النظام وروسيا على قرية كفرعويد بريف إدلب الجنوبي.\n\nكما تعرضت بلدة البارة ودير سنبل وبينين جنوبي إدلب، ومعارة النعسان شمال شرقي إدلب، ومحيط الأتارب والقصر والوساطة وكفرعمة وكفرتعال غربي حلب، والسرمانية ودوير الأكراد غربي حماة، لقصف مماثل دون وقوع إصابات.\n\nواستهدفت فصائل غرفة عمليات الفتح المبين براجمات الصواريخ، مواقع قوات النظام على محور قرية حنتوتين بريف إدلب الجنوبي، محققة إصابات مباشرة في صفوفهم.\n\nوتشهد قرى وبلدات جبل الزاوية بريف إدلب الجنوبي وريفي حلب وحماة المحاذية لخطوط التماس مع قوات النظام، عمليات قصف من قبل قوات النظام والميليشيات المساندة لها بشكل يومي، لمنع عودة المدنيين لمنازلهم وقراهم.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

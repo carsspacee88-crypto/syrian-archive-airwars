@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/ziDU6"
+    "https://archive.is/ziDU6",
+    "https://web.archive.org/web/20231230193339id_/https://ronahi.tv/ar/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A3%D8%AD%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Ronahi news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0e69e8bee8efd15ec93c2ce1882b060604894692dee7cccdc5080bc36c5f2f63",
+  "content_variants": [
+    {
+      "bytes": 1592,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:29:35+00:00",
+      "sha256": "0e69e8bee8efd15ec93c2ce1882b060604894692dee7cccdc5080bc36c5f2f63",
+      "source_url": "https://web.archive.org/web/20231230193339id_/https://ronahi.tv/ar/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A3%D8%AD%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84/",
+      "text": "استشهد أحد المصابين بقصف الاحتلال التركي على مطبعة سيماف في الخامس والعشرين من كانون الأول الجاري.\n\nوالمواطن هو جوان علي حيث استشهد اليوم متاثراً بإصابته.\n\nوكان القصف على المطبعة قد تسبب باستشهاد أربعة مواطنين آخرين إلى جانب تسببه بأضرار مادية كبيرة ليرنفع بذلك عدد شهداء الهجمات الاخيرة إلى 10.\n\nمجزرة شهدتها مطبعة سيماف جراء قصف الاحتلال التركي\n\nمجزرة شهدتها مطبعة سيماف جراء قصف الاحتلال التركي\n\nقسد تنشر اعترافات شبكة تورطت في استشهاد الشهيد “بوزان” مسؤول العلاقات العسكرية بمنبج\n\nمقالات ذات صلة\n\nالهلال الأحمر الكردي يسعى جاهداً لتحسين الواقع الصحي في الشهباء\n\nمارك إسبر يُخير تركيا بين S-400 أو العقوبات والأخيرة تهدد بالتحكيم الدولي\n\nفتح 25 قضية إرهاب بعد اقتحام الكونغرس\n\n“نجاة رئيس لجنة الزراعة من محاولة اغتيال على طريق “أبو خشب\n\nالأحزاب والقوى السياسية في المنطقة تطالب الأمم المتحدة بعدم تبني المخطط التركي\n\nنساء مهجرات في المخيمات يروين معاناتهن من حصار حكومة دمشق"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:29:34+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:29:35+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231230193339id_/https://ronahi.tv/ar/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A3%D8%AD%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231230193339id_/https://ronahi.tv/ar/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A3%D8%AD%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84/",
   "incident_ids": [
     "airwars-103644"
   ],
@@ -85,10 +109,10 @@
     "https://ronahi.tv/ar/استشهاد-أحد-المصابين-بقصف-الاحتلال-ال/"
   ],
   "original_url": "https://ronahi.tv/ar/استشهاد-أحد-المصابين-بقصف-الاحتلال-ال/",
-  "page_title": "",
+  "page_title": "استشهاد أحد المصابين بقصف الاحتلال التركي على مطبعة سيماف بقامشلو - فضائية روناهي استشهاد أحد المصابين بقصف الاحتلال التركي على مطبعة سيماف بقامشلو - فضائية روناهي",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts670-december-25-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:29:35+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d0b3b163ddb93607d14c7f8e",
   "source_type": "news_article",
   "stable_id_basis": "https://ronahi.tv/ar/استشهاد-أحد-المصابين-بقصف-الاحتلال-ال/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "استشهد أحد المصابين بقصف الاحتلال التركي على مطبعة سيماف في الخامس والعشرين من كانون الأول الجاري.\n\nوالمواطن هو جوان علي حيث استشهد اليوم متاثراً بإصابته.\n\nوكان القصف على المطبعة قد تسبب باستشهاد أربعة مواطنين آخرين إلى جانب تسببه بأضرار مادية كبيرة ليرنفع بذلك عدد شهداء الهجمات الاخيرة إلى 10.\n\nمجزرة شهدتها مطبعة سيماف جراء قصف الاحتلال التركي\n\nمجزرة شهدتها مطبعة سيماف جراء قصف الاحتلال التركي\n\nقسد تنشر اعترافات شبكة تورطت في استشهاد الشهيد “بوزان” مسؤول العلاقات العسكرية بمنبج\n\nمقالات ذات صلة\n\nالهلال الأحمر الكردي يسعى جاهداً لتحسين الواقع الصحي في الشهباء\n\nمارك إسبر يُخير تركيا بين S-400 أو العقوبات والأخيرة تهدد بالتحكيم الدولي\n\nفتح 25 قضية إرهاب بعد اقتحام الكونغرس\n\n“نجاة رئيس لجنة الزراعة من محاولة اغتيال على طريق “أبو خشب\n\nالأحزاب والقوى السياسية في المنطقة تطالب الأمم المتحدة بعدم تبني المخطط التركي\n\nنساء مهجرات في المخيمات يروين معاناتهن من حصار حكومة دمشق",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
