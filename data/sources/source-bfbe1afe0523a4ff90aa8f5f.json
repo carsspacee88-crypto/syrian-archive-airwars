@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/yskDJ"
+    "https://archive.is/yskDJ",
+    "https://web.archive.org/web/20240524221111id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0DAStGrZGw51yMvzekKX5ywZZVn7FeQ23qC7SGQ4coumeWoSiFh752sLVSdHzfCERl&id=100085851757981"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Abd almajeed",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "5a68d49a8025feb2ef4c0f73da738100a6a4cd26cd540dc03e852a8fe849d6df",
+  "content_variants": [
+    {
+      "bytes": 622,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:51:26+00:00",
+      "sha256": "5a68d49a8025feb2ef4c0f73da738100a6a4cd26cd540dc03e852a8fe849d6df",
+      "source_url": "https://web.archive.org/web/20240524221111id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0DAStGrZGw51yMvzekKX5ywZZVn7FeQ23qC7SGQ4coumeWoSiFh752sLVSdHzfCERl&id=100085851757981",
+      "text": "مجزرة بعد منتصف الليل يرتكبها نظام الإجرام شمالي بلدة كفرنوران بريف حلب الغربي راح ضحيتها رجال ونساء\nعرف منهم :\nاحمد مصطفى تنا\nفرج مصطفى تنا\nزهرة علي...\n\nمجزرة بعد منتصف الليل يرتكبها نظام الإجرام شمالي بلدة كفرنوران بريف حلب الغربي راح ضحيتها رجال ونساء\nعرف منهم :\nاحمد مصطفى تنا\nفرج مصطفى تنا\nزهرة علي كرحو\nخديجة مصطفى تنا\nفطوم مصطفى تنا\nوعدة..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:51:24+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:51:26+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524221111id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0DAStGrZGw51yMvzekKX5ywZZVn7FeQ23qC7SGQ4coumeWoSiFh752sLVSdHzfCERl&id=100085851757981"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524221111id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0DAStGrZGw51yMvzekKX5ywZZVn7FeQ23qC7SGQ4coumeWoSiFh752sLVSdHzfCERl&id=100085851757981",
   "incident_ids": [
     "airwars-103889"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/permalink.php?story_fbid=pfbid0DAStGrZGw51yMvzekKX5ywZZVn7FeQ23qC7SGQ4coumeWoSiFh752sLVSdHzfCERl&id=100085851757981"
   ],
   "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0DAStGrZGw51yMvzekKX5ywZZVn7FeQ23qC7SGQ4coumeWoSiFh752sLVSdHzfCERl&id=100085851757981",
-  "page_title": "",
+  "page_title": "الإعلامي عبد المجيد أبو المغيرة الإعلامي عبد المجيد أبو المغيرة مجزرة بعد منتصف الليل... - الإعلامي عبد المجيد أبو المغيرة",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4816-october-4-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:51:26+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-bfbe1afe0523a4ff90aa8f5f",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid0DAStGrZGw51yMvzekKX5ywZZVn7FeQ23qC7SGQ4coumeWoSiFh752sLVSdHzfCERl&id=100085851757981",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مجزرة بعد منتصف الليل يرتكبها نظام الإجرام شمالي بلدة كفرنوران بريف حلب الغربي راح ضحيتها رجال ونساء\nعرف منهم :\nاحمد مصطفى تنا\nفرج مصطفى تنا\nزهرة علي...\n\nمجزرة بعد منتصف الليل يرتكبها نظام الإجرام شمالي بلدة كفرنوران بريف حلب الغربي راح ضحيتها رجال ونساء\nعرف منهم :\nاحمد مصطفى تنا\nفرج مصطفى تنا\nزهرة علي كرحو\nخديجة مصطفى تنا\nفطوم مصطفى تنا\nوعدة...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

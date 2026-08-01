@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/NWwb9"
+    "https://archive.is/NWwb9",
+    "https://web.archive.org/web/20250319182621id_/https://www.rasdsyria.org/news/8892/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Rasd Syria news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b00cce849a5eb1e1cf70e00b8b4d69d44f294df3d62b1ec37d92e87ddf26afde",
+  "content_variants": [
+    {
+      "bytes": 1004,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:23:17+00:00",
+      "sha256": "b00cce849a5eb1e1cf70e00b8b4d69d44f294df3d62b1ec37d92e87ddf26afde",
+      "source_url": "https://web.archive.org/web/20250319182621id_/https://www.rasdsyria.org/news/8892/",
+      "text": "وثقت شبكة رصد سوريا لحقوق الإنسان بتاريخ ١١-٩-٢٠٢٣ مقتل الشاب حسون نهار الكروط في بلدة الدحلة بريف محافظة دير الزور الشرقي على ايدي عناصر نقطة التفتيش التابعة لقوات سوريا الديمقراطية بسبب عدم توقفه على نقطة التفتيش التابعة لهم.\n\nتدين شبكة رصد سوريا لحقوق الإنسان كافة عمليات القتل التي تستهدف المدنيين في كافة المناطق وتطالب المجتمع الدولي بتحمل مسؤولياتها تجاه المدنيين وحمايتهم ومحاسبة المسؤولين وتقديمهم الى العدالة كما تؤكد شبكة رصد سوريا لحقوق الإنسان ان قوات سوريا الديمقراطية قامت بخرق اتفاقيات وقف اطلاق النار خاصة بسوريا وعدم الالتزام بها."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:23:16+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:23:17+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250319182621id_/https://www.rasdsyria.org/news/8892/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250319182621id_/https://www.rasdsyria.org/news/8892/",
   "incident_ids": [
     "airwars-92985"
   ],
@@ -85,10 +109,10 @@
     "https://www.rasdsyria.org/news/8892/"
   ],
   "original_url": "https://www.rasdsyria.org/news/8892/",
-  "page_title": "",
+  "page_title": "مقتل مدني على يد قوات سوريا الديمقراطية شرقي دير الزور - شبكة رصد سوريا لحقوق الإنسان مقتل مدني على يد قوات سوريا الديمقراطية شرقي دير الزور - شبكة رصد سوريا لحقوق الإنسان",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/sdf00038-september-11-2023/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:23:17+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2855f4590ff293b39d8a874f",
   "source_type": "news_article",
   "stable_id_basis": "https://www.rasdsyria.org/news/8892/",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "und",
+  "text_original": "وثقت شبكة رصد سوريا لحقوق الإنسان بتاريخ ١١-٩-٢٠٢٣ مقتل الشاب حسون نهار الكروط في بلدة الدحلة بريف محافظة دير الزور الشرقي على ايدي عناصر نقطة التفتيش التابعة لقوات سوريا الديمقراطية بسبب عدم توقفه على نقطة التفتيش التابعة لهم.\n\nتدين شبكة رصد سوريا لحقوق الإنسان كافة عمليات القتل التي تستهدف المدنيين في كافة المناطق وتطالب المجتمع الدولي بتحمل مسؤولياتها تجاه المدنيين وحمايتهم ومحاسبة المسؤولين وتقديمهم الى العدالة كما تؤكد شبكة رصد سوريا لحقوق الإنسان ان قوات سوريا الديمقراطية قامت بخرق اتفاقيات وقف اطلاق النار خاصة بسوريا وعدم الالتزام بها.",
+  "text_original_language": "ar",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

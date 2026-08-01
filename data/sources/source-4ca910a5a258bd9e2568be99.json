@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/Qy3pZ"
+    "https://archive.md/Qy3pZ",
+    "https://web.archive.org/web/20211108052218id_/https://twitter.com/YusufAd76532779/status/1457579164567998466"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@YusufAd76532779",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "06690aca1b606dd5826897355cd5cd9c36fb558a84a6cad42df6d8d496294901",
+  "content_variants": [
+    {
+      "bytes": 723,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:29:30+00:00",
+      "sha256": "06690aca1b606dd5826897355cd5cd9c36fb558a84a6cad42df6d8d496294901",
+      "source_url": "https://web.archive.org/web/20211108052218id_/https://twitter.com/YusufAd76532779/status/1457579164567998466",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\n#ديرالزور_الريف_الشرقي\n#الصبحة:\nارتقاء الشاب \"عبد نهار المجول\" خلال عملية انزال نفذها التحالف الدولي وعصابات قسد الارهابية على منزل شقيقه \"فهد المجول \"\nكما اعتقل خلال المداهمة شقيقه الاكبر سليمان وفهد وزوجة فهد.\n#مراسل_الشرقية_الرسمي https://twitter.com/YusufAd76532779/status/1457551821749293057 …pic.twitter.com/EccxbjWY7J\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:29:27+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:29:30+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211108052218id_/https://twitter.com/YusufAd76532779/status/1457579164567998466"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211108052218id_/https://twitter.com/YusufAd76532779/status/1457579164567998466",
   "incident_ids": [
     "airwars-79929"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/YusufAd76532779/status/1457579164567998466"
   ],
   "original_url": "https://twitter.com/YusufAd76532779/status/1457579164567998466",
-  "page_title": "",
+  "page_title": "مراسل الشرقية on Twitter: \"#ديرالزور_الريف_الشرقي\n#الصبحة:\nارتقاء الشاب \"عبد نهار المجول\" خلال عملية انزال نفذها التحالف الدولي وعصابات قسد الارهابية على منزل شقيقه \"فهد المجول \"\nكما اعتقل خلال المداهمة شقيقه الاكبر سليمان وفهد وزوجة فهد.\n#مراسل_الشرقية_الرسمي ✅ https://t.co/bRPEa4EvZ7… https://t.co/waUnVMkJgp\" مراسل الشرقية on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1970-november-8-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:29:30+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4ca910a5a258bd9e2568be99",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/YusufAd76532779/status/1457579164567998466",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\n#ديرالزور_الريف_الشرقي\n#الصبحة:\nارتقاء الشاب \"عبد نهار المجول\" خلال عملية انزال نفذها التحالف الدولي وعصابات قسد الارهابية على منزل شقيقه \"فهد المجول \"\nكما اعتقل خلال المداهمة شقيقه الاكبر سليمان وفهد وزوجة فهد.\n#مراسل_الشرقية_الرسمي https://twitter.com/YusufAd76532779/status/1457551821749293057 …pic.twitter.com/EccxbjWY7J\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

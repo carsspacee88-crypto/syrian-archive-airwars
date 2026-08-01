@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/viVbQ"
+    "https://archive.is/viVbQ",
+    "https://web.archive.org/web/20260303003707id_/https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3340737/rocket-attack-on-green-village-northeast-syria/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "CENTCOM",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2fb96d6d43a12143abb84737b075b8ce7d4a1af02008c08ddb20b814488b9bbe",
+  "content_variants": [
+    {
+      "bytes": 453,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:51:24+00:00",
+      "sha256": "2fb96d6d43a12143abb84737b075b8ce7d4a1af02008c08ddb20b814488b9bbe",
+      "source_url": "https://web.archive.org/web/20260303003707id_/https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3340737/rocket-attack-on-green-village-northeast-syria/",
+      "text": "TAMPA, Fla. – On the morning of March 24th, at approximately 8:05 a.m. Syrian local time, 10 rockets targeted coalition forces at the Green Village in northeast Syria.The attack resulted in no injuries to U.S. or coalition personnel and no damage to U.S.,\n\nTAMPA, Fla. – On the morning of March 24th, at approximately 8:05 a.m. Syrian local time, 10 rockets targeted coalition forces at the Green Village in northeast Syria.The attack resulted in no"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:51:22+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:51:24+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260303003707id_/https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3340737/rocket-attack-on-green-village-northeast-syria/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260303003707id_/https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3340737/rocket-attack-on-green-village-northeast-syria/",
   "incident_ids": [
     "airwars-89327"
   ],
@@ -85,10 +109,10 @@
     "https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3340737/rocket-attack-on-green-village-northeast-syria/"
   ],
   "original_url": "https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3340737/rocket-attack-on-green-village-northeast-syria/",
-  "page_title": "",
+  "page_title": "Rocket Attack on Green Village, Northeast Syria > U.S. Central Command > Press Release View\nRocket Attack on Green Village, Northeast Syria Rocket Attack on Green Village, Northeast Syria lock",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/irs015-march-24-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:51:24+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-c4e269f9ad663c2e44fd8f8e",
   "source_type": "government_or_military_statement",
   "stable_id_basis": "https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3340737/rocket-attack-on-green-village-northeast-syria/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "TAMPA, Fla. – On the morning of March 24th, at approximately 8:05 a.m. Syrian local time, 10 rockets targeted coalition forces at the Green Village in northeast Syria.The attack resulted in no injuries to U.S. or coalition personnel and no damage to U.S.,\n\nTAMPA, Fla. – On the morning of March 24th, at approximately 8:05 a.m. Syrian local time, 10 rockets targeted coalition forces at the Green Village in northeast Syria.The attack resulted in no",
   "text_original_language": "en",
   "translation": {
     "chunks": [],
