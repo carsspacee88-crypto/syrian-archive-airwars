@@ -10,8 +10,33 @@ from typing import Any, Iterable
 from .io_utils import atomic_write_json, load_json, utc_now
 
 
-ENGINE_VERSION = "4.0.0"
-RECOVERY_SCHEMA_VERSION = "4.0.0"
+ENGINE_VERSION = "4.1.0"
+RECOVERY_SCHEMA_VERSION = "4.1.0"
+
+ARCHIVE_HOSTS = frozenset({
+    "archive.fo",
+    "archive.is",
+    "archive.li",
+    "archive.md",
+    "archive.ph",
+    "archive.today",
+    "archive.vn",
+    "arquivo.pt",
+    "ghostarchive.org",
+    "perma.cc",
+    "timetravel.mementoweb.org",
+    "wayback.archive-it.org",
+    "web.archive.org",
+})
+ARCHIVE_TODAY_HOSTS = frozenset({
+    "archive.fo",
+    "archive.is",
+    "archive.li",
+    "archive.md",
+    "archive.ph",
+    "archive.today",
+    "archive.vn",
+})
 
 # These outcomes are complete from the collection job's point of view. A
 # deferred source is intentionally not called a failure: it remains in the
@@ -34,8 +59,50 @@ def source_host(url: str) -> str:
     return (urllib.parse.urlsplit(url).hostname or "").casefold().removeprefix("www.")
 
 
+def is_archive_url(url: str) -> bool:
+    """Return true only for a recognized third-party archival replay URL."""
+
+    return source_host(url) in ARCHIVE_HOSTS
+
+
+def normalize_archive_url(url: str) -> str:
+    """Turn temporary archive.today-family /wip/ links into their replay URLs."""
+
+    value = str(url or "").strip()
+    if not is_archive_url(value):
+        return ""
+    parsed = urllib.parse.urlsplit(value)
+    host = source_host(value)
+    path = parsed.path
+    if host in ARCHIVE_TODAY_HOSTS and path.startswith("/wip/"):
+        path = path.removeprefix("/wip")
+    return urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, path, parsed.query, parsed.fragment))
+
+
+def archive_host(record: dict[str, Any]) -> str:
+    """Choose the host that V4 will contact without consulting the live source."""
+
+    for url in record.get("archived_urls") or []:
+        if is_archive_url(str(url)):
+            return source_host(str(url))
+    return "web.archive.org"
+
+
 def source_has_text(record: dict[str, Any]) -> bool:
     return bool(str(record.get("text_original") or "").strip())
+
+
+def source_has_archived_text(record: dict[str, Any]) -> bool:
+    if not source_has_text(record):
+        return False
+    if record.get("preservation_status") == "archived_text_preserved":
+        return True
+    return any(
+        is_archive_url(str(variant.get("source_url") or ""))
+        and str(variant.get("text") or "").strip()
+        for variant in record.get("content_variants") or []
+        if isinstance(variant, dict)
+    )
 
 
 def source_is_policy_complete(record: dict[str, Any]) -> bool:
@@ -49,6 +116,22 @@ def fair_host_order(records: Iterable[dict[str, Any]]) -> list[dict[str, Any]]:
     for record in records:
         host = source_host(str(record.get("original_url") or "")) or "_unknown"
         queues[host].append(record)
+    hosts = deque(sorted(queues))
+    ordered: list[dict[str, Any]] = []
+    while hosts:
+        host = hosts.popleft()
+        ordered.append(queues[host].popleft())
+        if queues[host]:
+            hosts.append(host)
+    return ordered
+
+
+def fair_archive_host_order(records: Iterable[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Round-robin source records by the archive host that will actually be fetched."""
+
+    queues: dict[str, deque[dict[str, Any]]] = defaultdict(deque)
+    for record in records:
+        queues[archive_host(record)].append(record)
     hosts = deque(sorted(queues))
     ordered: list[dict[str, Any]] = []
     while hosts:

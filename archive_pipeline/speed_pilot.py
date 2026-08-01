@@ -21,9 +21,7 @@ from .pilot import (
     DIRECT_AUDIO_SUFFIXES,
     DIRECT_IMAGE_SUFFIXES,
     DIRECT_VIDEO_SUFFIXES,
-    LOGIN_WALL_MARKERS,
     _append_unique,
-    _classify_fetch_failure,
     _legacy_source_seed,
     _normalized_source_seed,
     _record_exact_url_observations,
@@ -34,10 +32,13 @@ from .pilot import (
     stable_source_id,
 )
 from .v4 import (
+    ARCHIVE_HOSTS,
     ENGINE_VERSION,
     RecoveryQueue,
-    fair_host_order,
-    source_has_text,
+    fair_archive_host_order,
+    is_archive_url,
+    normalize_archive_url,
+    source_has_archived_text,
     source_host,
     source_is_policy_complete,
     timing_summary,
@@ -56,11 +57,6 @@ def _scope_sequences(first_sequence: int, last_sequence: int) -> tuple[int, ...]
     if first_sequence < 1 or last_sequence < first_sequence or last_sequence > 8114:
         raise ValueError(f"invalid_speed_pilot_scope:{first_sequence}-{last_sequence}")
     return tuple(range(first_sequence, last_sequence + 1))
-
-
-def should_defer_archive(record: dict[str, Any]) -> bool:
-    """Archived lookup is low priority when a complete original text is already preserved."""
-    return bool(clean_text(record.get("text_original") or ""))
 
 
 def _merge_stats(previous: dict[str, Any], current: dict[str, Any]) -> dict[str, Any]:
@@ -205,6 +201,53 @@ def _merge_previous_source(seed_record: dict[str, Any], previous: dict[str, Any]
                 values.append(deepcopy(value))
         merged[field] = values
     return merged
+
+
+def _enforce_archived_only(record: dict[str, Any]) -> dict[str, Any]:
+    """Discard live/embedded source text and retain archival captures only."""
+
+    record["collection_policy"] = "archived_url_only"
+    record["network_policy"] = {
+        "live_source_requests": "prohibited",
+        "archive_redirects_outside_archive_hosts": "prohibited",
+    }
+    rejected = [
+        str(url)
+        for url in record.get("archived_urls") or []
+        if url and not is_archive_url(str(url))
+    ]
+    record["archived_urls"] = list(dict.fromkeys(
+        normalized
+        for url in record.get("archived_urls") or []
+        if (normalized := normalize_archive_url(str(url)))
+    ))
+    if rejected:
+        record["rejected_non_archive_urls"] = sorted(set(rejected))
+    archived_variants = [
+        variant
+        for variant in record.get("content_variants") or []
+        if isinstance(variant, dict) and is_archive_url(str(variant.get("source_url") or ""))
+    ]
+    record["content_variants"] = archived_variants
+    if record.get("preservation_status") != "archived_text_preserved" and archived_variants:
+        archived = archived_variants[-1]
+        record["text_original"] = clean_text(archived.get("text") or "")
+        record["content_hash"] = archived.get("sha256") or None
+        record["preservation_status"] = "archived_text_preserved"
+        record["extraction_status"] = "text_extracted"
+        record["retrieval_status"] = "successful"
+        record["final_redirected_url"] = archived.get("source_url") or ""
+        record["retrieved_at"] = archived.get("retrieved_at")
+    if not source_has_archived_text(record):
+        record["text_original"] = ""
+        record["content_hash"] = None
+        record["preservation_status"] = "metadata_only"
+        record["extraction_status"] = "pending"
+        record["retrieval_status"] = "pending"
+        record["failure_reason"] = None
+        record["retrieved_at"] = None
+        record["final_redirected_url"] = ""
+    return record
 
 
 class SpeedPilotRunner:
@@ -450,16 +493,8 @@ class SpeedPilotRunner:
                         _append_unique(record["airwars_source_ids"], seed["airwars_source_id"])
                     _append_unique(record["observed_original_urls"], original_url)
                     for archive_url in seed["archived_urls"]:
-                        _append_unique(record["archived_urls"], archive_url)
-                    content = seed["content"]
-                    if content:
-                        variant = _source_variant(content, seed["provenance"], manifest_item["canonical_url"], normalized.get("retrieved_at"))
-                        _append_unique(record["content_variants"], variant, key=lambda row: row["sha256"])
-                        if not record["text_original"]:
-                            record["text_original"] = content
-                            record["content_hash"] = variant["sha256"]
-                            record["preservation_status"] = "preserved_in_airwars_incident_page"
-                            record["extraction_status"] = "airwars_embedded_text"
+                        if is_archive_url(str(archive_url)):
+                            _append_unique(record["archived_urls"], normalize_archive_url(str(archive_url)))
                     _append_unique(record["provenance"], {
                         "source_type": seed["provenance"],
                         "incident_id": incident_id,
@@ -525,47 +560,22 @@ class SpeedPilotRunner:
             if not record.get("text_original"):
                 record["text_original"] = text
                 record["content_hash"] = variant["sha256"]
-                record["preservation_status"] = "live_text_preserved" if provenance == "source_live" else "archived_text_preserved"
+                record["preservation_status"] = "archived_text_preserved"
             elif record.get("content_hash") != variant["sha256"]:
                 _append_unique(record["review_flags"], "content_variants_require_review")
         if record.get("text_original"):
             record["text_original_language"] = detect_language(record["text_original"], record.get("text_original_language") or "")
 
-    async def _live_source(self, fetcher: AsyncHostFetcher, record: dict[str, Any]) -> tuple[dict[str, Any], bool]:
-        result = await fetcher.fetch(record["original_url"], accept="text/html,application/pdf,text/plain;q=0.9,*/*;q=0.1")
-        self._attempt(record, result, "live_source")
-        record["retrieved_at"] = result.retrieved_at
-        record["final_redirected_url"] = result.final_url
-        preview = result.body[:128 * 1024].decode("utf-8", errors="ignore").casefold() if result.body else ""
-        access_wall = record["source_type"].startswith("public_") and any(marker in preview for marker in LOGIN_WALL_MARKERS)
-        if access_wall:
-            fetcher.note_application_failure(record["original_url"], True, "login_required")
-        if result.ok and not access_wall:
-            fetcher.note_application_failure(record["original_url"], False, "successful_content_response")
-            record["retrieval_status"] = "successful"
-            record["failure_reason"] = None
-            self._extract_into(record, result, "source_live")
-            needs_recovery = not source_has_text(record) and record.get("extraction_status") != "media_metadata_only"
-            return record, needs_recovery
-        taxonomy = "login_required" if access_wall else _classify_fetch_failure(result.status, result.error, preview)
-        if result.status not in {None, 401, 403, 408, 425, 429, 500, 502, 503, 504}:
-            fetcher.note_application_failure(record["original_url"], False, taxonomy)
-        record["retrieval_status"] = taxonomy
-        record["failure_reason"] = result.error or taxonomy
-        if should_defer_archive(record):
-            record["preservation_status"] = "preserved_in_airwars_incident_page"
-            record["archive_retry"] = {
-                "status": "deferred_low_priority",
-                "reason": "complete_original_text_already_preserved",
-                "queued_at": utc_now(),
-            }
-            return record, False
-        return record, True
-
     async def _archive_source(self, fetcher: AsyncHostFetcher, record: dict[str, Any]) -> dict[str, Any]:
         accept = "text/html,application/pdf,text/plain;q=0.9,*/*;q=0.1"
-        for archive_url in record.get("archived_urls") or []:
-            result = await fetcher.fetch(archive_url, accept=accept)
+        for archive_url in [
+            str(url) for url in record.get("archived_urls") or [] if is_archive_url(str(url))
+        ]:
+            result = await fetcher.fetch(
+                archive_url,
+                accept=accept,
+                allowed_redirect_hosts=ARCHIVE_HOSTS,
+            )
             self._attempt(record, result, "listed_archive")
             if result.ok:
                 fetcher.note_application_failure(archive_url, False, "successful_archive_response")
@@ -574,12 +584,18 @@ class SpeedPilotRunner:
                 record["final_redirected_url"] = result.final_url
                 record["failure_reason"] = None
                 self._extract_into(record, result, "listed_archive")
-                return record
+                if source_has_archived_text(record):
+                    return record
+                record["failure_reason"] = record.get("failure_reason") or "archive_text_not_extracted"
         capture, lookup = await fetcher.latest_wayback_capture(record["original_url"])
         lookup["attempt_role"] = "wayback_lookup"
         record["attempt_history"].append(lookup)
         if capture:
-            result = await fetcher.fetch(capture["replay_url"], accept=accept)
+            result = await fetcher.fetch(
+                capture["replay_url"],
+                accept=accept,
+                allowed_redirect_hosts=ARCHIVE_HOSTS,
+            )
             self._attempt(record, result, "wayback_capture", capture=capture)
             if result.ok:
                 fetcher.note_application_failure(capture["replay_url"], False, "successful_archive_response")
@@ -597,7 +613,7 @@ class SpeedPilotRunner:
     def _cache_hit(self, source_id: str, previous: dict[str, Any]) -> bool:
         entry = (self.cache.get("urls") or {}).get(normalize_source_url(previous.get("original_url") or ""), {})
         return bool(
-            previous.get("text_original")
+            source_has_archived_text(previous)
             and previous.get("content_hash")
             and (previous.get("retrieval_status") == "successful" or entry.get("source_id") == source_id)
         )
@@ -614,7 +630,8 @@ class SpeedPilotRunner:
             "etag": next((row.get("etag") for row in reversed(record.get("attempt_history") or []) if row.get("etag")), ""),
             "last_modified": next((row.get("last_modified") for row in reversed(record.get("attempt_history") or []) if row.get("last_modified")), ""),
             "last_attempt_at": record.get("retrieved_at") or utc_now(),
-            "has_original_text": bool(record.get("text_original")),
+            "has_original_text": source_has_archived_text(record),
+            "collection_policy": "archived_url_only",
         }
 
     def _finish_source(self, record: dict[str, Any], started: float, outcome: dict[str, Any]) -> None:
@@ -639,7 +656,10 @@ class SpeedPilotRunner:
         self.progress["source_timings"] = [row for row in self.progress["source_timings"] if row.get("source_id") != source_id]
         self.progress["source_timings"].append({
             "source_id": source_id,
-            "host": source_host(str(record.get("original_url") or "")),
+            "host": next(
+                (source_host(str(url)) for url in record.get("archived_urls") or [] if is_archive_url(str(url))),
+                "web.archive.org",
+            ),
             "duration_seconds": duration,
             "network_seconds": round(network_seconds, 6),
             "throttle_seconds": round(throttle_seconds, 6),
@@ -668,31 +688,34 @@ class SpeedPilotRunner:
             circuit_threshold=3,
             circuit_reprobe_every=100,
         )
-        async def live_job(record: dict[str, Any]) -> tuple[dict[str, Any], bool]:
+        async def archive_job(record: dict[str, Any]) -> dict[str, Any]:
             try:
-                return await self._live_source(fetcher, record)
+                return await self._archive_source(fetcher, record)
             except Exception as error:
                 record["retrieval_status"] = "failed"
                 record["failure_reason"] = f"{type(error).__name__}:{error}"
                 record.setdefault("attempt_history", []).append({
                     "attempted_at": utc_now(),
-                    "attempt_role": "live_source",
+                    "attempt_role": "archive_source",
                     "result": "task_failed",
                     "error": record["failure_reason"],
                     "attempts": 0,
                 })
-                return record, True
+                return record
 
         async with fetcher:
-            live_tasks = [asyncio.create_task(live_job(record)) for record in fair_host_order(records)]
-            for future in asyncio.as_completed(live_tasks):
-                record, needs_archive = await future
-                if needs_archive:
+            archive_tasks = [
+                asyncio.create_task(archive_job(record))
+                for record in fair_archive_host_order(records)
+            ]
+            for future in asyncio.as_completed(archive_tasks):
+                record = await future
+                if not source_has_archived_text(record):
                     record["recovery"] = {
                         "status": "deferred",
                         "queue": self.recovery_path.relative_to(self.root).as_posix(),
                         "queued_at": utc_now(),
-                        "reason": record.get("failure_reason") or record.get("retrieval_status"),
+                        "reason": record.get("failure_reason") or record.get("retrieval_status") or "archive_unavailable",
                     }
                     self.recovery.defer(record)
                     self._finish_source(record, starts[record["source_id"]], {
@@ -701,18 +724,13 @@ class SpeedPilotRunner:
                         "status": "deferred_recovery",
                     })
                 else:
-                    deferred = (record.get("archive_retry") or {}).get("status") == "deferred_low_priority"
-                    if source_has_text(record) or source_is_policy_complete(record):
-                        self.recovery.resolve(
-                            record,
-                            "successful" if source_has_text(record) else "policy_complete",
-                        )
+                    self.recovery.resolve(record, "successful")
                     self._finish_source(record, starts[record["source_id"]], {
                         "cache_hit": False,
-                        "archive_deferred": deferred,
-                        "status": "successful" if source_has_text(record) else "policy_complete",
+                        "archive_deferred": False,
+                        "status": "successful",
                     })
-                    print(f"speed source live {record['source_id']} -> {record.get('retrieval_status')}", flush=True)
+                    print(f"speed source archive {record['source_id']} -> {record.get('retrieval_status')}", flush=True)
         self.progress["source_fetch_stats"] = _merge_stats(self.progress.get("source_fetch_stats", {}), fetcher.stats())
         self.save_progress()
 
@@ -724,7 +742,7 @@ class SpeedPilotRunner:
             previous = load_json(self.root / "data" / "sources" / f"{source_id}.json", {}) or {}
             outcome = str((outcomes.get(source_id) or {}).get("status") or "")
             if (
-                source_has_text(previous)
+                source_has_archived_text(previous)
                 or source_is_policy_complete(previous)
                 or outcome in {"policy_complete", "deferred_recovery"}
             ):
@@ -737,7 +755,7 @@ class SpeedPilotRunner:
         for source_id in pending:
             path = self.root / "data" / "sources" / f"{source_id}.json"
             previous = load_json(path, {}) or {}
-            record = _merge_previous_source(seeds[source_id], previous)
+            record = _enforce_archived_only(_merge_previous_source(seeds[source_id], previous))
             record["_v4_attempt_offset"] = len(record.get("attempt_history") or [])
             if self._cache_hit(source_id, previous):
                 record["cache_status"] = "persistent_url_cache_hit"
@@ -781,7 +799,7 @@ class SpeedPilotRunner:
             record = load_json(self.root / "data" / "sources" / f"{source_id}.json", {}) or {}
             outcome = str((outcomes.get(source_id) or {}).get("status") or "")
             if (
-                source_has_text(record)
+                source_has_archived_text(record)
                 or source_is_policy_complete(record)
                 or outcome in {"policy_complete", "deferred_recovery"}
             ):
@@ -834,10 +852,7 @@ class SpeedPilotRunner:
 
         async def recovery_job(record: dict[str, Any]) -> dict[str, Any]:
             try:
-                record, needs_archive = await self._live_source(fetcher, record)
-                if needs_archive:
-                    record = await self._archive_source(fetcher, record)
-                return record
+                return await self._archive_source(fetcher, record)
             except Exception as error:
                 record["retrieval_status"] = "failed"
                 record["failure_reason"] = f"{type(error).__name__}:{error}"
@@ -851,12 +866,12 @@ class SpeedPilotRunner:
                 return record
 
         async with fetcher:
-            tasks = [asyncio.create_task(recovery_job(record)) for record in fair_host_order(records)]
+            tasks = [asyncio.create_task(recovery_job(record)) for record in fair_archive_host_order(records)]
             for future in asyncio.as_completed(tasks):
                 record = await future
                 source_id = record["source_id"]
                 self.recovery.note_attempt(source_id, str(record.get("retrieval_status") or "failed"))
-                if source_has_text(record):
+                if source_has_archived_text(record):
                     record["recovery"] = {"status": "resolved", "resolved_at": utc_now()}
                     self.recovery.resolve(record, "successful")
                     outcome = "successful"
@@ -891,7 +906,7 @@ class SpeedPilotRunner:
         records: list[dict[str, Any]] = []
         for source_id in selected_ids:
             previous = load_json(self.root / "data" / "sources" / f"{source_id}.json", {}) or {}
-            record = _merge_previous_source(seeds[source_id], previous)
+            record = _enforce_archived_only(_merge_previous_source(seeds[source_id], previous))
             record["_v4_attempt_offset"] = len(record.get("attempt_history") or [])
             records.append(record)
         if records:
@@ -925,7 +940,7 @@ class SpeedPilotRunner:
         baseline_equivalent = baseline_incident_mean * len(self.sequences) + baseline_source_mean * len(sources)
         outcomes = self.progress.get("source_outcomes") or {}
         recovery_summary = self.recovery.summary()
-        texts_preserved = sum(source_has_text(row) for row in sources)
+        texts_preserved = sum(source_has_archived_text(row) for row in sources)
         policy_completed = sum(
             source_is_policy_complete(row)
             or str((outcomes.get(source_id) or {}).get("status") or "") == "policy_complete"

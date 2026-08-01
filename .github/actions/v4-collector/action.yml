@@ -36,6 +36,12 @@ inputs:
     required: true
 
 outputs:
+  status:
+    description: "Collector completion or checkpoint status"
+    value: ${{ steps.run.outputs.status }}
+  summary_json:
+    description: "Path to the generated JSON summary"
+    value: ${{ steps.run.outputs.summary_json }}
   summary_markdown:
     description: "Path to the generated action summary"
     value: ${{ steps.run.outputs.summary_markdown }}
@@ -72,5 +78,10 @@ runs:
         first=$((10#$V4_FIRST))
         last=$((10#$V4_LAST))
         summary="data/reports/v4-action-$(printf '%04d-%04d' "$first" "$last").md"
+        summary_json="${summary%.md}.json"
         test -s "$summary"
+        test -s "$summary_json"
+        status="$(python -c 'import json,sys; print(json.load(open(sys.argv[1], encoding="utf-8"))["status"])' "$summary_json")"
+        printf 'status=%s\n' "$status" >> "$GITHUB_OUTPUT"
+        printf 'summary_json=%s\n' "$summary_json" >> "$GITHUB_OUTPUT"
         printf 'summary_markdown=%s\n' "$summary" >> "$GITHUB_OUTPUT"

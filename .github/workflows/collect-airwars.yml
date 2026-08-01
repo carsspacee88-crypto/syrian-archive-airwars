@@ -18,12 +18,12 @@ on:
       first_sequence:
         description: "أول حادثة في النطاق"
         required: true
-        default: "151"
+        default: "263"
         type: string
       last_sequence:
         description: "آخر حادثة في النطاق"
         required: true
-        default: "250"
+        default: "1000"
         type: string
       workers:
         description: "عدد عمال الشبكة العالميين (V4)"
@@ -63,6 +63,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 350
     permissions:
+      actions: write
       contents: write
     env:
       PYTHONUNBUFFERED: "1"
@@ -219,6 +220,40 @@ jobs:
           fi
           git rebase origin/main
           git push origin HEAD:main
+
+      - name: متابعة النطاق تلقائيًا من نقطة الاستئناف
+        if: steps.collector.outputs.status == 'checkpointed_time_budget' || steps.collector.outputs.status == 'checkpointed_batch_limit'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPOSITORY: ${{ github.repository }}
+          V4_OPERATION: ${{ steps.request.outputs.operation }}
+          V4_FIRST: ${{ steps.request.outputs.first_sequence }}
+          V4_LAST: ${{ steps.request.outputs.last_sequence }}
+          V4_WORKERS: ${{ steps.request.outputs.workers }}
+          V4_PER_HOST: ${{ steps.request.outputs.per_host_workers }}
+          V4_DELAY: ${{ steps.request.outputs.delay }}
+          V4_SOURCE_BATCH: ${{ steps.request.outputs.source_batch_size }}
+          V4_RECOVERY_LIMIT: ${{ steps.request.outputs.recovery_limit }}
+        run: |
+          set -euo pipefail
+          payload="$(jq -cn \
+            --arg operation "$V4_OPERATION" \
+            --arg first "$V4_FIRST" \
+            --arg last "$V4_LAST" \
+            --arg workers "$V4_WORKERS" \
+            --arg per_host "$V4_PER_HOST" \
+            --arg delay "$V4_DELAY" \
+            --arg source_batch "$V4_SOURCE_BATCH" \
+            --arg recovery_limit "$V4_RECOVERY_LIMIT" \
+            '{ref:"main",inputs:{operation:$operation,first_sequence:$first,last_sequence:$last,workers:$workers,per_host_workers:$per_host,delay:$delay,source_batch_size:$source_batch,recovery_limit:$recovery_limit}}')"
+          curl --fail-with-body --silent --show-error \
+            --request POST \
+            --header "Accept: application/vnd.github+json" \
+            --header "Authorization: Bearer $GH_TOKEN" \
+            --header "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/$GH_REPOSITORY/actions/workflows/collect-airwars.yml/dispatches" \
+            --data "$payload"
 
       - name: رفع تقارير التشغيل
         if: always()

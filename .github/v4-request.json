@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "request_id": "collect-0151-0250-r1",
+  "request_id": "collect-0263-1000-archive-only-r1",
   "operation": "collect",
-  "first_sequence": 151,
-  "last_sequence": 250,
+  "first_sequence": 263,
+  "last_sequence": 1000,
   "workers": 64,
   "per_host_workers": 1,
   "delay": 0.75,
