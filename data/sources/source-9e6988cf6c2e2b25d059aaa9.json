@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/uJThP"
+    "https://archive.is/uJThP",
+    "https://web.archive.org/web/20220216131519id_/https://eldorar.com/node/1184111"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "El Dorar news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ee3883db307e3a7d1bd50b1b4187d74ca83a363b2df9551855edf659e0d0619e",
+  "content_variants": [
+    {
+      "bytes": 1473,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:18:21+00:00",
+      "sha256": "ee3883db307e3a7d1bd50b1b4187d74ca83a363b2df9551855edf659e0d0619e",
+      "source_url": "https://web.archive.org/web/20220216131519id_/https://eldorar.com/node/1184111",
+      "text": "قضى عدد من المدنيين، صباح اليوم الأربعاء، وأصيب آخرون بجروح متفاوتة، جراء قصف مدفعي استهدف سوقًا للمحروقات، بريف إدلب الشمالي.\n\nوقال ناشطون في إدلب: “إن حريقًا ضخمًا اندلع في سوق للمحروقات، بين مدينتي الدانا وترمانين، شمال إدلب، ناجم عن قصف بقذائف “كراسونبول” الليزرية الروسية، خلّف عددًا من الضحايا والجرحى في صفوف المدنيين”.\n\nوأضافت المصادر أن الحصيلة الأولية هي أربعة شهداء من عائلة واحدة، وعدة جرحى من سائقي صهاريج الوقود، إصابات بعضهم خطرة.\n\nوأوضحت المصادر أن فرق الدفاع المدني تعمل على إخماد الحرائق المندلعة، وإنقاذ ما يمكن إنقاذه من العمال والسائقين المتجمعين في المكان.\n\nوتخضع منطقة إدلب، والإرياف المحيطة بها، لاتفاق وقف إطلاق النار، الموقع بين روسيا وتركيا، في ربيع العام 2020، إلا أن خروقات المحتل الروسي وميليشيات النظام لم تتوقف منذ ذلك الحين.\n\nفيسبوك\n\nتويتر\n\nواتساب\n\nتلغرام\n\nماسنجر\n\nماذا تعتقد؟"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:18:20+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:18:21+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220216131519id_/https://eldorar.com/node/1184111"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220216131519id_/https://eldorar.com/node/1184111",
   "incident_ids": [
     "airwars-82010"
   ],
@@ -85,10 +109,10 @@
     "https://eldorar.com/node/1184111"
   ],
   "original_url": "https://eldorar.com/node/1184111",
-  "page_title": "",
+  "page_title": "ضحايا مدنيون بقصف لقوات الأسد على سوق للمحروقات شمال إدلب - الدرر الشامية ضحايا مدنيون بقصف لقوات الأسد على سوق للمحروقات شمال إدلب - الدرر الشامية ضحايا مدنيون بقصف لقوات الأسد على سوق للمحروقات شمال إدلب - الدرر الشامية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4690-february-16-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:18:21+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9e6988cf6c2e2b25d059aaa9",
   "source_type": "news_article",
   "stable_id_basis": "https://eldorar.com/node/1184111",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قضى عدد من المدنيين، صباح اليوم الأربعاء، وأصيب آخرون بجروح متفاوتة، جراء قصف مدفعي استهدف سوقًا للمحروقات، بريف إدلب الشمالي.\n\nوقال ناشطون في إدلب: “إن حريقًا ضخمًا اندلع في سوق للمحروقات، بين مدينتي الدانا وترمانين، شمال إدلب، ناجم عن قصف بقذائف “كراسونبول” الليزرية الروسية، خلّف عددًا من الضحايا والجرحى في صفوف المدنيين”.\n\nوأضافت المصادر أن الحصيلة الأولية هي أربعة شهداء من عائلة واحدة، وعدة جرحى من سائقي صهاريج الوقود، إصابات بعضهم خطرة.\n\nوأوضحت المصادر أن فرق الدفاع المدني تعمل على إخماد الحرائق المندلعة، وإنقاذ ما يمكن إنقاذه من العمال والسائقين المتجمعين في المكان.\n\nوتخضع منطقة إدلب، والإرياف المحيطة بها، لاتفاق وقف إطلاق النار، الموقع بين روسيا وتركيا، في ربيع العام 2020، إلا أن خروقات المحتل الروسي وميليشيات النظام لم تتوقف منذ ذلك الحين.\n\nفيسبوك\n\nتويتر\n\nواتساب\n\nتلغرام\n\nماسنجر\n\nماذا تعتقد؟",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

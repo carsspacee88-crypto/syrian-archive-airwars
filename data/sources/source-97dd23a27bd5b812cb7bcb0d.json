@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/uhjka"
+    "https://archive.md/uhjka",
+    "https://web.archive.org/web/20220128111925id_/https://www.zamanalwsl.net/news/article/141723"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaman Al Wasl",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "55d73623818bb3fe3815d18fc809fb8bc37ef49ec10bb56a929ed8ecca04a96e",
+  "content_variants": [
+    {
+      "bytes": 262,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:16:14+00:00",
+      "sha256": "55d73623818bb3fe3815d18fc809fb8bc37ef49ec10bb56a929ed8ecca04a96e",
+      "source_url": "https://web.archive.org/web/20220128111925id_/https://www.zamanalwsl.net/news/article/141723",
+      "text": "28 تشرين الثاني 2021\n\nإصابة أطفال بقذائف روسية استهدفت جنوب إدلب\n\n0\n\nالتعليقات\n\nإدلب\n\nالزاوية\n\nجنوب\n\nمنطقة\n\nجبل\n\nضمن\n\nنوع\n\nالمدنيين\n\nتعليقات حول الموضوع"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:16:14+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:16:14+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220128111925id_/https://www.zamanalwsl.net/news/article/141723"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220128111925id_/https://www.zamanalwsl.net/news/article/141723",
   "incident_ids": [
     "airwars-80318"
   ],
@@ -85,10 +109,10 @@
     "https://www.zamanalwsl.net/news/article/141723"
   ],
   "original_url": "https://www.zamanalwsl.net/news/article/141723",
-  "page_title": "",
+  "page_title": "إصابة أطفال بقذائف روسية استهدفت جنوب إدلب | زمان الوصل إصابة أطفال بقذائف روسية استهدفت جنوب إدلب إصابة أطفال بقذائف روسية استهدفت جنوب إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4673-november-28-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:16:14+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-97dd23a27bd5b812cb7bcb0d",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.zamanalwsl.net/news/article/141723",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "28 تشرين الثاني 2021\n\nإصابة أطفال بقذائف روسية استهدفت جنوب إدلب\n\n0\n\nالتعليقات\n\nإدلب\n\nالزاوية\n\nجنوب\n\nمنطقة\n\nجبل\n\nضمن\n\nنوع\n\nالمدنيين\n\nتعليقات حول الموضوع",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

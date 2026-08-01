@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/YIa6x"
+    "https://archive.is/YIa6x",
+    "https://web.archive.org/web/20230626073332id_/https://www.stripes.com/theaters/middle_east/2023-06-25/syria-airstrike-kills-nine-10544646.html"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Stars and Stripes (AP)",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b619e74fc8f7e3c9d15dc1bcf9814502e8d179ae3cd6afca704e18100c5e56c3",
+  "content_variants": [
+    {
+      "bytes": 1984,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:25:41+00:00",
+      "sha256": "b619e74fc8f7e3c9d15dc1bcf9814502e8d179ae3cd6afca704e18100c5e56c3",
+      "source_url": "https://web.archive.org/web/20230626073332id_/https://www.stripes.com/theaters/middle_east/2023-06-25/syria-airstrike-kills-nine-10544646.html",
+      "text": "This is a locator map for Syria with its capital, Damascus. (AP)\n\nJISR AL-SHUGHUR, Syria — An airstrike early Sunday over a busy vegetable market in northwestern Syria killed at least nine people, activists and local first responders said.\n\nActivists and Britain-based opposition war monitor the Syrian Observatory for Human Rights said that Russia, a top ally of Syrian President Bashar Assad, launched the strike over the strategic opposition-held town of Jisr al-Shughur near the Turkish border.\n\nThe strike comes a day after Moscow's top mercenary group briefly revolted against Russian President Vladimir Putin.\n\nOpposition-held northwestern Syria's civil defense organization known as the White Helmets said over 30 people were wounded, and expected the death toll to increase.\n\n\"We're hearing that the critically wounded have been dying after reaching the hospital,\" Ahmad Yaziji of the White Helmets told The Associated Press. \"It was a targeted attack in the main vegetable market where farmers from around northern Syria gather.\"\n\nFarmers rushed the wounded to the hospital in bloodied vegetable trucks, while activists shared urgent calls for blood donations.\n\nNeither Syria nor Russia commented on the airstrike, though Damascus says strikes in the northwest province target armed insurgent groups. The Syrian pro-government newspaper Al-Watan, citing an unidentified security source, said that the airstrike targeted militants and a weapons depot.\n\nNorthwestern Syria is mostly held by the militant group Hayat Tahrir al Sham, as well as Turkish-backed forces.\n\nAssociated Press writer Kareem Chehayeb in Beirut, Lebanon, contributed to this report.\n\nprevious coverage\n\nAs conditions for Syrians worsen, aid organizations struggle to catch the world's attention again\n\nrelated stories\n\nRussian planes flying over US bases in Syria may be sharing intel, top general says\n\nTroops evacuated to Germany in stable condition following helicopter crash in Syria, hospital says"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:25:40+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:25:41+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230626073332id_/https://www.stripes.com/theaters/middle_east/2023-06-25/syria-airstrike-kills-nine-10544646.html"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230626073332id_/https://www.stripes.com/theaters/middle_east/2023-06-25/syria-airstrike-kills-nine-10544646.html",
   "incident_ids": [
     "airwars-89639"
   ],
@@ -85,10 +109,10 @@
     "https://www.stripes.com/theaters/middle_east/2023-06-25/syria-airstrike-kills-nine-10544646.html"
   ],
   "original_url": "https://www.stripes.com/theaters/middle_east/2023-06-25/syria-airstrike-kills-nine-10544646.html",
-  "page_title": "",
+  "page_title": "Airstrike hits busy market in opposition-held northwestern Syria and kills at least 9 people | Stars and Stripes Airstrike hits busy market in opposition-held northwestern Syria and kills at least 9 people Airstrike hits busy market in opposition-held northwestern Syria and kills at least 9 people",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4777-june-25-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:25:41+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-eab739e498b1d61264f0d156",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.stripes.com/theaters/middle_east/2023-06-25/syria-airstrike-kills-nine-10544646.html",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "This is a locator map for Syria with its capital, Damascus. (AP)\n\nJISR AL-SHUGHUR, Syria — An airstrike early Sunday over a busy vegetable market in northwestern Syria killed at least nine people, activists and local first responders said.\n\nActivists and Britain-based opposition war monitor the Syrian Observatory for Human Rights said that Russia, a top ally of Syrian President Bashar Assad, launched the strike over the strategic opposition-held town of Jisr al-Shughur near the Turkish border.\n\nThe strike comes a day after Moscow's top mercenary group briefly revolted against Russian President Vladimir Putin.\n\nOpposition-held northwestern Syria's civil defense organization known as the White Helmets said over 30 people were wounded, and expected the death toll to increase.\n\n\"We're hearing that the critically wounded have been dying after reaching the hospital,\" Ahmad Yaziji of the White Helmets told The Associated Press. \"It was a targeted attack in the main vegetable market where farmers from around northern Syria gather.\"\n\nFarmers rushed the wounded to the hospital in bloodied vegetable trucks, while activists shared urgent calls for blood donations.\n\nNeither Syria nor Russia commented on the airstrike, though Damascus says strikes in the northwest province target armed insurgent groups. The Syrian pro-government newspaper Al-Watan, citing an unidentified security source, said that the airstrike targeted militants and a weapons depot.\n\nNorthwestern Syria is mostly held by the militant group Hayat Tahrir al Sham, as well as Turkish-backed forces.\n\nAssociated Press writer Kareem Chehayeb in Beirut, Lebanon, contributed to this report.\n\nprevious coverage\n\nAs conditions for Syrians worsen, aid organizations struggle to catch the world's attention again\n\nrelated stories\n\nRussian planes flying over US bases in Syria may be sharing intel, top general says\n\nTroops evacuated to Germany in stable condition following helicopter crash in Syria, hospital says",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

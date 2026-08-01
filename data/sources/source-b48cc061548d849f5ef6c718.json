@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/l5KSw"
+    "https://archive.is/l5KSw",
+    "https://web.archive.org/web/20250514074630id_/https://npasyria.com/en/85069/?fbclid=IwAR2KQCdnYlFHxa6VafVYJZk0DqRi2uKzrTwlnBJB15u6WjAAXaSkIuQzM58"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c31b0dd60cc4b08214bc9978d06e84c9e9ecec2dd1419ddae9f03b23e886b1b3",
+  "content_variants": [
+    {
+      "bytes": 1805,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:19:24+00:00",
+      "sha256": "c31b0dd60cc4b08214bc9978d06e84c9e9ecec2dd1419ddae9f03b23e886b1b3",
+      "source_url": "https://web.archive.org/web/20250514074630id_/https://npasyria.com/en/85069/?fbclid=IwAR2KQCdnYlFHxa6VafVYJZk0DqRi2uKzrTwlnBJB15u6WjAAXaSkIuQzM58",
+      "text": "Woman wounded in Turkish shelling of Syria’s Hasakah\n\nTurkish shelling of Umm al-Keif, north of Hasakah – North Press\n\nHASAKAH, Syria (North Press) – A woman was injured on Tuesday evening in Turkish shelling of several villages in the northern countryside of Hasakah, northeast Syria.\n\nA local source told North Press, “Turkish forces targeted with artillery shells this afternoon the center of the town of Zirgan (Abu Rasin) and the villages of al-Nuwaihat, al-Mushayrfa and al-Asadiya in its countryside.”\n\nAfter about an hour of cautious calm, the Turkish forces renewed their bombardment of the town’s center and villages in its northern and western countryside.\n\nUntil the moment of making this report, sporadic bombardment is still targeting Zirgan.\n\nThe source added, “The bombardment resulted in the injury of a woman called Ishar al-Hussein from the village of al-Matmoura. She was taken to a hospital in the area to receive proper treatment.”\n\nThe shelling caused damage to some residents’ homes, and displaced people towards safe areas east of Zirgan.\n\nA source in the Tel Tamr Military Council, affiliated with the Syrian Democratic Forces (SDF), told North Press on Tuesday evening that Turkish forces struck with heavy artillery the villages of al-Dardara and al-Aboush, north of the Tel Tamr town. He added that only material damage was reported.\n\nFor the second day in a row, the towns of Tel Tamer and Zirgan – both located on the contact lines separating the SDF from the Turkish forces and their allied opposition factions, known as the Syrian National Army (SNA) – are being subjected to Turkish shelling.\n\nOn Monday evening, the Turkish forces shelled the village of Tel al-Laban, west of Tel Tamr, injuring four people as a result.\n\nReporting by Dilsoz Youssef"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:19:22+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:19:24+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250514074630id_/https://npasyria.com/en/85069/?fbclid=IwAR2KQCdnYlFHxa6VafVYJZk0DqRi2uKzrTwlnBJB15u6WjAAXaSkIuQzM58"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250514074630id_/https://npasyria.com/en/85069/?fbclid=IwAR2KQCdnYlFHxa6VafVYJZk0DqRi2uKzrTwlnBJB15u6WjAAXaSkIuQzM58",
   "incident_ids": [
     "airwars-85001"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/85069/?fbclid=IwAR2KQCdnYlFHxa6VafVYJZk0DqRi2uKzrTwlnBJB15u6WjAAXaSkIuQzM58"
   ],
   "original_url": "https://npasyria.com/en/85069/?fbclid=IwAR2KQCdnYlFHxa6VafVYJZk0DqRi2uKzrTwlnBJB15u6WjAAXaSkIuQzM58",
-  "page_title": "",
+  "page_title": "Woman wounded in Turkish shelling of Syria’s Hasakah Woman wounded in Turkish shelling of Syria’s Hasakah Woman wounded in Turkish shelling of Syria’s Hasakah Woman wounded in Turkish shelling of Syria’s Hasakah - North press agency Woman wounded in Turkish shelling of Syria’s Hasakah - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts559-october-4-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:19:24+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b48cc061548d849f5ef6c718",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/85069/?fbclid=IwAR2KQCdnYlFHxa6VafVYJZk0DqRi2uKzrTwlnBJB15u6WjAAXaSkIuQzM58",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Woman wounded in Turkish shelling of Syria’s Hasakah\n\nTurkish shelling of Umm al-Keif, north of Hasakah – North Press\n\nHASAKAH, Syria (North Press) – A woman was injured on Tuesday evening in Turkish shelling of several villages in the northern countryside of Hasakah, northeast Syria.\n\nA local source told North Press, “Turkish forces targeted with artillery shells this afternoon the center of the town of Zirgan (Abu Rasin) and the villages of al-Nuwaihat, al-Mushayrfa and al-Asadiya in its countryside.”\n\nAfter about an hour of cautious calm, the Turkish forces renewed their bombardment of the town’s center and villages in its northern and western countryside.\n\nUntil the moment of making this report, sporadic bombardment is still targeting Zirgan.\n\nThe source added, “The bombardment resulted in the injury of a woman called Ishar al-Hussein from the village of al-Matmoura. She was taken to a hospital in the area to receive proper treatment.”\n\nThe shelling caused damage to some residents’ homes, and displaced people towards safe areas east of Zirgan.\n\nA source in the Tel Tamr Military Council, affiliated with the Syrian Democratic Forces (SDF), told North Press on Tuesday evening that Turkish forces struck with heavy artillery the villages of al-Dardara and al-Aboush, north of the Tel Tamr town. He added that only material damage was reported.\n\nFor the second day in a row, the towns of Tel Tamer and Zirgan – both located on the contact lines separating the SDF from the Turkish forces and their allied opposition factions, known as the Syrian National Army (SNA) – are being subjected to Turkish shelling.\n\nOn Monday evening, the Turkish forces shelled the village of Tel al-Laban, west of Tel Tamr, injuring four people as a result.\n\nReporting by Dilsoz Youssef",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

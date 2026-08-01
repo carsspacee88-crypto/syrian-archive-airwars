@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/n4YHQ"
+    "https://archive.ph/n4YHQ",
+    "https://web.archive.org/web/20240515143717id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0hc4thgJzkRhvnU4dZCoBQN5WpBXnqfLQVyHTtELfMD3FNF84q39LUqTzotNXLN9Ql&id=100050668411212"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Kafarnabel Live",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "96a0db584656d31d21961d7fa372c218ddfc63d26a07f5e52bd583f3b9f30006",
+  "content_variants": [
+    {
+      "bytes": 635,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:22:00+00:00",
+      "sha256": "96a0db584656d31d21961d7fa372c218ddfc63d26a07f5e52bd583f3b9f30006",
+      "source_url": "https://web.archive.org/web/20240515143717id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0hc4thgJzkRhvnU4dZCoBQN5WpBXnqfLQVyHTtELfMD3FNF84q39LUqTzotNXLN9Ql&id=100050668411212",
+      "text": "عاجل الجمعة٢٠٢٢/١٢/٢\n\nثلاث شهداء نازحين من ريف المعرة\n\"ام الخلاخيل\" جراء استهداف قوات النظام بصاروخ موجه منزل في قرية #اوبين بريف ادلب الغربي\n\nالشهداء...\n\nعاجل الجمعة٢٠٢٢/١٢/٢\n\nثلاث شهداء نازحين من ريف المعرة\n\"ام الخلاخيل\" جراء استهداف قوات النظام بصاروخ موجه منزل في قرية #اوبين بريف ادلب الغربي\n\nالشهداء\n١_محمد محمد العلوش. رجل مسن\n٢_الشاب محمود العلوش..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:21:59+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:22:00+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515143717id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0hc4thgJzkRhvnU4dZCoBQN5WpBXnqfLQVyHTtELfMD3FNF84q39LUqTzotNXLN9Ql&id=100050668411212"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515143717id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0hc4thgJzkRhvnU4dZCoBQN5WpBXnqfLQVyHTtELfMD3FNF84q39LUqTzotNXLN9Ql&id=100050668411212",
   "incident_ids": [
     "airwars-85703"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/permalink.php?story_fbid=pfbid0hc4thgJzkRhvnU4dZCoBQN5WpBXnqfLQVyHTtELfMD3FNF84q39LUqTzotNXLN9Ql&id=100050668411212"
   ],
   "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0hc4thgJzkRhvnU4dZCoBQN5WpBXnqfLQVyHTtELfMD3FNF84q39LUqTzotNXLN9Ql&id=100050668411212",
-  "page_title": "",
+  "page_title": "كفرنبل مباشر/kafranbel Live كفرنبل مباشر/kafranbel Live عاجل الجمعة٢٠٢٢/١٢/٢\n\nثلاث... - كفرنبل مباشر/kafranbel Live",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4748-december-2-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:22:00+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ca0521cd99bdd990c09916d1",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid0hc4thgJzkRhvnU4dZCoBQN5WpBXnqfLQVyHTtELfMD3FNF84q39LUqTzotNXLN9Ql&id=100050668411212",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "عاجل الجمعة٢٠٢٢/١٢/٢\n\nثلاث شهداء نازحين من ريف المعرة\n\"ام الخلاخيل\" جراء استهداف قوات النظام بصاروخ موجه منزل في قرية #اوبين بريف ادلب الغربي\n\nالشهداء...\n\nعاجل الجمعة٢٠٢٢/١٢/٢\n\nثلاث شهداء نازحين من ريف المعرة\n\"ام الخلاخيل\" جراء استهداف قوات النظام بصاروخ موجه منزل في قرية #اوبين بريف ادلب الغربي\n\nالشهداء\n١_محمد محمد العلوش. رجل مسن\n٢_الشاب محمود العلوش...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

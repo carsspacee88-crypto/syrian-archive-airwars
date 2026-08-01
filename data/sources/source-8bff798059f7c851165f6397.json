@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/vUWFj"
+    "https://archive.is/vUWFj",
+    "https://web.archive.org/web/20260308044652id_/https://syria.news/c0094499-19082112.html"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syria News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a15f2378a73948c19102dbe16ae798168ddef060285a233fb2663fa4c64e7a2b",
+  "content_variants": [
+    {
+      "bytes": 548,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:15:35+00:00",
+      "sha256": "a15f2378a73948c19102dbe16ae798168ddef060285a233fb2663fa4c64e7a2b",
+      "source_url": "https://web.archive.org/web/20260308044652id_/https://syria.news/c0094499-19082112.html",
+      "text": "الجمارك تنفي دخول عائلات مقاتلي حزب الله الى سوريا وتوضح ملابسات الاعتداء على الحافلات\nنفى مدير العلاقات في الهيئة العامة للمنافذ والجمارك في سوريا، مازن علوش، دخول عائلات مقاتلي \"حزب الله\" اللبناني الى الاراضي السورية، ضمن حركة نزوح العائلات من لبنان، عقب القصف الاسرائيلي عليه خلال الأيام الماضية."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:15:34+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:15:35+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260308044652id_/https://syria.news/c0094499-19082112.html"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260308044652id_/https://syria.news/c0094499-19082112.html",
   "incident_ids": [
     "airwars-77569"
   ],
@@ -85,10 +109,10 @@
     "https://syria.news/c0094499-19082112.html"
   ],
   "original_url": "https://syria.news/c0094499-19082112.html",
-  "page_title": "",
+  "page_title": "مصادر معارضة: قتلى أغلبهم أطفال بقصف على قرية بلشون بادلب مصادر معارضة: قتلى أغلبهم أطفال بقصف على قرية بلشون بادلب مصادر معارضة: قتلى أغلبهم أطفال بقصف على قرية بلشون بادلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4628-august-19-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:15:35+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-8bff798059f7c851165f6397",
   "source_type": "news_article",
   "stable_id_basis": "https://syria.news/c0094499-19082112.html",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "الجمارك تنفي دخول عائلات مقاتلي حزب الله الى سوريا وتوضح ملابسات الاعتداء على الحافلات\nنفى مدير العلاقات في الهيئة العامة للمنافذ والجمارك في سوريا، مازن علوش، دخول عائلات مقاتلي \"حزب الله\" اللبناني الى الاراضي السورية، ضمن حركة نزوح العائلات من لبنان، عقب القصف الاسرائيلي عليه خلال الأيام الماضية.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/RlBCg"
+    "https://archive.is/RlBCg",
+    "https://web.archive.org/web/20260118082232id_/https://www.zamanalwsl.net/news/article/139413/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaman Al Wasl",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ef6d01221bfe9e0ad947a1d286dbf2e5927b0892c6586ce12230108cd8f0123f",
+  "content_variants": [
+    {
+      "bytes": 261,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:15:11+00:00",
+      "sha256": "ef6d01221bfe9e0ad947a1d286dbf2e5927b0892c6586ce12230108cd8f0123f",
+      "source_url": "https://web.archive.org/web/20260118082232id_/https://www.zamanalwsl.net/news/article/139413/",
+      "text": "24 آب 2021\n\nنيران المقاومة السورية تقتل وتجرح عددا من جنود الأسد\n\n0\n\nالتعليقات\n\nالنظام\n\nقوات\n\nإدلب\n\nإثر\n\nالإثنين\n\nحماة\n\nمحافظة\n\nغرب\n\nتعليقات حول الموضوع"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:15:10+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:15:11+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260118082232id_/https://www.zamanalwsl.net/news/article/139413/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260118082232id_/https://www.zamanalwsl.net/news/article/139413/",
   "incident_ids": [
     "airwars-77700"
   ],
@@ -85,10 +109,10 @@
     "https://www.zamanalwsl.net/news/article/139413/"
   ],
   "original_url": "https://www.zamanalwsl.net/news/article/139413/",
-  "page_title": "",
+  "page_title": "نيران المقاومة السورية تقتل وتجرح عددا من جنود الأسد | زمان الوصل نيران المقاومة السورية تقتل وتجرح عددا من جنود الأسد نيران المقاومة السورية تقتل وتجرح عددا من جنود الأسد",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/irs010-rs4631-august-23-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:15:11+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-84f03d660c85106525253078",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.zamanalwsl.net/news/article/139413/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "24 آب 2021\n\nنيران المقاومة السورية تقتل وتجرح عددا من جنود الأسد\n\n0\n\nالتعليقات\n\nالنظام\n\nقوات\n\nإدلب\n\nإثر\n\nالإثنين\n\nحماة\n\nمحافظة\n\nغرب\n\nتعليقات حول الموضوع",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

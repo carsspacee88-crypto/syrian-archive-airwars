@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/pB8tw"
+    "https://archive.is/pB8tw",
+    "https://web.archive.org/web/20250316154352id_/https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alkhmys-20-10-2022"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "af7fb7750e30c81c77d667cd6690a675bc1bdc8bd92e909a12c97204c2410131",
+  "content_variants": [
+    {
+      "bytes": 1377,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:20:22+00:00",
+      "sha256": "af7fb7750e30c81c77d667cd6690a675bc1bdc8bd92e909a12c97204c2410131",
+      "source_url": "https://web.archive.org/web/20250316154352id_/https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alkhmys-20-10-2022",
+      "text": "أطفال في مخيم \"بسمة أمل\" في ريف #إدلب الغربي\n\nحصاد الأحداث الميدانية ليوم الخميس 20-10-2022\n\nحلب::استهدفت ميليشيا قوات سوريا الديمقراطية \"قسد\" محيط بلدة دابق بالريف الشمالي بقذائف صاروخية.\n\nإدلب::تعرضت قرى البارة ومحمبل وكدورة ومنطف ومجدليا والصحن والعالية لقصف مدفعي من قبل قوات الأسد.\n\nأصيب طفلين بجروح إثر قيام قوات الأسد باستهداف سيارة لمدنيين يعملون بقطاف الزيتون بمزارع قرية معربليت بالريف الجنوبي، بصاروخ حراري موجه.\n\nحماة::استهدفت فصائل الثوار معاقل قوات الأسد في قرية شطحة بالريف الغربي بقذائف المدفعية.\n\nدرعا::أطلق مجهولون النار على أحد عملاء الأمن العسكري على أطراف حي المنشية بدرعا البلد، ما أدى لمقتله.\n\nعُثر على جثة قيادي بتنظيم الدولة في الساحة العامة بمدينة جاسم، علما أن عناصر تابعين للواء الثامن كانوا قد اعتقلوه خلال حملة مداهمات في المدينة مؤخرا."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:20:21+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:20:22+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250316154352id_/https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alkhmys-20-10-2022"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250316154352id_/https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alkhmys-20-10-2022",
   "incident_ids": [
     "airwars-85188"
   ],
@@ -85,10 +109,10 @@
     "https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alkhmys-20-10-2022"
   ],
   "original_url": "https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alkhmys-20-10-2022",
-  "page_title": "",
+  "page_title": "حصاد الأحداث الميدانية ليوم الخميس 20-10-2022 | شبكة شام الإخبارية حصاد الأحداث الميدانية ليوم الخميس 20-10-2022 حصاد الأحداث الميدانية ليوم الخميس 20-10-2022",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4732-october-20-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:20:22+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-bd7b22dd97b3240ae0a4b0ea",
   "source_type": "news_article",
   "stable_id_basis": "https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alkhmys-20-10-2022",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "أطفال في مخيم \"بسمة أمل\" في ريف #إدلب الغربي\n\nحصاد الأحداث الميدانية ليوم الخميس 20-10-2022\n\nحلب::استهدفت ميليشيا قوات سوريا الديمقراطية \"قسد\" محيط بلدة دابق بالريف الشمالي بقذائف صاروخية.\n\nإدلب::تعرضت قرى البارة ومحمبل وكدورة ومنطف ومجدليا والصحن والعالية لقصف مدفعي من قبل قوات الأسد.\n\nأصيب طفلين بجروح إثر قيام قوات الأسد باستهداف سيارة لمدنيين يعملون بقطاف الزيتون بمزارع قرية معربليت بالريف الجنوبي، بصاروخ حراري موجه.\n\nحماة::استهدفت فصائل الثوار معاقل قوات الأسد في قرية شطحة بالريف الغربي بقذائف المدفعية.\n\nدرعا::أطلق مجهولون النار على أحد عملاء الأمن العسكري على أطراف حي المنشية بدرعا البلد، ما أدى لمقتله.\n\nعُثر على جثة قيادي بتنظيم الدولة في الساحة العامة بمدينة جاسم، علما أن عناصر تابعين للواء الثامن كانوا قد اعتقلوه خلال حملة مداهمات في المدينة مؤخرا.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

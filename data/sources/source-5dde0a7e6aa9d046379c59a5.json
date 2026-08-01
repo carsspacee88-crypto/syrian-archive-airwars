@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/s7mRu"
+    "https://archive.is/s7mRu",
+    "https://web.archive.org/web/20240515223630id_/https://www.facebook.com/EdlibEmc1/posts/2981492958730920"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "EMC",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "933d324f28d70aacafc269c240db18b25d36379f19a3a2dcea33705f84e0477a",
+  "content_variants": [
+    {
+      "bytes": 210,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:10:37+00:00",
+      "sha256": "933d324f28d70aacafc269c240db18b25d36379f19a3a2dcea33705f84e0477a",
+      "source_url": "https://web.archive.org/web/20240515223630id_/https://www.facebook.com/EdlibEmc1/posts/2981492958730920",
+      "text": "مركز #إدلب الإعلامي\nعاجل | شهداء و جرحى من بينهم أطفال جراء قصف مدفعي للنظام على بلدة #قسطون في سهل الغاب غرب #حماه.\n#EMC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:10:33+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:10:37+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515223630id_/https://www.facebook.com/EdlibEmc1/posts/2981492958730920"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515223630id_/https://www.facebook.com/EdlibEmc1/posts/2981492958730920",
   "incident_ids": [
     "airwars-76990"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/EdlibEmc1/posts/2981492958730920"
   ],
   "original_url": "https://www.facebook.com/EdlibEmc1/posts/2981492958730920",
-  "page_title": "",
+  "page_title": "مركز إدلب الإعلامي Edlib Media Center مركز إدلب الإعلامي Edlib Media Center مركز #إدلب... - مركز إدلب الإعلامي Edlib Media Center",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4617-august-7-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:10:37+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5dde0a7e6aa9d046379c59a5",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/EdlibEmc1/posts/2981492958730920",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مركز #إدلب الإعلامي\nعاجل | شهداء و جرحى من بينهم أطفال جراء قصف مدفعي للنظام على بلدة #قسطون في سهل الغاب غرب #حماه.\n#EMC",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/mFBE5"
+    "https://archive.ph/mFBE5",
+    "https://web.archive.org/web/20240309071227id_/https://anfarabic.com/akhr-l-khbr/qsf-trky-ly-ryf-alshhba-ysfr-n-asabt-tfl-wwaldh-102876"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d4b6122c03e1630f5d30bc8e7c8281c19633a81b28ec3f07791ab39390f7f7c4",
+  "content_variants": [
+    {
+      "bytes": 1181,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:11:13+00:00",
+      "sha256": "d4b6122c03e1630f5d30bc8e7c8281c19633a81b28ec3f07791ab39390f7f7c4",
+      "source_url": "https://web.archive.org/web/20240309071227id_/https://anfarabic.com/akhr-l-khbr/qsf-trky-ly-ryf-alshhba-ysfr-n-asabt-tfl-wwaldh-102876",
+      "text": "وكالة فرات للأنباء\n\nمركز الاخبار\n\nالسبت, ٩ مارس ٢٠٢٤, ١٠:٠٠\n\nقصف جيش الاحتلال التركي أمس الجمعة، قرية شيخ عيسى في منطقة الشهباء بالأسلحة الثقيلة، ما أسفر عن إصابة مواطنين اثنين من أهالي القرية، وهما طفل ووالده، بجروح بليغة أثناء عملهما في الحقول.\n\nوالمصابان هما: \"الأب محمد طالب حميدان (40 عاماً)؛ أصيب بشظية في البطن مع خروج الأمعاء وشظية في الفخذ الأيمن، والطفل طالب محمد حميدان (17 عاماً) وأصيب بجروح في الكلية اليسرى\".\n\nوقد نُقلا إلى مشفى آفرين في ناحية فافين لتلقي العلاج، ووضعهما حرج.\n\nويشن جيش الاحتلال التركي هجماته البربرية بشكل يومي على القرى الواقعة على طول خطوط الجبهات بالطائرات المسيّرة وقذائف الهاون والمدفعية علماً أن هذه القرى آهلة بالسكان."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:11:12+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:11:13+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240309071227id_/https://anfarabic.com/akhr-l-khbr/qsf-trky-ly-ryf-alshhba-ysfr-n-asabt-tfl-wwaldh-102876"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240309071227id_/https://anfarabic.com/akhr-l-khbr/qsf-trky-ly-ryf-alshhba-ysfr-n-asabt-tfl-wwaldh-102876",
   "incident_ids": [
     "airwars-116397"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/akhr-l-khbr/qsf-trky-ly-ryf-alshhba-ysfr-n-asabt-tfl-wwaldh-102876"
   ],
   "original_url": "https://anfarabic.com/akhr-l-khbr/qsf-trky-ly-ryf-alshhba-ysfr-n-asabt-tfl-wwaldh-102876",
-  "page_title": "",
+  "page_title": "ANF |\nقصف تركي على ريف الشهباء يسفر عن إصابة طفل ووالده قصف تركي على ريف الشهباء يسفر عن إصابة طفل ووالده قصف تركي على ريف الشهباء يسفر عن إصابة طفل ووالده",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts687-march-8-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:11:13+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-60f4ff8d0b6d1b4be3db3a15",
   "source_type": "news_article",
   "stable_id_basis": "https://anfarabic.com/akhr-l-khbr/qsf-trky-ly-ryf-alshhba-ysfr-n-asabt-tfl-wwaldh-102876",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "وكالة فرات للأنباء\n\nمركز الاخبار\n\nالسبت, ٩ مارس ٢٠٢٤, ١٠:٠٠\n\nقصف جيش الاحتلال التركي أمس الجمعة، قرية شيخ عيسى في منطقة الشهباء بالأسلحة الثقيلة، ما أسفر عن إصابة مواطنين اثنين من أهالي القرية، وهما طفل ووالده، بجروح بليغة أثناء عملهما في الحقول.\n\nوالمصابان هما: \"الأب محمد طالب حميدان (40 عاماً)؛ أصيب بشظية في البطن مع خروج الأمعاء وشظية في الفخذ الأيمن، والطفل طالب محمد حميدان (17 عاماً) وأصيب بجروح في الكلية اليسرى\".\n\nوقد نُقلا إلى مشفى آفرين في ناحية فافين لتلقي العلاج، ووضعهما حرج.\n\nويشن جيش الاحتلال التركي هجماته البربرية بشكل يومي على القرى الواقعة على طول خطوط الجبهات بالطائرات المسيّرة وقذائف الهاون والمدفعية علماً أن هذه القرى آهلة بالسكان.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

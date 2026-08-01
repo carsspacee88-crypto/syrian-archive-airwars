@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/6OGDJ"
+    "https://archive.is/6OGDJ",
+    "https://web.archive.org/web/20220120142711id_/https://twitter.com/Kalmuqdad/status/1484169333429444608"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@Kalmuqdad",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "001bb76320ec35c2e1772f808c81955c8295431d240a944392e2736ab46b486e",
+  "content_variants": [
+    {
+      "bytes": 718,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:14:36+00:00",
+      "sha256": "001bb76320ec35c2e1772f808c81955c8295431d240a944392e2736ab46b486e",
+      "source_url": "https://web.archive.org/web/20220120142711id_/https://twitter.com/Kalmuqdad/status/1484169333429444608",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\n35 إصابة من المدنيين بين شهيد وجريح بقصف وحدات الحماية #قسد على الأحياء السكنية لمدينة #عفرين\n\nمرتزقة الفصائل تركوا الناس نهبا للتشريد والجوع والبرد، والقتل على يد العصابة وروسيا وايران وقسد، بينما هم منشغلون بالتهريب والمعابر وحضور المؤتمرات.pic.twitter.com/gZEZIWFIwO\n\n2 Retweets\n\n5 Likes\n\nShow more replies\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:14:35+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:14:36+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220120142711id_/https://twitter.com/Kalmuqdad/status/1484169333429444608"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220120142711id_/https://twitter.com/Kalmuqdad/status/1484169333429444608",
   "incident_ids": [
     "airwars-81349"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/Kalmuqdad/status/1484169333429444608"
   ],
   "original_url": "https://twitter.com/Kalmuqdad/status/1484169333429444608",
-  "page_title": "",
+  "page_title": "خليل المقداد on Twitter: \"35 إصابة من المدنيين بين شهيد وجريح بقصف وحدات الحماية #قسد على الأحياء السكنية لمدينة #عفرين\n\nمرتزقة الفصائل تركوا الناس نهبا للتشريد والجوع والبرد، والقتل على يد العصابة وروسيا وايران وقسد، بينما هم منشغلون بالتهريب والمعابر وحضور المؤتمرات.… https://t.co/Dcr4MsVZSY\" خليل المقداد on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys122-january-20-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:14:36+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7779e93ecededde04295c881",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/Kalmuqdad/status/1484169333429444608",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\n35 إصابة من المدنيين بين شهيد وجريح بقصف وحدات الحماية #قسد على الأحياء السكنية لمدينة #عفرين\n\nمرتزقة الفصائل تركوا الناس نهبا للتشريد والجوع والبرد، والقتل على يد العصابة وروسيا وايران وقسد، بينما هم منشغلون بالتهريب والمعابر وحضور المؤتمرات.pic.twitter.com/gZEZIWFIwO\n\n2 Retweets\n\n5 Likes\n\nShow more replies\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

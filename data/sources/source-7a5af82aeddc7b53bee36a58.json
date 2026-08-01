@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/FP33L"
+    "https://archive.is/FP33L",
+    "https://web.archive.org/web/20250619110402id_/https://www.sana.sy/en/?p=300988"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SANA",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8f597afdbd43972a9ffd885d36e6eafb6fc78c64b9cf9a880dc0c92072e5fc37",
+  "content_variants": [
+    {
+      "bytes": 949,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:14:58+00:00",
+      "sha256": "8f597afdbd43972a9ffd885d36e6eafb6fc78c64b9cf9a880dc0c92072e5fc37",
+      "source_url": "https://web.archive.org/web/20250619110402id_/https://www.sana.sy/en/?p=300988",
+      "text": "19 February، 2023\n\nDamascus, SANA- Five people were martyred and 15 others were wounded in an Israeli air aggression, with waves of missiles, targeting areas in Damascus and its vicinity, including residential neighborhoods.\n\n“At 00:22 a.m. Sunday at dawn, the Israeli enemy carried out an air aggression with waves of missiles from the direction of occupied Syrian Golan, targeting some points in Damascus city and its surroundings, including residential neighborhoods, our air defenses intercepted the missiles and downed most of them”, a military source told SANA.\n\nThe source added that the aggression caused, as a preliminary toll, the death of five people, among them a soldier, and wounded 15 civilians, some of critical cases.\n\nThe source stressed that the Israeli aggression also destroyed a number of civilian houses and caused material damage to several neighborhoods in Damascus and its vicinity.\n\nRafah al-Allouni/ Hala Zain\n\ntweet"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:14:57+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:14:58+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250619110402id_/https://www.sana.sy/en/?p=300988"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250619110402id_/https://www.sana.sy/en/?p=300988",
   "incident_ids": [
     "airwars-87637"
   ],
@@ -85,10 +109,10 @@
     "https://sana.sy/en/?p=300988"
   ],
   "original_url": "https://sana.sy/en/?p=300988",
-  "page_title": "",
+  "page_title": "Five people martyred, 15 wounded in Israeli aggression on Damascus and its vicinity – Syrian Arab News Agency Five people martyred, 15 wounded in Israeli aggression on Damascus and its vicinity - Syrian Arab News Agency Five people martyred, 15 wounded in Israeli aggression on Damascus and its vicinity Five people martyred, 15 wounded in Israeli aggression on Damascus and its vicinity",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy029-february-19-2023/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:14:58+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7a5af82aeddc7b53bee36a58",
   "source_type": "other_web_page",
   "stable_id_basis": "https://sana.sy/en/?p=300988",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "19 February، 2023\n\nDamascus, SANA- Five people were martyred and 15 others were wounded in an Israeli air aggression, with waves of missiles, targeting areas in Damascus and its vicinity, including residential neighborhoods.\n\n“At 00:22 a.m. Sunday at dawn, the Israeli enemy carried out an air aggression with waves of missiles from the direction of occupied Syrian Golan, targeting some points in Damascus city and its surroundings, including residential neighborhoods, our air defenses intercepted the missiles and downed most of them”, a military source told SANA.\n\nThe source added that the aggression caused, as a preliminary toll, the death of five people, among them a soldier, and wounded 15 civilians, some of critical cases.\n\nThe source stressed that the Israeli aggression also destroyed a number of civilian houses and caused material damage to several neighborhoods in Damascus and its vicinity.\n\nRafah al-Allouni/ Hala Zain\n\ntweet",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

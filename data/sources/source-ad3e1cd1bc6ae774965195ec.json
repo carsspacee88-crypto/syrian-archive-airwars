@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/SzVOV"
+    "https://archive.is/SzVOV",
+    "https://web.archive.org/web/20230330181045id_/https://www.syriahr.com/en/221271/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "12a2d65091fc8d2ae3e40aaba5b2a35cb75dcbb4039276f93929dc64863e2cd1",
+  "content_variants": [
+    {
+      "bytes": 1633,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:18:14+00:00",
+      "sha256": "12a2d65091fc8d2ae3e40aaba5b2a35cb75dcbb4039276f93929dc64863e2cd1",
+      "source_url": "https://web.archive.org/web/20230330181045id_/https://www.syriahr.com/en/221271/",
+      "text": "Al-Hasakah | Turkish bombardment on Tel Tamr countryside leaves civilians injured, while Russian forces run patrol in al-Darbasiyah countryside\n\nAl-Hasakah province: SOHR sources have reported that a young man and a woman were injured due to Turkish bombardment on al-Dardarah village and its surrounding areas in Tel Tamr countryside, which lasted until this morning. SDF responded to the Turkish bombardment by firing several artillery shells on positions of Turkish forces and their proxy factions.\n\nOn the other hand, SOHR sources have reported seeing four Russian vehicles touring the western countryside of al-Darbasiyah, where they headed to Kasra village, along with the flight of two Russian helicopters over the area.\n\nOn August 22, SOHR activists reported exchange of bombardment between Tel Tamr Miliatry Council Forces and Turkish-backed factions in the villages of Dardarah, Nuwayhat, Dada Abdal and Tel Mannakh in the countryside of Abu Rasin (Zarkan) and Tel Tamr. No casualties were reported.\n\nPrev Post\n\nAleppo | Clashes renew between Turkish-backed factions and Kurdish forces, while Turkish forces shell six Kurdish-held villages\n\nNext Post\n\nMilitary escalation | Over 20 soldiers killed and injured in Turkish bombardment on regime positions in Tel Tamr countryside\n\nReconnaissance tour | US patrol escorted by SDF vehicle tour areas in Al-Qamishli…\n\nSeeking to collect money | Turkish-backed factions stationed at Awn Al-Dadat crossing…\n\nBelonging to members of military intelligence branch | Unknown gunmen attack two…\n\nNW Syria | Strong wind causes substantial material damage and leaves 15 civilians…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:18:12+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:18:14+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230330181045id_/https://www.syriahr.com/en/221271/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230330181045id_/https://www.syriahr.com/en/221271/",
   "incident_ids": [
     "airwars-77707"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/221271/"
   ],
   "original_url": "https://www.syriahr.com/en/221271/",
-  "page_title": "",
+  "page_title": "Al-Hasakah | Turkish bombardment on Tel Tamr countryside leaves civilians injured, while Russian forces run patrol in al-Darbasiyah countryside • The Syrian Observatory For Human Rights Al-Hasakah | Turkish bombardment on Tel Tamr countryside leaves civilians injured, while Russian forces run patrol in al-Darbasiyah countryside • The Syrian Observatory For Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts472-august-23-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:18:14+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ad3e1cd1bc6ae774965195ec",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/221271/",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Al-Hasakah | Turkish bombardment on Tel Tamr countryside leaves civilians injured, while Russian forces run patrol in al-Darbasiyah countryside\n\nAl-Hasakah province: SOHR sources have reported that a young man and a woman were injured due to Turkish bombardment on al-Dardarah village and its surrounding areas in Tel Tamr countryside, which lasted until this morning. SDF responded to the Turkish bombardment by firing several artillery shells on positions of Turkish forces and their proxy factions.\n\nOn the other hand, SOHR sources have reported seeing four Russian vehicles touring the western countryside of al-Darbasiyah, where they headed to Kasra village, along with the flight of two Russian helicopters over the area.\n\nOn August 22, SOHR activists reported exchange of bombardment between Tel Tamr Miliatry Council Forces and Turkish-backed factions in the villages of Dardarah, Nuwayhat, Dada Abdal and Tel Mannakh in the countryside of Abu Rasin (Zarkan) and Tel Tamr. No casualties were reported.\n\nPrev Post\n\nAleppo | Clashes renew between Turkish-backed factions and Kurdish forces, while Turkish forces shell six Kurdish-held villages\n\nNext Post\n\nMilitary escalation | Over 20 soldiers killed and injured in Turkish bombardment on regime positions in Tel Tamr countryside\n\nReconnaissance tour | US patrol escorted by SDF vehicle tour areas in Al-Qamishli…\n\nSeeking to collect money | Turkish-backed factions stationed at Awn Al-Dadat crossing…\n\nBelonging to members of military intelligence branch | Unknown gunmen attack two…\n\nNW Syria | Strong wind causes substantial material damage and leaves 15 civilians…",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

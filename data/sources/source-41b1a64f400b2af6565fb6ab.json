@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/eITel"
+    "https://archive.md/eITel",
+    "https://web.archive.org/web/20211108072001id_/https://twitter.com/YusufAd76532779/status/1457608798386917376"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@YusufAd76532779",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0527904b72b514d857509cf17f849b8fda7fc01c5c4f240e45a3135d6ce11647",
+  "content_variants": [
+    {
+      "bytes": 444,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:05:21+00:00",
+      "sha256": "0527904b72b514d857509cf17f849b8fda7fc01c5c4f240e45a3135d6ce11647",
+      "source_url": "https://web.archive.org/web/20211108072001id_/https://twitter.com/YusufAd76532779/status/1457608798386917376",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\n#ديرالزور_الريف_الغربي\nالتحالف الدولي ينفذ غارة جوية على منزل في قرية #فنيجين في بادية #أبو_خشب غرب ديرالزور\n#مراسل_الشرقية_الرسمي\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:05:20+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:05:21+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211108072001id_/https://twitter.com/YusufAd76532779/status/1457608798386917376"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211108072001id_/https://twitter.com/YusufAd76532779/status/1457608798386917376",
   "incident_ids": [
     "airwars-79930"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/YusufAd76532779/status/1457608798386917376"
   ],
   "original_url": "https://twitter.com/YusufAd76532779/status/1457608798386917376",
-  "page_title": "",
+  "page_title": "مراسل الشرقية on Twitter: \"#ديرالزور_الريف_الغربي\nالتحالف الدولي ينفذ غارة جوية على منزل في قرية #فنيجين في بادية #أبو_خشب غرب ديرالزور\n#مراسل_الشرقية_الرسمي ✅\" مراسل الشرقية on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1971-november-8-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:05:21+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-41b1a64f400b2af6565fb6ab",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/YusufAd76532779/status/1457608798386917376",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\n#ديرالزور_الريف_الغربي\nالتحالف الدولي ينفذ غارة جوية على منزل في قرية #فنيجين في بادية #أبو_خشب غرب ديرالزور\n#مراسل_الشرقية_الرسمي\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

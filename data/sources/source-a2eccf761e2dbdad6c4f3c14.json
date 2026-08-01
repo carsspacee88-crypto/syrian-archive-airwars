@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/3RBsE"
+    "https://archive.is/3RBsE",
+    "https://web.archive.org/web/20241003152942id_/https://sana.sy/en/?p=339353"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SANA news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f92ddb25549ffab46dabe2d76f9957224f621fd288a88c106900024ce0967678",
+  "content_variants": [
+    {
+      "bytes": 816,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:17:46+00:00",
+      "sha256": "f92ddb25549ffab46dabe2d76f9957224f621fd288a88c106900024ce0967678",
+      "source_url": "https://web.archive.org/web/20241003152942id_/https://sana.sy/en/?p=339353",
+      "text": "1 October، 2024\n\nDamascus, SANA-Our air defense systems confronted an Israeli aggression that targeted a number of points in Damascus city, which resulted in the martyrdom of three civilians, the injury of nine others, and significant material damage.\n\n“At about 2:05 am on Tuesday morning the Israeli enemy carried out an air aggression with military aircraft and drones from the direction of the occupied Syrian Golan, targeting a number of points in the city of Damascus. “A military source said in a statement.\n\nThe air defense forces responded to the aggression’s missiles and downed some of them “the military source added.\n\nThe source continued: “The aggression led to the martyrdom of three civilians, the injury of nine others, and significant damage to private property.”\n\nManar Salameh\n\ntweet"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:17:45+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:17:46+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241003152942id_/https://sana.sy/en/?p=339353"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241003152942id_/https://sana.sy/en/?p=339353",
   "incident_ids": [
     "airwars-120331"
   ],
@@ -85,10 +109,10 @@
     "https://sana.sy/en/?p=339353"
   ],
   "original_url": "https://sana.sy/en/?p=339353",
-  "page_title": "",
+  "page_title": "Three civilians martyred, nine others injured in Israeli aggression on Damascus – Syrian Arab News Agency Three civilians martyred, nine others injured in Israeli aggression on Damascus - Syrian Arab News Agency Three civilians martyred, nine others injured in Israeli aggression on Damascus Three civilians martyred, nine others injured in Israeli aggression on Damascus",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy053-october-1-2024/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:17:46+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-a2eccf761e2dbdad6c4f3c14",
   "source_type": "news_article",
   "stable_id_basis": "https://sana.sy/en/?p=339353",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "1 October، 2024\n\nDamascus, SANA-Our air defense systems confronted an Israeli aggression that targeted a number of points in Damascus city, which resulted in the martyrdom of three civilians, the injury of nine others, and significant material damage.\n\n“At about 2:05 am on Tuesday morning the Israeli enemy carried out an air aggression with military aircraft and drones from the direction of the occupied Syrian Golan, targeting a number of points in the city of Damascus. “A military source said in a statement.\n\nThe air defense forces responded to the aggression’s missiles and downed some of them “the military source added.\n\nThe source continued: “The aggression led to the martyrdom of three civilians, the injury of nine others, and significant damage to private property.”\n\nManar Salameh\n\ntweet",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

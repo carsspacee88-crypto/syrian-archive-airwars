@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/q45uz"
+    "https://archive.ph/q45uz",
+    "https://web.archive.org/web/20240910170152id_/https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-almwatn-mhmd-sadq-aldhy-asyb-fy-qsf-llahtlal-altrky-109668"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "07f40a3d983ed44e6059475bc1d11d107fc3279de4ad2c74d54a93a852497b25",
+  "content_variants": [
+    {
+      "bytes": 667,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:02:49+00:00",
+      "sha256": "07f40a3d983ed44e6059475bc1d11d107fc3279de4ad2c74d54a93a852497b25",
+      "source_url": "https://web.archive.org/web/20240910170152id_/https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-almwatn-mhmd-sadq-aldhy-asyb-fy-qsf-llahtlal-altrky-109668",
+      "text": "وكالة فرات\n\nمركز الاخبار\n\nالاثنين, ٩ سبتمبر ٢٠٢٤, ١٧:١٢\n\nقصف جيش الاحتلال التركي، ظهر اليوم قرية دير جمال التابعة لبلدة شيراوا في ريف مقاطعة عفرين والشهباء.\n\nوأسفر القصف عن إصابة المواطن محمد صادق، 30 عاماً، بجروح، نقل على إثرها إلى المشفى.\n\nووفق المعلومات الواردة ، فإنه ونتيجة الإصابة البليغة استشهد محمد صادق في المشفى، وأشارت إلى أنه من سكان قرية كفرناصح في المقاطعة."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:02:48+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:02:49+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240910170152id_/https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-almwatn-mhmd-sadq-aldhy-asyb-fy-qsf-llahtlal-altrky-109668"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240910170152id_/https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-almwatn-mhmd-sadq-aldhy-asyb-fy-qsf-llahtlal-altrky-109668",
   "incident_ids": [
     "airwars-126448"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/روج آفا - سوريا/astshhad-almwatn-mhmd-sadq-aldhy-asyb-fy-qsf-llahtlal-altrky-109668"
   ],
   "original_url": "https://anfarabic.com/روج آفا - سوريا/astshhad-almwatn-mhmd-sadq-aldhy-asyb-fy-qsf-llahtlal-altrky-109668",
-  "page_title": "",
+  "page_title": "ANF |\nاستشهاد مواطن أصيب في قصف للاحتلال التركي على قرى الشهباء استشهاد مواطن أصيب في قصف للاحتلال التركي على قرى الشهباء استشهاد مواطن أصيب في قصف للاحتلال التركي على قرى الشهباء",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts713-september-9-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:02:49+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-303b431675f418351534800c",
   "source_type": "news_article",
   "stable_id_basis": "https://anfarabic.com/روج آفا - سوريا/astshhad-almwatn-mhmd-sadq-aldhy-asyb-fy-qsf-llahtlal-altrky-109668",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "وكالة فرات\n\nمركز الاخبار\n\nالاثنين, ٩ سبتمبر ٢٠٢٤, ١٧:١٢\n\nقصف جيش الاحتلال التركي، ظهر اليوم قرية دير جمال التابعة لبلدة شيراوا في ريف مقاطعة عفرين والشهباء.\n\nوأسفر القصف عن إصابة المواطن محمد صادق، 30 عاماً، بجروح، نقل على إثرها إلى المشفى.\n\nووفق المعلومات الواردة ، فإنه ونتيجة الإصابة البليغة استشهد محمد صادق في المشفى، وأشارت إلى أنه من سكان قرية كفرناصح في المقاطعة.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/mB2Qs"
+    "https://archive.is/mB2Qs",
+    "https://web.archive.org/web/20241215231349id_/https://npasyria.com/160399/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "bcbcc8270fced1f318bdb56a4b7edbdadd8e9de857fe2da45fe1cd6ab471c7c5",
+  "content_variants": [
+    {
+      "bytes": 1958,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:15:40+00:00",
+      "sha256": "bcbcc8270fced1f318bdb56a4b7edbdadd8e9de857fe2da45fe1cd6ab471c7c5",
+      "source_url": "https://web.archive.org/web/20241215231349id_/https://npasyria.com/160399/",
+      "text": "قتلى وجرحى في قصف متبادل بمناطق خفض التصعيد في سوريا\n\nقصف للقوات الحكومية على ريف إدلب - متداول\n\nإدلب – نورث برس\n\nشهدت مناطق خفض التصعيد في ريفي إدلب وحلب شمال غربي سوريا، الاثنين، تجدداً لعمليات القصف المتبادل بين فصائل المعارضة السورية وقوات الحكومة السورية على محاور مختلفة، أسفرت عن وقوع قتلى وجرحى.\n\nوقالت مصادر عسكرية معارضة لنورث برس، إن قوات الحكومة استهدفت بقذائف المدفعية الثقيلة والصواريخ مواقع في أطراف قرى وبلدات الفطيرة وكفرعويد وسفوهن وكنصفرة والبارة ومعربليت بجبل الزاوية جنوبي إدلب.\n\nوأضافت المصادر أن القصف أسفر عن مقتل عنصرين وإصابة آخرين من فصيل “جيش النخبة” التابع لفصائل المعارضة السورية، في بلدة البارة جنوبي إدلب.\n\nفي غضون ذلك، أفادت مصادر عسكرية في “غرفة عمليات الفتح المبين” والتي تضم فصائل تكفيرية متشددة، بأن فصائل الغرفة استهدفت بقذائف المدفعية الثقيلة والصواريخ مواقع للقوات الحكومية في الفوج 46 غربي حلب والملاجة وكفرنبل جنوبي إدلب.\n\nويوم أمس، أصيب رجل وطفله جراء قصف مدفعي لقوات الحكومة السورية على قرية كفرعمة بريف حلب الغربي، حيث تشهد المنطقة منذ أيام تصعيداً عسكرياً وقصفاً متبادلاً بين طرفي الصراع.\n\nإعداد: مؤيد الشيخ – تحرير: مالين محمد"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:15:39+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:15:40+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241215231349id_/https://npasyria.com/160399/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241215231349id_/https://npasyria.com/160399/",
   "incident_ids": [
     "airwars-92597"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/160399/"
   ],
   "original_url": "https://npasyria.com/160399/",
-  "page_title": "",
+  "page_title": "قتلى وجرحى في قصف متبادل بمناطق خفض التصعيد في سوريا قتلى وجرحى في قصف متبادل بمناطق خفض التصعيد في سوريا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4787-july-23-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:15:40+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-93ed215af4d68bedc5b33e93",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/160399/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قتلى وجرحى في قصف متبادل بمناطق خفض التصعيد في سوريا\n\nقصف للقوات الحكومية على ريف إدلب - متداول\n\nإدلب – نورث برس\n\nشهدت مناطق خفض التصعيد في ريفي إدلب وحلب شمال غربي سوريا، الاثنين، تجدداً لعمليات القصف المتبادل بين فصائل المعارضة السورية وقوات الحكومة السورية على محاور مختلفة، أسفرت عن وقوع قتلى وجرحى.\n\nوقالت مصادر عسكرية معارضة لنورث برس، إن قوات الحكومة استهدفت بقذائف المدفعية الثقيلة والصواريخ مواقع في أطراف قرى وبلدات الفطيرة وكفرعويد وسفوهن وكنصفرة والبارة ومعربليت بجبل الزاوية جنوبي إدلب.\n\nوأضافت المصادر أن القصف أسفر عن مقتل عنصرين وإصابة آخرين من فصيل “جيش النخبة” التابع لفصائل المعارضة السورية، في بلدة البارة جنوبي إدلب.\n\nفي غضون ذلك، أفادت مصادر عسكرية في “غرفة عمليات الفتح المبين” والتي تضم فصائل تكفيرية متشددة، بأن فصائل الغرفة استهدفت بقذائف المدفعية الثقيلة والصواريخ مواقع للقوات الحكومية في الفوج 46 غربي حلب والملاجة وكفرنبل جنوبي إدلب.\n\nويوم أمس، أصيب رجل وطفله جراء قصف مدفعي لقوات الحكومة السورية على قرية كفرعمة بريف حلب الغربي، حيث تشهد المنطقة منذ أيام تصعيداً عسكرياً وقصفاً متبادلاً بين طرفي الصراع.\n\nإعداد: مؤيد الشيخ – تحرير: مالين محمد",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

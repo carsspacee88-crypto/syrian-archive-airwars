@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/ipwPU"
+    "https://archive.is/ipwPU",
+    "https://web.archive.org/web/20241209104350id_/https://www.syria.tv/%D9%82%D8%AA%D9%8A%D9%84-%D9%88%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%AC%D8%B1%D8%AD%D9%89-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%B3%D8%B1%D9%85%D9%8A%D9%86-%D8%A8%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syria TV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "147669838f44aff94664c8e146ea873f2293550a9b765b8cffa06bcf819ec20d",
+  "content_variants": [
+    {
+      "bytes": 1507,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:24:44+00:00",
+      "sha256": "147669838f44aff94664c8e146ea873f2293550a9b765b8cffa06bcf819ec20d",
+      "source_url": "https://web.archive.org/web/20241209104350id_/https://www.syria.tv/%D9%82%D8%AA%D9%8A%D9%84-%D9%88%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%AC%D8%B1%D8%AD%D9%89-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%B3%D8%B1%D9%85%D9%8A%D9%86-%D8%A8%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+      "text": "قتيل وثلاثة جرحى أطفال بقصف مدفعي للنظام على سرمين بإدلب |فيديو\n\nقتل طفل وجرح ثلاثة آخرون، يوم الأحد، بقصف مدفعي لقوات النظام السوري استهدف مدينة سرمين شرقي إدلب.\n\nوقال مراسل تلفزيون سوريا إن قوات النظام استهدفت مدينة سرمين بقذيفتين إحداها استهدفت السوق، وذلك من مواقع النظام في مدينة سراقب القريبة.\n\nوأدّى القصف إلى مقتل طفل يبلغ من العمر 15 عاماً، وإصابة ثلاثة أطفال آخرين بجروح.\n\nإصابات بقصف للنظام وروسيا قرب مخيم للنازحين شمالي إدلب |فيديو\n\nقصف للنظام في حماة وإدلب تزامناً مع الزلزال\n\nفي شباط الماضي، قصفت قوات النظام السوري بالمدفعية الثقيلة بلدات في ريفي حماة وإدلب، وذلك بعد ساعات من وقوع الزلزال المزدوج الذي ضرب مناطق في سوريا وتركيا.\n\nوذكر مراسل تلفزيون سوريا أنّ بلدة بنين في جبل الزاوية بريف إدلب، وخربة الناقوس والمنصورة في شمال غربي حماة تعرّضت لقصف مدفعي من مواقع قوات النظام السوري المحيطة.\n\nاخترنا لك\n\nالأكثر قراءة"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:24:44+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:24:44+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241209104350id_/https://www.syria.tv/%D9%82%D8%AA%D9%8A%D9%84-%D9%88%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%AC%D8%B1%D8%AD%D9%89-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%B3%D8%B1%D9%85%D9%8A%D9%86-%D8%A8%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241209104350id_/https://www.syria.tv/%D9%82%D8%AA%D9%8A%D9%84-%D9%88%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%AC%D8%B1%D8%AD%D9%89-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%B3%D8%B1%D9%85%D9%8A%D9%86-%D8%A8%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
   "incident_ids": [
     "airwars-89302"
   ],
@@ -85,10 +109,10 @@
     "https://www.syria.tv/%D9%82%D8%AA%D9%8A%D9%84-%D9%88%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%AC%D8%B1%D8%AD%D9%89-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%B3%D8%B1%D9%85%D9%8A%D9%86-%D8%A8%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88"
   ],
   "original_url": "https://www.syria.tv/%D9%82%D8%AA%D9%8A%D9%84-%D9%88%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%AC%D8%B1%D8%AD%D9%89-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%B3%D8%B1%D9%85%D9%8A%D9%86-%D8%A8%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-  "page_title": "",
+  "page_title": "قتيل وثلاثة جرحى أطفال بقصف مدفعي للنظام على سرمين بإدلب |فيديو قتيل وثلاثة جرحى أطفال بقصف مدفعي للنظام على سرمين بإدلب |فيديو قتيل وثلاثة جرحى أطفال بقصف مدفعي للنظام على سرمين بإدلب |فيديو",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4763-april-9-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:24:44+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d80c27fbbc9e0bdf0a043325",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.syria.tv/%D9%82%D8%AA%D9%8A%D9%84-%D9%88%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%AC%D8%B1%D8%AD%D9%89-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%B3%D8%B1%D9%85%D9%8A%D9%86-%D8%A8%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قتيل وثلاثة جرحى أطفال بقصف مدفعي للنظام على سرمين بإدلب |فيديو\n\nقتل طفل وجرح ثلاثة آخرون، يوم الأحد، بقصف مدفعي لقوات النظام السوري استهدف مدينة سرمين شرقي إدلب.\n\nوقال مراسل تلفزيون سوريا إن قوات النظام استهدفت مدينة سرمين بقذيفتين إحداها استهدفت السوق، وذلك من مواقع النظام في مدينة سراقب القريبة.\n\nوأدّى القصف إلى مقتل طفل يبلغ من العمر 15 عاماً، وإصابة ثلاثة أطفال آخرين بجروح.\n\nإصابات بقصف للنظام وروسيا قرب مخيم للنازحين شمالي إدلب |فيديو\n\nقصف للنظام في حماة وإدلب تزامناً مع الزلزال\n\nفي شباط الماضي، قصفت قوات النظام السوري بالمدفعية الثقيلة بلدات في ريفي حماة وإدلب، وذلك بعد ساعات من وقوع الزلزال المزدوج الذي ضرب مناطق في سوريا وتركيا.\n\nوذكر مراسل تلفزيون سوريا أنّ بلدة بنين في جبل الزاوية بريف إدلب، وخربة الناقوس والمنصورة في شمال غربي حماة تعرّضت لقصف مدفعي من مواقع قوات النظام السوري المحيطة.\n\nاخترنا لك\n\nالأكثر قراءة",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

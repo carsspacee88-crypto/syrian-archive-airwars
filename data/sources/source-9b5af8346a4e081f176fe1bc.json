@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/dZl3j"
+    "https://archive.is/dZl3j",
+    "https://web.archive.org/web/20250813163045id_/https://npasyria.com/en/88475/?fbclid=IwAR17Ww61TOb-a7MZKA_7i9ANZc_mqGZ2iB9s-ZpHTQmKU3yt4vZ9CjqMlU0"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "504318d47a3c3c25633ee9ad164424d1c5943476e7169ed2ec07c75dd5a1f5e7",
+  "content_variants": [
+    {
+      "bytes": 1107,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:17:37+00:00",
+      "sha256": "504318d47a3c3c25633ee9ad164424d1c5943476e7169ed2ec07c75dd5a1f5e7",
+      "source_url": "https://web.archive.org/web/20250813163045id_/https://npasyria.com/en/88475/?fbclid=IwAR17Ww61TOb-a7MZKA_7i9ANZc_mqGZ2iB9s-ZpHTQmKU3yt4vZ9CjqMlU0",
+      "text": "Turkish shell explosion wounds 4 children in Syria’s Hasakah\n\nMartyr Legerin Hospital in the town of Tel Tamr north of Hasakah, northeastern Syria - North Press/archive\n\nHASAKAH, Syria (North Press) – Four children were injured, on Saturday, when a Turkish shell blew up in the village of al-Mujaibra in the countryside of the town of Tel Tamr north of Hasakah, north Syria.\n\nThe shell fell down on the village in a previous targeting by Turkey and has not exploded.\n\nThe four injured children were transferred to the Martyr Legerin Hospital in the town for treatment, local sources told North Press.\n\nMedical sources revealed that the health condition of the children is stable.\n\nThe 11-year-old Suleiman Nasr Selo, the 15-year old Badran Nasr Selo, the 11-year-old Ali Mahmoud Selo, and the 13-year-old Khaled Mahmoud Selo were injured in the explosion, the sources added.\n\nMilitary sources said that the Turkish forces and their affiliated armed Syrian opposition factions, also known as Syrian National Army (SNA), bombed the village of Gozaliyah, southwest of Tel Tamr.\n\nReporting by Delsoz Youssef"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:17:36+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:17:37+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250813163045id_/https://npasyria.com/en/88475/?fbclid=IwAR17Ww61TOb-a7MZKA_7i9ANZc_mqGZ2iB9s-ZpHTQmKU3yt4vZ9CjqMlU0"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250813163045id_/https://npasyria.com/en/88475/?fbclid=IwAR17Ww61TOb-a7MZKA_7i9ANZc_mqGZ2iB9s-ZpHTQmKU3yt4vZ9CjqMlU0",
   "incident_ids": [
     "airwars-85629"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/88475/?fbclid=IwAR17Ww61TOb-a7MZKA_7i9ANZc_mqGZ2iB9s-ZpHTQmKU3yt4vZ9CjqMlU0"
   ],
   "original_url": "https://npasyria.com/en/88475/?fbclid=IwAR17Ww61TOb-a7MZKA_7i9ANZc_mqGZ2iB9s-ZpHTQmKU3yt4vZ9CjqMlU0",
-  "page_title": "",
+  "page_title": "Turkish shell explosion wounds 4 children in Syria’s Hasakah Turkish shell explosion wounds 4 children in Syria’s Hasakah Turkish shell explosion wounds 4 children in Syria’s Hasakah Turkish shell explosion wounds 4 children in Syria’s Hasakah - North press agency Turkish shell explosion wounds 4 children in Syria’s Hasakah - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts576-december-3-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:17:37+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9b5af8346a4e081f176fe1bc",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/88475/?fbclid=IwAR17Ww61TOb-a7MZKA_7i9ANZc_mqGZ2iB9s-ZpHTQmKU3yt4vZ9CjqMlU0",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish shell explosion wounds 4 children in Syria’s Hasakah\n\nMartyr Legerin Hospital in the town of Tel Tamr north of Hasakah, northeastern Syria - North Press/archive\n\nHASAKAH, Syria (North Press) – Four children were injured, on Saturday, when a Turkish shell blew up in the village of al-Mujaibra in the countryside of the town of Tel Tamr north of Hasakah, north Syria.\n\nThe shell fell down on the village in a previous targeting by Turkey and has not exploded.\n\nThe four injured children were transferred to the Martyr Legerin Hospital in the town for treatment, local sources told North Press.\n\nMedical sources revealed that the health condition of the children is stable.\n\nThe 11-year-old Suleiman Nasr Selo, the 15-year old Badran Nasr Selo, the 11-year-old Ali Mahmoud Selo, and the 13-year-old Khaled Mahmoud Selo were injured in the explosion, the sources added.\n\nMilitary sources said that the Turkish forces and their affiliated armed Syrian opposition factions, also known as Syrian National Army (SNA), bombed the village of Gozaliyah, southwest of Tel Tamr.\n\nReporting by Delsoz Youssef",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

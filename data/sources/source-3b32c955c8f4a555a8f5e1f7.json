@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/lHJxs"
+    "https://archive.ph/lHJxs",
+    "https://web.archive.org/web/20230326002521id_/https://sdf-press.com/en/2022/07/two-civilians-martyred-and-two-others-injured-due-to-turkish-shelling-on-ain-issa-countryside/?fbclid=IwAR3rhc1a_vU7wDK8_ukJtIC0hZr5Y-IBvkqqNY692Gb1om6p2CtOPFLATAo"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SDF Press Center",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "477e7fdff91a97197df5c849d0f8d796396a0d46aa7c9fcbfd53621353416609",
+  "content_variants": [
+    {
+      "bytes": 74,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:04:26+00:00",
+      "sha256": "477e7fdff91a97197df5c849d0f8d796396a0d46aa7c9fcbfd53621353416609",
+      "source_url": "https://web.archive.org/web/20230326002521id_/https://sdf-press.com/en/2022/07/two-civilians-martyred-and-two-others-injured-due-to-turkish-shelling-on-ain-issa-countryside/?fbclid=IwAR3rhc1a_vU7wDK8_ukJtIC0hZr5Y-IBvkqqNY692Gb1om6p2CtOPFLATAo",
+      "text": "One moment, please...\n\nPlease wait while your request is being verified..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:04:25+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:04:26+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230326002521id_/https://sdf-press.com/en/2022/07/two-civilians-martyred-and-two-others-injured-due-to-turkish-shelling-on-ain-issa-countryside/?fbclid=IwAR3rhc1a_vU7wDK8_ukJtIC0hZr5Y-IBvkqqNY692Gb1om6p2CtOPFLATAo"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230326002521id_/https://sdf-press.com/en/2022/07/two-civilians-martyred-and-two-others-injured-due-to-turkish-shelling-on-ain-issa-countryside/?fbclid=IwAR3rhc1a_vU7wDK8_ukJtIC0hZr5Y-IBvkqqNY692Gb1om6p2CtOPFLATAo",
   "incident_ids": [
     "airwars-83955"
   ],
@@ -85,10 +109,10 @@
     "https://sdf-press.com/en/2022/07/two-civilians-martyred-and-two-others-injured-due-to-turkish-shelling-on-ain-issa-countryside/?fbclid=IwAR3rhc1a_vU7wDK8_ukJtIC0hZr5Y-IBvkqqNY692Gb1om6p2CtOPFLATAo"
   ],
   "original_url": "https://sdf-press.com/en/2022/07/two-civilians-martyred-and-two-others-injured-due-to-turkish-shelling-on-ain-issa-countryside/?fbclid=IwAR3rhc1a_vU7wDK8_ukJtIC0hZr5Y-IBvkqqNY692Gb1om6p2CtOPFLATAo",
-  "page_title": "",
+  "page_title": "One moment, please...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts524-issy025-july-4-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:04:26+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-3b32c955c8f4a555a8f5e1f7",
   "source_type": "news_article",
   "stable_id_basis": "https://sdf-press.com/en/2022/07/two-civilians-martyred-and-two-others-injured-due-to-turkish-shelling-on-ain-issa-countryside/?fbclid=IwAR3rhc1a_vU7wDK8_ukJtIC0hZr5Y-IBvkqqNY692Gb1om6p2CtOPFLATAo",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "One moment, please...\n\nPlease wait while your request is being verified...",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

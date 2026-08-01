@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20240809045439id_/https://www.youtube.com/watch?v=yIleFlcvWGc"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Jamil Al Hassan",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "15ed95b750e103c7f11f54ba9d2b720fa1d04d0e25aeade4733d5ab55174d2d5",
+  "content_variants": [
+    {
+      "bytes": 339,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:20:28+00:00",
+      "sha256": "15ed95b750e103c7f11f54ba9d2b720fa1d04d0e25aeade4733d5ab55174d2d5",
+      "source_url": "https://web.archive.org/web/20240809045439id_/https://www.youtube.com/watch?v=yIleFlcvWGc",
+      "text": "كلام في الصميم وصرخة شاب من ذوي الشـ،،,,ـهداء في بسبت أثناء الدفن يوجه رسالته .. هي المشاهد بتقوينا - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2024 Google LLC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:20:27+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:20:28+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240809045439id_/https://www.youtube.com/watch?v=yIleFlcvWGc"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240809045439id_/https://www.youtube.com/watch?v=yIleFlcvWGc",
   "incident_ids": [
     "airwars-91722"
   ],
@@ -55,10 +80,10 @@
     "https://www.youtube.com/watch?v=yIleFlcvWGc"
   ],
   "original_url": "https://www.youtube.com/watch?v=yIleFlcvWGc",
-  "page_title": "",
+  "page_title": "كلام في الصميم وصرخة شاب من ذوي الشـ،،,,ـهداء في بسبت أثناء الدفن يوجه رسالته .. هي المشاهد بتقوينا - YouTube كلام في الصميم وصرخة شاب من ذوي الشـ،،,,ـهداء في بسبت أثناء الدفن يوجه رسالته .. هي المشاهد بتقوينا كلام في الصميم وصرخة شاب من ذوي الشـ،،,,ـهداء في بسبت أثناء الدفن يوجه رسالته .. هي المشاهد بتقوينا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4775-june-24-2023/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:20:28+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-be0a37d19bcf8d02e6ce7c03",
   "source_type": "youtube_page",
   "stable_id_basis": "https://www.youtube.com/watch?v=yIleFlcvWGc",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "كلام في الصميم وصرخة شاب من ذوي الشـ،،,,ـهداء في بسبت أثناء الدفن يوجه رسالته .. هي المشاهد بتقوينا - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2024 Google LLC",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

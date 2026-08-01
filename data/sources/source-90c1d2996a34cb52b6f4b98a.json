@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/gi3gu"
+    "https://archive.md/gi3gu",
+    "https://web.archive.org/web/20240515193805id_/https://www.facebook.com/snhr/posts/2068346833313368"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SNHR",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "3a1c05efa15b592d839fc37cdf0a93dd3a03b2fa1191c8a1680bc13a118d68b7",
+  "content_variants": [
+    {
+      "bytes": 356,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:15:32+00:00",
+      "sha256": "3a1c05efa15b592d839fc37cdf0a93dd3a03b2fa1191c8a1680bc13a118d68b7",
+      "source_url": "https://web.archive.org/web/20240515193805id_/https://www.facebook.com/snhr/posts/2068346833313368",
+      "text": "Attack targeted an IDP camp in N. #Idlib, killing a child:\nA child was killed & an IDP camp damaged near Termanein village in Idlib suburbs in an attack...\n\nAttack targeted an IDP camp in N. #Idlib, killing a child:\nA child was killed & an IDP camp damaged near Termanein village in Idlib suburbs in an attack on Oct 27. The #SNHR investigation is still..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:15:32+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:15:32+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515193805id_/https://www.facebook.com/snhr/posts/2068346833313368"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515193805id_/https://www.facebook.com/snhr/posts/2068346833313368",
   "incident_ids": [
     "airwars-79740"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/snhr/posts/2068346833313368"
   ],
   "original_url": "https://www.facebook.com/snhr/posts/2068346833313368",
-  "page_title": "",
+  "page_title": "Syrian Network for Human Rights - SNHR Syrian Network for Human Rights - SNHR Attack targeted... - Syrian Network for Human Rights - SNHR",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4663-october-27-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:15:32+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-90c1d2996a34cb52b6f4b98a",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/snhr/posts/2068346833313368",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Attack targeted an IDP camp in N. #Idlib, killing a child:\nA child was killed & an IDP camp damaged near Termanein village in Idlib suburbs in an attack...\n\nAttack targeted an IDP camp in N. #Idlib, killing a child:\nA child was killed & an IDP camp damaged near Termanein village in Idlib suburbs in an attack on Oct 27. The #SNHR investigation is still...",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/tryzZ"
+    "https://archive.is/tryzZ",
+    "https://web.archive.org/web/20240523215423id_/https://aramme.com/post/20226/%d9%85%d9%8a%d9%84%d9%8a%d8%b4%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%b3%d8%af-%d8%aa%d8%b1%d8%aa%d9%83%d8%a8-%d9%85%d8%ac%d8%b2%d8%b1%d8%a9-%d9%85%d8%b1%d9%88%d8%b9%d8%a9-%d9%81%d9%8a-%d9%85%d8%b9%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%b9%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d9%8a%d9%81-%d8%a5%d8%af%d9%84%d8%a8"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Aramme",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "47dde64308c9f381b1f3fc98870103934302f260929f3121c9080b8d566785e2",
+  "content_variants": [
+    {
+      "bytes": 1472,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:27:31+00:00",
+      "sha256": "47dde64308c9f381b1f3fc98870103934302f260929f3121c9080b8d566785e2",
+      "source_url": "https://web.archive.org/web/20240523215423id_/https://aramme.com/post/20226/%d9%85%d9%8a%d9%84%d9%8a%d8%b4%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%b3%d8%af-%d8%aa%d8%b1%d8%aa%d9%83%d8%a8-%d9%85%d8%ac%d8%b2%d8%b1%d8%a9-%d9%85%d8%b1%d9%88%d8%b9%d8%a9-%d9%81%d9%8a-%d9%85%d8%b9%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%b9%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d9%8a%d9%81-%d8%a5%d8%af%d9%84%d8%a8",
+      "text": "08:25 م قانون الملك عشتار\n\n01:15 ص المسؤولية التقصيرية في القانون\n\n04:10 م طوفان وأكاذيب ودموع\n\n03:56 م ضباط إسرائيليون يكشفون خطط الغزو البري لغزة وسر التأجيل لعدة أيام\n\nميليشيات الأسد ترتكب مجزرة مروعة في معارة النعسان بريف إدلب\n\nقصف على إدلب\n\nأفادت مصادر محلية، بارتكاب ميليشيات الأسد مجزرة مروعة في بلدة معارة النعسان بريف محافظة إدلب الشرقي، شمالي سوريا.\n\nوذكرت المصادر، السبت، أن ميليشيات الأسد قصفت بلدة معارة النعسان بقذائف مدفعية وصاروخية، ما أدى إلى استشهاد خمسة أشخاص بينهم نساء وأطفال، جميعهم من عائلة واحدة.\n\nوأضافت أن فرق الدفاع المدني عملت على تفقد مكان القصف، وقامت بانتشال جثث الشهداء.\n\nاقرأ أيضاً: \"الحوت\".. سجين سوري يورط امرأة ألمانية تعمل بالشرطة بقضية جنسية\n\nوتقوم ميليشيات الأسد وروسيا باستهداف متكرر للمناطق المحررة بريفي إدلب وحلب، والذي يؤدي إلى وقوع العديد من الإصابات والشهداء في صفوف المدنيين."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:27:30+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:27:31+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240523215423id_/https://aramme.com/post/20226/%d9%85%d9%8a%d9%84%d9%8a%d8%b4%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%b3%d8%af-%d8%aa%d8%b1%d8%aa%d9%83%d8%a8-%d9%85%d8%ac%d8%b2%d8%b1%d8%a9-%d9%85%d8%b1%d9%88%d8%b9%d8%a9-%d9%81%d9%8a-%d9%85%d8%b9%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%b9%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d9%8a%d9%81-%d8%a5%d8%af%d9%84%d8%a8"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240523215423id_/https://aramme.com/post/20226/%d9%85%d9%8a%d9%84%d9%8a%d8%b4%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%b3%d8%af-%d8%aa%d8%b1%d8%aa%d9%83%d8%a8-%d9%85%d8%ac%d8%b2%d8%b1%d8%a9-%d9%85%d8%b1%d9%88%d8%b9%d8%a9-%d9%81%d9%8a-%d9%85%d8%b9%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%b9%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d9%8a%d9%81-%d8%a5%d8%af%d9%84%d8%a8",
   "incident_ids": [
     "airwars-81860"
   ],
@@ -85,10 +109,10 @@
     "https://aramme.com/post/20226/%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%A8-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%85%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D9%85%D8%B9%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D8%B9%D8%B3%D8%A7%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8"
   ],
   "original_url": "https://aramme.com/post/20226/%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%A8-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%85%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D9%85%D8%B9%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D8%B9%D8%B3%D8%A7%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8",
-  "page_title": "",
+  "page_title": "ميليشيات الأسد ترتكب مجزرة مروعة في معارة النعسان بريف إدلب | شبكة آرام الإعلامية ميليشيات الأسد ترتكب مجزرة مروعة في معارة النعسان بريف إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4689-february-12-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:27:31+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f49fd6e377b51e64ee810d38",
   "source_type": "other_web_page",
   "stable_id_basis": "https://aramme.com/post/20226/%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%A8-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%85%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D9%85%D8%B9%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D8%B9%D8%B3%D8%A7%D9%86-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "08:25 م قانون الملك عشتار\n\n01:15 ص المسؤولية التقصيرية في القانون\n\n04:10 م طوفان وأكاذيب ودموع\n\n03:56 م ضباط إسرائيليون يكشفون خطط الغزو البري لغزة وسر التأجيل لعدة أيام\n\nميليشيات الأسد ترتكب مجزرة مروعة في معارة النعسان بريف إدلب\n\nقصف على إدلب\n\nأفادت مصادر محلية، بارتكاب ميليشيات الأسد مجزرة مروعة في بلدة معارة النعسان بريف محافظة إدلب الشرقي، شمالي سوريا.\n\nوذكرت المصادر، السبت، أن ميليشيات الأسد قصفت بلدة معارة النعسان بقذائف مدفعية وصاروخية، ما أدى إلى استشهاد خمسة أشخاص بينهم نساء وأطفال، جميعهم من عائلة واحدة.\n\nوأضافت أن فرق الدفاع المدني عملت على تفقد مكان القصف، وقامت بانتشال جثث الشهداء.\n\nاقرأ أيضاً: \"الحوت\".. سجين سوري يورط امرأة ألمانية تعمل بالشرطة بقضية جنسية\n\nوتقوم ميليشيات الأسد وروسيا باستهداف متكرر للمناطق المحررة بريفي إدلب وحلب، والذي يؤدي إلى وقوع العديد من الإصابات والشهداء في صفوف المدنيين.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

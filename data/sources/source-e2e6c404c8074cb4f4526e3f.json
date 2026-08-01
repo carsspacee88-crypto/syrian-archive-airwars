@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/js1LZ"
+    "https://archive.is/js1LZ",
+    "https://web.archive.org/web/20220705185217id_/https://twitter.com/anasanas84/status/1544393551571816448"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@anasanas84",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "289708deaf000d511af5720d47b53c9b0584f0c3e744f854daaf48c42caecc14",
+  "content_variants": [
+    {
+      "bytes": 157,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:24:57+00:00",
+      "sha256": "289708deaf000d511af5720d47b53c9b0584f0c3e744f854daaf48c42caecc14",
+      "source_url": "https://web.archive.org/web/20220705185217id_/https://twitter.com/anasanas84/status/1544393551571816448",
+      "text": "Conversationأنس المعراوي@anasanas84عاجل\nقصف يستهدف مدينة #اعزاز شمال #حلب6:51 PM · Jul 5, 2022·Twitter for Android"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:24:56+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:24:57+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220705185217id_/https://twitter.com/anasanas84/status/1544393551571816448"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220705185217id_/https://twitter.com/anasanas84/status/1544393551571816448",
   "incident_ids": [
     "airwars-84044"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/anasanas84/status/1544393551571816448"
   ],
   "original_url": "https://twitter.com/anasanas84/status/1544393551571816448",
-  "page_title": "",
+  "page_title": "أنس المعراوي on Twitter أنس المعراوي on Twitter: \"عاجل\nقصف يستهدف مدينة #اعزاز شمال #حلب https://t.co/MMOcIdYbDy\" / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys139-july-5-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:24:57+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e2e6c404c8074cb4f4526e3f",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/anasanas84/status/1544393551571816448",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Conversationأنس المعراوي@anasanas84عاجل\nقصف يستهدف مدينة #اعزاز شمال #حلب6:51 PM · Jul 5, 2022·Twitter for Android",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

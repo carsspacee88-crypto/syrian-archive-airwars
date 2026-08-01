@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/GistQ"
+    "https://archive.ph/GistQ",
+    "https://web.archive.org/web/20250930102204id_/https://hawarnews.com/ar/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%B4%D9%8A%D8%B1%D8%A7%D9%88%D8%A7"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Hawar news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "469b62084fbb2cc0b22ca5f493463b7521bad46c261146bb32ee187a3d2fc923",
+  "content_variants": [
+    {
+      "bytes": 1503,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:15:22+00:00",
+      "sha256": "469b62084fbb2cc0b22ca5f493463b7521bad46c261146bb32ee187a3d2fc923",
+      "source_url": "https://web.archive.org/web/20250930102204id_/https://hawarnews.com/ar/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%B4%D9%8A%D8%B1%D8%A7%D9%88%D8%A7",
+      "text": "الثلاثاء 30 يلول, 2025\n\nتقديم واجب العزاء لذوي مقاتل من قسد في مقاطعة الرقة\n\nأمريكا ترحّل 120 إيرانياً من بلادها\n\nنتانياهو يعلن رفضه قيام دولة فلسطينية بعد ساعات من خطة أمريكية\n\nالقائد عبد الله أوجلان يوجّه رسالة إلى أهالي شنكال\n\nتباين المواقف والتقييمات حول خطة أمريكية حيال غزة محاور الصحف العالمية\n\nالحكومة الانتقالية في سوريا تحوّل حديقة في حلب إلى ثكنة عسكرية\n\nردود فعل متتالية رداً على خطة أمريكية بشأن غزة\n\nغزة تكشف هشاشة الأمن الإقليمي وضغوط متزايدة على الأمم المتحدة\n\nإسرائيل تعلن مقتل اثنين من قياديي حزب الله\n\nتأجيل انعقاد المؤتمر الثالث للنساء الكرديات\n\nطالبان تقطع خدمة الاتصالات عن أفغانستان\n\nالقبض على متزعم لخلايا داعش وإحباط هجوم بريف دير الزور\n\nهل ستلتقي اللجنة مع القائد عبد الله أوجلان أم لا؟ وما التقرير الذي ستعدّه؟\n\nأطلال بدلاً من نهر ونواعير\n\nاللغة/Language\n\nعربي\nKURDÎ\nTÜRKÇE\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nTÜRKÇE\n\nENGLISH\n\nSPANISH\n\nRUSSIAN"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:15:21+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:15:22+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250930102204id_/https://hawarnews.com/ar/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%B4%D9%8A%D8%B1%D8%A7%D9%88%D8%A7"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250930102204id_/https://hawarnews.com/ar/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%B4%D9%8A%D8%B1%D8%A7%D9%88%D8%A7",
   "incident_ids": [
     "airwars-116396"
   ],
@@ -85,10 +109,10 @@
     "https://hawarnews.com/ar/إصابات-في-قصف-للاحتلال-التركي-على-ريف-شيراوا"
   ],
   "original_url": "https://hawarnews.com/ar/إصابات-في-قصف-للاحتلال-التركي-على-ريف-شيراوا",
-  "page_title": "",
+  "page_title": "إصابات في قصف للاحتلال التركي على ريف شيراوا -ANHA إصابات في قصف للاحتلال التركي على ريف شيراوا إصابات في قصف للاحتلال التركي على ريف شيراوا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts705-august-19-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:15:22+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-892d10c8e768d94a2c27c756",
   "source_type": "news_article",
   "stable_id_basis": "https://hawarnews.com/ar/إصابات-في-قصف-للاحتلال-التركي-على-ريف-شيراوا",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "الثلاثاء 30 يلول, 2025\n\nتقديم واجب العزاء لذوي مقاتل من قسد في مقاطعة الرقة\n\nأمريكا ترحّل 120 إيرانياً من بلادها\n\nنتانياهو يعلن رفضه قيام دولة فلسطينية بعد ساعات من خطة أمريكية\n\nالقائد عبد الله أوجلان يوجّه رسالة إلى أهالي شنكال\n\nتباين المواقف والتقييمات حول خطة أمريكية حيال غزة محاور الصحف العالمية\n\nالحكومة الانتقالية في سوريا تحوّل حديقة في حلب إلى ثكنة عسكرية\n\nردود فعل متتالية رداً على خطة أمريكية بشأن غزة\n\nغزة تكشف هشاشة الأمن الإقليمي وضغوط متزايدة على الأمم المتحدة\n\nإسرائيل تعلن مقتل اثنين من قياديي حزب الله\n\nتأجيل انعقاد المؤتمر الثالث للنساء الكرديات\n\nطالبان تقطع خدمة الاتصالات عن أفغانستان\n\nالقبض على متزعم لخلايا داعش وإحباط هجوم بريف دير الزور\n\nهل ستلتقي اللجنة مع القائد عبد الله أوجلان أم لا؟ وما التقرير الذي ستعدّه؟\n\nأطلال بدلاً من نهر ونواعير\n\nاللغة/Language\n\nعربي\nKURDÎ\nTÜRKÇE\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nTÜRKÇE\n\nENGLISH\n\nSPANISH\n\nRUSSIAN",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
