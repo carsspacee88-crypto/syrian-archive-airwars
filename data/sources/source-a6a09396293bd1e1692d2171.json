@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.md/gCaAD"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.md",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.md/gCaAD",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:55:10+00:00",
+      "status": null,
+      "url": "https://archive.md/gCaAD",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fnews.sn4hr.org%2F2021%2F10%2F20%2Fsyrian-regime-forces-bombing-in-s-idlib-caused-varying-degrees-of-damage-to-a-number-of-vital-facilities-on-october-20%2F%3Ffbclid%3DIwAR3R1jl2Ymi3pGgWpj1x2vdl2-HBJFAzgqH0XhLW2mvcDOMsAHF4MBxwqAc&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:55:38+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fnews.sn4hr.org%2F2021%2F10%2F20%2Fsyrian-regime-forces-bombing-in-s-idlib-caused-varying-degrees-of-damage-to-a-number-of-vital-facilities-on-october-20%2F%3Ffbclid%3DIwAR3R1jl2Ymi3pGgWpj1x2vdl2-HBJFAzgqH0XhLW2mvcDOMsAHF4MBxwqAc&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Syria Network for Human Rights (SNHR) (2)",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-79588"
+  ],
+  "incident_sequences": [
+    942
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://news.sn4hr.org/2021/10/20/syrian-regime-forces-bombing-in-s-idlib-caused-varying-degrees-of-damage-to-a-number-of-vital-facilities-on-october-20/?fbclid=IwAR3R1jl2Ymi3pGgWpj1x2vdl2-HBJFAzgqH0XhLW2mvcDOMsAHF4MBxwqAc",
+  "observed_original_urls": [
+    "https://news.sn4hr.org/2021/10/20/syrian-regime-forces-bombing-in-s-idlib-caused-varying-degrees-of-damage-to-a-number-of-vital-facilities-on-october-20/?fbclid=IwAR3R1jl2Ymi3pGgWpj1x2vdl2-HBJFAzgqH0XhLW2mvcDOMsAHF4MBxwqAc"
+  ],
+  "original_url": "https://news.sn4hr.org/2021/10/20/syrian-regime-forces-bombing-in-s-idlib-caused-varying-degrees-of-damage-to-a-number-of-vital-facilities-on-october-20/?fbclid=IwAR3R1jl2Ymi3pGgWpj1x2vdl2-HBJFAzgqH0XhLW2mvcDOMsAHF4MBxwqAc",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4659-october-20-2021/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-79588",
+      "incident_sequence": 942,
+      "observed_original_url": "https://news.sn4hr.org/2021/10/20/syrian-regime-forces-bombing-in-s-idlib-caused-varying-degrees-of-damage-to-a-number-of-vital-facilities-on-october-20/?fbclid=IwAR3R1jl2Ymi3pGgWpj1x2vdl2-HBJFAzgqH0XhLW2mvcDOMsAHF4MBxwqAc",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Syria Network for Human Rights (SNHR) (2)",
+  "publisher_ar": "Syria Network for Human Rights (SNHR) (2)",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:55:38+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a6a09396293bd1e1692d2171",
+  "source_type": "news_article",
+  "stable_id_basis": "https://news.sn4hr.org/2021/10/20/syrian-regime-forces-bombing-in-s-idlib-caused-varying-degrees-of-damage-to-a-number-of-vital-facilities-on-october-20/?fbclid=IwAR3R1jl2Ymi3pGgWpj1x2vdl2-HBJFAzgqH0XhLW2mvcDOMsAHF4MBxwqAc",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

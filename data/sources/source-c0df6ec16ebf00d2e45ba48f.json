@@ -1,0 +1,134 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/yOs4Q"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.is",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.is/yOs4Q",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:02:46+00:00",
+      "status": null,
+      "url": "https://archive.is/yOs4Q",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 6.605,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T10:07:09+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 3,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "content_type": "application/json",
+      "elapsed_seconds": 6.605,
+      "error": null,
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2FAlArabiya%2Fposts%2Fpfbid0fpRkSKeALKjkxTD5mrJDZNSw768cA3h2CzuLDKUrpQifmpyvDam4mjZAzVYRGaREl&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "lookup_result": "no_capture",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:07:09+00:00",
+      "status": 200,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2FAlArabiya%2Fposts%2Fpfbid0fpRkSKeALKjkxTD5mrJDZNSw768cA3h2CzuLDKUrpQifmpyvDam4mjZAzVYRGaREl&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "Al Arabiya channel",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "no_archive_capture",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-114276"
+  ],
+  "incident_sequences": [
+    325
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.facebook.com/AlArabiya/posts/pfbid0fpRkSKeALKjkxTD5mrJDZNSw768cA3h2CzuLDKUrpQifmpyvDam4mjZAzVYRGaREl",
+  "observed_original_urls": [
+    "https://www.facebook.com/AlArabiya/posts/pfbid0fpRkSKeALKjkxTD5mrJDZNSw768cA3h2CzuLDKUrpQifmpyvDam4mjZAzVYRGaREl"
+  ],
+  "original_url": "https://www.facebook.com/AlArabiya/posts/pfbid0fpRkSKeALKjkxTD5mrJDZNSw768cA3h2CzuLDKUrpQifmpyvDam4mjZAzVYRGaREl",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy043-march-29-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-114276",
+      "incident_sequence": 325,
+      "observed_original_url": "https://www.facebook.com/AlArabiya/posts/pfbid0fpRkSKeALKjkxTD5mrJDZNSw768cA3h2CzuLDKUrpQifmpyvDam4mjZAzVYRGaREl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Al Arabiya channel",
+  "publisher_ar": "Al Arabiya channel",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T10:07:09+00:00",
+    "reason": "no_archive_capture",
+    "status": "deferred"
+  },
+  "retrieval_status": "no_archive_capture",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c0df6ec16ebf00d2e45ba48f",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/AlArabiya/posts/pfbid0fpRkSKeALKjkxTD5mrJDZNSw768cA3h2CzuLDKUrpQifmpyvDam4mjZAzVYRGaREl",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

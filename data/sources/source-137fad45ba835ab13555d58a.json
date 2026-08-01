@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.md/ea7oV"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.md",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.md/ea7oV",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:20:34+00:00",
+      "status": null,
+      "url": "https://archive.md/ea7oV",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.jesrpress.com%2F2021%2F11%2F06%2F%25D8%25A7%25D9%2584%25D8%25B7%25D8%25A7%25D8%25A6%25D8%25B1%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25AD%25D8%25B1%25D8%25A8%25D9%258A%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25B1%25D9%2588%25D8%25B3%25D9%258A%25D8%25A9-%25D8%25AA%25D8%25B3%25D8%25AA%25D9%2587%25D8%25AF%25D9%2581-%25D9%2585%25D8%25B2%25D8%25B1%25D8%25B9%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:23:16+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.jesrpress.com%2F2021%2F11%2F06%2F%25D8%25A7%25D9%2584%25D8%25B7%25D8%25A7%25D8%25A6%25D8%25B1%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25AD%25D8%25B1%25D8%25A8%25D9%258A%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25B1%25D9%2588%25D8%25B3%25D9%258A%25D8%25A9-%25D8%25AA%25D8%25B3%25D8%25AA%25D9%2587%25D8%25AF%25D9%2581-%25D9%2585%25D8%25B2%25D8%25B1%25D8%25B9%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Jesr Press",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-79877"
+  ],
+  "incident_sequences": [
+    933
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.jesrpress.com/2021/11/06/%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B2%D8%B1%D8%B9/",
+  "observed_original_urls": [
+    "https://www.jesrpress.com/2021/11/06/%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B2%D8%B1%D8%B9/"
+  ],
+  "original_url": "https://www.jesrpress.com/2021/11/06/%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B2%D8%B1%D8%B9/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4665-november-6-2021/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-79877",
+      "incident_sequence": 933,
+      "observed_original_url": "https://www.jesrpress.com/2021/11/06/%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B2%D8%B1%D8%B9/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Jesr Press",
+  "publisher_ar": "Jesr Press",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:23:16+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-137fad45ba835ab13555d58a",
+  "source_type": "news_article",
+  "stable_id_basis": "https://www.jesrpress.com/2021/11/06/%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B2%D8%B1%D8%B9/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

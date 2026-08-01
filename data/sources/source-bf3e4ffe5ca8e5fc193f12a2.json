@@ -1,0 +1,140 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.md/iFq3L"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.md",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.md/iFq3L",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:02:38+00:00",
+      "status": null,
+      "url": "https://archive.md/iFq3L",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fsyria.liveuamap.com%2Fen%2F2021%2F24-november-krasnopol-shell-from-proassad-forces-artillery&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:03:00+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fsyria.liveuamap.com%2Fen%2F2021%2F24-november-krasnopol-shell-from-proassad-forces-artillery&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Liveuamap",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-80278",
+    "airwars-80273"
+  ],
+  "incident_sequences": [
+    921,
+    923
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://syria.liveuamap.com/en/2021/24-november-krasnopol-shell-from-proassad-forces-artillery",
+  "observed_original_urls": [
+    "https://syria.liveuamap.com/en/2021/24-november-krasnopol-shell-from-proassad-forces-artillery"
+  ],
+  "original_url": "https://syria.liveuamap.com/en/2021/24-november-krasnopol-shell-from-proassad-forces-artillery",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4671-november-24-2021/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-80278",
+      "incident_sequence": 921,
+      "observed_original_url": "https://syria.liveuamap.com/en/2021/24-november-krasnopol-shell-from-proassad-forces-artillery",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4670-november-23-2021/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-80273",
+      "incident_sequence": 923,
+      "observed_original_url": "https://syria.liveuamap.com/en/2021/24-november-krasnopol-shell-from-proassad-forces-artillery",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Liveuamap",
+  "publisher_ar": "Liveuamap",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T10:03:01+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-bf3e4ffe5ca8e5fc193f12a2",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://syria.liveuamap.com/en/2021/24-november-krasnopol-shell-from-proassad-forces-artillery",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

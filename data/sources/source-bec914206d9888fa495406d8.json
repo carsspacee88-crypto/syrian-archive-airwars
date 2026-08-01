@@ -1,0 +1,133 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/gECvq"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 7.007,
+          "error": "http_429",
+          "result": "http_error",
+          "retrieved_at": "2026-08-01T10:02:45+00:00",
+          "status": 429
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 55509,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "32951de9e6acf1c4a676198cddc238a22e365fb437b543d0a896df730c41b22c",
+      "content_type": "text/html",
+      "elapsed_seconds": 7.007,
+      "error": "http_429",
+      "etag": "",
+      "final_url": "https://archive.ph/gECvq",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:02:45+00:00",
+      "status": 429,
+      "url": "https://archive.ph/gECvq",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Ftwitter.com%2Falking14399969%2Fstatus%2F1699863465488445654&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:05:38+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Ftwitter.com%2Falking14399969%2Fstatus%2F1699863465488445654&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "'@alking14399969",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-92976"
+  ],
+  "incident_sequences": [
+    510
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://twitter.com/alking14399969/status/1699863465488445654",
+  "observed_original_urls": [
+    "https://twitter.com/alking14399969/status/1699863465488445654"
+  ],
+  "original_url": "https://twitter.com/alking14399969/status/1699863465488445654",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/sdf00031-september-7-2023/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-92976",
+      "incident_sequence": 510,
+      "observed_original_url": "https://twitter.com/alking14399969/status/1699863465488445654",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "'@alking14399969",
+  "publisher_ar": "'@alking14399969",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T10:05:38+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-bec914206d9888fa495406d8",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://twitter.com/alking14399969/status/1699863465488445654",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

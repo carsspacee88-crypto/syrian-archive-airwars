@@ -1,0 +1,200 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/nhRsV"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.is",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.is/nhRsV",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:50:01+00:00",
+      "status": null,
+      "url": "https://archive.is/nhRsV",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriacivildefence.org%2Far%2Four-reports%2Ffield-reports%2F%D9%84%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9-%D8%B9%D9%84%D9%89-%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%88%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%87%D8%AC%D9%85%D8%A7%D8%AA%D9%87%D9%85-37-%D9%85%D8%AF%D9%86%D9%8A%D8%A7-%D8%A8%D9%8A%D9%86-%D9%82%D8%AA%D9%8A%D9%84-%D9%88%D8%AC%D8%B1%D9%8A%D8%AD-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8-%D9%88%D8%AD%D9%84%D8%A8%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:52:45+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriacivildefence.org%2Far%2Four-reports%2Ffield-reports%2F%D9%84%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9-%D8%B9%D9%84%D9%89-%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%88%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%87%D8%AC%D9%85%D8%A7%D8%AA%D9%87%D9%85-37-%D9%85%D8%AF%D9%86%D9%8A%D8%A7-%D8%A8%D9%8A%D9%86-%D9%82%D8%AA%D9%8A%D9%84-%D9%88%D8%AC%D8%B1%D9%8A%D8%AD-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8-%D9%88%D8%AD%D9%84%D8%A8%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "SCD report",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-106388",
+    "airwars-106409",
+    "airwars-106427",
+    "airwars-106062",
+    "airwars-106343",
+    "airwars-106370",
+    "airwars-106001",
+    "airwars-106010"
+  ],
+  "incident_sequences": [
+    443,
+    444,
+    445,
+    448,
+    450,
+    451,
+    458,
+    459
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.syriacivildefence.org/ar/our-reports/field-reports/لليوم-الرابع-على-تصعيد-النظام-وروسيا-هجماتهم-37-مدنيا-بين-قتيل-وجريح-في-ريفي-إدلب-وحلب/",
+  "observed_original_urls": [
+    "https://www.syriacivildefence.org/ar/our-reports/field-reports/لليوم-الرابع-على-تصعيد-النظام-وروسيا-هجماتهم-37-مدنيا-بين-قتيل-وجريح-في-ريفي-إدلب-وحلب/"
+  ],
+  "original_url": "https://www.syriacivildefence.org/ar/our-reports/field-reports/لليوم-الرابع-على-تصعيد-النظام-وروسيا-هجماتهم-37-مدنيا-بين-قتيل-وجريح-في-ريفي-إدلب-وحلب/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4840-october-7-2023/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-106388",
+      "incident_sequence": 443,
+      "observed_original_url": "https://www.syriacivildefence.org/ar/our-reports/field-reports/لليوم-الرابع-على-تصعيد-النظام-وروسيا-هجماتهم-37-مدنيا-بين-قتيل-وجريح-في-ريفي-إدلب-وحلب/",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4841-october-7-2023/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-106409",
+      "incident_sequence": 444,
+      "observed_original_url": "https://www.syriacivildefence.org/ar/our-reports/field-reports/لليوم-الرابع-على-تصعيد-النظام-وروسيا-هجماتهم-37-مدنيا-بين-قتيل-وجريح-في-ريفي-إدلب-وحلب/",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4842-october-7-2023/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-106427",
+      "incident_sequence": 445,
+      "observed_original_url": "https://www.syriacivildefence.org/ar/our-reports/field-reports/لليوم-الرابع-على-تصعيد-النظام-وروسيا-هجماتهم-37-مدنيا-بين-قتيل-وجريح-في-ريفي-إدلب-وحلب/",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4836-october-7-2023/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-106062",
+      "incident_sequence": 448,
+      "observed_original_url": "https://www.syriacivildefence.org/ar/our-reports/field-reports/لليوم-الرابع-على-تصعيد-النظام-وروسيا-هجماتهم-37-مدنيا-بين-قتيل-وجريح-في-ريفي-إدلب-وحلب/",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4838-october-7-2023/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-106343",
+      "incident_sequence": 450,
+      "observed_original_url": "https://www.syriacivildefence.org/ar/our-reports/field-reports/لليوم-الرابع-على-تصعيد-النظام-وروسيا-هجماتهم-37-مدنيا-بين-قتيل-وجريح-في-ريفي-إدلب-وحلب/",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4839-october-7-2023/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-106370",
+      "incident_sequence": 451,
+      "observed_original_url": "https://www.syriacivildefence.org/ar/our-reports/field-reports/لليوم-الرابع-على-تصعيد-النظام-وروسيا-هجماتهم-37-مدنيا-بين-قتيل-وجريح-في-ريفي-إدلب-وحلب/",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4834-october-6-2023/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-106001",
+      "incident_sequence": 458,
+      "observed_original_url": "https://www.syriacivildefence.org/ar/our-reports/field-reports/لليوم-الرابع-على-تصعيد-النظام-وروسيا-هجماتهم-37-مدنيا-بين-قتيل-وجريح-في-ريفي-إدلب-وحلب/",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4835-october-6-2023/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-106010",
+      "incident_sequence": 459,
+      "observed_original_url": "https://www.syriacivildefence.org/ar/our-reports/field-reports/لليوم-الرابع-على-تصعيد-النظام-وروسيا-هجماتهم-37-مدنيا-بين-قتيل-وجريح-في-ريفي-إدلب-وحلب/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "SCD report",
+  "publisher_ar": "SCD report",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:52:45+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-98a290e0750fc90362fef851",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.syriacivildefence.org/ar/our-reports/field-reports/لليوم-الرابع-على-تصعيد-النظام-وروسيا-هجماتهم-37-مدنيا-بين-قتيل-وجريح-في-ريفي-إدلب-وحلب/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

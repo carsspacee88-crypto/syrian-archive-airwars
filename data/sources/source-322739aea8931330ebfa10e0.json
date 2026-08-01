@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/J7r2h"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.is",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.is/J7r2h",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:26:37+00:00",
+      "status": null,
+      "url": "https://archive.is/J7r2h",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syrianhub.com%2F%25d8%25b4%25d8%25a7%25d9%2587%25d8%25af-%25d9%2582%25d8%25b3%25d8%25af-%25d9%2588%25d8%25a7%25d9%2584%25d8%25aa%25d8%25ad%25d8%25a7%25d9%2584%25d9%2581-%25d8%25a7%25d9%2584%25d8%25af%25d9%2588%25d9%2584%25d9%258a-%25d9%258a%25d9%2586%25d9%2581%25d8%25b0%25d8%25a7%25d9%2586-%25d8%25b9%25d9%2585%25d9%2584%25d9%258a%25d8%25a9%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:27:44+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syrianhub.com%2F%25d8%25b4%25d8%25a7%25d9%2587%25d8%25af-%25d9%2582%25d8%25b3%25d8%25af-%25d9%2588%25d8%25a7%25d9%2584%25d8%25aa%25d8%25ad%25d8%25a7%25d9%2584%25d9%2581-%25d8%25a7%25d9%2584%25d8%25af%25d9%2588%25d9%2584%25d9%258a-%25d9%258a%25d9%2586%25d9%2581%25d8%25b0%25d8%25a7%25d9%2586-%25d8%25b9%25d9%2585%25d9%2584%25d9%258a%25d8%25a9%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Syrian Hub",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-82530"
+  ],
+  "incident_sequences": [
+    856
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.syrianhub.com/%d8%b4%d8%a7%d9%87%d8%af-%d9%82%d8%b3%d8%af-%d9%88%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-%d9%8a%d9%86%d9%81%d8%b0%d8%a7%d9%86-%d8%b9%d9%85%d9%84%d9%8a%d8%a9/",
+  "observed_original_urls": [
+    "https://www.syrianhub.com/%d8%b4%d8%a7%d9%87%d8%af-%d9%82%d8%b3%d8%af-%d9%88%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-%d9%8a%d9%86%d9%81%d8%b0%d8%a7%d9%86-%d8%b9%d9%85%d9%84%d9%8a%d8%a9/"
+  ],
+  "original_url": "https://www.syrianhub.com/%d8%b4%d8%a7%d9%87%d8%af-%d9%82%d8%b3%d8%af-%d9%88%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-%d9%8a%d9%86%d9%81%d8%b0%d8%a7%d9%86-%d8%b9%d9%85%d9%84%d9%8a%d8%a9/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1980-march-28-2022/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-82530",
+      "incident_sequence": 856,
+      "observed_original_url": "https://www.syrianhub.com/%d8%b4%d8%a7%d9%87%d8%af-%d9%82%d8%b3%d8%af-%d9%88%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-%d9%8a%d9%86%d9%81%d8%b0%d8%a7%d9%86-%d8%b9%d9%85%d9%84%d9%8a%d8%a9/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Syrian Hub",
+  "publisher_ar": "Syrian Hub",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:27:45+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-322739aea8931330ebfa10e0",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.syrianhub.com/%d8%b4%d8%a7%d9%87%d8%af-%d9%82%d8%b3%d8%af-%d9%88%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-%d9%8a%d9%86%d9%81%d8%b0%d8%a7%d9%86-%d8%b9%d9%85%d9%84%d9%8a%d8%a9/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

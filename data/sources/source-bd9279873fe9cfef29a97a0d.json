@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/8CzwS"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.ph",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.ph/8CzwS",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:02:38+00:00",
+      "status": null,
+      "url": "https://archive.ph/8CzwS",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Wn8tqcUfD7E6QYRg2QgttcDvauNSuGap24BqfQHTrxvGTxTjjG5hz3U5BKRQP1UNl%26id%3D100075828369592%26__cft__%5B0%5D%3DAZXQCN2aDOrk-x1EKHgppmyQxEwWw2FoSodTK867VJAQ_tchhXIC0wPy72m3i5La-6nM5Dh7qvvVpNvnqE6XBcsxdtcBuBXaNsIsJz7o4-SQnMill5pAgjj3ui9Nitq8_T4Xogl4rL4rnOVCFdTzxgOTTt3aQVv4rM_iU_8UerKmBFwXeB3RI9L4GZ0zF9AWr-C5e9-yboMf7jQzwN3wCw0Z%26__tn__%3D%2CO%2CP-R&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:03:00+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Wn8tqcUfD7E6QYRg2QgttcDvauNSuGap24BqfQHTrxvGTxTjjG5hz3U5BKRQP1UNl%26id%3D100075828369592%26__cft__%5B0%5D%3DAZXQCN2aDOrk-x1EKHgppmyQxEwWw2FoSodTK867VJAQ_tchhXIC0wPy72m3i5La-6nM5Dh7qvvVpNvnqE6XBcsxdtcBuBXaNsIsJz7o4-SQnMill5pAgjj3ui9Nitq8_T4Xogl4rL4rnOVCFdTzxgOTTt3aQVv4rM_iU_8UerKmBFwXeB3RI9L4GZ0zF9AWr-C5e9-yboMf7jQzwN3wCw0Z%26__tn__%3D%2CO%2CP-R&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Qamishlo News",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-126249"
+  ],
+  "incident_sequences": [
+    284
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Wn8tqcUfD7E6QYRg2QgttcDvauNSuGap24BqfQHTrxvGTxTjjG5hz3U5BKRQP1UNl&id=100075828369592&__cft__[0]=AZXQCN2aDOrk-x1EKHgppmyQxEwWw2FoSodTK867VJAQ_tchhXIC0wPy72m3i5La-6nM5Dh7qvvVpNvnqE6XBcsxdtcBuBXaNsIsJz7o4-SQnMill5pAgjj3ui9Nitq8_T4Xogl4rL4rnOVCFdTzxgOTTt3aQVv4rM_iU_8UerKmBFwXeB3RI9L4GZ0zF9AWr-C5e9-yboMf7jQzwN3wCw0Z&__tn__=,O,P-R",
+  "observed_original_urls": [
+    "https://www.facebook.com/permalink.php?story_fbid=pfbid02Wn8tqcUfD7E6QYRg2QgttcDvauNSuGap24BqfQHTrxvGTxTjjG5hz3U5BKRQP1UNl&id=100075828369592&__cft__[0]=AZXQCN2aDOrk-x1EKHgppmyQxEwWw2FoSodTK867VJAQ_tchhXIC0wPy72m3i5La-6nM5Dh7qvvVpNvnqE6XBcsxdtcBuBXaNsIsJz7o4-SQnMill5pAgjj3ui9Nitq8_T4Xogl4rL4rnOVCFdTzxgOTTt3aQVv4rM_iU_8UerKmBFwXeB3RI9L4GZ0zF9AWr-C5e9-yboMf7jQzwN3wCw0Z&__tn__=,O,P-R"
+  ],
+  "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Wn8tqcUfD7E6QYRg2QgttcDvauNSuGap24BqfQHTrxvGTxTjjG5hz3U5BKRQP1UNl&id=100075828369592&__cft__[0]=AZXQCN2aDOrk-x1EKHgppmyQxEwWw2FoSodTK867VJAQ_tchhXIC0wPy72m3i5La-6nM5Dh7qvvVpNvnqE6XBcsxdtcBuBXaNsIsJz7o4-SQnMill5pAgjj3ui9Nitq8_T4Xogl4rL4rnOVCFdTzxgOTTt3aQVv4rM_iU_8UerKmBFwXeB3RI9L4GZ0zF9AWr-C5e9-yboMf7jQzwN3wCw0Z&__tn__=,O,P-R",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts707-august-28-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-126249",
+      "incident_sequence": 284,
+      "observed_original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Wn8tqcUfD7E6QYRg2QgttcDvauNSuGap24BqfQHTrxvGTxTjjG5hz3U5BKRQP1UNl&id=100075828369592&__cft__[0]=AZXQCN2aDOrk-x1EKHgppmyQxEwWw2FoSodTK867VJAQ_tchhXIC0wPy72m3i5La-6nM5Dh7qvvVpNvnqE6XBcsxdtcBuBXaNsIsJz7o4-SQnMill5pAgjj3ui9Nitq8_T4Xogl4rL4rnOVCFdTzxgOTTt3aQVv4rM_iU_8UerKmBFwXeB3RI9L4GZ0zF9AWr-C5e9-yboMf7jQzwN3wCw0Z&__tn__=,O,P-R",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Qamishlo News",
+  "publisher_ar": "Qamishlo News",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T10:03:01+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-bd9279873fe9cfef29a97a0d",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Wn8tqcUfD7E6QYRg2QgttcDvauNSuGap24BqfQHTrxvGTxTjjG5hz3U5BKRQP1UNl&id=100075828369592&__cft__[0]=AZXQCN2aDOrk-x1EKHgppmyQxEwWw2FoSodTK867VJAQ_tchhXIC0wPy72m3i5La-6nM5Dh7qvvVpNvnqE6XBcsxdtcBuBXaNsIsJz7o4-SQnMill5pAgjj3ui9Nitq8_T4Xogl4rL4rnOVCFdTzxgOTTt3aQVv4rM_iU_8UerKmBFwXeB3RI9L4GZ0zF9AWr-C5e9-yboMf7jQzwN3wCw0Z&__tn__=,O,P-R",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

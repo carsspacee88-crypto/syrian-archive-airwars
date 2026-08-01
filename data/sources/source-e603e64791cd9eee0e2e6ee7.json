@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/F0Dga"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.is",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.is/F0Dga",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:13:05+00:00",
+      "status": null,
+      "url": "https://archive.is/F0Dga",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%25d9%2585%25d9%2582%25d9%2580-%25d9%2580%25d8%25aa%25d9%2584-%25d8%25b9%25d8%25b3%25d9%2583%25d8%25b1%25d9%258a%25d9%258a%25d9%2586-%25d8%25a7%25d8%25ab%25d9%2586%25d9%258a%25d9%2586-%25d9%2588%25d8%25a5%25d8%25b5%25d8%25a7%25d8%25a8%25d8%25a9-5-%25d9%2585%25d8%25af%25d9%2586%25d9%258a%25d9%258a%25d9%2586-%25d8%25a8%25d8%25ac%2F612072%2F%3Ffbclid%3DIwAR2WZggk45fcN1iTwiFUR1joOjWv-7vtuPnFVNlBZa5QiD8ns1DP53xlfdw&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:23:13+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syriahr.com%2F%25d9%2585%25d9%2582%25d9%2580-%25d9%2580%25d8%25aa%25d9%2584-%25d8%25b9%25d8%25b3%25d9%2583%25d8%25b1%25d9%258a%25d9%258a%25d9%2586-%25d8%25a7%25d8%25ab%25d9%2586%25d9%258a%25d9%2586-%25d9%2588%25d8%25a5%25d8%25b5%25d8%25a7%25d8%25a8%25d8%25a9-5-%25d9%2585%25d8%25af%25d9%2586%25d9%258a%25d9%258a%25d9%2586-%25d8%25a8%25d8%25ac%2F612072%2F%3Ffbclid%3DIwAR2WZggk45fcN1iTwiFUR1joOjWv-7vtuPnFVNlBZa5QiD8ns1DP53xlfdw&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Syrian Observatory for Human Rights",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-89569"
+  ],
+  "incident_sequences": [
+    614
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.syriahr.com/%d9%85%d9%82%d9%80-%d9%80%d8%aa%d9%84-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d9%8a%d9%86-%d8%a7%d8%ab%d9%86%d9%8a%d9%86-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-5-%d9%85%d8%af%d9%86%d9%8a%d9%8a%d9%86-%d8%a8%d8%ac/612072/?fbclid=IwAR2WZggk45fcN1iTwiFUR1joOjWv-7vtuPnFVNlBZa5QiD8ns1DP53xlfdw",
+  "observed_original_urls": [
+    "https://www.syriahr.com/%d9%85%d9%82%d9%80-%d9%80%d8%aa%d9%84-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d9%8a%d9%86-%d8%a7%d8%ab%d9%86%d9%8a%d9%86-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-5-%d9%85%d8%af%d9%86%d9%8a%d9%8a%d9%86-%d8%a8%d8%ac/612072/?fbclid=IwAR2WZggk45fcN1iTwiFUR1joOjWv-7vtuPnFVNlBZa5QiD8ns1DP53xlfdw"
+  ],
+  "original_url": "https://www.syriahr.com/%d9%85%d9%82%d9%80-%d9%80%d8%aa%d9%84-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d9%8a%d9%86-%d8%a7%d8%ab%d9%86%d9%8a%d9%86-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-5-%d9%85%d8%af%d9%86%d9%8a%d9%8a%d9%86-%d8%a8%d8%ac/612072/?fbclid=IwAR2WZggk45fcN1iTwiFUR1joOjWv-7vtuPnFVNlBZa5QiD8ns1DP53xlfdw",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts599-june-12-2023/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-89569",
+      "incident_sequence": 614,
+      "observed_original_url": "https://www.syriahr.com/%d9%85%d9%82%d9%80-%d9%80%d8%aa%d9%84-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d9%8a%d9%86-%d8%a7%d8%ab%d9%86%d9%8a%d9%86-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-5-%d9%85%d8%af%d9%86%d9%8a%d9%8a%d9%86-%d8%a8%d8%ac/612072/?fbclid=IwAR2WZggk45fcN1iTwiFUR1joOjWv-7vtuPnFVNlBZa5QiD8ns1DP53xlfdw",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Syrian Observatory for Human Rights",
+  "publisher_ar": "Syrian Observatory for Human Rights",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T10:23:14+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-e603e64791cd9eee0e2e6ee7",
+  "source_type": "ngo_report",
+  "stable_id_basis": "https://www.syriahr.com/%d9%85%d9%82%d9%80-%d9%80%d8%aa%d9%84-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d9%8a%d9%86-%d8%a7%d8%ab%d9%86%d9%8a%d9%86-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-5-%d9%85%d8%af%d9%86%d9%8a%d9%8a%d9%86-%d8%a8%d8%ac/612072/?fbclid=IwAR2WZggk45fcN1iTwiFUR1joOjWv-7vtuPnFVNlBZa5QiD8ns1DP53xlfdw",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

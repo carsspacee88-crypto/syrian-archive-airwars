@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/oePUd"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.is",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.is/oePUd",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:41:43+00:00",
+      "status": null,
+      "url": "https://archive.is/oePUd",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fnewsaboutturkey.com%2F2022%2F05%2F23%2Fturkish-shelling-targets-villages-in-northeast-syria-injures-villagers%2F%3Ffeed_id%3D13188%26_unique_id%3D628bfca93433d&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:45:36+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fnewsaboutturkey.com%2F2022%2F05%2F23%2Fturkish-shelling-targets-villages-in-northeast-syria-injures-villagers%2F%3Ffeed_id%3D13188%26_unique_id%3D628bfca93433d&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "News About Turkey",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-83678"
+  ],
+  "incident_sequences": [
+    835
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://newsaboutturkey.com/2022/05/23/turkish-shelling-targets-villages-in-northeast-syria-injures-villagers/?feed_id=13188&_unique_id=628bfca93433d",
+  "observed_original_urls": [
+    "https://newsaboutturkey.com/2022/05/23/turkish-shelling-targets-villages-in-northeast-syria-injures-villagers/?feed_id=13188&_unique_id=628bfca93433d"
+  ],
+  "original_url": "https://newsaboutturkey.com/2022/05/23/turkish-shelling-targets-villages-in-northeast-syria-injures-villagers/?feed_id=13188&_unique_id=628bfca93433d",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts509-may-22-2022/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-83678",
+      "incident_sequence": 835,
+      "observed_original_url": "https://newsaboutturkey.com/2022/05/23/turkish-shelling-targets-villages-in-northeast-syria-injures-villagers/?feed_id=13188&_unique_id=628bfca93433d",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "News About Turkey",
+  "publisher_ar": "News About Turkey",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:45:37+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-833402f620adf0a224d0824a",
+  "source_type": "news_article",
+  "stable_id_basis": "https://newsaboutturkey.com/2022/05/23/turkish-shelling-targets-villages-in-northeast-syria-injures-villagers/?feed_id=13188&_unique_id=628bfca93433d",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "en",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

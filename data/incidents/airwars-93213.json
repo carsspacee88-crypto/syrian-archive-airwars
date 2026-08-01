@@ -52,6 +52,7 @@
       "url": "https://airwars.org/belligerent/turkish-military/"
     }
   ],
+  "additional_notes": "",
   "airwars_id": "93213",
   "alleged_belligerent": "Turkish Military",
   "alleged_belligerent_ar": "الجيش التركي",
@@ -118,7 +119,7 @@
     "canonical_url": [
       {
         "raw_label": "link[rel=canonical]",
-        "retrieved_at": "2026-07-31T11:04:07+00:00",
+        "retrieved_at": "2026-08-01T09:19:16+00:00",
         "source_type": "airwars_archive",
         "source_url": "https://web.archive.org/web/20250815191634id_/https://airwars.org/civilian-casualties/ts633-october-4-2023-2/"
       }
@@ -190,7 +191,7 @@
     "narrative": [
       {
         "raw_label": "page_sections",
-        "retrieved_at": "2026-07-31T11:04:07+00:00",
+        "retrieved_at": "2026-08-01T09:19:16+00:00",
         "source_type": "airwars_archive",
         "source_url": "https://web.archive.org/web/20250815191634id_/https://airwars.org/civilian-casualties/ts633-october-4-2023-2/"
       }
@@ -225,10 +226,268 @@
   "internal_id": "airwars-93213",
   "latitude": null,
   "legacy_completeness_status": "complete",
+  "legacy_incident_fields": {
+    "آخر تعديل": "2024-12-15",
+    "إجمالي الضربات": 3,
+    "البنية المتضررة — الأصل": "Agriculture",
+    "البنية المتضررة — عربي": "زراعة",
+    "التسلسل": 481,
+    "الجهة العسكرية — الأصل": "Turkish Military",
+    "الجهة العسكرية — عربي": "الجيش التركي",
+    "الدولة": "سوريا",
+    "المنطقة — الأصل": "Al Hassakah",
+    "المنطقة — عربي": "الحسكة",
+    "الموقع بالإنجليزية": "the neighborhood of Safia in the city of Hasakah",
+    "الموقع بالعربية": "بلدة صفيا",
+    "تاريخ الحادثة": "2023-10-04",
+    "تاريخ النشر": "2023-10-04",
+    "تفاصيل الصفحة الداخلية محفوظة": "نعم",
+    "حالة الحادثة — الأصل": "Researched",
+    "حالة الحادثة — عربي": "تم البحث والتوثيق",
+    "حالة نسبة الضربة — الأصل": "Likely strike",
+    "حالة نسبة الضربة — عربي": "ضربة مرجحة",
+    "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+    "رجال جرحى — حد أدنى": 4,
+    "رجال جرحى — حد أعلى": 4,
+    "رمز الحادثة": "TS633",
+    "سبب الوفاة/الإصابة — الأصل": "Heavy weapons and explosive munitions",
+    "سبب الوفاة/الإصابة — عربي": "أسلحة ثقيلة وذخائر متفجرة",
+    "ضرر مدني مُبلغ — الأصل": "Yes",
+    "ضرر مدني مُبلغ — عربي": "نعم",
+    "عدد الروابط الإضافية": 3,
+    "عدد المصادر المفككة": 11,
+    "عدد الوسائط": 3,
+    "عسكريون جرحى — حد أدنى": 0,
+    "عسكريون جرحى — حد أعلى": 5,
+    "عسكريون قتلى — حد أدنى": 0,
+    "عسكريون قتلى — حد أعلى": 5,
+    "فئات ضحايا أخرى": "مشاركون مباشرة في القتال: قتلى أدنى 0، قتلى أقصى 5، جرحى أدنى 0، جرحى أقصى 5",
+    "قوة الأدلة — الأصل": "Fair",
+    "قوة الأدلة — عربي": "أدلة مقبولة",
+    "مدنيون جرحى — حد أدنى": 4,
+    "مدنيون جرحى — حد أعلى": 4,
+    "معرّف Airwars": "93213",
+    "ملخص عربي منظم": "حادثة مسجلة بتاريخ 2023-10-04 في بلدة صفيا. الجهة المنسوبة: الجيش التركي. نوع الضربة: غارة جوية، ضربة بطائرة مسيّرة. المدنيون الجرحى المبلّغ عنهم: 4. قوة الأدلة: أدلة مقبولة.",
+    "نوع التاريخ — الأصل": "date",
+    "نوع التاريخ — عربي": "تاريخ محدد",
+    "نوع الضربة — الأصل": "Airstrike, Drone Strike",
+    "نوع الضربة — عربي": "غارة جوية، ضربة بطائرة مسيّرة"
+  },
+  "legacy_page_fields": [
+    {
+      "اسم الحقل — الأصل": "Conflict",
+      "اسم الحقل — عربي": "النزاع",
+      "القيمة — الأصل": "Turkish Military in Iraq & Syria\n\nTS633",
+      "القيمة — عربي": "الجيش التركي في العراق وسوريا\n\nTS633",
+      "ترتيب الحقل": 1,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رابط قيمة الحقل": "https://airwars.org/conflict/turkish-military-in-iraq-and-syria/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "رأس صفحة الحادثة"
+    },
+    {
+      "اسم الحقل — الأصل": "Incident Code",
+      "اسم الحقل — عربي": "رمز الحادثة",
+      "القيمة — الأصل": "TS633",
+      "القيمة — عربي": "TS633",
+      "ترتيب الحقل": 2,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "رأس صفحة الحادثة"
+    },
+    {
+      "اسم الحقل — الأصل": "Incident Date",
+      "اسم الحقل — عربي": "تاريخ الحادثة",
+      "القيمة — الأصل": "4 October 2023",
+      "القيمة — عربي": "4 أكتوبر 2023",
+      "ترتيب الحقل": 3,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "رأس صفحة الحادثة"
+    },
+    {
+      "اسم الحقل — الأصل": "Location",
+      "اسم الحقل — عربي": "الموقع",
+      "القيمة — الأصل": "the neighborhood of Safia in the city of Hasakah, Al Hassakah, Syria\n\nبلدة صفيا",
+      "القيمة — عربي": "حي الصفية في مدينة الحسكة, الحسكة, سوريا\n\nبلدة صفيا",
+      "ترتيب الحقل": 4,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "رأس صفحة الحادثة"
+    },
+    {
+      "اسم الحقل — الأصل": "Incident Status",
+      "اسم الحقل — عربي": "حالة الحادثة",
+      "القيمة — الأصل": "Assessed",
+      "القيمة — عربي": "تم تقييمها",
+      "ترتيب الحقل": 5,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Country",
+      "اسم الحقل — عربي": "الدولة",
+      "القيمة — الأصل": "Syria",
+      "القيمة — عربي": "سوريا",
+      "ترتيب الحقل": 6,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رابط قيمة الحقل": "https://airwars.org/country/syria/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Military Actor",
+      "اسم الحقل — عربي": "الجهة العسكرية",
+      "القيمة — الأصل": "Turkish Military",
+      "القيمة — عربي": "الجيش التركي",
+      "ترتيب الحقل": 7,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رابط قيمة الحقل": "https://airwars.org/belligerent/turkish-military/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Strike Type",
+      "اسم الحقل — عربي": "نوع الضربة",
+      "القيمة — الأصل": "Airstrike (Drone Strike)",
+      "القيمة — عربي": "غارة جوية (ضربة بدون طيار)",
+      "ترتيب الحقل": 8,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Strike Status",
+      "اسم الحقل — عربي": "حالة نسبة الضربة",
+      "القيمة — الأصل": "Likely strike",
+      "القيمة — عربي": "ضربة مرجحة",
+      "ترتيب الحقل": 9,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Civilian Harm Reported",
+      "اسم الحقل — عربي": "الإبلاغ عن ضرر مدني",
+      "القيمة — الأصل": "Yes",
+      "القيمة — عربي": "نعم",
+      "ترتيب الحقل": 10,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Civilian Harm Status",
+      "اسم الحقل — عربي": "قوة أدلة الضرر المدني",
+      "القيمة — الأصل": "Fair Reported by two or more credible sources, with likely or confirmed near actions by a belligerent.",
+      "القيمة — عربي": "مقبول تم الإبلاغ عنه من قبل مصدرين موثوقين أو أكثر، مع وجود أعمال قريبة محتملة أو مؤكدة من قبل أحد الأطراف المتحاربة.",
+      "ترتيب الحقل": 11,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Causes of Death / Injury",
+      "اسم الحقل — عربي": "أسباب الوفاة أو الإصابة",
+      "القيمة — الأصل": "Heavy weapons and explosive munitions",
+      "القيمة — عربي": "أسلحة ثقيلة وذخائر متفجرة",
+      "ترتيب الحقل": 12,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Civilians reported injured",
+      "اسم الحقل — عربي": "المدنيون المبلّغ عن إصابتهم",
+      "القيمة — الأصل": "4\n\n(4 Men)",
+      "القيمة — عربي": "4\n\n(4 رجال)",
+      "ترتيب الحقل": 13,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Military actors reported killed",
+      "اسم الحقل — عربي": "العسكريون المبلّغ عن مقتلهم",
+      "القيمة — الأصل": "0–5",
+      "القيمة — عربي": "0–5",
+      "ترتيب الحقل": 14,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "المعلومات الأساسية"
+    }
+  ],
+  "legacy_page_sections": [
+    {
+      "ترتيب القسم": 1,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رمز الحادثة": "TS633",
+      "طول النص بالحروف": 189,
+      "عنوان القسم — الأصل": "Incident Header",
+      "عنوان القسم — عربي": "بيانات الحادثة",
+      "معرّف القسم": "header"
+    },
+    {
+      "ترتيب القسم": 2,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رمز الحادثة": "TS633",
+      "طول النص بالحروف": 459,
+      "عنوان القسم — الأصل": "Key Information",
+      "عنوان القسم — عربي": "المعلومات الأساسية",
+      "معرّف القسم": "key-information"
+    },
+    {
+      "ترتيب القسم": 3,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رمز الحادثة": "TS633",
+      "طول النص بالحروف": 1819,
+      "عنوان القسم — الأصل": "Airwars Assessment",
+      "عنوان القسم — عربي": "تقييم إيروورز",
+      "معرّف القسم": "assessment"
+    },
+    {
+      "ترتيب القسم": 4,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رمز الحادثة": "TS633",
+      "طول النص بالحروف": 212,
+      "عنوان القسم — الأصل": "Victims",
+      "عنوان القسم — عربي": "الضحايا",
+      "معرّف القسم": "victims"
+    },
+    {
+      "ترتيب القسم": 5,
+      "تسلسل الحادثة": 481,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "رمز الحادثة": "TS633",
+      "طول النص بالحروف": 146,
+      "عنوان القسم — الأصل": "Military Statements",
+      "عنوان القسم — عربي": "البيانات العسكرية",
+      "معرّف القسم": "strike-reports"
+    }
+  ],
   "legacy_sequence": 481,
   "legacy_snapshot": {
     "completion": "complete",
-    "migrated_at": "2026-07-31T11:30:15+00:00",
+    "migrated_at": "2026-08-01T09:20:16+00:00",
     "sequence": 481,
     "source_type": "legacy_import",
     "workbook_sha256": "1e748659feb1fb597ccbebdc11e75ff7e63870f57c84bfc728b059677baa3ef6"
@@ -238,6 +497,7 @@
   "longitude": null,
   "media_metadata": [
     {
+      "airwars_source_id": "",
       "caption_ar": "",
       "caption_original": "",
       "order": 1,
@@ -258,6 +518,7 @@
         }
       ],
       "source_name": "",
+      "source_url": "",
       "storage_status": "external_only",
       "thumbnail_url": "https://airwars.org/wp-content/uploads/2023/10/1-150x150.png",
       "type_ar": "صورة",
@@ -265,6 +526,7 @@
       "url": "https://airwars.org/wp-content/uploads/2023/10/1.png"
     },
     {
+      "airwars_source_id": "",
       "caption_ar": "",
       "caption_original": "",
       "order": 2,
@@ -285,6 +547,7 @@
         }
       ],
       "source_name": "",
+      "source_url": "",
       "storage_status": "external_only",
       "thumbnail_url": "https://airwars.org/wp-content/uploads/2023/10/2-150x150.png",
       "type_ar": "صورة",
@@ -292,6 +555,7 @@
       "url": "https://airwars.org/wp-content/uploads/2023/10/2.png"
     },
     {
+      "airwars_source_id": "",
       "caption_ar": "",
       "caption_original": "",
       "order": 3,
@@ -312,6 +576,7 @@
         }
       ],
       "source_name": "",
+      "source_url": "",
       "storage_status": "external_only",
       "thumbnail_url": "https://airwars.org/wp-content/uploads/2023/10/3-150x150.png",
       "type_ar": "صورة",
@@ -325,6 +590,8 @@
   ],
   "narrative": "Conflict\n\nTurkish Military in Iraq & Syria\n\nIncident Code\n\nTS633\n\nIncident Code\n\nTS633\n\nIncident Date\n\n4 October 2023\n\nLocation\n\nبلدة صفيا , the neighborhood of Safia in the city of Hasakah, Al Hassakah, Syria\n\nSections\n\nAssessment\n\nKey Information\n\nVictims\n\nMilitary Statements\n\nMedia from Sources\n\nSources\n\nPermalink\n\nAirwars Assessment\n\nLast Updated: December 15, 2024\n\nOn October 4, 2023, four civilians – four men – were reportedly injured by Turkish drone strikes on a factory, in Safia neighborhood, Hasakah town, according to most local sources.\n\nInitial reporting by HawarNews indicated that ‘two factory workers were wounded, as the drone was hovering in the area’, making it difficult for ‘ambulances to arrive to transport the wounded’. Most sources later reported four civilians injured in the attack. The Asayish’s Media Centern, quoted by NPA, said that a factory was hit by three Turkish shells, and that the civilians injured had ‘multiple wounds’. Victims were then taken to the hospital for treatment. SOHR explained that the factory is located on the main road between Al-Hasakah-Al-Qamishly, ‘which SDF use as a military barrack’. Most sources described the factory as a brick factory while other sources alleged that it was an ammunition factory belonging to SDF or ‘SDF military barracks’. One source affirmed that the strikes hit ‘the farms of Mushayrifa Hamma’. Hawarnews included the identities of the four civilians allegedly injured in the attack – and indicated that two of them were in critical condition.\n\nSyriaTV also reported deaths and casualties among SDF members : ‘Private sources told the “Syria TV” website, “A Turkish march targeted with three missiles a former tile-making factory that the SDF had converted into a warehouse and ammunition-manufacturing factory in the village of Safia, north of Hasakah.”‘ SyriaTV counted at least ten SDF members killed and injured, ‘after a series of explosions inside the factory’, and said those wounded were taken to a military hospital in Hasakah, but did not provide any further details on the number of SDF killed or injured, or on any civilian casualties.\n\nVictims\n\nFamily members\n\nInvidivuals\n\nAli Hamo Na'aso\n\n70 years old\nmale\ninjured\n\nBashir Issa Hamid\n\n49 years old\nmale\ninjured\n\nAbdul Aziz Al-Muhammad\n\nAdult\nmale\ninjured\n\nAdnan Bahro Abdullah\n\nAdult\nmale\ninjured\n\nKey Information\n\nCountry\n\nSyria\n\nMilitary Actor\n\nTurkish Military\n\nStrike Type\n\nAirstrike (Drone Strike)\n\nStrike Status\n\nLikely strike\n\nCivilian Harm Reported\n\nYes\n\nCivilian Harm Status\n\nFair\n\nReported by two or more credible sources, with likely or confirmed near actions by a belligerent.\n\nCauses of Death / Injury\n\nHeavy weapons and explosive munitions\n\nCivilians reported injured\n\n4\n\n4 Men\n\nMilitary actors reported killed\n\n0–5\n\nMilitary Statements\n\nTurkish Military Assessment\n\nSuspected belligerent\n\nTurkish Military\n\nTurkish Military position on incident\n\nNot yet assessed\n\nMedia From Sources (3)\n\n← Prev\n\nNext →\n\nThis media contains graphic content. Click to unblur.\n\nGraphic\n\nSources (12)\n\nVDC ↗\n\nArabic\n\nArchive\n\nNPA ↗\n\nEnglish\n\nArchive\n\nANHA English ↗\n\nFacebook English\n\nArchive\n\nHawarnews ↗\n\nEnglish\n\nArchive\n\nSOHR ↗\n\nEnglish\n\nArchive\n\nSyria.tv ↗\n\nArabic\n\nArchive\n\nRojnews ↗\n\nArabic\n\nArchive\n\nAlhadath ↗\n\nArabic\n\nArchive\n\nANF Arabic ↗\n\nArabic\n\nArchive\n\nANHA English ↗\n\nFacebook Arabic\n\nArchive\n\nHawarnews ↗\n\nEnglish\n\nArchive\n\nCountry\n\nSyria\n\nMilitary Actor\n\nTurkish Military\n\nStrike Type\n\nAirstrike (Drone Strike)\n\nStrike Status\n\nLikely strike\n\nCivilian Harm Reported\n\nYes\n\nCivilian Harm Status\n\nFair\n\nReported by two or more credible sources, with likely or confirmed near actions by a belligerent.\n\nCauses of Death / Injury\n\nHeavy weapons and explosive munitions\n\nCivilians reported injured\n\n4\n\n4 Men\n\nMilitary actors reported killed\n\n0–5",
   "narrative_ar": "حادثة مسجلة بتاريخ 2023-10-04 في بلدة صفيا. الجهة المنسوبة: الجيش التركي. نوع الضربة: غارة جوية، ضربة بطائرة مسيّرة. المدنيون الجرحى المبلّغ عنهم: 4. قوة الأدلة: أدلة مقبولة.",
+  "narrative_original": "Conflict\n\nTurkish Military in Iraq & Syria\n\nIncident Code\n\nTS633\n\nIncident Code\n\nTS633\n\nIncident Date\n\n4 October 2023\n\nLocation\n\nبلدة صفيا , the neighborhood of Safia in the city of Hasakah, Al Hassakah, Syria\n\nSections\n\nAssessment\n\nKey Information\n\nVictims\n\nMilitary Statements\n\nMedia from Sources\n\nSources\n\nPermalink\n\nAirwars Assessment\n\nLast Updated: December 15, 2024\n\nOn October 4, 2023, four civilians – four men – were reportedly injured by Turkish drone strikes on a factory, in Safia neighborhood, Hasakah town, according to most local sources.\n\nInitial reporting by HawarNews indicated that ‘two factory workers were wounded, as the drone was hovering in the area’, making it difficult for ‘ambulances to arrive to transport the wounded’. Most sources later reported four civilians injured in the attack. The Asayish’s Media Centern, quoted by NPA, said that a factory was hit by three Turkish shells, and that the civilians injured had ‘multiple wounds’. Victims were then taken to the hospital for treatment. SOHR explained that the factory is located on the main road between Al-Hasakah-Al-Qamishly, ‘which SDF use as a military barrack’. Most sources described the factory as a brick factory while other sources alleged that it was an ammunition factory belonging to SDF or ‘SDF military barracks’. One source affirmed that the strikes hit ‘the farms of Mushayrifa Hamma’. Hawarnews included the identities of the four civilians allegedly injured in the attack – and indicated that two of them were in critical condition.\n\nSyriaTV also reported deaths and casualties among SDF members : ‘Private sources told the “Syria TV” website, “A Turkish march targeted with three missiles a former tile-making factory that the SDF had converted into a warehouse and ammunition-manufacturing factory in the village of Safia, north of Hasakah.”‘ SyriaTV counted at least ten SDF members killed and injured, ‘after a series of explosions inside the factory’, and said those wounded were taken to a military hospital in Hasakah, but did not provide any further details on the number of SDF killed or injured, or on any civilian casualties.\n\nVictims\n\nFamily members\n\nInvidivuals\n\nAli Hamo Na'aso\n\n70 years old\nmale\ninjured\n\nBashir Issa Hamid\n\n49 years old\nmale\ninjured\n\nAbdul Aziz Al-Muhammad\n\nAdult\nmale\ninjured\n\nAdnan Bahro Abdullah\n\nAdult\nmale\ninjured\n\nKey Information\n\nCountry\n\nSyria\n\nMilitary Actor\n\nTurkish Military\n\nStrike Type\n\nAirstrike (Drone Strike)\n\nStrike Status\n\nLikely strike\n\nCivilian Harm Reported\n\nYes\n\nCivilian Harm Status\n\nFair\n\nReported by two or more credible sources, with likely or confirmed near actions by a belligerent.\n\nCauses of Death / Injury\n\nHeavy weapons and explosive munitions\n\nCivilians reported injured\n\n4\n\n4 Men\n\nMilitary actors reported killed\n\n0–5\n\nMilitary Statements\n\nTurkish Military Assessment\n\nSuspected belligerent\n\nTurkish Military\n\nTurkish Military position on incident\n\nNot yet assessed\n\nMedia From Sources (3)\n\n← Prev\n\nNext →\n\nThis media contains graphic content. Click to unblur.\n\nGraphic\n\nSources (12)\n\nVDC ↗\n\nArabic\n\nArchive\n\nNPA ↗\n\nEnglish\n\nArchive\n\nANHA English ↗\n\nFacebook English\n\nArchive\n\nHawarnews ↗\n\nEnglish\n\nArchive\n\nSOHR ↗\n\nEnglish\n\nArchive\n\nSyria.tv ↗\n\nArabic\n\nArchive\n\nRojnews ↗\n\nArabic\n\nArchive\n\nAlhadath ↗\n\nArabic\n\nArchive\n\nANF Arabic ↗\n\nArabic\n\nArchive\n\nANHA English ↗\n\nFacebook Arabic\n\nArchive\n\nHawarnews ↗\n\nEnglish\n\nArchive\n\nCountry\n\nSyria\n\nMilitary Actor\n\nTurkish Military\n\nStrike Type\n\nAirstrike (Drone Strike)\n\nStrike Status\n\nLikely strike\n\nCivilian Harm Reported\n\nYes\n\nCivilian Harm Status\n\nFair\n\nReported by two or more credible sources, with likely or confirmed near actions by a belligerent.\n\nCauses of Death / Injury\n\nHeavy weapons and explosive munitions\n\nCivilians reported injured\n\n4\n\n4 Men\n\nMilitary actors reported killed\n\n0–5",
+  "narrative_original_language": "en",
   "original_source_url": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
   "page_extraction": {
     "canonical_url_found": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
@@ -332,7 +599,7 @@
     "media_declared": null,
     "media_metadata_extracted": 0,
     "media_section_present": true,
-    "retrieved_at": "2026-07-31T11:04:07+00:00",
+    "retrieved_at": "2026-08-01T09:19:16+00:00",
     "snapshot_only": true,
     "snapshot_text_hash": "cc910f99a3cade405bed6a49407bf80ccaa55abc8f143aec40a6c21cd55f7b6d",
     "source_type": "airwars_archive",
@@ -342,25 +609,51 @@
     "sources_section_present": true,
     "title": "Saved archived textual snapshot"
   },
-  "parser_version": "1.0.0",
+  "parser_version": "1.1.0",
+  "pilot": {
+    "in_scope": true,
+    "name": "speed-pilot-0263-1000",
+    "parser_version": "1.0.0",
+    "sequence": 481,
+    "translation_policy": "disabled_by_user"
+  },
   "retrieval_status": {
     "airwars_endpoint": {
-      "attempts": 1,
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempts": 0,
       "body_decoded_from": null,
       "bytes": 0,
+      "circuit_open_reason": "http_403",
+      "circuit_open_status": 403,
       "content_hash": null,
       "content_type": "",
-      "elapsed_seconds": 0.254,
-      "error": "URLError: <urlopen error timed out>",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
       "final_url": "https://airwars.org/wp-json/wp/v2/civ?include=93213&_fields=id%2Cslug%2Clink%2Cdate%2Cmodified%2Cstatus%2Ctitle%2Ccontent%2Cexcerpt%2Cacf",
+      "last_modified": "",
       "ok": false,
       "response_content_encoding": "",
-      "retrieved_at": "2026-07-31T11:30:16+00:00",
+      "retrieved_at": "2026-08-01T09:20:16+00:00",
       "status": null,
-      "url": "https://airwars.org/wp-json/wp/v2/civ?include=93213&_fields=id%2Cslug%2Clink%2Cdate%2Cmodified%2Cstatus%2Ctitle%2Ccontent%2Cexcerpt%2Cacf"
+      "url": "https://airwars.org/wp-json/wp/v2/civ?include=93213&_fields=id%2Cslug%2Clink%2Cdate%2Cmodified%2Cstatus%2Ctitle%2Ccontent%2Cexcerpt%2Cacf",
+      "waiting_seconds": 0.0
     },
     "archive_page": {
-      "attempts": 1,
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempts": 0,
       "body_decoded_from": null,
       "bytes": 0,
       "capture": {
@@ -372,41 +665,59 @@
         "statuscode": "200",
         "timestamp": "20250815191634"
       },
+      "cdx_lookup": null,
+      "circuit_open_reason": "URLError: <urlopen error timed out>",
+      "circuit_open_status": null,
       "content_hash": null,
       "content_type": "",
-      "elapsed_seconds": 0.251,
-      "error": "URLError: <urlopen error timed out>",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
       "final_url": "https://web.archive.org/web/20250815191634id_/https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "last_modified": "",
       "ok": false,
       "response_content_encoding": "",
-      "retrieved_at": "2026-07-31T11:30:16+00:00",
+      "retrieved_at": "2026-08-01T09:20:16+00:00",
       "status": null,
-      "url": "https://web.archive.org/web/20250815191634id_/https://airwars.org/civilian-casualties/ts633-october-4-2023-2/"
+      "url": "https://web.archive.org/web/20250815191634id_/https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "waiting_seconds": 0.0
     },
     "live_page": {
-      "attempts": 1,
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempts": 0,
       "body_decoded_from": null,
       "bytes": 0,
+      "circuit_open_reason": "http_403",
+      "circuit_open_status": 403,
       "content_hash": null,
       "content_type": "",
-      "elapsed_seconds": 0.251,
-      "error": "URLError: <urlopen error timed out>",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
       "final_url": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "last_modified": "",
       "ok": false,
       "response_content_encoding": "",
-      "retrieved_at": "2026-07-31T11:30:16+00:00",
+      "retrieved_at": "2026-08-01T09:20:16+00:00",
       "status": null,
-      "url": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/"
+      "url": "https://airwars.org/civilian-casualties/ts633-october-4-2023-2/",
+      "waiting_seconds": 0.0
     },
     "overall": "partial"
   },
-  "retrieved_at": "2026-07-31T11:04:07+00:00",
+  "retrieved_at": "2026-08-01T09:19:16+00:00",
   "review_flags": [
     "reused_saved_archived_text_snapshot",
     "missing_latitude",
     "missing_longitude"
   ],
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "source_last_modified": "2024-12-15",
   "source_sections": [
     {
@@ -608,6 +919,17 @@
   ],
   "strike_type": "Airstrike, Drone Strike",
   "strike_type_ar": "غارة جوية، ضربة بطائرة مسيّرة",
+  "timing": {
+    "text_extraction_seconds": 0.0
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
   "victims": [
     {
       "additional_information": "",

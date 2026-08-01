@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/lqHC2"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.is",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.is/lqHC2",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:25:19+00:00",
+      "status": null,
+      "url": "https://archive.is/lqHC2",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.baladi-news.com%2Fpublic%2Far%2Fbreakingnews%2F38785%2F%25D8%25A8%25D9%2584%25D8%25AF%25D9%258A-%25D9%2582%25D9%2588%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585-%25D8%25AA%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A8%25D8%25A7%25D9%2584%25D9%2585%25D8%25AF%25D9%2581%25D8%25B9%25D9%258A%25D8%25A9-%25D9%2585%25D8%25AD%25D9%258A%25D8%25B7-%25D9%2585%25D8%25AF%25D9%258A%25D9%2586%25D8%25A9-%25D8%25A3%25D8%25B1%25D9%258A%25D8%25AD%25D8%25A7-%25D9%2588%25D9%2582%25D8%25B1%25D9%258A%25D8%25A9-%25D9%2585%25D8%25B9%25D8%25B1%25D8%25B2%25D8%25A7%25D9%2581-%25D8%25AC%25D9%2586%25D9%2588%25D8%25A8-%25D8%25A5%25D8%25AF%25D9%2584%25D8%25A8-%25D8%25B3%25D9%2588%25D8%25B1%25D9%258A%25D8%25A7&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:29:03+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.baladi-news.com%2Fpublic%2Far%2Fbreakingnews%2F38785%2F%25D8%25A8%25D9%2584%25D8%25AF%25D9%258A-%25D9%2582%25D9%2588%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585-%25D8%25AA%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A8%25D8%25A7%25D9%2584%25D9%2585%25D8%25AF%25D9%2581%25D8%25B9%25D9%258A%25D8%25A9-%25D9%2585%25D8%25AD%25D9%258A%25D8%25B7-%25D9%2585%25D8%25AF%25D9%258A%25D9%2586%25D8%25A9-%25D8%25A3%25D8%25B1%25D9%258A%25D8%25AD%25D8%25A7-%25D9%2588%25D9%2582%25D8%25B1%25D9%258A%25D8%25A9-%25D9%2585%25D8%25B9%25D8%25B1%25D8%25B2%25D8%25A7%25D9%2581-%25D8%25AC%25D9%2586%25D9%2588%25D8%25A8-%25D8%25A5%25D8%25AF%25D9%2584%25D8%25A8-%25D8%25B3%25D9%2588%25D8%25B1%25D9%258A%25D8%25A7&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Baladi News",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-85258"
+  ],
+  "incident_sequences": [
+    708
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.baladi-news.com/public/ar/breakingnews/38785/%D8%A8%D9%84%D8%AF%D9%8A-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D9%82%D8%B5%D9%81-%D8%A8%D8%A7%D9%84%D9%85%D8%AF%D9%81%D8%B9%D9%8A%D8%A9-%D9%85%D8%AD%D9%8A%D8%B7-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A3%D8%B1%D9%8A%D8%AD%D8%A7-%D9%88%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%B9%D8%B1%D8%B2%D8%A7%D9%81-%D8%AC%D9%86%D9%88%D8%A8-%D8%A5%D8%AF%D9%84%D8%A8-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+  "observed_original_urls": [
+    "https://www.baladi-news.com/public/ar/breakingnews/38785/%D8%A8%D9%84%D8%AF%D9%8A-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D9%82%D8%B5%D9%81-%D8%A8%D8%A7%D9%84%D9%85%D8%AF%D9%81%D8%B9%D9%8A%D8%A9-%D9%85%D8%AD%D9%8A%D8%B7-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A3%D8%B1%D9%8A%D8%AD%D8%A7-%D9%88%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%B9%D8%B1%D8%B2%D8%A7%D9%81-%D8%AC%D9%86%D9%88%D8%A8-%D8%A5%D8%AF%D9%84%D8%A8-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
+  ],
+  "original_url": "https://www.baladi-news.com/public/ar/breakingnews/38785/%D8%A8%D9%84%D8%AF%D9%8A-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D9%82%D8%B5%D9%81-%D8%A8%D8%A7%D9%84%D9%85%D8%AF%D9%81%D8%B9%D9%8A%D8%A9-%D9%85%D8%AD%D9%8A%D8%B7-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A3%D8%B1%D9%8A%D8%AD%D8%A7-%D9%88%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%B9%D8%B1%D8%B2%D8%A7%D9%81-%D8%AC%D9%86%D9%88%D8%A8-%D8%A5%D8%AF%D9%84%D8%A8-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4738-november-6-2022/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-85258",
+      "incident_sequence": 708,
+      "observed_original_url": "https://www.baladi-news.com/public/ar/breakingnews/38785/%D8%A8%D9%84%D8%AF%D9%8A-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D9%82%D8%B5%D9%81-%D8%A8%D8%A7%D9%84%D9%85%D8%AF%D9%81%D8%B9%D9%8A%D8%A9-%D9%85%D8%AD%D9%8A%D8%B7-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A3%D8%B1%D9%8A%D8%AD%D8%A7-%D9%88%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%B9%D8%B1%D8%B2%D8%A7%D9%81-%D8%AC%D9%86%D9%88%D8%A8-%D8%A5%D8%AF%D9%84%D8%A8-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Baladi News",
+  "publisher_ar": "Baladi News",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T10:29:03+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-ef8a6791805d53cb63e73d0b",
+  "source_type": "news_article",
+  "stable_id_basis": "https://www.baladi-news.com/public/ar/breakingnews/38785/%D8%A8%D9%84%D8%AF%D9%8A-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D9%82%D8%B5%D9%81-%D8%A8%D8%A7%D9%84%D9%85%D8%AF%D9%81%D8%B9%D9%8A%D8%A9-%D9%85%D8%AD%D9%8A%D8%B7-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A3%D8%B1%D9%8A%D8%AD%D8%A7-%D9%88%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%B9%D8%B1%D8%B2%D8%A7%D9%81-%D8%AC%D9%86%D9%88%D8%A8-%D8%A5%D8%AF%D9%84%D8%A8-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

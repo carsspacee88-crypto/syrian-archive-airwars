@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/RQbno"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.is",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.is/RQbno",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:13:05+00:00",
+      "status": null,
+      "url": "https://archive.is/RQbno",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fdglah.netajazera%3F__cft__%5B0%5D%3DAZUpy8tfDBBk4A20vOk8EAMqT-HXik1MSZ67dj9ifPjEiWNU3eGU-v-OpvizTvW1GHLLQga6rB4cUYvn1Jd3vYSK_memJ2Mu6eWAdISNMxqDNcKHP9JPSyVHoMw865CSRua4iX1nyppmBJskVZVi7n1VkitBmzp9Vj5kLVBKNqi4Q5yLlbiUfaUQo3KboCfz4gQ%26__tn__%3D-UC%252CP-R&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:23:08+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fdglah.netajazera%3F__cft__%5B0%5D%3DAZUpy8tfDBBk4A20vOk8EAMqT-HXik1MSZ67dj9ifPjEiWNU3eGU-v-OpvizTvW1GHLLQga6rB4cUYvn1Jd3vYSK_memJ2Mu6eWAdISNMxqDNcKHP9JPSyVHoMw865CSRua4iX1nyppmBJskVZVi7n1VkitBmzp9Vj5kLVBKNqi4Q5yLlbiUfaUQo3KboCfz4gQ%26__tn__%3D-UC%252CP-R&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "دجلة - الجزيرة السورية",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-85568"
+  ],
+  "incident_sequences": [
+    689
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.facebook.com/dglah.netajazera?__cft__[0]=AZUpy8tfDBBk4A20vOk8EAMqT-HXik1MSZ67dj9ifPjEiWNU3eGU-v-OpvizTvW1GHLLQga6rB4cUYvn1Jd3vYSK_memJ2Mu6eWAdISNMxqDNcKHP9JPSyVHoMw865CSRua4iX1nyppmBJskVZVi7n1VkitBmzp9Vj5kLVBKNqi4Q5yLlbiUfaUQo3KboCfz4gQ&__tn__=-UC%2CP-R",
+  "observed_original_urls": [
+    "https://www.facebook.com/dglah.netajazera?__cft__[0]=AZUpy8tfDBBk4A20vOk8EAMqT-HXik1MSZ67dj9ifPjEiWNU3eGU-v-OpvizTvW1GHLLQga6rB4cUYvn1Jd3vYSK_memJ2Mu6eWAdISNMxqDNcKHP9JPSyVHoMw865CSRua4iX1nyppmBJskVZVi7n1VkitBmzp9Vj5kLVBKNqi4Q5yLlbiUfaUQo3KboCfz4gQ&__tn__=-UC%2CP-R"
+  ],
+  "original_url": "https://www.facebook.com/dglah.netajazera?__cft__[0]=AZUpy8tfDBBk4A20vOk8EAMqT-HXik1MSZ67dj9ifPjEiWNU3eGU-v-OpvizTvW1GHLLQga6rB4cUYvn1Jd3vYSK_memJ2Mu6eWAdISNMxqDNcKHP9JPSyVHoMw865CSRua4iX1nyppmBJskVZVi7n1VkitBmzp9Vj5kLVBKNqi4Q5yLlbiUfaUQo3KboCfz4gQ&__tn__=-UC%2CP-R",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts571-november-23-2022/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-85568",
+      "incident_sequence": 689,
+      "observed_original_url": "https://www.facebook.com/dglah.netajazera?__cft__[0]=AZUpy8tfDBBk4A20vOk8EAMqT-HXik1MSZ67dj9ifPjEiWNU3eGU-v-OpvizTvW1GHLLQga6rB4cUYvn1Jd3vYSK_memJ2Mu6eWAdISNMxqDNcKHP9JPSyVHoMw865CSRua4iX1nyppmBJskVZVi7n1VkitBmzp9Vj5kLVBKNqi4Q5yLlbiUfaUQo3KboCfz4gQ&__tn__=-UC%2CP-R",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "دجلة - الجزيرة السورية",
+  "publisher_ar": "دجلة - الجزيرة السورية",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T10:23:09+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-e576e5d80ec37cc8a375b4e2",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/dglah.netajazera?__cft__[0]=AZUpy8tfDBBk4A20vOk8EAMqT-HXik1MSZ67dj9ifPjEiWNU3eGU-v-OpvizTvW1GHLLQga6rB4cUYvn1Jd3vYSK_memJ2Mu6eWAdISNMxqDNcKHP9JPSyVHoMw865CSRua4iX1nyppmBJskVZVi7n1VkitBmzp9Vj5kLVBKNqi4Q5yLlbiUfaUQo3KboCfz4gQ&__tn__=-UC%2CP-R",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

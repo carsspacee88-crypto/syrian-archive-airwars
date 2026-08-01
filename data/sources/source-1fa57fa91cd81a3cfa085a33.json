@@ -1,0 +1,143 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.fo/xViS4"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.364,
+          "error": "http_429",
+          "result": "http_error",
+          "retrieved_at": "2026-08-01T09:23:48+00:00",
+          "status": 429
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 55509,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "42fe0bd2bbc588922977464d6aeffe665a0ad83603e8795c7fb80fe1440c92d0",
+      "content_type": "text/html",
+      "elapsed_seconds": 1.364,
+      "error": "http_429",
+      "etag": "",
+      "final_url": "https://archive.fo/xViS4",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:23:48+00:00",
+      "status": 429,
+      "url": "https://archive.fo/xViS4",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fabcnews.go.com%2FInternational%2FwireStory%2Fturkish-jets-target-kurdish-positions-iraq-syria-82618001&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:24:28+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fabcnews.go.com%2FInternational%2FwireStory%2Fturkish-jets-target-kurdish-positions-iraq-syria-82618001&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "ABC",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-81727",
+    "airwars-81550"
+  ],
+  "incident_sequences": [
+    884,
+    885
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://abcnews.go.com/International/wireStory/turkish-jets-target-kurdish-positions-iraq-syria-82618001",
+  "observed_original_urls": [
+    "https://abcnews.go.com/International/wireStory/turkish-jets-target-kurdish-positions-iraq-syria-82618001"
+  ],
+  "original_url": "https://abcnews.go.com/International/wireStory/turkish-jets-target-kurdish-positions-iraq-syria-82618001",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ys123-february-2-2022/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-81727",
+      "incident_sequence": 884,
+      "observed_original_url": "https://abcnews.go.com/International/wireStory/turkish-jets-target-kurdish-positions-iraq-syria-82618001",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts487-february-1-2022/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-81550",
+      "incident_sequence": 885,
+      "observed_original_url": "https://abcnews.go.com/International/wireStory/turkish-jets-target-kurdish-positions-iraq-syria-82618001",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "ABC",
+  "publisher_ar": "ABC",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:24:28+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-1fa57fa91cd81a3cfa085a33",
+  "source_type": "news_article",
+  "stable_id_basis": "https://abcnews.go.com/International/wireStory/turkish-jets-target-kurdish-positions-iraq-syria-82618001",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "en",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

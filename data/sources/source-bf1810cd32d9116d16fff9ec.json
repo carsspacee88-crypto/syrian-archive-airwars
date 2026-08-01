@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/mNxm7"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.is",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.is/mNxm7",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:02:46+00:00",
+      "status": null,
+      "url": "https://archive.is/mNxm7",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttps%3A%2F%2Fbaladi-news.com%2Far%2Farticles%2F76484%2F%2525D9%252582%2525D8%2525B0%2525D8%2525A7%2525D8%2525A6%2525D9%252581-%2525D8%2525A7%2525D9%252584%2525D8%2525A3%2525D8%2525B3%2525D8%2525AF-%2525D8%2525AA%2525D9%252582%2525D8%2525AA%2525D9%252584-%2525D8%2525B7%2525D9%252581%2525D9%252584%2525D8%2525A9-%2525D9%252588%2525D8%2525AA%2525D8%2525A8%2525D8%2525AA%2525D8%2525B1-%2525D8%2525B3%2525D8%2525A7%2525D9%252582-%2525D8%2525A3%2525D8%2525AE%2525D9%25258A%2525D9%252587%2525D8%2525A7-%2525D8%2525BA%2525D8%2525B1%2525D8%2525A8%2525D9%252590-%2525D8%2525AD%2525D9%252584%2525D8%2525A8-%2525D8%2525B5%2525D9%252588%2525D8%2525B1-%252B%26sa%3DD%26source%3Deditors%26ust%3D1628763183921871%26usg%3DAOvVaw0ISp4vvZavR6rlTt8j8FbM&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:06:34+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttps%3A%2F%2Fbaladi-news.com%2Far%2Farticles%2F76484%2F%2525D9%252582%2525D8%2525B0%2525D8%2525A7%2525D8%2525A6%2525D9%252581-%2525D8%2525A7%2525D9%252584%2525D8%2525A3%2525D8%2525B3%2525D8%2525AF-%2525D8%2525AA%2525D9%252582%2525D8%2525AA%2525D9%252584-%2525D8%2525B7%2525D9%252581%2525D9%252584%2525D8%2525A9-%2525D9%252588%2525D8%2525AA%2525D8%2525A8%2525D8%2525AA%2525D8%2525B1-%2525D8%2525B3%2525D8%2525A7%2525D9%252582-%2525D8%2525A3%2525D8%2525AE%2525D9%25258A%2525D9%252587%2525D8%2525A7-%2525D8%2525BA%2525D8%2525B1%2525D8%2525A8%2525D9%252590-%2525D8%2525AD%2525D9%252584%2525D8%2525A8-%2525D8%2525B5%2525D9%252588%2525D8%2525B1-%252B%26sa%3DD%26source%3Deditors%26ust%3D1628763183921871%26usg%3DAOvVaw0ISp4vvZavR6rlTt8j8FbM&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Baladi",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-77141"
+  ],
+  "incident_sequences": [
+    997
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.google.com/url?q=https://baladi-news.com/ar/articles/76484/%25D9%2582%25D8%25B0%25D8%25A7%25D8%25A6%25D9%2581-%25D8%25A7%25D9%2584%25D8%25A3%25D8%25B3%25D8%25AF-%25D8%25AA%25D9%2582%25D8%25AA%25D9%2584-%25D8%25B7%25D9%2581%25D9%2584%25D8%25A9-%25D9%2588%25D8%25AA%25D8%25A8%25D8%25AA%25D8%25B1-%25D8%25B3%25D8%25A7%25D9%2582-%25D8%25A3%25D8%25AE%25D9%258A%25D9%2587%25D8%25A7-%25D8%25BA%25D8%25B1%25D8%25A8%25D9%2590-%25D8%25AD%25D9%2584%25D8%25A8-%25D8%25B5%25D9%2588%25D8%25B1-%2B&sa=D&source=editors&ust=1628763183921871&usg=AOvVaw0ISp4vvZavR6rlTt8j8FbM",
+  "observed_original_urls": [
+    "https://www.google.com/url?q=https://baladi-news.com/ar/articles/76484/%25D9%2582%25D8%25B0%25D8%25A7%25D8%25A6%25D9%2581-%25D8%25A7%25D9%2584%25D8%25A3%25D8%25B3%25D8%25AF-%25D8%25AA%25D9%2582%25D8%25AA%25D9%2584-%25D8%25B7%25D9%2581%25D9%2584%25D8%25A9-%25D9%2588%25D8%25AA%25D8%25A8%25D8%25AA%25D8%25B1-%25D8%25B3%25D8%25A7%25D9%2582-%25D8%25A3%25D8%25AE%25D9%258A%25D9%2587%25D8%25A7-%25D8%25BA%25D8%25B1%25D8%25A8%25D9%2590-%25D8%25AD%25D9%2584%25D8%25A8-%25D8%25B5%25D9%2588%25D8%25B1-%2B&sa=D&source=editors&ust=1628763183921871&usg=AOvVaw0ISp4vvZavR6rlTt8j8FbM"
+  ],
+  "original_url": "https://www.google.com/url?q=https://baladi-news.com/ar/articles/76484/%25D9%2582%25D8%25B0%25D8%25A7%25D8%25A6%25D9%2581-%25D8%25A7%25D9%2584%25D8%25A3%25D8%25B3%25D8%25AF-%25D8%25AA%25D9%2582%25D8%25AA%25D9%2584-%25D8%25B7%25D9%2581%25D9%2584%25D8%25A9-%25D9%2588%25D8%25AA%25D8%25A8%25D8%25AA%25D8%25B1-%25D8%25B3%25D8%25A7%25D9%2582-%25D8%25A3%25D8%25AE%25D9%258A%25D9%2587%25D8%25A7-%25D8%25BA%25D8%25B1%25D8%25A8%25D9%2590-%25D8%25AD%25D9%2584%25D8%25A8-%25D8%25B5%25D9%2588%25D8%25B1-%2B&sa=D&source=editors&ust=1628763183921871&usg=AOvVaw0ISp4vvZavR6rlTt8j8FbM",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4621-august-10-2021/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-77141",
+      "incident_sequence": 997,
+      "observed_original_url": "https://www.google.com/url?q=https://baladi-news.com/ar/articles/76484/%25D9%2582%25D8%25B0%25D8%25A7%25D8%25A6%25D9%2581-%25D8%25A7%25D9%2584%25D8%25A3%25D8%25B3%25D8%25AF-%25D8%25AA%25D9%2582%25D8%25AA%25D9%2584-%25D8%25B7%25D9%2581%25D9%2584%25D8%25A9-%25D9%2588%25D8%25AA%25D8%25A8%25D8%25AA%25D8%25B1-%25D8%25B3%25D8%25A7%25D9%2582-%25D8%25A3%25D8%25AE%25D9%258A%25D9%2587%25D8%25A7-%25D8%25BA%25D8%25B1%25D8%25A8%25D9%2590-%25D8%25AD%25D9%2584%25D8%25A8-%25D8%25B5%25D9%2588%25D8%25B1-%2B&sa=D&source=editors&ust=1628763183921871&usg=AOvVaw0ISp4vvZavR6rlTt8j8FbM",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Baladi",
+  "publisher_ar": "Baladi",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T10:06:34+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-bf1810cd32d9116d16fff9ec",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.google.com/url?q=https://baladi-news.com/ar/articles/76484/%25D9%2582%25D8%25B0%25D8%25A7%25D8%25A6%25D9%2581-%25D8%25A7%25D9%2584%25D8%25A3%25D8%25B3%25D8%25AF-%25D8%25AA%25D9%2582%25D8%25AA%25D9%2584-%25D8%25B7%25D9%2581%25D9%2584%25D8%25A9-%25D9%2588%25D8%25AA%25D8%25A8%25D8%25AA%25D8%25B1-%25D8%25B3%25D8%25A7%25D9%2582-%25D8%25A3%25D8%25AE%25D9%258A%25D9%2587%25D8%25A7-%25D8%25BA%25D8%25B1%25D8%25A8%25D9%2590-%25D8%25AD%25D9%2584%25D8%25A8-%25D8%25B5%25D9%2588%25D8%25B1-%2B&sa=D&source=editors&ust=1628763183921871&usg=AOvVaw0ISp4vvZavR6rlTt8j8FbM",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

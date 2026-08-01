@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.md/cLTeG"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.md",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.md/cLTeG",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:24:06+00:00",
+      "status": null,
+      "url": "https://archive.md/cLTeG",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Falmohrarmedia.net%2F2021%2F12%2F10%2F%25D8%25B1%25D9%2585%25D9%258A%25D8%25A7%25D9%258B-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25B1%25D8%25B5%25D8%25A7%25D8%25B5%25D9%2590-%25D9%2588%25D8%25AF%25D9%2587%25D8%25B3%25D8%25A7%25D9%258B-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25A2%25D9%2584%25D9%258A%25D8%25A7%25D8%25AA%25D9%2590-%25D8%25A7%25D9%2584%25D8%25B9%25D8%25B3%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:24:06+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Falmohrarmedia.net%2F2021%2F12%2F10%2F%25D8%25B1%25D9%2585%25D9%258A%25D8%25A7%25D9%258B-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25B1%25D8%25B5%25D8%25A7%25D8%25B5%25D9%2590-%25D9%2588%25D8%25AF%25D9%2587%25D8%25B3%25D8%25A7%25D9%258B-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25A2%25D9%2584%25D9%258A%25D8%25A7%25D8%25AA%25D9%2590-%25D8%25A7%25D9%2584%25D8%25B9%25D8%25B3%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Al Moharar media",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-80629"
+  ],
+  "incident_sequences": [
+    912
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://almohrarmedia.net/2021/12/10/%D8%B1%D9%85%D9%8A%D8%A7%D9%8B-%D8%A8%D8%A7%D9%84%D8%B1%D8%B5%D8%A7%D8%B5%D9%90-%D9%88%D8%AF%D9%87%D8%B3%D8%A7%D9%8B-%D8%A8%D8%A7%D9%84%D8%A2%D9%84%D9%8A%D8%A7%D8%AA%D9%90-%D8%A7%D9%84%D8%B9%D8%B3/",
+  "observed_original_urls": [
+    "https://almohrarmedia.net/2021/12/10/%D8%B1%D9%85%D9%8A%D8%A7%D9%8B-%D8%A8%D8%A7%D9%84%D8%B1%D8%B5%D8%A7%D8%B5%D9%90-%D9%88%D8%AF%D9%87%D8%B3%D8%A7%D9%8B-%D8%A8%D8%A7%D9%84%D8%A2%D9%84%D9%8A%D8%A7%D8%AA%D9%90-%D8%A7%D9%84%D8%B9%D8%B3/"
+  ],
+  "original_url": "https://almohrarmedia.net/2021/12/10/%D8%B1%D9%85%D9%8A%D8%A7%D9%8B-%D8%A8%D8%A7%D9%84%D8%B1%D8%B5%D8%A7%D8%B5%D9%90-%D9%88%D8%AF%D9%87%D8%B3%D8%A7%D9%8B-%D8%A8%D8%A7%D9%84%D8%A2%D9%84%D9%8A%D8%A7%D8%AA%D9%90-%D8%A7%D9%84%D8%B9%D8%B3/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4678-december-9-2021/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-80629",
+      "incident_sequence": 912,
+      "observed_original_url": "https://almohrarmedia.net/2021/12/10/%D8%B1%D9%85%D9%8A%D8%A7%D9%8B-%D8%A8%D8%A7%D9%84%D8%B1%D8%B5%D8%A7%D8%B5%D9%90-%D9%88%D8%AF%D9%87%D8%B3%D8%A7%D9%8B-%D8%A8%D8%A7%D9%84%D8%A2%D9%84%D9%8A%D8%A7%D8%AA%D9%90-%D8%A7%D9%84%D8%B9%D8%B3/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Al Moharar media",
+  "publisher_ar": "Al Moharar media",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T10:24:24+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-eaf53473613d329dadca5c04",
+  "source_type": "news_article",
+  "stable_id_basis": "https://almohrarmedia.net/2021/12/10/%D8%B1%D9%85%D9%8A%D8%A7%D9%8B-%D8%A8%D8%A7%D9%84%D8%B1%D8%B5%D8%A7%D8%B5%D9%90-%D9%88%D8%AF%D9%87%D8%B3%D8%A7%D9%8B-%D8%A8%D8%A7%D9%84%D8%A2%D9%84%D9%8A%D8%A7%D8%AA%D9%90-%D8%A7%D9%84%D8%B9%D8%B3/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

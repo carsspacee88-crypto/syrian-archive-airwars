@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.md/ZslVw"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.md",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.md/ZslVw",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:23:48+00:00",
+      "status": null,
+      "url": "https://archive.md/ZslVw",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Ftwitter.com%2FRudawEnglish%2Fstatus%2F1458066832779264000%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Etweetembed%257Ctwterm%255E1458066832779264000%257Ctwgr%255E%257Ctwcon%255Es1_%26ref_url%3Dhttps%253A%252F%252Fwww.rudaw.net%252Fenglish%252Fmiddleeast%252Fsyria%252F091120211&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:24:29+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Ftwitter.com%2FRudawEnglish%2Fstatus%2F1458066832779264000%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Etweetembed%257Ctwterm%255E1458066832779264000%257Ctwgr%255E%257Ctwcon%255Es1_%26ref_url%3Dhttps%253A%252F%252Fwww.rudaw.net%252Fenglish%252Fmiddleeast%252Fsyria%252F091120211&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "'@RudawEnglish",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-79932"
+  ],
+  "incident_sequences": [
+    929
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://twitter.com/RudawEnglish/status/1458066832779264000?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1458066832779264000%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.rudaw.net%2Fenglish%2Fmiddleeast%2Fsyria%2F091120211",
+  "observed_original_urls": [
+    "https://twitter.com/RudawEnglish/status/1458066832779264000?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1458066832779264000%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.rudaw.net%2Fenglish%2Fmiddleeast%2Fsyria%2F091120211"
+  ],
+  "original_url": "https://twitter.com/RudawEnglish/status/1458066832779264000?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1458066832779264000%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.rudaw.net%2Fenglish%2Fmiddleeast%2Fsyria%2F091120211",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts478-november-9-2021/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-79932",
+      "incident_sequence": 929,
+      "observed_original_url": "https://twitter.com/RudawEnglish/status/1458066832779264000?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1458066832779264000%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.rudaw.net%2Fenglish%2Fmiddleeast%2Fsyria%2F091120211",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "'@RudawEnglish",
+  "publisher_ar": "'@RudawEnglish",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:24:29+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-2b72f1271fdc79cf5f89f4c9",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://twitter.com/RudawEnglish/status/1458066832779264000?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1458066832779264000%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.rudaw.net%2Fenglish%2Fmiddleeast%2Fsyria%2F091120211",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "en",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

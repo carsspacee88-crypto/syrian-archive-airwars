@@ -1,0 +1,30 @@
+{
+  "attempt_history": [
+    {
+      "attempt": 1,
+      "elapsed_seconds": 0.028,
+      "error": "http_403",
+      "result": "http_error",
+      "retrieved_at": "2026-08-01T09:19:35+00:00",
+      "status": 403
+    }
+  ],
+  "attempts": 1,
+  "body_decoded_from": null,
+  "bytes": 1520,
+  "circuit_open_reason": "",
+  "circuit_open_status": null,
+  "content_hash": "b5839a82c6a4a6a0df55da0348d75b0a431dd093998e763f6a4817b7632e41fc",
+  "content_type": "text/html; charset=utf-8",
+  "elapsed_seconds": 0.028,
+  "error": "http_403",
+  "etag": "",
+  "final_url": "https://airwars.org/civilian-casualties/issy053-october-1-2024/",
+  "last_modified": "",
+  "ok": false,
+  "response_content_encoding": "",
+  "retrieved_at": "2026-08-01T09:19:35+00:00",
+  "status": 403,
+  "url": "https://airwars.org/civilian-casualties/issy053-october-1-2024/",
+  "waiting_seconds": 0.749
+}

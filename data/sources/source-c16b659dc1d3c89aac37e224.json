@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/Pnbt6"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.is",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.is/Pnbt6",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:02:47+00:00",
+      "status": null,
+      "url": "https://archive.is/Pnbt6",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ReadTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fsearch%2Fposts%2F%3Fq%3D%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A++%D8%A7%D9%84%D8%A3%D8%A8%D8%B2%D9%85%D9%88+%26filters%3DeyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC04XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI0XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNC04XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNC04LTExXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtOC0xM1xcXCJ9XCJ9In0%3D%26epa%3DFILTERS&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:07:50+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fsearch%2Fposts%2F%3Fq%3D%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A++%D8%A7%D9%84%D8%A3%D8%A8%D8%B2%D9%85%D9%88+%26filters%3DeyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC04XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI0XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNC04XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNC04LTExXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtOC0xM1xcXCJ9XCJ9In0%3D%26epa%3DFILTERS&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Almoharer",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-129385"
+  ],
+  "incident_sequences": [
+    291
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.facebook.com/search/posts/?q=الروسي  الأبزمو &filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC04XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI0XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNC04XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNC04LTExXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtOC0xM1xcXCJ9XCJ9In0=&epa=FILTERS",
+  "observed_original_urls": [
+    "https://www.facebook.com/search/posts/?q=الروسي  الأبزمو &filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC04XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI0XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNC04XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNC04LTExXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtOC0xM1xcXCJ9XCJ9In0=&epa=FILTERS"
+  ],
+  "original_url": "https://www.facebook.com/search/posts/?q=الروسي  الأبزمو &filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC04XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI0XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNC04XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNC04LTExXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtOC0xM1xcXCJ9XCJ9In0=&epa=FILTERS",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4903-august-12-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-129385",
+      "incident_sequence": 291,
+      "observed_original_url": "https://www.facebook.com/search/posts/?q=الروسي  الأبزمو &filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC04XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI0XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNC04XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNC04LTExXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtOC0xM1xcXCJ9XCJ9In0=&epa=FILTERS",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Almoharer",
+  "publisher_ar": "Almoharer",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T10:07:51+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c16b659dc1d3c89aac37e224",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/search/posts/?q=الروسي  الأبزمو &filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC04XFxcIixcXFwiZW5kX3llYXJcXFwiOlxcXCIyMDI0XFxcIixcXFwiZW5kX21vbnRoXFxcIjpcXFwiMjAyNC04XFxcIixcXFwic3RhcnRfZGF5XFxcIjpcXFwiMjAyNC04LTExXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtOC0xM1xcXCJ9XCJ9In0=&epa=FILTERS",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

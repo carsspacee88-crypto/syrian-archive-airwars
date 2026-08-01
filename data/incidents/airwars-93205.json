@@ -52,6 +52,7 @@
       "url": "https://airwars.org/belligerent/turkish-military/"
     }
   ],
+  "additional_notes": "",
   "airwars_id": "93205",
   "alleged_belligerent": "Turkish Military",
   "alleged_belligerent_ar": "الجيش التركي",
@@ -159,10 +160,141 @@
   "internal_id": "airwars-93205",
   "latitude": null,
   "legacy_completeness_status": "complete",
+  "legacy_incident_fields": {
+    "آخر تعديل": "2026-05-07",
+    "التسلسل": 480,
+    "الجهة العسكرية — الأصل": "Turkish Military",
+    "الجهة العسكرية — عربي": "الجيش التركي",
+    "الدولة": "سوريا",
+    "المنطقة — الأصل": "Al Hassakah",
+    "المنطقة — عربي": "الحسكة",
+    "الموقع بالإنجليزية": "town of Safia",
+    "الموقع بالعربية": "بلدة صفيا",
+    "تاريخ الحادثة": "2023-10-04",
+    "تاريخ النشر": "2023-10-04",
+    "تفاصيل الصفحة الداخلية محفوظة": "نعم",
+    "حالة التحديد — الأصل": "Unassigned",
+    "حالة التحديد — عربي": "غير مسند",
+    "حالة الحادثة — الأصل": "Researched",
+    "حالة الحادثة — عربي": "تم البحث والتوثيق",
+    "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023/",
+    "رمز الحادثة": "TS633",
+    "عدد الروابط الإضافية": 3,
+    "عدد المصادر المفككة": 10,
+    "عدد الوسائط": 0,
+    "معرّف Airwars": "93205",
+    "ملخص عربي منظم": "حادثة مسجلة بتاريخ 2023-10-04 في بلدة صفيا. الجهة المنسوبة: الجيش التركي.",
+    "نوع التاريخ — الأصل": "date",
+    "نوع التاريخ — عربي": "تاريخ محدد"
+  },
+  "legacy_page_fields": [
+    {
+      "اسم الحقل — الأصل": "Conflict",
+      "اسم الحقل — عربي": "النزاع",
+      "القيمة — الأصل": "Turkish Military in Iraq & Syria\n\nTS633",
+      "القيمة — عربي": "الجيش التركي في العراق وسوريا\n\nTS633",
+      "ترتيب الحقل": 1,
+      "تسلسل الحادثة": 480,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023/",
+      "رابط قيمة الحقل": "https://airwars.org/conflict/turkish-military-in-iraq-and-syria/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "رأس صفحة الحادثة"
+    },
+    {
+      "اسم الحقل — الأصل": "Incident Code",
+      "اسم الحقل — عربي": "رمز الحادثة",
+      "القيمة — الأصل": "TS633",
+      "القيمة — عربي": "TS633",
+      "ترتيب الحقل": 2,
+      "تسلسل الحادثة": 480,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "رأس صفحة الحادثة"
+    },
+    {
+      "اسم الحقل — الأصل": "Incident Date",
+      "اسم الحقل — عربي": "تاريخ الحادثة",
+      "القيمة — الأصل": "4 October 2023",
+      "القيمة — عربي": "4 أكتوبر 2023",
+      "ترتيب الحقل": 3,
+      "تسلسل الحادثة": 480,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "رأس صفحة الحادثة"
+    },
+    {
+      "اسم الحقل — الأصل": "Location",
+      "اسم الحقل — عربي": "الموقع",
+      "القيمة — الأصل": "town of Safia, Al Hassakah, Syria\n\nبلدة صفيا",
+      "القيمة — عربي": "مدينة صفية، الحسكة، سوريا\n\nبلدة صفيا",
+      "ترتيب الحقل": 4,
+      "تسلسل الحادثة": 480,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "رأس صفحة الحادثة"
+    },
+    {
+      "اسم الحقل — الأصل": "Incident Status",
+      "اسم الحقل — عربي": "حالة الحادثة",
+      "القيمة — الأصل": "Assessed",
+      "القيمة — عربي": "تم تقييمها",
+      "ترتيب الحقل": 5,
+      "تسلسل الحادثة": 480,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Country",
+      "اسم الحقل — عربي": "الدولة",
+      "القيمة — الأصل": "Syria",
+      "القيمة — عربي": "سوريا",
+      "ترتيب الحقل": 6,
+      "تسلسل الحادثة": 480,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023/",
+      "رابط قيمة الحقل": "https://airwars.org/country/syria/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "المعلومات الأساسية"
+    },
+    {
+      "اسم الحقل — الأصل": "Military Actor",
+      "اسم الحقل — عربي": "الجهة العسكرية",
+      "القيمة — الأصل": "Turkish Military",
+      "القيمة — عربي": "الجيش التركي",
+      "ترتيب الحقل": 7,
+      "تسلسل الحادثة": 480,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023/",
+      "رابط قيمة الحقل": "https://airwars.org/belligerent/turkish-military/",
+      "رمز الحادثة": "TS633",
+      "نطاق الحقل": "المعلومات الأساسية"
+    }
+  ],
+  "legacy_page_sections": [
+    {
+      "ترتيب القسم": 1,
+      "تسلسل الحادثة": 480,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023/",
+      "رمز الحادثة": "TS633",
+      "طول النص بالحروف": 154,
+      "عنوان القسم — الأصل": "Incident Header",
+      "عنوان القسم — عربي": "بيانات الحادثة",
+      "معرّف القسم": "header"
+    },
+    {
+      "ترتيب القسم": 2,
+      "تسلسل الحادثة": 480,
+      "رابط الحادثة": "https://airwars.org/civilian-casualties/ts633-october-4-2023/",
+      "رمز الحادثة": "TS633",
+      "طول النص بالحروف": 92,
+      "عنوان القسم — الأصل": "Key Information",
+      "عنوان القسم — عربي": "المعلومات الأساسية",
+      "معرّف القسم": "key-information"
+    }
+  ],
   "legacy_sequence": 480,
   "legacy_snapshot": {
     "completion": "complete",
-    "migrated_at": "2026-07-31T11:03:08+00:00",
+    "migrated_at": "2026-08-01T09:20:16+00:00",
     "sequence": 480,
     "source_type": "legacy_import",
     "workbook_sha256": "1e748659feb1fb597ccbebdc11e75ff7e63870f57c84bfc728b059677baa3ef6"
@@ -178,40 +310,104 @@
   ],
   "narrative": "",
   "narrative_ar": "حادثة مسجلة بتاريخ 2023-10-04 في بلدة صفيا. الجهة المنسوبة: الجيش التركي.",
+  "narrative_original": "",
+  "narrative_original_language": "und",
   "original_source_url": "https://airwars.org/civilian-casualties/ts633-october-4-2023/",
-  "parser_version": "1.0.0",
+  "parser_version": "1.1.0",
+  "pilot": {
+    "in_scope": true,
+    "name": "speed-pilot-0263-1000",
+    "parser_version": "1.0.0",
+    "sequence": 480,
+    "translation_policy": "disabled_by_user"
+  },
   "retrieval_status": {
     "airwars_endpoint": {
-      "attempts": 1,
-      "bytes": 103,
-      "content_hash": "f261423d1da97890ff6bfccd31ff4ee0b74f69351cf75095fbe791cb16cbf5bd",
-      "content_type": "text/html",
-      "elapsed_seconds": 2.083,
-      "error": "http_403",
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_403",
+      "circuit_open_status": 403,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
       "final_url": "https://airwars.org/wp-json/wp/v2/civ?include=93205&_fields=id%2Cslug%2Clink%2Cdate%2Cmodified%2Cstatus%2Ctitle%2Ccontent%2Cexcerpt%2Cacf",
+      "last_modified": "",
       "ok": false,
-      "retrieved_at": "2026-07-31T11:03:11+00:00",
-      "status": 403,
-      "url": "https://airwars.org/wp-json/wp/v2/civ?include=93205&_fields=id%2Cslug%2Clink%2Cdate%2Cmodified%2Cstatus%2Ctitle%2Ccontent%2Cexcerpt%2Cacf"
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:20:16+00:00",
+      "status": null,
+      "url": "https://airwars.org/wp-json/wp/v2/civ?include=93205&_fields=id%2Cslug%2Clink%2Cdate%2Cmodified%2Cstatus%2Ctitle%2Ccontent%2Cexcerpt%2Cacf",
+      "waiting_seconds": 0.0
     },
     "archive_page": {
-      "error": "no_wayback_capture_found",
+      "cdx_lookup": {
+        "attempt_history": [
+          {
+            "attempt": 0,
+            "host": "web.archive.org",
+            "result": "host_circuit_open"
+          }
+        ],
+        "attempts": 0,
+        "body_decoded_from": null,
+        "bytes": 0,
+        "circuit_open_reason": "URLError: <urlopen error timed out>",
+        "circuit_open_status": null,
+        "content_hash": null,
+        "content_type": "",
+        "elapsed_seconds": 0.0,
+        "error": "host_circuit_open_after_repeated_block_or_timeout",
+        "etag": "",
+        "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fairwars.org%2Fcivilian-casualties%2Fts633-october-4-2023%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+        "last_modified": "",
+        "ok": false,
+        "response_content_encoding": "",
+        "retrieved_at": "2026-08-01T09:20:16+00:00",
+        "status": null,
+        "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fairwars.org%2Fcivilian-casualties%2Fts633-october-4-2023%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+        "waiting_seconds": 0.0
+      },
+      "error": "wayback_lookup_failed",
       "ok": false,
-      "retrieved_at": "2026-07-31T11:03:46+00:00",
+      "retrieved_at": "2026-08-01T09:20:16+00:00",
       "status": null
     },
     "live_page": {
-      "attempts": 1,
-      "bytes": 103,
-      "content_hash": "f261423d1da97890ff6bfccd31ff4ee0b74f69351cf75095fbe791cb16cbf5bd",
-      "content_type": "text/html",
-      "elapsed_seconds": 3.325,
-      "error": "http_403",
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "airwars.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_403",
+      "circuit_open_status": 403,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
       "final_url": "https://airwars.org/civilian-casualties/ts633-october-4-2023/",
+      "last_modified": "",
       "ok": false,
-      "retrieved_at": "2026-07-31T11:03:15+00:00",
-      "status": 403,
-      "url": "https://airwars.org/civilian-casualties/ts633-october-4-2023/"
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:20:16+00:00",
+      "status": null,
+      "url": "https://airwars.org/civilian-casualties/ts633-october-4-2023/",
+      "waiting_seconds": 0.0
     },
     "overall": "blocked"
   },
@@ -220,7 +416,7 @@
     "missing_latitude",
     "missing_longitude"
   ],
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "source_last_modified": "2026-05-07",
   "source_sections": [],
   "sources": [
@@ -397,5 +593,16 @@
   ],
   "strike_type": null,
   "strike_type_ar": null,
+  "timing": {
+    "text_extraction_seconds": 0.0
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
   "victims": []
 }

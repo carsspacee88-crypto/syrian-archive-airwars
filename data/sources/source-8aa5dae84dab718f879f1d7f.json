@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wBkFx"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.ph",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.ph/wBkFx",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:41:27+00:00",
+      "status": null,
+      "url": "https://archive.ph/wBkFx",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Pqv7QRRos7KFE4U56AAfmt5DzZnWzswRVMAid4qz6hoRVF9JvmeE49YPVHRxVyftl%26id%3D61551012807316%26__cft__%5B0%5D%3DAZXU1WXehuCmamsXW8BAbBE_r0l0W1PC3u-uwnb86NYgRbWikLYgL9A5kh-MLfAjZqR-I1K-Yupw_-GGLU7gkHvCXkF1avWcictVwW9bJ2D5mekaLjnmx4eg0EUQQMo-FqMa_VMCFRWuVEvr2-TswUhKclvhT1OdPhqGM_ZVpib8PUPGMFCdjacjqmb-7Wh7Gey_JPeMSGqTGdxqGhtPK3wQ%26__tn__%3D%2CO%2CP-R&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:42:23+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Pqv7QRRos7KFE4U56AAfmt5DzZnWzswRVMAid4qz6hoRVF9JvmeE49YPVHRxVyftl%26id%3D61551012807316%26__cft__%5B0%5D%3DAZXU1WXehuCmamsXW8BAbBE_r0l0W1PC3u-uwnb86NYgRbWikLYgL9A5kh-MLfAjZqR-I1K-Yupw_-GGLU7gkHvCXkF1avWcictVwW9bJ2D5mekaLjnmx4eg0EUQQMo-FqMa_VMCFRWuVEvr2-TswUhKclvhT1OdPhqGM_ZVpib8PUPGMFCdjacjqmb-7Wh7Gey_JPeMSGqTGdxqGhtPK3wQ%26__tn__%3D%2CO%2CP-R&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Jal Agha Media Center",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-126131"
+  ],
+  "incident_sequences": [
+    282
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Pqv7QRRos7KFE4U56AAfmt5DzZnWzswRVMAid4qz6hoRVF9JvmeE49YPVHRxVyftl&id=61551012807316&__cft__[0]=AZXU1WXehuCmamsXW8BAbBE_r0l0W1PC3u-uwnb86NYgRbWikLYgL9A5kh-MLfAjZqR-I1K-Yupw_-GGLU7gkHvCXkF1avWcictVwW9bJ2D5mekaLjnmx4eg0EUQQMo-FqMa_VMCFRWuVEvr2-TswUhKclvhT1OdPhqGM_ZVpib8PUPGMFCdjacjqmb-7Wh7Gey_JPeMSGqTGdxqGhtPK3wQ&__tn__=,O,P-R",
+  "observed_original_urls": [
+    "https://www.facebook.com/permalink.php?story_fbid=pfbid02Pqv7QRRos7KFE4U56AAfmt5DzZnWzswRVMAid4qz6hoRVF9JvmeE49YPVHRxVyftl&id=61551012807316&__cft__[0]=AZXU1WXehuCmamsXW8BAbBE_r0l0W1PC3u-uwnb86NYgRbWikLYgL9A5kh-MLfAjZqR-I1K-Yupw_-GGLU7gkHvCXkF1avWcictVwW9bJ2D5mekaLjnmx4eg0EUQQMo-FqMa_VMCFRWuVEvr2-TswUhKclvhT1OdPhqGM_ZVpib8PUPGMFCdjacjqmb-7Wh7Gey_JPeMSGqTGdxqGhtPK3wQ&__tn__=,O,P-R"
+  ],
+  "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Pqv7QRRos7KFE4U56AAfmt5DzZnWzswRVMAid4qz6hoRVF9JvmeE49YPVHRxVyftl&id=61551012807316&__cft__[0]=AZXU1WXehuCmamsXW8BAbBE_r0l0W1PC3u-uwnb86NYgRbWikLYgL9A5kh-MLfAjZqR-I1K-Yupw_-GGLU7gkHvCXkF1avWcictVwW9bJ2D5mekaLjnmx4eg0EUQQMo-FqMa_VMCFRWuVEvr2-TswUhKclvhT1OdPhqGM_ZVpib8PUPGMFCdjacjqmb-7Wh7Gey_JPeMSGqTGdxqGhtPK3wQ&__tn__=,O,P-R",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts709-august-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-126131",
+      "incident_sequence": 282,
+      "observed_original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Pqv7QRRos7KFE4U56AAfmt5DzZnWzswRVMAid4qz6hoRVF9JvmeE49YPVHRxVyftl&id=61551012807316&__cft__[0]=AZXU1WXehuCmamsXW8BAbBE_r0l0W1PC3u-uwnb86NYgRbWikLYgL9A5kh-MLfAjZqR-I1K-Yupw_-GGLU7gkHvCXkF1avWcictVwW9bJ2D5mekaLjnmx4eg0EUQQMo-FqMa_VMCFRWuVEvr2-TswUhKclvhT1OdPhqGM_ZVpib8PUPGMFCdjacjqmb-7Wh7Gey_JPeMSGqTGdxqGhtPK3wQ&__tn__=,O,P-R",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Jal Agha Media Center",
+  "publisher_ar": "Jal Agha Media Center",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:42:23+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-8aa5dae84dab718f879f1d7f",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Pqv7QRRos7KFE4U56AAfmt5DzZnWzswRVMAid4qz6hoRVF9JvmeE49YPVHRxVyftl&id=61551012807316&__cft__[0]=AZXU1WXehuCmamsXW8BAbBE_r0l0W1PC3u-uwnb86NYgRbWikLYgL9A5kh-MLfAjZqR-I1K-Yupw_-GGLU7gkHvCXkF1avWcictVwW9bJ2D5mekaLjnmx4eg0EUQQMo-FqMa_VMCFRWuVEvr2-TswUhKclvhT1OdPhqGM_ZVpib8PUPGMFCdjacjqmb-7Wh7Gey_JPeMSGqTGdxqGhtPK3wQ&__tn__=,O,P-R",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

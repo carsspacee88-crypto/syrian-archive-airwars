@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/vvae6"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.ph",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.ph/vvae6",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:20:28+00:00",
+      "status": null,
+      "url": "https://archive.ph/vvae6",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2FNPA.SY%2Fposts%2Fpfbid02xrkGb5Q2Mq2jwXWwr4Te6fX8BxUmYtwxqFzrwgzoHtbBPoRVNoapVdpRL3qQECHhl%3F__cft__%5B0%5D%3DAZWPbNAZ1ns31VYWFCBNyvs4BFAurUhIOxPvLa6R_Nb7N_GDfuyhqNcnWr_AuHJ6ccNpwzH8Eub1pL4HpzDnSk9PvuIQvOD5ZGuv3E7CFTT25x2A520ckmFUQBVbtS97Arm0KJTs7asc2dbgJTB2stGN4qIe1jz8GUun3qJ2qJxxqX6mwXLy_qAYFBVJjBi--SZylhel3kmA5DFKXgXaVIkc%26__tn__%3D%2CO%2CP-R&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:20:57+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2FNPA.SY%2Fposts%2Fpfbid02xrkGb5Q2Mq2jwXWwr4Te6fX8BxUmYtwxqFzrwgzoHtbBPoRVNoapVdpRL3qQECHhl%3F__cft__%5B0%5D%3DAZWPbNAZ1ns31VYWFCBNyvs4BFAurUhIOxPvLa6R_Nb7N_GDfuyhqNcnWr_AuHJ6ccNpwzH8Eub1pL4HpzDnSk9PvuIQvOD5ZGuv3E7CFTT25x2A520ckmFUQBVbtS97Arm0KJTs7asc2dbgJTB2stGN4qIe1jz8GUun3qJ2qJxxqX6mwXLy_qAYFBVJjBi--SZylhel3kmA5DFKXgXaVIkc%26__tn__%3D%2CO%2CP-R&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "North Press Agency",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-115968"
+  ],
+  "incident_sequences": [
+    309
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.facebook.com/NPA.SY/posts/pfbid02xrkGb5Q2Mq2jwXWwr4Te6fX8BxUmYtwxqFzrwgzoHtbBPoRVNoapVdpRL3qQECHhl?__cft__[0]=AZWPbNAZ1ns31VYWFCBNyvs4BFAurUhIOxPvLa6R_Nb7N_GDfuyhqNcnWr_AuHJ6ccNpwzH8Eub1pL4HpzDnSk9PvuIQvOD5ZGuv3E7CFTT25x2A520ckmFUQBVbtS97Arm0KJTs7asc2dbgJTB2stGN4qIe1jz8GUun3qJ2qJxxqX6mwXLy_qAYFBVJjBi--SZylhel3kmA5DFKXgXaVIkc&__tn__=,O,P-R",
+  "observed_original_urls": [
+    "https://www.facebook.com/NPA.SY/posts/pfbid02xrkGb5Q2Mq2jwXWwr4Te6fX8BxUmYtwxqFzrwgzoHtbBPoRVNoapVdpRL3qQECHhl?__cft__[0]=AZWPbNAZ1ns31VYWFCBNyvs4BFAurUhIOxPvLa6R_Nb7N_GDfuyhqNcnWr_AuHJ6ccNpwzH8Eub1pL4HpzDnSk9PvuIQvOD5ZGuv3E7CFTT25x2A520ckmFUQBVbtS97Arm0KJTs7asc2dbgJTB2stGN4qIe1jz8GUun3qJ2qJxxqX6mwXLy_qAYFBVJjBi--SZylhel3kmA5DFKXgXaVIkc&__tn__=,O,P-R"
+  ],
+  "original_url": "https://www.facebook.com/NPA.SY/posts/pfbid02xrkGb5Q2Mq2jwXWwr4Te6fX8BxUmYtwxqFzrwgzoHtbBPoRVNoapVdpRL3qQECHhl?__cft__[0]=AZWPbNAZ1ns31VYWFCBNyvs4BFAurUhIOxPvLa6R_Nb7N_GDfuyhqNcnWr_AuHJ6ccNpwzH8Eub1pL4HpzDnSk9PvuIQvOD5ZGuv3E7CFTT25x2A520ckmFUQBVbtS97Arm0KJTs7asc2dbgJTB2stGN4qIe1jz8GUun3qJ2qJxxqX6mwXLy_qAYFBVJjBi--SZylhel3kmA5DFKXgXaVIkc&__tn__=,O,P-R",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts694-may-14-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-115968",
+      "incident_sequence": 309,
+      "observed_original_url": "https://www.facebook.com/NPA.SY/posts/pfbid02xrkGb5Q2Mq2jwXWwr4Te6fX8BxUmYtwxqFzrwgzoHtbBPoRVNoapVdpRL3qQECHhl?__cft__[0]=AZWPbNAZ1ns31VYWFCBNyvs4BFAurUhIOxPvLa6R_Nb7N_GDfuyhqNcnWr_AuHJ6ccNpwzH8Eub1pL4HpzDnSk9PvuIQvOD5ZGuv3E7CFTT25x2A520ckmFUQBVbtS97Arm0KJTs7asc2dbgJTB2stGN4qIe1jz8GUun3qJ2qJxxqX6mwXLy_qAYFBVJjBi--SZylhel3kmA5DFKXgXaVIkc&__tn__=,O,P-R",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "North Press Agency",
+  "publisher_ar": "North Press Agency",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:20:58+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-09d12a156e4ac1ecf6bd7156",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/NPA.SY/posts/pfbid02xrkGb5Q2Mq2jwXWwr4Te6fX8BxUmYtwxqFzrwgzoHtbBPoRVNoapVdpRL3qQECHhl?__cft__[0]=AZWPbNAZ1ns31VYWFCBNyvs4BFAurUhIOxPvLa6R_Nb7N_GDfuyhqNcnWr_AuHJ6ccNpwzH8Eub1pL4HpzDnSk9PvuIQvOD5ZGuv3E7CFTT25x2A520ckmFUQBVbtS97Arm0KJTs7asc2dbgJTB2stGN4qIe1jz8GUun3qJ2qJxxqX6mwXLy_qAYFBVJjBi--SZylhel3kmA5DFKXgXaVIkc&__tn__=,O,P-R",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

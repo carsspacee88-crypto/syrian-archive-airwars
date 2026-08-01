@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/F7cWq"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.is",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.is/F7cWq",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:26:37+00:00",
+      "status": null,
+      "url": "https://archive.is/F7cWq",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syria.tv%2F%25D9%2585%25D9%2582%25D8%25AA%25D9%2584-%25D8%25B4%25D8%25A7%25D8%25A8-%25D9%2588%25D8%25A5%25D8%25B5%25D8%25A7%25D8%25A8%25D8%25A9-%25D8%25B4%25D9%2582%25D9%258A%25D9%2582%25D9%2587-%25D8%25A8%25D9%2582%25D8%25B5%25D9%2581-%25D9%2584%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585-%25D8%25BA%25D8%25B1%25D8%25A8%25D9%258A-%25D8%25AD%25D9%2584%25D8%25A8&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:27:29+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.syria.tv%2F%25D9%2585%25D9%2582%25D8%25AA%25D9%2584-%25D8%25B4%25D8%25A7%25D8%25A8-%25D9%2588%25D8%25A5%25D8%25B5%25D8%25A7%25D8%25A8%25D8%25A9-%25D8%25B4%25D9%2582%25D9%258A%25D9%2582%25D9%2587-%25D8%25A8%25D9%2582%25D8%25B5%25D9%2581-%25D9%2584%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585-%25D8%25BA%25D8%25B1%25D8%25A8%25D9%258A-%25D8%25AD%25D9%2584%25D8%25A8&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Syria TV",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-84937"
+  ],
+  "incident_sequences": [
+    746
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%A7%D8%A8-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B4%D9%82%D9%8A%D9%82%D9%87-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AD%D9%84%D8%A8",
+  "observed_original_urls": [
+    "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%A7%D8%A8-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B4%D9%82%D9%8A%D9%82%D9%87-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AD%D9%84%D8%A8"
+  ],
+  "original_url": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%A7%D8%A8-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B4%D9%82%D9%8A%D9%82%D9%87-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AD%D9%84%D8%A8",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4723-september-17-2022/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-84937",
+      "incident_sequence": 746,
+      "observed_original_url": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%A7%D8%A8-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B4%D9%82%D9%8A%D9%82%D9%87-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AD%D9%84%D8%A8",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Syria TV",
+  "publisher_ar": "Syria TV",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:27:29+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-3099648c6d1f12ffbe980e1c",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%A7%D8%A8-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B4%D9%82%D9%8A%D9%82%D9%87-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AD%D9%84%D8%A8",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,134 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/cMm9F"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.ph",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.ph/cMm9F",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:12:07+00:00",
+      "status": null,
+      "url": "https://archive.ph/cMm9F",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 6.472,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T10:14:03+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 3,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "content_type": "application/json",
+      "elapsed_seconds": 6.472,
+      "error": null,
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Froz.press1%3F__cft__%5B0%5D%3DAZW5EYCg5-xWPv8ro5ms8swyUn9qZwdhT0m7JWNoVWo4jazHCJXt7lhZEqAE3loab3YxSaq4l-nBx4DaeJsbYcyXQl1fDKaS9vzfL9178Q4xAad9Brw2qNAFGfIhEjPrHU0wqs3lP66AGMsl9eArJkBh10Q3T1yxtSATUEu-QeO8nw%26__tn__%3D-UC%2CP-R&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "lookup_result": "no_capture",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:14:03+00:00",
+      "status": 200,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Froz.press1%3F__cft__%5B0%5D%3DAZW5EYCg5-xWPv8ro5ms8swyUn9qZwdhT0m7JWNoVWo4jazHCJXt7lhZEqAE3loab3YxSaq4l-nBx4DaeJsbYcyXQl1fDKaS9vzfL9178Q4xAad9Brw2qNAFGfIhEjPrHU0wqs3lP66AGMsl9eArJkBh10Q3T1yxtSATUEu-QeO8nw%26__tn__%3D-UC%2CP-R&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "Roz Press",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "no_archive_capture",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-92871"
+  ],
+  "incident_sequences": [
+    516
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.facebook.com/roz.press1?__cft__[0]=AZW5EYCg5-xWPv8ro5ms8swyUn9qZwdhT0m7JWNoVWo4jazHCJXt7lhZEqAE3loab3YxSaq4l-nBx4DaeJsbYcyXQl1fDKaS9vzfL9178Q4xAad9Brw2qNAFGfIhEjPrHU0wqs3lP66AGMsl9eArJkBh10Q3T1yxtSATUEu-QeO8nw&__tn__=-UC,P-R",
+  "observed_original_urls": [
+    "https://www.facebook.com/roz.press1?__cft__[0]=AZW5EYCg5-xWPv8ro5ms8swyUn9qZwdhT0m7JWNoVWo4jazHCJXt7lhZEqAE3loab3YxSaq4l-nBx4DaeJsbYcyXQl1fDKaS9vzfL9178Q4xAad9Brw2qNAFGfIhEjPrHU0wqs3lP66AGMsl9eArJkBh10Q3T1yxtSATUEu-QeO8nw&__tn__=-UC,P-R"
+  ],
+  "original_url": "https://www.facebook.com/roz.press1?__cft__[0]=AZW5EYCg5-xWPv8ro5ms8swyUn9qZwdhT0m7JWNoVWo4jazHCJXt7lhZEqAE3loab3YxSaq4l-nBx4DaeJsbYcyXQl1fDKaS9vzfL9178Q4xAad9Brw2qNAFGfIhEjPrHU0wqs3lP66AGMsl9eArJkBh10Q3T1yxtSATUEu-QeO8nw&__tn__=-UC,P-R",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts627-september-5-2023/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-92871",
+      "incident_sequence": 516,
+      "observed_original_url": "https://www.facebook.com/roz.press1?__cft__[0]=AZW5EYCg5-xWPv8ro5ms8swyUn9qZwdhT0m7JWNoVWo4jazHCJXt7lhZEqAE3loab3YxSaq4l-nBx4DaeJsbYcyXQl1fDKaS9vzfL9178Q4xAad9Brw2qNAFGfIhEjPrHU0wqs3lP66AGMsl9eArJkBh10Q3T1yxtSATUEu-QeO8nw&__tn__=-UC,P-R",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Roz Press",
+  "publisher_ar": "Roz Press",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T10:14:03+00:00",
+    "reason": "no_archive_capture",
+    "status": "deferred"
+  },
+  "retrieval_status": "no_archive_capture",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-e5f5f995935a840085e754d6",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/roz.press1?__cft__[0]=AZW5EYCg5-xWPv8ro5ms8swyUn9qZwdhT0m7JWNoVWo4jazHCJXt7lhZEqAE3loab3YxSaq4l-nBx4DaeJsbYcyXQl1fDKaS9vzfL9178Q4xAad9Brw2qNAFGfIhEjPrHU0wqs3lP66AGMsl9eArJkBh10Q3T1yxtSATUEu-QeO8nw&__tn__=-UC,P-R",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

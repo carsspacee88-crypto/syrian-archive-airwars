@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/aQtX7"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.ph",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.ph/aQtX7",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:34:07+00:00",
+      "status": null,
+      "url": "https://archive.ph/aQtX7",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fsearch%2Fposts%2F%3Fq%3D%25D8%25B9%25D8%25A8%25D8%25AF%2520%25D8%25A7%25D9%2584%25D9%2582%25D9%2587%25D8%25A7%25D8%25B1%2520%25D8%25B9%25D8%25A7%25D8%25B5%25D9%258A%26filters%3DeyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyMlxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyMi0xMFxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyMlxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjItMTBcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDIyLTEwLTE2XFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjItMTAtMTZcXFwifVwifSJ9%26epa%3DFILTERS&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:34:25+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fsearch%2Fposts%2F%3Fq%3D%25D8%25B9%25D8%25A8%25D8%25AF%2520%25D8%25A7%25D9%2584%25D9%2582%25D9%2587%25D8%25A7%25D8%25B1%2520%25D8%25B9%25D8%25A7%25D8%25B5%25D9%258A%26filters%3DeyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyMlxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyMi0xMFxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyMlxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjItMTBcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDIyLTEwLTE2XFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjItMTAtMTZcXFwifVwifSJ9%26epa%3DFILTERS&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Omar",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-85127"
+  ],
+  "incident_sequences": [
+    727
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.facebook.com/search/posts/?q=%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%82%D9%87%D8%A7%D8%B1%20%D8%B9%D8%A7%D8%B5%D9%8A&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyMlxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyMi0xMFxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyMlxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjItMTBcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDIyLTEwLTE2XFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjItMTAtMTZcXFwifVwifSJ9&epa=FILTERS",
+  "observed_original_urls": [
+    "https://www.facebook.com/search/posts/?q=%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%82%D9%87%D8%A7%D8%B1%20%D8%B9%D8%A7%D8%B5%D9%8A&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyMlxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyMi0xMFxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyMlxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjItMTBcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDIyLTEwLTE2XFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjItMTAtMTZcXFwifVwifSJ9&epa=FILTERS"
+  ],
+  "original_url": "https://www.facebook.com/search/posts/?q=%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%82%D9%87%D8%A7%D8%B1%20%D8%B9%D8%A7%D8%B5%D9%8A&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyMlxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyMi0xMFxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyMlxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjItMTBcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDIyLTEwLTE2XFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjItMTAtMTZcXFwifVwifSJ9&epa=FILTERS",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4729-october-16-2022/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-85127",
+      "incident_sequence": 727,
+      "observed_original_url": "https://www.facebook.com/search/posts/?q=%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%82%D9%87%D8%A7%D8%B1%20%D8%B9%D8%A7%D8%B5%D9%8A&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyMlxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyMi0xMFxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyMlxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjItMTBcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDIyLTEwLTE2XFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjItMTAtMTZcXFwifVwifSJ9&epa=FILTERS",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Omar",
+  "publisher_ar": "Omar",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:34:25+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-6caeaef7f24966a92e6cae3a",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/search/posts/?q=%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%82%D9%87%D8%A7%D8%B1%20%D8%B9%D8%A7%D8%B5%D9%8A&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyMlxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyMi0xMFxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyMlxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjItMTBcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDIyLTEwLTE2XFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjItMTAtMTZcXFwifVwifSJ9&epa=FILTERS",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/iT4y5"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.is",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.is/iT4y5",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:34:31+00:00",
+      "status": null,
+      "url": "https://archive.is/iT4y5",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fbissanfm.com%2Fnews%2F72972%3Ffbclid%3DIwAR3egUaJ9ROg5GfNjNO3nmIFUXE2wMUYO-NsD7NKP9-mX-smrkKgM3WBSrY&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:40:34+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fbissanfm.com%2Fnews%2F72972%3Ffbclid%3DIwAR3egUaJ9ROg5GfNjNO3nmIFUXE2wMUYO-NsD7NKP9-mX-smrkKgM3WBSrY&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Bisan news",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-103526"
+  ],
+  "incident_sequences": [
+    407
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://bissanfm.com/news/72972?fbclid=IwAR3egUaJ9ROg5GfNjNO3nmIFUXE2wMUYO-NsD7NKP9-mX-smrkKgM3WBSrY",
+  "observed_original_urls": [
+    "https://bissanfm.com/news/72972?fbclid=IwAR3egUaJ9ROg5GfNjNO3nmIFUXE2wMUYO-NsD7NKP9-mX-smrkKgM3WBSrY"
+  ],
+  "original_url": "https://bissanfm.com/news/72972?fbclid=IwAR3egUaJ9ROg5GfNjNO3nmIFUXE2wMUYO-NsD7NKP9-mX-smrkKgM3WBSrY",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts658-november-20-2023/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-103526",
+      "incident_sequence": 407,
+      "observed_original_url": "https://bissanfm.com/news/72972?fbclid=IwAR3egUaJ9ROg5GfNjNO3nmIFUXE2wMUYO-NsD7NKP9-mX-smrkKgM3WBSrY",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Bisan news",
+  "publisher_ar": "Bisan news",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:40:35+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-72c8b2a4851a4be1a6128bd0",
+  "source_type": "news_article",
+  "stable_id_basis": "https://bissanfm.com/news/72972?fbclid=IwAR3egUaJ9ROg5GfNjNO3nmIFUXE2wMUYO-NsD7NKP9-mX-smrkKgM3WBSrY",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

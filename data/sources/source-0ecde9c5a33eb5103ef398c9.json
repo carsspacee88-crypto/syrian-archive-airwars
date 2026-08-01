@@ -1,0 +1,230 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.inherentresolve.mil%2FPortals%2F14%2FCJTFOIR%2520Periodic%2520CIVCAS%2520Report%2520-%2520MAR23%2520%252803NOV23%2529.pdf&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:20:57+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.inherentresolve.mil%2FPortals%2F14%2FCJTFOIR%2520Periodic%2520CIVCAS%2520Report%2520-%2520MAR23%2520%252803NOV23%2529.pdf&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "CJTF-OIR",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-86185",
+    "airwars-82530",
+    "airwars-82169",
+    "airwars-81560",
+    "airwars-81424",
+    "airwars-81306",
+    "airwars-80656",
+    "airwars-80530",
+    "airwars-79930",
+    "airwars-79890",
+    "airwars-79815",
+    "airwars-79501",
+    "airwars-79091",
+    "airwars-78934"
+  ],
+  "incident_sequences": [
+    693,
+    856,
+    869,
+    880,
+    888,
+    892,
+    909,
+    917,
+    931,
+    932,
+    937,
+    946,
+    952,
+    960
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf",
+  "observed_original_urls": [
+    "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf"
+  ],
+  "original_url": "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1988-november-22-2022/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-86185",
+      "incident_sequence": 693,
+      "observed_original_url": "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1980-march-28-2022/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-82530",
+      "incident_sequence": 856,
+      "observed_original_url": "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1979-february-22-2022/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-82169",
+      "incident_sequence": 869,
+      "observed_original_url": "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1977-february-3-2022/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-81560",
+      "incident_sequence": 880,
+      "observed_original_url": "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1976-january-20-2022/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-81424",
+      "incident_sequence": 888,
+      "observed_original_url": "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1975-january-17-2022/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-81306",
+      "incident_sequence": 892,
+      "observed_original_url": "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1974-december-12-2021/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-80656",
+      "incident_sequence": 909,
+      "observed_original_url": "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1972-november-30-2021/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-80530",
+      "incident_sequence": 917,
+      "observed_original_url": "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1971-november-8-2021/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-79930",
+      "incident_sequence": 931,
+      "observed_original_url": "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1969-november-7-2021/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-79890",
+      "incident_sequence": 932,
+      "observed_original_url": "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1968-october-27-2021/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-79815",
+      "incident_sequence": 937,
+      "observed_original_url": "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1966-october-16-2021/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-79501",
+      "incident_sequence": 946,
+      "observed_original_url": "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1965-october-2-2021/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-79091",
+      "incident_sequence": 952,
+      "observed_original_url": "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1964-september-26-2021/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-78934",
+      "incident_sequence": 960,
+      "observed_original_url": "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "CJTF-OIR",
+  "publisher_ar": "CJTF-OIR",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:20:57+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-0ecde9c5a33eb5103ef398c9",
+  "source_type": "pdf_document",
+  "stable_id_basis": "https://www.inherentresolve.mil/Portals/14/CJTFOIR%20Periodic%20CIVCAS%20Report%20-%20MAR23%20%2803NOV23%29.pdf",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "en",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

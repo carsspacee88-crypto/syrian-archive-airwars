@@ -1,0 +1,27 @@
+{
+  "attempt_history": [
+    {
+      "attempt": 0,
+      "host": "airwars.org",
+      "result": "host_circuit_open"
+    }
+  ],
+  "attempts": 0,
+  "body_decoded_from": null,
+  "bytes": 0,
+  "circuit_open_reason": "http_403",
+  "circuit_open_status": 403,
+  "content_hash": null,
+  "content_type": "",
+  "elapsed_seconds": 0.0,
+  "error": "host_circuit_open_after_repeated_block_or_timeout",
+  "etag": "",
+  "final_url": "https://airwars.org/civilian-casualties/ts517-june-7-2022/",
+  "last_modified": "",
+  "ok": false,
+  "response_content_encoding": "",
+  "retrieved_at": "2026-08-01T09:20:20+00:00",
+  "status": null,
+  "url": "https://airwars.org/civilian-casualties/ts517-june-7-2022/",
+  "waiting_seconds": 0.0
+}

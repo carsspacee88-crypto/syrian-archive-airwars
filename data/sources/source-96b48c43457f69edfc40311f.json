@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/necTo"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.is",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.is/necTo",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:50:00+00:00",
+      "status": null,
+      "url": "https://archive.is/necTo",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.alaraby.com%2Fnews%2F%25D8%25B3%25D9%258A%25D8%25A7%25D8%25B3%25D8%25A9-49144%3Fviews_exclude_previous%3D49144%252C5%252C48897%252C48930%252C48857%252C49075%252C48858%252C48805%252C48846%252C48923%252C48922%252C48019%252C47617%252C48339%26views_exclude_previous_token%3DvvvwhBL6lE_oQuj6ASpdmMOaQNLyj_kR4mNqzyPdo_E%26page%3D1&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:52:20+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.alaraby.com%2Fnews%2F%25D8%25B3%25D9%258A%25D8%25A7%25D8%25B3%25D8%25A9-49144%3Fviews_exclude_previous%3D49144%252C5%252C48897%252C48930%252C48857%252C49075%252C48858%252C48805%252C48846%252C48923%252C48922%252C48019%252C47617%252C48339%26views_exclude_previous_token%3DvvvwhBL6lE_oQuj6ASpdmMOaQNLyj_kR4mNqzyPdo_E%26page%3D1&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Al Araby News",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-78750"
+  ],
+  "incident_sequences": [
+    962
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.alaraby.com/news/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-49144?views_exclude_previous=49144%2C5%2C48897%2C48930%2C48857%2C49075%2C48858%2C48805%2C48846%2C48923%2C48922%2C48019%2C47617%2C48339&views_exclude_previous_token=vvvwhBL6lE_oQuj6ASpdmMOaQNLyj_kR4mNqzyPdo_E&page=1",
+  "observed_original_urls": [
+    "https://www.alaraby.com/news/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-49144?views_exclude_previous=49144%2C5%2C48897%2C48930%2C48857%2C49075%2C48858%2C48805%2C48846%2C48923%2C48922%2C48019%2C47617%2C48339&views_exclude_previous_token=vvvwhBL6lE_oQuj6ASpdmMOaQNLyj_kR4mNqzyPdo_E&page=1"
+  ],
+  "original_url": "https://www.alaraby.com/news/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-49144?views_exclude_previous=49144%2C5%2C48897%2C48930%2C48857%2C49075%2C48858%2C48805%2C48846%2C48923%2C48922%2C48019%2C47617%2C48339&views_exclude_previous_token=vvvwhBL6lE_oQuj6ASpdmMOaQNLyj_kR4mNqzyPdo_E&page=1",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4646-september-19-2021/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-78750",
+      "incident_sequence": 962,
+      "observed_original_url": "https://www.alaraby.com/news/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-49144?views_exclude_previous=49144%2C5%2C48897%2C48930%2C48857%2C49075%2C48858%2C48805%2C48846%2C48923%2C48922%2C48019%2C47617%2C48339&views_exclude_previous_token=vvvwhBL6lE_oQuj6ASpdmMOaQNLyj_kR4mNqzyPdo_E&page=1",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Al Araby News",
+  "publisher_ar": "Al Araby News",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:52:20+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-96b48c43457f69edfc40311f",
+  "source_type": "news_article",
+  "stable_id_basis": "https://www.alaraby.com/news/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-49144?views_exclude_previous=49144%2C5%2C48897%2C48930%2C48857%2C49075%2C48858%2C48805%2C48846%2C48923%2C48922%2C48019%2C47617%2C48339&views_exclude_previous_token=vvvwhBL6lE_oQuj6ASpdmMOaQNLyj_kR4mNqzyPdo_E&page=1",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,140 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/42IlC"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.ph",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.ph/42IlC",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:49:38+00:00",
+      "status": null,
+      "url": "https://archive.ph/42IlC",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fasayish.com%2F%3Fp%3D5535%26fbclid%3DIwAR1VHnRpesOF2FvRQl-tN21HpF2i0j4mb9-ypsYpHGidGWxTkw9T3WTBRoU&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:50:20+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fasayish.com%2F%3Fp%3D5535%26fbclid%3DIwAR1VHnRpesOF2FvRQl-tN21HpF2i0j4mb9-ypsYpHGidGWxTkw9T3WTBRoU&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Internal Security Forces in North and East Syria (Asayish)",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-84449",
+    "airwars-84465"
+  ],
+  "incident_sequences": [
+    763,
+    766
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://asayish.com/?p=5535&fbclid=IwAR1VHnRpesOF2FvRQl-tN21HpF2i0j4mb9-ypsYpHGidGWxTkw9T3WTBRoU",
+  "observed_original_urls": [
+    "https://asayish.com/?p=5535&fbclid=IwAR1VHnRpesOF2FvRQl-tN21HpF2i0j4mb9-ypsYpHGidGWxTkw9T3WTBRoU"
+  ],
+  "original_url": "https://asayish.com/?p=5535&fbclid=IwAR1VHnRpesOF2FvRQl-tN21HpF2i0j4mb9-ypsYpHGidGWxTkw9T3WTBRoU",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts546-august-16-2022/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-84449",
+      "incident_sequence": 763,
+      "observed_original_url": "https://asayish.com/?p=5535&fbclid=IwAR1VHnRpesOF2FvRQl-tN21HpF2i0j4mb9-ypsYpHGidGWxTkw9T3WTBRoU",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts549-august-16-2022/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-84465",
+      "incident_sequence": 766,
+      "observed_original_url": "https://asayish.com/?p=5535&fbclid=IwAR1VHnRpesOF2FvRQl-tN21HpF2i0j4mb9-ypsYpHGidGWxTkw9T3WTBRoU",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Internal Security Forces in North and East Syria (Asayish)",
+  "publisher_ar": "Internal Security Forces in North and East Syria (Asayish)",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:50:20+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-99a3369b47b0fa201fc0b95f",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://asayish.com/?p=5535&fbclid=IwAR1VHnRpesOF2FvRQl-tN21HpF2i0j4mb9-ypsYpHGidGWxTkw9T3WTBRoU",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

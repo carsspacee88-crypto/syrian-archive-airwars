@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/FZBqd"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.is",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.is/FZBqd",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:49:09+00:00",
+      "status": null,
+      "url": "https://archive.is/FZBqd",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.bbc.com%2Farabic%2Flive%2F65422350%3Fns_mchannel%3Dsocial%26ns_source%3Dtwitter%26ns_campaign%3Dbbc_live%26ns_linkname%3D644cc7f778b1a04df275b182%2526%25D8%25A7%25D9%2584%25D8%25AD%25D8%25B1%25D8%25A8%2B%25D9%2581%25D9%258A%2B%25D8%25B3%25D9%2588%25D8%25B1%25D9%258A%25D8%25A7%253A%2B%25D9%2587%25D8%25AC%25D9%2588%25D9%2585%2B%25D8%25A8%25D8%25A7%25D9%2584%25D8%25B5%25D9%2588%25D8%25A7%25D8%25B1%25D9%258A%25D8%25AE%2B%25D8%25B9%25D9%2584%25D9%2589%2B%25D9%2585%25D8%25AF%25D9%258A%25D9%2586%25D8%25A9%2B%25D8%25AD%25D9%2585%25D8%25B5%25262023-04-29T07%253A56%253A57.709Z%26ns_fee%3D0%26pinned_post_locator%3Durn%253Aasset%253A39a1a988-44c6-4165-9cb8-93e207869f70%26pinned_post_asset_id%3D644cc7f778b1a04df275b182%26pinned_post_type%3Dshare%26at_format%3Dimage%26at_ptr_name%3Dtwitter%26at_bbc_team%3Deditorial%26at_link_origin%3DBBCArabic%26at_campaign_type%3Downed%26at_link_id%3D6C17571A-E66C-11ED-BBF4-41EFFF7C7F44%26at_medium%3Dsocial%26at_link_type%3Dweb_link%26at_campaign%3DSocial_Flow&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:49:35+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.bbc.com%2Farabic%2Flive%2F65422350%3Fns_mchannel%3Dsocial%26ns_source%3Dtwitter%26ns_campaign%3Dbbc_live%26ns_linkname%3D644cc7f778b1a04df275b182%2526%25D8%25A7%25D9%2584%25D8%25AD%25D8%25B1%25D8%25A8%2B%25D9%2581%25D9%258A%2B%25D8%25B3%25D9%2588%25D8%25B1%25D9%258A%25D8%25A7%253A%2B%25D9%2587%25D8%25AC%25D9%2588%25D9%2585%2B%25D8%25A8%25D8%25A7%25D9%2584%25D8%25B5%25D9%2588%25D8%25A7%25D8%25B1%25D9%258A%25D8%25AE%2B%25D8%25B9%25D9%2584%25D9%2589%2B%25D9%2585%25D8%25AF%25D9%258A%25D9%2586%25D8%25A9%2B%25D8%25AD%25D9%2585%25D8%25B5%25262023-04-29T07%253A56%253A57.709Z%26ns_fee%3D0%26pinned_post_locator%3Durn%253Aasset%253A39a1a988-44c6-4165-9cb8-93e207869f70%26pinned_post_asset_id%3D644cc7f778b1a04df275b182%26pinned_post_type%3Dshare%26at_format%3Dimage%26at_ptr_name%3Dtwitter%26at_bbc_team%3Deditorial%26at_link_origin%3DBBCArabic%26at_campaign_type%3Downed%26at_link_id%3D6C17571A-E66C-11ED-BBF4-41EFFF7C7F44%26at_medium%3Dsocial%26at_link_type%3Dweb_link%26at_campaign%3DSocial_Flow&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "BBC News",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-89272"
+  ],
+  "incident_sequences": [
+    632
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.bbc.com/arabic/live/65422350?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=644cc7f778b1a04df275b182%26%D8%A7%D9%84%D8%AD%D8%B1%D8%A8+%D9%81%D9%8A+%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%3A+%D9%87%D8%AC%D9%88%D9%85+%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE+%D8%B9%D9%84%D9%89+%D9%85%D8%AF%D9%8A%D9%86%D8%A9+%D8%AD%D9%85%D8%B5%262023-04-29T07%3A56%3A57.709Z&ns_fee=0&pinned_post_locator=urn%3Aasset%3A39a1a988-44c6-4165-9cb8-93e207869f70&pinned_post_asset_id=644cc7f778b1a04df275b182&pinned_post_type=share&at_format=image&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=BBCArabic&at_campaign_type=owned&at_link_id=6C17571A-E66C-11ED-BBF4-41EFFF7C7F44&at_medium=social&at_link_type=web_link&at_campaign=Social_Flow",
+  "observed_original_urls": [
+    "https://www.bbc.com/arabic/live/65422350?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=644cc7f778b1a04df275b182%26%D8%A7%D9%84%D8%AD%D8%B1%D8%A8+%D9%81%D9%8A+%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%3A+%D9%87%D8%AC%D9%88%D9%85+%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE+%D8%B9%D9%84%D9%89+%D9%85%D8%AF%D9%8A%D9%86%D8%A9+%D8%AD%D9%85%D8%B5%262023-04-29T07%3A56%3A57.709Z&ns_fee=0&pinned_post_locator=urn%3Aasset%3A39a1a988-44c6-4165-9cb8-93e207869f70&pinned_post_asset_id=644cc7f778b1a04df275b182&pinned_post_type=share&at_format=image&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=BBCArabic&at_campaign_type=owned&at_link_id=6C17571A-E66C-11ED-BBF4-41EFFF7C7F44&at_medium=social&at_link_type=web_link&at_campaign=Social_Flow"
+  ],
+  "original_url": "https://www.bbc.com/arabic/live/65422350?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=644cc7f778b1a04df275b182%26%D8%A7%D9%84%D8%AD%D8%B1%D8%A8+%D9%81%D9%8A+%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%3A+%D9%87%D8%AC%D9%88%D9%85+%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE+%D8%B9%D9%84%D9%89+%D9%85%D8%AF%D9%8A%D9%86%D8%A9+%D8%AD%D9%85%D8%B5%262023-04-29T07%3A56%3A57.709Z&ns_fee=0&pinned_post_locator=urn%3Aasset%3A39a1a988-44c6-4165-9cb8-93e207869f70&pinned_post_asset_id=644cc7f778b1a04df275b182&pinned_post_type=share&at_format=image&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=BBCArabic&at_campaign_type=owned&at_link_id=6C17571A-E66C-11ED-BBF4-41EFFF7C7F44&at_medium=social&at_link_type=web_link&at_campaign=Social_Flow",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy033-april-29-2023/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-89272",
+      "incident_sequence": 632,
+      "observed_original_url": "https://www.bbc.com/arabic/live/65422350?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=644cc7f778b1a04df275b182%26%D8%A7%D9%84%D8%AD%D8%B1%D8%A8+%D9%81%D9%8A+%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%3A+%D9%87%D8%AC%D9%88%D9%85+%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE+%D8%B9%D9%84%D9%89+%D9%85%D8%AF%D9%8A%D9%86%D8%A9+%D8%AD%D9%85%D8%B5%262023-04-29T07%3A56%3A57.709Z&ns_fee=0&pinned_post_locator=urn%3Aasset%3A39a1a988-44c6-4165-9cb8-93e207869f70&pinned_post_asset_id=644cc7f778b1a04df275b182&pinned_post_type=share&at_format=image&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=BBCArabic&at_campaign_type=owned&at_link_id=6C17571A-E66C-11ED-BBF4-41EFFF7C7F44&at_medium=social&at_link_type=web_link&at_campaign=Social_Flow",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "BBC News",
+  "publisher_ar": "BBC News",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:49:36+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-8d7443df8f509abb9c290194",
+  "source_type": "news_article",
+  "stable_id_basis": "https://www.bbc.com/arabic/live/65422350?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=644cc7f778b1a04df275b182%26%D8%A7%D9%84%D8%AD%D8%B1%D8%A8+%D9%81%D9%8A+%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%3A+%D9%87%D8%AC%D9%88%D9%85+%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE+%D8%B9%D9%84%D9%89+%D9%85%D8%AF%D9%8A%D9%86%D8%A9+%D8%AD%D9%85%D8%B5%262023-04-29T07%3A56%3A57.709Z&ns_fee=0&pinned_post_locator=urn%3Aasset%3A39a1a988-44c6-4165-9cb8-93e207869f70&pinned_post_asset_id=644cc7f778b1a04df275b182&pinned_post_type=share&at_format=image&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=BBCArabic&at_campaign_type=owned&at_link_id=6C17571A-E66C-11ED-BBF4-41EFFF7C7F44&at_medium=social&at_link_type=web_link&at_campaign=Social_Flow",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "und",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

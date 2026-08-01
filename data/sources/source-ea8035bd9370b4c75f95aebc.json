@@ -1,0 +1,133 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/3rzNG"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.is",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.is/3rzNG",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:24:39+00:00",
+      "status": null,
+      "url": "https://archive.is/3rzNG",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 10.009,
+          "error": "ReadTimeout: ",
+          "result": "network_error",
+          "retrieved_at": "2026-08-01T10:26:25+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 10.009,
+      "error": "ReadTimeout: ",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fhawarnews%2Fposts%2Fpfbid02LYnpDxdY4a5GZKvwG5kPbkt9X3SfVzBkaZ4YL1QHAqAmbVHGaSTR8SYE5mLkyDRfl&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T10:26:25+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fhawarnews%2Fposts%2Fpfbid02LYnpDxdY4a5GZKvwG5kPbkt9X3SfVzBkaZ4YL1QHAqAmbVHGaSTR8SYE5mLkyDRfl&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "ANHA facebook",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-104163"
+  ],
+  "incident_sequences": [
+    345
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.facebook.com/hawarnews/posts/pfbid02LYnpDxdY4a5GZKvwG5kPbkt9X3SfVzBkaZ4YL1QHAqAmbVHGaSTR8SYE5mLkyDRfl",
+  "observed_original_urls": [
+    "https://www.facebook.com/hawarnews/posts/pfbid02LYnpDxdY4a5GZKvwG5kPbkt9X3SfVzBkaZ4YL1QHAqAmbVHGaSTR8SYE5mLkyDRfl"
+  ],
+  "original_url": "https://www.facebook.com/hawarnews/posts/pfbid02LYnpDxdY4a5GZKvwG5kPbkt9X3SfVzBkaZ4YL1QHAqAmbVHGaSTR8SYE5mLkyDRfl",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts683-january-24-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-104163",
+      "incident_sequence": 345,
+      "observed_original_url": "https://www.facebook.com/hawarnews/posts/pfbid02LYnpDxdY4a5GZKvwG5kPbkt9X3SfVzBkaZ4YL1QHAqAmbVHGaSTR8SYE5mLkyDRfl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "ANHA facebook",
+  "publisher_ar": "ANHA facebook",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T10:26:25+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-ea8035bd9370b4c75f95aebc",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/hawarnews/posts/pfbid02LYnpDxdY4a5GZKvwG5kPbkt9X3SfVzBkaZ4YL1QHAqAmbVHGaSTR8SYE5mLkyDRfl",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

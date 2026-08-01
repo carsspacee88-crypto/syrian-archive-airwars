@@ -1,0 +1,100 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fsyrianarchive.org%2Far%2Finvestigations%2Fisraeli-airstrikes-on-sites-in-the-aleppo-countryside&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:26:50+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fsyrianarchive.org%2Far%2Finvestigations%2Fisraeli-airstrikes-on-sites-in-the-aleppo-countryside&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Syrian Archive",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-114276"
+  ],
+  "incident_sequences": [
+    325
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://syrianarchive.org/ar/investigations/israeli-airstrikes-on-sites-in-the-aleppo-countryside",
+  "observed_original_urls": [
+    "https://syrianarchive.org/ar/investigations/israeli-airstrikes-on-sites-in-the-aleppo-countryside"
+  ],
+  "original_url": "https://syrianarchive.org/ar/investigations/israeli-airstrikes-on-sites-in-the-aleppo-countryside",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy043-march-29-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-114276",
+      "incident_sequence": 325,
+      "observed_original_url": "https://syrianarchive.org/ar/investigations/israeli-airstrikes-on-sites-in-the-aleppo-countryside",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Syrian Archive",
+  "publisher_ar": "Syrian Archive",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:26:50+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-4029920a4f9dbd4a11a7e552",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://syrianarchive.org/ar/investigations/israeli-airstrikes-on-sites-in-the-aleppo-countryside",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

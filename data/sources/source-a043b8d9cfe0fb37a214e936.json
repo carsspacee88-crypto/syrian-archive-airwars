@@ -1,0 +1,140 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/liz0s"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.ph",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.ph/liz0s",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:49:43+00:00",
+      "status": null,
+      "url": "https://archive.ph/liz0s",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ReadTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02scmjJJN4ukdh3N6u5UKG1DXe7skc7tzxsF2C8aaYcqPgfvJTEQYLe6JK3iSjYGkZl%26id%3D100066924643596%26__cft__%5B0%5D%3DAZVdbOTjBaZQjy9c2uRfYoBLybtYwwMUkLMKXaGPNS2epTY-3RJFJ2RXTkC7mP3Fa-DHqHXdPS2aCI1zJjb8eMPF7F7ba5a_gX-8TaILBg5b00F_Ow0x128undmz9UG1Jnre5mqfgCpA2vyvo0p7ZPRj78G9c_l38iRnb_qZzpWnGBBGrLtnw2YsmcOQfl6VjPuaJWvzmyRj8zn1dBB7vDDZ%26__tn__%3D%2CO%2CP-R&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:50:49+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02scmjJJN4ukdh3N6u5UKG1DXe7skc7tzxsF2C8aaYcqPgfvJTEQYLe6JK3iSjYGkZl%26id%3D100066924643596%26__cft__%5B0%5D%3DAZVdbOTjBaZQjy9c2uRfYoBLybtYwwMUkLMKXaGPNS2epTY-3RJFJ2RXTkC7mP3Fa-DHqHXdPS2aCI1zJjb8eMPF7F7ba5a_gX-8TaILBg5b00F_Ow0x128undmz9UG1Jnre5mqfgCpA2vyvo0p7ZPRj78G9c_l38iRnb_qZzpWnGBBGrLtnw2YsmcOQfl6VjPuaJWvzmyRj8zn1dBB7vDDZ%26__tn__%3D%2CO%2CP-R&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Human Rights Organization - Afrin",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-126448",
+    "airwars-126849"
+  ],
+  "incident_sequences": [
+    274,
+    275
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02scmjJJN4ukdh3N6u5UKG1DXe7skc7tzxsF2C8aaYcqPgfvJTEQYLe6JK3iSjYGkZl&id=100066924643596&__cft__[0]=AZVdbOTjBaZQjy9c2uRfYoBLybtYwwMUkLMKXaGPNS2epTY-3RJFJ2RXTkC7mP3Fa-DHqHXdPS2aCI1zJjb8eMPF7F7ba5a_gX-8TaILBg5b00F_Ow0x128undmz9UG1Jnre5mqfgCpA2vyvo0p7ZPRj78G9c_l38iRnb_qZzpWnGBBGrLtnw2YsmcOQfl6VjPuaJWvzmyRj8zn1dBB7vDDZ&__tn__=,O,P-R",
+  "observed_original_urls": [
+    "https://www.facebook.com/permalink.php?story_fbid=pfbid02scmjJJN4ukdh3N6u5UKG1DXe7skc7tzxsF2C8aaYcqPgfvJTEQYLe6JK3iSjYGkZl&id=100066924643596&__cft__[0]=AZVdbOTjBaZQjy9c2uRfYoBLybtYwwMUkLMKXaGPNS2epTY-3RJFJ2RXTkC7mP3Fa-DHqHXdPS2aCI1zJjb8eMPF7F7ba5a_gX-8TaILBg5b00F_Ow0x128undmz9UG1Jnre5mqfgCpA2vyvo0p7ZPRj78G9c_l38iRnb_qZzpWnGBBGrLtnw2YsmcOQfl6VjPuaJWvzmyRj8zn1dBB7vDDZ&__tn__=,O,P-R"
+  ],
+  "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02scmjJJN4ukdh3N6u5UKG1DXe7skc7tzxsF2C8aaYcqPgfvJTEQYLe6JK3iSjYGkZl&id=100066924643596&__cft__[0]=AZVdbOTjBaZQjy9c2uRfYoBLybtYwwMUkLMKXaGPNS2epTY-3RJFJ2RXTkC7mP3Fa-DHqHXdPS2aCI1zJjb8eMPF7F7ba5a_gX-8TaILBg5b00F_Ow0x128undmz9UG1Jnre5mqfgCpA2vyvo0p7ZPRj78G9c_l38iRnb_qZzpWnGBBGrLtnw2YsmcOQfl6VjPuaJWvzmyRj8zn1dBB7vDDZ&__tn__=,O,P-R",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts713-september-9-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-126448",
+      "incident_sequence": 274,
+      "observed_original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02scmjJJN4ukdh3N6u5UKG1DXe7skc7tzxsF2C8aaYcqPgfvJTEQYLe6JK3iSjYGkZl&id=100066924643596&__cft__[0]=AZVdbOTjBaZQjy9c2uRfYoBLybtYwwMUkLMKXaGPNS2epTY-3RJFJ2RXTkC7mP3Fa-DHqHXdPS2aCI1zJjb8eMPF7F7ba5a_gX-8TaILBg5b00F_Ow0x128undmz9UG1Jnre5mqfgCpA2vyvo0p7ZPRj78G9c_l38iRnb_qZzpWnGBBGrLtnw2YsmcOQfl6VjPuaJWvzmyRj8zn1dBB7vDDZ&__tn__=,O,P-R",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts714-september-9-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-126849",
+      "incident_sequence": 275,
+      "observed_original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02scmjJJN4ukdh3N6u5UKG1DXe7skc7tzxsF2C8aaYcqPgfvJTEQYLe6JK3iSjYGkZl&id=100066924643596&__cft__[0]=AZVdbOTjBaZQjy9c2uRfYoBLybtYwwMUkLMKXaGPNS2epTY-3RJFJ2RXTkC7mP3Fa-DHqHXdPS2aCI1zJjb8eMPF7F7ba5a_gX-8TaILBg5b00F_Ow0x128undmz9UG1Jnre5mqfgCpA2vyvo0p7ZPRj78G9c_l38iRnb_qZzpWnGBBGrLtnw2YsmcOQfl6VjPuaJWvzmyRj8zn1dBB7vDDZ&__tn__=,O,P-R",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Human Rights Organization - Afrin",
+  "publisher_ar": "Human Rights Organization - Afrin",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:50:50+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a043b8d9cfe0fb37a214e936",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid02scmjJJN4ukdh3N6u5UKG1DXe7skc7tzxsF2C8aaYcqPgfvJTEQYLe6JK3iSjYGkZl&id=100066924643596&__cft__[0]=AZVdbOTjBaZQjy9c2uRfYoBLybtYwwMUkLMKXaGPNS2epTY-3RJFJ2RXTkC7mP3Fa-DHqHXdPS2aCI1zJjb8eMPF7F7ba5a_gX-8TaILBg5b00F_Ow0x128undmz9UG1Jnre5mqfgCpA2vyvo0p7ZPRj78G9c_l38iRnb_qZzpWnGBBGrLtnw2YsmcOQfl6VjPuaJWvzmyRj8zn1dBB7vDDZ&__tn__=,O,P-R",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

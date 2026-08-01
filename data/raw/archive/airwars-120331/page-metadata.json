@@ -1,0 +1,68 @@
+{
+  "attempt_history": [
+    {
+      "attempt": 1,
+      "elapsed_seconds": 1.949,
+      "result": "successful",
+      "retrieved_at": "2026-08-01T09:19:45+00:00",
+      "status": 200
+    }
+  ],
+  "attempts": 1,
+  "body_decoded_from": null,
+  "bytes": 118402,
+  "capture": {
+    "cdx_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fairwars.org%2Fcivilian-casualties%2Fissy053-october-1-2024%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+    "digest": "IHZ5Z4LSHFXNW3GVZWHCFPMSG3ITVS4Q",
+    "mimetype": "text/html",
+    "original": "https://airwars.org/civilian-casualties/issy053-october-1-2024/",
+    "replay_url": "https://web.archive.org/web/20251018180222id_/https://airwars.org/civilian-casualties/issy053-october-1-2024/",
+    "statuscode": "200",
+    "timestamp": "20251018180222"
+  },
+  "cdx_lookup": {
+    "attempt_history": [
+      {
+        "attempt": 1,
+        "elapsed_seconds": 6.467,
+        "result": "successful",
+        "retrieved_at": "2026-08-01T09:19:42+00:00",
+        "status": 200
+      }
+    ],
+    "attempts": 1,
+    "body_decoded_from": null,
+    "bytes": 199,
+    "circuit_open_reason": "",
+    "circuit_open_status": null,
+    "content_hash": "1d5ce5fdf4fb227cfdc3346b4e76a4f21f54e20ddbf8486f602336101aa3d6ec",
+    "content_type": "application/json",
+    "elapsed_seconds": 6.467,
+    "error": null,
+    "etag": "",
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fairwars.org%2Fcivilian-casualties%2Fissy053-october-1-2024%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+    "last_modified": "",
+    "lookup_result": "capture_found",
+    "ok": true,
+    "response_content_encoding": "",
+    "retrieved_at": "2026-08-01T09:19:42+00:00",
+    "status": 200,
+    "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fairwars.org%2Fcivilian-casualties%2Fissy053-october-1-2024%2F&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+    "waiting_seconds": 0.749
+  },
+  "circuit_open_reason": "",
+  "circuit_open_status": null,
+  "content_hash": "0d976ea33d2bca6b667c9e5f8fe4d6af64a5e7e9bacd537df8a5d4f9d52f5e07",
+  "content_type": "text/html; charset=UTF-8",
+  "elapsed_seconds": 1.949,
+  "error": null,
+  "etag": "",
+  "final_url": "https://web.archive.org/web/20251018180222id_/https://airwars.org/civilian-casualties/issy053-october-1-2024/",
+  "last_modified": "",
+  "ok": true,
+  "response_content_encoding": "",
+  "retrieved_at": "2026-08-01T09:19:45+00:00",
+  "status": 200,
+  "url": "https://web.archive.org/web/20251018180222id_/https://airwars.org/civilian-casualties/issy053-october-1-2024/",
+  "waiting_seconds": 0.75
+}

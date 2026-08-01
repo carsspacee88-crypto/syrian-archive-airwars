@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.md/tOW2M"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.md",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.md/tOW2M",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:26:35+00:00",
+      "status": null,
+      "url": "https://archive.md/tOW2M",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fsharkyawajazera%2F%3F__cft__%5B0%5D%3DAZUqv2oNQYYwSOlM-aYWk-h6x9ylMQaMMkkNeVlNAHNV-uyP_GHxgrE05WSIuZGEKaRv0xmcAvK7sFZywq0K2ciAwitnsEpk7s18zJu1wsCvsYjXhNxoClF9eu-epzk8xuBN3HHmRta1W21b2t9Alcos%26__tn__%3D-UC%252CP-R&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:27:03+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fsharkyawajazera%2F%3F__cft__%5B0%5D%3DAZUqv2oNQYYwSOlM-aYWk-h6x9ylMQaMMkkNeVlNAHNV-uyP_GHxgrE05WSIuZGEKaRv0xmcAvK7sFZywq0K2ciAwitnsEpk7s18zJu1wsCvsYjXhNxoClF9eu-epzk8xuBN3HHmRta1W21b2t9Alcos%26__tn__%3D-UC%252CP-R&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Eastern region and Al Jazeera news",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-80727"
+  ],
+  "incident_sequences": [
+    907
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.facebook.com/sharkyawajazera/?__cft__[0]=AZUqv2oNQYYwSOlM-aYWk-h6x9ylMQaMMkkNeVlNAHNV-uyP_GHxgrE05WSIuZGEKaRv0xmcAvK7sFZywq0K2ciAwitnsEpk7s18zJu1wsCvsYjXhNxoClF9eu-epzk8xuBN3HHmRta1W21b2t9Alcos&__tn__=-UC%2CP-R",
+  "observed_original_urls": [
+    "https://www.facebook.com/sharkyawajazera/?__cft__[0]=AZUqv2oNQYYwSOlM-aYWk-h6x9ylMQaMMkkNeVlNAHNV-uyP_GHxgrE05WSIuZGEKaRv0xmcAvK7sFZywq0K2ciAwitnsEpk7s18zJu1wsCvsYjXhNxoClF9eu-epzk8xuBN3HHmRta1W21b2t9Alcos&__tn__=-UC%2CP-R"
+  ],
+  "original_url": "https://www.facebook.com/sharkyawajazera/?__cft__[0]=AZUqv2oNQYYwSOlM-aYWk-h6x9ylMQaMMkkNeVlNAHNV-uyP_GHxgrE05WSIuZGEKaRv0xmcAvK7sFZywq0K2ciAwitnsEpk7s18zJu1wsCvsYjXhNxoClF9eu-epzk8xuBN3HHmRta1W21b2t9Alcos&__tn__=-UC%2CP-R",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts480-december-21-2021/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-80727",
+      "incident_sequence": 907,
+      "observed_original_url": "https://www.facebook.com/sharkyawajazera/?__cft__[0]=AZUqv2oNQYYwSOlM-aYWk-h6x9ylMQaMMkkNeVlNAHNV-uyP_GHxgrE05WSIuZGEKaRv0xmcAvK7sFZywq0K2ciAwitnsEpk7s18zJu1wsCvsYjXhNxoClF9eu-epzk8xuBN3HHmRta1W21b2t9Alcos&__tn__=-UC%2CP-R",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Eastern region and Al Jazeera news",
+  "publisher_ar": "Eastern region and Al Jazeera news",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:27:04+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-387d728c40d2ad950e6a3ab3",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/sharkyawajazera/?__cft__[0]=AZUqv2oNQYYwSOlM-aYWk-h6x9ylMQaMMkkNeVlNAHNV-uyP_GHxgrE05WSIuZGEKaRv0xmcAvK7sFZywq0K2ciAwitnsEpk7s18zJu1wsCvsYjXhNxoClF9eu-epzk8xuBN3HHmRta1W21b2t9Alcos&__tn__=-UC%2CP-R",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

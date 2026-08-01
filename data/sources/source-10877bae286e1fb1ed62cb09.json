@@ -1,0 +1,171 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/IveGe"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.is",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.is/IveGe",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:20:34+00:00",
+      "status": null,
+      "url": "https://archive.is/IveGe",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 7.977,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T09:22:20+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 334,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "1a73d358211b743380e7d71d25a1df30a470a8b17a399f5dc2fbfbec7e618413",
+      "content_type": "application/json",
+      "elapsed_seconds": 7.977,
+      "error": null,
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Ftwitter.com%2FSyriaCivilDefe%2Fstatus%2F1694123870855352683&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "lookup_result": "capture_found",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:22:20+00:00",
+      "status": 200,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Ftwitter.com%2FSyriaCivilDefe%2Fstatus%2F1694123870855352683&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_capture",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "capture": {
+        "cdx_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Ftwitter.com%2FSyriaCivilDefe%2Fstatus%2F1694123870855352683&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+        "digest": "7SIGH7OECZUQ4JWQXAT5FVHJ6YOQIO5W",
+        "mimetype": "text/html",
+        "original": "https://twitter.com/SyriaCivilDefe/status/1694123870855352683",
+        "replay_url": "https://web.archive.org/web/20240515124429id_/https://twitter.com/SyriaCivilDefe/status/1694123870855352683",
+        "statuscode": "200",
+        "timestamp": "20240515124429"
+      },
+      "circuit_open_reason": "ConnectTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/web/20240515124429id_/https://twitter.com/SyriaCivilDefe/status/1694123870855352683",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:23:44+00:00",
+      "status": null,
+      "url": "https://web.archive.org/web/20240515124429id_/https://twitter.com/SyriaCivilDefe/status/1694123870855352683",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "'@SyriaCivilDefe",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "no_archive_capture",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-92815"
+  ],
+  "incident_sequences": [
+    559
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://twitter.com/SyriaCivilDefe/status/1694123870855352683",
+  "observed_original_urls": [
+    "https://twitter.com/SyriaCivilDefe/status/1694123870855352683"
+  ],
+  "original_url": "https://twitter.com/SyriaCivilDefe/status/1694123870855352683",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4798-august-22-2023/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-92815",
+      "incident_sequence": 559,
+      "observed_original_url": "https://twitter.com/SyriaCivilDefe/status/1694123870855352683",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "'@SyriaCivilDefe",
+  "publisher_ar": "'@SyriaCivilDefe",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T09:23:44+00:00",
+    "reason": "no_archive_capture",
+    "status": "deferred"
+  },
+  "retrieval_status": "no_archive_capture",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-10877bae286e1fb1ed62cb09",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://twitter.com/SyriaCivilDefe/status/1694123870855352683",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

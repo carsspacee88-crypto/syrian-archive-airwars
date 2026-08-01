@@ -1,0 +1,130 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/SSZLe"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "archive.is",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "listed_archive",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_429",
+      "circuit_open_status": 429,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://archive.is/SSZLe",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:55:15+00:00",
+      "status": null,
+      "url": "https://archive.is/SSZLe",
+      "waiting_seconds": 0.0
+    },
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "web.archive.org",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "wayback_lookup",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "ReadTimeout: ",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fbatol.hoba%2Fposts%2Fpfbid0g9ngWoRku8aN5MnQss7g7e6ykpKt5UCgWCXrJNU5szXTpThfwJJ4gdXDqEdwcEd8l&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T09:59:59+00:00",
+      "status": null,
+      "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fbatol.hoba%2Fposts%2Fpfbid0g9ngWoRku8aN5MnQss7g7e6ykpKt5UCgWCXrJNU5szXTpThfwJJ4gdXDqEdwcEd8l&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=digest&limit=-10",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Heba, Ahmed’s daughter",
+  "captions": [],
+  "collection_policy": "archived_url_only",
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "archive_lookup_failed",
+  "final_redirected_url": "",
+  "incident_ids": [
+    "airwars-108297"
+  ],
+  "incident_sequences": [
+    409
+  ],
+  "network_policy": {
+    "archive_redirects_outside_archive_hosts": "prohibited",
+    "live_source_requests": "prohibited"
+  },
+  "normalized_url": "https://www.facebook.com/batol.hoba/posts/pfbid0g9ngWoRku8aN5MnQss7g7e6ykpKt5UCgWCXrJNU5szXTpThfwJJ4gdXDqEdwcEd8l",
+  "observed_original_urls": [
+    "https://www.facebook.com/batol.hoba/posts/pfbid0g9ngWoRku8aN5MnQss7g7e6ykpKt5UCgWCXrJNU5szXTpThfwJJ4gdXDqEdwcEd8l"
+  ],
+  "original_url": "https://www.facebook.com/batol.hoba/posts/pfbid0g9ngWoRku8aN5MnQss7g7e6ykpKt5UCgWCXrJNU5szXTpThfwJJ4gdXDqEdwcEd8l",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4864-november-18-2023/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-108297",
+      "incident_sequence": 409,
+      "observed_original_url": "https://www.facebook.com/batol.hoba/posts/pfbid0g9ngWoRku8aN5MnQss7g7e6ykpKt5UCgWCXrJNU5szXTpThfwJJ4gdXDqEdwcEd8l",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Heba, Ahmed’s daughter",
+  "publisher_ar": "Heba, Ahmed’s daughter",
+  "recovery": {
+    "queue": "data/recovery/v4-0263-1000.json",
+    "queued_at": "2026-08-01T10:00:00+00:00",
+    "reason": "archive_lookup_failed",
+    "status": "deferred"
+  },
+  "retrieval_status": "archive_lookup_failed",
+  "retrieved_at": null,
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-af3d13c018b88f01cf36eb19",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/batol.hoba/posts/pfbid0g9ngWoRku8aN5MnQss7g7e6ykpKt5UCgWCXrJNU5szXTpThfwJJ4gdXDqEdwcEd8l",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
