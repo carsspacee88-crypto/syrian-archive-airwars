@@ -1,0 +1,111 @@
+name: استخراج نصوص المصادر المؤرشفة مباشرة
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/direct-archive-request.json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: direct-archive-text
+  cancel-in-progress: false
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7]
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: python -m pip install -r requirements.txt socksio
+      - name: استخراج النصوص من صفحات الأرشيف فقط
+        run: |
+          python scripts/direct_archive_text_ingest.py \
+            --first-sequence 263 \
+            --last-sequence 1000 \
+            --shard-index ${{ matrix.shard }} \
+            --shard-count 8 \
+            --workers 8 \
+            --timeout 30
+      - name: تجهيز الملفات التي تغيرت في هذه الدفعة فقط
+        run: |
+          mkdir -p artifact/data/sources artifact/data/reports
+          git diff --name-only -- data/sources | while read -r path; do
+            cp "$path" artifact/data/sources/
+          done
+          cp data/reports/direct-archive-text-0263-1000-shard-*.json artifact/data/reports/
+      - uses: actions/upload-artifact@v6
+        with:
+          name: direct-archive-shard-${{ matrix.shard }}
+          path: artifact
+          retention-days: 3
+          compression-level: 6
+
+  combine:
+    needs: extract
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/download-artifact@v7
+        with:
+          pattern: direct-archive-shard-*
+          path: .
+          merge-multiple: true
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: تلخيص النتيجة والتحقق من النصوص
+        run: |
+          python - <<'PY'
+          import glob, json
+          reports = [json.load(open(path)) for path in glob.glob('data/reports/direct-archive-text-0263-1000-shard-*.json')]
+          summary = {
+              'shards': len(reports),
+              'completed': sum(int(row.get('completed_count') or 0) for row in reports),
+              'text_extracted': sum(int((row.get('outcomes') or {}).get('text_extracted') or 0) for row in reports),
+              'outcomes': {},
+          }
+          for row in reports:
+              for key, value in (row.get('outcomes') or {}).items():
+                  summary['outcomes'][key] = summary['outcomes'].get(key, 0) + int(value)
+          with open('data/reports/direct-archive-text-0263-1000-summary.json', 'w', encoding='utf-8') as handle:
+              json.dump(summary, handle, ensure_ascii=False, indent=2, sort_keys=True)
+              handle.write('\n')
+          print(json.dumps(summary, ensure_ascii=False, indent=2))
+          if summary['shards'] != 8 or summary['completed'] == 0:
+              raise SystemExit('incomplete archive extraction artifacts')
+          PY
+      - name: حفظ النصوص في main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/sources data/reports/direct-archive-text-0263-1000-*.json
+          git diff --cached --check
+          if git diff --cached --quiet; then
+            echo "لا توجد نصوص جديدة للحفظ"
+            exit 0
+          fi
+          git commit -m "data: add direct archived source texts 263-1000"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
