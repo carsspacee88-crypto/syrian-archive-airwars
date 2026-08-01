@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/LQCIg"
+    "https://archive.is/LQCIg",
+    "https://web.archive.org/web/20220426173113id_/https://www.jesrpress.com/2021/08/10/%D9%85%D9%82%D8%AA%D9%84-%D9%85%D8%AF%D9%86%D9%8A-%D8%AC%D8%B1%D9%91%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D9%88%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Jesr press",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "efe6be98289be43f4bdefefe0ddaa9154643b664f37f11b52b650fb722b3384c",
+  "content_variants": [
+    {
+      "bytes": 1906,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:34:31+00:00",
+      "sha256": "efe6be98289be43f4bdefefe0ddaa9154643b664f37f11b52b650fb722b3384c",
+      "source_url": "https://web.archive.org/web/20220426173113id_/https://www.jesrpress.com/2021/08/10/%D9%85%D9%82%D8%AA%D9%84-%D9%85%D8%AF%D9%86%D9%8A-%D8%AC%D8%B1%D9%91%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D9%88%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA/",
+      "text": "مقتل مدني جرّاء قصف جبل الزاوية وغارات روسية على محيط إدلب\n\nجسر – إدلب\n\nتوفي شخص من المدنيين في جبل الزاوية بريف إدلب الجنوبي اليوم الثلاثاء 10 آب/ أغسطس، كما أصيب عدد من المدنيين الآخرين.\n\nوقالت مصادر محلية، إنّ شخصاً مدنياً توفي اليوم الثلاثاء، في قرية “معرزاف”جبل الزاوية بريف إدلب الجنوبي، جرّاء إصابته بقذائف قوات النظام المدفعية التي استهدفت القرية “.\n\nكما استهدفت قوات النظام بلدة البارة بالقذائف المدفعية، في إطار حملة التصعيد المستمرة منذ نحو شهرين.\n\nوفي سياق متصل، استهدف الطيران الحربي الروسي اليوم الثلاثاء، بالصواريخ الفراغية، منطقة “الشيخ بحر” شمال غرب مدينة إدلب، ولم ترد معلومات عن حجم الخسائر، إنْ وجدتْ.\n\nالجدير بالذكر، أنّ الطيران الروسي استهدف أمس الاثنين ذات المكان بثلاث غارات جوية.\n\nالسابق\n\nأسعار العملات والمحروقات في إدلب اليوم الثلاثاء 10 آب\n\nالتالي\n\nانتشال جثة طفلٍ قضى غرقاً في ريف حلب الشمالي\n\n19 ألف لاجىء في بريطانيا عرضةً للترحيل.. بينهم سوريون\n\nحزب سويدي يرشّح لاجئةً سوريةً لخوض الانتخابات البرلمانية\n\nمقتل عنصر سابق في “الجيش الحر” بريف درعا\n\n“الجريمة الإلكترونية” تشمل حتى المزاح وملصقات الدردشة وفقاً لقوانين…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:34:29+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:34:31+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220426173113id_/https://www.jesrpress.com/2021/08/10/%D9%85%D9%82%D8%AA%D9%84-%D9%85%D8%AF%D9%86%D9%8A-%D8%AC%D8%B1%D9%91%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D9%88%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220426173113id_/https://www.jesrpress.com/2021/08/10/%D9%85%D9%82%D8%AA%D9%84-%D9%85%D8%AF%D9%86%D9%8A-%D8%AC%D8%B1%D9%91%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D9%88%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA/",
   "incident_ids": [
     "airwars-77172"
   ],
@@ -85,10 +109,10 @@
     "https://www.jesrpress.com/2021/08/10/%D9%85%D9%82%D8%AA%D9%84-%D9%85%D8%AF%D9%86%D9%8A-%D8%AC%D8%B1%D9%91%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D9%88%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA/"
   ],
   "original_url": "https://www.jesrpress.com/2021/08/10/%D9%85%D9%82%D8%AA%D9%84-%D9%85%D8%AF%D9%86%D9%8A-%D8%AC%D8%B1%D9%91%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D9%88%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA/",
-  "page_title": "",
+  "page_title": "مقتل مدني جرّاء قصف جبل الزاوية وغارات روسية على محيط إدلب - صحيفة جسر مقتل مدني جرّاء قصف جبل الزاوية وغارات روسية على محيط إدلب - صحيفة جسر",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4622-august-10-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:34:31+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-afda52a37efc584122db6785",
   "source_type": "news_article",
   "stable_id_basis": "https://www.jesrpress.com/2021/08/10/%D9%85%D9%82%D8%AA%D9%84-%D9%85%D8%AF%D9%86%D9%8A-%D8%AC%D8%B1%D9%91%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D9%88%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مقتل مدني جرّاء قصف جبل الزاوية وغارات روسية على محيط إدلب\n\nجسر – إدلب\n\nتوفي شخص من المدنيين في جبل الزاوية بريف إدلب الجنوبي اليوم الثلاثاء 10 آب/ أغسطس، كما أصيب عدد من المدنيين الآخرين.\n\nوقالت مصادر محلية، إنّ شخصاً مدنياً توفي اليوم الثلاثاء، في قرية “معرزاف”جبل الزاوية بريف إدلب الجنوبي، جرّاء إصابته بقذائف قوات النظام المدفعية التي استهدفت القرية “.\n\nكما استهدفت قوات النظام بلدة البارة بالقذائف المدفعية، في إطار حملة التصعيد المستمرة منذ نحو شهرين.\n\nوفي سياق متصل، استهدف الطيران الحربي الروسي اليوم الثلاثاء، بالصواريخ الفراغية، منطقة “الشيخ بحر” شمال غرب مدينة إدلب، ولم ترد معلومات عن حجم الخسائر، إنْ وجدتْ.\n\nالجدير بالذكر، أنّ الطيران الروسي استهدف أمس الاثنين ذات المكان بثلاث غارات جوية.\n\nالسابق\n\nأسعار العملات والمحروقات في إدلب اليوم الثلاثاء 10 آب\n\nالتالي\n\nانتشال جثة طفلٍ قضى غرقاً في ريف حلب الشمالي\n\n19 ألف لاجىء في بريطانيا عرضةً للترحيل.. بينهم سوريون\n\nحزب سويدي يرشّح لاجئةً سوريةً لخوض الانتخابات البرلمانية\n\nمقتل عنصر سابق في “الجيش الحر” بريف درعا\n\n“الجريمة الإلكترونية” تشمل حتى المزاح وملصقات الدردشة وفقاً لقوانين…",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

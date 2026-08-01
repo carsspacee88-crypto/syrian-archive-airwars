@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/5OXqS"
+    "https://archive.ph/5OXqS",
+    "https://web.archive.org/web/20250929174454id_/https://hawarnews.com/en/citizen-lost-his-life-another-injured-in-bombing-by-turkish-occupation"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Hawar news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "97b28314cb38d2a7f62760a90133a695053dde13f1f1043f41701e5a7bde4658",
+  "content_variants": [
+    {
+      "bytes": 1098,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:31:16+00:00",
+      "sha256": "97b28314cb38d2a7f62760a90133a695053dde13f1f1043f41701e5a7bde4658",
+      "source_url": "https://web.archive.org/web/20250929174454id_/https://hawarnews.com/en/citizen-lost-his-life-another-injured-in-bombing-by-turkish-occupation",
+      "text": "29 September, 2025\n\nTwo fighters of Transitional Govt, three civilians killed in Aleppo\n\nKidnapping of young Woman and Seizure of Property in Occupied Afrin\n\n1st Communes Conference in Shaddadi focused on need to develop communes' performance\n\nYazidi old man Kidnapped in Afrin Countryside\n\nIsraeli officer wounded in Syria\n\nSDC meets British Prime Minister, Secretary of Defense\n\nReading \"Peace, Democratic Society\" Manifesto to raise awareness among Youths\n\nKurdistan Women’s Union announces date of 3rd Kurdish Women’s Conference\n\nUnknown individuals set fire around religious Shrine in Hamas’s al-Ghab Plain\n\nTransitional government arrests 20 youths in Al-Nayrab Camp, Aleppo\n\nFour people killed in armed attack at church in US\n\nNE Syria women’s delegation meets Bethnahrin Women’s Union in Switzerland\n\nMassacres in Coastal Syria and Sweida: Bloody coordination confronts transitional govt\n\nWriter: Isolation imposed on leader is gross violation of international laws\n\nLanguage\n\nعربي\nKURDÎ\nTÜRKÇE\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nTÜRKÇE\n\nENGLISH\n\nSPANISH\n\nRUSSIAN"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:31:16+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:31:16+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250929174454id_/https://hawarnews.com/en/citizen-lost-his-life-another-injured-in-bombing-by-turkish-occupation"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250929174454id_/https://hawarnews.com/en/citizen-lost-his-life-another-injured-in-bombing-by-turkish-occupation",
   "incident_ids": [
     "airwars-116395"
   ],
@@ -85,10 +109,10 @@
     "https://hawarnews.com/en/citizen-lost-his-life-another-injured-in-bombing-by-turkish-occupation"
   ],
   "original_url": "https://hawarnews.com/en/citizen-lost-his-life-another-injured-in-bombing-by-turkish-occupation",
-  "page_title": "",
+  "page_title": "citizen lost his life, another injured in bombing by Turkish occupation -ANHA citizen lost his life, another injured in bombing by Turkish occupation citizen lost his life, another injured in bombing by Turkish occupation",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts701-july-14-2024/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:31:16+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-904c1242722f2ea841bfabc5",
   "source_type": "news_article",
   "stable_id_basis": "https://hawarnews.com/en/citizen-lost-his-life-another-injured-in-bombing-by-turkish-occupation",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "29 September, 2025\n\nTwo fighters of Transitional Govt, three civilians killed in Aleppo\n\nKidnapping of young Woman and Seizure of Property in Occupied Afrin\n\n1st Communes Conference in Shaddadi focused on need to develop communes' performance\n\nYazidi old man Kidnapped in Afrin Countryside\n\nIsraeli officer wounded in Syria\n\nSDC meets British Prime Minister, Secretary of Defense\n\nReading \"Peace, Democratic Society\" Manifesto to raise awareness among Youths\n\nKurdistan Women’s Union announces date of 3rd Kurdish Women’s Conference\n\nUnknown individuals set fire around religious Shrine in Hamas’s al-Ghab Plain\n\nTransitional government arrests 20 youths in Al-Nayrab Camp, Aleppo\n\nFour people killed in armed attack at church in US\n\nNE Syria women’s delegation meets Bethnahrin Women’s Union in Switzerland\n\nMassacres in Coastal Syria and Sweida: Bloody coordination confronts transitional govt\n\nWriter: Isolation imposed on leader is gross violation of international laws\n\nLanguage\n\nعربي\nKURDÎ\nTÜRKÇE\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nTÜRKÇE\n\nENGLISH\n\nSPANISH\n\nRUSSIAN",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

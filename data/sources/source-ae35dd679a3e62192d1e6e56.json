@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.fo/k9Jtp"
+    "https://archive.fo/k9Jtp",
+    "https://web.archive.org/web/20250722073840id_/https://news.sky.com/story/dozens-of-is-fighters-launch-attack-on-syrian-prison-setting-off-major-riot-inside-12521576"
   ],
   "attempt_history": [
     {
@@ -67,12 +68,35 @@
   "author": "Sky News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "724c0c5bc7eadf54d3c4b553718dfbe1e51faaef96b337d8bd0863e0ab7ed8d1",
+  "content_variants": [
+    {
+      "bytes": 4226,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:34:18+00:00",
+      "sha256": "724c0c5bc7eadf54d3c4b553718dfbe1e51faaef96b337d8bd0863e0ab7ed8d1",
+      "source_url": "https://web.archive.org/web/20250722073840id_/https://news.sky.com/story/dozens-of-is-fighters-launch-attack-on-syrian-prison-setting-off-major-riot-inside-12521576",
+      "text": "Dozens of IS fighters launch attack on Syrian prison, setting off major riot inside\n\n\"There was heavy fighting between prison security forces and IS fighters trying to enter the prison and from the surrounding area,\" a Syrian Democratic Forces commander tells Sky News.\n\nBy Alistair Bunkall, Middle East correspondent, and Sharon Marris, news reporter\n\nFriday 21 January 2022 16:42, UK\n\nImage:\nIslamic State fighters who were arrested after the prison was attacked. Pic: SDF via AP\n\nFighting is continuing at the world's largest prison for IS fighters after an attempted breakout on Thursday, in the most violent clashes since the defeat of its self-declared caliphate in 2019.\n\nVideo from the scene shows smoke rising from Ghweiran prison in Syria and heavy exchanges of gunfire.\n\nSyrian Democratic Forces (SDF) in the Kurdish northeast of the country are battling to regain control of the jail after a car bomb exploded outside the walls on Thursday, setting off a major riot inside.\n\nUS forces in the country are helping to track down IS hideouts nearby using attack helicopters and air surveillance.\n\nAmong those killed were 20 soldiers and five civilians. Foreign fighters reportedly died too.\n\nImage:\nThe belongings of some Islamic State fighters. Pic: SDF via AP\n\nSuicide car bomb was used\n\nSDF commander Siamand Ali told Sky News: \"Dozens of IS fighters launched an attack on the prison.\n\n\"They used a suicide car bomb which exploded at the front entrance of the prison. There was heavy fighting between prison security forces and IS fighters trying to enter the prison and from the surrounding area.\n\n\"Counter terrorism forces and SDF managed to kill 25 IS fighters who launched the attack on the prison and more than 80 IS prisoners were arrested.\"\n\nGunfire could still be heard almost 24 hours after the initial attack took place, he added.\n\nOfficially, local authorities have denied that any IS fighters have escaped, but the London-based Syrian Observatory for Human Rights has said its sources believe \"dozens\" have fled.\n\nSky sources in northeast Syria have reported dozens of families leaving the surrounding area, frightened they will be caught up in the fighting or used as human shields by IS fugitives.\n\nThere are also reports that a college campus near the prison has been seized by Islamic State.\n\nThe jail holds around three-and-a-half thousand IS prisoners and is one of many in the region housing former members of the group.\n\nImage:\nIraqi soldiers are still subject to attacks by Islamic State militants. File pic\n\nPrisons overcrowded and inadequate\n\nKurdish forces have pleaded to the international community for help in securing the facilities but little assistance has been forthcoming, leaving the prisons in a precarious position.\n\nMany are overcrowded and inadequate for holding violent terrorists; sporadic riots break out but are usually quickly crushed.\n\nLast year, a United Nations report estimated 10,000 Islamic State fighters were still free in Iraq and Syria and warned that the organisation is re-grouping.\n\nSleeping soldiers murdered in Iraq\n\nMeanwhile, eleven Iraqi soldiers were killed in their sleep by Islamic State gunmen, security officials said.\n\nThe attack happened at 3am on Friday in al Azim district, eastern Iraq, officials told the AP news agency.\n\nIS militants broke into the barracks and murdered the sleeping soldiers in what was one of the deadliest attacks on the Iraqi military in recent months.\n\nReinforcements were reportedly sent to the village but no further details were given and there was no comment from the Iraqi military.\n\nIslamic State was largely defeated in Iraq in 2017 but the group's militants continue to attack security forces, and infrastructure such as power stations.\n\nIn October the Sunni extremist group raided a mostly Shia village in Diyala province, killing 11 civilians and injuring several others.\n\nAccording to officials, the militants had been angry that their ransom demands for kidnapped villagers had not been met.\n\nThe extremists have also increased their attacks in neighbouring Syria, where they once based their self-styled caliphate before being ousted by an international coalition.\n\nRelated Topics\n\nIraq\n\nIslamic State\n\nSyria"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:34:17+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:34:18+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250722073840id_/https://news.sky.com/story/dozens-of-is-fighters-launch-attack-on-syrian-prison-setting-off-major-riot-inside-12521576"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250722073840id_/https://news.sky.com/story/dozens-of-is-fighters-launch-attack-on-syrian-prison-setting-off-major-riot-inside-12521576",
   "incident_ids": [
     "airwars-81424"
   ],
@@ -88,10 +112,10 @@
     "https://news.sky.com/story/dozens-of-is-fighters-launch-attack-on-syrian-prison-setting-off-major-riot-inside-12521576"
   ],
   "original_url": "https://news.sky.com/story/dozens-of-is-fighters-launch-attack-on-syrian-prison-setting-off-major-riot-inside-12521576",
-  "page_title": "",
+  "page_title": "Dozens of IS fighters launch attack on Syrian prison, setting off major riot inside | World News | Sky News Dozens of IS fighters launch attack on Syrian prison, setting off major riot inside Dozens of IS fighters launch attack on Syrian prison, setting off major riot inside",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1976-january-20-2022/",
@@ -111,15 +135,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:34:18+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ae35dd679a3e62192d1e6e56",
   "source_type": "news_article",
   "stable_id_basis": "https://news.sky.com/story/dozens-of-is-fighters-launch-attack-on-syrian-prison-setting-off-major-riot-inside-12521576",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Dozens of IS fighters launch attack on Syrian prison, setting off major riot inside\n\n\"There was heavy fighting between prison security forces and IS fighters trying to enter the prison and from the surrounding area,\" a Syrian Democratic Forces commander tells Sky News.\n\nBy Alistair Bunkall, Middle East correspondent, and Sharon Marris, news reporter\n\nFriday 21 January 2022 16:42, UK\n\nImage:\nIslamic State fighters who were arrested after the prison was attacked. Pic: SDF via AP\n\nFighting is continuing at the world's largest prison for IS fighters after an attempted breakout on Thursday, in the most violent clashes since the defeat of its self-declared caliphate in 2019.\n\nVideo from the scene shows smoke rising from Ghweiran prison in Syria and heavy exchanges of gunfire.\n\nSyrian Democratic Forces (SDF) in the Kurdish northeast of the country are battling to regain control of the jail after a car bomb exploded outside the walls on Thursday, setting off a major riot inside.\n\nUS forces in the country are helping to track down IS hideouts nearby using attack helicopters and air surveillance.\n\nAmong those killed were 20 soldiers and five civilians. Foreign fighters reportedly died too.\n\nImage:\nThe belongings of some Islamic State fighters. Pic: SDF via AP\n\nSuicide car bomb was used\n\nSDF commander Siamand Ali told Sky News: \"Dozens of IS fighters launched an attack on the prison.\n\n\"They used a suicide car bomb which exploded at the front entrance of the prison. There was heavy fighting between prison security forces and IS fighters trying to enter the prison and from the surrounding area.\n\n\"Counter terrorism forces and SDF managed to kill 25 IS fighters who launched the attack on the prison and more than 80 IS prisoners were arrested.\"\n\nGunfire could still be heard almost 24 hours after the initial attack took place, he added.\n\nOfficially, local authorities have denied that any IS fighters have escaped, but the London-based Syrian Observatory for Human Rights has said its sources believe \"dozens\" have fled.\n\nSky sources in northeast Syria have reported dozens of families leaving the surrounding area, frightened they will be caught up in the fighting or used as human shields by IS fugitives.\n\nThere are also reports that a college campus near the prison has been seized by Islamic State.\n\nThe jail holds around three-and-a-half thousand IS prisoners and is one of many in the region housing former members of the group.\n\nImage:\nIraqi soldiers are still subject to attacks by Islamic State militants. File pic\n\nPrisons overcrowded and inadequate\n\nKurdish forces have pleaded to the international community for help in securing the facilities but little assistance has been forthcoming, leaving the prisons in a precarious position.\n\nMany are overcrowded and inadequate for holding violent terrorists; sporadic riots break out but are usually quickly crushed.\n\nLast year, a United Nations report estimated 10,000 Islamic State fighters were still free in Iraq and Syria and warned that the organisation is re-grouping.\n\nSleeping soldiers murdered in Iraq\n\nMeanwhile, eleven Iraqi soldiers were killed in their sleep by Islamic State gunmen, security officials said.\n\nThe attack happened at 3am on Friday in al Azim district, eastern Iraq, officials told the AP news agency.\n\nIS militants broke into the barracks and murdered the sleeping soldiers in what was one of the deadliest attacks on the Iraqi military in recent months.\n\nReinforcements were reportedly sent to the village but no further details were given and there was no comment from the Iraqi military.\n\nIslamic State was largely defeated in Iraq in 2017 but the group's militants continue to attack security forces, and infrastructure such as power stations.\n\nIn October the Sunni extremist group raided a mostly Shia village in Diyala province, killing 11 civilians and injuring several others.\n\nAccording to officials, the militants had been angry that their ransom demands for kidnapped villagers had not been met.\n\nThe extremists have also increased their attacks in neighbouring Syria, where they once based their self-styled caliphate before being ousted by an international coalition.\n\nRelated Topics\n\nIraq\n\nIslamic State\n\nSyria",
   "text_original_language": "en",
   "translation": {
     "chunks": [],
