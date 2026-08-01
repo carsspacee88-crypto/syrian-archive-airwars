@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/LDKwz"
+    "https://archive.is/LDKwz",
+    "https://web.archive.org/web/20250708122013id_/https://sana.sy/en/?p=249470"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Arab News Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1cc50ba9290c699476430804f2e064ba2f2a39cb13e86564fc6631d8e90e6e61",
+  "content_variants": [
+    {
+      "bytes": 873,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:32:40+00:00",
+      "sha256": "1cc50ba9290c699476430804f2e064ba2f2a39cb13e86564fc6631d8e90e6e61",
+      "source_url": "https://web.archive.org/web/20250708122013id_/https://sana.sy/en/?p=249470",
+      "text": "26 September، 2021\n\nDeir Ezzor, SANA-The US occupation forces have killed three persons in an airdrop which they carried out on Sunday at dawn in al-Shuhail village, Deir Ezzor eastern countryside.\n\nLocal sources told SANA’s reporter that an airdrop with helicopters was carried out by a group of commandos affiliated with the US occupation forces in al-Shuhail village on the bank of the Euphrates River in Deir Ezzor eastern countryside, along with a heavy shooting at houses and agricultural lands which led to the killing of three persons.\n\nArmed groups of QSD militia, backed by a military force from the US occupation, abducted a number of civilians last Thursday after encircling residential buildings in the villages of Busayteen and al Jasimi, Deir Ezzor northern countryside and they took them to unknown destinations.\n\nRafah al-Allouni/ Ruaa al-Jazaeri\n\ntweet"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:32:39+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:32:40+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250708122013id_/https://sana.sy/en/?p=249470"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250708122013id_/https://sana.sy/en/?p=249470",
   "incident_ids": [
     "airwars-78911",
     "airwars-78934"
@@ -87,10 +111,10 @@
     "https://sana.sy/en/?p=249470"
   ],
   "original_url": "https://sana.sy/en/?p=249470",
-  "page_title": "",
+  "page_title": "Three persons killed in air drop by US occupation forces in al-Shuhail, Deir Ezzor countryside – Syrian Arab News Agency Three persons killed in air drop by US occupation forces in al-Shuhail, Deir Ezzor countryside - Syrian Arab News Agency Three persons killed in air drop by US occupation forces in al-Shuhail, Deir Ezzor countryside Three persons killed in air drop by US occupation forces in al-Shuhail, Deir Ezzor countryside",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1963-september-26-2021/",
@@ -118,16 +142,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:32:40+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b43bd056116ec61e6687d9c6",
   "source_type": "news_article",
   "stable_id_basis": "https://sana.sy/en/?p=249470",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "26 September، 2021\n\nDeir Ezzor, SANA-The US occupation forces have killed three persons in an airdrop which they carried out on Sunday at dawn in al-Shuhail village, Deir Ezzor eastern countryside.\n\nLocal sources told SANA’s reporter that an airdrop with helicopters was carried out by a group of commandos affiliated with the US occupation forces in al-Shuhail village on the bank of the Euphrates River in Deir Ezzor eastern countryside, along with a heavy shooting at houses and agricultural lands which led to the killing of three persons.\n\nArmed groups of QSD militia, backed by a military force from the US occupation, abducted a number of civilians last Thursday after encircling residential buildings in the villages of Busayteen and al Jasimi, Deir Ezzor northern countryside and they took them to unknown destinations.\n\nRafah al-Allouni/ Ruaa al-Jazaeri\n\ntweet",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

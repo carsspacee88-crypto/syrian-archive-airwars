@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/zTz08"
+    "https://archive.md/zTz08",
+    "https://web.archive.org/web/20220125081356id_/https://nedaa-post.com/article/Art97426eGU2Tku"
   ],
   "attempt_history": [
     {
@@ -67,12 +68,35 @@
   "author": "Nedaa post",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f561d4b06f79a7f0b1c05b4ac4be5149ca16eae627eab899c6aa992e247763f0",
+  "content_variants": [
+    {
+      "bytes": 1011,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:29:31+00:00",
+      "sha256": "f561d4b06f79a7f0b1c05b4ac4be5149ca16eae627eab899c6aa992e247763f0",
+      "source_url": "https://web.archive.org/web/20220125081356id_/https://nedaa-post.com/article/Art97426eGU2Tku",
+      "text": "عاجل ll مقتل 3 أشخاص واعتقال آخرين في عملية إنزال لطائرات أمريكية في البصيرة شرق دير الزور\n\nعاجل\n\nنداء بوست\n\n2021/12/13\n\nمن الممكن أن يعجبك\n\nالائتلاف الوطني يبارك موقف الاتحاد الأوروبي من شرعنة نظام الأسد\n\n2021/12/13\n\nالأردن: نبأ وفاة طفلة سورية في مخيم الزعتري عار عن الصحة\n\n2021/12/13\n\nهل يعود \"داعش\" من بوابة الهجوم على سجن \"غويران\"؟\n\n2021/12/13\n\nعاجل ll الجيش اليمني يعلن السيطرة على مدينة حريب جنوبي مأرب بعد معارك مع الحوثيين\n\n2021/12/13\n\nنداء بوست\n\nموقع نداء بوست منصّة إخبارية سياسية ثقافية اجتماعية اقتصادية منوّعة\n\n2022/01/25\n\nنداء بوست\n\n2022/01/25\n\nنداء بوست\n\n2022/01/25\n\nنداء بوست\n\n2022/01/25\n\nنداء بوست"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:29:30+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:29:31+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220125081356id_/https://nedaa-post.com/article/Art97426eGU2Tku"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220125081356id_/https://nedaa-post.com/article/Art97426eGU2Tku",
   "incident_ids": [
     "airwars-80656"
   ],
@@ -88,10 +112,10 @@
     "https://nedaa-post.com/article/Art97426eGU2Tku"
   ],
   "original_url": "https://nedaa-post.com/article/Art97426eGU2Tku",
-  "page_title": "",
+  "page_title": "عاجل ll مقتل 3 أشخاص واعتقال آخرين في عملية إنزال لطائرات أمريكية في البصيرة شرق دير الزور \"نداء بوست\" منصّة إخبارية سياسية ثقافية اجتماعية اقتصادية منوّعة \"نداء بوست\" منصّة إخبارية سياسية ثقافية اجتماعية اقتصادية منوّعة عاجل ll مقتل 3 أشخاص واعتقال آخرين في عملية إنزال لطائرات أمريكية في البصيرة شرق دير الزور عاجل ll مقتل 3 أشخاص واعتقال آخرين في عملية إنزال لطائرات أمريكية في البصيرة شرق دير الزور",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1974-december-12-2021/",
@@ -111,15 +135,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:29:31+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9b20232b7ba9708df1b7ff93",
   "source_type": "other_web_page",
   "stable_id_basis": "https://nedaa-post.com/article/Art97426eGU2Tku",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "عاجل ll مقتل 3 أشخاص واعتقال آخرين في عملية إنزال لطائرات أمريكية في البصيرة شرق دير الزور\n\nعاجل\n\nنداء بوست\n\n2021/12/13\n\nمن الممكن أن يعجبك\n\nالائتلاف الوطني يبارك موقف الاتحاد الأوروبي من شرعنة نظام الأسد\n\n2021/12/13\n\nالأردن: نبأ وفاة طفلة سورية في مخيم الزعتري عار عن الصحة\n\n2021/12/13\n\nهل يعود \"داعش\" من بوابة الهجوم على سجن \"غويران\"؟\n\n2021/12/13\n\nعاجل ll الجيش اليمني يعلن السيطرة على مدينة حريب جنوبي مأرب بعد معارك مع الحوثيين\n\n2021/12/13\n\nنداء بوست\n\nموقع نداء بوست منصّة إخبارية سياسية ثقافية اجتماعية اقتصادية منوّعة\n\n2022/01/25\n\nنداء بوست\n\n2022/01/25\n\nنداء بوست\n\n2022/01/25\n\nنداء بوست\n\n2022/01/25\n\nنداء بوست",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

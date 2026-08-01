@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/jTHrP"
+    "https://archive.is/jTHrP",
+    "https://web.archive.org/web/20250216123912id_/https://www.lebanese-forces.com/2023/04/29/syria-1490/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Lebanese-forces News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "7a36151241e830208454dc667f84d3a3c4f8dc6851483ee2dda738df438d7e57",
+  "content_variants": [
+    {
+      "bytes": 1505,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:32:26+00:00",
+      "sha256": "7a36151241e830208454dc667f84d3a3c4f8dc6851483ee2dda738df438d7e57",
+      "source_url": "https://web.archive.org/web/20250216123912id_/https://www.lebanese-forces.com/2023/04/29/syria-1490/",
+      "text": "إسرائيل تستهدف مستودعاً لـ”الحزب” في حمص\n\nأصيب ثلاثة مدنيين ليل الجمعة السبت جراء قصف جوي إسرائيلي في محيط حمص بوسط سوريا حسب وسائل إعلام رسمية سورية.\n\nوذكر المرصد السوري لحقوق الإنسان أن “صواريخ إسرائيلية دمّرت مستودعاً للذخيرة تابعاً لـ”حزب الله” اللبناني في مطار الضبعة العسكري في ريف حمص”.\n\nوتابع “سُمع دوي انفجارات عنيفة نتيجة انفجار الذخائر المخزنة في المستودع، وشوهدت النيران مشتعلة في الموقع، من دون ورود معلومات عن خسائر بشرية حتى الآن”.\n\nوأفادت وكالة الأنباء الرسمية سانا بأنه عند “حوالى الساعة الثانية عشرة و50 دقيقة من فجر اليوم، نفذ العدو الإسرائيلي عدواناً جوياً بعدد من الصواريخ من اتجاه شمال لبنان مستهدفاً بعض النقاط في محيط مدينة حمص، وقد تصدّت وسائط دفاعنا الجوي لصواريخ العدوان وأسقطت بعضها”.\n\nوأضافت أن القصف أدى إلى “إصابة ثلاثة مدنيين بجروح واشتعال كازية مدنية واحتراق عدد من الصهاريج والشاحنات”."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:32:25+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:32:26+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250216123912id_/https://www.lebanese-forces.com/2023/04/29/syria-1490/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250216123912id_/https://www.lebanese-forces.com/2023/04/29/syria-1490/",
   "incident_ids": [
     "airwars-89272"
   ],
@@ -85,10 +109,10 @@
     "https://www.lebanese-forces.com/2023/04/29/syria-1490/"
   ],
   "original_url": "https://www.lebanese-forces.com/2023/04/29/syria-1490/",
-  "page_title": "",
+  "page_title": "إسرائيل تستهدف مستودعاً لـ”الحزب” في حمص إسرائيل تستهدف مستودعاً لـ\"الحزب\" في حمص - Lebanese Forces Official Website إسرائيل تستهدف مستودعاً لـ\"الحزب\" في حمص",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy033-april-29-2023/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:32:26+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b00050c7f500394259dd0bf4",
   "source_type": "news_article",
   "stable_id_basis": "https://www.lebanese-forces.com/2023/04/29/syria-1490/",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "und",
+  "text_original": "إسرائيل تستهدف مستودعاً لـ”الحزب” في حمص\n\nأصيب ثلاثة مدنيين ليل الجمعة السبت جراء قصف جوي إسرائيلي في محيط حمص بوسط سوريا حسب وسائل إعلام رسمية سورية.\n\nوذكر المرصد السوري لحقوق الإنسان أن “صواريخ إسرائيلية دمّرت مستودعاً للذخيرة تابعاً لـ”حزب الله” اللبناني في مطار الضبعة العسكري في ريف حمص”.\n\nوتابع “سُمع دوي انفجارات عنيفة نتيجة انفجار الذخائر المخزنة في المستودع، وشوهدت النيران مشتعلة في الموقع، من دون ورود معلومات عن خسائر بشرية حتى الآن”.\n\nوأفادت وكالة الأنباء الرسمية سانا بأنه عند “حوالى الساعة الثانية عشرة و50 دقيقة من فجر اليوم، نفذ العدو الإسرائيلي عدواناً جوياً بعدد من الصواريخ من اتجاه شمال لبنان مستهدفاً بعض النقاط في محيط مدينة حمص، وقد تصدّت وسائط دفاعنا الجوي لصواريخ العدوان وأسقطت بعضها”.\n\nوأضافت أن القصف أدى إلى “إصابة ثلاثة مدنيين بجروح واشتعال كازية مدنية واحتراق عدد من الصهاريج والشاحنات”.",
+  "text_original_language": "ar",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

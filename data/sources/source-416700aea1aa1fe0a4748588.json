@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/oTRRA"
+    "https://archive.is/oTRRA",
+    "https://web.archive.org/web/20231209174504id_/https://anfarabic.com/akhr-l-khbr/l-92824"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "18c56cc135d858481177a61db3b969520b1185e8b62dc3a0655afa8ca238c900",
+  "content_variants": [
+    {
+      "bytes": 1020,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:18:06+00:00",
+      "sha256": "18c56cc135d858481177a61db3b969520b1185e8b62dc3a0655afa8ca238c900",
+      "source_url": "https://web.archive.org/web/20231209174504id_/https://anfarabic.com/akhr-l-khbr/l-92824",
+      "text": "إصابة اثنين من طاقم الإسعاف جراء القصف التركي لمحيط كوباني\n\nأصيب اثنان من طاقم الإسعاف جراء استهداف جيش الاحتلال التركي محيط مدينة كوباني، نقلا إلى مشافي المدينة لتلقي العلاج.\n\nوكالة فرات\n\nكوباني\n\nالأربعاء, ٥ يوليو ٢٠٢٣, ١٨:٤٧\n\nواستهدف جيش الاحتلال التركي ساحة نوروز الواقعة جنوب شرقي مدينة كوباني، فيما سارعت سيارة إسعاف إلى مكان الاستهداف لإجلاء إصابات محتملة. إلا إنها تعرض لاستهداف مباشر من جيش الاحتلال التركي ما أسفر عن إصابة اثنين من طاقم الإسعاف.\n\nوالمصابان هما كل من سوزدار مصطفى عثمان 30 سنة ومسلم نبي اوسو 25 سنة، نقلا إلى مشافي مدينة كوباني لتلقي العلاج."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:18:06+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:18:06+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231209174504id_/https://anfarabic.com/akhr-l-khbr/l-92824"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231209174504id_/https://anfarabic.com/akhr-l-khbr/l-92824",
   "incident_ids": [
     "airwars-91699"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/akhr-l-khbr/l-92824"
   ],
   "original_url": "https://anfarabic.com/akhr-l-khbr/l-92824",
-  "page_title": "",
+  "page_title": "ANF | إصابة اثنين من طاقم الإسعاف جراء القصف التركي لمحيط كوباني إصابة اثنين من طاقم الإسعاف جراء القصف التركي لمحيط كوباني إصابة اثنين من طاقم الإسعاف جراء القصف التركي لمحيط كوباني",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts609-july-5-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:18:06+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-416700aea1aa1fe0a4748588",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfarabic.com/akhr-l-khbr/l-92824",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة اثنين من طاقم الإسعاف جراء القصف التركي لمحيط كوباني\n\nأصيب اثنان من طاقم الإسعاف جراء استهداف جيش الاحتلال التركي محيط مدينة كوباني، نقلا إلى مشافي المدينة لتلقي العلاج.\n\nوكالة فرات\n\nكوباني\n\nالأربعاء, ٥ يوليو ٢٠٢٣, ١٨:٤٧\n\nواستهدف جيش الاحتلال التركي ساحة نوروز الواقعة جنوب شرقي مدينة كوباني، فيما سارعت سيارة إسعاف إلى مكان الاستهداف لإجلاء إصابات محتملة. إلا إنها تعرض لاستهداف مباشر من جيش الاحتلال التركي ما أسفر عن إصابة اثنين من طاقم الإسعاف.\n\nوالمصابان هما كل من سوزدار مصطفى عثمان 30 سنة ومسلم نبي اوسو 25 سنة، نقلا إلى مشافي مدينة كوباني لتلقي العلاج.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

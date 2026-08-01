@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/tLydr"
+    "https://archive.is/tLydr",
+    "https://web.archive.org/web/20220127103829id_/https://www.jesrpress.com/2022/01/02/%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%AA%D9%82%D8%B5/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Jesr Press",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "30c70045fd43c553ff54280f715d5c3ac2fbd63fdfa77590f70f4d2fb354291e",
+  "content_variants": [
+    {
+      "bytes": 1958,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:29:58+00:00",
+      "sha256": "30c70045fd43c553ff54280f715d5c3ac2fbd63fdfa77590f70f4d2fb354291e",
+      "source_url": "https://web.archive.org/web/20220127103829id_/https://www.jesrpress.com/2022/01/02/%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%AA%D9%82%D8%B5/",
+      "text": "انتهاكات مستمرة.. الطائرات الروسية تقصف محطة مياه في إدلب\n\nجسر – متابعات\n\nشنت الطائرات الحربية الروسية غارات جوية عدة على ريف إدلب، ظهر اليوم الأحد، استهدفت إحداها محطة ضخ مياه.\n\nوأفادت مصادر محلية لصحيفة “جسر” أن الطائرات الروسية قصفت محطة مياه العرشاني بريف إدلب الشمالي الغربي.\n\nوتعتبر المحطة المستهدفة من أهم محطات المياه في محافظة إدلب، حيث تغذي بالمياه الصالحة للشرب كامل مدينة إدلب.\n\nكما استهدفت الغارات أطراف قرية معرطبعي جنوبي إدلب، ومحيط مدينة إدلب من الجهة الغربية، وفق ما ذكر الدفاع المدني السوري.\n\nوتسببت هجمات النظام وروسيا على شمال غربي سوريا، بمقتل 225 شخصاً بينهم 65 طفلاً و38 امرأة، خلال عام 2021، وفق ما أحصت الشبكة السورية لحقوق الإنسان.\n\nقتلى وجرحى بقصف روسي استهدف مناطق في إدلب\n\nقتلى وجرحى بقصف روسي استهدف مناطق في إدلب\n\nالسابق\n\nسورية 2021.. الجمود السياسي والانهيار المعيشي\n\nالتالي\n\nأسعار العملات والمحروقات في إدلب اليوم الأحد 2 كانون الثاني\n\n“قسد” تهدم عدة منازل في “غويران” بالحسكة\n\nالأحوال الجوية في سوريا.. درجات الحرارة أقل من المعدّل\n\nحكومة النظام توقع اتفاقية الربط الكهربائي مع الأردن ولبنان\n\nروسيا تمهل واشنطن 6 أشهر لتغيير آلية نقل المساعدات إلى سوريا"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:29:56+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:29:58+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220127103829id_/https://www.jesrpress.com/2022/01/02/%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%AA%D9%82%D8%B5/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220127103829id_/https://www.jesrpress.com/2022/01/02/%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%AA%D9%82%D8%B5/",
   "incident_ids": [
     "airwars-80934"
   ],
@@ -85,10 +109,10 @@
     "https://www.jesrpress.com/2022/01/02/%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%AA%D9%82%D8%B5/"
   ],
   "original_url": "https://www.jesrpress.com/2022/01/02/%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%AA%D9%82%D8%B5/",
-  "page_title": "",
+  "page_title": "انتهاكات مستمرة.. الطائرات الروسية تقصف محطة مياه في إدلب - صحيفة جسر انتهاكات مستمرة.. الطائرات الروسية تقصف محطة مياه في إدلب - صحيفة جسر",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4686-january-2-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:29:58+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9eb52c684b6a6e5711b3e75e",
   "source_type": "news_article",
   "stable_id_basis": "https://www.jesrpress.com/2022/01/02/%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%AA%D9%82%D8%B5/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "انتهاكات مستمرة.. الطائرات الروسية تقصف محطة مياه في إدلب\n\nجسر – متابعات\n\nشنت الطائرات الحربية الروسية غارات جوية عدة على ريف إدلب، ظهر اليوم الأحد، استهدفت إحداها محطة ضخ مياه.\n\nوأفادت مصادر محلية لصحيفة “جسر” أن الطائرات الروسية قصفت محطة مياه العرشاني بريف إدلب الشمالي الغربي.\n\nوتعتبر المحطة المستهدفة من أهم محطات المياه في محافظة إدلب، حيث تغذي بالمياه الصالحة للشرب كامل مدينة إدلب.\n\nكما استهدفت الغارات أطراف قرية معرطبعي جنوبي إدلب، ومحيط مدينة إدلب من الجهة الغربية، وفق ما ذكر الدفاع المدني السوري.\n\nوتسببت هجمات النظام وروسيا على شمال غربي سوريا، بمقتل 225 شخصاً بينهم 65 طفلاً و38 امرأة، خلال عام 2021، وفق ما أحصت الشبكة السورية لحقوق الإنسان.\n\nقتلى وجرحى بقصف روسي استهدف مناطق في إدلب\n\nقتلى وجرحى بقصف روسي استهدف مناطق في إدلب\n\nالسابق\n\nسورية 2021.. الجمود السياسي والانهيار المعيشي\n\nالتالي\n\nأسعار العملات والمحروقات في إدلب اليوم الأحد 2 كانون الثاني\n\n“قسد” تهدم عدة منازل في “غويران” بالحسكة\n\nالأحوال الجوية في سوريا.. درجات الحرارة أقل من المعدّل\n\nحكومة النظام توقع اتفاقية الربط الكهربائي مع الأردن ولبنان\n\nروسيا تمهل واشنطن 6 أشهر لتغيير آلية نقل المساعدات إلى سوريا",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

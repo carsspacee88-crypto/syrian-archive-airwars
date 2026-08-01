@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/9TemQ"
+    "https://archive.md/9TemQ",
+    "https://web.archive.org/web/20220521221419id_/https://www.syriahr.com/en/227741/?fbclid=IwAR3LuKwpsuLqMFjbB9I7MLsFG1vqJ1vqRjKKEgZ042du8khNYLmahHB4Y2Q"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "fb38be8a79568545d8760ac4799ddac0d166d8eef7baacb2175ef1bc1f480dc3",
+  "content_variants": [
+    {
+      "bytes": 1822,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:33:43+00:00",
+      "sha256": "fb38be8a79568545d8760ac4799ddac0d166d8eef7baacb2175ef1bc1f480dc3",
+      "source_url": "https://web.archive.org/web/20220521221419id_/https://www.syriahr.com/en/227741/?fbclid=IwAR3LuKwpsuLqMFjbB9I7MLsFG1vqJ1vqRjKKEgZ042du8khNYLmahHB4Y2Q",
+      "text": "Three attacks in hours | ISIS cells attack SDF positions in rural Deir Ezzor\n\nDeir Ezzor province: SOHR sources have reported that three SDF military positions came under attack, this evening, by gunmen believed to be of ISIS cells. According to SOHR sources, gunmen opened fire on al-Hadiqah checkpoint, but no casualties have been reported.\n\nAlso, unknown gunmen on a motorcycle targeted an SDF vehicle with RPG in Daman village, near al-Busayrah city in Deir Ezzor countryside.\n\nMeanwhile, SOHR activists had reported that clashes erupted in the evening in al-Busayra city in Deir Ezzor countryside following an attack by ISIS members on the headquarters of the SDF-backed First Brigade, where they targeted the headquarters with RPG shells. However, no casualties were reported.\n\nEarlier today, SOHR activists reported new air drop-off by the International Coalition with participation of the SDF in ground in the early hours of Monday. The raid had targeted a house in al-Sobha village in east Deir Ezzor village.\n\nAccording to SOHR activists in the region, a man was killed by fire of the International Coalition forces during his attempt of escaping his house while his brother, a former weapons merchant and his wife were arrested on charges of belonging and dealing with ISIS.\n\nPrev Post\n\nRocket attacks | Soldiers injured in regime base in Tartus, while regime missiles’ shrapnel hit different areas in Homs and Tartus countryside\n\nNext Post\n\nFeuding factions | Clashes in “Peace Spring” areas in northern al-Raqqah leave many injured\n\nDaily death toll | Ten people killed on May 21 across Syria\n\nTribal clashes | Injuries in eastern countryside of Daraa\n\nSecond time in May | Young man commits suicide by consuming “gaz pill” in…\n\n“SOHR camera” captures “International Coalition” vehicles…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:33:43+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:33:43+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220521221419id_/https://www.syriahr.com/en/227741/?fbclid=IwAR3LuKwpsuLqMFjbB9I7MLsFG1vqJ1vqRjKKEgZ042du8khNYLmahHB4Y2Q"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220521221419id_/https://www.syriahr.com/en/227741/?fbclid=IwAR3LuKwpsuLqMFjbB9I7MLsFG1vqJ1vqRjKKEgZ042du8khNYLmahHB4Y2Q",
   "incident_ids": [
     "airwars-79929"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/227741/?fbclid=IwAR3LuKwpsuLqMFjbB9I7MLsFG1vqJ1vqRjKKEgZ042du8khNYLmahHB4Y2Q"
   ],
   "original_url": "https://www.syriahr.com/en/227741/?fbclid=IwAR3LuKwpsuLqMFjbB9I7MLsFG1vqJ1vqRjKKEgZ042du8khNYLmahHB4Y2Q",
-  "page_title": "",
+  "page_title": "Three attacks in hours | ISIS cells attack SDF positions in rural Deir Ezzor • The Syrian Observatory For Human Rights Three attacks in hours | ISIS cells attack SDF positions in rural Deir Ezzor • The Syrian Observatory For Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1970-november-8-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:33:43+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-c0996fda1068b580f8291ec6",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/227741/?fbclid=IwAR3LuKwpsuLqMFjbB9I7MLsFG1vqJ1vqRjKKEgZ042du8khNYLmahHB4Y2Q",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Three attacks in hours | ISIS cells attack SDF positions in rural Deir Ezzor\n\nDeir Ezzor province: SOHR sources have reported that three SDF military positions came under attack, this evening, by gunmen believed to be of ISIS cells. According to SOHR sources, gunmen opened fire on al-Hadiqah checkpoint, but no casualties have been reported.\n\nAlso, unknown gunmen on a motorcycle targeted an SDF vehicle with RPG in Daman village, near al-Busayrah city in Deir Ezzor countryside.\n\nMeanwhile, SOHR activists had reported that clashes erupted in the evening in al-Busayra city in Deir Ezzor countryside following an attack by ISIS members on the headquarters of the SDF-backed First Brigade, where they targeted the headquarters with RPG shells. However, no casualties were reported.\n\nEarlier today, SOHR activists reported new air drop-off by the International Coalition with participation of the SDF in ground in the early hours of Monday. The raid had targeted a house in al-Sobha village in east Deir Ezzor village.\n\nAccording to SOHR activists in the region, a man was killed by fire of the International Coalition forces during his attempt of escaping his house while his brother, a former weapons merchant and his wife were arrested on charges of belonging and dealing with ISIS.\n\nPrev Post\n\nRocket attacks | Soldiers injured in regime base in Tartus, while regime missiles’ shrapnel hit different areas in Homs and Tartus countryside\n\nNext Post\n\nFeuding factions | Clashes in “Peace Spring” areas in northern al-Raqqah leave many injured\n\nDaily death toll | Ten people killed on May 21 across Syria\n\nTribal clashes | Injuries in eastern countryside of Daraa\n\nSecond time in May | Young man commits suicide by consuming “gaz pill” in…\n\n“SOHR camera” captures “International Coalition” vehicles…",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

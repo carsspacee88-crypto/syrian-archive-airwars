@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/1Q1tL"
+    "https://archive.md/1Q1tL",
+    "https://web.archive.org/web/20240525022304id_/https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/4418492958249726"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SCD",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "45eaec536731c26d977fe6d63223f6f631469ee11d8364fadb7862fcad51073c",
+  "content_variants": [
+    {
+      "bytes": 639,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:15:29+00:00",
+      "sha256": "45eaec536731c26d977fe6d63223f6f631469ee11d8364fadb7862fcad51073c",
+      "source_url": "https://web.archive.org/web/20240525022304id_/https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/4418492958249726",
+      "text": "مقتل الطفل بسام حلاق 7 أعوام وإصابة 4 أطفال وامرأة بقصف مدفعي من قوات النظام وروسيا اليوم الأربعاء 27 تشرين الأول بقذائف الكراسنبول استهدف مخيماً للأرامل...\n\nمقتل الطفل بسام حلاق 7 أعوام وإصابة 4 أطفال وامرأة بقصف مدفعي من قوات النظام وروسيا اليوم الأربعاء 27 تشرين الأول بقذائف الكراسنبول استهدف مخيماً للأرامل بمحيط بلدة ترمانين بريف إدلب الشمالي، فرق..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:15:28+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:15:29+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525022304id_/https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/4418492958249726"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525022304id_/https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/4418492958249726",
   "incident_ids": [
     "airwars-79740"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/4418492958249726"
   ],
   "original_url": "https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/4418492958249726",
-  "page_title": "",
+  "page_title": "Civil Defense Idlib الدفاع المدني سوريا-محافظة ادلب Civil Defense Idlib الدفاع المدني سوريا-محافظة ادلب مقتل... - Civil Defense Idlib الدفاع المدني سوريا-محافظة ادلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4663-october-27-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:15:29+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2e732666c6fdb43fc808269c",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/4418492958249726",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مقتل الطفل بسام حلاق 7 أعوام وإصابة 4 أطفال وامرأة بقصف مدفعي من قوات النظام وروسيا اليوم الأربعاء 27 تشرين الأول بقذائف الكراسنبول استهدف مخيماً للأرامل...\n\nمقتل الطفل بسام حلاق 7 أعوام وإصابة 4 أطفال وامرأة بقصف مدفعي من قوات النظام وروسيا اليوم الأربعاء 27 تشرين الأول بقذائف الكراسنبول استهدف مخيماً للأرامل بمحيط بلدة ترمانين بريف إدلب الشمالي، فرق...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

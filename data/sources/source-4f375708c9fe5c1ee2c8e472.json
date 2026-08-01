@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20250429020417id_/https://www.syriahr.com/en/289282/"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ec1e22bcac3e3dab4c5cb5bee460a096d26ddb2161af074724099ffbb34a3f75",
+  "content_variants": [
+    {
+      "bytes": 1634,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:18:36+00:00",
+      "sha256": "ec1e22bcac3e3dab4c5cb5bee460a096d26ddb2161af074724099ffbb34a3f75",
+      "source_url": "https://web.archive.org/web/20250429020417id_/https://www.syriahr.com/en/289282/",
+      "text": "After being arrested for a month | International Coalition releases civilian accused of belonging to IS-IS\n\nDeir Ezzor province: The International Coalition forces released a young man after he was released for nearly a month by an airdrop operation by an SDF patrol supported by the International Coalition, where he was arrested from inside his house in Al-Shahil city in eastern Deir Ezzor countryside. He was released after being investigated and the charges were dropped.\n\nOn January 22, SOHR sources reported that three ISIS members were arrested in the operation that was carried out by counter-terrorism units with the support of the “International Coalition” aircraft in the early hours of Sunday morning, SOHR sources reported.\n\nThe units raided a number of houses of Al-Madad family in Al-Shuhayil in the eastern countryside of Deir Ezzor, and the operation lasted for two hours.\n\nThe attacking forces asked the wanted men to surrender via loudspeakers, but they refused, and then SDF and coalition forces raided the house and arrested three men.\n\nPrev Post\n\nDeath toll update | Nine Syrian people including seven military figures and three officers among 15 kil-led by Israeli attack on Damascus\n\nNext Post\n\nDuring the day | 11 planes carrying aids land in Syrian airports and tons of materials passed from Nasib crossing\n\nDaily death toll | 24 people killed on April 28 across Syria\n\nRemnants of the regime | Six bodies found in a mass graveyard in Al-Qirdaha…\n\nMonth after kidnapping | Civilian kil*led “field exec*uted” in Rif Dimashq\n\nAffected by wounds | Civilian di-es after tribal clashes in Al-Raqqa City"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:18:35+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:18:36+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250429020417id_/https://www.syriahr.com/en/289282/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250429020417id_/https://www.syriahr.com/en/289282/",
   "incident_ids": [
     "airwars-87415"
   ],
@@ -55,10 +80,10 @@
     "https://www.syriahr.com/en/289282/"
   ],
   "original_url": "https://www.syriahr.com/en/289282/",
-  "page_title": "",
+  "page_title": "After being arrested for a month | International Coalition releases civilian accused of belonging to IS-IS - The Syrian Observatory For Human Rights After being arrested for a month | International Coalition releases civilian accused of belonging to IS-IS - The Syrian Observatory For Human Rights After being arrested for a month | International Coalition releases civilian accused of belonging to IS-IS - The Syrian Observatory For Human Rights After being arrested for a month | International Coalition releases civilian accused of belonging to IS-IS After being arrested for a month | International Coalition releases civilian accused of belonging to IS-IS",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1990-january-21-2023/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:18:36+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4f375708c9fe5c1ee2c8e472",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/289282/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "After being arrested for a month | International Coalition releases civilian accused of belonging to IS-IS\n\nDeir Ezzor province: The International Coalition forces released a young man after he was released for nearly a month by an airdrop operation by an SDF patrol supported by the International Coalition, where he was arrested from inside his house in Al-Shahil city in eastern Deir Ezzor countryside. He was released after being investigated and the charges were dropped.\n\nOn January 22, SOHR sources reported that three ISIS members were arrested in the operation that was carried out by counter-terrorism units with the support of the “International Coalition” aircraft in the early hours of Sunday morning, SOHR sources reported.\n\nThe units raided a number of houses of Al-Madad family in Al-Shuhayil in the eastern countryside of Deir Ezzor, and the operation lasted for two hours.\n\nThe attacking forces asked the wanted men to surrender via loudspeakers, but they refused, and then SDF and coalition forces raided the house and arrested three men.\n\nPrev Post\n\nDeath toll update | Nine Syrian people including seven military figures and three officers among 15 kil-led by Israeli attack on Damascus\n\nNext Post\n\nDuring the day | 11 planes carrying aids land in Syrian airports and tons of materials passed from Nasib crossing\n\nDaily death toll | 24 people killed on April 28 across Syria\n\nRemnants of the regime | Six bodies found in a mass graveyard in Al-Qirdaha…\n\nMonth after kidnapping | Civilian kil*led “field exec*uted” in Rif Dimashq\n\nAffected by wounds | Civilian di-es after tribal clashes in Al-Raqqa City",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

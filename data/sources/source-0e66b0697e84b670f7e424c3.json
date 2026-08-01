@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/JIeJp"
+    "https://archive.is/JIeJp",
+    "https://web.archive.org/web/20250223044253id_/https://www.syriahr.com/en/221448/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c6f7cca25aab31c3104fea0ce3833b04f6a5a3736be7cb85e74738fd72585a20",
+  "content_variants": [
+    {
+      "bytes": 1614,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:11:33+00:00",
+      "sha256": "c6f7cca25aab31c3104fea0ce3833b04f6a5a3736be7cb85e74738fd72585a20",
+      "source_url": "https://web.archive.org/web/20250223044253id_/https://www.syriahr.com/en/221448/",
+      "text": "Bombardment on Tafas | Woman among many civilians killed and wounded in regime artillery and rocket fire\n\nDaraa province: SOHR activists have documented the death of a woman and a young man and the injury of five other civilians, some seriously, due to the intensive ground bombardment by regime forces on Tafas city in the western countryside of Daraa.\n\nSOHR sources have just reported that regime forces fired tens of artillery shells and rockets on civilians’ houses in Tafas city in the western countryside of Daraa, leaving several people injured.\n\nThis bombardment came in light of the impeded negotiations regarding the implementation of the Russian roadmap for the 12th consecutive day.\n\nRegime forces had brought in new military reinforcement to the western countryside of Daraa, including tanks and military vehicles of the 15th Division. The recently-arrived reinforcement were stationed at al-Saru military checkpoint on the road between Daraa and Tafas city, while regime forces set up mortar cannons in three positions in the south of Tafas city and on the outskirts of Daraa city.\n\nPrev Post\n\nAs second round of discussions impeded | Regime forces targets Tafas city in western Daraa with tens of shells\n\nNext Post\n\nIED attack | Five regime soldiers killed and wounded in ambush in Daraa countryside\n\nLuring people | Israeli forces conduct census of population near borders with…\n\nStray bullet | Young man kil*led in camps in northern Idlib countryside\n\nNew attacks | Israeli fighter jets carry out airstrikes on areas and illegal…\n\nAleppo | Young man kil*led and houses burnt in armed clashes"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:11:32+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:11:33+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250223044253id_/https://www.syriahr.com/en/221448/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250223044253id_/https://www.syriahr.com/en/221448/",
   "incident_ids": [
     "airwars-77765"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/221448/"
   ],
   "original_url": "https://www.syriahr.com/en/221448/",
-  "page_title": "",
+  "page_title": "Bombardment on Tafas | Woman among many civilians killed and wounded in regime artillery and rocket fire - The Syrian Observatory For Human Rights Bombardment on Tafas | Woman among many civilians killed and wounded in regime artillery and rocket fire - The Syrian Observatory For Human Rights Bombardment on Tafas | Woman among many civilians killed and wounded in regime artillery and rocket fire - The Syrian Observatory For Human Rights Bombardment on Tafas | Woman among many civilians killed and wounded in regime artillery and rocket fire Bombardment on Tafas | Woman among many civilians killed and wounded in regime artillery and rocket fire",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4634-august-26-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:11:33+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0e66b0697e84b670f7e424c3",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/221448/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Bombardment on Tafas | Woman among many civilians killed and wounded in regime artillery and rocket fire\n\nDaraa province: SOHR activists have documented the death of a woman and a young man and the injury of five other civilians, some seriously, due to the intensive ground bombardment by regime forces on Tafas city in the western countryside of Daraa.\n\nSOHR sources have just reported that regime forces fired tens of artillery shells and rockets on civilians’ houses in Tafas city in the western countryside of Daraa, leaving several people injured.\n\nThis bombardment came in light of the impeded negotiations regarding the implementation of the Russian roadmap for the 12th consecutive day.\n\nRegime forces had brought in new military reinforcement to the western countryside of Daraa, including tanks and military vehicles of the 15th Division. The recently-arrived reinforcement were stationed at al-Saru military checkpoint on the road between Daraa and Tafas city, while regime forces set up mortar cannons in three positions in the south of Tafas city and on the outskirts of Daraa city.\n\nPrev Post\n\nAs second round of discussions impeded | Regime forces targets Tafas city in western Daraa with tens of shells\n\nNext Post\n\nIED attack | Five regime soldiers killed and wounded in ambush in Daraa countryside\n\nLuring people | Israeli forces conduct census of population near borders with…\n\nStray bullet | Young man kil*led in camps in northern Idlib countryside\n\nNew attacks | Israeli fighter jets carry out airstrikes on areas and illegal…\n\nAleppo | Young man kil*led and houses burnt in armed clashes",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

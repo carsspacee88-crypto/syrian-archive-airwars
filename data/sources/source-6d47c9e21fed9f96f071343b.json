@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/xAxxH"
+    "https://archive.is/xAxxH",
+    "https://web.archive.org/web/20230805190620id_/https://our-syria.com/73108/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Our Syria",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "dd729c4eb6e5996c563ea031747fa121e66953be45227247d6cf9dfecfcce13d",
+  "content_variants": [
+    {
+      "bytes": 576,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:23:41+00:00",
+      "sha256": "dd729c4eb6e5996c563ea031747fa121e66953be45227247d6cf9dfecfcce13d",
+      "source_url": "https://web.archive.org/web/20230805190620id_/https://our-syria.com/73108/",
+      "text": "إصابة عدد من المدنيين جراء قصف قوات الأسد محيط مسجد التركمان في مدينة جسر الشغور غرب إدلب(صور)\n\n05/08/2023\nأخبار, إدلب, سورية, عاجل\n\nاضف تعليق\n0 زيارة\n\nسوريتنا-متابعات:\n\nوقد عرف من بين المصابين وهم هيثم سرحان دندش ٥ سنوات، وسلام سرحان دندش ٥ سنوات وكوكب سرحان دندش ١٤ سنة…\n\nشارك هذا الموضوع:\n\nتويتر\n\nفيس بوك\n\nTelegram\n\nWhatsApp\n\nمعجب بهذه:"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:23:40+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:23:41+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230805190620id_/https://our-syria.com/73108/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230805190620id_/https://our-syria.com/73108/",
   "incident_ids": [
     "airwars-92700"
   ],
@@ -85,10 +109,10 @@
     "https://our-syria.com/73108/"
   ],
   "original_url": "https://our-syria.com/73108/",
-  "page_title": "",
+  "page_title": "إصابة عدد من المدنيين جراء قصف قوات الأسد محيط مسجد التركمان في مدينة جسر الشغور غرب إدلب(صور) – سوريتنا إصابة عدد من المدنيين جراء قصف قوات الأسد محيط مسجد التركمان في مدينة جسر الشغور غرب إدلب(صور) - سوريتنا إصابة عدد من المدنيين جراء قصف قوات الأسد محيط مسجد التركمان في مدينة جسر الشغور غرب إدلب(صور)",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4791-august-5-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:23:41+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-6d47c9e21fed9f96f071343b",
   "source_type": "other_web_page",
   "stable_id_basis": "https://our-syria.com/73108/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة عدد من المدنيين جراء قصف قوات الأسد محيط مسجد التركمان في مدينة جسر الشغور غرب إدلب(صور)\n\n05/08/2023\nأخبار, إدلب, سورية, عاجل\n\nاضف تعليق\n0 زيارة\n\nسوريتنا-متابعات:\n\nوقد عرف من بين المصابين وهم هيثم سرحان دندش ٥ سنوات، وسلام سرحان دندش ٥ سنوات وكوكب سرحان دندش ١٤ سنة…\n\nشارك هذا الموضوع:\n\nتويتر\n\nفيس بوك\n\nTelegram\n\nWhatsApp\n\nمعجب بهذه:",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

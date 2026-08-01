@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/lh3iM"
+    "https://archive.ph/lh3iM",
+    "https://web.archive.org/web/20240206034504id_/https://nedaa-post.com/%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D9%88%D9%88%D8%B6%D8%B9-%D8%AD%D8%AF%D9%91-%D9%84%D9%80%D9%82%D8%B3%D8%AF/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Neda news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2e92a9b0045b55d56be80fac8a172908dd6b18b597c4d03ff8eaa1f67568a01d",
+  "content_variants": [
+    {
+      "bytes": 509,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:11:29+00:00",
+      "sha256": "2e92a9b0045b55d56be80fac8a172908dd6b18b597c4d03ff8eaa1f67568a01d",
+      "source_url": "https://web.archive.org/web/20240206034504id_/https://nedaa-post.com/%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D9%88%D9%88%D8%B6%D8%B9-%D8%AD%D8%AF%D9%91-%D9%84%D9%80%D9%82%D8%B3%D8%AF/",
+      "text": "طالبت العشائر العربية في محافظة دير الزور، قوات التحالف الدولي بالتدخل ووضع حد لتجاوزات \"قسد\"، وذلك في وقت تتواصل فيه\n\nنداء بوست - عشائر دير الزور تطالب التحالف الدولي بالتدخل ووضع حدّ لـ\"قسد\" - سورية عشائر دير الزور تطالب التحالف الدولي بالتدخل ووضع حدّ لـ\"قسد\".. والاشتباكات مستمرة"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:11:27+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:11:29+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240206034504id_/https://nedaa-post.com/%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D9%88%D9%88%D8%B6%D8%B9-%D8%AD%D8%AF%D9%91-%D9%84%D9%80%D9%82%D8%B3%D8%AF/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240206034504id_/https://nedaa-post.com/%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D9%88%D9%88%D8%B6%D8%B9-%D8%AD%D8%AF%D9%91-%D9%84%D9%80%D9%82%D8%B3%D8%AF/",
   "incident_ids": [
     "airwars-92958"
   ],
@@ -85,10 +109,10 @@
     "https://nedaa-post.com/عشائر-دير-الزور-تطالب-التحالف-الدولي-بالتدخل-ووضع-حدّ-لـقسد/"
   ],
   "original_url": "https://nedaa-post.com/عشائر-دير-الزور-تطالب-التحالف-الدولي-بالتدخل-ووضع-حدّ-لـقسد/",
-  "page_title": "",
+  "page_title": "عشائر دير الزور تطالب التحالف الدولي بالتدخل ووضع حدّ لـ”قسد” عشائر دير الزور تطالب التحالف الدولي بالتدخل ووضع حدّ لـ”قسد” عشائر دير الزور تطالب التحالف الدولي بالتدخل ووضع حدّ لـ\"قسد\" - نداء بوست عشائر دير الزور تطالب التحالف الدولي بالتدخل ووضع حدّ لـ\"قسد\" - نداء بوست",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/sdf00011-august-30-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:11:29+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0bf1afe1248d6f9305d6623f",
   "source_type": "news_article",
   "stable_id_basis": "https://nedaa-post.com/عشائر-دير-الزور-تطالب-التحالف-الدولي-بالتدخل-ووضع-حدّ-لـقسد/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "طالبت العشائر العربية في محافظة دير الزور، قوات التحالف الدولي بالتدخل ووضع حد لتجاوزات \"قسد\"، وذلك في وقت تتواصل فيه\n\nنداء بوست - عشائر دير الزور تطالب التحالف الدولي بالتدخل ووضع حدّ لـ\"قسد\" - سورية عشائر دير الزور تطالب التحالف الدولي بالتدخل ووضع حدّ لـ\"قسد\".. والاشتباكات مستمرة",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

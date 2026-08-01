@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20250724205335id_/https://sana.sy/en/?p=257486"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "SANA",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "753ad9850c89627f0b3a86af9a5228fdad8e84d955c70bac9b5a742fd4f065b3",
+  "content_variants": [
+    {
+      "bytes": 967,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:21:16+00:00",
+      "sha256": "753ad9850c89627f0b3a86af9a5228fdad8e84d955c70bac9b5a742fd4f065b3",
+      "source_url": "https://web.archive.org/web/20250724205335id_/https://sana.sy/en/?p=257486",
+      "text": "13 December، 2021\n\nDeir Ezzor, SANA- Three civilians were martyred by fire of the US occupation forces as they carried out an airdrop operation at dawn on Monday in al-Busaira town, Deir Ezzor eastern countryside.\n\nThe US occupation warplanes carried out a large-scale airdrop operation in al-Busaira town and its vicinity in Deir Ezzor countryside backed by QSD militiamen, local sources reported.\n\nThe airdrop was accompanied by intense and indiscriminate shooting on homes and agricultural lands, which caused the martyrdom of three civilians from one family.\n\nThe sources added that while raiding the city, the US occupation forces kidnaped a number of the locals and took them to an unknown destination.\n\nOn Dec. 7th, the US occupation troops carried out an airdrop on al-Shuhail town in Deir Ezzor countryside backed by a group of QSD militiamen, and they kidnapped a number of civilians and they destroyed the houses which they raided.\n\nRuaa al-Jazaeri\n\ntweet"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:21:13+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:21:16+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250724205335id_/https://sana.sy/en/?p=257486"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250724205335id_/https://sana.sy/en/?p=257486",
   "incident_ids": [
     "airwars-80656"
   ],
@@ -55,10 +80,10 @@
     "hEuphratesttps://sana.sy/en/?p=257486"
   ],
   "original_url": "hEuphratesttps://sana.sy/en/?p=257486",
-  "page_title": "",
+  "page_title": "Three civilians martyred in airdrop by US occupation forces, east of Deir Ezzor – Syrian Arab News Agency Three civilians martyred in airdrop by US occupation forces, east of Deir Ezzor - Syrian Arab News Agency Three civilians martyred in airdrop by US occupation forces, east of Deir Ezzor Three civilians martyred in airdrop by US occupation forces, east of Deir Ezzor",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1974-december-12-2021/",
@@ -78,16 +103,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:21:16+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5d97e2092a76ad73279702be",
   "source_type": "other_web_page",
   "stable_id_basis": "hEuphratesttps://sana.sy/en/?p=257486",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "13 December، 2021\n\nDeir Ezzor, SANA- Three civilians were martyred by fire of the US occupation forces as they carried out an airdrop operation at dawn on Monday in al-Busaira town, Deir Ezzor eastern countryside.\n\nThe US occupation warplanes carried out a large-scale airdrop operation in al-Busaira town and its vicinity in Deir Ezzor countryside backed by QSD militiamen, local sources reported.\n\nThe airdrop was accompanied by intense and indiscriminate shooting on homes and agricultural lands, which caused the martyrdom of three civilians from one family.\n\nThe sources added that while raiding the city, the US occupation forces kidnaped a number of the locals and took them to an unknown destination.\n\nOn Dec. 7th, the US occupation troops carried out an airdrop on al-Shuhail town in Deir Ezzor countryside backed by a group of QSD militiamen, and they kidnapped a number of civilians and they destroyed the houses which they raided.\n\nRuaa al-Jazaeri\n\ntweet",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

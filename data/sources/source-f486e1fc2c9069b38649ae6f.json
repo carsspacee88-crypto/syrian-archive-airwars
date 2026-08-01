@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/5wcwV"
+    "https://archive.is/5wcwV",
+    "https://web.archive.org/web/20230522055926id_/https://apnews.com/article/syria-alqaida-idlib-centcom-f14d831989a7fb9979e57a19ed99d4e5"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "AP",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a8cab5c3b204c2aa0d980510471985f25e7726d9e6be62e883cbca92c867e98e",
+  "content_variants": [
+    {
+      "bytes": 2122,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:40:47+00:00",
+      "sha256": "a8cab5c3b204c2aa0d980510471985f25e7726d9e6be62e883cbca92c867e98e",
+      "source_url": "https://web.archive.org/web/20230522055926id_/https://apnews.com/article/syria-alqaida-idlib-centcom-f14d831989a7fb9979e57a19ed99d4e5",
+      "text": "AP Top News\n\nU.S. News\n\nWorld NewsLatest on Russia-Ukraine warAfricaAsia PacificAustraliaEuropeLatin AmericaMiddle East\n\nPoliticsPresident BidenCongressSupreme CourtElection 2023\n\nSportsMLBNBA playoffsNHLNFLTennisGolf\n\nEntertainmentFilm reviewsMoviesMusicTelevisionFashion\n\nBusinessU.S. economyFinancial markets\n\nVideos\n\nTechnology\n\nHealthCOVID-19\n\nMoreAP InvestigationsClimate and environmentOdditiesPhotographyTravelScienceAP Fact CheckLifestyleReligionPress Releases\n\nBattle for Bakhmut\n\nDeSantis-Disney dispute\n\nCannes Film Festival\n\nNBA Playoffs\n\nPolitics\n\nSyria\n\nSyria government\n\nMiddle East\n\nUnited States\n\nUS military says it targeted senior al-Qaida leader in Syria\n\nBEIRUT (AP) — The U.S.-led coalition carried out a drone strike Wednesday in northwestern Syria targeting a senior al-Qaida leader, the U.S. military said.\n\nThe Syrian Observatory for Human Rights, an opposition war monitor, said the strike hit a chicken farm near the town of Harem, killing one person. It said the dead man has not been identified yet.\n\nThe strike was the latest of a series of similar attacks over the past years that have killed senior members of the Islamic State group or al-Qaida.\n\nThe U.S. Central Command said that shortly before noon, U.S. forces conducted “a unilateral strike” in northwestern Syria, targeting a senior al-Qaida leader. It added that more information would be provided “as operational details become available.”\n\nU.S. Army Gen. Erik Kurilla, the top U.S. commander for the Middle East said the strike on Wednesday “reaffirms CENTCOM’s steadfast commitment to the region and the enduring defeat” of IS and al-Qaida.\n\nMost of those targeted over the past years had been members of Horas al-Din, which is Arabic for “Guardians of Religion.” The group includes hardcore al-Qaida members who broke away from Hayat Tahrir al-Sham, the strongest al-Qaida-linked militant group in Idlib province.\n\nIn 2017, a U.S. airstrike killed a former aide to Osama bin Laden and al-Qaida’s second in command in Syria, Abu al-Kheir al-Masri.\n\nIdlib is the last major rebel enclave in war-torn Syria."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:40:46+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:40:47+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230522055926id_/https://apnews.com/article/syria-alqaida-idlib-centcom-f14d831989a7fb9979e57a19ed99d4e5"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230522055926id_/https://apnews.com/article/syria-alqaida-idlib-centcom-f14d831989a7fb9979e57a19ed99d4e5",
   "incident_ids": [
     "airwars-89103"
   ],
@@ -85,10 +109,10 @@
     "https://apnews.com/article/syria-alqaida-idlib-centcom-f14d831989a7fb9979e57a19ed99d4e5"
   ],
   "original_url": "https://apnews.com/article/syria-alqaida-idlib-centcom-f14d831989a7fb9979e57a19ed99d4e5",
-  "page_title": "",
+  "page_title": "US military says it targeted senior al-Qaida leader in Syria US military says it targeted senior al-Qaida leader in Syria | AP News",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1992-may-3-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:40:47+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f486e1fc2c9069b38649ae6f",
   "source_type": "news_article",
   "stable_id_basis": "https://apnews.com/article/syria-alqaida-idlib-centcom-f14d831989a7fb9979e57a19ed99d4e5",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "AP Top News\n\nU.S. News\n\nWorld NewsLatest on Russia-Ukraine warAfricaAsia PacificAustraliaEuropeLatin AmericaMiddle East\n\nPoliticsPresident BidenCongressSupreme CourtElection 2023\n\nSportsMLBNBA playoffsNHLNFLTennisGolf\n\nEntertainmentFilm reviewsMoviesMusicTelevisionFashion\n\nBusinessU.S. economyFinancial markets\n\nVideos\n\nTechnology\n\nHealthCOVID-19\n\nMoreAP InvestigationsClimate and environmentOdditiesPhotographyTravelScienceAP Fact CheckLifestyleReligionPress Releases\n\nBattle for Bakhmut\n\nDeSantis-Disney dispute\n\nCannes Film Festival\n\nNBA Playoffs\n\nPolitics\n\nSyria\n\nSyria government\n\nMiddle East\n\nUnited States\n\nUS military says it targeted senior al-Qaida leader in Syria\n\nBEIRUT (AP) — The U.S.-led coalition carried out a drone strike Wednesday in northwestern Syria targeting a senior al-Qaida leader, the U.S. military said.\n\nThe Syrian Observatory for Human Rights, an opposition war monitor, said the strike hit a chicken farm near the town of Harem, killing one person. It said the dead man has not been identified yet.\n\nThe strike was the latest of a series of similar attacks over the past years that have killed senior members of the Islamic State group or al-Qaida.\n\nThe U.S. Central Command said that shortly before noon, U.S. forces conducted “a unilateral strike” in northwestern Syria, targeting a senior al-Qaida leader. It added that more information would be provided “as operational details become available.”\n\nU.S. Army Gen. Erik Kurilla, the top U.S. commander for the Middle East said the strike on Wednesday “reaffirms CENTCOM’s steadfast commitment to the region and the enduring defeat” of IS and al-Qaida.\n\nMost of those targeted over the past years had been members of Horas al-Din, which is Arabic for “Guardians of Religion.” The group includes hardcore al-Qaida members who broke away from Hayat Tahrir al-Sham, the strongest al-Qaida-linked militant group in Idlib province.\n\nIn 2017, a U.S. airstrike killed a former aide to Osama bin Laden and al-Qaida’s second in command in Syria, Abu al-Kheir al-Masri.\n\nIdlib is the last major rebel enclave in war-torn Syria.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/xNuDO"
+    "https://archive.ph/xNuDO",
+    "https://web.archive.org/web/20250211084404id_/https://npasyria.com/186597/?fbclid=IwZXh0bgNhZW0CMTAAAR0nDimiaac-N6NkljXTPxp413AOJMlEIq4PzO7RMw2qhKKKbIw0Ejvrcyg_aem_AUK9O7ZK40_J1pjSpwp95"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "693d92002121be5f4522e7c750e8aff1c8eddfe6c1e97a270e2c333b3c22530a",
+  "content_variants": [
+    {
+      "bytes": 2463,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:15:09+00:00",
+      "sha256": "693d92002121be5f4522e7c750e8aff1c8eddfe6c1e97a270e2c333b3c22530a",
+      "source_url": "https://web.archive.org/web/20250211084404id_/https://npasyria.com/186597/?fbclid=IwZXh0bgNhZW0CMTAAAR0nDimiaac-N6NkljXTPxp413AOJMlEIq4PzO7RMw2qhKKKbIw0Ejvrcyg_aem_AUK9O7ZK40_J1pjSpwp95",
+      "text": "الإدارة الذاتية تندد بقصف تركي أودى بحياة وإصابة أشخاص بريف منبج\n\nقصف تركي لقرية الصيادة بريف منبج – نورث برس\n\nمنبج – نورث برس\n\nنددت الإدارة الذاتية لشمال وشرقي سوريا، الخميس، بقصف تركي استهدف قرىً بريف منبج وأسفر عن فقدان وإصابة عدد من الأشخاص.\n\nوفي وقت سابق اليوم، أعربت هيئة التربية والتعليم بمنبج عن إدانتها الشديدة لهذه الاعتداءات التركية على قرى ومدارس بريف منبج، وناشدت جميع المنظمات الحقوقية والإنسانية وبشكل خاص منظمة حقوق الطفل (اليونيسف) للتدخل بشكل سريع لوقف هذه الاعتداءات ووضع حد لها.\n\nهيئة التربية والتعليم بمنبج: القصف التركي على عدد من القرى أدى لإغلاق المدارس\n\nوقالت الإدارة الذاتية في بيان لها نشرته عبر موقعها الرسمي، إنه “في تصعيد مستمر بهدف زعزعة الاستقرار ورغبة من تركيا في خلق فتنة وهروباً من الأزمة الداخلية التركية يستمر نظام العدالة والتنمية في حربه ضد مناطقنا دون مبرر ولا أي دواعي، حيث يسعى وبكل الإمكانيات النظام المذكور في تأهية ظروف وشروط عودة الفوضى والإرهاب”.\n\nوأوضح البيان أن تركيا والفصائل الموالية لها استهدفت قرىً بريف منبج وقبلها منطقة الشهباء وأسفر هذا العدوان عن فقدان شخص لحياته بالإضافة لإصابة عدة أشخاص بينهم أطفال.\n\nوناشدت الإدارة الذاتية “القوى الحريصة على خفض التصعيد” للتحرك وإبداء مسؤولياتها تجاه المنطقة، مبينةً أن صمتها يقدم بشكلٍ مباشر دعماً معنوياً لتركيا.\n\nكما طالبت الجهات الحقوقية والدولية بالعمل للحد من هذه “الانتهاكات التي تمارسها تركيا ضد السكان في مناطق شمالي سوريا”.\n\nتحرير: سعد اليازجي"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:15:09+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:15:09+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250211084404id_/https://npasyria.com/186597/?fbclid=IwZXh0bgNhZW0CMTAAAR0nDimiaac-N6NkljXTPxp413AOJMlEIq4PzO7RMw2qhKKKbIw0Ejvrcyg_aem_AUK9O7ZK40_J1pjSpwp95"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250211084404id_/https://npasyria.com/186597/?fbclid=IwZXh0bgNhZW0CMTAAAR0nDimiaac-N6NkljXTPxp413AOJMlEIq4PzO7RMw2qhKKKbIw0Ejvrcyg_aem_AUK9O7ZK40_J1pjSpwp95",
   "incident_ids": [
     "airwars-117008"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/186597/?fbclid=IwZXh0bgNhZW0CMTAAAR0nDimiaac-N6NkljXTPxp413AOJMlEIq4PzO7RMw2qhKKKbIw0Ejvrcyg_aem_AUK9O7ZK40_J1pjSpwp95"
   ],
   "original_url": "https://npasyria.com/186597/?fbclid=IwZXh0bgNhZW0CMTAAAR0nDimiaac-N6NkljXTPxp413AOJMlEIq4PzO7RMw2qhKKKbIw0Ejvrcyg_aem_AUK9O7ZK40_J1pjSpwp95",
-  "page_title": "",
+  "page_title": "الإدارة الذاتية تندد بقصف تركي أودى بحياة وإصابة أشخاص بريف منبج الإدارة الذاتية تندد بقصف تركي أودى بحياة وإصابة أشخاص بريف منبج",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts697-may-23-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:15:09+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2027f1859cca06ba325c1be4",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/186597/?fbclid=IwZXh0bgNhZW0CMTAAAR0nDimiaac-N6NkljXTPxp413AOJMlEIq4PzO7RMw2qhKKKbIw0Ejvrcyg_aem_AUK9O7ZK40_J1pjSpwp95",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "الإدارة الذاتية تندد بقصف تركي أودى بحياة وإصابة أشخاص بريف منبج\n\nقصف تركي لقرية الصيادة بريف منبج – نورث برس\n\nمنبج – نورث برس\n\nنددت الإدارة الذاتية لشمال وشرقي سوريا، الخميس، بقصف تركي استهدف قرىً بريف منبج وأسفر عن فقدان وإصابة عدد من الأشخاص.\n\nوفي وقت سابق اليوم، أعربت هيئة التربية والتعليم بمنبج عن إدانتها الشديدة لهذه الاعتداءات التركية على قرى ومدارس بريف منبج، وناشدت جميع المنظمات الحقوقية والإنسانية وبشكل خاص منظمة حقوق الطفل (اليونيسف) للتدخل بشكل سريع لوقف هذه الاعتداءات ووضع حد لها.\n\nهيئة التربية والتعليم بمنبج: القصف التركي على عدد من القرى أدى لإغلاق المدارس\n\nوقالت الإدارة الذاتية في بيان لها نشرته عبر موقعها الرسمي، إنه “في تصعيد مستمر بهدف زعزعة الاستقرار ورغبة من تركيا في خلق فتنة وهروباً من الأزمة الداخلية التركية يستمر نظام العدالة والتنمية في حربه ضد مناطقنا دون مبرر ولا أي دواعي، حيث يسعى وبكل الإمكانيات النظام المذكور في تأهية ظروف وشروط عودة الفوضى والإرهاب”.\n\nوأوضح البيان أن تركيا والفصائل الموالية لها استهدفت قرىً بريف منبج وقبلها منطقة الشهباء وأسفر هذا العدوان عن فقدان شخص لحياته بالإضافة لإصابة عدة أشخاص بينهم أطفال.\n\nوناشدت الإدارة الذاتية “القوى الحريصة على خفض التصعيد” للتحرك وإبداء مسؤولياتها تجاه المنطقة، مبينةً أن صمتها يقدم بشكلٍ مباشر دعماً معنوياً لتركيا.\n\nكما طالبت الجهات الحقوقية والدولية بالعمل للحد من هذه “الانتهاكات التي تمارسها تركيا ضد السكان في مناطق شمالي سوريا”.\n\nتحرير: سعد اليازجي",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

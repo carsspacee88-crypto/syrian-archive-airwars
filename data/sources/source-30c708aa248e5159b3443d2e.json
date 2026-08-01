@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/xtXef"
+    "https://archive.is/xtXef",
+    "https://web.archive.org/web/20220120110637id_/https://twitter.com/ZaitunAgency/status/1484118901642477571"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@ZaitunAgency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "44197ed76c177dd360aa6f4273c79d4d97450de6ea2d3d1815e53a649eb2ac5f",
+  "content_variants": [
+    {
+      "bytes": 383,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:16:03+00:00",
+      "sha256": "44197ed76c177dd360aa6f4273c79d4d97450de6ea2d3d1815e53a649eb2ac5f",
+      "source_url": "https://web.archive.org/web/20220120110637id_/https://twitter.com/ZaitunAgency/status/1484118901642477571",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nمراسل #وكالة_زيتون: جرحى بقصف مدفعي لميليشيا قسد على قرية مريمين في منطقة عفرين بريف حلب الشمالي\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:16:02+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:16:03+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220120110637id_/https://twitter.com/ZaitunAgency/status/1484118901642477571"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220120110637id_/https://twitter.com/ZaitunAgency/status/1484118901642477571",
   "incident_ids": [
     "airwars-81343"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/ZaitunAgency/status/1484118901642477571"
   ],
   "original_url": "https://twitter.com/ZaitunAgency/status/1484118901642477571",
-  "page_title": "",
+  "page_title": "وكالة زيتون الإعلامية - Zaitun Agency on Twitter: \"مراسل #وكالة_زيتون: جرحى بقصف مدفعي لميليشيا قسد على قرية مريمين في منطقة عفرين بريف حلب الشمالي\" وكالة زيتون الإعلامية - Zaitun Agency on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys121-january-20-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:16:03+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-30c708aa248e5159b3443d2e",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/ZaitunAgency/status/1484118901642477571",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nمراسل #وكالة_زيتون: جرحى بقصف مدفعي لميليشيا قسد على قرية مريمين في منطقة عفرين بريف حلب الشمالي\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "und",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

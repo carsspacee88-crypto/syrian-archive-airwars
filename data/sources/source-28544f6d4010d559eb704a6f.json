@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/cHAzz"
+    "https://archive.md/cHAzz",
+    "https://web.archive.org/web/20240814164158id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF-28-11-2021.html?fbclid=IwAR2udvDpnsv2vFiICdjgr1Ys0gPW4PJBGqigxmQq1Uhpp342WREju9EIl3Y"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d09ee4720ea7f31acf85c82833af3277fadfafb8387356c479e09e09131fbcbd",
+  "content_variants": [
+    {
+      "bytes": 2208,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:15:01+00:00",
+      "sha256": "d09ee4720ea7f31acf85c82833af3277fadfafb8387356c479e09e09131fbcbd",
+      "source_url": "https://web.archive.org/web/20240814164158id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF-28-11-2021.html?fbclid=IwAR2udvDpnsv2vFiICdjgr1Ys0gPW4PJBGqigxmQq1Uhpp342WREju9EIl3Y",
+      "text": "حصاد الأحداث الميدانية ليوم الأحد 28-11-2021\n\nحصاد الأحداث الميدانية ليوم الأحد 28-11-2021\n\nحلب::تعرضت قرية كفرتعال بالريف الغربي لقصف مدفعي من قبل قوات الأسد، ما أدى لسقوط شهيد وجرحى في صفوف المدنيين، وردت فصائل الثوار باستهداف معاقل قوات الأسد على محور قرية أورم الكبرى بقذائف المدفعية.\n\nاستهدف الجيش التركي مواقع قوات سوريا الديمقراطية \"قسد\" في قرية عين دقنة بالريف الشمالي بقذائف المدفعية.\n\nإدلب::تعرضت قرى وبلدات كنصفرة والرويحة ومعرزاف ومحيط قرية معارة النعسان لقصف مدفعي من قبل قوات الأسد، وردت فصائل الثوار باستهداف موقع لقوات الأسد على محور قرية حنتوتين بصاروخ موجه.\n\nقام رجل بقتل أطفاله الثلاثة رمياً بالرصاص في مدينة حارم بالريف الغربي.\n\nدرعا::أصيب شخص بجروح إثر إطلاق النار عليه من قبل مسلحين وسط مدينة جاسم بالريف الأوسط.\n\nديرالزور::قُتل شخص برصاص مجهولين يستقلون دراجة نارية في قرية أبو النيتل بالريف الشمالي.\n\nالحسكة::اعتقلت \"قسد\" عدداً من الأطفال الأيتام بعدما شنت حملة مداهمات في القسم الثالث من مخيم الهول بالريف الشرقي.\n\nاغتال مجهولون \"أبو حسن الديري\" قائد لواء شهداء بدر التابع لفرقة الحمزة في الجيش الوطني في مدينة رأس العين بالريف الشمالي.\n\nانفجرت عبوة ناسفة بسيارة عسكرية تابعة لـ \"قسد\" على طريق بلدة الهول بالريف الشرقي.\n\nاعتقلت قوات الأسد ثمانية شبان على حاجز بين الجسرين أمام شركة الكهرباء في مدينة الحسكة."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:15:00+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:15:01+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240814164158id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF-28-11-2021.html?fbclid=IwAR2udvDpnsv2vFiICdjgr1Ys0gPW4PJBGqigxmQq1Uhpp342WREju9EIl3Y"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240814164158id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF-28-11-2021.html?fbclid=IwAR2udvDpnsv2vFiICdjgr1Ys0gPW4PJBGqigxmQq1Uhpp342WREju9EIl3Y",
   "incident_ids": [
     "airwars-80338"
   ],
@@ -85,10 +109,10 @@
     "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF-28-11-2021.html?fbclid=IwAR2udvDpnsv2vFiICdjgr1Ys0gPW4PJBGqigxmQq1Uhpp342WREju9EIl3Y"
   ],
   "original_url": "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF-28-11-2021.html?fbclid=IwAR2udvDpnsv2vFiICdjgr1Ys0gPW4PJBGqigxmQq1Uhpp342WREju9EIl3Y",
-  "page_title": "",
+  "page_title": "حصاد الأحداث الميدانية ليوم الأحد 28-11-2021 | شبكة شام الإخبارية حصاد الأحداث الميدانية ليوم الأحد 28-11-2021 حصاد الأحداث الميدانية ليوم الأحد 28-11-2021",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4674-november-28-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:15:01+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-28544f6d4010d559eb704a6f",
   "source_type": "news_article",
   "stable_id_basis": "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF-28-11-2021.html?fbclid=IwAR2udvDpnsv2vFiICdjgr1Ys0gPW4PJBGqigxmQq1Uhpp342WREju9EIl3Y",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "حصاد الأحداث الميدانية ليوم الأحد 28-11-2021\n\nحصاد الأحداث الميدانية ليوم الأحد 28-11-2021\n\nحلب::تعرضت قرية كفرتعال بالريف الغربي لقصف مدفعي من قبل قوات الأسد، ما أدى لسقوط شهيد وجرحى في صفوف المدنيين، وردت فصائل الثوار باستهداف معاقل قوات الأسد على محور قرية أورم الكبرى بقذائف المدفعية.\n\nاستهدف الجيش التركي مواقع قوات سوريا الديمقراطية \"قسد\" في قرية عين دقنة بالريف الشمالي بقذائف المدفعية.\n\nإدلب::تعرضت قرى وبلدات كنصفرة والرويحة ومعرزاف ومحيط قرية معارة النعسان لقصف مدفعي من قبل قوات الأسد، وردت فصائل الثوار باستهداف موقع لقوات الأسد على محور قرية حنتوتين بصاروخ موجه.\n\nقام رجل بقتل أطفاله الثلاثة رمياً بالرصاص في مدينة حارم بالريف الغربي.\n\nدرعا::أصيب شخص بجروح إثر إطلاق النار عليه من قبل مسلحين وسط مدينة جاسم بالريف الأوسط.\n\nديرالزور::قُتل شخص برصاص مجهولين يستقلون دراجة نارية في قرية أبو النيتل بالريف الشمالي.\n\nالحسكة::اعتقلت \"قسد\" عدداً من الأطفال الأيتام بعدما شنت حملة مداهمات في القسم الثالث من مخيم الهول بالريف الشرقي.\n\nاغتال مجهولون \"أبو حسن الديري\" قائد لواء شهداء بدر التابع لفرقة الحمزة في الجيش الوطني في مدينة رأس العين بالريف الشمالي.\n\nانفجرت عبوة ناسفة بسيارة عسكرية تابعة لـ \"قسد\" على طريق بلدة الهول بالريف الشرقي.\n\nاعتقلت قوات الأسد ثمانية شبان على حاجز بين الجسرين أمام شركة الكهرباء في مدينة الحسكة.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

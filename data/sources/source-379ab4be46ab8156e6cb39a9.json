@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/vUAbk"
+    "https://archive.is/vUAbk",
+    "https://web.archive.org/web/20240524202937id_/https://www.facebook.com/m.a.elhuveydi/posts/pfbid0HU7Jdd2z92GNtczemdj2hdtgGzzGnRpUbTWG4fdj7Xga3r1zvysBRA97taF8nNcwl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Muhammad Amer Al-Huwaidi",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "4111a860daa3469fd3a9a6447e476a6ca431859d9fbcd4ac3ac924cace23b8e4",
+  "content_variants": [
+    {
+      "bytes": 167,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:16:51+00:00",
+      "sha256": "4111a860daa3469fd3a9a6447e476a6ca431859d9fbcd4ac3ac924cace23b8e4",
+      "source_url": "https://web.archive.org/web/20240524202937id_/https://www.facebook.com/m.a.elhuveydi/posts/pfbid0HU7Jdd2z92GNtczemdj2hdtgGzzGnRpUbTWG4fdj7Xga3r1zvysBRA97taF8nNcwl",
+      "text": "الدفاع المدني: إصابات بسبب غارة روسية استهدفت مزرعة لتربية الدواجن في قرية الشخيب غربي إدلب"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:16:50+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:16:51+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524202937id_/https://www.facebook.com/m.a.elhuveydi/posts/pfbid0HU7Jdd2z92GNtczemdj2hdtgGzzGnRpUbTWG4fdj7Xga3r1zvysBRA97taF8nNcwl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524202937id_/https://www.facebook.com/m.a.elhuveydi/posts/pfbid0HU7Jdd2z92GNtczemdj2hdtgGzzGnRpUbTWG4fdj7Xga3r1zvysBRA97taF8nNcwl",
   "incident_ids": [
     "airwars-105937"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/m.a.elhuveydi/posts/pfbid0HU7Jdd2z92GNtczemdj2hdtgGzzGnRpUbTWG4fdj7Xga3r1zvysBRA97taF8nNcwl"
   ],
   "original_url": "https://www.facebook.com/m.a.elhuveydi/posts/pfbid0HU7Jdd2z92GNtczemdj2hdtgGzzGnRpUbTWG4fdj7Xga3r1zvysBRA97taF8nNcwl",
-  "page_title": "",
+  "page_title": "محمد عامر الهويدي محمد عامر الهويدي الدفاع المدني: إصابات بسبب غارة روسية... - محمد عامر الهويدي",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4830-october-6-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:16:51+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-379ab4be46ab8156e6cb39a9",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/m.a.elhuveydi/posts/pfbid0HU7Jdd2z92GNtczemdj2hdtgGzzGnRpUbTWG4fdj7Xga3r1zvysBRA97taF8nNcwl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "الدفاع المدني: إصابات بسبب غارة روسية استهدفت مزرعة لتربية الدواجن في قرية الشخيب غربي إدلب",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

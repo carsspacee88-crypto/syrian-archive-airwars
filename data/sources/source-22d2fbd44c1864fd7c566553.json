@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/xvZru"
+    "https://archive.md/xvZru",
+    "https://web.archive.org/web/20211128032708id_/https://www.jesrpress.com/2021/11/07/%D8%B7%D9%8A%D8%B1%D8%A7%D9%86%D9%8C-%D9%85%D8%AC%D9%87%D9%88%D9%84-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D9%88%D9%8A%D9%88%D9%82%D8%B9-%D9%82%D8%AA%D9%84/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Jesr Press",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1bdd3913a58ac564d704b257091b29e37e5be1c6ece1828b12efb2228466233d",
+  "content_variants": [
+    {
+      "bytes": 1794,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:14:54+00:00",
+      "sha256": "1bdd3913a58ac564d704b257091b29e37e5be1c6ece1828b12efb2228466233d",
+      "source_url": "https://web.archive.org/web/20211128032708id_/https://www.jesrpress.com/2021/11/07/%D8%B7%D9%8A%D8%B1%D8%A7%D9%86%D9%8C-%D9%85%D8%AC%D9%87%D9%88%D9%84-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D9%88%D9%8A%D9%88%D9%82%D8%B9-%D9%82%D8%AA%D9%84/",
+      "text": "طيرانٌ مجهول يستهدف “جرابلس” ويوقع قتلى وجرحى\n\nجسر – ريف حلب\n\nاستهدف طيران استطلاع مجهول مدينة “جرابلس” الخاضعة لسيطرة فصائل “الجيش الوطني” في ريف محافظة حلب الشرقي، بعد ظهر اليوم الأحد 7 تشرين الثاني/ نوفمبر.\n\nوذكرت مصادر محلية، أنّ شخصاً على الأقل قتل وأصيب ثلاثة آخرون، جرّاء استهداف طيران مجهول مكاناً بالقرب من محطة وقود مهجورة في مدينة جرابلس في ريف حلب الشمالي الشرفي بعدة صواريخ.\n\nوفي ذات السياق، ذكرت بعض المصادر، أنّ المستهدفين متهمون بالانتماء لتنظيم “الدولة الإسلامية” (داعش)، وأنّ الطيران الذي أطلق الصواريخ هو طيران تحالف، وذلك بحسب المصادر، ولم يتسن لجسر التأكد من صحة هذه الرواية.\n\nالسابق\n\nمسؤول في “الإدارة الذاتية”: الحوار متوقف كلّياً مع النظام في دمشق\n\nالتالي\n\nأفراح السوريين بالحمار والبذار\n\n“جمارك النظام” تضبط بضائع مهرّبة تعود لكبار التجّار قيمتها 100 مليار\n\nافتتاح جامعة الشرق في الرقة بمشاركة وفد من “الإدارة الذاتية”\n\nزيارة “أحمد العودة” لموسكو تثير جدلاً واسعاً حول صحتها وأهدافها\n\n“نادي الفتوة” يقيم أول مباراة له في دير الزور منذ 9 سنوات بحضور قادة…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:14:53+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:14:54+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211128032708id_/https://www.jesrpress.com/2021/11/07/%D8%B7%D9%8A%D8%B1%D8%A7%D9%86%D9%8C-%D9%85%D8%AC%D9%87%D9%88%D9%84-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D9%88%D9%8A%D9%88%D9%82%D8%B9-%D9%82%D8%AA%D9%84/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211128032708id_/https://www.jesrpress.com/2021/11/07/%D8%B7%D9%8A%D8%B1%D8%A7%D9%86%D9%8C-%D9%85%D8%AC%D9%87%D9%88%D9%84-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D9%88%D9%8A%D9%88%D9%82%D8%B9-%D9%82%D8%AA%D9%84/",
   "incident_ids": [
     "airwars-79890"
   ],
@@ -85,10 +109,10 @@
     "https://www.jesrpress.com/2021/11/07/%d8%b7%d9%8a%d8%b1%d8%a7%d9%86%d9%8c-%d9%85%d8%ac%d9%87%d9%88%d9%84-%d9%8a%d8%b3%d8%aa%d9%87%d8%af%d9%81-%d8%ac%d8%b1%d8%a7%d8%a8%d9%84%d8%b3-%d9%88%d9%8a%d9%88%d9%82%d8%b9-%d9%82%d8%aa%d9%84/"
   ],
   "original_url": "https://www.jesrpress.com/2021/11/07/%d8%b7%d9%8a%d8%b1%d8%a7%d9%86%d9%8c-%d9%85%d8%ac%d9%87%d9%88%d9%84-%d9%8a%d8%b3%d8%aa%d9%87%d8%af%d9%81-%d8%ac%d8%b1%d8%a7%d8%a8%d9%84%d8%b3-%d9%88%d9%8a%d9%88%d9%82%d8%b9-%d9%82%d8%aa%d9%84/",
-  "page_title": "",
+  "page_title": "طيرانٌ مجهول يستهدف \"جرابلس\" ويوقع قتلى وجرحى - صحيفة جسر طيرانٌ مجهول يستهدف \"جرابلس\" ويوقع قتلى وجرحى - صحيفة جسر",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1969-november-7-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:14:54+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-22d2fbd44c1864fd7c566553",
   "source_type": "news_article",
   "stable_id_basis": "https://www.jesrpress.com/2021/11/07/%d8%b7%d9%8a%d8%b1%d8%a7%d9%86%d9%8c-%d9%85%d8%ac%d9%87%d9%88%d9%84-%d9%8a%d8%b3%d8%aa%d9%87%d8%af%d9%81-%d8%ac%d8%b1%d8%a7%d8%a8%d9%84%d8%b3-%d9%88%d9%8a%d9%88%d9%82%d8%b9-%d9%82%d8%aa%d9%84/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "طيرانٌ مجهول يستهدف “جرابلس” ويوقع قتلى وجرحى\n\nجسر – ريف حلب\n\nاستهدف طيران استطلاع مجهول مدينة “جرابلس” الخاضعة لسيطرة فصائل “الجيش الوطني” في ريف محافظة حلب الشرقي، بعد ظهر اليوم الأحد 7 تشرين الثاني/ نوفمبر.\n\nوذكرت مصادر محلية، أنّ شخصاً على الأقل قتل وأصيب ثلاثة آخرون، جرّاء استهداف طيران مجهول مكاناً بالقرب من محطة وقود مهجورة في مدينة جرابلس في ريف حلب الشمالي الشرفي بعدة صواريخ.\n\nوفي ذات السياق، ذكرت بعض المصادر، أنّ المستهدفين متهمون بالانتماء لتنظيم “الدولة الإسلامية” (داعش)، وأنّ الطيران الذي أطلق الصواريخ هو طيران تحالف، وذلك بحسب المصادر، ولم يتسن لجسر التأكد من صحة هذه الرواية.\n\nالسابق\n\nمسؤول في “الإدارة الذاتية”: الحوار متوقف كلّياً مع النظام في دمشق\n\nالتالي\n\nأفراح السوريين بالحمار والبذار\n\n“جمارك النظام” تضبط بضائع مهرّبة تعود لكبار التجّار قيمتها 100 مليار\n\nافتتاح جامعة الشرق في الرقة بمشاركة وفد من “الإدارة الذاتية”\n\nزيارة “أحمد العودة” لموسكو تثير جدلاً واسعاً حول صحتها وأهدافها\n\n“نادي الفتوة” يقيم أول مباراة له في دير الزور منذ 9 سنوات بحضور قادة…",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

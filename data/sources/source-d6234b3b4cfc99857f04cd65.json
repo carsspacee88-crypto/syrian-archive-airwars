@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/aBJHX"
+    "https://archive.md/aBJHX",
+    "https://web.archive.org/web/20211102140305id_/https://twitter.com/feryal222kakhi/status/1455532348427149323"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@feryal222kakhi",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d04ec32e8c14ad71452c8b9eb0e3d212f01a31ce1d3535c0685bec976064bd9b",
+  "content_variants": [
+    {
+      "bytes": 392,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:36:48+00:00",
+      "sha256": "d04ec32e8c14ad71452c8b9eb0e3d212f01a31ce1d3535c0685bec976064bd9b",
+      "source_url": "https://web.archive.org/web/20211102140305id_/https://twitter.com/feryal222kakhi/status/1455532348427149323",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nارتقاء طفلتين جراء انفجار قنبلة يدوية كانتا تلعبان بها في قرية #قرق_مغار بريف مدينة #جرابلس شرقي #حلب.\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:36:46+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:36:48+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211102140305id_/https://twitter.com/feryal222kakhi/status/1455532348427149323"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211102140305id_/https://twitter.com/feryal222kakhi/status/1455532348427149323",
   "incident_ids": [
     "airwars-79967"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/feryal222kakhi/status/1455532348427149323"
   ],
   "original_url": "https://twitter.com/feryal222kakhi/status/1455532348427149323",
-  "page_title": "",
+  "page_title": "فريال كاخي on Twitter: \"ارتقاء طفلتين جراء انفجار قنبلة يدوية كانتا تلعبان بها في قرية #قرق_مغار بريف مدينة #جرابلس شرقي #حلب.\" فريال كاخي on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys119-november-2-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:36:48+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d6234b3b4cfc99857f04cd65",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/feryal222kakhi/status/1455532348427149323",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nارتقاء طفلتين جراء انفجار قنبلة يدوية كانتا تلعبان بها في قرية #قرق_مغار بريف مدينة #جرابلس شرقي #حلب.\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "und",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

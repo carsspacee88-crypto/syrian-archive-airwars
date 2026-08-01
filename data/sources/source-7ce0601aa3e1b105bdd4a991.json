@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20260308180319id_/https://responsiblestatecraft.org/2021/12/07/we-cant-trust-the-us-military-to-investigate-civilian-casualties/"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Responsible Statecraft",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "602a071667b2969bd910044c2e39ce8761449e5ae89b7ada165c0f63683478b4",
+  "content_variants": [
+    {
+      "bytes": 5768,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:25:23+00:00",
+      "sha256": "602a071667b2969bd910044c2e39ce8761449e5ae89b7ada165c0f63683478b4",
+      "source_url": "https://web.archive.org/web/20260308180319id_/https://responsiblestatecraft.org/2021/12/07/we-cant-trust-the-us-military-to-investigate-civilian-casualties/",
+      "text": "U.S. Central Command reported late on Friday a U.S. drone strike in Idlib, Syria against a senior member of al-Qaida, rather than against a member of the self-described Islamic State — the ostensible legal justification the United States is even in Syria. Even more interestingly, CENTCOM claimed it “immediately self-reported” one civilian casualty that it is investigating.\n\nBut U.S. policymakers should not defer to the military’s investigatory promises given its history of covering up or not sufficiently accounting for civilian casualties. In fact, the Associated Press has since reported that the strike wounded a family of 6, including a 10-year-old child.\n\nWith such “over-the-horizon” strikes likely to become a key component of Team Biden’s rebranded counterterrorism strategy, the national security committees in Congress have a duty to comprehensively review and interrogate the strategic and human costs of this approach.\n\nThis latest strike, rather than a one off, appears to be part of a pattern of drone attacks in Idlib in spite of the administration's claimed moratorium on drone strikes during its counterterrorism review. In late September, military officials revealed it had carried out a drone strike in the province earlier that month against another alleged member of al-Qaida, while claiming no civilian casualties.\n\nIt’s no coincidence the CENTCOM appears to have proactively taken responsibility for this latest civilian casualty. This incident came at the end of a week of rightful public uproar after the New York Times revealed the U.S. military’s apparent cover up of an airstrike killing 80 civilians in eastern Syria in 2019. Rather than allowing more exhaustive investigative journalism to uncover its destructive and deadly actions in Syria, it appears CENTCOM is hoping that announcing an investigation will stave off an intense media frenzy like the one following its botched August 29 drone strike in Kabul during the withdrawal from Afghanistan that killed Zemari Ahmadi, a civilian electrical engineer, and his family.\n\nWhat’s new about Friday’s Idlib strike is not that the United States is droning Syria and killing civilians without congressional authorization; it’s that the U.S. military is now openly engaging a region of Syria — one that’s the last stronghold of armed resistance to the Assad regime — that it had previously avoided outside of one-off strikes, due to the risk of entanglement in the broader Syrian conflict. The quick succession of these strikes appears to be a quiet expansion of the U.S. forever wars, and an apparent reflection of this president’s desire to make our endless wars primarily remote-controlled moving forward.\n\nYou’d be forgiven if you had forgotten the United States is in Syria at all. There is no affirmative congressional authorization for U.S. military operations in Syria despite the United States bombing the country and occupying portions of it since late 2014. After it became clear that he could not get authorization for the use of military force against IS due to congressional opposition, then-President Obama invoked the then-13-year-old 2001 AUMF (passed to invade Afghanistan in 2001).\n\nAs the U.S.-led airstrike campaign transitioned into a broader train, equip, and occupy parts of eastern Syria, the United States continued drone strikes in the country. Without any domestic or international legal justification, the United States has been at war with a variety of adversaries in Syria: IS, Iranian and Hezbollah forces, Russian-hired mercenaries, and the Syrian military, not to mention its mission…for a hot minute…to “secure the oil.”\n\nFor years, #endendless war advocates like myself have feared the expansion of the U.S.war in Syria to the rest of the country — particularly if war powers champions in Congress did little to challenge multiple administrations’ made-up legal concept of al-Qaida’s associated forces in the 2001 AUMF and dubiously-broad collective self-defense doctrines. That’s what we’re seeing happen today, and yet another administration is once again risking sleepwalking into more endless war and the associated human costs.\n\nCongress shouldn’t let them get away with it, and instead seize the opportunity to launch its own inquiry into U.S.-caused civilian harm in Syria — something Senator Elizabeth Warren, who is on the Senate Armed Services Committee, has already called for with regard to the 2019 Baghuz strike cover-up exposed by the Times. That inquiry should not just be limited to one strike, however, but instead cover the entire U.S. air campaign in Syria following the rise of IS, and include all of “the uncounted” who have yet to be officially acknowledged, let alone receive justice.\n\nCongress should make the U.S. military publicly refute credible evidence of hundreds of unclaimed civilian casualties caused by the United States and U.S. supported forces since the start of the Syrian war. It should review whether airstrikes there met the requirements of the laws of war, and if flattening residential areas was actually justified by the perceived threat or military objective. It should also seek to understand whether and with what frequency (if any) the United States has offered or given ex gratia or condolence payments to families it has harmed.\n\nPerhaps most importantly, Congress must question whether the U.S. military’s strategy of decapitation to undermine the power of non-state armed groups even works. The reality is that the U.S. military campaign in Syria — from arming the very armed groups it is ostensibly at war with, to its massive undercounting and denial of civilian casualties — has been a dismal display of illegality and failure."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:25:22+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:25:23+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260308180319id_/https://responsiblestatecraft.org/2021/12/07/we-cant-trust-the-us-military-to-investigate-civilian-casualties/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260308180319id_/https://responsiblestatecraft.org/2021/12/07/we-cant-trust-the-us-military-to-investigate-civilian-casualties/",
   "incident_ids": [
     "airwars-80506"
   ],
@@ -55,10 +80,10 @@
     "https://responsiblestatecraft.org/2021/12/07/we-cant-trust-the-us-military-to-investigate-civilian-casualties/"
   ],
   "original_url": "https://responsiblestatecraft.org/2021/12/07/we-cant-trust-the-us-military-to-investigate-civilian-casualties/",
-  "page_title": "",
+  "page_title": "We can't trust the US military to investigate civilian casualties We can't trust the US military to investigate civilian casualties | Responsible Statecraft",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1973-december-3-2021/",
@@ -78,16 +103,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:25:23+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7ce0601aa3e1b105bdd4a991",
   "source_type": "other_web_page",
   "stable_id_basis": "https://responsiblestatecraft.org/2021/12/07/we-cant-trust-the-us-military-to-investigate-civilian-casualties/",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "und",
+  "text_original": "U.S. Central Command reported late on Friday a U.S. drone strike in Idlib, Syria against a senior member of al-Qaida, rather than against a member of the self-described Islamic State — the ostensible legal justification the United States is even in Syria. Even more interestingly, CENTCOM claimed it “immediately self-reported” one civilian casualty that it is investigating.\n\nBut U.S. policymakers should not defer to the military’s investigatory promises given its history of covering up or not sufficiently accounting for civilian casualties. In fact, the Associated Press has since reported that the strike wounded a family of 6, including a 10-year-old child.\n\nWith such “over-the-horizon” strikes likely to become a key component of Team Biden’s rebranded counterterrorism strategy, the national security committees in Congress have a duty to comprehensively review and interrogate the strategic and human costs of this approach.\n\nThis latest strike, rather than a one off, appears to be part of a pattern of drone attacks in Idlib in spite of the administration's claimed moratorium on drone strikes during its counterterrorism review. In late September, military officials revealed it had carried out a drone strike in the province earlier that month against another alleged member of al-Qaida, while claiming no civilian casualties.\n\nIt’s no coincidence the CENTCOM appears to have proactively taken responsibility for this latest civilian casualty. This incident came at the end of a week of rightful public uproar after the New York Times revealed the U.S. military’s apparent cover up of an airstrike killing 80 civilians in eastern Syria in 2019. Rather than allowing more exhaustive investigative journalism to uncover its destructive and deadly actions in Syria, it appears CENTCOM is hoping that announcing an investigation will stave off an intense media frenzy like the one following its botched August 29 drone strike in Kabul during the withdrawal from Afghanistan that killed Zemari Ahmadi, a civilian electrical engineer, and his family.\n\nWhat’s new about Friday’s Idlib strike is not that the United States is droning Syria and killing civilians without congressional authorization; it’s that the U.S. military is now openly engaging a region of Syria — one that’s the last stronghold of armed resistance to the Assad regime — that it had previously avoided outside of one-off strikes, due to the risk of entanglement in the broader Syrian conflict. The quick succession of these strikes appears to be a quiet expansion of the U.S. forever wars, and an apparent reflection of this president’s desire to make our endless wars primarily remote-controlled moving forward.\n\nYou’d be forgiven if you had forgotten the United States is in Syria at all. There is no affirmative congressional authorization for U.S. military operations in Syria despite the United States bombing the country and occupying portions of it since late 2014. After it became clear that he could not get authorization for the use of military force against IS due to congressional opposition, then-President Obama invoked the then-13-year-old 2001 AUMF (passed to invade Afghanistan in 2001).\n\nAs the U.S.-led airstrike campaign transitioned into a broader train, equip, and occupy parts of eastern Syria, the United States continued drone strikes in the country. Without any domestic or international legal justification, the United States has been at war with a variety of adversaries in Syria: IS, Iranian and Hezbollah forces, Russian-hired mercenaries, and the Syrian military, not to mention its mission…for a hot minute…to “secure the oil.”\n\nFor years, #endendless war advocates like myself have feared the expansion of the U.S.war in Syria to the rest of the country — particularly if war powers champions in Congress did little to challenge multiple administrations’ made-up legal concept of al-Qaida’s associated forces in the 2001 AUMF and dubiously-broad collective self-defense doctrines. That’s what we’re seeing happen today, and yet another administration is once again risking sleepwalking into more endless war and the associated human costs.\n\nCongress shouldn’t let them get away with it, and instead seize the opportunity to launch its own inquiry into U.S.-caused civilian harm in Syria — something Senator Elizabeth Warren, who is on the Senate Armed Services Committee, has already called for with regard to the 2019 Baghuz strike cover-up exposed by the Times. That inquiry should not just be limited to one strike, however, but instead cover the entire U.S. air campaign in Syria following the rise of IS, and include all of “the uncounted” who have yet to be officially acknowledged, let alone receive justice.\n\nCongress should make the U.S. military publicly refute credible evidence of hundreds of unclaimed civilian casualties caused by the United States and U.S. supported forces since the start of the Syrian war. It should review whether airstrikes there met the requirements of the laws of war, and if flattening residential areas was actually justified by the perceived threat or military objective. It should also seek to understand whether and with what frequency (if any) the United States has offered or given ex gratia or condolence payments to families it has harmed.\n\nPerhaps most importantly, Congress must question whether the U.S. military’s strategy of decapitation to undermine the power of non-state armed groups even works. The reality is that the U.S. military campaign in Syria — from arming the very armed groups it is ostensibly at war with, to its massive undercounting and denial of civilian casualties — has been a dismal display of illegality and failure.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

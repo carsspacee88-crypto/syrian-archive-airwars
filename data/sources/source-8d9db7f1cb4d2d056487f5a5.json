@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/xB9P4"
+    "https://archive.is/xB9P4",
+    "https://web.archive.org/web/20250119132733id_/https://news.snhr.org/2022/08/15/a-child-was-killed-on-august-15-due-to-the-explosion-of-remnants-left-by-previous-shelling-in-western-hama/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Network for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a06f80b9b3800871e9c6edbbd1a2c10fe2705992643c3bdc5d04ba3d913d66a4",
+  "content_variants": [
+    {
+      "bytes": 1473,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:29:08+00:00",
+      "sha256": "a06f80b9b3800871e9c6edbbd1a2c10fe2705992643c3bdc5d04ba3d913d66a4",
+      "source_url": "https://web.archive.org/web/20250119132733id_/https://news.snhr.org/2022/08/15/a-child-was-killed-on-august-15-due-to-the-explosion-of-remnants-left-by-previous-shelling-in-western-hama/",
+      "text": "Date:\n\nA child was killed on August 15 due to the explosion of remnants left by previous shelling in western Hama\n\nRelated News\n\nBoy named Hammoud al-Iliwi killed in a drone attack believed to be by the US-led International Coalition forces in N. Idlib, January 15, 2025\n\nMan named Omar Darwish killed in a suspected Turkish drone attack in E. Aleppo, January 15, 2025\n\nMan named Zakkour al-Fouzi killed by a landmine of unidentified source in W. Deir Ez-Zour, January 15, 2025\n\nThe child Abdul Wahab Hasan al Henawi from Qastoun village in western Hama governorate, was killed on August 15, 2022, due to the explosion of munition remnants left by previous shelling, which he found when searching for scraps to sell near his family home in the village, which is controlled by the Syrian regime forces.\n\nSNHR notes that weapons remnants continue to pose a serious threat to civilians, and has issued a large number of reports on cluster munitions and other weapons remnants, calling for special equipment to help the local residents remove all kinds of explosive devices.\n\nSNHR has regularly documented the Syrian regime’s use of personal landmines that will continue to constitute a severe threat to the population of these areas in years to come, especially to children. We’ve documented hundreds of deaths and injuries as a result of cluster munition explosions and the international community must intervene to protect civilians in Syria from the continuing killing."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:29:07+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:29:08+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250119132733id_/https://news.snhr.org/2022/08/15/a-child-was-killed-on-august-15-due-to-the-explosion-of-remnants-left-by-previous-shelling-in-western-hama/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250119132733id_/https://news.snhr.org/2022/08/15/a-child-was-killed-on-august-15-due-to-the-explosion-of-remnants-left-by-previous-shelling-in-western-hama/",
   "incident_ids": [
     "airwars-84569"
   ],
@@ -85,10 +109,10 @@
     "https://news.snhr.org/2022/08/15/a-child-was-killed-on-august-15-due-to-the-explosion-of-remnants-left-by-previous-shelling-in-western-hama/"
   ],
   "original_url": "https://news.snhr.org/2022/08/15/a-child-was-killed-on-august-15-due-to-the-explosion-of-remnants-left-by-previous-shelling-in-western-hama/",
-  "page_title": "",
+  "page_title": "A child was killed on August 15 due to the explosion of remnants left by previous shelling in western Hama A child was killed on August 15 due to the explosion of remnants left by previous shelling in western Hama A child was killed on August 15 due to the explosion of remnants left by previous shelling in western Hama",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4712-august-15-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:29:08+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-8d9db7f1cb4d2d056487f5a5",
   "source_type": "news_article",
   "stable_id_basis": "https://news.snhr.org/2022/08/15/a-child-was-killed-on-august-15-due-to-the-explosion-of-remnants-left-by-previous-shelling-in-western-hama/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Date:\n\nA child was killed on August 15 due to the explosion of remnants left by previous shelling in western Hama\n\nRelated News\n\nBoy named Hammoud al-Iliwi killed in a drone attack believed to be by the US-led International Coalition forces in N. Idlib, January 15, 2025\n\nMan named Omar Darwish killed in a suspected Turkish drone attack in E. Aleppo, January 15, 2025\n\nMan named Zakkour al-Fouzi killed by a landmine of unidentified source in W. Deir Ez-Zour, January 15, 2025\n\nThe child Abdul Wahab Hasan al Henawi from Qastoun village in western Hama governorate, was killed on August 15, 2022, due to the explosion of munition remnants left by previous shelling, which he found when searching for scraps to sell near his family home in the village, which is controlled by the Syrian regime forces.\n\nSNHR notes that weapons remnants continue to pose a serious threat to civilians, and has issued a large number of reports on cluster munitions and other weapons remnants, calling for special equipment to help the local residents remove all kinds of explosive devices.\n\nSNHR has regularly documented the Syrian regime’s use of personal landmines that will continue to constitute a severe threat to the population of these areas in years to come, especially to children. We’ve documented hundreds of deaths and injuries as a result of cluster munition explosions and the international community must intervene to protect civilians in Syria from the continuing killing.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/6H1H5"
+    "https://archive.ph/6H1H5",
+    "https://web.archive.org/web/20260405193941id_/https://www.nbcnews.com/news/female-kurdish-commander-saved-american-lives-killed-turkish-drone-str-rcna40354"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "NBC News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0ba84f3ff92715b5d0436d22cf79f291ec899002ecf4901e9a4ccc6453d3dec9",
+  "content_variants": [
+    {
+      "bytes": 4285,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:17:38+00:00",
+      "sha256": "0ba84f3ff92715b5d0436d22cf79f291ec899002ecf4901e9a4ccc6453d3dec9",
+      "source_url": "https://web.archive.org/web/20260405193941id_/https://www.nbcnews.com/news/female-kurdish-commander-saved-american-lives-killed-turkish-drone-str-rcna40354",
+      "text": "A renowned female commander of the Kurdish opposition forces in Syria, credited by the U.S. military with saving American lives in the battle against ISIS, has been killed by a Turkish drone strike, according to two defense officials.\n\nSubscribe to read this story ad-free\n\nGet unlimited access to ad-free articles and exclusive content.\n\nSalwa Yusuk, a deputy commander of the U.S.-backed Syrian Democratic Forces (SDF), was among three female SDF fighters killed in the strike last Friday, the officials said.\n\nYusuk, also known as Ciyan Afrin and Gian Tolhildan, had gained a reputation for her courage on the battlefield, her organization of women in the military and her astute military planning over the last 10 years.\n\nSalwa Yusuk.@CENTCOM via Twitter\n\n“There is no doubt she saved American lives on the battlefield,” said a U.S. military official who requested anonymity because of the sensitivity of the situation.\n\nYusuk and the two other SDF fighters — Joana Hisso, 30, also known as Roj Khabur, and Ruha Bashar, 19, also known as Barin Botan — were killed near Qamishli, Syria, when the car they were traveling in was targeted by a Turkish drone, the defense officials said. Yusuk was about 42 years old, according to a statement by the SDF.\n\nIn a tweet, U.S. Central Command called Yusuk “a critical SDF leader who led forces in combat vs ISIS since the height of the fight to defeat the vile ideology in NE Syria in 2017.”\n\nThe attack comes as Pentagon leaders are increasingly concerned about a possible Turkish invasion of northern Syria.\n\nPentagon leaders worry that a Turkish military movement into Syria could force the SDF to defend against the Turkish troops.\n\nThe SDF is the U.S. partner force in northern Syria.\n\nRuha Bashar.SDF General Command\n\nOn Monday Secretary of Defense Lloyd Austin spoke by phone with his Turkish counterpart, Hulusi Akar. Austin impressed upon Akar the “importance of maintaining stability in Syria,” according to acting Pentagon press secretary Todd Breasseale.\n\nReached for comment about the killing of Yusuk and the two other SDF fighters, a representative of the Turkish Embassy referred to previous comments by Turkish President Recep Tayyip Erdogan, in which he condemned U.S. support for the SDF, calling them terrorists, and alleged that the deceased Syrian opposition fighters were recruiting children into two groups he considers terrorist organizations, the PKK and YPG.\n\nThe YPG have been on the front lines in the fight against ISIS, but Erdogan views the group as equivalent to PKK Kurdish separatists, who are blamed for attacks inside Turkey.\n\n“The U.S. will eventually fall into a pit of its own making due to its cooperation with the terrorist organization,” YPG and PKK, Erdogan said Tuesday, according to the Turkish state-run Anadolu Agency.\n\nJoana Hisso.SDF General Command\n\nTurkey “has been resolutely defending her national security against threats emanating from the PKK/YPG terrorist organization and its syndicate and Syria branch, the so-called ‘SDF,’” the representative of the Turkish Embassy added in an email to NBC News.\n\nU.S. defense officials believe Yusuk was the target of the strike and warn that other senior SDF leaders could also be targeted by the Turkish military as tensions between the two sides continue to build.\n\nIn a statement, the SDF said the Turkish military is launching “brutal attacks” on a daily basis with various weapons and vowed to defend their land and avenge the death of the three fighters.\n\n“We will not remain silent in the face of any threat to our people and our land, and our response will be by defeating the occupation and bringing the freedom of Rojava, north and eastern Syria,” the SDF said.\n\nYusuk has been fighting with the Syrian opposition forces for about a decade, according to the SDF. In addition to fighting against ISIS, she helped establish the Women’s Protection units known as the YPJ and lead the counter-terrorism units, according to the SDF.\n\n“We pledge to retaliate for our martyrs,” the SDF, adding that it will exact revenge against “the enemies of freedom and women’s revolution.”\n\nCourtney Kube is a correspondent covering national security and the military for the NBC News Investigative Unit."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:17:38+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:17:38+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260405193941id_/https://www.nbcnews.com/news/female-kurdish-commander-saved-american-lives-killed-turkish-drone-str-rcna40354"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260405193941id_/https://www.nbcnews.com/news/female-kurdish-commander-saved-american-lives-killed-turkish-drone-str-rcna40354",
   "incident_ids": [
     "airwars-84137"
   ],
@@ -85,10 +109,10 @@
     "https://www.nbcnews.com/news/female-kurdish-commander-saved-american-lives-killed-turkish-drone-str-rcna40354"
   ],
   "original_url": "https://www.nbcnews.com/news/female-kurdish-commander-saved-american-lives-killed-turkish-drone-str-rcna40354",
-  "page_title": "",
+  "page_title": "Female Kurdish commander who ‘saved American lives’ killed by Turkish drone strike Female Kurdish commander who ‘saved American lives’ killed by Turkish drone strike Female Kurdish commander who ‘saved American lives’ killed by Turkish drone strike NBC News Logo Search Search NBC News Logo Today Logo",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts528-july-22-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:17:38+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-3a72d6b81a256f0569f5ba96",
   "source_type": "news_article",
   "stable_id_basis": "https://www.nbcnews.com/news/female-kurdish-commander-saved-american-lives-killed-turkish-drone-str-rcna40354",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "A renowned female commander of the Kurdish opposition forces in Syria, credited by the U.S. military with saving American lives in the battle against ISIS, has been killed by a Turkish drone strike, according to two defense officials.\n\nSubscribe to read this story ad-free\n\nGet unlimited access to ad-free articles and exclusive content.\n\nSalwa Yusuk, a deputy commander of the U.S.-backed Syrian Democratic Forces (SDF), was among three female SDF fighters killed in the strike last Friday, the officials said.\n\nYusuk, also known as Ciyan Afrin and Gian Tolhildan, had gained a reputation for her courage on the battlefield, her organization of women in the military and her astute military planning over the last 10 years.\n\nSalwa Yusuk.@CENTCOM via Twitter\n\n“There is no doubt she saved American lives on the battlefield,” said a U.S. military official who requested anonymity because of the sensitivity of the situation.\n\nYusuk and the two other SDF fighters — Joana Hisso, 30, also known as Roj Khabur, and Ruha Bashar, 19, also known as Barin Botan — were killed near Qamishli, Syria, when the car they were traveling in was targeted by a Turkish drone, the defense officials said. Yusuk was about 42 years old, according to a statement by the SDF.\n\nIn a tweet, U.S. Central Command called Yusuk “a critical SDF leader who led forces in combat vs ISIS since the height of the fight to defeat the vile ideology in NE Syria in 2017.”\n\nThe attack comes as Pentagon leaders are increasingly concerned about a possible Turkish invasion of northern Syria.\n\nPentagon leaders worry that a Turkish military movement into Syria could force the SDF to defend against the Turkish troops.\n\nThe SDF is the U.S. partner force in northern Syria.\n\nRuha Bashar.SDF General Command\n\nOn Monday Secretary of Defense Lloyd Austin spoke by phone with his Turkish counterpart, Hulusi Akar. Austin impressed upon Akar the “importance of maintaining stability in Syria,” according to acting Pentagon press secretary Todd Breasseale.\n\nReached for comment about the killing of Yusuk and the two other SDF fighters, a representative of the Turkish Embassy referred to previous comments by Turkish President Recep Tayyip Erdogan, in which he condemned U.S. support for the SDF, calling them terrorists, and alleged that the deceased Syrian opposition fighters were recruiting children into two groups he considers terrorist organizations, the PKK and YPG.\n\nThe YPG have been on the front lines in the fight against ISIS, but Erdogan views the group as equivalent to PKK Kurdish separatists, who are blamed for attacks inside Turkey.\n\n“The U.S. will eventually fall into a pit of its own making due to its cooperation with the terrorist organization,” YPG and PKK, Erdogan said Tuesday, according to the Turkish state-run Anadolu Agency.\n\nJoana Hisso.SDF General Command\n\nTurkey “has been resolutely defending her national security against threats emanating from the PKK/YPG terrorist organization and its syndicate and Syria branch, the so-called ‘SDF,’” the representative of the Turkish Embassy added in an email to NBC News.\n\nU.S. defense officials believe Yusuk was the target of the strike and warn that other senior SDF leaders could also be targeted by the Turkish military as tensions between the two sides continue to build.\n\nIn a statement, the SDF said the Turkish military is launching “brutal attacks” on a daily basis with various weapons and vowed to defend their land and avenge the death of the three fighters.\n\n“We will not remain silent in the face of any threat to our people and our land, and our response will be by defeating the occupation and bringing the freedom of Rojava, north and eastern Syria,” the SDF said.\n\nYusuk has been fighting with the Syrian opposition forces for about a decade, according to the SDF. In addition to fighting against ISIS, she helped establish the Women’s Protection units known as the YPJ and lead the counter-terrorism units, according to the SDF.\n\n“We pledge to retaliate for our martyrs,” the SDF, adding that it will exact revenge against “the enemies of freedom and women’s revolution.”\n\nCourtney Kube is a correspondent covering national security and the military for the NBC News Investigative Unit.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],
