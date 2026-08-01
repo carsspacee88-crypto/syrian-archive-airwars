@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/CIUIO"
+    "https://archive.is/CIUIO",
+    "https://web.archive.org/web/20240515103604id_/https://www.facebook.com/watch/?v=321830653991992"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Omran Shnan",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "4555b96cd55861b45b93ae1b65fc3986004588cd99df94cd88dac3122d98e410",
+  "content_variants": [
+    {
+      "bytes": 144,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:29:29+00:00",
+      "sha256": "4555b96cd55861b45b93ae1b65fc3986004588cd99df94cd88dac3122d98e410",
+      "source_url": "https://web.archive.org/web/20240515103604id_/https://www.facebook.com/watch/?v=321830653991992",
+      "text": "Video is the place to enjoy videos and shows together. Watch the latest reels, discover original shows and catch up with your favorite creators."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:29:27+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:29:29+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515103604id_/https://www.facebook.com/watch/?v=321830653991992"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515103604id_/https://www.facebook.com/watch/?v=321830653991992",
   "incident_ids": [
     "airwars-96512"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/watch/?v=321830653991992"
   ],
   "original_url": "https://www.facebook.com/watch/?v=321830653991992",
-  "page_title": "",
+  "page_title": "Discover Popular Videos | Facebook Discover Popular Videos | Facebook Video Facebook",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4866-november-25-2023/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:29:29+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-8e363bcc4afba98f94ee9d35",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/watch/?v=321830653991992",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Video is the place to enjoy videos and shows together. Watch the latest reels, discover original shows and catch up with your favorite creators.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

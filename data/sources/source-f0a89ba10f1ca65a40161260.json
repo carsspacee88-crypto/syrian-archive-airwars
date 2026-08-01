@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/dgwQo"
+    "https://archive.is/dgwQo",
+    "https://web.archive.org/web/20240525024609id_/https://www.facebook.com/syrtelevision/posts/pfbid02jFJZhta9B1nkoYarAswVGUKcbjNJaJcrz23YBYTE7B5WEiU2WfExcqYpuLY28DpHl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syria_TV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2e9f9570d8bd9370ca2610f5174c0c0883820427e987ea453be6eef5798eb54d",
+  "content_variants": [
+    {
+      "bytes": 572,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:39:38+00:00",
+      "sha256": "2e9f9570d8bd9370ca2610f5174c0c0883820427e987ea453be6eef5798eb54d",
+      "source_url": "https://web.archive.org/web/20240525024609id_/https://www.facebook.com/syrtelevision/posts/pfbid02jFJZhta9B1nkoYarAswVGUKcbjNJaJcrz23YBYTE7B5WEiU2WfExcqYpuLY28DpHl",
+      "text": "#عاجل | الدفاع المدني: وفاة طفل متأثرا بإصابته من جراء الغارات الجوية الروسية التي استهدفت قرية جفتلك حج حمود في ريف #إدلب\n#تلفزيون_سوريا\nWARNING: This...\n\n#عاجل | الدفاع المدني: وفاة طفل متأثرا بإصابته من جراء الغارات الجوية الروسية التي استهدفت قرية جفتلك حج حمود في ريف #إدلب\n#تلفزيون_سوريا\nWARNING: This article contains graphic content and may be..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:39:37+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:39:38+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525024609id_/https://www.facebook.com/syrtelevision/posts/pfbid02jFJZhta9B1nkoYarAswVGUKcbjNJaJcrz23YBYTE7B5WEiU2WfExcqYpuLY28DpHl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525024609id_/https://www.facebook.com/syrtelevision/posts/pfbid02jFJZhta9B1nkoYarAswVGUKcbjNJaJcrz23YBYTE7B5WEiU2WfExcqYpuLY28DpHl",
   "incident_ids": [
     "airwars-105906"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/syrtelevision/posts/pfbid02jFJZhta9B1nkoYarAswVGUKcbjNJaJcrz23YBYTE7B5WEiU2WfExcqYpuLY28DpHl"
   ],
   "original_url": "https://www.facebook.com/syrtelevision/posts/pfbid02jFJZhta9B1nkoYarAswVGUKcbjNJaJcrz23YBYTE7B5WEiU2WfExcqYpuLY28DpHl",
-  "page_title": "",
+  "page_title": "Syria TV تلفزيون سوريا Syria TV تلفزيون سوريا #عاجل | الدفاع المدني: وفاة طفل... - Syria TV تلفزيون سوريا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4829-october-6-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:39:38+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f0a89ba10f1ca65a40161260",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/syrtelevision/posts/pfbid02jFJZhta9B1nkoYarAswVGUKcbjNJaJcrz23YBYTE7B5WEiU2WfExcqYpuLY28DpHl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#عاجل | الدفاع المدني: وفاة طفل متأثرا بإصابته من جراء الغارات الجوية الروسية التي استهدفت قرية جفتلك حج حمود في ريف #إدلب\n#تلفزيون_سوريا\nWARNING: This...\n\n#عاجل | الدفاع المدني: وفاة طفل متأثرا بإصابته من جراء الغارات الجوية الروسية التي استهدفت قرية جفتلك حج حمود في ريف #إدلب\n#تلفزيون_سوريا\nWARNING: This article contains graphic content and may be...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

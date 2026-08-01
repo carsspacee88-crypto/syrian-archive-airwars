@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/7ivQq"
+    "https://archive.md/7ivQq",
+    "https://web.archive.org/web/20211213152722id_/https://twitter.com/newsalmasirahne/status/1470413728134877194"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@newsalmasirahne",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ecb3c1d00245516947440c5601d72f8baceeaea6b79e3f6900b7fcd5502d437b",
+  "content_variants": [
+    {
+      "bytes": 453,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:25:30+00:00",
+      "sha256": "ecb3c1d00245516947440c5601d72f8baceeaea6b79e3f6900b7fcd5502d437b",
+      "source_url": "https://web.archive.org/web/20211213152722id_/https://twitter.com/newsalmasirahne/status/1470413728134877194",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nوكالة سانا: طائرات الاحتلال الأمريكي تنفذ فجر اليوم عملية إنزال جوي واسعة في مدينة البصيرة شرق دير الزور وتختطف عدداً من المدنيين\n\n1 Like\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:25:29+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:25:30+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211213152722id_/https://twitter.com/newsalmasirahne/status/1470413728134877194"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211213152722id_/https://twitter.com/newsalmasirahne/status/1470413728134877194",
   "incident_ids": [
     "airwars-80656"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/newsalmasirahne/status/1470413728134877194"
   ],
   "original_url": "https://twitter.com/newsalmasirahne/status/1470413728134877194",
-  "page_title": "",
+  "page_title": "محمّد فايع on Twitter: \"وكالة سانا: طائرات الاحتلال الأمريكي تنفذ فجر اليوم عملية إنزال جوي واسعة في مدينة البصيرة شرق دير الزور وتختطف عدداً من المدنيين\" محمّد فايع on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1974-december-12-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:25:30+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-58832ff372380695c5d9f6da",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/newsalmasirahne/status/1470413728134877194",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nوكالة سانا: طائرات الاحتلال الأمريكي تنفذ فجر اليوم عملية إنزال جوي واسعة في مدينة البصيرة شرق دير الزور وتختطف عدداً من المدنيين\n\n1 Like\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

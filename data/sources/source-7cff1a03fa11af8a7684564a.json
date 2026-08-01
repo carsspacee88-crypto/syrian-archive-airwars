@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/LZRSU"
+    "https://archive.is/LZRSU",
+    "https://web.archive.org/web/20240523194704id_/https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D9%85%D9%82%D8%AA%D9%84-%D9%85%D8%AF%D9%86%D9%8A-%D8%A5%D8%AB%D8%B1-%D9%87%D8%AC%D9%88%D9%85-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%B9%D9%84%D9%89-%D8%BA%D8%B1%D8%A8-%D8%AD%D9%84%D8%A8-/2843120"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Al Araby",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "85ef6153eeaa564ed56bf2a47d6588e90bbbb86b493b48450cc502cec5e5c6eb",
+  "content_variants": [
+    {
+      "bytes": 1567,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:27:22+00:00",
+      "sha256": "85ef6153eeaa564ed56bf2a47d6588e90bbbb86b493b48450cc502cec5e5c6eb",
+      "source_url": "https://web.archive.org/web/20240523194704id_/https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D9%85%D9%82%D8%AA%D9%84-%D9%85%D8%AF%D9%86%D9%8A-%D8%A5%D8%AB%D8%B1-%D9%87%D8%AC%D9%88%D9%85-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%B9%D9%84%D9%89-%D8%BA%D8%B1%D8%A8-%D8%AD%D9%84%D8%A8-/2843120",
+      "text": "مقتل مدني إثر هجوم للنظام السوري على غرب حلب\n\nإدلب/ الأناضول\n\nقتل مدني وأصيب 4 آخرون، السبت، جراء هجوم نفذته قوات النظام السوري واستهدف مدينة الأتارب غربي محافظة حلب شمالي البلاد.\n\nوأفادت مصادر في الدفاع المدني السوري (الخوذ البيضاء)، للأناضول، أن الهجوم نفذته قوات النظام المتمركزة في الفوج 45 بريف حلب الغربي.\n\n** الوضع في إدلب\n\nوفي سبتمبر/ أيلول 2018، توصلت أنقرة وموسكو إلى اتفاق حول مذكرة تفاهم إضافية لتعزيز وقف إطلاق النار في إدلب المشمولة باتفاق مناطق خفض التصعيد بين تركيا وروسيا وإيران خلال اجتماعات أستانة عام 2017، إلا أن النظام كثف هجماته على المنطقة في 2019.\n\nوفي 5 مايو/ أيار 2020 توصلت موسكو وأنقرة إلى اتفاق جديد لوقف إطلاق النار في إدلب، إلا أن قوات النظام تقوم بخرق الاتفاق بين الحين والآخر.\n\nوبين 2017 و2020، وصل عدد الفارين من هجمات النظام السوري إلى مليوني مدني نزحوا إلى الأماكن القريبة من الحدود التركية.\n\nأخبار ذات صلة\n\nالدفاع التركية: تحييد 48 إرهابيا في 7 أيام"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:27:20+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:27:22+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240523194704id_/https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D9%85%D9%82%D8%AA%D9%84-%D9%85%D8%AF%D9%86%D9%8A-%D8%A5%D8%AB%D8%B1-%D9%87%D8%AC%D9%88%D9%85-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%B9%D9%84%D9%89-%D8%BA%D8%B1%D8%A8-%D8%AD%D9%84%D8%A8-/2843120"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240523194704id_/https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D9%85%D9%82%D8%AA%D9%84-%D9%85%D8%AF%D9%86%D9%8A-%D8%A5%D8%AB%D8%B1-%D9%87%D8%AC%D9%88%D9%85-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%B9%D9%84%D9%89-%D8%BA%D8%B1%D8%A8-%D8%AD%D9%84%D8%A8-/2843120",
   "incident_ids": [
     "airwars-87906"
   ],
@@ -85,10 +109,10 @@
     "https://www.aa.com.tr/ar/%d8%a7%d9%84%d8%af%d9%88%d9%84-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/%d9%85%d9%82%d8%aa%d9%84-%d9%85%d8%af%d9%86%d9%8a-%d8%a5%d8%ab%d8%b1-%d9%87%d8%ac%d9%88%d9%85-%d9%84%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-%d8%b9%d9%84%d9%89-%d8%ba%d8%b1%d8%a8-%d8%ad%d9%84%d8%a8-/2843120"
   ],
   "original_url": "https://www.aa.com.tr/ar/%d8%a7%d9%84%d8%af%d9%88%d9%84-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/%d9%85%d9%82%d8%aa%d9%84-%d9%85%d8%af%d9%86%d9%8a-%d8%a5%d8%ab%d8%b1-%d9%87%d8%ac%d9%88%d9%85-%d9%84%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-%d8%b9%d9%84%d9%89-%d8%ba%d8%b1%d8%a8-%d8%ad%d9%84%d8%a8-/2843120",
-  "page_title": "",
+  "page_title": "مقتل مدني إثر هجوم للنظام السوري على غرب حلب مقتل مدني إثر هجوم للنظام السوري على غرب حلب مقتل مدني إثر هجوم للنظام السوري على غرب حلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4758-march-11-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:27:22+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7cff1a03fa11af8a7684564a",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.aa.com.tr/ar/%d8%a7%d9%84%d8%af%d9%88%d9%84-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/%d9%85%d9%82%d8%aa%d9%84-%d9%85%d8%af%d9%86%d9%8a-%d8%a5%d8%ab%d8%b1-%d9%87%d8%ac%d9%88%d9%85-%d9%84%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-%d8%b9%d9%84%d9%89-%d8%ba%d8%b1%d8%a8-%d8%ad%d9%84%d8%a8-/2843120",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مقتل مدني إثر هجوم للنظام السوري على غرب حلب\n\nإدلب/ الأناضول\n\nقتل مدني وأصيب 4 آخرون، السبت، جراء هجوم نفذته قوات النظام السوري واستهدف مدينة الأتارب غربي محافظة حلب شمالي البلاد.\n\nوأفادت مصادر في الدفاع المدني السوري (الخوذ البيضاء)، للأناضول، أن الهجوم نفذته قوات النظام المتمركزة في الفوج 45 بريف حلب الغربي.\n\n** الوضع في إدلب\n\nوفي سبتمبر/ أيلول 2018، توصلت أنقرة وموسكو إلى اتفاق حول مذكرة تفاهم إضافية لتعزيز وقف إطلاق النار في إدلب المشمولة باتفاق مناطق خفض التصعيد بين تركيا وروسيا وإيران خلال اجتماعات أستانة عام 2017، إلا أن النظام كثف هجماته على المنطقة في 2019.\n\nوفي 5 مايو/ أيار 2020 توصلت موسكو وأنقرة إلى اتفاق جديد لوقف إطلاق النار في إدلب، إلا أن قوات النظام تقوم بخرق الاتفاق بين الحين والآخر.\n\nوبين 2017 و2020، وصل عدد الفارين من هجمات النظام السوري إلى مليوني مدني نزحوا إلى الأماكن القريبة من الحدود التركية.\n\nأخبار ذات صلة\n\nالدفاع التركية: تحييد 48 إرهابيا في 7 أيام",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

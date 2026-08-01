@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/WUoaH"
+    "https://archive.is/WUoaH",
+    "https://web.archive.org/web/20240523194230id_/https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A5%D8%AF%D9%84%D8%A8-%D9%85%D9%82%D8%AA%D9%84-4-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A/2358452"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Andalou Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0a49ffe2fca9a5ba9c3d7448cf975b8c0c3257b0e195c39a97cd11337fa16dd1",
+  "content_variants": [
+    {
+      "bytes": 1543,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:23:07+00:00",
+      "sha256": "0a49ffe2fca9a5ba9c3d7448cf975b8c0c3257b0e195c39a97cd11337fa16dd1",
+      "source_url": "https://web.archive.org/web/20240523194230id_/https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A5%D8%AF%D9%84%D8%A8-%D9%85%D9%82%D8%AA%D9%84-4-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A/2358452",
+      "text": "إدلب.. مقتل 4 مدنيين في قصف لقوات النظام السوري\n\nإدلب / أحمد قره أحمد / الأناضول\n\nقتل 4 مدنيين وأصيب آخران، الثلاثاء، جراء هجوم نفذته قوات النظام السوري وداعموها على مركز محافظة إدلب، شمال غربي البلاد.\n\nوأفاد مراسل الأناضول، أن قوات النظام والمجموعات الإرهابية الأجنبية المدعومة من إيران، المتمركزة في مدينة سراقب جنوب شرقي المحافظة، قصفت مركز مدينة إدلب باستخدام صواريخ أرض ـ أرض.\n\nكما أوضحت مصادر في الدفاع المدني السوري (الخوذ البيضاء) التي قامت بعمليات الإنقاذ، أن 4 مدنيين قتلوا جراء القصف، فيما جرح مدنيان تم نقلهما إلى المستشفى.\n\nوفي مايو/ أيار 2017، أعلنت تركيا وروسيا وإيران، التوصل إلى اتفاق على إقامة \"منطقة خفض تصعيد\" في إدلب، ضمن اجتماعات أستانة المتعلقة بالشأن السوري.\n\nإلا أن قوات النظام السوري وداعميها تهاجم المنطقة بين الحين والآخر، رغم اتفاق وقف إطلاق النار الموقع في 5 مارس/ آذار 2020.\n\nأخبار ذات صلة\n\nالدفاع التركية: تحييد 48 إرهابيا في 7 أيام"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:23:07+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:23:07+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240523194230id_/https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A5%D8%AF%D9%84%D8%A8-%D9%85%D9%82%D8%AA%D9%84-4-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A/2358452"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240523194230id_/https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A5%D8%AF%D9%84%D8%A8-%D9%85%D9%82%D8%AA%D9%84-4-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A/2358452",
   "incident_ids": [
     "airwars-78103"
   ],
@@ -85,10 +109,10 @@
     "https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A5%D8%AF%D9%84%D8%A8-%D9%85%D9%82%D8%AA%D9%84-4-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A/2358452"
   ],
   "original_url": "https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A5%D8%AF%D9%84%D8%A8-%D9%85%D9%82%D8%AA%D9%84-4-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A/2358452",
-  "page_title": "",
+  "page_title": "إدلب.. مقتل 4 مدنيين في قصف لقوات النظام السوري إدلب.. مقتل 4 مدنيين في قصف لقوات النظام السوري إدلب.. مقتل 4 مدنيين في قصف لقوات النظام السوري",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4640-september-7-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:23:07+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-40be2f94ffe02ef0bd10d82b",
   "source_type": "news_article",
   "stable_id_basis": "https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A5%D8%AF%D9%84%D8%A8-%D9%85%D9%82%D8%AA%D9%84-4-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A/2358452",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إدلب.. مقتل 4 مدنيين في قصف لقوات النظام السوري\n\nإدلب / أحمد قره أحمد / الأناضول\n\nقتل 4 مدنيين وأصيب آخران، الثلاثاء، جراء هجوم نفذته قوات النظام السوري وداعموها على مركز محافظة إدلب، شمال غربي البلاد.\n\nوأفاد مراسل الأناضول، أن قوات النظام والمجموعات الإرهابية الأجنبية المدعومة من إيران، المتمركزة في مدينة سراقب جنوب شرقي المحافظة، قصفت مركز مدينة إدلب باستخدام صواريخ أرض ـ أرض.\n\nكما أوضحت مصادر في الدفاع المدني السوري (الخوذ البيضاء) التي قامت بعمليات الإنقاذ، أن 4 مدنيين قتلوا جراء القصف، فيما جرح مدنيان تم نقلهما إلى المستشفى.\n\nوفي مايو/ أيار 2017، أعلنت تركيا وروسيا وإيران، التوصل إلى اتفاق على إقامة \"منطقة خفض تصعيد\" في إدلب، ضمن اجتماعات أستانة المتعلقة بالشأن السوري.\n\nإلا أن قوات النظام السوري وداعميها تهاجم المنطقة بين الحين والآخر، رغم اتفاق وقف إطلاق النار الموقع في 5 مارس/ آذار 2020.\n\nأخبار ذات صلة\n\nالدفاع التركية: تحييد 48 إرهابيا في 7 أيام",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/o18kS"
+    "https://archive.is/o18kS",
+    "https://web.archive.org/web/20241209141231id_/https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B3%D9%8A%D8%AF%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84%D9%87%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D9%83%D9%81%D8%B1%D9%86%D9%88%D8%B1%D8%A7%D9%86-%D8%A8%D8%AD%D9%84%D8%A8"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syria TV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "6aa99dc4eb3f680b7e1336c1dbbead89033dcfcea6f61105711a52b45910a1fc",
+  "content_variants": [
+    {
+      "bytes": 1462,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:32:55+00:00",
+      "sha256": "6aa99dc4eb3f680b7e1336c1dbbead89033dcfcea6f61105711a52b45910a1fc",
+      "source_url": "https://web.archive.org/web/20241209141231id_/https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B3%D9%8A%D8%AF%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84%D9%87%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D9%83%D9%81%D8%B1%D9%86%D9%88%D8%B1%D8%A7%D9%86-%D8%A8%D8%AD%D9%84%D8%A8",
+      "text": "مقتل سيدة وإصابة طفلها بقصف صاروخي للنظام على بلدة كفرنوران بحلب\n\nقتلت سيدة وأصيب طفلها، اليوم الأحد، بقصف صاروخي لقوات النظام السوري على بلدة كفرنوران غربي حلب من مواقعها في بلدة ميزناز. وفق مراسل تلفزيون سوريا.\n\nوطال قصف النظام بالمدفعية الثقيلة، اليوم أيضاً، مدينة دارة عزة وبلدة مكلبيس غربي حلب، كما استهدفت قوات النظام بصاروخ حراري سيارة مدنية في محيط مدينة دارة عزة من دون سقوط إصابات.\n\nأوقع ضحايا.. خلاف على \"مصف سيارة\" يشعل اقتتالاً عشائرياً شمالي حلب | فيديو\n\nقصف مدفعي على مدينة اعزاز شمالي حلب\n\nوكان 6 مدنيين قد أصيبوا يوم الجمعة الماضية، من جراء قصف مدفعي استهدف مدينة اعزاز، مصدره المناطق التي تسيطر عليها قوات النظام و\"قسد\" في شمالي حلب.\n\nوذكر مراسل تلفزيون سوريا آنذاك أن 3 قذائف مدفعية سقطت قرب المؤسسة الأمنية في الحي الجنوبي من المدينة، وأن شرطيين كانا من بين المصابين.\n\nاخترنا لك\n\nالأكثر قراءة"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:32:54+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:32:55+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241209141231id_/https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B3%D9%8A%D8%AF%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84%D9%87%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D9%83%D9%81%D8%B1%D9%86%D9%88%D8%B1%D8%A7%D9%86-%D8%A8%D8%AD%D9%84%D8%A8"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241209141231id_/https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B3%D9%8A%D8%AF%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84%D9%87%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D9%83%D9%81%D8%B1%D9%86%D9%88%D8%B1%D8%A7%D9%86-%D8%A8%D8%AD%D9%84%D8%A8",
   "incident_ids": [
     "airwars-87578"
   ],
@@ -85,10 +109,10 @@
     "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B3%D9%8A%D8%AF%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84%D9%87%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D9%83%D9%81%D8%B1%D9%86%D9%88%D8%B1%D8%A7%D9%86-%D8%A8%D8%AD%D9%84%D8%A8"
   ],
   "original_url": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B3%D9%8A%D8%AF%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84%D9%87%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D9%83%D9%81%D8%B1%D9%86%D9%88%D8%B1%D8%A7%D9%86-%D8%A8%D8%AD%D9%84%D8%A8",
-  "page_title": "",
+  "page_title": "مقتل سيدة وإصابة طفلها بقصف صاروخي للنظام على بلدة كفرنوران بحلب مقتل سيدة وإصابة طفلها بقصف صاروخي للنظام على بلدة كفرنوران بحلب مقتل سيدة وإصابة طفلها بقصف صاروخي للنظام على بلدة كفرنوران بحلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4754-january-22-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:32:55+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-c5ecc9a1c0691d6318269944",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-%D8%B3%D9%8A%D8%AF%D8%A9-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84%D9%87%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D9%83%D9%81%D8%B1%D9%86%D9%88%D8%B1%D8%A7%D9%86-%D8%A8%D8%AD%D9%84%D8%A8",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مقتل سيدة وإصابة طفلها بقصف صاروخي للنظام على بلدة كفرنوران بحلب\n\nقتلت سيدة وأصيب طفلها، اليوم الأحد، بقصف صاروخي لقوات النظام السوري على بلدة كفرنوران غربي حلب من مواقعها في بلدة ميزناز. وفق مراسل تلفزيون سوريا.\n\nوطال قصف النظام بالمدفعية الثقيلة، اليوم أيضاً، مدينة دارة عزة وبلدة مكلبيس غربي حلب، كما استهدفت قوات النظام بصاروخ حراري سيارة مدنية في محيط مدينة دارة عزة من دون سقوط إصابات.\n\nأوقع ضحايا.. خلاف على \"مصف سيارة\" يشعل اقتتالاً عشائرياً شمالي حلب | فيديو\n\nقصف مدفعي على مدينة اعزاز شمالي حلب\n\nوكان 6 مدنيين قد أصيبوا يوم الجمعة الماضية، من جراء قصف مدفعي استهدف مدينة اعزاز، مصدره المناطق التي تسيطر عليها قوات النظام و\"قسد\" في شمالي حلب.\n\nوذكر مراسل تلفزيون سوريا آنذاك أن 3 قذائف مدفعية سقطت قرب المؤسسة الأمنية في الحي الجنوبي من المدينة، وأن شرطيين كانا من بين المصابين.\n\nاخترنا لك\n\nالأكثر قراءة",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

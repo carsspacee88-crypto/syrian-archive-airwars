@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/2yM7X"
+    "https://archive.is/2yM7X",
+    "https://web.archive.org/web/20240520115400id_/https://www.syriahr.com/en/301447/?fbclid=IwAR3SlsndYgxMt3RQ3-sITV3vF_HosjRY3ekq0dAkOb5-PeYL4p5NsfTt6tw"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a76de3bfae8101c920da5f4f637f77fe9c32dd7bf8695894b343bf714bf7d004",
+  "content_variants": [
+    {
+      "bytes": 2345,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:22:58+00:00",
+      "sha256": "a76de3bfae8101c920da5f4f637f77fe9c32dd7bf8695894b343bf714bf7d004",
+      "source_url": "https://web.archive.org/web/20240520115400id_/https://www.syriahr.com/en/301447/?fbclid=IwAR3SlsndYgxMt3RQ3-sITV3vF_HosjRY3ekq0dAkOb5-PeYL4p5NsfTt6tw",
+      "text": "Increased Escalation | Turkish drones kill and injure seven persons in two targeting on Minbij countryside\n\nAleppo province: Earlier today, two children were injured due to an artillery bombardment carried out by the Turkish forces on a farm in Al-Dandaniyah village in Minbij’s western countryside east of Aleppo. Furthermore, four members of the Minbij’s military council were killed and two others were severely injured due to an aerial attack by a Turkish drone, while they were trying to participate in taking the injured people pf the bombardment to the hospital for treatment.\nEarlier today, a person was killed in an attack by a Turkish drone on a house in Arab Hasan village in Minbij countryside, within areas controlled by the military council of Minbij.\nAccordingly, the number of attacks carried out by Turkish drones on areas controlled by the Autonomous Administration in north and north-east Syria since early 2023 has increased to 20. These attacks left 25 fatalities: Six civilians, including a child and a woman, 16 military personnel and three regime soldiers, as well as the injury of over 22 others. Turkish drone attacks in 2023 are distributed regionally as follows:\n• Al-Hasakah: Ten attacks left four civilians, including a woman and a child, and eight military personnel dead and others injured.\n• Al-Raqqah: Two attack.\n• Aleppo countryside: 11 attacks left 14 combatants, three regime soldiers and three civilians dead.\nTurkish drones have also targeted areas of deployment of the Kurdish forces in the northern countryside of Aleppo four times, which resulted in the death of three members of protecting Kurdish people units, the injury of two other members and the injury of three regime soldiers, including an officer.\n\nPrev Post\n\n“SOHR camera” captures Al-Sabea Bahrat roundabout in regime-held areas in Al-Qamishly city in Al-Hasakah countryside\n\nNext Post\n\nTurkish attacks | 11 regime soldiers killed and injured by drone in Tel Refaat countryside in Aleppo\n\nPreliminary toll | Six members kil-led in Israeli strikes on headquarters of Lebanese…\n\nIn 40th targeting since beginning of year | Israeli airstrikes target sites south and…\n\nPrevious car detonation by “IS-IS” | Four members of commando forces of…\n\nDeir Ezzor | Air defences of “International Coalition” forces confront…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:22:57+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:22:58+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240520115400id_/https://www.syriahr.com/en/301447/?fbclid=IwAR3SlsndYgxMt3RQ3-sITV3vF_HosjRY3ekq0dAkOb5-PeYL4p5NsfTt6tw"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240520115400id_/https://www.syriahr.com/en/301447/?fbclid=IwAR3SlsndYgxMt3RQ3-sITV3vF_HosjRY3ekq0dAkOb5-PeYL4p5NsfTt6tw",
   "incident_ids": [
     "airwars-89724",
     "airwars-89699"
@@ -87,10 +111,10 @@
     "https://www.syriahr.com/en/301447/?fbclid=IwAR3SlsndYgxMt3RQ3-sITV3vF_HosjRY3ekq0dAkOb5-PeYL4p5NsfTt6tw"
   ],
   "original_url": "https://www.syriahr.com/en/301447/?fbclid=IwAR3SlsndYgxMt3RQ3-sITV3vF_HosjRY3ekq0dAkOb5-PeYL4p5NsfTt6tw",
-  "page_title": "",
+  "page_title": "Increased Escalation | Turkish drones kill and injure seven persons in two targeting on Minbij countryside - The Syrian Observatory For Human Rights Increased Escalation | Turkish drones kill and injure seven persons in two targeting on Minbij countryside - The Syrian Observatory For Human Rights Increased Escalation | Turkish drones kill and injure seven persons in two targeting on Minbij countryside - The Syrian Observatory For Human Rights Increased Escalation | Turkish drones kill and injure seven persons in two targeting on Minbij countryside Increased Escalation | Turkish drones kill and injure seven persons in two targeting on Minbij countryside",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts601-june-14-2023/",
@@ -118,15 +142,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:22:58+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-405ecce3deb123e895e4d81f",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/301447/?fbclid=IwAR3SlsndYgxMt3RQ3-sITV3vF_HosjRY3ekq0dAkOb5-PeYL4p5NsfTt6tw",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Increased Escalation | Turkish drones kill and injure seven persons in two targeting on Minbij countryside\n\nAleppo province: Earlier today, two children were injured due to an artillery bombardment carried out by the Turkish forces on a farm in Al-Dandaniyah village in Minbij’s western countryside east of Aleppo. Furthermore, four members of the Minbij’s military council were killed and two others were severely injured due to an aerial attack by a Turkish drone, while they were trying to participate in taking the injured people pf the bombardment to the hospital for treatment.\nEarlier today, a person was killed in an attack by a Turkish drone on a house in Arab Hasan village in Minbij countryside, within areas controlled by the military council of Minbij.\nAccordingly, the number of attacks carried out by Turkish drones on areas controlled by the Autonomous Administration in north and north-east Syria since early 2023 has increased to 20. These attacks left 25 fatalities: Six civilians, including a child and a woman, 16 military personnel and three regime soldiers, as well as the injury of over 22 others. Turkish drone attacks in 2023 are distributed regionally as follows:\n• Al-Hasakah: Ten attacks left four civilians, including a woman and a child, and eight military personnel dead and others injured.\n• Al-Raqqah: Two attack.\n• Aleppo countryside: 11 attacks left 14 combatants, three regime soldiers and three civilians dead.\nTurkish drones have also targeted areas of deployment of the Kurdish forces in the northern countryside of Aleppo four times, which resulted in the death of three members of protecting Kurdish people units, the injury of two other members and the injury of three regime soldiers, including an officer.\n\nPrev Post\n\n“SOHR camera” captures Al-Sabea Bahrat roundabout in regime-held areas in Al-Qamishly city in Al-Hasakah countryside\n\nNext Post\n\nTurkish attacks | 11 regime soldiers killed and injured by drone in Tel Refaat countryside in Aleppo\n\nPreliminary toll | Six members kil-led in Israeli strikes on headquarters of Lebanese…\n\nIn 40th targeting since beginning of year | Israeli airstrikes target sites south and…\n\nPrevious car detonation by “IS-IS” | Four members of commando forces of…\n\nDeir Ezzor | Air defences of “International Coalition” forces confront…",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

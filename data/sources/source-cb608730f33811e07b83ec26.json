@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/9iDbt"
+    "https://archive.is/9iDbt",
+    "https://web.archive.org/web/20211205024548id_/https://news.sn4hr.org/2021/10/17/sdf-shot-a-civilian-dead-in-e-deir-ez-zour-governorate-on-october-16/?fbclid=IwAR2Wq-SqqW2oOFb2XDUvh66QmmAdsOs8CvXvkMb6BJ0SFyXyQt5z9_4crEI"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Network for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ef502739efd5096f06088f5e1da4dffd4518a7b4943fe7ce8ed58a3e2e84f07e",
+  "content_variants": [
+    {
+      "bytes": 1030,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:34:39+00:00",
+      "sha256": "ef502739efd5096f06088f5e1da4dffd4518a7b4943fe7ce8ed58a3e2e84f07e",
+      "source_url": "https://web.archive.org/web/20211205024548id_/https://news.sn4hr.org/2021/10/17/sdf-shot-a-civilian-dead-in-e-deir-ez-zour-governorate-on-october-16/?fbclid=IwAR2Wq-SqqW2oOFb2XDUvh66QmmAdsOs8CvXvkMb6BJ0SFyXyQt5z9_4crEI",
+      "text": "News\n\nCasualties\n\nKurdish forces/ SDF\n\nA 25-year-old man, named as Abdullah Eyadah al Khater, from al Zer village which is administratively a part of al Bseira city in the east of Deir Ez-Zour governorate, was shot dead on October 16, 2021, by Syrian Democratic Forces as he tried to escape for his home for fear of being arrested during a raid on his home in the village.\nSNHR notes that the SDF have committed another violation of international humanitarian law through this indiscriminate killing, for which the perpetrator must be held accountable.\n\nDeath of a civilian from Homs into Syrian regime detention center confirmed, Dec 1\n\nDisplaced person’s body discovered in E. Aleppo governorate on December 2\n\nPerson killed and other civilians injured in bombardment by a US-led Coalition drone in Idlib suburbs on Dec 3\n\nSNA arrested a woman in N. Aleppo governorate on December 2\n\nUnidentified gunmen killed a man in E. Aleppo governorate on December 3\n\nThe daily death toll of civilian victims in Syria on December 3, 2021"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:34:39+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:34:39+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211205024548id_/https://news.sn4hr.org/2021/10/17/sdf-shot-a-civilian-dead-in-e-deir-ez-zour-governorate-on-october-16/?fbclid=IwAR2Wq-SqqW2oOFb2XDUvh66QmmAdsOs8CvXvkMb6BJ0SFyXyQt5z9_4crEI"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211205024548id_/https://news.sn4hr.org/2021/10/17/sdf-shot-a-civilian-dead-in-e-deir-ez-zour-governorate-on-october-16/?fbclid=IwAR2Wq-SqqW2oOFb2XDUvh66QmmAdsOs8CvXvkMb6BJ0SFyXyQt5z9_4crEI",
   "incident_ids": [
     "airwars-79501"
   ],
@@ -85,10 +109,10 @@
     "https://news.sn4hr.org/2021/10/17/sdf-shot-a-civilian-dead-in-e-deir-ez-zour-governorate-on-october-16/?fbclid=IwAR2Wq-SqqW2oOFb2XDUvh66QmmAdsOs8CvXvkMb6BJ0SFyXyQt5z9_4crEI"
   ],
   "original_url": "https://news.sn4hr.org/2021/10/17/sdf-shot-a-civilian-dead-in-e-deir-ez-zour-governorate-on-october-16/?fbclid=IwAR2Wq-SqqW2oOFb2XDUvh66QmmAdsOs8CvXvkMb6BJ0SFyXyQt5z9_4crEI",
-  "page_title": "",
+  "page_title": "SDF shot a civilian dead in E. Deir Ez-Zour governorate on October 16 | Syrian Network for Human Rights SDF shot a civilian dead in E. Deir Ez-Zour governorate on October 16 | Syrian Network for Human Rights SDF shot a civilian dead in E. Deir Ez-Zour governorate on October 16 | Syrian Network for Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1966-october-16-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:34:39+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-cb608730f33811e07b83ec26",
   "source_type": "news_article",
   "stable_id_basis": "https://news.sn4hr.org/2021/10/17/sdf-shot-a-civilian-dead-in-e-deir-ez-zour-governorate-on-october-16/?fbclid=IwAR2Wq-SqqW2oOFb2XDUvh66QmmAdsOs8CvXvkMb6BJ0SFyXyQt5z9_4crEI",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "News\n\nCasualties\n\nKurdish forces/ SDF\n\nA 25-year-old man, named as Abdullah Eyadah al Khater, from al Zer village which is administratively a part of al Bseira city in the east of Deir Ez-Zour governorate, was shot dead on October 16, 2021, by Syrian Democratic Forces as he tried to escape for his home for fear of being arrested during a raid on his home in the village.\nSNHR notes that the SDF have committed another violation of international humanitarian law through this indiscriminate killing, for which the perpetrator must be held accountable.\n\nDeath of a civilian from Homs into Syrian regime detention center confirmed, Dec 1\n\nDisplaced person’s body discovered in E. Aleppo governorate on December 2\n\nPerson killed and other civilians injured in bombardment by a US-led Coalition drone in Idlib suburbs on Dec 3\n\nSNA arrested a woman in N. Aleppo governorate on December 2\n\nUnidentified gunmen killed a man in E. Aleppo governorate on December 3\n\nThe daily death toll of civilian victims in Syria on December 3, 2021",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

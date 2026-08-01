@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/Zpv6Y"
+    "https://archive.ph/Zpv6Y",
+    "https://web.archive.org/web/20240524162510id_/https://www.facebook.com/ahmad.bakour1990/posts/pfbid02dNLfa6rv6FgJTkAWLhZCxtGcrRSqkJN9QF9DcJ4QULMi6W496ag5EF9F7RZZ6kNKl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Ahmad.bakour199",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "63dbfc6ef686f681268d008623161d801b14cecb692f2a59b4e98dc8324d4213",
+  "content_variants": [
+    {
+      "bytes": 138,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:26:51+00:00",
+      "sha256": "63dbfc6ef686f681268d008623161d801b14cecb692f2a59b4e98dc8324d4213",
+      "source_url": "https://web.archive.org/web/20240524162510id_/https://www.facebook.com/ahmad.bakour1990/posts/pfbid02dNLfa6rv6FgJTkAWLhZCxtGcrRSqkJN9QF9DcJ4QULMi6W496ag5EF9F7RZZ6kNKl",
+      "text": "ياسر محمد الشيخ حسين\nالعمر35 سنة\n\nاصابة بقصف على أطراف قرية معربليت شرق أريحا"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:26:51+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:26:51+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524162510id_/https://www.facebook.com/ahmad.bakour1990/posts/pfbid02dNLfa6rv6FgJTkAWLhZCxtGcrRSqkJN9QF9DcJ4QULMi6W496ag5EF9F7RZZ6kNKl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524162510id_/https://www.facebook.com/ahmad.bakour1990/posts/pfbid02dNLfa6rv6FgJTkAWLhZCxtGcrRSqkJN9QF9DcJ4QULMi6W496ag5EF9F7RZZ6kNKl",
   "incident_ids": [
     "airwars-85563"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/ahmad.bakour1990/posts/pfbid02dNLfa6rv6FgJTkAWLhZCxtGcrRSqkJN9QF9DcJ4QULMi6W496ag5EF9F7RZZ6kNKl"
   ],
   "original_url": "https://www.facebook.com/ahmad.bakour1990/posts/pfbid02dNLfa6rv6FgJTkAWLhZCxtGcrRSqkJN9QF9DcJ4QULMi6W496ag5EF9F7RZZ6kNKl",
-  "page_title": "",
+  "page_title": "AHmad Bakour AHmad Bakour AHmad Bakour - ياسر محمد الشيخ حسين\nالعمر35 سنة\n\nاصابة...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4745-november-21-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:26:51+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-6fa6024e64b954ddfad47566",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/ahmad.bakour1990/posts/pfbid02dNLfa6rv6FgJTkAWLhZCxtGcrRSqkJN9QF9DcJ4QULMi6W496ag5EF9F7RZZ6kNKl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ياسر محمد الشيخ حسين\nالعمر35 سنة\n\nاصابة بقصف على أطراف قرية معربليت شرق أريحا",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

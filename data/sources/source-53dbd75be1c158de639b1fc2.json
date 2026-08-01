@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/mU5Pw"
+    "https://archive.is/mU5Pw",
+    "https://web.archive.org/web/20250210141300id_/https://npasyria.com/155853/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ddabbf4f88f252ef007c25d914b12fb2620eedfd0af87ad2cfcfabcb71a326ba",
+  "content_variants": [
+    {
+      "bytes": 1534,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:25:18+00:00",
+      "sha256": "ddabbf4f88f252ef007c25d914b12fb2620eedfd0af87ad2cfcfabcb71a326ba",
+      "source_url": "https://web.archive.org/web/20250210141300id_/https://npasyria.com/155853/",
+      "text": "فقدان خمسة أشخاص لحياتهم بقصف تركي في منبج\n\nقرية الأوشرية شمالي منبج - نورث برس\n\nمنبج – نورث برس\n\nأعلن مجلس منبج العسكري، الأربعاء، فقدان أربعة من مقاتليه بقصف تركي بحادثتين منفصلتين بريف مدينة منبج شمالي سوريا، وفقدان مدني آخر لحياته.\n\nونشر مجلس منبج العسكري على موقعه الرسمي، أن أربعة من مقاتليه فقدوا حياتهم، وأُصيب اثنين آخرين، جراء استهداف طائرة مسيرة تركية، أثناء محاولتهم إنقاذ طفلين أصيبوا بقذائف مدفعية أطلقتها القوّات التركية والفصائل الموالية لها، على مزرعة في قرية الدندنية شمال غربي منبج.\n\nوفي ذات السياق، قصفت القوات التركية وفصائل المعارضة المسلحة الموالية لها، منزلاً في قرية عرب حسن، أدى إلى فقدان مدني حياته.\n\nوأمس الثلاثاء، قصفت القوات التركية وفصائل المعارضة المسلحة الموالية لها، قرية التوخار في ريف منبج الشمالي بعشرات قذائف المدفعية والهاون من قاعدته المتمركزة في قرية توخار كبير.\n\nإعداد: فادي الحسين- تحرير: أحمد عثمان"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:25:17+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:25:18+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250210141300id_/https://npasyria.com/155853/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250210141300id_/https://npasyria.com/155853/",
   "incident_ids": [
     "airwars-89724"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/155853/"
   ],
   "original_url": "https://npasyria.com/155853/",
-  "page_title": "",
+  "page_title": "فقدان خمسة أشخاص لحياتهم بقصف تركي في منبج فقدان خمسة أشخاص لحياتهم بقصف تركي في منبج",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts601-june-14-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:25:18+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-53dbd75be1c158de639b1fc2",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/155853/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "فقدان خمسة أشخاص لحياتهم بقصف تركي في منبج\n\nقرية الأوشرية شمالي منبج - نورث برس\n\nمنبج – نورث برس\n\nأعلن مجلس منبج العسكري، الأربعاء، فقدان أربعة من مقاتليه بقصف تركي بحادثتين منفصلتين بريف مدينة منبج شمالي سوريا، وفقدان مدني آخر لحياته.\n\nونشر مجلس منبج العسكري على موقعه الرسمي، أن أربعة من مقاتليه فقدوا حياتهم، وأُصيب اثنين آخرين، جراء استهداف طائرة مسيرة تركية، أثناء محاولتهم إنقاذ طفلين أصيبوا بقذائف مدفعية أطلقتها القوّات التركية والفصائل الموالية لها، على مزرعة في قرية الدندنية شمال غربي منبج.\n\nوفي ذات السياق، قصفت القوات التركية وفصائل المعارضة المسلحة الموالية لها، منزلاً في قرية عرب حسن، أدى إلى فقدان مدني حياته.\n\nوأمس الثلاثاء، قصفت القوات التركية وفصائل المعارضة المسلحة الموالية لها، قرية التوخار في ريف منبج الشمالي بعشرات قذائف المدفعية والهاون من قاعدته المتمركزة في قرية توخار كبير.\n\nإعداد: فادي الحسين- تحرير: أحمد عثمان",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

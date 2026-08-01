@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/jcmQe"
+    "https://archive.ph/jcmQe",
+    "https://web.archive.org/web/20251003215040id_/https://hawarnews.com/ar/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8E%D9%8A%D9%86-%D8%A3%D8%AD%D8%AF%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D8%AA%D8%B1%D9%83%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%B4%D9%8A%D8%B1%D8%A7%D9%88%D8%A7"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Hawar news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "79291ae7b20a746480eae89fdc3a3a389b9f9df78d6d7fb2db5081a7f4f148ca",
+  "content_variants": [
+    {
+      "bytes": 1600,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:21:10+00:00",
+      "sha256": "79291ae7b20a746480eae89fdc3a3a389b9f9df78d6d7fb2db5081a7f4f148ca",
+      "source_url": "https://web.archive.org/web/20251003215040id_/https://hawarnews.com/ar/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8E%D9%8A%D9%86-%D8%A3%D8%AD%D8%AF%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D8%AA%D8%B1%D9%83%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%B4%D9%8A%D8%B1%D8%A7%D9%88%D8%A7",
+      "text": "السبت 4 تشرين الأول, 2025\n\nحماس تعلن موافقتها على الإفراج عن كل الأسرى بموجب مقترح ترامب\n\nقوى الأمن الداخلي في حلب تنفي استهداف سيارة لقوات الحكومة الانتقالية\n\nمقتل مهندس علوي بعد اختطافه وتعذيبه\n\nتدهور الحالة الصحية للمعتقلة السياسية زينب جلاليان\n\nعشرات القتلى في اشتباك بين حماس وعائلة في خان يونس\n\nآلاف النيجيريين يفرون إلى الكاميرون بعد هجوم لـ\"بوكو حرام\"\n\nقوات الحكومة الانتقالية تغلق طريق آخر مؤدي إلى حيي الشيخ مقصود في حلب\n\nترامب يمهل حماس حتى مساء الأحد للقبول بخطته حول غزة\n\nوفد حزب المساواة وديمقراطية الشعوب يعود من إمرالي\n\nاليونيسف: وضع الأمهات والرضع في غزة لم يكن أبدا أسوأ مما هو عليه الآن\n\nواشنطن تمهّد لدعم استخباراتي يتيح لأوكرانيا ضرب العمق الروسي\n\nإسرائيل ترحل 4 إيطاليين وتعتقل صحافيين من \"أسطول الصمود العالمي\"\n\nالسلطات التركية تعتقل 10 صحفيين خلال شهر أيلول\n\n5000 دولار فدية مقابل الإفراج عن مختطف في تل عران\n\nاللغة/Language\n\nعربي\nKURDÎ\n\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nENGLISH\n\nSPANISH\n\nRUSSIAN"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:21:09+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:21:10+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251003215040id_/https://hawarnews.com/ar/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8E%D9%8A%D9%86-%D8%A3%D8%AD%D8%AF%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D8%AA%D8%B1%D9%83%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%B4%D9%8A%D8%B1%D8%A7%D9%88%D8%A7"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251003215040id_/https://hawarnews.com/ar/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8E%D9%8A%D9%86-%D8%A3%D8%AD%D8%AF%D9%87%D9%85%D8%A7-%D8%B7%D9%81%D9%84-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D8%AA%D8%B1%D9%83%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%B4%D9%8A%D8%B1%D8%A7%D9%88%D8%A7",
   "incident_ids": [
     "airwars-116897"
   ],
@@ -85,10 +109,10 @@
     "https://hawarnews.com/ar/إصابة-مواطنَين-أحدهما-طفل-في-قصف-تركي-على-ريف-شيراوا"
   ],
   "original_url": "https://hawarnews.com/ar/إصابة-مواطنَين-أحدهما-طفل-في-قصف-تركي-على-ريف-شيراوا",
-  "page_title": "",
+  "page_title": "إصابة مواطنَين في قصف تركي على ريف شيراوا -ANHA إصابة مواطنَين في قصف تركي على ريف شيراوا إصابة مواطنَين في قصف تركي على ريف شيراوا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts703-july-31-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:21:10+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-3076b1b5146aceadd7cc9db2",
   "source_type": "news_article",
   "stable_id_basis": "https://hawarnews.com/ar/إصابة-مواطنَين-أحدهما-طفل-في-قصف-تركي-على-ريف-شيراوا",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "السبت 4 تشرين الأول, 2025\n\nحماس تعلن موافقتها على الإفراج عن كل الأسرى بموجب مقترح ترامب\n\nقوى الأمن الداخلي في حلب تنفي استهداف سيارة لقوات الحكومة الانتقالية\n\nمقتل مهندس علوي بعد اختطافه وتعذيبه\n\nتدهور الحالة الصحية للمعتقلة السياسية زينب جلاليان\n\nعشرات القتلى في اشتباك بين حماس وعائلة في خان يونس\n\nآلاف النيجيريين يفرون إلى الكاميرون بعد هجوم لـ\"بوكو حرام\"\n\nقوات الحكومة الانتقالية تغلق طريق آخر مؤدي إلى حيي الشيخ مقصود في حلب\n\nترامب يمهل حماس حتى مساء الأحد للقبول بخطته حول غزة\n\nوفد حزب المساواة وديمقراطية الشعوب يعود من إمرالي\n\nاليونيسف: وضع الأمهات والرضع في غزة لم يكن أبدا أسوأ مما هو عليه الآن\n\nواشنطن تمهّد لدعم استخباراتي يتيح لأوكرانيا ضرب العمق الروسي\n\nإسرائيل ترحل 4 إيطاليين وتعتقل صحافيين من \"أسطول الصمود العالمي\"\n\nالسلطات التركية تعتقل 10 صحفيين خلال شهر أيلول\n\n5000 دولار فدية مقابل الإفراج عن مختطف في تل عران\n\nاللغة/Language\n\nعربي\nKURDÎ\n\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nENGLISH\n\nSPANISH\n\nRUSSIAN",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

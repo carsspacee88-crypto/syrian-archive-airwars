@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/5sTT5"
+    "https://archive.is/5sTT5",
+    "https://web.archive.org/web/20220307142436id_/https://twitter.com/HoranFreeMedia/status/1500839707567181828"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@HoranFreeMedia",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "35c424d3337c8391828f97705baa8992e45499dbd00a1fa1f2404759ee7e15a3",
+  "content_variants": [
+    {
+      "bytes": 699,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:20:44+00:00",
+      "sha256": "35c424d3337c8391828f97705baa8992e45499dbd00a1fa1f2404759ee7e15a3",
+      "source_url": "https://web.archive.org/web/20220307142436id_/https://twitter.com/HoranFreeMedia/status/1500839707567181828",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nمقتل \"علي محمد النصار\" الملقب بـ \"الطير\" متأثراً بجراحه التي أصيب بها جراء قصف صاروخي إسرائيلي استهدف مواقع عسكرية في محيط العاصمة دمشق والمنطقة الجنوبية.\n\nينحدر \"النصار\" من مدينة الصنمين شمالي درعا، ويعمل ضمن ميليشيا محلية مدعومة من قبل إيران.\n\n#أحرار_حورانpic.twitter.com/ViZ4QnmgrP\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:20:43+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:20:44+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220307142436id_/https://twitter.com/HoranFreeMedia/status/1500839707567181828"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220307142436id_/https://twitter.com/HoranFreeMedia/status/1500839707567181828",
   "incident_ids": [
     "airwars-82390"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/HoranFreeMedia/status/1500839707567181828"
   ],
   "original_url": "https://twitter.com/HoranFreeMedia/status/1500839707567181828",
-  "page_title": "",
+  "page_title": "تجمع أحرار حوران - Horan Free on Twitter: \"مقتل \"علي محمد النصار\" الملقب بـ \"الطير\" متأثراً بجراحه التي أصيب بها جراء قصف صاروخي إسرائيلي استهدف مواقع عسكرية في محيط العاصمة دمشق والمنطقة الجنوبية.\n\nينحدر \"النصار\" من مدينة الصنمين شمالي درعا، ويعمل ضمن ميليشيا محلية مدعومة من قبل إيران.\n\n#أحرار_حوران… https://t.co/zB8O3pG8KQ\" تجمع أحرار حوران - Horan Free on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy021-march-7-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:20:44+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2a4db8b09033abbc2a95e9b7",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/HoranFreeMedia/status/1500839707567181828",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nمقتل \"علي محمد النصار\" الملقب بـ \"الطير\" متأثراً بجراحه التي أصيب بها جراء قصف صاروخي إسرائيلي استهدف مواقع عسكرية في محيط العاصمة دمشق والمنطقة الجنوبية.\n\nينحدر \"النصار\" من مدينة الصنمين شمالي درعا، ويعمل ضمن ميليشيا محلية مدعومة من قبل إيران.\n\n#أحرار_حورانpic.twitter.com/ViZ4QnmgrP\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

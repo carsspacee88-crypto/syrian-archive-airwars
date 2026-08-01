@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/4x9vO"
+    "https://archive.is/4x9vO",
+    "https://web.archive.org/web/20250217143408id_/https://eyeofeuphrates.com/ar/news/2023/09/12/9654"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Euphrates",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8a204f697f602ca460f48e0d939a41aef7bc619fd80c758c6f4960a8c6d76388",
+  "content_variants": [
+    {
+      "bytes": 528,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:26:43+00:00",
+      "sha256": "8a204f697f602ca460f48e0d939a41aef7bc619fd80c758c6f4960a8c6d76388",
+      "source_url": "https://web.archive.org/web/20250217143408id_/https://eyeofeuphrates.com/ar/news/2023/09/12/9654",
+      "text": "قُتل مدني برصاص قسد في قرية الدحلة بريف دير الزور الشرقي. وقالت مصادر شبكة عين الفرات، إن الشاب \"حسون نهار الگروط\" قتل برصاص قسد في بلدة الدحلة . وأضافت المصادر أن الشاب لم يقتل خلال مداهمة لقسد، مشيرة إلى أن عناصر قسد طلبوا منه التوقف على حاجز عسكري وبعد رفضه أقدموا على إطلاق النار عليه، ما أ"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:26:42+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:26:43+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250217143408id_/https://eyeofeuphrates.com/ar/news/2023/09/12/9654"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250217143408id_/https://eyeofeuphrates.com/ar/news/2023/09/12/9654",
   "incident_ids": [
     "airwars-92985"
   ],
@@ -85,10 +109,10 @@
     "https://eyeofeuphrates.com/ar/news/2023/09/12/9654"
   ],
   "original_url": "https://eyeofeuphrates.com/ar/news/2023/09/12/9654",
-  "page_title": "",
+  "page_title": "مقتل مدني برصاص \"قسد\" شرقي دير الزور | شبكة عين الفرات شبكة عين الفرات | مقتل مدني برصاص \"قسد\" شرقي دير الزور",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/sdf00038-september-11-2023/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:26:43+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-6bd1366451a0d0f1dfae310a",
   "source_type": "other_web_page",
   "stable_id_basis": "https://eyeofeuphrates.com/ar/news/2023/09/12/9654",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "und",
+  "text_original": "قُتل مدني برصاص قسد في قرية الدحلة بريف دير الزور الشرقي. وقالت مصادر شبكة عين الفرات، إن الشاب \"حسون نهار الگروط\" قتل برصاص قسد في بلدة الدحلة . وأضافت المصادر أن الشاب لم يقتل خلال مداهمة لقسد، مشيرة إلى أن عناصر قسد طلبوا منه التوقف على حاجز عسكري وبعد رفضه أقدموا على إطلاق النار عليه، ما أ",
+  "text_original_language": "ar",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

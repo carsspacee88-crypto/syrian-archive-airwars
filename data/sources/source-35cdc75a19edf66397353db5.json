@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.fo/W7LGa"
+    "https://archive.fo/W7LGa",
+    "https://web.archive.org/web/20250807041945id_/https://npasyria.com/en/72389/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "400e56bdd343053b19bcf7848be2da4e259f10581de7f92fab1182cd9237ff67",
+  "content_variants": [
+    {
+      "bytes": 958,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:22:27+00:00",
+      "sha256": "400e56bdd343053b19bcf7848be2da4e259f10581de7f92fab1182cd9237ff67",
+      "source_url": "https://web.archive.org/web/20250807041945id_/https://npasyria.com/en/72389/",
+      "text": "SDF arrest ISIS members during security operation in Syria’s Deir ez-Zor\n\nISIS members arrested by SDF – North Press\n\nQAMISHLI, Syria (North Press) – The Syrian Democratic Forces (SDF) with the support of the US-led Global Coalition managed last night to capture Islamic State Organization (ISIS) members during a joint security operation in the eastern countryside of Deir ez-Zor, east Syria.\n\n“The InSF HAT and SDF conducted a clearance operation in Busayrah to capture DA’ESH members with known ties to Iranian weapons smuggling networks,” a security source of the Global Coalition told North Press.\n\nClashes erupted between the two parties and lead to the arrest of ten ISIS members.\n\nThe ISIS members were hiding in and among civilians’ houses and refused to surrender, according to the source.\n\nDuring the clashes a child and a local sheikh were killed so that the military operation was halted, the source noted.\n\nReporting by Adnan Hamo"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:22:26+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:22:27+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250807041945id_/https://npasyria.com/en/72389/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250807041945id_/https://npasyria.com/en/72389/",
   "incident_ids": [
     "airwars-81854"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/72389/"
   ],
   "original_url": "https://npasyria.com/en/72389/",
-  "page_title": "",
+  "page_title": "SDF arrest ISIS members during security operation in Syria’s Deir ez-Zor - North press agency SDF arrest ISIS members during security operation in Syria’s Deir ez-Zor - North press agency SDF arrest ISIS members during security operation in Syria’s Deir ez-Zor - North press agency SDF arrest ISIS members during security operation in Syria’s Deir ez-Zor - North press agency SDF arrest ISIS members during security operation in Syria’s Deir ez-Zor - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1978-february-8-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:22:27+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-35cdc75a19edf66397353db5",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/72389/",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "SDF arrest ISIS members during security operation in Syria’s Deir ez-Zor\n\nISIS members arrested by SDF – North Press\n\nQAMISHLI, Syria (North Press) – The Syrian Democratic Forces (SDF) with the support of the US-led Global Coalition managed last night to capture Islamic State Organization (ISIS) members during a joint security operation in the eastern countryside of Deir ez-Zor, east Syria.\n\n“The InSF HAT and SDF conducted a clearance operation in Busayrah to capture DA’ESH members with known ties to Iranian weapons smuggling networks,” a security source of the Global Coalition told North Press.\n\nClashes erupted between the two parties and lead to the arrest of ten ISIS members.\n\nThe ISIS members were hiding in and among civilians’ houses and refused to surrender, according to the source.\n\nDuring the clashes a child and a local sheikh were killed so that the military operation was halted, the source noted.\n\nReporting by Adnan Hamo",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

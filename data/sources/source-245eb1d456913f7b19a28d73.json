@@ -67,8 +67,22 @@
   "content_hash": null,
   "content_variants": [],
   "descriptions": [],
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:19:38+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:20:13+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 403,
+      "url": "https://web.archive.org/web/20250417182356id_/https://www.syriahr.com/%D8%A7%D8%B3%D8%AA%D9%80-%D9%80%D8%B4%D9%87%D8%A7%D8%AF-%D8%B7%D9%81%D9%84-%D8%A8%D8%A7%D9%86%D9%81%D9%80-%D9%80%D8%AC%D8%A7%D8%B1-%D9%82%D9%86%D9%80-%D9%80%D8%A8%D9%84%D8%A9-%D8%B9%D9%86%D9%82%D9%88/571726/"
+    }
+  ],
   "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
+  "failure_reason": "capture_fetch_failed",
   "final_redirected_url": "",
   "incident_ids": [
     "airwars-85558"
@@ -108,7 +122,7 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
+  "retrieval_status": "capture_fetch_failed",
   "retrieved_at": null,
   "review_flags": [],
   "schema_version": "1.0.0",

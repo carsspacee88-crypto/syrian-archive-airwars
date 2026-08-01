@@ -2,7 +2,8 @@
   "airwars_source_ids": [],
   "archived_urls": [
     "https://archive.is/Ckwnd",
-    "https://archive.is/VQ79e"
+    "https://archive.is/VQ79e",
+    "https://web.archive.org/web/20260422230821id_/https://shaam.org/news/syria-news/jryh-khsylh-ghyr-nhaeyh-dhrbh-llthalf-asthdft-mnzlaan-b-albab-shrqy-hlb"
   ],
   "attempt_history": [
     {
@@ -93,12 +94,35 @@
   "author": "Shaam News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "7d3f71c946154fdc6e48dba4ea93990a1a47598cf89871dec020e6551c5b3b94",
+  "content_variants": [
+    {
+      "bytes": 2397,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:22:54+00:00",
+      "sha256": "7d3f71c946154fdc6e48dba4ea93990a1a47598cf89871dec020e6551c5b3b94",
+      "source_url": "https://web.archive.org/web/20260422230821id_/https://shaam.org/news/syria-news/jryh-khsylh-ghyr-nhaeyh-dhrbh-llthalf-asthdft-mnzlaan-b-albab-shrqy-hlb",
+      "text": "جريح كحصيلة غير نهائية .. ضربة للتحالف استهدفت منزلاً بـ \"الباب\" شرقي حلب\n\nجريح كحصيلة غير نهائية .. ضربة للتحالف استهدفت منزلاً بـ \"الباب\" شرقي حلب\n\nشنت طائرة مسيرة يُرجح أنها تابعة لقوات \"التحالف الدولي\"، اليوم الثلاثاء 20 كانون الأول/ ديسمبر، غارة استهدف منزلاً في مدينة الباب بريف حلب الشرقي، دون كشف هوية الجهة المستَهدفة بالغارة الجوية.\n\nوقالت مراصد محلية في الشمال السوري إن طائرات مسيرة تابعة للتحالف الدولي حلّقت بشكل مكثف في أجواء مدينة الباب قبل تنفيذ الضربة الجوية، ولفتت إلى عدم تحديد هوية الجهة المستهدفة بالقصف الجوي.\n\nونشر \"الدفاع المدني السوري\" (الخوذ البيضاء) بياناً أكد فيه إصابة شخص مجهول الهوية في حصيلة غير نهائية، بقصف صاروخي من طائرة مسيرة مجهولة الهوية طال منزلا في مدينة الباب بريف حلب الشرقي.\n\nوأكدت منظومة \"الخوذ البيضاء\" استمرار عمليات البحث والإنقاذ في المنزل الذي تعرض للدمار، للبحث عن ضحايا أو ناجين تحت الأنقاض، حسب بيان نشرته عبر صفحتها الرسمية على فيسبوك.\n\nوأشارت مصادر إعلامية إلى أن الصاروخ الذي عُثر عليه بين أنقاض المنزل المستهدف في مدينة الباب بريف حلب الشرقي من طراز \"أي جي أم-114 هيل فاير\" وهو صاروخ أمريكي الصنع يستخدمه \"التحالف الدولي\".\n\nهذا ويعد هيلفاير من الصواريخ الدقيقة، ويحتوي على شفرات شبيهة بالسيف تبرز منه بدل الرأس الحربي التقليدي الذي عادة ما تحمله الصواريخ الأخرى، وأوضح موقع \"وور زون\" أنه جرى سابقا استعمال السلاح في سوريا إذ تم استهداف عدة أهداف تهشمت من تأثير السلاح القوي."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:22:53+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:22:54+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260422230821id_/https://shaam.org/news/syria-news/jryh-khsylh-ghyr-nhaeyh-dhrbh-llthalf-asthdft-mnzlaan-b-albab-shrqy-hlb"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260422230821id_/https://shaam.org/news/syria-news/jryh-khsylh-ghyr-nhaeyh-dhrbh-llthalf-asthdft-mnzlaan-b-albab-shrqy-hlb",
   "incident_ids": [
     "airwars-86187"
   ],
@@ -114,10 +138,10 @@
     "https://shaam.org/news/syria-news/jryh-khsylh-ghyr-nhaeyh-dhrbh-llthalf-asthdft-mnzlaan-b-albab-shrqy-hlb"
   ],
   "original_url": "https://shaam.org/news/syria-news/jryh-khsylh-ghyr-nhaeyh-dhrbh-llthalf-asthdft-mnzlaan-b-albab-shrqy-hlb",
-  "page_title": "",
+  "page_title": "جريح كحصيلة غير نهائية .. ضربة للتحالف استهدفت منزلاً بـ \"الباب\" شرقي حلب | شبكة شام الإخبارية جريح كحصيلة غير نهائية .. ضربة للتحالف استهدفت منزلاً بـ \"الباب\" شرقي حلب جريح كحصيلة غير نهائية .. ضربة للتحالف استهدفت منزلاً بـ \"الباب\" شرقي حلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1989-december-20-2022/",
@@ -137,15 +161,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:22:54+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-3d2e22546b6255dca11f1946",
   "source_type": "news_article",
   "stable_id_basis": "https://shaam.org/news/syria-news/jryh-khsylh-ghyr-nhaeyh-dhrbh-llthalf-asthdft-mnzlaan-b-albab-shrqy-hlb",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "جريح كحصيلة غير نهائية .. ضربة للتحالف استهدفت منزلاً بـ \"الباب\" شرقي حلب\n\nجريح كحصيلة غير نهائية .. ضربة للتحالف استهدفت منزلاً بـ \"الباب\" شرقي حلب\n\nشنت طائرة مسيرة يُرجح أنها تابعة لقوات \"التحالف الدولي\"، اليوم الثلاثاء 20 كانون الأول/ ديسمبر، غارة استهدف منزلاً في مدينة الباب بريف حلب الشرقي، دون كشف هوية الجهة المستَهدفة بالغارة الجوية.\n\nوقالت مراصد محلية في الشمال السوري إن طائرات مسيرة تابعة للتحالف الدولي حلّقت بشكل مكثف في أجواء مدينة الباب قبل تنفيذ الضربة الجوية، ولفتت إلى عدم تحديد هوية الجهة المستهدفة بالقصف الجوي.\n\nونشر \"الدفاع المدني السوري\" (الخوذ البيضاء) بياناً أكد فيه إصابة شخص مجهول الهوية في حصيلة غير نهائية، بقصف صاروخي من طائرة مسيرة مجهولة الهوية طال منزلا في مدينة الباب بريف حلب الشرقي.\n\nوأكدت منظومة \"الخوذ البيضاء\" استمرار عمليات البحث والإنقاذ في المنزل الذي تعرض للدمار، للبحث عن ضحايا أو ناجين تحت الأنقاض، حسب بيان نشرته عبر صفحتها الرسمية على فيسبوك.\n\nوأشارت مصادر إعلامية إلى أن الصاروخ الذي عُثر عليه بين أنقاض المنزل المستهدف في مدينة الباب بريف حلب الشرقي من طراز \"أي جي أم-114 هيل فاير\" وهو صاروخ أمريكي الصنع يستخدمه \"التحالف الدولي\".\n\nهذا ويعد هيلفاير من الصواريخ الدقيقة، ويحتوي على شفرات شبيهة بالسيف تبرز منه بدل الرأس الحربي التقليدي الذي عادة ما تحمله الصواريخ الأخرى، وأوضح موقع \"وور زون\" أنه جرى سابقا استعمال السلاح في سوريا إذ تم استهداف عدة أهداف تهشمت من تأثير السلاح القوي.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

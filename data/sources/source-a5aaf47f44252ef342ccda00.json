@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/gWftt"
+    "https://archive.is/gWftt",
+    "https://web.archive.org/web/20230329133929id_/https://www.syriahr.com/en/241075/?fbclid=IwAR02wqqEJS3H9trhGsG0O9U8SRMzaGhWk9m7SenQldj4fJW62hIWeZg-UJ0"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "689a180d14eebf62b2c6c1571dd7ed5759718aafdded763fade40e8a58b8077a",
+  "content_variants": [
+    {
+      "bytes": 1289,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:30:11+00:00",
+      "sha256": "689a180d14eebf62b2c6c1571dd7ed5759718aafdded763fade40e8a58b8077a",
+      "source_url": "https://web.archive.org/web/20230329133929id_/https://www.syriahr.com/en/241075/?fbclid=IwAR02wqqEJS3H9trhGsG0O9U8SRMzaGhWk9m7SenQldj4fJW62hIWeZg-UJ0",
+      "text": "Al-Hasakah | Turkish missile injures woman in Tal Tamr\n\nSOHR reliable sources have reported that a woman has been wounded in missile fire conducted by the Turkish forces on villages of Tal Shinan, Al-Ashouriyah, Om AL-Khir and Dishisha in Tal Tamr in Al-Hasakah province.\n\nEarlier, sources reported heavy missile attack conducted by the Turkish forces on Tal Shinan Al-Ashouriyah in Tal Tamr countryside in Al-Hasakah countryside.\n\nOn Friday, SOHR reliable sources monitored missile fire by the Turkish forces on areas in Ain Essa countryside, the capital of “the Autonomous Administration in north and north-east Syria” that is located in north Al-Raqqah countryside. The attack also hit Hoshan village and its surroundings. But, no casualties reported.\n\nPrev Post\n\nGrowing violations | Regime forces arrest one person from Daraa\n\nNext Post\n\nAleppo | Turkish drone drops bombs at area in Tel Rifaat and Syrian-made aircraft crashes due to technical glitch\n\nAttacking regime forces position | Member of “ISIS” cells killed near…\n\nFamily infighting | Two persons injured over quarrel between two families in eastern…\n\nLandmine explosion | Member and commander in Lebanese “Hezbollah” among…\n\nSecurity chaos | Armed gang kidnaps three civilians, including engineer, in Homs"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:30:11+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:30:11+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230329133929id_/https://www.syriahr.com/en/241075/?fbclid=IwAR02wqqEJS3H9trhGsG0O9U8SRMzaGhWk9m7SenQldj4fJW62hIWeZg-UJ0"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230329133929id_/https://www.syriahr.com/en/241075/?fbclid=IwAR02wqqEJS3H9trhGsG0O9U8SRMzaGhWk9m7SenQldj4fJW62hIWeZg-UJ0",
   "incident_ids": [
     "airwars-82365"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/241075/?fbclid=IwAR02wqqEJS3H9trhGsG0O9U8SRMzaGhWk9m7SenQldj4fJW62hIWeZg-UJ0"
   ],
   "original_url": "https://www.syriahr.com/en/241075/?fbclid=IwAR02wqqEJS3H9trhGsG0O9U8SRMzaGhWk9m7SenQldj4fJW62hIWeZg-UJ0",
-  "page_title": "",
+  "page_title": "Al-Hasakah | Turkish missile injures woman in Tal Tamr • The Syrian Observatory For Human Rights Al-Hasakah | Turkish missile injures woman in Tal Tamr • The Syrian Observatory For Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts494-february-27-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:30:11+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-a5aaf47f44252ef342ccda00",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/241075/?fbclid=IwAR02wqqEJS3H9trhGsG0O9U8SRMzaGhWk9m7SenQldj4fJW62hIWeZg-UJ0",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Al-Hasakah | Turkish missile injures woman in Tal Tamr\n\nSOHR reliable sources have reported that a woman has been wounded in missile fire conducted by the Turkish forces on villages of Tal Shinan, Al-Ashouriyah, Om AL-Khir and Dishisha in Tal Tamr in Al-Hasakah province.\n\nEarlier, sources reported heavy missile attack conducted by the Turkish forces on Tal Shinan Al-Ashouriyah in Tal Tamr countryside in Al-Hasakah countryside.\n\nOn Friday, SOHR reliable sources monitored missile fire by the Turkish forces on areas in Ain Essa countryside, the capital of “the Autonomous Administration in north and north-east Syria” that is located in north Al-Raqqah countryside. The attack also hit Hoshan village and its surroundings. But, no casualties reported.\n\nPrev Post\n\nGrowing violations | Regime forces arrest one person from Daraa\n\nNext Post\n\nAleppo | Turkish drone drops bombs at area in Tel Rifaat and Syrian-made aircraft crashes due to technical glitch\n\nAttacking regime forces position | Member of “ISIS” cells killed near…\n\nFamily infighting | Two persons injured over quarrel between two families in eastern…\n\nLandmine explosion | Member and commander in Lebanese “Hezbollah” among…\n\nSecurity chaos | Armed gang kidnaps three civilians, including engineer, in Homs",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

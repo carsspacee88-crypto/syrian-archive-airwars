@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/WJG10"
+    "https://archive.is/WJG10",
+    "https://web.archive.org/web/20250123074250id_/https://npasyria.com/en/101477/?fbclid=IwAR0JzK7L3xXly2MjUzbDnf6-qQMJrys9EBXEVvVivXtB8VUCL7_NpFZHKKQ"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "13fc7313d44da500dac941872220b29672a15659daa299ffe4ded83c29546c0a",
+  "content_variants": [
+    {
+      "bytes": 1242,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:20:14+00:00",
+      "sha256": "13fc7313d44da500dac941872220b29672a15659daa299ffe4ded83c29546c0a",
+      "source_url": "https://web.archive.org/web/20250123074250id_/https://npasyria.com/en/101477/?fbclid=IwAR0JzK7L3xXly2MjUzbDnf6-qQMJrys9EBXEVvVivXtB8VUCL7_NpFZHKKQ",
+      "text": "Turkish border guards injure, arrest Syrians\n\nThe border wall between Syria and Turkey near the city of Harem in northern Idlib, northwest Syria – North Press\n\nIDLIB, Syria (North Press) – On Saturday, two Syrians were shot at and wounded by Turkish border guards while attempting to cross the border from the village of Azmarin in western Idlib. In addition, 15 others, including women, were detained in two failed attempts to cross the border.\n\nA source told North Press that both Manaf Azaddin and Yamen al-Sufarani were injured, one in the morning and the other in the evening, in the same area.\n\nThe source added that the total number of detainees reached 15, including six women with their children.\n\nThe source said that the injured were taken by the Turkish border guards, “and what followed is unknown.”\n\nAs for the detainees, the source added, they were taken to the observation point opposite the village, “where their eye prints and personal data will be taken to prevent them from entering Turkey permanently.”\n\nThe number of people injured by Turkish border guards in July has exceeded 21, including four women, amid ongoing human rights violations against civilians crossing towards Turkey.\n\nReporting by Hani Salem"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:20:14+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:20:14+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250123074250id_/https://npasyria.com/en/101477/?fbclid=IwAR0JzK7L3xXly2MjUzbDnf6-qQMJrys9EBXEVvVivXtB8VUCL7_NpFZHKKQ"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250123074250id_/https://npasyria.com/en/101477/?fbclid=IwAR0JzK7L3xXly2MjUzbDnf6-qQMJrys9EBXEVvVivXtB8VUCL7_NpFZHKKQ",
   "incident_ids": [
     "airwars-91791"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/101477/?fbclid=IwAR0JzK7L3xXly2MjUzbDnf6-qQMJrys9EBXEVvVivXtB8VUCL7_NpFZHKKQ"
   ],
   "original_url": "https://npasyria.com/en/101477/?fbclid=IwAR0JzK7L3xXly2MjUzbDnf6-qQMJrys9EBXEVvVivXtB8VUCL7_NpFZHKKQ",
-  "page_title": "",
+  "page_title": "Turkish border guards injure, arrest Syrians Turkish border guards injure, arrest Syrians Turkish border guards injure, arrest Syrians Turkish border guards injure, arrest Syrians - North press agency Turkish border guards injure, arrest Syrians - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts613-july-22-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:20:14+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2d306cefed374083c9b5d9e1",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/101477/?fbclid=IwAR0JzK7L3xXly2MjUzbDnf6-qQMJrys9EBXEVvVivXtB8VUCL7_NpFZHKKQ",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish border guards injure, arrest Syrians\n\nThe border wall between Syria and Turkey near the city of Harem in northern Idlib, northwest Syria – North Press\n\nIDLIB, Syria (North Press) – On Saturday, two Syrians were shot at and wounded by Turkish border guards while attempting to cross the border from the village of Azmarin in western Idlib. In addition, 15 others, including women, were detained in two failed attempts to cross the border.\n\nA source told North Press that both Manaf Azaddin and Yamen al-Sufarani were injured, one in the morning and the other in the evening, in the same area.\n\nThe source added that the total number of detainees reached 15, including six women with their children.\n\nThe source said that the injured were taken by the Turkish border guards, “and what followed is unknown.”\n\nAs for the detainees, the source added, they were taken to the observation point opposite the village, “where their eye prints and personal data will be taken to prevent them from entering Turkey permanently.”\n\nThe number of people injured by Turkish border guards in July has exceeded 21, including four women, amid ongoing human rights violations against civilians crossing towards Turkey.\n\nReporting by Hani Salem",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/ev9JL"
+    "https://archive.is/ev9JL",
+    "https://web.archive.org/web/20240719023453id_/https://www.zamanalwsl.net/news/article/142414/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaman Al Wasl",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "e34deafe65b5ac063906cdd7a63bd7c9d8ef10aab9eac14e8a39afebc591acbb",
+  "content_variants": [
+    {
+      "bytes": 245,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:22:47+00:00",
+      "sha256": "e34deafe65b5ac063906cdd7a63bd7c9d8ef10aab9eac14e8a39afebc591acbb",
+      "source_url": "https://web.archive.org/web/20240719023453id_/https://www.zamanalwsl.net/news/article/142414/",
+      "text": "27 كانون الأول 2021\n\nجرحى مدنيون بقصف روسي يستهدف إدلب\n\n0\n\nالتعليقات\n\nإدلب\n\nالروسية\n\nمحافظة\n\nمنطقة\n\nإثر\n\nمعرة\n\nمدينة\n\nشمال\n\nتعليقات حول الموضوع"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:22:47+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:22:47+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240719023453id_/https://www.zamanalwsl.net/news/article/142414/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240719023453id_/https://www.zamanalwsl.net/news/article/142414/",
   "incident_ids": [
     "airwars-80841",
     "airwars-80852"
@@ -87,10 +111,10 @@
     "https://www.zamanalwsl.net/news/article/142414/"
   ],
   "original_url": "https://www.zamanalwsl.net/news/article/142414/",
-  "page_title": "",
+  "page_title": "جرحى مدنيون بقصف روسي يستهدف إدلب | زمان الوصل جرحى مدنيون بقصف روسي يستهدف إدلب جرحى مدنيون بقصف روسي يستهدف إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4682-december-27-2021/",
@@ -118,15 +142,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:22:47+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-3bd7110338bf830a9c8d1a31",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.zamanalwsl.net/news/article/142414/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "27 كانون الأول 2021\n\nجرحى مدنيون بقصف روسي يستهدف إدلب\n\n0\n\nالتعليقات\n\nإدلب\n\nالروسية\n\nمحافظة\n\nمنطقة\n\nإثر\n\nمعرة\n\nمدينة\n\nشمال\n\nتعليقات حول الموضوع",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

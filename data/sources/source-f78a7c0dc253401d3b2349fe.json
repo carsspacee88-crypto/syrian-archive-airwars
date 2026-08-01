@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/cza9U"
+    "https://archive.ph/cza9U",
+    "https://web.archive.org/web/20231003204802id_/https://eldorar.com/node/179207"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "El Dorar News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f81f2ec0329493b37cac0dca1d7b8ef090ade62cce78c014e30afac1b76e4fbc",
+  "content_variants": [
+    {
+      "bytes": 1165,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:40:47+00:00",
+      "sha256": "f81f2ec0329493b37cac0dca1d7b8ef090ade62cce78c014e30afac1b76e4fbc",
+      "source_url": "https://web.archive.org/web/20231003204802id_/https://eldorar.com/node/179207",
+      "text": "قتل طفل، اليوم الاثنين، إثر انفجار لغم أرضي من مخلفات الحرب في ريف جسر الشغور شمالي إدلب.\n\nوقالت مصادر إعلامية محلية: \"إن طفلًا قُتل بانفجار قنبلة عنقودية خلال رعيه الأغنام في الأراضي الزراعية على أطراف مدينة ‎جسرالشغور بريف ‎إدلب\".\n\nووثق \"الدفاع المدني السوري\" منذ بداية العام الحالي، مقتل 26 شخصًا بينهم 12 طفلًا، وإصابة 28 آخرين، جراء 28 انفجارًا ناتجة عن مخلفات الحرب في شمال غرب ‎سوريا.\n\nوحذر \"الدفاع المدني السوري\" من خطر مخلفات الحرب التي تنتشر بكثرة في شمال غربي ‎سوريا، وخاصة بالحقول والأراضي الزراعية.\n\nوكان نظام الأسد وروسيا قد أمطروا أرياف حلب وإدلب بالقنابل العنقودية، هذا الأمر تسبب فيما بعد بمقتل عشرات المدنيين، بينهم أطفال ونساء."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:40:46+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:40:47+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231003204802id_/https://eldorar.com/node/179207"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231003204802id_/https://eldorar.com/node/179207",
   "incident_ids": [
     "airwars-85558"
   ],
@@ -85,10 +109,10 @@
     "https://eldorar.com/node/179207"
   ],
   "original_url": "https://eldorar.com/node/179207",
-  "page_title": "",
+  "page_title": "مقتل طفل بانفجار لغم من مخلفات الحرب في ريف جسر الشغور مقتل طفل بانفجار لغم من مخلفات الحرب في ريف جسر الشغور مقتل طفل بانفجار لغم من مخلفات الحرب في ريف جسر الشغور | الدرر الشامية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4744-november-20-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:40:47+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f78a7c0dc253401d3b2349fe",
   "source_type": "news_article",
   "stable_id_basis": "https://eldorar.com/node/179207",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قتل طفل، اليوم الاثنين، إثر انفجار لغم أرضي من مخلفات الحرب في ريف جسر الشغور شمالي إدلب.\n\nوقالت مصادر إعلامية محلية: \"إن طفلًا قُتل بانفجار قنبلة عنقودية خلال رعيه الأغنام في الأراضي الزراعية على أطراف مدينة ‎جسرالشغور بريف ‎إدلب\".\n\nووثق \"الدفاع المدني السوري\" منذ بداية العام الحالي، مقتل 26 شخصًا بينهم 12 طفلًا، وإصابة 28 آخرين، جراء 28 انفجارًا ناتجة عن مخلفات الحرب في شمال غرب ‎سوريا.\n\nوحذر \"الدفاع المدني السوري\" من خطر مخلفات الحرب التي تنتشر بكثرة في شمال غربي ‎سوريا، وخاصة بالحقول والأراضي الزراعية.\n\nوكان نظام الأسد وروسيا قد أمطروا أرياف حلب وإدلب بالقنابل العنقودية، هذا الأمر تسبب فيما بعد بمقتل عشرات المدنيين، بينهم أطفال ونساء.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

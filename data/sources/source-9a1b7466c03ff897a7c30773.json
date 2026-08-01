@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/Gcknm"
+    "https://archive.md/Gcknm",
+    "https://web.archive.org/web/20240524195613id_/https://www.facebook.com/idlebcriminaloffice/posts/5181749171840679"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Idlebcriminaloffice",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "bd7ee085e85f095ba99d72cdcd051bd87d25c5d746c497d0183cba2bf259e52d",
+  "content_variants": [
+    {
+      "bytes": 556,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:29:07+00:00",
+      "sha256": "bd7ee085e85f095ba99d72cdcd051bd87d25c5d746c497d0183cba2bf259e52d",
+      "source_url": "https://web.archive.org/web/20240524195613id_/https://www.facebook.com/idlebcriminaloffice/posts/5181749171840679",
+      "text": "وقوع طفل شهيد و7 إصابات في صفوف المدنيين جراء القصف المدفعي من ميليشيات الروسية على مخيم للنازحين في محيط بلدة # ترمانين# شمال إدلب\nالشهيد : بسام حلاق...\n\nوقوع طفل شهيد و7 إصابات في صفوف المدنيين جراء القصف المدفعي من ميليشيات الروسية على مخيم للنازحين في محيط بلدة # ترمانين# شمال إدلب\nالشهيد : بسام حلاق ٧اعوام"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:29:06+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:29:07+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524195613id_/https://www.facebook.com/idlebcriminaloffice/posts/5181749171840679"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524195613id_/https://www.facebook.com/idlebcriminaloffice/posts/5181749171840679",
   "incident_ids": [
     "airwars-79740"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/idlebcriminaloffice/posts/5181749171840679"
   ],
   "original_url": "https://www.facebook.com/idlebcriminaloffice/posts/5181749171840679",
-  "page_title": "",
+  "page_title": "مكتب توثيق الجرائم في محافظة ادلب مكتب توثيق الجرائم في محافظة ادلب وقوع طفل شهيد و7... - مكتب توثيق الجرائم في محافظة ادلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4663-october-27-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:29:07+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9a1b7466c03ff897a7c30773",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/idlebcriminaloffice/posts/5181749171840679",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "وقوع طفل شهيد و7 إصابات في صفوف المدنيين جراء القصف المدفعي من ميليشيات الروسية على مخيم للنازحين في محيط بلدة # ترمانين# شمال إدلب\nالشهيد : بسام حلاق...\n\nوقوع طفل شهيد و7 إصابات في صفوف المدنيين جراء القصف المدفعي من ميليشيات الروسية على مخيم للنازحين في محيط بلدة # ترمانين# شمال إدلب\nالشهيد : بسام حلاق ٧اعوام",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
