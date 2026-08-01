@@ -141,7 +141,7 @@ class DirectArchiveIngest:
                     return response
                 if response.status_code not in {429, 500, 502, 503, 504}:
                     return response
-            except (httpx.TimeoutException, httpx.NetworkError):
+            except httpx.HTTPError:
                 pass
             await asyncio.sleep(min(8.0, (2**attempt) + random.random()))
         return None
