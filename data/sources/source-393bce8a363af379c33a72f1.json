@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/Y8un0"
+    "https://archive.is/Y8un0",
+    "https://web.archive.org/web/20230928114532id_/https://hawarnews.com/en/haber/aanes-sends-messages-to-international-parties-to-expose-turkish-occupation-crimes-h35777.html?fbclid=IwAR3uoNpL6BCIUf_G7imYdFB"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Hawar News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "22ed259200c5442774925d56eb60877ae7f3b2c2b4bc766b55bd793a0995b2e6",
+  "content_variants": [
+    {
+      "bytes": 2964,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:47:40+00:00",
+      "sha256": "22ed259200c5442774925d56eb60877ae7f3b2c2b4bc766b55bd793a0995b2e6",
+      "source_url": "https://web.archive.org/web/20230928114532id_/https://hawarnews.com/en/haber/aanes-sends-messages-to-international-parties-to-expose-turkish-occupation-crimes-h35777.html?fbclid=IwAR3uoNpL6BCIUf_G7imYdFB",
+      "text": "The Department of External Relations of the Autonomous Administration of North and East Syria directed several reports on the crimes of the Turkish occupation and its mercenaries in Afrin, as well as a file on the Janders massacre committed by the mercenaries on the eve of Newroz 2023.\n\nIn addition to an open letter on the fifth anniversary of the occupation of Afrin, to many embassies, parties, institutions, political and parliamentary figures in the world, according to what was published on the official website of the department.\n\nThe text of the message that was sent stated:\n\n“For five years, Afrin has been suffering from difficult conditions at various levels and fields. Afrin, which was before its occupation on March 18, 2018, a safe and stable place run by its people, and in which every culture, religion and thought was respected and appreciated. It was also a safe haven for about 200,000 people who fled the scourge of the Syrian war. And they resorted to it by virtue of its stability.\n\nToday, Afrin suffers from a devastating occupation, terrorism, extremism, confiscation of money and stones, and the forced displacement of its people, not to mention the scale of atrocities such as killing, kidnapping, ransom, plundering of culture, and systematic genocide against nature, history, and against Afrin's human and cultural makeup and its historical identity.\n\nThe latest crime that occurred was the targeting of Turkish-backed terrorist mercenaries, most of whom are from ISIS and extremist factions, of four Kurdish youth who celebrated the Newroz National Day, which led to their martyrdom.\n\nAll these acts must be opened for an independent international investigation, as well as holding criminals accountable for all acts committed in Afrin and the rest of the occupied areas of Syria. International and human rights organizations must fulfill their responsibilities and bring the criminals to justice. It is also urgent that this Turkish occupation of Afrin and our other regions end because there is and the continuation of the occupation, there is a great danger that continues and expands every day, and all of this is the responsibility of the international community in the first place and the duty of democratic societies because in Afrin the human identity is targeted and not just the geography of Afrin as a geography. Also, its forcibly displaced people who live in al-Shahba camps in Aleppo must be returned, and they face difficult conditions and poor living conditions, insisting on a dignified return to restore life to Afrin after everything in it has become one color that dominates everything, which is the color of the occupation and the terror of mercenaries.\n\nT/ Satt.\n\nANHA\n\nOther news\n\nLeader Ocalan's lawyers submit new request to meet with him\n\n​​​​​​​Under Damascus government, if you express your opinion you will be arrested\n\nMazloum Abdi stresses importance of People's solidarity in NE Syria"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:47:39+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:47:40+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230928114532id_/https://hawarnews.com/en/haber/aanes-sends-messages-to-international-parties-to-expose-turkish-occupation-crimes-h35777.html?fbclid=IwAR3uoNpL6BCIUf_G7imYdFB"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230928114532id_/https://hawarnews.com/en/haber/aanes-sends-messages-to-international-parties-to-expose-turkish-occupation-crimes-h35777.html?fbclid=IwAR3uoNpL6BCIUf_G7imYdFB",
   "incident_ids": [
     "airwars-89264"
   ],
@@ -85,10 +109,10 @@
     "https://hawarnews.com/en/haber/aanes-sends-messages-to-international-parties-to-expose-turkish-occupation-crimes-h35777.html?fbclid=IwAR3uoNpL6BCIUf_G7imYdFB"
   ],
   "original_url": "https://hawarnews.com/en/haber/aanes-sends-messages-to-international-parties-to-expose-turkish-occupation-crimes-h35777.html?fbclid=IwAR3uoNpL6BCIUf_G7imYdFB",
-  "page_title": "",
+  "page_title": "AANES sends messages to international parties to expose Turkish occupation crimes - ANHA | HAWARNEWS | English AANES sends messages to international parties to expose Turkish occupation crimes - ANHA | HAWARNEWS | English AANES sends messages to international parties to expose Turkish occupation crimes - ANHA | HAWARNEWS | English",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts590-march-20-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:47:40+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-393bce8a363af379c33a72f1",
   "source_type": "news_article",
   "stable_id_basis": "https://hawarnews.com/en/haber/aanes-sends-messages-to-international-parties-to-expose-turkish-occupation-crimes-h35777.html?fbclid=IwAR3uoNpL6BCIUf_G7imYdFB",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "The Department of External Relations of the Autonomous Administration of North and East Syria directed several reports on the crimes of the Turkish occupation and its mercenaries in Afrin, as well as a file on the Janders massacre committed by the mercenaries on the eve of Newroz 2023.\n\nIn addition to an open letter on the fifth anniversary of the occupation of Afrin, to many embassies, parties, institutions, political and parliamentary figures in the world, according to what was published on the official website of the department.\n\nThe text of the message that was sent stated:\n\n“For five years, Afrin has been suffering from difficult conditions at various levels and fields. Afrin, which was before its occupation on March 18, 2018, a safe and stable place run by its people, and in which every culture, religion and thought was respected and appreciated. It was also a safe haven for about 200,000 people who fled the scourge of the Syrian war. And they resorted to it by virtue of its stability.\n\nToday, Afrin suffers from a devastating occupation, terrorism, extremism, confiscation of money and stones, and the forced displacement of its people, not to mention the scale of atrocities such as killing, kidnapping, ransom, plundering of culture, and systematic genocide against nature, history, and against Afrin's human and cultural makeup and its historical identity.\n\nThe latest crime that occurred was the targeting of Turkish-backed terrorist mercenaries, most of whom are from ISIS and extremist factions, of four Kurdish youth who celebrated the Newroz National Day, which led to their martyrdom.\n\nAll these acts must be opened for an independent international investigation, as well as holding criminals accountable for all acts committed in Afrin and the rest of the occupied areas of Syria. International and human rights organizations must fulfill their responsibilities and bring the criminals to justice. It is also urgent that this Turkish occupation of Afrin and our other regions end because there is and the continuation of the occupation, there is a great danger that continues and expands every day, and all of this is the responsibility of the international community in the first place and the duty of democratic societies because in Afrin the human identity is targeted and not just the geography of Afrin as a geography. Also, its forcibly displaced people who live in al-Shahba camps in Aleppo must be returned, and they face difficult conditions and poor living conditions, insisting on a dignified return to restore life to Afrin after everything in it has become one color that dominates everything, which is the color of the occupation and the terror of mercenaries.\n\nT/ Satt.\n\nANHA\n\nOther news\n\nLeader Ocalan's lawyers submit new request to meet with him\n\n​​​​​​​Under Damascus government, if you express your opinion you will be arrested\n\nMazloum Abdi stresses importance of People's solidarity in NE Syria",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/BMB16"
+    "https://archive.is/BMB16",
+    "https://web.archive.org/web/20240525054631id_/https://shaam.org/news/syria-news/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D9%85%D9%88%D8%AC%D9%87-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%AD%D9%8A%D8%A9-%D9%88%D8%AA%D9%88%D9%82%D8%B9-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1.html"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "5d17c4a0fb8319f3b086ff02d79c960f6097f247e858b2e8bf9fdfe7dd9b234b",
+  "content_variants": [
+    {
+      "bytes": 2005,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:04:58+00:00",
+      "sha256": "5d17c4a0fb8319f3b086ff02d79c960f6097f247e858b2e8bf9fdfe7dd9b234b",
+      "source_url": "https://web.archive.org/web/20240525054631id_/https://shaam.org/news/syria-news/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D9%85%D9%88%D8%AC%D9%87-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%AD%D9%8A%D8%A9-%D9%88%D8%AA%D9%88%D9%82%D8%B9-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1.html",
+      "text": "قوات الأسد تستهدف مدنيين بصاروخ موجه قرب التفاحية وتوقع ثلاثة شهداء\n\nقوات الأسد تستهدف مدنيين بصاروخ موجه قرب التفاحية وتوقع ثلاثة شهداء\n\nاستشهد ثلاثة مدنيين وجرح آخر اليوم الاثنين، بقصف صاروخي مصده قوات الأسد على شبان يجمعون الحطب في منطقة التفاحية بريف إدلب الغربي، في تكرار لعمليات استهداف المدنيين على محاور بداما ومحيطها.وقال نشطاء إن قوات الأسد استهدفت بصاروخ مضاد للدروع أربعة مدنيين راجلين في موقع قرب قرية التفاحية، خلال جمعهم للحطب، ما أدى لسقوط ثلاث شهداء وجرح رابع، واجهت فرق الدفاع المدني صعوبة في الوصول إليهم لانتشالهم خوفاً من الاستهداف.وفي 21 تموز، استشهد عامل إنساني وأصيب قرابة 19 مدنياً، بصاروخ موجه مصدره مواقع النظام، استهدف تجمعاً للمدنيين قرب مطعم على طريق بداما - الزعينية، بريف إدلب الغربي، تسبب بسقوط شهيد مدني وهو عامل إنساني \"إياد اللري\"، وإصابة 19 مدنياً أخرين، بينهم 5 أطفال.وشهدت مناطق شمال غرب سوريا \"ريف إدلب الجنوبي في جبل الزاوية خاصة\" حملة تصعيد عنيفة منذ بداية شهر حزيران، خلفت العشرات من الشهداء والجرحى المدنيين، وسط استمرار التصعيد بوتيرة أخف، في حين تتكرر عمليات استهداف المدنيين بريف إدلب الغربي القريبة من مواقع قوات الأسد عبر استخدام الأسلحة المضادة للدروع."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:04:57+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:04:58+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525054631id_/https://shaam.org/news/syria-news/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D9%85%D9%88%D8%AC%D9%87-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%AD%D9%8A%D8%A9-%D9%88%D8%AA%D9%88%D9%82%D8%B9-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1.html"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525054631id_/https://shaam.org/news/syria-news/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D9%85%D9%88%D8%AC%D9%87-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%AD%D9%8A%D8%A9-%D9%88%D8%AA%D9%88%D9%82%D8%B9-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1.html",
   "incident_ids": [
     "airwars-79404"
   ],
@@ -85,10 +109,10 @@
     "http://www.shaam.org/news/syria-news/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D9%85%D9%88%D8%AC%D9%87-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%AD%D9%8A%D8%A9-%D9%88%D8%AA%D9%88%D9%82%D8%B9-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1.html"
   ],
   "original_url": "http://www.shaam.org/news/syria-news/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D9%85%D9%88%D8%AC%D9%87-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%AD%D9%8A%D8%A9-%D9%88%D8%AA%D9%88%D9%82%D8%B9-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1.html",
-  "page_title": "",
+  "page_title": "قوات الأسد تستهدف مدنيين بصاروخ موجه قرب التفاحية وتوقع ثلاثة شهداء | شبكة شام الإخبارية قوات الأسد تستهدف مدنيين بصاروخ موجه قرب التفاحية وتوقع ثلاثة شهداء قوات الأسد تستهدف مدنيين بصاروخ موجه قرب التفاحية وتوقع ثلاثة شهداء",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4654-october-11-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:04:58+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e0bf84bb49424acf6dc0ae65",
   "source_type": "news_article",
   "stable_id_basis": "http://www.shaam.org/news/syria-news/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D9%85%D9%88%D8%AC%D9%87-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%AD%D9%8A%D8%A9-%D9%88%D8%AA%D9%88%D9%82%D8%B9-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1.html",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قوات الأسد تستهدف مدنيين بصاروخ موجه قرب التفاحية وتوقع ثلاثة شهداء\n\nقوات الأسد تستهدف مدنيين بصاروخ موجه قرب التفاحية وتوقع ثلاثة شهداء\n\nاستشهد ثلاثة مدنيين وجرح آخر اليوم الاثنين، بقصف صاروخي مصده قوات الأسد على شبان يجمعون الحطب في منطقة التفاحية بريف إدلب الغربي، في تكرار لعمليات استهداف المدنيين على محاور بداما ومحيطها.وقال نشطاء إن قوات الأسد استهدفت بصاروخ مضاد للدروع أربعة مدنيين راجلين في موقع قرب قرية التفاحية، خلال جمعهم للحطب، ما أدى لسقوط ثلاث شهداء وجرح رابع، واجهت فرق الدفاع المدني صعوبة في الوصول إليهم لانتشالهم خوفاً من الاستهداف.وفي 21 تموز، استشهد عامل إنساني وأصيب قرابة 19 مدنياً، بصاروخ موجه مصدره مواقع النظام، استهدف تجمعاً للمدنيين قرب مطعم على طريق بداما - الزعينية، بريف إدلب الغربي، تسبب بسقوط شهيد مدني وهو عامل إنساني \"إياد اللري\"، وإصابة 19 مدنياً أخرين، بينهم 5 أطفال.وشهدت مناطق شمال غرب سوريا \"ريف إدلب الجنوبي في جبل الزاوية خاصة\" حملة تصعيد عنيفة منذ بداية شهر حزيران، خلفت العشرات من الشهداء والجرحى المدنيين، وسط استمرار التصعيد بوتيرة أخف، في حين تتكرر عمليات استهداف المدنيين بريف إدلب الغربي القريبة من مواقع قوات الأسد عبر استخدام الأسلحة المضادة للدروع.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

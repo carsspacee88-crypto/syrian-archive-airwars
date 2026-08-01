@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/lIr10"
+    "https://archive.is/lIr10",
+    "https://web.archive.org/web/20241008054855id_/https://news.snhr.org/2022/10/20/two-children-were-injured-in-the-bombing-of-the-syrian-regime-in-southern-idlib-on-oct-20/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Network for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "661f1eb7ebc908ade8ad24c28005ac93a73cc9fc69b147e6c5f6c4ff764e27b7",
+  "content_variants": [
+    {
+      "bytes": 1061,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:06:17+00:00",
+      "sha256": "661f1eb7ebc908ade8ad24c28005ac93a73cc9fc69b147e6c5f6c4ff764e27b7",
+      "source_url": "https://web.archive.org/web/20241008054855id_/https://news.snhr.org/2022/10/20/two-children-were-injured-in-the-bombing-of-the-syrian-regime-in-southern-idlib-on-oct-20/",
+      "text": "Date:\n\nTwo children were injured in the bombing of the Syrian regime in southern Idlib on Oct 20\n\nRelated News\n\nMan killed, two others injured, in a ground regime attack in W. Aleppo, October 3, 2024\n\nBody of man named Osama al-Jawabra found in E. Daraa, October 1, 2024\n\nMan named Abdul Aziz al-Dahik dies due to torture in regime detention centers, September 30, 2024\n\nSyrian regime forces used a guided missile to bomb a car belonging to a family who were picking olives in an agricultural area adjacent to Majdaliya village in the southern suburbs of Idlib governorate, on October 20, 2022, injuring two children from the family, as well as inflicting extensive damage on the car.\n\nThe two injured children have been identified as 12-year-old Awad Muhammad al-Qassum and seven-year-old Muhanna Khaled Qassum, both of whom are from Kafr Batikh village, east of Idlib governorate.\n\nThe Syrian Network for Human Rights condemns Syrian regime forces’ bombardment of civilian areas, and their failure to distinguish between civilian areas and military targets."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:06:16+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:06:17+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241008054855id_/https://news.snhr.org/2022/10/20/two-children-were-injured-in-the-bombing-of-the-syrian-regime-in-southern-idlib-on-oct-20/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241008054855id_/https://news.snhr.org/2022/10/20/two-children-were-injured-in-the-bombing-of-the-syrian-regime-in-southern-idlib-on-oct-20/",
   "incident_ids": [
     "airwars-85188"
   ],
@@ -85,10 +109,10 @@
     "https://news.snhr.org/2022/10/20/two-children-were-injured-in-the-bombing-of-the-syrian-regime-in-southern-idlib-on-oct-20/"
   ],
   "original_url": "https://news.snhr.org/2022/10/20/two-children-were-injured-in-the-bombing-of-the-syrian-regime-in-southern-idlib-on-oct-20/",
-  "page_title": "",
+  "page_title": "Two children were injured in the bombing of the Syrian regime in southern Idlib on Oct 20 | News - Syrian Network for Human Rights Two children were injured in the bombing of the Syrian regime in southern Idlib on Oct 20 | News - Syrian Network for Human Rights Two children were injured in the bombing of the Syrian regime in southern Idlib on Oct 20 | News - Syrian Network for Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4732-october-20-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:06:17+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ed9a2a581ea8fbb0e9d0e776",
   "source_type": "news_article",
   "stable_id_basis": "https://news.snhr.org/2022/10/20/two-children-were-injured-in-the-bombing-of-the-syrian-regime-in-southern-idlib-on-oct-20/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Date:\n\nTwo children were injured in the bombing of the Syrian regime in southern Idlib on Oct 20\n\nRelated News\n\nMan killed, two others injured, in a ground regime attack in W. Aleppo, October 3, 2024\n\nBody of man named Osama al-Jawabra found in E. Daraa, October 1, 2024\n\nMan named Abdul Aziz al-Dahik dies due to torture in regime detention centers, September 30, 2024\n\nSyrian regime forces used a guided missile to bomb a car belonging to a family who were picking olives in an agricultural area adjacent to Majdaliya village in the southern suburbs of Idlib governorate, on October 20, 2022, injuring two children from the family, as well as inflicting extensive damage on the car.\n\nThe two injured children have been identified as 12-year-old Awad Muhammad al-Qassum and seven-year-old Muhanna Khaled Qassum, both of whom are from Kafr Batikh village, east of Idlib governorate.\n\nThe Syrian Network for Human Rights condemns Syrian regime forces’ bombardment of civilian areas, and their failure to distinguish between civilian areas and military targets.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

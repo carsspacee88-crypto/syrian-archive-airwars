@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/m15KE"
+    "https://archive.is/m15KE",
+    "https://web.archive.org/web/20220713172814id_/https://twitter.com/spc_fr/status/1547271479762583555"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@spc_fr",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "7f4125d59bae24094dd96f7d69f12c3382518262c5728dcbc0aaf36580afe86a",
+  "content_variants": [
+    {
+      "bytes": 300,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:50:07+00:00",
+      "sha256": "7f4125d59bae24094dd96f7d69f12c3382518262c5728dcbc0aaf36580afe86a",
+      "source_url": "https://web.archive.org/web/20220713172814id_/https://twitter.com/spc_fr/status/1547271479762583555",
+      "text": "Conversationمركز الصحافة الاجتماعية (SPC)@spc_frعاجل||\nإصابة شخص بجروح جراء سقوط 4 قذائف على قرية #مريمين بريف #عفرين مصدرها مناطق قوات سوريا الديمقراطية #قسد.5:27 PM · Jul 13, 2022·TweetDeck"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:50:06+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:50:07+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220713172814id_/https://twitter.com/spc_fr/status/1547271479762583555"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220713172814id_/https://twitter.com/spc_fr/status/1547271479762583555",
   "incident_ids": [
     "airwars-84055"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/spc_fr/status/1547271479762583555"
   ],
   "original_url": "https://twitter.com/spc_fr/status/1547271479762583555",
-  "page_title": "",
+  "page_title": "مركز الصحافة الاجتماعية (SPC) on Twitter مركز الصحافة الاجتماعية (SPC) on Twitter: \"عاجل||\nإصابة شخص بجروح جراء سقوط 4 قذائف على قرية #مريمين بريف #عفرين مصدرها مناطق قوات سوريا الديمقراطية #قسد.\" / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys140-july-13-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:50:07+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-586a38791b7829893cfd57dd",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/spc_fr/status/1547271479762583555",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Conversationمركز الصحافة الاجتماعية (SPC)@spc_frعاجل||\nإصابة شخص بجروح جراء سقوط 4 قذائف على قرية #مريمين بريف #عفرين مصدرها مناطق قوات سوريا الديمقراطية #قسد.5:27 PM · Jul 13, 2022·TweetDeck",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/hPjrG"
+    "https://archive.is/hPjrG",
+    "https://web.archive.org/web/20220725063440id_/https://twitter.com/SyriaCivilDefe/status/1551261313506107393"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@SyriaCivilDefe",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d13b3ffda30b54c58302029aafada1b34fd242af131236b7e6878a3698c00d66",
+  "content_variants": [
+    {
+      "bytes": 1556,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:49:42+00:00",
+      "sha256": "d13b3ffda30b54c58302029aafada1b34fd242af131236b7e6878a3698c00d66",
+      "source_url": "https://web.archive.org/web/20220725063440id_/https://twitter.com/SyriaCivilDefe/status/1551261313506107393",
+      "text": "Conversationالدفاع المدني السوري@SyriaCivilDefe·12h3/1ـ \"اليوم لما استجبنا أنا وزملائي للقصف على مخيم كويت الرحمة بريف عفرين،شفت الخوف والضياع بعيون الناس،شفت القهر بعيون عم مكلوم عميدور عن ابن أخوه بعد ما استشهد أخوه،حسيت أني ممكن انهار بس لما خبروني باحتمال وجود طفل تحت الأنقاض صار عندي دافع لإنقاذ روح ممكن تكون عمتصارع أنفاسها2742الدفاع المدني السوري@SyriaCivilDefe3/2ـ جريمة اليوم هي اختصار للقصة السورية، بالوقت يلي الناس عم تحلم بالعودة لبيوتها يلي هجرها منها النظام وروسيا بتجي القذائف لتقتل أحلامها، لما عم الطفل خبرني أنهم لقوه كانت فرحتي كبيرة وسط هاد العجز، حسيت وقتها بأنها نهاية حتمية للقصة السورية لما ينتصر الأمل على المجرم.5:41 PM · Jul 24, 2022·Twitter Web App3 Retweets17 Likesالدفاع المدني السوري@SyriaCivilDefe·12hReplying to @SyriaCivilDefe3/3ـ من حق هاد الشعب المكلوم بعد كل هي السنوات يتعاقب جلاديهم ومرتكبي المجازر وجرائم الحرب وأن يرجع على بلده ويعيش بأمان\".\nسلمة الهبل - متطوع بـ #الخوذ_البيضاء414"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:49:42+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:49:42+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220725063440id_/https://twitter.com/SyriaCivilDefe/status/1551261313506107393"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220725063440id_/https://twitter.com/SyriaCivilDefe/status/1551261313506107393",
   "incident_ids": [
     "airwars-84183"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/SyriaCivilDefe/status/1551261313506107393"
   ],
   "original_url": "https://twitter.com/SyriaCivilDefe/status/1551261313506107393",
-  "page_title": "",
+  "page_title": "الدفاع المدني السوري on Twitter الدفاع المدني السوري on Twitter: \"3/2ـ جريمة اليوم هي اختصار للقصة السورية، بالوقت يلي الناس عم تحلم بالعودة لبيوتها يلي هجرها منها النظام وروسيا بتجي القذائف لتقتل أحلامها، لما عم الطفل خبرني أنهم لقوه كانت فرحتي كبيرة وسط هاد العجز، حسيت وقتها بأنها نهاية حتمية للقصة السورية لما ينتصر الأمل على المجرم. https://t.co/hyy5MRPcmf\" / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys141-july-24-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:49:42+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4e24119a33ca25b6aa1d0044",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/SyriaCivilDefe/status/1551261313506107393",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Conversationالدفاع المدني السوري@SyriaCivilDefe·12h3/1ـ \"اليوم لما استجبنا أنا وزملائي للقصف على مخيم كويت الرحمة بريف عفرين،شفت الخوف والضياع بعيون الناس،شفت القهر بعيون عم مكلوم عميدور عن ابن أخوه بعد ما استشهد أخوه،حسيت أني ممكن انهار بس لما خبروني باحتمال وجود طفل تحت الأنقاض صار عندي دافع لإنقاذ روح ممكن تكون عمتصارع أنفاسها2742الدفاع المدني السوري@SyriaCivilDefe3/2ـ جريمة اليوم هي اختصار للقصة السورية، بالوقت يلي الناس عم تحلم بالعودة لبيوتها يلي هجرها منها النظام وروسيا بتجي القذائف لتقتل أحلامها، لما عم الطفل خبرني أنهم لقوه كانت فرحتي كبيرة وسط هاد العجز، حسيت وقتها بأنها نهاية حتمية للقصة السورية لما ينتصر الأمل على المجرم.5:41 PM · Jul 24, 2022·Twitter Web App3 Retweets17 Likesالدفاع المدني السوري@SyriaCivilDefe·12hReplying to @SyriaCivilDefe3/3ـ من حق هاد الشعب المكلوم بعد كل هي السنوات يتعاقب جلاديهم ومرتكبي المجازر وجرائم الحرب وأن يرجع على بلده ويعيش بأمان\".\nسلمة الهبل - متطوع بـ #الخوذ_البيضاء414",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

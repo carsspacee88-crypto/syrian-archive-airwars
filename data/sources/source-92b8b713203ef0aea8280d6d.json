@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/xLwJK"
+    "https://archive.ph/xLwJK",
+    "https://web.archive.org/web/20240919001241id_/https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-mwatn-mtathraa-bjrahh-fy-asthdaf-mdynt-amwda-109269"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "946b7d4d4f748a26576e2147403ef74ea9b7bb693418c15d811880ed894dee4b",
+  "content_variants": [
+    {
+      "bytes": 891,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:55:35+00:00",
+      "sha256": "946b7d4d4f748a26576e2147403ef74ea9b7bb693418c15d811880ed894dee4b",
+      "source_url": "https://web.archive.org/web/20240919001241id_/https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-mwatn-mtathraa-bjrahh-fy-asthdaf-mdynt-amwda-109269",
+      "text": "وكالة فرات\n\nمركز الاخبار\n\nالخميس, ٢٩ أغسطس ٢٠٢٤, ١٨:٤٦\n\nاستُهدف موقع في حي المساكن بالجهة الشرقية لمدينة عامودا قبل قليل، أدى إلى إصابة مواطنَين اثنين، وفق ما أفادت به مراسلتنا.\n\nفيما استشهد المواطن هاني خلف، 35 عاماً، متأثراً بإصابته البليغة قبل وصوله إلى مشافي مدينة قامشلو رغم التدخل الطبي.\n\nوبذلك ارتفع عدد ضحايا الاستهداف لـ 3 أشخاص بين شهيد وإصابتين.\n\nوأدى الاستهداف الذي لم يُعرف إلى لحظة إعداد هذا الخبر، مصدره وطبيعته، إلى أضرار في شبكة التيار الكهربائي والمحال التجارية المجاورة كذلك."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:55:35+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:55:35+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240919001241id_/https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-mwatn-mtathraa-bjrahh-fy-asthdaf-mdynt-amwda-109269"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240919001241id_/https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-mwatn-mtathraa-bjrahh-fy-asthdaf-mdynt-amwda-109269",
   "incident_ids": [
     "airwars-116900"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/روج آفا - سوريا/astshhad-mwatn-mtathraa-bjrahh-fy-asthdaf-mdynt-amwda-109269"
   ],
   "original_url": "https://anfarabic.com/روج آفا - سوريا/astshhad-mwatn-mtathraa-bjrahh-fy-asthdaf-mdynt-amwda-109269",
-  "page_title": "",
+  "page_title": "ANF |\nاستشهاد مواطن متأثراً بجراحه جراء استهداف مدينة عامودا استشهاد مواطن متأثراً بجراحه جراء استهداف مدينة عامودا استشهاد مواطن متأثراً بجراحه جراء استهداف مدينة عامودا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts708-august-29-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:55:35+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-92b8b713203ef0aea8280d6d",
   "source_type": "news_article",
   "stable_id_basis": "https://anfarabic.com/روج آفا - سوريا/astshhad-mwatn-mtathraa-bjrahh-fy-asthdaf-mdynt-amwda-109269",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "وكالة فرات\n\nمركز الاخبار\n\nالخميس, ٢٩ أغسطس ٢٠٢٤, ١٨:٤٦\n\nاستُهدف موقع في حي المساكن بالجهة الشرقية لمدينة عامودا قبل قليل، أدى إلى إصابة مواطنَين اثنين، وفق ما أفادت به مراسلتنا.\n\nفيما استشهد المواطن هاني خلف، 35 عاماً، متأثراً بإصابته البليغة قبل وصوله إلى مشافي مدينة قامشلو رغم التدخل الطبي.\n\nوبذلك ارتفع عدد ضحايا الاستهداف لـ 3 أشخاص بين شهيد وإصابتين.\n\nوأدى الاستهداف الذي لم يُعرف إلى لحظة إعداد هذا الخبر، مصدره وطبيعته، إلى أضرار في شبكة التيار الكهربائي والمحال التجارية المجاورة كذلك.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

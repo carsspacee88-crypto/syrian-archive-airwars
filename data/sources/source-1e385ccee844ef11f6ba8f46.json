@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/kHhCB"
+    "https://archive.md/kHhCB",
+    "https://web.archive.org/web/20240515183909id_/https://www.facebook.com/ashoonews/posts/434833251483406"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Ashoonews",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f9498c7351e9320100bff8791cd2a9324372eb31e743775a676bd7e0ee798d8b",
+  "content_variants": [
+    {
+      "bytes": 151,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:44:44+00:00",
+      "sha256": "f9498c7351e9320100bff8791cd2a9324372eb31e743775a676bd7e0ee798d8b",
+      "source_url": "https://web.archive.org/web/20240515183909id_/https://www.facebook.com/ashoonews/posts/434833251483406",
+      "text": "طفلة شهيدة وثلاث إصابات باستهداف الحربي الروسي لمحيط بلدة #سرجه بريف إدلب الجنوبي ."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:44:43+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:44:44+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515183909id_/https://www.facebook.com/ashoonews/posts/434833251483406"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515183909id_/https://www.facebook.com/ashoonews/posts/434833251483406",
   "incident_ids": [
     "airwars-80283"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/ashoonews/posts/434833251483406"
   ],
   "original_url": "https://www.facebook.com/ashoonews/posts/434833251483406",
-  "page_title": "",
+  "page_title": "سلطان العبد الله Sultan Al Abdullah سلطان العبد الله Sultan Al Abdullah طفلة شهيدة وثلاث... - سلطان العبد الله Sultan Al Abdullah",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4672-november-25-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:44:44+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-1e385ccee844ef11f6ba8f46",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/ashoonews/posts/434833251483406",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "طفلة شهيدة وثلاث إصابات باستهداف الحربي الروسي لمحيط بلدة #سرجه بريف إدلب الجنوبي .",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

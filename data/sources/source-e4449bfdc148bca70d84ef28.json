@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/AdMlR"
+    "https://archive.is/AdMlR",
+    "https://web.archive.org/web/20240524222427id_/https://www.facebook.com/RadioAlthawraa/posts/pfbid02snNX6vvxQzWsDDR2D4MpXj7dik9yhUreWkJvuim8VwgnhaHFMAhdyeN2n4Earz2tl"
   ],
   "attempt_history": [
     {
@@ -105,12 +106,35 @@
   "author": "Revolution Radio",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2262b04483d53e0ba70f1b01c995d3e8dcaa7389e89762971c4ca6552bc3c312",
+  "content_variants": [
+    {
+      "bytes": 189,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:04:59+00:00",
+      "sha256": "2262b04483d53e0ba70f1b01c995d3e8dcaa7389e89762971c4ca6552bc3c312",
+      "source_url": "https://web.archive.org/web/20240524222427id_/https://www.facebook.com/RadioAlthawraa/posts/pfbid02snNX6vvxQzWsDDR2D4MpXj7dik9yhUreWkJvuim8VwgnhaHFMAhdyeN2n4Earz2tl",
+      "text": "#عاجل\nمراسلنا: عـ ـصابات الأسد تجدد قصـ ـفها الصـ ـاروخـ ـي على مدينة #جسر_الشغور غربي #إدلب\n#راديو_الثورة"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "no_archive_capture",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:04:58+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:04:59+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524222427id_/https://www.facebook.com/RadioAlthawraa/posts/pfbid02snNX6vvxQzWsDDR2D4MpXj7dik9yhUreWkJvuim8VwgnhaHFMAhdyeN2n4Earz2tl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524222427id_/https://www.facebook.com/RadioAlthawraa/posts/pfbid02snNX6vvxQzWsDDR2D4MpXj7dik9yhUreWkJvuim8VwgnhaHFMAhdyeN2n4Earz2tl",
   "incident_ids": [
     "airwars-106343"
   ],
@@ -126,10 +150,10 @@
     "https://www.facebook.com/RadioAlthawraa/posts/pfbid02snNX6vvxQzWsDDR2D4MpXj7dik9yhUreWkJvuim8VwgnhaHFMAhdyeN2n4Earz2tl"
   ],
   "original_url": "https://www.facebook.com/RadioAlthawraa/posts/pfbid02snNX6vvxQzWsDDR2D4MpXj7dik9yhUreWkJvuim8VwgnhaHFMAhdyeN2n4Earz2tl",
-  "page_title": "",
+  "page_title": "راديو الثورة راديو الثورة راديو الثورة - #عاجل\nمراسلنا: عـ ـصابات الأسد تجدد قصـ...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4838-october-7-2023/",
@@ -149,15 +173,15 @@
     "reason": "no_archive_capture",
     "status": "deferred"
   },
-  "retrieval_status": "no_archive_capture",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:04:59+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e4449bfdc148bca70d84ef28",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/RadioAlthawraa/posts/pfbid02snNX6vvxQzWsDDR2D4MpXj7dik9yhUreWkJvuim8VwgnhaHFMAhdyeN2n4Earz2tl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#عاجل\nمراسلنا: عـ ـصابات الأسد تجدد قصـ ـفها الصـ ـاروخـ ـي على مدينة #جسر_الشغور غربي #إدلب\n#راديو_الثورة",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

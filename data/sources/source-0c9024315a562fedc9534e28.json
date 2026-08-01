@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/uSACb"
+    "https://archive.is/uSACb",
+    "https://web.archive.org/web/20240524164652id_/https://www.facebook.com/alkhabour2011/posts/1473380279725730"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Al Khabour 2011",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8862357f95de8ce59a1a6c50f63de1491c627cc34e66678c84b7f85758d1db0c",
+  "content_variants": [
+    {
+      "bytes": 165,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:44:00+00:00",
+      "sha256": "8862357f95de8ce59a1a6c50f63de1491c627cc34e66678c84b7f85758d1db0c",
+      "source_url": "https://web.archive.org/web/20240524164652id_/https://www.facebook.com/alkhabour2011/posts/1473380279725730",
+      "text": "#الخابور\nارتفاع حصيلة قصف قوات النظام على معرة النعسان بريف #إدلب إلى 6 مدنيين بينهم 3 أطفال."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:43:59+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:44:00+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524164652id_/https://www.facebook.com/alkhabour2011/posts/1473380279725730"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524164652id_/https://www.facebook.com/alkhabour2011/posts/1473380279725730",
   "incident_ids": [
     "airwars-81860"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/alkhabour2011/posts/1473380279725730"
   ],
   "original_url": "https://www.facebook.com/alkhabour2011/posts/1473380279725730",
-  "page_title": "",
+  "page_title": "الخابور الخابور الخابور - #الخابور\nارتفاع حصيلة قصف قوات النظام على معرة...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4689-february-12-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:44:00+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0c9024315a562fedc9534e28",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/alkhabour2011/posts/1473380279725730",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#الخابور\nارتفاع حصيلة قصف قوات النظام على معرة النعسان بريف #إدلب إلى 6 مدنيين بينهم 3 أطفال.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

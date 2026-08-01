@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/lEiBn"
+    "https://archive.is/lEiBn",
+    "https://web.archive.org/web/20240416012936id_/https://www.syriahr.com/en/225028/?fbclid=IwAR39egbZIsIN8GyTxP5MD_644j-YI-gj9Umz4zyvQ74t6T908sklfcaO5yo"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b400cca58a9228bfa13e08e4dfe9dd27976beedf53c7e4cbf502aa9e4bfa3a4a",
+  "content_variants": [
+    {
+      "bytes": 2013,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:48:19+00:00",
+      "sha256": "b400cca58a9228bfa13e08e4dfe9dd27976beedf53c7e4cbf502aa9e4bfa3a4a",
+      "source_url": "https://web.archive.org/web/20240416012936id_/https://www.syriahr.com/en/225028/?fbclid=IwAR39egbZIsIN8GyTxP5MD_644j-YI-gj9Umz4zyvQ74t6T908sklfcaO5yo",
+      "text": "Aleppo | Three killed including woman and child in unknown explosion in house of leader of Sultan Murad\n\nAleppo province: Number of civilian deaths rise to three including woman and a child. Other five civilians were wounded in the blast that is likely caused due to explosion of ammunition in the headquarters of a leader of al-Sultan Murad in al-Dabis village in Jerbulas villages. According to SOHR activists, the leader was hosting those civilians to deport them to Turkey.\n\nEarlier, man and woman were killed and other civilians were wounded including children and females due to unknown explosion in a house in the village of al-Dabes in south Jerbalus in northeast Aleppo countryside. Sources expected the explosion was due to IED.\n\nOn the other hand, a child who is displaced from al-Fouriyah city in Deir Ezzor, after sustaining wounds in bike explosion in Jerbalus city in eastern Aleppo on August 28. The boy passed away in one of the Turkish hospitals.\n\nSOHR activists had documented the death of six members of the factions loyal to the Turkish forces, and other 12 were wounded including two kids in the same accident and they were transferred to the nearest hospital due to an explosion of booby-trapped car in Afrin city that is under control of the Turkish forces and its proxies in Aleppo countryside.\n\nPrev Post\n\nTo press Turkey to withdraw from Ras al-Ain and Tal Abyad | Activists launch campaign of “safe return without occupation” and hand protest memo to international organizations\n\nNext Post\n\nSOHR demands their immediate release | Al-Raqqah Intelligence keeps detaining three media activists for “communicating with bodies banned by the Autonomous Administration”\n\nSecurity chaos | Civilian kil*led by his brother in Hama countryside\n\nMilitary escalation | Officer of regime forces kil*led under shelling by “Al-Fath…\n\n“SOHR camera” captures the Autonomous Administration reconstruction of…\n\nDeir Ezzor | Civilian shot de*ad by regime forces on bank of Euphrates River"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:48:18+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:48:19+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240416012936id_/https://www.syriahr.com/en/225028/?fbclid=IwAR39egbZIsIN8GyTxP5MD_644j-YI-gj9Umz4zyvQ74t6T908sklfcaO5yo"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240416012936id_/https://www.syriahr.com/en/225028/?fbclid=IwAR39egbZIsIN8GyTxP5MD_644j-YI-gj9Umz4zyvQ74t6T908sklfcaO5yo",
   "incident_ids": [
     "airwars-79409"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/225028/?fbclid=IwAR39egbZIsIN8GyTxP5MD_644j-YI-gj9Umz4zyvQ74t6T908sklfcaO5yo"
   ],
   "original_url": "https://www.syriahr.com/en/225028/?fbclid=IwAR39egbZIsIN8GyTxP5MD_644j-YI-gj9Umz4zyvQ74t6T908sklfcaO5yo",
-  "page_title": "",
+  "page_title": "Aleppo | Three killed including woman and child in unknown explosion in house of leader of Sultan Murad - The Syrian Observatory For Human Rights Aleppo | Three killed including woman and child in unknown explosion in house of leader of Sultan Murad - The Syrian Observatory For Human Rights Aleppo | Three killed including woman and child in unknown explosion in house of leader of Sultan Murad - The Syrian Observatory For Human Rights Aleppo | Three killed including woman and child in unknown explosion in house of leader of Sultan Murad Aleppo | Three killed including woman and child in unknown explosion in house of leader of Sultan Murad",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys118-october-11-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:48:19+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-47f34a221c8671fc34d8b0f4",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/225028/?fbclid=IwAR39egbZIsIN8GyTxP5MD_644j-YI-gj9Umz4zyvQ74t6T908sklfcaO5yo",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Aleppo | Three killed including woman and child in unknown explosion in house of leader of Sultan Murad\n\nAleppo province: Number of civilian deaths rise to three including woman and a child. Other five civilians were wounded in the blast that is likely caused due to explosion of ammunition in the headquarters of a leader of al-Sultan Murad in al-Dabis village in Jerbulas villages. According to SOHR activists, the leader was hosting those civilians to deport them to Turkey.\n\nEarlier, man and woman were killed and other civilians were wounded including children and females due to unknown explosion in a house in the village of al-Dabes in south Jerbalus in northeast Aleppo countryside. Sources expected the explosion was due to IED.\n\nOn the other hand, a child who is displaced from al-Fouriyah city in Deir Ezzor, after sustaining wounds in bike explosion in Jerbalus city in eastern Aleppo on August 28. The boy passed away in one of the Turkish hospitals.\n\nSOHR activists had documented the death of six members of the factions loyal to the Turkish forces, and other 12 were wounded including two kids in the same accident and they were transferred to the nearest hospital due to an explosion of booby-trapped car in Afrin city that is under control of the Turkish forces and its proxies in Aleppo countryside.\n\nPrev Post\n\nTo press Turkey to withdraw from Ras al-Ain and Tal Abyad | Activists launch campaign of “safe return without occupation” and hand protest memo to international organizations\n\nNext Post\n\nSOHR demands their immediate release | Al-Raqqah Intelligence keeps detaining three media activists for “communicating with bodies banned by the Autonomous Administration”\n\nSecurity chaos | Civilian kil*led by his brother in Hama countryside\n\nMilitary escalation | Officer of regime forces kil*led under shelling by “Al-Fath…\n\n“SOHR camera” captures the Autonomous Administration reconstruction of…\n\nDeir Ezzor | Civilian shot de*ad by regime forces on bank of Euphrates River",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

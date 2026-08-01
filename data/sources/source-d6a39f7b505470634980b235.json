@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/1GUZS"
+    "https://archive.md/1GUZS",
+    "https://web.archive.org/web/20240816014500id_/https://www.syriahr.com/en/227616/?fbclid=IwAR0m2SOhz1oz07YbnkQzX9VHOvXdfW_Tc6_B40zgmf4-l1_P4ntHZ65jQsQ"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "7598bd9280a61586a117104c38ef30a1babf41a13fe29c90cb89c43e5db7fb18",
+  "content_variants": [
+    {
+      "bytes": 3496,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:04:06+00:00",
+      "sha256": "7598bd9280a61586a117104c38ef30a1babf41a13fe29c90cb89c43e5db7fb18",
+      "source_url": "https://web.archive.org/web/20240816014500id_/https://www.syriahr.com/en/227616/?fbclid=IwAR0m2SOhz1oz07YbnkQzX9VHOvXdfW_Tc6_B40zgmf4-l1_P4ntHZ65jQsQ",
+      "text": "Targeting ISIS members | Two killed and injured in drone attack in Jarabulus\n\nAleppo province: SOHR activists have reported that a drone, believed to belong to the International Coalition, has struck a car in Jarabulus city in the north-eastern countryside of Aleppo with a missile, killing one person and seriously wounding another. The two men are believed to be ISIS members.\n\nOn November 3, reliable sources informed the Syrian Observatory that helicopters of the International Coalition, headed by US forces, entered areas under the control of Turkish forces and their proxy factions on November 2, where airdrops were carried out in Hawarna neighbourhood in Ras al-Ain city (Sere Kaniye), near the Syria-Turkey border, and in Allouk village.\n\nAccording to SOHR sources, International Coalition Forces evacuated three people, one Saudi Arabian, one Australian and one Syrian from al-Raqqah province, from Ras al-Ain city, while three other people were evacuated from Allouk village to the north of Ras al-Ain city. The evacuated individuals had been serving in the “Islamic State” during its control of north and east Syria.\n\nIntersected sources told SOHR that the evacuated individuals worked for the International Coalition as “informants”, after the elimination of ISIS in that region. These individuals later joined the Turkish-backed faction of Ahrar al-Sharqiyyah in “Peace Spring” areas and continued communicating with the Coalition, as they provided the Coalition with coordinates of jihaid commanders who had served in the ranks of ISIS and al-Qaeda in order to be eliminated.\n\nIt is worth noting that this cell comprised nine members distributed in scattered areas under the control of “Peace Spring” operations room. However, the six people who were evacuated during this operation were the most prominent.\n\nThis complicated operation was conducted after coordination between the International Coalition and Turkish forces, while it is believed that the helicopters that carried out the airdrops entered Syria from the military airbase of Incirlik in Turkey.\n\nDuring the operation, Ahrar al-Sharqiyyah group coordinated with Turkish Intelligence to storm the headquarters of the that cell, whose members cooperated and communicated with the Coalition base in al-Omar oil field, nearby Suluk town in northern al-Raqqah, on the Syria-Turkey border, with the aim to arrest the remaining members who were from Deir Ezzor province.\n\nThe Turkish Intelligence accepted to coordinate with Ahrar al-Sharqiyyah and launched a security operation on these headquarters in order to cover the coordination between Turkish forces and International Coalition, after the cell had been uncovered by Ahrar al-Sharqiyyah. The Turkish Intelligence also aimed to leave a good impression of the Turkish forces before the factions, pretending that Turkish forces never coordinated with International Coalition Forces.\n\nPrev Post\n\nWar ordnance | Child killed in land mine explosion in north Hama countryside\n\nNext Post\n\nCeasefire violations | Rebel killed in Sahl al-Ghab, and opposition factions shell regime military positions in Idlib and Aleppo countryside\n\nAttempting to exert pressure on regime forces to release detainees | Residents from…\n\nDaraa | Civilian killed and another injured in gunfire by regime forces in northern…\n\nDeir Ezzor | SDF sniper shoots civilian dead in eastern countryside\n\nOngoing violations | Military police arbitrarily arrest two civilians in Afrin…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:04:06+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:04:06+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240816014500id_/https://www.syriahr.com/en/227616/?fbclid=IwAR0m2SOhz1oz07YbnkQzX9VHOvXdfW_Tc6_B40zgmf4-l1_P4ntHZ65jQsQ"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240816014500id_/https://www.syriahr.com/en/227616/?fbclid=IwAR0m2SOhz1oz07YbnkQzX9VHOvXdfW_Tc6_B40zgmf4-l1_P4ntHZ65jQsQ",
   "incident_ids": [
     "airwars-79890"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/227616/?fbclid=IwAR0m2SOhz1oz07YbnkQzX9VHOvXdfW_Tc6_B40zgmf4-l1_P4ntHZ65jQsQ"
   ],
   "original_url": "https://www.syriahr.com/en/227616/?fbclid=IwAR0m2SOhz1oz07YbnkQzX9VHOvXdfW_Tc6_B40zgmf4-l1_P4ntHZ65jQsQ",
-  "page_title": "",
+  "page_title": "Targeting ISIS members | Two killed and injured in drone attack in Jarabulus - The Syrian Observatory For Human Rights Targeting ISIS members | Two killed and injured in drone attack in Jarabulus - The Syrian Observatory For Human Rights Targeting ISIS members | Two killed and injured in drone attack in Jarabulus - The Syrian Observatory For Human Rights Targeting ISIS members | Two killed and injured in drone attack in Jarabulus Targeting ISIS members | Two killed and injured in drone attack in Jarabulus",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1969-november-7-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:04:06+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d6a39f7b505470634980b235",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/227616/?fbclid=IwAR0m2SOhz1oz07YbnkQzX9VHOvXdfW_Tc6_B40zgmf4-l1_P4ntHZ65jQsQ",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Targeting ISIS members | Two killed and injured in drone attack in Jarabulus\n\nAleppo province: SOHR activists have reported that a drone, believed to belong to the International Coalition, has struck a car in Jarabulus city in the north-eastern countryside of Aleppo with a missile, killing one person and seriously wounding another. The two men are believed to be ISIS members.\n\nOn November 3, reliable sources informed the Syrian Observatory that helicopters of the International Coalition, headed by US forces, entered areas under the control of Turkish forces and their proxy factions on November 2, where airdrops were carried out in Hawarna neighbourhood in Ras al-Ain city (Sere Kaniye), near the Syria-Turkey border, and in Allouk village.\n\nAccording to SOHR sources, International Coalition Forces evacuated three people, one Saudi Arabian, one Australian and one Syrian from al-Raqqah province, from Ras al-Ain city, while three other people were evacuated from Allouk village to the north of Ras al-Ain city. The evacuated individuals had been serving in the “Islamic State” during its control of north and east Syria.\n\nIntersected sources told SOHR that the evacuated individuals worked for the International Coalition as “informants”, after the elimination of ISIS in that region. These individuals later joined the Turkish-backed faction of Ahrar al-Sharqiyyah in “Peace Spring” areas and continued communicating with the Coalition, as they provided the Coalition with coordinates of jihaid commanders who had served in the ranks of ISIS and al-Qaeda in order to be eliminated.\n\nIt is worth noting that this cell comprised nine members distributed in scattered areas under the control of “Peace Spring” operations room. However, the six people who were evacuated during this operation were the most prominent.\n\nThis complicated operation was conducted after coordination between the International Coalition and Turkish forces, while it is believed that the helicopters that carried out the airdrops entered Syria from the military airbase of Incirlik in Turkey.\n\nDuring the operation, Ahrar al-Sharqiyyah group coordinated with Turkish Intelligence to storm the headquarters of the that cell, whose members cooperated and communicated with the Coalition base in al-Omar oil field, nearby Suluk town in northern al-Raqqah, on the Syria-Turkey border, with the aim to arrest the remaining members who were from Deir Ezzor province.\n\nThe Turkish Intelligence accepted to coordinate with Ahrar al-Sharqiyyah and launched a security operation on these headquarters in order to cover the coordination between Turkish forces and International Coalition, after the cell had been uncovered by Ahrar al-Sharqiyyah. The Turkish Intelligence also aimed to leave a good impression of the Turkish forces before the factions, pretending that Turkish forces never coordinated with International Coalition Forces.\n\nPrev Post\n\nWar ordnance | Child killed in land mine explosion in north Hama countryside\n\nNext Post\n\nCeasefire violations | Rebel killed in Sahl al-Ghab, and opposition factions shell regime military positions in Idlib and Aleppo countryside\n\nAttempting to exert pressure on regime forces to release detainees | Residents from…\n\nDaraa | Civilian killed and another injured in gunfire by regime forces in northern…\n\nDeir Ezzor | SDF sniper shoots civilian dead in eastern countryside\n\nOngoing violations | Military police arbitrarily arrest two civilians in Afrin…",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

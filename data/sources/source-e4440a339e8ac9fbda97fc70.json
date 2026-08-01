@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20221009042436id_/https://thecradle.co/Article/News/16611"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "The Cradle",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "3994ede62ac25faa41de4f9f9624545b23ea59b583f82c8313823c407fdd1565",
+  "content_variants": [
+    {
+      "bytes": 2138,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:04:51+00:00",
+      "sha256": "3994ede62ac25faa41de4f9f9624545b23ea59b583f82c8313823c407fdd1565",
+      "source_url": "https://web.archive.org/web/20221009042436id_/https://thecradle.co/Article/News/16611",
+      "text": "(Photo Credit: Getty Images)\n\nUS Central Command (CENTCOM) claimed on 6 October that US forces killed two senior members of ISIS via airstrikes in northern Syria.\n\nUS sources say that the air strike killed both Abu-Hashim al-Umawi, a deputy wali (governor) of Syria, and another senior ISIS official associated with him.\n\nReports have disclosed that none of the US forces units involved were injured, nor was there damage to US equipment during the execution of this operation.\n\nInitial assessments by CENTCOM indicated that no civilians were wounded or killed during the operation.\n\nThe airstrikes came on the same day that CENTCOM said US forces had killed another ISIS member during a helicopter raid on a government-held village in Syria’s northeast.\n\nThe UK-based Syrian Observatory for Human Rights (SOHR) noted that a raid in areas held by Damascus’s government was unusual.\n\nUS forces carried out a helicopter raid in Syria “near the village of Qamishli, targeting Rakkan Wahid al-Shammari, an ISIS official known to facilitate the smuggling of weapons and fighters to support ISIS operations,” CENTCOM said.\n\n“Al-Shammari was killed, one of his associates was wounded and two others were detained by US forces,” Washington added.\n\nEarlier last month, local sources in Syria’s northeastern Hasakah governorate reported that a US military convoy was intercepted by the Syrian Arab Army (SAA) in the vicinity of Qamishli.\n\nSeveral technical vehicles from the US-backed Syrian Democratic Forces (SDF) accompanied the US convoy and were also forced to turn tail.\n\nThe Pentagon claims that the presence of US troops in Syria is aimed at preventing ISIS from taking control of the country’s vast oil fields.\n\nHowever, the US army is often spotted trafficking oil and wheat out of the country to their bases in Iraq.\n\nTwo weeks prior, the Syrian Ministry of Foreign Affairs revealed Damascus’s losses in the oil and gas sectors, as a result of the trafficking campaign by the US occupation, with direct and indirect losses amounting to about 107.1 billion dollars during the period from 2011 to the middle of this year."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:04:50+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:04:51+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20221009042436id_/https://thecradle.co/Article/News/16611"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20221009042436id_/https://thecradle.co/Article/News/16611",
   "incident_ids": [
     "airwars-85098"
   ],
@@ -55,10 +80,10 @@
     "https://thecradle.co/Article/news/16611"
   ],
   "original_url": "https://thecradle.co/Article/news/16611",
-  "page_title": "",
+  "page_title": "US forces kill two senior ISIS members in northern Syria: CENTCOM US forces kill two senior ISIS members in northern Syria: CENTCOM Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1984-october-6-2022/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:04:51+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e4440a339e8ac9fbda97fc70",
   "source_type": "other_web_page",
   "stable_id_basis": "https://thecradle.co/Article/news/16611",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "(Photo Credit: Getty Images)\n\nUS Central Command (CENTCOM) claimed on 6 October that US forces killed two senior members of ISIS via airstrikes in northern Syria.\n\nUS sources say that the air strike killed both Abu-Hashim al-Umawi, a deputy wali (governor) of Syria, and another senior ISIS official associated with him.\n\nReports have disclosed that none of the US forces units involved were injured, nor was there damage to US equipment during the execution of this operation.\n\nInitial assessments by CENTCOM indicated that no civilians were wounded or killed during the operation.\n\nThe airstrikes came on the same day that CENTCOM said US forces had killed another ISIS member during a helicopter raid on a government-held village in Syria’s northeast.\n\nThe UK-based Syrian Observatory for Human Rights (SOHR) noted that a raid in areas held by Damascus’s government was unusual.\n\nUS forces carried out a helicopter raid in Syria “near the village of Qamishli, targeting Rakkan Wahid al-Shammari, an ISIS official known to facilitate the smuggling of weapons and fighters to support ISIS operations,” CENTCOM said.\n\n“Al-Shammari was killed, one of his associates was wounded and two others were detained by US forces,” Washington added.\n\nEarlier last month, local sources in Syria’s northeastern Hasakah governorate reported that a US military convoy was intercepted by the Syrian Arab Army (SAA) in the vicinity of Qamishli.\n\nSeveral technical vehicles from the US-backed Syrian Democratic Forces (SDF) accompanied the US convoy and were also forced to turn tail.\n\nThe Pentagon claims that the presence of US troops in Syria is aimed at preventing ISIS from taking control of the country’s vast oil fields.\n\nHowever, the US army is often spotted trafficking oil and wheat out of the country to their bases in Iraq.\n\nTwo weeks prior, the Syrian Ministry of Foreign Affairs revealed Damascus’s losses in the oil and gas sectors, as a result of the trafficking campaign by the US occupation, with direct and indirect losses amounting to about 107.1 billion dollars during the period from 2011 to the middle of this year.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

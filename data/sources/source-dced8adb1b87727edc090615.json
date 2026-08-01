@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/VNVLN"
+    "https://archive.md/VNVLN",
+    "https://web.archive.org/web/20211107152624id_/https://twitter.com/sarihakann/status/1457365729104306189"
   ],
   "attempt_history": [
     {
@@ -67,12 +68,35 @@
   "author": "'@sarihakann",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1c21af773e2f00fe3bec23e50c662006d535c0d29b1a8643e76f1b1bcbd2f74e",
+  "content_variants": [
+    {
+      "bytes": 475,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:04:39+00:00",
+      "sha256": "1c21af773e2f00fe3bec23e50c662006d535c0d29b1a8643e76f1b1bcbd2f74e",
+      "source_url": "https://web.archive.org/web/20211107152624id_/https://twitter.com/sarihakann/status/1457365729104306189",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\nقصفت نيران التحالف جرابلس.\n\nويُزعم أن المتوفى ينتمي إلى جماعة الحرس الديني ... https://twitter.com/Bilgen1973/status/1457362823361802242 …pic.twitter.com/jAQ6nDxHqs\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:04:38+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:04:39+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211107152624id_/https://twitter.com/sarihakann/status/1457365729104306189"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211107152624id_/https://twitter.com/sarihakann/status/1457365729104306189",
   "incident_ids": [
     "airwars-79890"
   ],
@@ -88,10 +112,10 @@
     "https://twitter.com/sarihakann/status/1457365729104306189"
   ],
   "original_url": "https://twitter.com/sarihakann/status/1457365729104306189",
-  "page_title": "",
+  "page_title": "هاكان الأصفر on Twitter: \"قصفت نيران التحالف جرابلس.\n\nويُزعم أن المتوفى ينتمي إلى جماعة الحرس الديني ... https://t.co/Dn6sexcYt6… \" هاكان الأصفر on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1969-november-7-2021/",
@@ -111,16 +135,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:04:39+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-dced8adb1b87727edc090615",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/sarihakann/status/1457365729104306189",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\nقصفت نيران التحالف جرابلس.\n\nويُزعم أن المتوفى ينتمي إلى جماعة الحرس الديني ... https://twitter.com/Bilgen1973/status/1457362823361802242 …pic.twitter.com/jAQ6nDxHqs\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

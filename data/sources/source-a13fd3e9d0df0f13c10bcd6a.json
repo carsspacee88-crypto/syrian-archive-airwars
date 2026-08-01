@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/RM4tE"
+    "https://archive.md/RM4tE",
+    "https://web.archive.org/web/20260314134036id_/https://syriafiles.net/i52/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syria files",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8c3ea7e98b447fb737fa0d0ed27fd23b71c0746abdc90415ee2251a368781b5a",
+  "content_variants": [
+    {
+      "bytes": 1375,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:58:04+00:00",
+      "sha256": "8c3ea7e98b447fb737fa0d0ed27fd23b71c0746abdc90415ee2251a368781b5a",
+      "source_url": "https://web.archive.org/web/20260314134036id_/https://syriafiles.net/i52/",
+      "text": "ملفات سوريا (متابعات)\n\nنفذت قوات التحالف الدولي، فجر اليوم الإثنين، عملية إنزال جوي في مدينة البصيرة الواقعة تحت سيطرة “قوات سوريا الديمقراطية” (قسد) بريف دير الزور شرقي سوريا.\n\nوأفادت وكالة الأناضول بأن طائرات التحالف حلقت فجر اليوم في سماء البصيرة لتنفذ بعدها عملية إنزال بعشرات الجنود على المدينة.\n\nونقلت الوكالة عن مصادر محلية أن أصوات إطلاق النار سُمعت في المدينة بعد عملية الإنزال واستمرت لنحو ساعة.\n\n\"مجموعة السبع\" يشكلون جبهة متحدة ضد روسيا\n\nبريطانيا: المفاوضات الحالية فرصة أخيرة لإنقاذ الاتفاق النووي\n\nمقالات ذات صلة\n\n“الإدارة الذاتية” تحدد المواليد المطلوبة للتجنيد في مناطق سيطرتها\n\nروسيا تزج بتعزيزاتها العسكرية في عين عيسى\n\nالقبض على الذراع الأيمن للبغدادي في تركيا\n\nدورية روسية تركية تدخل مناطق بالحسكة للمرة الأولى\n\nاترك تعليقاً إلغاء الرد"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:58:02+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:58:04+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260314134036id_/https://syriafiles.net/i52/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260314134036id_/https://syriafiles.net/i52/",
   "incident_ids": [
     "airwars-80656"
   ],
@@ -85,10 +109,10 @@
     "https://syriafiles.net/i52/"
   ],
   "original_url": "https://syriafiles.net/i52/",
-  "page_title": "",
+  "page_title": "التحالف الدولي ينفذ إنزالاً جوياً في مدينة البصيرة بريف دير الزور – Syria Files التحالف الدولي ينفذ إنزالاً جوياً في مدينة البصيرة بريف دير الزور",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1974-december-12-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:58:04+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-a13fd3e9d0df0f13c10bcd6a",
   "source_type": "other_web_page",
   "stable_id_basis": "https://syriafiles.net/i52/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ملفات سوريا (متابعات)\n\nنفذت قوات التحالف الدولي، فجر اليوم الإثنين، عملية إنزال جوي في مدينة البصيرة الواقعة تحت سيطرة “قوات سوريا الديمقراطية” (قسد) بريف دير الزور شرقي سوريا.\n\nوأفادت وكالة الأناضول بأن طائرات التحالف حلقت فجر اليوم في سماء البصيرة لتنفذ بعدها عملية إنزال بعشرات الجنود على المدينة.\n\nونقلت الوكالة عن مصادر محلية أن أصوات إطلاق النار سُمعت في المدينة بعد عملية الإنزال واستمرت لنحو ساعة.\n\n\"مجموعة السبع\" يشكلون جبهة متحدة ضد روسيا\n\nبريطانيا: المفاوضات الحالية فرصة أخيرة لإنقاذ الاتفاق النووي\n\nمقالات ذات صلة\n\n“الإدارة الذاتية” تحدد المواليد المطلوبة للتجنيد في مناطق سيطرتها\n\nروسيا تزج بتعزيزاتها العسكرية في عين عيسى\n\nالقبض على الذراع الأيمن للبغدادي في تركيا\n\nدورية روسية تركية تدخل مناطق بالحسكة للمرة الأولى\n\nاترك تعليقاً إلغاء الرد",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

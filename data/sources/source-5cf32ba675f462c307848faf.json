@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20240525021029id_/https://www.facebook.com/SyriaCivilDefense/posts/2091714987650912"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Syrian Civil Defense",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1d1bdba10c6971b947268204bb2f2ba0d8aa63b1b06019b71fe3936c2017ed75",
+  "content_variants": [
+    {
+      "bytes": 638,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:50:31+00:00",
+      "sha256": "1d1bdba10c6971b947268204bb2f2ba0d8aa63b1b06019b71fe3936c2017ed75",
+      "source_url": "https://web.archive.org/web/20240525021029id_/https://www.facebook.com/SyriaCivilDefense/posts/2091714987650912",
+      "text": "إصابة الطفلين الشقيقين محمد وأحمد حج موسى، بجروح خطرة بانفجار قنبلة عنقودية من مخلفات قصف سابق لقوات النظام وروسيا، أثناء عملهما في رعي الأغنام بمزارع...\n\nإصابة الطفلين الشقيقين محمد وأحمد حج موسى، بجروح خطرة بانفجار قنبلة عنقودية من مخلفات قصف سابق لقوات النظام وروسيا، أثناء عملهما في رعي الأغنام بمزارع بلدة سرجة جنوبي #إدلب، اليوم الخميس 2 كانون..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:50:29+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:50:31+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525021029id_/https://www.facebook.com/SyriaCivilDefense/posts/2091714987650912"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525021029id_/https://www.facebook.com/SyriaCivilDefense/posts/2091714987650912",
   "incident_ids": [
     "airwars-80621"
   ],
@@ -55,10 +80,10 @@
     "https://www.facebook.com/SyriaCivilDefense/posts/2091714987650912"
   ],
   "original_url": "https://www.facebook.com/SyriaCivilDefense/posts/2091714987650912",
-  "page_title": "",
+  "page_title": "الدفاع المدني السوري الدفاع المدني السوري إصابة الطفلين الشقيقين محمد وأحمد... - الدفاع المدني السوري",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4676-december-2-2021/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:50:31+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5cf32ba675f462c307848faf",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SyriaCivilDefense/posts/2091714987650912",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة الطفلين الشقيقين محمد وأحمد حج موسى، بجروح خطرة بانفجار قنبلة عنقودية من مخلفات قصف سابق لقوات النظام وروسيا، أثناء عملهما في رعي الأغنام بمزارع...\n\nإصابة الطفلين الشقيقين محمد وأحمد حج موسى، بجروح خطرة بانفجار قنبلة عنقودية من مخلفات قصف سابق لقوات النظام وروسيا، أثناء عملهما في رعي الأغنام بمزارع بلدة سرجة جنوبي #إدلب، اليوم الخميس 2 كانون...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

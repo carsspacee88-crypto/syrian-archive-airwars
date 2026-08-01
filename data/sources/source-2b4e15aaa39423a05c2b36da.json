@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/pmGQt"
+    "https://archive.is/pmGQt",
+    "https://web.archive.org/web/20230205080535id_/https://sana.sy/en/?p=251506"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Arab News Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "fb6f731c0311f669ff946f425d51ab0ec1bc0a3320b3dec313a2cb0bfd549090",
+  "content_variants": [
+    {
+      "bytes": 519,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:46:31+00:00",
+      "sha256": "fb6f731c0311f669ff946f425d51ab0ec1bc0a3320b3dec313a2cb0bfd549090",
+      "source_url": "https://web.archive.org/web/20230205080535id_/https://sana.sy/en/?p=251506",
+      "text": "16 October، 2021\n\nDeir Ezzor, SANA-Groups of QSD militia, backed by US occupation Helicopters, raided al-Zar village in Deir Ezzor northeastern countryside.\n\nOne civilian was martyred in the operation.\n\nLocal source said that US military helicopters helped groups of QSD militia tighten the noose around al-Zar village in Deir Ezzor northeastern countryside, and then storm it amid heavy firing, QSD militia also kidnapped 10 of the village’s locals and took them to nearby dens.\n\nRafah al-Allouni/ Mazen Eyon\n\ntweet"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:46:29+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:46:31+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230205080535id_/https://sana.sy/en/?p=251506"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230205080535id_/https://sana.sy/en/?p=251506",
   "incident_ids": [
     "airwars-79501"
   ],
@@ -85,10 +109,10 @@
     "https://sana.sy/en/?p=251506"
   ],
   "original_url": "https://sana.sy/en/?p=251506",
-  "page_title": "",
+  "page_title": "One civilian martyred, others kidnapped by QSD militia in Deir Ezzor – Syrian Arab News Agency One civilian martyred, others kidnapped by QSD militia in Deir Ezzor One civilian martyred, others kidnapped by QSD militia in Deir Ezzor",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1966-october-16-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:46:31+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2b4e15aaa39423a05c2b36da",
   "source_type": "news_article",
   "stable_id_basis": "https://sana.sy/en/?p=251506",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "16 October، 2021\n\nDeir Ezzor, SANA-Groups of QSD militia, backed by US occupation Helicopters, raided al-Zar village in Deir Ezzor northeastern countryside.\n\nOne civilian was martyred in the operation.\n\nLocal source said that US military helicopters helped groups of QSD militia tighten the noose around al-Zar village in Deir Ezzor northeastern countryside, and then storm it amid heavy firing, QSD militia also kidnapped 10 of the village’s locals and took them to nearby dens.\n\nRafah al-Allouni/ Mazen Eyon\n\ntweet",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

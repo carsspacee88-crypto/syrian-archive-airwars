@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/yLyHO"
+    "https://archive.is/yLyHO",
+    "https://web.archive.org/web/20240524191334id_/https://www.facebook.com/gbrjexr/posts/pfbid0u27XCRhXoDCpTmSAKQWLxqF3KVjjjhfEUDaDZsfvWADVHreiWYeRzVULx2hBBRqzl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Khalid Mahmoud",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b0f094ef96c39c90af7a0ce73c60fd74fb254d4c3d338bb45104fd22e414c676",
+  "content_variants": [
+    {
+      "bytes": 656,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:47:09+00:00",
+      "sha256": "b0f094ef96c39c90af7a0ce73c60fd74fb254d4c3d338bb45104fd22e414c676",
+      "source_url": "https://web.archive.org/web/20240524191334id_/https://www.facebook.com/gbrjexr/posts/pfbid0u27XCRhXoDCpTmSAKQWLxqF3KVjjjhfEUDaDZsfvWADVHreiWYeRzVULx2hBBRqzl",
+      "text": "#عاجـــــــــــــــــــــــل\n\nشهداء وجرحى في #ترمانين بقصف الاحتلال #الروسي والنظام على المدنيين والصورة المرفقة تكفي\n\n📌يدعي النظام والإحتلال الخارجي...\n\n#عاجـــــــــــــــــــــــل\n\nشهداء وجرحى في #ترمانين بقصف الاحتلال #الروسي والنظام على المدنيين والصورة المرفقة تكفي\n\n📌يدعي النظام والإحتلال الخارجي #الروسي أنهم يستهدفون هيئة الجولاني المصنفة إرهاب..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:47:08+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:47:09+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524191334id_/https://www.facebook.com/gbrjexr/posts/pfbid0u27XCRhXoDCpTmSAKQWLxqF3KVjjjhfEUDaDZsfvWADVHreiWYeRzVULx2hBBRqzl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524191334id_/https://www.facebook.com/gbrjexr/posts/pfbid0u27XCRhXoDCpTmSAKQWLxqF3KVjjjhfEUDaDZsfvWADVHreiWYeRzVULx2hBBRqzl",
   "incident_ids": [
     "airwars-106010"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/gbrjexr/posts/pfbid0u27XCRhXoDCpTmSAKQWLxqF3KVjjjhfEUDaDZsfvWADVHreiWYeRzVULx2hBBRqzl"
   ],
   "original_url": "https://www.facebook.com/gbrjexr/posts/pfbid0u27XCRhXoDCpTmSAKQWLxqF3KVjjjhfEUDaDZsfvWADVHreiWYeRzVULx2hBBRqzl",
-  "page_title": "",
+  "page_title": "خالد محمود خالد محمود خالد محمود - #عاجـــــــــــــــــــــــل\n\nشهداء وجرحى في...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4835-october-6-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:47:09+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2aec2a5fcfed069b055c3cef",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/gbrjexr/posts/pfbid0u27XCRhXoDCpTmSAKQWLxqF3KVjjjhfEUDaDZsfvWADVHreiWYeRzVULx2hBBRqzl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#عاجـــــــــــــــــــــــل\n\nشهداء وجرحى في #ترمانين بقصف الاحتلال #الروسي والنظام على المدنيين والصورة المرفقة تكفي\n\n📌يدعي النظام والإحتلال الخارجي...\n\n#عاجـــــــــــــــــــــــل\n\nشهداء وجرحى في #ترمانين بقصف الاحتلال #الروسي والنظام على المدنيين والصورة المرفقة تكفي\n\n📌يدعي النظام والإحتلال الخارجي #الروسي أنهم يستهدفون هيئة الجولاني المصنفة إرهاب...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
