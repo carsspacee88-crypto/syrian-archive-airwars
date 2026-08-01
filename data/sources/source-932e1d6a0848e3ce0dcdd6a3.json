@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/iwbup"
+    "https://archive.ph/iwbup",
+    "https://web.archive.org/web/20241205230827id_/https://anfarabic.com/akhr-l-khbr/asabt-thlatht-atfal-bjrwh-khtyrt-jra-qsf-trky-ly-mnbj-95385"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2d525a7829a9679cd2a1d6e4508b53decfeff157b466b1df2ce1c15aa3fbcd9d",
+  "content_variants": [
+    {
+      "bytes": 2692,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:47:50+00:00",
+      "sha256": "2d525a7829a9679cd2a1d6e4508b53decfeff157b466b1df2ce1c15aa3fbcd9d",
+      "source_url": "https://web.archive.org/web/20241205230827id_/https://anfarabic.com/akhr-l-khbr/asabt-thlatht-atfal-bjrwh-khtyrt-jra-qsf-trky-ly-mnbj-95385",
+      "text": "ANF\n\nمركز الاخبار\n\nالأربعاء, ٦ سبتمبر ٢٠٢٣, ١٤:٢٣\n\nشن جيش الاحتلال التركي ومرتزقته، فجر اليوم، هجوماً برياً على قرى في الريف الغربي لمدينة منبج بالأسلحة الثقيلة، وكذلك على بعض القرى في الريف الشرقي للباب، ونتيجة القصف الذي تعرضت له قرية طحنة في الريف الغربي أصيب ثلاثة أطفال.\n\nونقلا عن سجلات مشافي بركل، هم كل من وئام الجاسم (15 عاماً)، وإبراهيم الجاسم (12 عاماً)، وجلال الجاسم (14 عاماً)، تم نقلهم إلى مشفى البركل في مدينة منبج لتلقي العلاج.\n\nالإداري والمساعد جراح في مشفى البركل أحمد العلي أوضح: \"تم إسعاف ثلاثة أطفال مصابين إلى المشفى صباح اليوم، أصيبوا نتيجة القصف العشوائي على منبج وريفها، وتم إدخالهم بشكل عاجل إلى غرفة العمليات، تم فتح بطن طفلين نتيجة وجود شظايا، حيث قمنا باستئصال الطحال للطفلين لأن أصابتهما في ذات المكان وحالتهما متشابهة\".\n\nونوّه: \"الطفل الأول وئام الجاسم، لديه إصابة في الكلية والمعدة واستئصال الطحال والطفل الآخر جلال الجاسم ذات الإصابات إلا أن كليته متضررة أكثر، هناك احتمال أن نقوم باستئصالها خلال الـ 24 ساعة القادمة، ولكن الآن نحن ننتظر على أمل أن تعود للعمل وإذا توقفت بشكل كلي سوف نضطر لاستئصالها طبعاً بعد موافقة أهل المصاب\".\n\nوعن وضع الطفل الثالث قال العلي: \"الطفل الثالث إبراهيم الجاسم أجرينا له تفجير صدر بسبب الريحة الصدرية، والأطفال الثلاثة في العناية المشددة، ونحن نبذل جهوداً من أجل إنقاذ أرواحهم\".\n\nهذا وتشن دول الاحتلال التركي منذ 1 من ايلول الجاري هجمات عنيفة على قرى الريفين الغربي والشمالي لمدينة منبج، ويتم استهداف منازل المدنيين بشكل مباشر، واستشهد حتى الآن خمسة مدنيين 4 منهم أطفال من عائلة واحدة، وأصيب مدنيون بجروح في قرى عرب حسن وعون الدادات."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:47:48+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:47:50+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241205230827id_/https://anfarabic.com/akhr-l-khbr/asabt-thlatht-atfal-bjrwh-khtyrt-jra-qsf-trky-ly-mnbj-95385"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241205230827id_/https://anfarabic.com/akhr-l-khbr/asabt-thlatht-atfal-bjrwh-khtyrt-jra-qsf-trky-ly-mnbj-95385",
   "incident_ids": [
     "airwars-92899"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/akhr-l-khbr/asabt-thlatht-atfal-bjrwh-khtyrt-jra-qsf-trky-ly-mnbj-95385"
   ],
   "original_url": "https://anfarabic.com/akhr-l-khbr/asabt-thlatht-atfal-bjrwh-khtyrt-jra-qsf-trky-ly-mnbj-95385",
-  "page_title": "",
+  "page_title": "ANF |\nإصابة ثلاثة أطفال بجروح خطيرة جراء قصف تركي على منبج إصابة ثلاثة أطفال بجروح خطيرة جراء قصف تركي على منبج إصابة ثلاثة أطفال بجروح خطيرة جراء قصف تركي على منبج",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts628-september-6-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:47:50+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-932e1d6a0848e3ce0dcdd6a3",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfarabic.com/akhr-l-khbr/asabt-thlatht-atfal-bjrwh-khtyrt-jra-qsf-trky-ly-mnbj-95385",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ANF\n\nمركز الاخبار\n\nالأربعاء, ٦ سبتمبر ٢٠٢٣, ١٤:٢٣\n\nشن جيش الاحتلال التركي ومرتزقته، فجر اليوم، هجوماً برياً على قرى في الريف الغربي لمدينة منبج بالأسلحة الثقيلة، وكذلك على بعض القرى في الريف الشرقي للباب، ونتيجة القصف الذي تعرضت له قرية طحنة في الريف الغربي أصيب ثلاثة أطفال.\n\nونقلا عن سجلات مشافي بركل، هم كل من وئام الجاسم (15 عاماً)، وإبراهيم الجاسم (12 عاماً)، وجلال الجاسم (14 عاماً)، تم نقلهم إلى مشفى البركل في مدينة منبج لتلقي العلاج.\n\nالإداري والمساعد جراح في مشفى البركل أحمد العلي أوضح: \"تم إسعاف ثلاثة أطفال مصابين إلى المشفى صباح اليوم، أصيبوا نتيجة القصف العشوائي على منبج وريفها، وتم إدخالهم بشكل عاجل إلى غرفة العمليات، تم فتح بطن طفلين نتيجة وجود شظايا، حيث قمنا باستئصال الطحال للطفلين لأن أصابتهما في ذات المكان وحالتهما متشابهة\".\n\nونوّه: \"الطفل الأول وئام الجاسم، لديه إصابة في الكلية والمعدة واستئصال الطحال والطفل الآخر جلال الجاسم ذات الإصابات إلا أن كليته متضررة أكثر، هناك احتمال أن نقوم باستئصالها خلال الـ 24 ساعة القادمة، ولكن الآن نحن ننتظر على أمل أن تعود للعمل وإذا توقفت بشكل كلي سوف نضطر لاستئصالها طبعاً بعد موافقة أهل المصاب\".\n\nوعن وضع الطفل الثالث قال العلي: \"الطفل الثالث إبراهيم الجاسم أجرينا له تفجير صدر بسبب الريحة الصدرية، والأطفال الثلاثة في العناية المشددة، ونحن نبذل جهوداً من أجل إنقاذ أرواحهم\".\n\nهذا وتشن دول الاحتلال التركي منذ 1 من ايلول الجاري هجمات عنيفة على قرى الريفين الغربي والشمالي لمدينة منبج، ويتم استهداف منازل المدنيين بشكل مباشر، واستشهد حتى الآن خمسة مدنيين 4 منهم أطفال من عائلة واحدة، وأصيب مدنيون بجروح في قرى عرب حسن وعون الدادات.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

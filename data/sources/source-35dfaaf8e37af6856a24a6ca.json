@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/dELBt"
+    "https://archive.is/dELBt",
+    "https://web.archive.org/web/20250514211355id_/https://anfenglish.com/rojava-syria/4-injured-by-turkish-attack-in-a-village-on-qamishlo-tirbespiye-road-67780"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "03ea0976da3aed454c94eb84b78dbb79e363f7e2bbdc45553d5507b1dbc569b3",
+  "content_variants": [
+    {
+      "bytes": 1617,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:32:27+00:00",
+      "sha256": "03ea0976da3aed454c94eb84b78dbb79e363f7e2bbdc45553d5507b1dbc569b3",
+      "source_url": "https://web.archive.org/web/20250514211355id_/https://anfenglish.com/rojava-syria/4-injured-by-turkish-attack-in-a-village-on-qamishlo-tirbespiye-road-67780",
+      "text": "ANF\n\nQAMISHLO\n\nWednesday, 14 June 2023, 16:21\n\nTurkey is escalating military violence against the autonomous region of northern and eastern Syria. After several deadly attacks on the greater Manbij area on Tuesday evening and Wednesday morning, the Turkish state has now bombed the canton of Qamishlo. According to current information, four people were injured.\n\nThe attack, which was presumably carried out by a drone, was directed against the village of Shorik. The village is located about twelve kilometres east of the city of Qamishlo on the road to Tirbespiyê and is home to a cement factory. Among other things, one vehicle was hit in the air strike. It was initially unclear whether the injured were civilians or members of combat units.\n\nThe Turkish army has carried out several drone attacks in North-East Syria in the past 24 hours. In Manbij, at least six members of the local military council have been killed and three others wounded in four known airstrikes since last night. Four of the fighters died while trying to evacuate two children injured by artillery fire on a village near the town. In addition, a civilian was killed in a drone strike on his house.\n\nAt least four soldiers of the Syrian government forces were killed and five others wounded in the shelling of positions in the north of Aleppo. According to information from the region, drone and artillery attacks by the Turkish army and its jihadist proxy forces have been taking place in Shehba and Sherawa, Afrin since Tuesday evening. Apparently, the drone strikes were aimed directly at military posts of the Syrian government forces."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:32:27+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:32:27+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250514211355id_/https://anfenglish.com/rojava-syria/4-injured-by-turkish-attack-in-a-village-on-qamishlo-tirbespiye-road-67780"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250514211355id_/https://anfenglish.com/rojava-syria/4-injured-by-turkish-attack-in-a-village-on-qamishlo-tirbespiye-road-67780",
   "incident_ids": [
     "airwars-89590"
   ],
@@ -85,10 +109,10 @@
     "https://anfenglish.com/rojava-syria/4-injured-by-turkish-attack-in-a-village-on-qamishlo-tirbespiye-road-67780"
   ],
   "original_url": "https://anfenglish.com/rojava-syria/4-injured-by-turkish-attack-in-a-village-on-qamishlo-tirbespiye-road-67780",
-  "page_title": "",
+  "page_title": "ANF |\n4 injured by Turkish attack in a village on Qamishlo-Tirbespiyê road 4 injured by Turkish attack in a village on Qamishlo-Tirbespiyê road 4 injured by Turkish attack in a village on Qamishlo-Tirbespiyê road",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts603-june-14-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:32:27+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-35dfaaf8e37af6856a24a6ca",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfenglish.com/rojava-syria/4-injured-by-turkish-attack-in-a-village-on-qamishlo-tirbespiye-road-67780",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ANF\n\nQAMISHLO\n\nWednesday, 14 June 2023, 16:21\n\nTurkey is escalating military violence against the autonomous region of northern and eastern Syria. After several deadly attacks on the greater Manbij area on Tuesday evening and Wednesday morning, the Turkish state has now bombed the canton of Qamishlo. According to current information, four people were injured.\n\nThe attack, which was presumably carried out by a drone, was directed against the village of Shorik. The village is located about twelve kilometres east of the city of Qamishlo on the road to Tirbespiyê and is home to a cement factory. Among other things, one vehicle was hit in the air strike. It was initially unclear whether the injured were civilians or members of combat units.\n\nThe Turkish army has carried out several drone attacks in North-East Syria in the past 24 hours. In Manbij, at least six members of the local military council have been killed and three others wounded in four known airstrikes since last night. Four of the fighters died while trying to evacuate two children injured by artillery fire on a village near the town. In addition, a civilian was killed in a drone strike on his house.\n\nAt least four soldiers of the Syrian government forces were killed and five others wounded in the shelling of positions in the north of Aleppo. According to information from the region, drone and artillery attacks by the Turkish army and its jihadist proxy forces have been taking place in Shehba and Sherawa, Afrin since Tuesday evening. Apparently, the drone strikes were aimed directly at military posts of the Syrian government forces.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

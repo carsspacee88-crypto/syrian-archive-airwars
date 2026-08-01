@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/iohyW"
+    "https://archive.is/iohyW",
+    "https://web.archive.org/web/20220928190918id_/https://bissanfm.com/news/61039?fbclid=IwAR0q8UNPO7s21jFYMkX4qoBXYO5mzKMhDRXIuRUGkjiAGTefyU2L0SDfVYg"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Bissan FM",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "efb19e29526d10059feeb56e8d8cbca24b493362f7f914853a37a3336f7e97df",
+  "content_variants": [
+    {
+      "bytes": 2162,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:43:55+00:00",
+      "sha256": "efb19e29526d10059feeb56e8d8cbca24b493362f7f914853a37a3336f7e97df",
+      "source_url": "https://web.archive.org/web/20220928190918id_/https://bissanfm.com/news/61039?fbclid=IwAR0q8UNPO7s21jFYMkX4qoBXYO5mzKMhDRXIuRUGkjiAGTefyU2L0SDfVYg",
+      "text": "نقل أحد الجرحى الذين سقطوا جراء استهداف مسيرة انتحارية سوق تل رفعت شمال حلب\n\nفقد شخصان حياتهما وأصيب 9 آخرين اليوم الأربعاء نتيجة استهداف طائرة تركية انتحارية مسيرة سوق مدينة تل رفعت بريف حلب الشمالي، في حين تم نقل المصابين إلى مشفى تل رفعت.\n\nوقال المرصد السوري لحقوق الإنسان إن المنطقة المستهدفة يوجد فيها مقر للأمن العسكري التابع للنظام.\n\nوبالأمس ألقت طائرة تركية مسيرة قنابل على أطراف قرية الشيخ عيسى بريف حلب الشمالي، دون ورود معلومات عن خسائر بشرية.\n\nويوم الجمعة الماضي أصيبت امرأة مسنّة وطفلة في قصف تركي على مدينة تل رفعت بريف حلب الشمالي.\n\nومنذ أسابيع كثفت تركيا من قصف مناطق منبج وتل رفعت وعين العرب كوباني بريف حلب، وهددت بشن عملية عسكرية للسيطرة على تلك المناطق.\n\nوأسفر القصف المستمر على ريف حلب عن سقوط العديد من الضحايا، إضافة إلى خسائر مادية، وحركة نزوح للسكان.\n\nشيوخ ووجهاء عشائر في الرقة يطالبون الأمم المتحدة بفرض حظر جوي\n\nقسد تتهم قوات النظام السوري بتلقي تعليمات بعدم الرد على الهجمات التركية\n\nمقالات ذات صلة\n\nأحزاب ومنظمات وجهات رسمية تدين استهداف مسؤولَين في الإدارة الذاتية\n\nإصابة طفل في استهداف سيارة بصاروخ حراري جنوب إدلب\n\nخطة لتشجير موقعين داخل مدينة الطبقة بأشجار حراجية ومثمرة\n\nشمل تأهيل حدائق ومدارس.. مشروع لمنظمة ديموس في عدة مناطق بالحسكة\n\nاترك تعليقاً إلغاء الرد"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:43:54+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:43:55+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220928190918id_/https://bissanfm.com/news/61039?fbclid=IwAR0q8UNPO7s21jFYMkX4qoBXYO5mzKMhDRXIuRUGkjiAGTefyU2L0SDfVYg"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220928190918id_/https://bissanfm.com/news/61039?fbclid=IwAR0q8UNPO7s21jFYMkX4qoBXYO5mzKMhDRXIuRUGkjiAGTefyU2L0SDfVYg",
   "incident_ids": [
     "airwars-84499"
   ],
@@ -85,10 +109,10 @@
     "https://bissanfm.com/news/61039?fbclid=IwAR0q8UNPO7s21jFYMkX4qoBXYO5mzKMhDRXIuRUGkjiAGTefyU2L0SDfVYg"
   ],
   "original_url": "https://bissanfm.com/news/61039?fbclid=IwAR0q8UNPO7s21jFYMkX4qoBXYO5mzKMhDRXIuRUGkjiAGTefyU2L0SDfVYg",
-  "page_title": "",
+  "page_title": "مسيرة تركية انتحارية تودي بحياة شخصين وتصيب 9 آخرين في تل رفعت | بيسان إف إم - BISSAN FM مسيرة تركية انتحارية تودي بحياة شخصين وتصيب 9 آخرين في تل رفعت | بيسان إف إم - BISSAN FM",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts553-august-24-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:43:55+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-8026a6c5fa3a8555db05de86",
   "source_type": "other_web_page",
   "stable_id_basis": "https://bissanfm.com/news/61039?fbclid=IwAR0q8UNPO7s21jFYMkX4qoBXYO5mzKMhDRXIuRUGkjiAGTefyU2L0SDfVYg",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "نقل أحد الجرحى الذين سقطوا جراء استهداف مسيرة انتحارية سوق تل رفعت شمال حلب\n\nفقد شخصان حياتهما وأصيب 9 آخرين اليوم الأربعاء نتيجة استهداف طائرة تركية انتحارية مسيرة سوق مدينة تل رفعت بريف حلب الشمالي، في حين تم نقل المصابين إلى مشفى تل رفعت.\n\nوقال المرصد السوري لحقوق الإنسان إن المنطقة المستهدفة يوجد فيها مقر للأمن العسكري التابع للنظام.\n\nوبالأمس ألقت طائرة تركية مسيرة قنابل على أطراف قرية الشيخ عيسى بريف حلب الشمالي، دون ورود معلومات عن خسائر بشرية.\n\nويوم الجمعة الماضي أصيبت امرأة مسنّة وطفلة في قصف تركي على مدينة تل رفعت بريف حلب الشمالي.\n\nومنذ أسابيع كثفت تركيا من قصف مناطق منبج وتل رفعت وعين العرب كوباني بريف حلب، وهددت بشن عملية عسكرية للسيطرة على تلك المناطق.\n\nوأسفر القصف المستمر على ريف حلب عن سقوط العديد من الضحايا، إضافة إلى خسائر مادية، وحركة نزوح للسكان.\n\nشيوخ ووجهاء عشائر في الرقة يطالبون الأمم المتحدة بفرض حظر جوي\n\nقسد تتهم قوات النظام السوري بتلقي تعليمات بعدم الرد على الهجمات التركية\n\nمقالات ذات صلة\n\nأحزاب ومنظمات وجهات رسمية تدين استهداف مسؤولَين في الإدارة الذاتية\n\nإصابة طفل في استهداف سيارة بصاروخ حراري جنوب إدلب\n\nخطة لتشجير موقعين داخل مدينة الطبقة بأشجار حراجية ومثمرة\n\nشمل تأهيل حدائق ومدارس.. مشروع لمنظمة ديموس في عدة مناطق بالحسكة\n\nاترك تعليقاً إلغاء الرد",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

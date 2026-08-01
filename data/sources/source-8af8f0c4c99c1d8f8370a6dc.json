@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/KgfB4"
+    "https://archive.is/KgfB4",
+    "https://web.archive.org/web/20240907213014id_/https://www.basnews.com/en/babat/811248"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Basnews",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "47825dbb4b25697f433d09d2d6251c993cb9181a297cfd3023a1890dc7f3ad5f",
+  "content_variants": [
+    {
+      "bytes": 1441,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:45:34+00:00",
+      "sha256": "47825dbb4b25697f433d09d2d6251c993cb9181a297cfd3023a1890dc7f3ad5f",
+      "source_url": "https://web.archive.org/web/20240907213014id_/https://www.basnews.com/en/babat/811248",
+      "text": "Russian Soldier Killed in Alleged Turkish Attack in Syria\n\nERBIL — A Russian soldier on Monday was killed and four were wounded when their personnel carrier was hit in an alleged Turkish drone strike on the outskirts of Aleppo, according to media reports.\n\n“A Turkish drone targeted a Russian personnel carrier on a route linking between the villages of Herbel and Maarat Umm Hawsh in the northern countryside of Aleppo,\" Efrin News 24 website said.\n\nThe wounded have been transferred to a local hospital for treatment. Details of their injuries are sketchy, media reports say. The Russian Federation has military bases in Syria, and is allied with the Syrian government.\n\nSyria has been embroiled in a long drawn-out civil war since 2011, which has caused widespread displacement of its populations. Furthermore, parts of Syria fell to the Islamic State (IS) jihadist group, which further destabilized the country.\n\nHowever, regional countries have now reestablished their political relations with the Syrian government. The country was recently readmitted into the Arab League, and President Bashar al-Assad subsequently took part in the recent meeting of the League on regional developments.\n\nOPINION\n\nLATEST NEWS\n\nNEWS\n\nKurdistan\n\nIraq\n\nMiddle East\n\nDiaspora\n\nWorld\n\nLIFESTYLE\n\nEnvironment\n\nHealth\n\nMagazine\n\nTechnology\n\nTourism\n\nCULTURE & ARTS\n\nAgenda\n\nBook\n\nArt\n\nCinema\n\nMusic\n\nLanguages\n\nKurdish\n\nArabic\n\nPersian\n\nKurdî\n\nTürkçe"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:45:33+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:45:34+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240907213014id_/https://www.basnews.com/en/babat/811248"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240907213014id_/https://www.basnews.com/en/babat/811248",
   "incident_ids": [
     "airwars-89669"
   ],
@@ -85,10 +109,10 @@
     "https://www.basnews.com/en/babat/811248"
   ],
   "original_url": "https://www.basnews.com/en/babat/811248",
-  "page_title": "",
+  "page_title": "Russian Soldier Killed in Alleged Turkish Attack in Syria Russian Soldier Killed in Alleged Turkish Attack in Syria Russian Soldier Killed in Alleged Turkish Attack in Syria",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts600-june-12-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:45:34+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-8af8f0c4c99c1d8f8370a6dc",
   "source_type": "news_article",
   "stable_id_basis": "https://www.basnews.com/en/babat/811248",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Russian Soldier Killed in Alleged Turkish Attack in Syria\n\nERBIL — A Russian soldier on Monday was killed and four were wounded when their personnel carrier was hit in an alleged Turkish drone strike on the outskirts of Aleppo, according to media reports.\n\n“A Turkish drone targeted a Russian personnel carrier on a route linking between the villages of Herbel and Maarat Umm Hawsh in the northern countryside of Aleppo,\" Efrin News 24 website said.\n\nThe wounded have been transferred to a local hospital for treatment. Details of their injuries are sketchy, media reports say. The Russian Federation has military bases in Syria, and is allied with the Syrian government.\n\nSyria has been embroiled in a long drawn-out civil war since 2011, which has caused widespread displacement of its populations. Furthermore, parts of Syria fell to the Islamic State (IS) jihadist group, which further destabilized the country.\n\nHowever, regional countries have now reestablished their political relations with the Syrian government. The country was recently readmitted into the Arab League, and President Bashar al-Assad subsequently took part in the recent meeting of the League on regional developments.\n\nOPINION\n\nLATEST NEWS\n\nNEWS\n\nKurdistan\n\nIraq\n\nMiddle East\n\nDiaspora\n\nWorld\n\nLIFESTYLE\n\nEnvironment\n\nHealth\n\nMagazine\n\nTechnology\n\nTourism\n\nCULTURE & ARTS\n\nAgenda\n\nBook\n\nArt\n\nCinema\n\nMusic\n\nLanguages\n\nKurdish\n\nArabic\n\nPersian\n\nKurdî\n\nTürkçe",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

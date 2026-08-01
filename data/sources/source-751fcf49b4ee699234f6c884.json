@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/Zdwjl"
+    "https://archive.ph/Zdwjl",
+    "https://web.archive.org/web/20240416075610id_/https://www.syriahr.com/en/257432/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0c3521a3b915bc7c82c8567af117fdb469e3c2d4288dc20c624372c58cd05db9",
+  "content_variants": [
+    {
+      "bytes": 2410,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:41:16+00:00",
+      "sha256": "0c3521a3b915bc7c82c8567af117fdb469e3c2d4288dc20c624372c58cd05db9",
+      "source_url": "https://web.archive.org/web/20240416075610id_/https://www.syriahr.com/en/257432/",
+      "text": "Second Turkish drone attack in 24 hours | SDF member killed and others injured in attack on two military vehicles in Al-Malikiyah/ Dayrik in Al-Hasakah countryside\n\nSOHR sources have reported that a Turkish drone targeted a SDF military vehicle and a vehicle carrying tunnel diggers in Khanna Serri in Al-Malikiyah/Dayrik border city in Al-Hasakah countryside.\n\nAccording to SOHR sources, the attack left at least one person dead and others injured, some seriously, so the death toll is believed to rise.\n\nYesterday, SOHR activists reported that a Turkish drone targeted with a rocket a military post where SDF Tel Tamr Military Council forces are stationed in Tel Al-Laban village in Tel Tamr countryside, north-west of Al-Hasakah, leaving Military Council member injured. The SDF member was transferred to field hospital for treatment.\n\nAccordingly, the number of attacks carried out by Turkish drones on areas controlled by the “Autonomous Administration in northern and north-eastern Syria, AANES” since early 2022 has reached 33. These attacks left 21 people dead, including two children and six women, and over 62 others injured; they are distributed as follows:\n\n• January: Three attacks left three people dead and 13 others injured.\n\n• February: Ten attacks killed eight people, including two children and a young female fighter, and injured 21 others.\n\n• March: Two attacks injured two people.\n\n• April: 11 attacks left six people dead, including three women, and 19 others injured.\n\n• May: Four attacks left three people, including a woman, dead and seven others injured.\n\n• June: Three attacks hit a post in Al-Qamishli that left a man injured and another position in Tel Tamr that left a Tel Tamr Military Council member injured and two military vehicles were hit in Al-Malikiyah area which left SDF member and others injured, including workers digging tunnels.\n\nPrev Post\n\nCoalition drone attack | Yemeni leader of close Al-Qaeda faction killed in Idlib\n\nNext Post\n\nMurders in Al-Hawl camp | Decapitated body of displaced Syrian woman found in Al-Hasakah countryside\n\nSecurity chaos | Civilian kil*led by his brother in Hama countryside\n\nMilitary escalation | Officer of regime forces kil*led under shelling by “Al-Fath…\n\n“SOHR camera” captures the Autonomous Administration reconstruction of…\n\nDeir Ezzor | Civilian shot de*ad by regime forces on bank of Euphrates River"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:41:15+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:41:16+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240416075610id_/https://www.syriahr.com/en/257432/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240416075610id_/https://www.syriahr.com/en/257432/",
   "incident_ids": [
     "airwars-83918"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/257432/"
   ],
   "original_url": "https://www.syriahr.com/en/257432/",
-  "page_title": "",
+  "page_title": "Second Turkish drone attack in 24 hours | SDF member killed and others injured in attack on two military vehicles in Al-Malikiyah/ Dayrik in Al-Hasakah countryside - The Syrian Observatory For Human Rights Second Turkish drone attack in 24 hours | SDF member killed and others injured in attack on two military vehicles in Al-Malikiyah/ Dayrik in Al-Hasakah countryside - The Syrian Observatory For Human Rights Second Turkish drone attack in 24 hours | SDF member killed and others injured in attack on two military vehicles in Al-Malikiyah/ Dayrik in Al-Hasakah countryside - The Syrian Observatory For Human Rights Second Turkish drone attack in 24 hours | SDF member killed and others injured in attack on two military vehicles in Al-Malikiyah/ Dayrik in Al-Hasakah countryside Second Turkish drone attack in 24 hours | SDF member killed and others injured in attack on two military vehicles in Al-Malikiyah/ Dayrik in Al-Hasakah countryside",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts521-june-28-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:41:16+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-751fcf49b4ee699234f6c884",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/257432/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Second Turkish drone attack in 24 hours | SDF member killed and others injured in attack on two military vehicles in Al-Malikiyah/ Dayrik in Al-Hasakah countryside\n\nSOHR sources have reported that a Turkish drone targeted a SDF military vehicle and a vehicle carrying tunnel diggers in Khanna Serri in Al-Malikiyah/Dayrik border city in Al-Hasakah countryside.\n\nAccording to SOHR sources, the attack left at least one person dead and others injured, some seriously, so the death toll is believed to rise.\n\nYesterday, SOHR activists reported that a Turkish drone targeted with a rocket a military post where SDF Tel Tamr Military Council forces are stationed in Tel Al-Laban village in Tel Tamr countryside, north-west of Al-Hasakah, leaving Military Council member injured. The SDF member was transferred to field hospital for treatment.\n\nAccordingly, the number of attacks carried out by Turkish drones on areas controlled by the “Autonomous Administration in northern and north-eastern Syria, AANES” since early 2022 has reached 33. These attacks left 21 people dead, including two children and six women, and over 62 others injured; they are distributed as follows:\n\n• January: Three attacks left three people dead and 13 others injured.\n\n• February: Ten attacks killed eight people, including two children and a young female fighter, and injured 21 others.\n\n• March: Two attacks injured two people.\n\n• April: 11 attacks left six people dead, including three women, and 19 others injured.\n\n• May: Four attacks left three people, including a woman, dead and seven others injured.\n\n• June: Three attacks hit a post in Al-Qamishli that left a man injured and another position in Tel Tamr that left a Tel Tamr Military Council member injured and two military vehicles were hit in Al-Malikiyah area which left SDF member and others injured, including workers digging tunnels.\n\nPrev Post\n\nCoalition drone attack | Yemeni leader of close Al-Qaeda faction killed in Idlib\n\nNext Post\n\nMurders in Al-Hawl camp | Decapitated body of displaced Syrian woman found in Al-Hasakah countryside\n\nSecurity chaos | Civilian kil*led by his brother in Hama countryside\n\nMilitary escalation | Officer of regime forces kil*led under shelling by “Al-Fath…\n\n“SOHR camera” captures the Autonomous Administration reconstruction of…\n\nDeir Ezzor | Civilian shot de*ad by regime forces on bank of Euphrates River",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

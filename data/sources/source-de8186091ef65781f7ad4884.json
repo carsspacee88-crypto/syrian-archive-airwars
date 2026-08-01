@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/Lenk8"
+    "https://archive.md/Lenk8",
+    "https://web.archive.org/web/20260113054228id_/https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D9%86%D9%81%D8%B0-%D8%A5%D9%86%D8%B2%D8%A7%D9%84%D8%A7-%D8%AC%D9%88%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1/2445894"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Aa",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "39a7d2eccc5a54200faef803d553331f9ed8e2471e8b8f291feefd5d96851060",
+  "content_variants": [
+    {
+      "bytes": 1375,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:01:14+00:00",
+      "sha256": "39a7d2eccc5a54200faef803d553331f9ed8e2471e8b8f291feefd5d96851060",
+      "source_url": "https://web.archive.org/web/20260113054228id_/https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D9%86%D9%81%D8%B0-%D8%A5%D9%86%D8%B2%D8%A7%D9%84%D8%A7-%D8%AC%D9%88%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1/2445894",
+      "text": "سوريا.. التحالف الدولي ينفذ إنزالا جويا في دير الزور\n\nدير الزور (سوريا) / الأناضول\n\nنفذت قوات التحالف الدولي، فجر الاثنين، عملية إنزال جوي في مدينة البصيرة الواقعة تحت سيطرة تنظيم \"ي ب ك- بي كا كا\" الإرهابي بمحافظة دير الزور شرقي سوريا.\n\nوأفادت مصادر محلية لمراسل الأناضول بأن طائرات التحالف حلقت فجر اليوم في سماء البصيرة لتنفذ بعدها عملية إنزال بعشرات الجنود على المدينة.\n\nوأوضحت المصادر أن أصوات إطلاق النار سُمعت في المدينة بعد عملية الإنزال واستمرت لنحو ساعة.\n\nفيما ذكرت وكالة أنباء النظام السوري (سانا) أن \"قوات التحالف اختطفت عددا من المدنيين خلال عملية الإنزال\".\n\nوتقوم قوات التحالف منذ تدخلها في سوريا في أواخر عام 2014 بعمليات إنزال ومداهمات للمدن والبلدات شرقي سوريا ملاحقة عناصر تنظيم \"داعش\".\n\nأخبار ذات صلة\n\nالأردن يعلن تنفيذ غارات \"نوعية\" ضد \"داعش\" بسوريا"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:01:13+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:01:14+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260113054228id_/https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D9%86%D9%81%D8%B0-%D8%A5%D9%86%D8%B2%D8%A7%D9%84%D8%A7-%D8%AC%D9%88%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1/2445894"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260113054228id_/https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D9%86%D9%81%D8%B0-%D8%A5%D9%86%D8%B2%D8%A7%D9%84%D8%A7-%D8%AC%D9%88%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1/2445894",
   "incident_ids": [
     "airwars-80656"
   ],
@@ -85,10 +109,10 @@
     "https://www.aa.com.tr/ar/%d8%a7%d9%84%d8%af%d9%88%d9%84-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-%d9%8a%d9%86%d9%81%d8%b0-%d8%a5%d9%86%d8%b2%d8%a7%d9%84%d8%a7-%d8%ac%d9%88%d9%8a%d8%a7-%d9%81%d9%8a-%d8%af%d9%8a%d8%b1-%d8%a7%d9%84%d8%b2%d9%88%d8%b1/2445894"
   ],
   "original_url": "https://www.aa.com.tr/ar/%d8%a7%d9%84%d8%af%d9%88%d9%84-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-%d9%8a%d9%86%d9%81%d8%b0-%d8%a5%d9%86%d8%b2%d8%a7%d9%84%d8%a7-%d8%ac%d9%88%d9%8a%d8%a7-%d9%81%d9%8a-%d8%af%d9%8a%d8%b1-%d8%a7%d9%84%d8%b2%d9%88%d8%b1/2445894",
-  "page_title": "",
+  "page_title": "سوريا.. التحالف الدولي ينفذ إنزالا جويا في دير الزور سوريا.. التحالف الدولي ينفذ إنزالا جويا في دير الزور سوريا.. التحالف الدولي ينفذ إنزالا جويا في دير الزور",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1974-december-12-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:01:14+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-de8186091ef65781f7ad4884",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.aa.com.tr/ar/%d8%a7%d9%84%d8%af%d9%88%d9%84-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/%d8%b3%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-%d9%8a%d9%86%d9%81%d8%b0-%d8%a5%d9%86%d8%b2%d8%a7%d9%84%d8%a7-%d8%ac%d9%88%d9%8a%d8%a7-%d9%81%d9%8a-%d8%af%d9%8a%d8%b1-%d8%a7%d9%84%d8%b2%d9%88%d8%b1/2445894",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "سوريا.. التحالف الدولي ينفذ إنزالا جويا في دير الزور\n\nدير الزور (سوريا) / الأناضول\n\nنفذت قوات التحالف الدولي، فجر الاثنين، عملية إنزال جوي في مدينة البصيرة الواقعة تحت سيطرة تنظيم \"ي ب ك- بي كا كا\" الإرهابي بمحافظة دير الزور شرقي سوريا.\n\nوأفادت مصادر محلية لمراسل الأناضول بأن طائرات التحالف حلقت فجر اليوم في سماء البصيرة لتنفذ بعدها عملية إنزال بعشرات الجنود على المدينة.\n\nوأوضحت المصادر أن أصوات إطلاق النار سُمعت في المدينة بعد عملية الإنزال واستمرت لنحو ساعة.\n\nفيما ذكرت وكالة أنباء النظام السوري (سانا) أن \"قوات التحالف اختطفت عددا من المدنيين خلال عملية الإنزال\".\n\nوتقوم قوات التحالف منذ تدخلها في سوريا في أواخر عام 2014 بعمليات إنزال ومداهمات للمدن والبلدات شرقي سوريا ملاحقة عناصر تنظيم \"داعش\".\n\nأخبار ذات صلة\n\nالأردن يعلن تنفيذ غارات \"نوعية\" ضد \"داعش\" بسوريا",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/T8hRu"
+    "https://archive.is/T8hRu",
+    "https://web.archive.org/web/20240515213349id_/https://www.facebook.com/style0833/posts/1590099897988877"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Style0833",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "30fd944fa9ff539df9100f4336962329cb18b9664d9f9c4a853ff51ea5b93bba",
+  "content_variants": [
+    {
+      "bytes": 568,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:54:01+00:00",
+      "sha256": "30fd944fa9ff539df9100f4336962329cb18b9664d9f9c4a853ff51ea5b93bba",
+      "source_url": "https://web.archive.org/web/20240515213349id_/https://www.facebook.com/style0833/posts/1590099897988877",
+      "text": "اصابات مدينة اريحا… حتى اللحظه 5 اصابات 💔\n\n1 ـ اسماعيل عريان\n\n2 ـ عبدالله كشتان\n\n3 ـ عبد القادر المونه\n\n4 ـ نورس النائب ( امرأه )\n\n5 ـ وصال صبحي...\n\nاصابات مدينة اريحا… حتى اللحظه 5 اصابات 💔\n\n1 ـ اسماعيل عريان\n\n2 ـ عبدالله كشتان\n\n3 ـ عبد القادر المونه\n\n4 ـ نورس النائب ( امرأه )\n\n5 ـ وصال صبحي مليشو\n\nاللهمَّ شفاءاً لا يغادر السقما"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:54:00+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:54:01+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515213349id_/https://www.facebook.com/style0833/posts/1590099897988877"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515213349id_/https://www.facebook.com/style0833/posts/1590099897988877",
   "incident_ids": [
     "airwars-78216"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/style0833/posts/1590099897988877"
   ],
   "original_url": "https://www.facebook.com/style0833/posts/1590099897988877",
-  "page_title": "",
+  "page_title": "ستايل ــ Style ستايل ــ Style ستايل ــ Style - اصابات مدينة اريحا… حتى اللحظه 5 اصابات 💔...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4642-september-8-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:54:01+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b92257b552946bfbbcb5ca84",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/style0833/posts/1590099897988877",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "اصابات مدينة اريحا… حتى اللحظه 5 اصابات 💔\n\n1 ـ اسماعيل عريان\n\n2 ـ عبدالله كشتان\n\n3 ـ عبد القادر المونه\n\n4 ـ نورس النائب ( امرأه )\n\n5 ـ وصال صبحي...\n\nاصابات مدينة اريحا… حتى اللحظه 5 اصابات 💔\n\n1 ـ اسماعيل عريان\n\n2 ـ عبدالله كشتان\n\n3 ـ عبد القادر المونه\n\n4 ـ نورس النائب ( امرأه )\n\n5 ـ وصال صبحي مليشو\n\nاللهمَّ شفاءاً لا يغادر السقما",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/r7x0n"
+    "https://archive.is/r7x0n",
+    "https://web.archive.org/web/20220401163256id_/https://www.jesrpress.com/2022/02/15/%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A5%D8%B9%D8%B2%D8%A7%D8%B2-%D8%B3%D9%82%D9%88%D8%B7-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D9%86-%D8%A7%D9%84%D9%85/"
   ],
   "attempt_history": [
     {
@@ -67,12 +68,35 @@
   "author": "Jesr press",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "73fd152b54ef1922a8f4ba59e8a245326d38f175ae6df987663e66bab566674e",
+  "content_variants": [
+    {
+      "bytes": 1882,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:06:30+00:00",
+      "sha256": "73fd152b54ef1922a8f4ba59e8a245326d38f175ae6df987663e66bab566674e",
+      "source_url": "https://web.archive.org/web/20220401163256id_/https://www.jesrpress.com/2022/02/15/%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A5%D8%B9%D8%B2%D8%A7%D8%B2-%D8%B3%D9%82%D9%88%D8%B7-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D9%86-%D8%A7%D9%84%D9%85/",
+      "text": "مساءٌ دامٍ في إعزاز.. قتلى وجرحى من المدنيين (قائمة بأسماء الضحايا والجرحى)\n\nجسر – ريف حلب\n\nقتل 3 أشخاص من المدنيين، وأصيب أكثر من 10 أشخاص، جرّاء قصفٍ صاروخي، استهدف وسط مدينة إعزاز بريف حلب الشمالي مساء اليوم الثلاثاء 15 شباط/ فبراير.\n\nوقالت مصادر محلية، إنّ قصفاً صاروخياً مصدره المناطق التي تسيطر عليها “قوات سوريا الديمقراطية” (قسد) استهدف وسط مدينة إعزاز بريف حلب الشمالي اليوم الثلاثاء.\n\nوأضافت المصادر، أنّ الصواريخ سقطت في مناطق مأهولة بالسكان، حيث سقط إحداها بالقرب من مركز المخابرات في إعزاز، وآخر بجانب حديقة العثمانية وسط المدينة، بينما سقط صاروخ ثالث بالقرب من المشفى الوطني.\n\nونشرت المؤسسات الطبية، أسماء الضحايا والجرحى، الذين اسعفوا إلى مشافي المدينة.\n\nالسابق\n\nمقتل ضابطين طيارين من قوات النظام\n\nالتالي\n\nفي موسكو.. رئيس الطائفة الدرزيّة يطرح مطالب عدة\n\nجريمة مروعة في الحسكة بحق نساء.. قطع رأس سيديتين واصابة طفلة بجراح خطيرة\n\nطائرة تركية مسيّرة تقتل قيادياً من “قسد” بريف الحسكة\n\nفور بدء إعادة تأهيل آبار النفط.. مقتل شخصين في بئر “الأزرق” بدير الزور\n\nمصادر: اتفاق بين “قسد” وتجار لتأهيل واستثمار آبار نفطية بريف دير الزور"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:06:29+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:06:30+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220401163256id_/https://www.jesrpress.com/2022/02/15/%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A5%D8%B9%D8%B2%D8%A7%D8%B2-%D8%B3%D9%82%D9%88%D8%B7-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D9%86-%D8%A7%D9%84%D9%85/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220401163256id_/https://www.jesrpress.com/2022/02/15/%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A5%D8%B9%D8%B2%D8%A7%D8%B2-%D8%B3%D9%82%D9%88%D8%B7-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D9%86-%D8%A7%D9%84%D9%85/",
   "incident_ids": [
     "airwars-81952"
   ],
@@ -88,10 +112,10 @@
     "https://www.jesrpress.com/2022/02/15/%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A5%D8%B9%D8%B2%D8%A7%D8%B2-%D8%B3%D9%82%D9%88%D8%B7-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D9%86-%D8%A7%D9%84%D9%85/"
   ],
   "original_url": "https://www.jesrpress.com/2022/02/15/%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A5%D8%B9%D8%B2%D8%A7%D8%B2-%D8%B3%D9%82%D9%88%D8%B7-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D9%86-%D8%A7%D9%84%D9%85/",
-  "page_title": "",
+  "page_title": "مساءٌ دامٍ في إعزاز.. قتلى وجرحى من المدنيين (قائمة بأسماء الضحايا والجرحى) - صحيفة جسر مساءٌ دامٍ في إعزاز.. قتلى وجرحى من المدنيين (قائمة بأسماء الضحايا والجرحى) - صحيفة جسر",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys125-february-15-2022/",
@@ -111,15 +135,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:06:30+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f0257f6a89e3d7c1da1a056b",
   "source_type": "news_article",
   "stable_id_basis": "https://www.jesrpress.com/2022/02/15/%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A5%D8%B9%D8%B2%D8%A7%D8%B2-%D8%B3%D9%82%D9%88%D8%B7-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D9%86-%D8%A7%D9%84%D9%85/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مساءٌ دامٍ في إعزاز.. قتلى وجرحى من المدنيين (قائمة بأسماء الضحايا والجرحى)\n\nجسر – ريف حلب\n\nقتل 3 أشخاص من المدنيين، وأصيب أكثر من 10 أشخاص، جرّاء قصفٍ صاروخي، استهدف وسط مدينة إعزاز بريف حلب الشمالي مساء اليوم الثلاثاء 15 شباط/ فبراير.\n\nوقالت مصادر محلية، إنّ قصفاً صاروخياً مصدره المناطق التي تسيطر عليها “قوات سوريا الديمقراطية” (قسد) استهدف وسط مدينة إعزاز بريف حلب الشمالي اليوم الثلاثاء.\n\nوأضافت المصادر، أنّ الصواريخ سقطت في مناطق مأهولة بالسكان، حيث سقط إحداها بالقرب من مركز المخابرات في إعزاز، وآخر بجانب حديقة العثمانية وسط المدينة، بينما سقط صاروخ ثالث بالقرب من المشفى الوطني.\n\nونشرت المؤسسات الطبية، أسماء الضحايا والجرحى، الذين اسعفوا إلى مشافي المدينة.\n\nالسابق\n\nمقتل ضابطين طيارين من قوات النظام\n\nالتالي\n\nفي موسكو.. رئيس الطائفة الدرزيّة يطرح مطالب عدة\n\nجريمة مروعة في الحسكة بحق نساء.. قطع رأس سيديتين واصابة طفلة بجراح خطيرة\n\nطائرة تركية مسيّرة تقتل قيادياً من “قسد” بريف الحسكة\n\nفور بدء إعادة تأهيل آبار النفط.. مقتل شخصين في بئر “الأزرق” بدير الزور\n\nمصادر: اتفاق بين “قسد” وتجار لتأهيل واستثمار آبار نفطية بريف دير الزور",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

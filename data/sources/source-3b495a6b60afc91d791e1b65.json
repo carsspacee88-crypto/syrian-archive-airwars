@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/PLiNj"
+    "https://archive.is/PLiNj",
+    "https://web.archive.org/web/20230206194500id_/https://anfarabic.com/akhr-l-khbr/b-85122"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2090ee7988b7ae580097be6c724ae42067c3194f0243b7649551ff9fd24b9018",
+  "content_variants": [
+    {
+      "bytes": 750,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:32:44+00:00",
+      "sha256": "2090ee7988b7ae580097be6c724ae42067c3194f0243b7649551ff9fd24b9018",
+      "source_url": "https://web.archive.org/web/20230206194500id_/https://anfarabic.com/akhr-l-khbr/b-85122",
+      "text": "إصابة شاب في قصف مسيرة للاحتلال مركز ناحية تل تمر\n\nأصيب شاب في استهدف مسيرة للاحتلال التركي سيارة في حي الحمرة بمركز ناحية تل تمر.\n\nوكالة فرات\n\nمركز الأخبار\n\nالاثنين, ٢١ نوفمبر ٢٠٢٢, ٢٣:٥٤\n\nاستهدفت مسيرة تابعة للاحتلال التركي سيارة في المدخل الشمالي لمركز ناحية تل تمر (حي الحمرة ) بالقرب من قاعدة للقوات الروسية.\n\nأسفر القصف عن إصابة الشاب عبد الرحمن رشيد حسن 17 عام ،نقل على إثرها إلى مشفى الشهيدة ليكرين لتلقي العلاج."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:32:43+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:32:44+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230206194500id_/https://anfarabic.com/akhr-l-khbr/b-85122"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230206194500id_/https://anfarabic.com/akhr-l-khbr/b-85122",
   "incident_ids": [
     "airwars-85478"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/akhr-l-khbr/b-85122"
   ],
   "original_url": "https://anfarabic.com/akhr-l-khbr/b-85122",
-  "page_title": "",
+  "page_title": "ANF | إصابة شاب في قصف مسيرة للاحتلال مركز ناحية تل تمر إصابة شاب في قصف مسيرة للاحتلال مركز ناحية تل تمر إصابة شاب في قصف مسيرة للاحتلال مركز ناحية تل تمر",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts569-november-21-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:32:44+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-3b495a6b60afc91d791e1b65",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfarabic.com/akhr-l-khbr/b-85122",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة شاب في قصف مسيرة للاحتلال مركز ناحية تل تمر\n\nأصيب شاب في استهدف مسيرة للاحتلال التركي سيارة في حي الحمرة بمركز ناحية تل تمر.\n\nوكالة فرات\n\nمركز الأخبار\n\nالاثنين, ٢١ نوفمبر ٢٠٢٢, ٢٣:٥٤\n\nاستهدفت مسيرة تابعة للاحتلال التركي سيارة في المدخل الشمالي لمركز ناحية تل تمر (حي الحمرة ) بالقرب من قاعدة للقوات الروسية.\n\nأسفر القصف عن إصابة الشاب عبد الرحمن رشيد حسن 17 عام ،نقل على إثرها إلى مشفى الشهيدة ليكرين لتلقي العلاج.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

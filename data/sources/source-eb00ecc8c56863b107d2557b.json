@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/QaTcn"
+    "https://archive.is/QaTcn",
+    "https://web.archive.org/web/20250811043146id_/https://npasyria.com/99280/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1551e25c8e981e188dfca4f34f219b1bc1838806ea4f12ebc11ad40dfddea254",
+  "content_variants": [
+    {
+      "bytes": 2052,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:03:56+00:00",
+      "sha256": "1551e25c8e981e188dfca4f34f219b1bc1838806ea4f12ebc11ad40dfddea254",
+      "source_url": "https://web.archive.org/web/20250811043146id_/https://npasyria.com/99280/",
+      "text": "قصف إسرائيلي يستهدف أطراف دمشق\n\nقصف إسرائيلي سابق على محيط العاصمة دمشق\n\nدمشق – نورث برس\n\nاستهدفت إسرائيل، فجر الاثنين، بضربات جوية مواقع ونقاطاً عسكرية في محيط مدينة دمشق.\n\nوقالت وزارة الدفاع في الحكومة السورية عبر صفحتها الرسمية في فيسبوك، “حوالي الساعة الخامسة من صباح اليوم الاثنين، نفذ العدو الإسرائيلي عدواناً جوياً من اتجاه جنوب بيروت مستهدفاً بعض النقاط في محيط مدينة دمشق”.\n\nوأضافت: “تصدت وسائط دفاعنا الجوي لصواريخ العدوان وأسقطت معظمها، ما أدى إلى استشهاد مدنيين اثنين ووقوع بعض الخسائر المادية”.\n\nوفي الرابع والعشرين من الشهر الماضي، قتل ثلاثة عناصر من القوات الحكومية إثر قصف صاروخي إسرائيلي استهدف نقاطاً عسكرية تابعة للقوات الحكومية في محيط دمشق.\n\nوالشهر الماضي، حذّرت خارجية الحكومة السورية، إسرائيل من اعتداءاتها المستمرة على سوريا، واصفة الاعتداءات بأنها “تهدد الأمن والاستقرار الدولي”.\n\nوقالت الوزارة: “دمشق قادرة على الرد في أي لحظة وعلى إسرائيل عدم اختبار صبر وإرادة سوريا”.\n\nوتستهدف إسرائيل بين الحين والآخر فصائل عسكرية تابعة لإيران في سوريا.\n\nوأحصى المرصد السوري لحقوق الإنسان، خلال العام الماضي، 39 ضربة استهدفت خلالها إسرائيل فصائل موالية لإيران على الأراضي السورية.\n\nإعداد وتحرير: سلمان الحربيّ"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:03:55+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:03:56+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250811043146id_/https://npasyria.com/99280/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250811043146id_/https://npasyria.com/99280/",
   "incident_ids": [
     "airwars-82390"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/99280/"
   ],
   "original_url": "https://npasyria.com/99280/",
-  "page_title": "",
+  "page_title": "قصف إسرائيلي يستهدف أطراف دمشق قصف إسرائيلي يستهدف أطراف دمشق",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy021-march-7-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:03:56+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-eb00ecc8c56863b107d2557b",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/99280/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قصف إسرائيلي يستهدف أطراف دمشق\n\nقصف إسرائيلي سابق على محيط العاصمة دمشق\n\nدمشق – نورث برس\n\nاستهدفت إسرائيل، فجر الاثنين، بضربات جوية مواقع ونقاطاً عسكرية في محيط مدينة دمشق.\n\nوقالت وزارة الدفاع في الحكومة السورية عبر صفحتها الرسمية في فيسبوك، “حوالي الساعة الخامسة من صباح اليوم الاثنين، نفذ العدو الإسرائيلي عدواناً جوياً من اتجاه جنوب بيروت مستهدفاً بعض النقاط في محيط مدينة دمشق”.\n\nوأضافت: “تصدت وسائط دفاعنا الجوي لصواريخ العدوان وأسقطت معظمها، ما أدى إلى استشهاد مدنيين اثنين ووقوع بعض الخسائر المادية”.\n\nوفي الرابع والعشرين من الشهر الماضي، قتل ثلاثة عناصر من القوات الحكومية إثر قصف صاروخي إسرائيلي استهدف نقاطاً عسكرية تابعة للقوات الحكومية في محيط دمشق.\n\nوالشهر الماضي، حذّرت خارجية الحكومة السورية، إسرائيل من اعتداءاتها المستمرة على سوريا، واصفة الاعتداءات بأنها “تهدد الأمن والاستقرار الدولي”.\n\nوقالت الوزارة: “دمشق قادرة على الرد في أي لحظة وعلى إسرائيل عدم اختبار صبر وإرادة سوريا”.\n\nوتستهدف إسرائيل بين الحين والآخر فصائل عسكرية تابعة لإيران في سوريا.\n\nوأحصى المرصد السوري لحقوق الإنسان، خلال العام الماضي، 39 ضربة استهدفت خلالها إسرائيل فصائل موالية لإيران على الأراضي السورية.\n\nإعداد وتحرير: سلمان الحربيّ",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

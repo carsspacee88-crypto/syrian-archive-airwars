@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/cUxe0"
+    "https://archive.is/cUxe0",
+    "https://web.archive.org/web/20240524200844id_/https://www.facebook.com/kefranbell.coom/posts/pfbid02QB29ZL8o1sNuwthp9r28NXkE6R648vufUFKy7ikBHR6BB8EUYZcZNa5Yybb36Ds1l"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Kafranbel Kafranbel Media Center K M C",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "394c83d54bb42d733652dafbd5e1ae48bcd6c93a99bb444ffc37faf08701ebc2",
+  "content_variants": [
+    {
+      "bytes": 586,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:47:47+00:00",
+      "sha256": "394c83d54bb42d733652dafbd5e1ae48bcd6c93a99bb444ffc37faf08701ebc2",
+      "source_url": "https://web.archive.org/web/20240524200844id_/https://www.facebook.com/kefranbell.coom/posts/pfbid02QB29ZL8o1sNuwthp9r28NXkE6R648vufUFKy7ikBHR6BB8EUYZcZNa5Yybb36Ds1l",
+      "text": "حصيلة شهداء ادلب و حلب نتيجة قصف قوات الأسد و الميليشيات الموالية لهم السبت 7/10/2023\n\n12 شهيد بينهم 5 أطفال و امرأة\n\n3 شهداء في مدينة ادلب ( رجل و...\n\nحصيلة شهداء ادلب و حلب نتيجة قصف قوات الأسد و الميليشيات الموالية لهم السبت 7/10/2023\n\n12 شهيد بينهم 5 أطفال و امرأة\n\n3 شهداء في مدينة ادلب ( رجل و طفلين )\n\nالشهيد عمار عبدالفتاح بهلول\n\nالشهيد..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:47:47+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:47:47+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524200844id_/https://www.facebook.com/kefranbell.coom/posts/pfbid02QB29ZL8o1sNuwthp9r28NXkE6R648vufUFKy7ikBHR6BB8EUYZcZNa5Yybb36Ds1l"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524200844id_/https://www.facebook.com/kefranbell.coom/posts/pfbid02QB29ZL8o1sNuwthp9r28NXkE6R648vufUFKy7ikBHR6BB8EUYZcZNa5Yybb36Ds1l",
   "incident_ids": [
     "airwars-106001"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/kefranbell.coom/posts/pfbid02QB29ZL8o1sNuwthp9r28NXkE6R648vufUFKy7ikBHR6BB8EUYZcZNa5Yybb36Ds1l"
   ],
   "original_url": "https://www.facebook.com/kefranbell.coom/posts/pfbid02QB29ZL8o1sNuwthp9r28NXkE6R648vufUFKy7ikBHR6BB8EUYZcZNa5Yybb36Ds1l",
-  "page_title": "",
+  "page_title": "Kafranbel مركز كفرنبل الإعلامي K M C Kafranbel مركز كفرنبل الإعلامي K M C حصيلة شهداء ادلب و... - Kafranbel مركز كفرنبل الإعلامي K M C",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4834-october-6-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:47:47+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9858dec53241e3da6e260398",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/kefranbell.coom/posts/pfbid02QB29ZL8o1sNuwthp9r28NXkE6R648vufUFKy7ikBHR6BB8EUYZcZNa5Yybb36Ds1l",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "حصيلة شهداء ادلب و حلب نتيجة قصف قوات الأسد و الميليشيات الموالية لهم السبت 7/10/2023\n\n12 شهيد بينهم 5 أطفال و امرأة\n\n3 شهداء في مدينة ادلب ( رجل و...\n\nحصيلة شهداء ادلب و حلب نتيجة قصف قوات الأسد و الميليشيات الموالية لهم السبت 7/10/2023\n\n12 شهيد بينهم 5 أطفال و امرأة\n\n3 شهداء في مدينة ادلب ( رجل و طفلين )\n\nالشهيد عمار عبدالفتاح بهلول\n\nالشهيد...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

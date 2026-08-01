@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/7yBSa"
+    "https://archive.is/7yBSa",
+    "https://web.archive.org/web/20250318065314id_/https://www.almodon.com/arabworld/2021/8/18/%D9%82%D8%B5%D9%81-%D9%85%D9%83%D8%AB%D9%81-%D8%B9%D9%84%D9%89-%D8%B9%D9%81%D8%B1%D9%8A%D9%86-%D9%84%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%AD%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Al Modon",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c07b2dcf846ac4d51d4ebf75e70ca3f99de2e103569680347a53ce1cfb87190a",
+  "content_variants": [
+    {
+      "bytes": 959,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:32:39+00:00",
+      "sha256": "c07b2dcf846ac4d51d4ebf75e70ca3f99de2e103569680347a53ce1cfb87190a",
+      "source_url": "https://web.archive.org/web/20250318065314id_/https://www.almodon.com/arabworld/2021/8/18/%D9%82%D8%B5%D9%81-%D9%85%D9%83%D8%AB%D9%81-%D8%B9%D9%84%D9%89-%D8%B9%D9%81%D8%B1%D9%8A%D9%86-%D9%84%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%AD%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9",
+      "text": "قصف مكثّف على عفرين...لمنع النازحين من العودة؟\n\nالتعليقات\n\nالتعليقات المنشورة تعبر عن آراء أصحابها\n\nالكاتب\n\n330 شهيداً في غزة: إسرائيل تستأنف حرب الإبادة\n\nالثلاثاء 2025/03/18\n\nالحدود اللبنانية السورية هادئة وحصيلة الاشتباكات الحدودية 18 قتيلاً\n\nالثلاثاء 2025/03/18\n\nدرعا: قتيلان وجرحى بغارات إسرائيلية استهدفت محيط المدينة\n\nالثلاثاء 2025/03/18\n\n\"مؤتمر بروكسل\" يجمع 5.8 مليار يورو لدعم السوريين\n\nالثلاثاء 2025/03/18\n\nتابعنا عبر مواقع التواصل الإجتماعي\n\nإشترك في النشرة الإخبارية ليصلك كل جديد\n\nاشترك معنا في نشرة المدن الدورية لتبقى على اتصال دائم بالحدث"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:32:38+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:32:39+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250318065314id_/https://www.almodon.com/arabworld/2021/8/18/%D9%82%D8%B5%D9%81-%D9%85%D9%83%D8%AB%D9%81-%D8%B9%D9%84%D9%89-%D8%B9%D9%81%D8%B1%D9%8A%D9%86-%D9%84%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%AD%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250318065314id_/https://www.almodon.com/arabworld/2021/8/18/%D9%82%D8%B5%D9%81-%D9%85%D9%83%D8%AB%D9%81-%D8%B9%D9%84%D9%89-%D8%B9%D9%81%D8%B1%D9%8A%D9%86-%D9%84%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%AD%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9",
   "incident_ids": [
     "airwars-77435"
   ],
@@ -85,10 +109,10 @@
     "https://www.almodon.com/arabworld/2021/8/18/%D9%82%D8%B5%D9%81-%D9%85%D9%83%D8%AB%D9%81-%D8%B9%D9%84%D9%89-%D8%B9%D9%81%D8%B1%D9%8A%D9%86-%D9%84%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%AD%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9"
   ],
   "original_url": "https://www.almodon.com/arabworld/2021/8/18/%D9%82%D8%B5%D9%81-%D9%85%D9%83%D8%AB%D9%81-%D8%B9%D9%84%D9%89-%D8%B9%D9%81%D8%B1%D9%8A%D9%86-%D9%84%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%AD%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9",
-  "page_title": "",
+  "page_title": "قصف مكثّف على عفرين...لمنع النازحين من العودة؟ قصف مكثّف على عفرين...لمنع النازحين من العودة؟ قصف مكثّف على عفرين...لمنع النازحين من العودة؟",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys113-rs4627-august-18-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:32:39+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-3b3ef49062ca6c4f03ce2b70",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.almodon.com/arabworld/2021/8/18/%D9%82%D8%B5%D9%81-%D9%85%D9%83%D8%AB%D9%81-%D8%B9%D9%84%D9%89-%D8%B9%D9%81%D8%B1%D9%8A%D9%86-%D9%84%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%AD%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قصف مكثّف على عفرين...لمنع النازحين من العودة؟\n\nالتعليقات\n\nالتعليقات المنشورة تعبر عن آراء أصحابها\n\nالكاتب\n\n330 شهيداً في غزة: إسرائيل تستأنف حرب الإبادة\n\nالثلاثاء 2025/03/18\n\nالحدود اللبنانية السورية هادئة وحصيلة الاشتباكات الحدودية 18 قتيلاً\n\nالثلاثاء 2025/03/18\n\nدرعا: قتيلان وجرحى بغارات إسرائيلية استهدفت محيط المدينة\n\nالثلاثاء 2025/03/18\n\n\"مؤتمر بروكسل\" يجمع 5.8 مليار يورو لدعم السوريين\n\nالثلاثاء 2025/03/18\n\nتابعنا عبر مواقع التواصل الإجتماعي\n\nإشترك في النشرة الإخبارية ليصلك كل جديد\n\nاشترك معنا في نشرة المدن الدورية لتبقى على اتصال دائم بالحدث",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

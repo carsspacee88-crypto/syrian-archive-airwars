@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/xuNRC"
+    "https://archive.is/xuNRC",
+    "https://web.archive.org/web/20240524220716id_/https://www.facebook.com/permalink.php?story_fbid=pfbid02Agy3J2UgxczjQcmK7UaaygaN7iWaaa2ayTNHDuYHxYNPR8atz8wfTQEwC2hrXsEgl&id=100011815746097"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Mohamed Mahmoud",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "4061b8e4d3b81336889c34b640f997a054c094f020d910ae8b12f8316aa8cc87",
+  "content_variants": [
+    {
+      "bytes": 146,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:27:46+00:00",
+      "sha256": "4061b8e4d3b81336889c34b640f997a054c094f020d910ae8b12f8316aa8cc87",
+      "source_url": "https://web.archive.org/web/20240524220716id_/https://www.facebook.com/permalink.php?story_fbid=pfbid02Agy3J2UgxczjQcmK7UaaygaN7iWaaa2ayTNHDuYHxYNPR8atz8wfTQEwC2hrXsEgl&id=100011815746097",
+      "text": "الشهيد باذن الله اسماعيل صالح قداد\nالله يرحمك ياابوصالح ويجعل روحك بجنات النعيم"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:27:45+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:27:46+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524220716id_/https://www.facebook.com/permalink.php?story_fbid=pfbid02Agy3J2UgxczjQcmK7UaaygaN7iWaaa2ayTNHDuYHxYNPR8atz8wfTQEwC2hrXsEgl&id=100011815746097"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524220716id_/https://www.facebook.com/permalink.php?story_fbid=pfbid02Agy3J2UgxczjQcmK7UaaygaN7iWaaa2ayTNHDuYHxYNPR8atz8wfTQEwC2hrXsEgl&id=100011815746097",
   "incident_ids": [
     "airwars-106001"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/permalink.php?story_fbid=pfbid02Agy3J2UgxczjQcmK7UaaygaN7iWaaa2ayTNHDuYHxYNPR8atz8wfTQEwC2hrXsEgl&id=100011815746097"
   ],
   "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Agy3J2UgxczjQcmK7UaaygaN7iWaaa2ayTNHDuYHxYNPR8atz8wfTQEwC2hrXsEgl&id=100011815746097",
-  "page_title": "",
+  "page_title": "محمد محمود محمد محمود محمد محمود - الشهيد باذن الله اسماعيل صالح قداد\nالله يرحمك...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4834-october-6-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:27:46+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0f685cdae0ec5918a5fd3e25",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Agy3J2UgxczjQcmK7UaaygaN7iWaaa2ayTNHDuYHxYNPR8atz8wfTQEwC2hrXsEgl&id=100011815746097",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "الشهيد باذن الله اسماعيل صالح قداد\nالله يرحمك ياابوصالح ويجعل روحك بجنات النعيم",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

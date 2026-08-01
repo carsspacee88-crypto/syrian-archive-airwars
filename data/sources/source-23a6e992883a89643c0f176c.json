@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/Cjcs2"
+    "https://archive.is/Cjcs2",
+    "https://web.archive.org/web/20240525021133id_/https://www.facebook.com/SyriaCivilDefense/posts/2172066359615774"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Civil Defense",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "09f06add129af58bab50270fe3d1715b402a04a1802f9258210916a62694a9ea",
+  "content_variants": [
+    {
+      "bytes": 631,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:31:25+00:00",
+      "sha256": "09f06add129af58bab50270fe3d1715b402a04a1802f9258210916a62694a9ea",
+      "source_url": "https://web.archive.org/web/20240525021133id_/https://www.facebook.com/SyriaCivilDefense/posts/2172066359615774",
+      "text": "إصابة الطفل مصطفى حيدر 11 سنة، أثناء رعيه الأغنام اليوم الأربعاء 16 آذار، بقصف لقوات النظام وروسيا على أطراف بلدة #معارة النعسان بريف #إدلب الشمالي...\n\nإصابة الطفل مصطفى حيدر 11 سنة، أثناء رعيه الأغنام اليوم الأربعاء 16 آذار، بقصف لقوات النظام وروسيا على أطراف بلدة #معارة النعسان بريف #إدلب الشمالي الشرقي.\nفرقنا تفقدت الأماكن التي تعرضت للقصف وتأكدت..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:31:24+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:31:25+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525021133id_/https://www.facebook.com/SyriaCivilDefense/posts/2172066359615774"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525021133id_/https://www.facebook.com/SyriaCivilDefense/posts/2172066359615774",
   "incident_ids": [
     "airwars-82472"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/SyriaCivilDefense/posts/2172066359615774"
   ],
   "original_url": "https://www.facebook.com/SyriaCivilDefense/posts/2172066359615774",
-  "page_title": "",
+  "page_title": "الدفاع المدني السوري الدفاع المدني السوري إصابة الطفل مصطفى حيدر 11 سنة،... - الدفاع المدني السوري",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4696-march-16-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:31:25+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-23a6e992883a89643c0f176c",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SyriaCivilDefense/posts/2172066359615774",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة الطفل مصطفى حيدر 11 سنة، أثناء رعيه الأغنام اليوم الأربعاء 16 آذار، بقصف لقوات النظام وروسيا على أطراف بلدة #معارة النعسان بريف #إدلب الشمالي...\n\nإصابة الطفل مصطفى حيدر 11 سنة، أثناء رعيه الأغنام اليوم الأربعاء 16 آذار، بقصف لقوات النظام وروسيا على أطراف بلدة #معارة النعسان بريف #إدلب الشمالي الشرقي.\nفرقنا تفقدت الأماكن التي تعرضت للقصف وتأكدت...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

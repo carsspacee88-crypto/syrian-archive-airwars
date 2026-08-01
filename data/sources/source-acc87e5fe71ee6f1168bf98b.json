@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/cAqet"
+    "https://archive.is/cAqet",
+    "https://web.archive.org/web/20230627234442id_/https://mubasher.aljazeera.net/news/politics/2023/6/25/%d9%85%d8%b1%d8%a7%d8%b3%d9%84-%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%85%d9%82%d8%aa%d9%84-%d8%b4%d8%ae%d8%b5-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Mubasher Al Jazeera",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "3fd9922c697254965e02d03cb6bb200b9bbc15e638c2a3ab164705efa65c39b5",
+  "content_variants": [
+    {
+      "bytes": 1213,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:50:57+00:00",
+      "sha256": "3fd9922c697254965e02d03cb6bb200b9bbc15e638c2a3ab164705efa65c39b5",
+      "source_url": "https://web.archive.org/web/20230627234442id_/https://mubasher.aljazeera.net/news/politics/2023/6/25/%d9%85%d8%b1%d8%a7%d8%b3%d9%84-%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%85%d9%82%d8%aa%d9%84-%d8%b4%d8%ae%d8%b5-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9",
+      "text": "مراسل الجزيرة مباشر: 9 قتلى و21 مصابا على الأقل جراء قصف روسي استهدف سوقا شعبية في جسر الشغور شمالي سوريا.\n\nمراسل الجزيرة مباشر: قتيل و4 مصابين في قصف على إدلب.\n\nالدفاع المدني السوري: 5 قتلى على الأقل وأكثر من 20 مصابا في قصف جوي روسي استهدف سوقا على أطراف جسر الشغور غربي إدلب.\n\nمراسل الجزيرة مباشر: 4 قتلى و20 مصابا جراء قصف روسي استهدف أحد أسواق مدينة جسر الشغور غربي إدلب بسوريا.\n\nمراسل الجزيرة مباشر: جرحى جراء قصف روسي استهدف أحد الأسواق على أطراف مدينة جسر الشغور غربي إدلب بسوريا.\n\nمراسل الجزيرة مباشر: مقتل شخص وإصابة آخرين في قصف جوي روسي استهدف ريفي إدلب الغربي والشمالي بسوريا.\n\nمراسل الجزيرة مباشر: جرحى جراء قصف جوي روسي يستهدف الأطراف الغربية لمدينة إدلب شمالي سوريا."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:50:56+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:50:57+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230627234442id_/https://mubasher.aljazeera.net/news/politics/2023/6/25/%d9%85%d8%b1%d8%a7%d8%b3%d9%84-%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%85%d9%82%d8%aa%d9%84-%d8%b4%d8%ae%d8%b5-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230627234442id_/https://mubasher.aljazeera.net/news/politics/2023/6/25/%d9%85%d8%b1%d8%a7%d8%b3%d9%84-%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%85%d9%82%d8%aa%d9%84-%d8%b4%d8%ae%d8%b5-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9",
   "incident_ids": [
     "airwars-89639"
   ],
@@ -85,10 +109,10 @@
     "https://mubasher.aljazeera.net/news/politics/2023/6/25/%D9%85%D8%B1%D8%A7%D8%B3%D9%84-%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9"
   ],
   "original_url": "https://mubasher.aljazeera.net/news/politics/2023/6/25/%D9%85%D8%B1%D8%A7%D8%B3%D9%84-%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9",
-  "page_title": "",
+  "page_title": "مراسل الجزيرة مباشر: 9 قتلى و21 مصابا على الأقل جراء قصف روسي استهدف سوقا شعبية في جسر الشغور شمالي سوريا | أخبار سياسة | الجزيرة مباشر مراسل الجزيرة مباشر: 9 قتلى و21 مصابا على الأقل جراء قصف روسي استهدف سوقا شعبية في جسر الشغور شمالي سوريا مراسل الجزيرة مباشر: 9 قتلى و21 مصابا على الأقل جراء قصف روسي استهدف سوقا شعبية في جسر الشغور شمالي سوريا play أظهر القائمة الرئيسية play search facebook twitter youtube instagram-colored-outline rss",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4777-june-25-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:50:57+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-acc87e5fe71ee6f1168bf98b",
   "source_type": "other_web_page",
   "stable_id_basis": "https://mubasher.aljazeera.net/news/politics/2023/6/25/%D9%85%D8%B1%D8%A7%D8%B3%D9%84-%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مراسل الجزيرة مباشر: 9 قتلى و21 مصابا على الأقل جراء قصف روسي استهدف سوقا شعبية في جسر الشغور شمالي سوريا.\n\nمراسل الجزيرة مباشر: قتيل و4 مصابين في قصف على إدلب.\n\nالدفاع المدني السوري: 5 قتلى على الأقل وأكثر من 20 مصابا في قصف جوي روسي استهدف سوقا على أطراف جسر الشغور غربي إدلب.\n\nمراسل الجزيرة مباشر: 4 قتلى و20 مصابا جراء قصف روسي استهدف أحد أسواق مدينة جسر الشغور غربي إدلب بسوريا.\n\nمراسل الجزيرة مباشر: جرحى جراء قصف روسي استهدف أحد الأسواق على أطراف مدينة جسر الشغور غربي إدلب بسوريا.\n\nمراسل الجزيرة مباشر: مقتل شخص وإصابة آخرين في قصف جوي روسي استهدف ريفي إدلب الغربي والشمالي بسوريا.\n\nمراسل الجزيرة مباشر: جرحى جراء قصف جوي روسي يستهدف الأطراف الغربية لمدينة إدلب شمالي سوريا.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

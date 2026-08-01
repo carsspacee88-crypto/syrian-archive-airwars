@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20230924170146id_/https://www.kurdistan24.net/en/story/28121-US-concerned-over-shelling-on-Kobani"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Kurdistan24",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "06d3a1e7804e132aa0db696e65e4b1b121e32f5f6028426b8aee0d7e3a8fe30d",
+  "content_variants": [
+    {
+      "bytes": 936,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:43:22+00:00",
+      "sha256": "06d3a1e7804e132aa0db696e65e4b1b121e32f5f6028426b8aee0d7e3a8fe30d",
+      "source_url": "https://web.archive.org/web/20230924170146id_/https://www.kurdistan24.net/en/story/28121-US-concerned-over-shelling-on-Kobani",
+      "text": "US concerned over shelling on Kobani\n\nThe Turkish Army bombing of Kobani city center on the morning of Friday, Apr. 22, 2022 (Photo: Hawar News Agency)\n\nERBIL (Kurdistan 24) – The US Embassy in Syria early Friday expressed its concerns over reports of shelling on the northern Syrian city of Kobani.\n\n“We are deeply concerned by reports of shelling on Kobani and deplore any loss of civilian life,” the embassy tweeted.\n\n“The United States calls on all parties to deescalate.”\n\nOn Friday, Turkish forces fired artillery shells into the city center of Kobani, injuring at least two civilians.\n\nRead More: Turkey bombs Kobani city center\n\nIn recent days, Turkish-backed forces have intensified their shelling of areas near Ain Issa, Tal Abyad, and Tal Tamr in the Hasakah province.\n\nRead More: Turkey carried out 30 drone attacks since start of 2022: RIC\n\nTurkey has also markedly increased its drone attacks on northeast Syria."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:43:20+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:43:22+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230924170146id_/https://www.kurdistan24.net/en/story/28121-US-concerned-over-shelling-on-Kobani"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230924170146id_/https://www.kurdistan24.net/en/story/28121-US-concerned-over-shelling-on-Kobani",
   "incident_ids": [
     "airwars-84334",
     "airwars-82749"
@@ -57,10 +82,10 @@
     "https://www.kurdistan24.net/en/story/28121-US-concerned-over-shelling-on-Kobani"
   ],
   "original_url": "https://www.kurdistan24.net/en/story/28121-US-concerned-over-shelling-on-Kobani",
-  "page_title": "",
+  "page_title": "US concerned over shelling on Kobani US concerned over shelling on Kobani US concerned over shelling on Kobani",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts502a-april-22-2022/",
@@ -88,15 +113,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:43:22+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7cab082b5dbc067d8340b892",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.kurdistan24.net/en/story/28121-US-concerned-over-shelling-on-Kobani",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "US concerned over shelling on Kobani\n\nThe Turkish Army bombing of Kobani city center on the morning of Friday, Apr. 22, 2022 (Photo: Hawar News Agency)\n\nERBIL (Kurdistan 24) – The US Embassy in Syria early Friday expressed its concerns over reports of shelling on the northern Syrian city of Kobani.\n\n“We are deeply concerned by reports of shelling on Kobani and deplore any loss of civilian life,” the embassy tweeted.\n\n“The United States calls on all parties to deescalate.”\n\nOn Friday, Turkish forces fired artillery shells into the city center of Kobani, injuring at least two civilians.\n\nRead More: Turkey bombs Kobani city center\n\nIn recent days, Turkish-backed forces have intensified their shelling of areas near Ain Issa, Tal Abyad, and Tal Tamr in the Hasakah province.\n\nRead More: Turkey carried out 30 drone attacks since start of 2022: RIC\n\nTurkey has also markedly increased its drone attacks on northeast Syria.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

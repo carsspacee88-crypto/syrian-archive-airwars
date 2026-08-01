@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/GNhNw"
+    "https://archive.is/GNhNw",
+    "https://web.archive.org/web/20240225041700id_/http://www.zaitonmag.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AE%D9%85%D8%B3%D8%A9-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AD%D9%84%D8%A8-%D9%88/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaitonmag",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "54e4d0a01cff767a99f1851c0d981a6f0fcd2066854c67939a22df686b8190f9",
+  "content_variants": [
+    {
+      "bytes": 1714,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:33:30+00:00",
+      "sha256": "54e4d0a01cff767a99f1851c0d981a6f0fcd2066854c67939a22df686b8190f9",
+      "source_url": "https://web.archive.org/web/20240225041700id_/http://www.zaitonmag.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AE%D9%85%D8%B3%D8%A9-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AD%D9%84%D8%A8-%D9%88/",
+      "text": "إصابة خمسة أطفال بقصف للنظام غربي حلب والطيران الروسي يشن غارات على ريف اللاذقية\n\n2021-10-12\n477 زيارة\n\nأصيب خمسة أطفال بجروح اليوم الثلاثاء بينهم حالات بتر، جراء قصف مدفعي من قبل قوات النظام على ريف حلب الغربي.\n\nوأفاد الدفاع المدني، بأن 5 أطفال أصيبوا بقصف مدفعي من قوات النظام وروسيا استهدف منازل المدنيين في قرية كفرعمة غربي حلب.\n\nوقامت فرق الدفاع المدني السوري بإسعاف المصابين من مشفى الأتارب إلى مشفى باب الهوى لتلقي العلاج اللازم.\n\nوشن الطيران الروسي اليوم أربع غارات جوية على تلال الخضر بجبل الأكراد شمالي اللاذقية، واستهدفت قوات النظام بالمدفعية الثقيلة بلدة كنصفرة بجبل الزاوية جنوبي إدلب.\n\nوردت فصائل المعارضة باستهداف مواقع وتجمعات قوات النظام في بلدة ميزناز غربي حلب وقرية البركة بقذائف الهاون، محققين إصابات مباشرة في صفوفهم.\n\nيذكر أن قوات النظام والميليشيات المساندة لها كثفت خلال اليومين الماضيين من قصفها المدفعي والصاروخي على مناطق ريف حلب الغربي، وسط تحذيرات تركية من أن أي توتر في المنطقة سيؤدي إلى موجات هجرة ومآسي إنسانية جديدة."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:33:30+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:33:30+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240225041700id_/http://www.zaitonmag.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AE%D9%85%D8%B3%D8%A9-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AD%D9%84%D8%A8-%D9%88/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240225041700id_/http://www.zaitonmag.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AE%D9%85%D8%B3%D8%A9-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AD%D9%84%D8%A8-%D9%88/",
   "incident_ids": [
     "airwars-79502"
   ],
@@ -85,10 +109,10 @@
     "http://www.zaitonmag.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AE%D9%85%D8%B3%D8%A9-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AD%D9%84%D8%A8-%D9%88/"
   ],
   "original_url": "http://www.zaitonmag.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AE%D9%85%D8%B3%D8%A9-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AD%D9%84%D8%A8-%D9%88/",
-  "page_title": "",
+  "page_title": "إصابة خمسة أطفال بقصف للنظام غربي حلب والطيران الروسي يشن غارات على ريف اللاذقية - جريدة زيتون إصابة خمسة أطفال بقصف للنظام غربي حلب والطيران الروسي يشن غارات على ريف اللاذقية - جريدة زيتون",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4655-october-12-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:33:30+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-3e140e41b348ddabc2bc368b",
   "source_type": "other_web_page",
   "stable_id_basis": "http://www.zaitonmag.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AE%D9%85%D8%B3%D8%A9-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%BA%D8%B1%D8%A8%D9%8A-%D8%AD%D9%84%D8%A8-%D9%88/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة خمسة أطفال بقصف للنظام غربي حلب والطيران الروسي يشن غارات على ريف اللاذقية\n\n2021-10-12\n477 زيارة\n\nأصيب خمسة أطفال بجروح اليوم الثلاثاء بينهم حالات بتر، جراء قصف مدفعي من قبل قوات النظام على ريف حلب الغربي.\n\nوأفاد الدفاع المدني، بأن 5 أطفال أصيبوا بقصف مدفعي من قوات النظام وروسيا استهدف منازل المدنيين في قرية كفرعمة غربي حلب.\n\nوقامت فرق الدفاع المدني السوري بإسعاف المصابين من مشفى الأتارب إلى مشفى باب الهوى لتلقي العلاج اللازم.\n\nوشن الطيران الروسي اليوم أربع غارات جوية على تلال الخضر بجبل الأكراد شمالي اللاذقية، واستهدفت قوات النظام بالمدفعية الثقيلة بلدة كنصفرة بجبل الزاوية جنوبي إدلب.\n\nوردت فصائل المعارضة باستهداف مواقع وتجمعات قوات النظام في بلدة ميزناز غربي حلب وقرية البركة بقذائف الهاون، محققين إصابات مباشرة في صفوفهم.\n\nيذكر أن قوات النظام والميليشيات المساندة لها كثفت خلال اليومين الماضيين من قصفها المدفعي والصاروخي على مناطق ريف حلب الغربي، وسط تحذيرات تركية من أن أي توتر في المنطقة سيؤدي إلى موجات هجرة ومآسي إنسانية جديدة.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

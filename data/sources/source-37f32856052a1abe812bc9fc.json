@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/Sh3tB"
+    "https://archive.md/Sh3tB",
+    "https://web.archive.org/web/20240521220523id_/https://www.syriahr.com/en/226396/?fbclid=IwAR29cV2MhzZObQ-GCN6tl2Jk5B9MglXPBBkmWNVyB2OuTedKhMmMDpIVt4U"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "6e15eaea92b040544d61a3850857a26c67d0d4b627cfb2361b095e5cc8ca0ff8",
+  "content_variants": [
+    {
+      "bytes": 2276,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:32:29+00:00",
+      "sha256": "6e15eaea92b040544d61a3850857a26c67d0d4b627cfb2361b095e5cc8ca0ff8",
+      "source_url": "https://web.archive.org/web/20240521220523id_/https://www.syriahr.com/en/226396/?fbclid=IwAR29cV2MhzZObQ-GCN6tl2Jk5B9MglXPBBkmWNVyB2OuTedKhMmMDpIVt4U",
+      "text": "Air attack | ISIS leader killed in new air bombardment on Turkish-backed areas in al-Hasakah countryside\n\nAl-Hasakah province: SOHR activists have reported that unknown drone that is expected to be affiliated to the international coalition has targeted a leader in al-Mawali faction that is backed by Turkey-controlled Ahrar al-Sharqiyah and murdered hime near al-Edwaniyah village western ras al-Ain (Sere Kaneye) in the areas under control of the Turkish forces and factions of the National Army in al-Hasakah countryside.\n\nIt is worth noting that the fighter who has been targeted and murdered is from al-Shaheel area in Deir Ezzor countryside and he was former members in ISIS lines.\n\nOn Oct. 23, reliable sources told SOHR that the man who was killed in a drone attack in al-Raqqah countryside yesterday was a jihadist who had served in the ranks of the “formerly Jabhat al-Nusra” which swore allegiance to al-Qaida, before he joined recently to Ahrar al-Sharqiyyah. The attack has raised questions about the reasons behind the presence of such jihadists in areas under the control of Turkish forces in Syria.\n\nMeanwhile, US forces have announced that an affiliated drone killed the jihadist yesterday.\n\nA day earlier, SOHR activists reported that a former jihadist was killed, in the evening, due to strikes by an unidentified drone near Arbid junction in Suluk countryside in “Peace Spring” areas, north of al-Raqqah province.\n\nOn late July, the US Treasury imposed new sanctions on several Syrian entities including Ahrar al-Sharqiya faction and its leader “Abu Hatem al-Shaqra” and his cousin the commander “Abu Jaafar al-Shaqra”.\n\nPrev Post\n\nAttacking ISIS former buildings | Regime forces bombard ISIS former police station and court at border with Liwaa Ezkandaroon in north Idlib\n\nNext Post\n\nFactions on fire | Al-Golani attacks posts of Abu Muslim al-Shishani and Turkish Jihadists in Jiser al-Sho’our and Jabal al-Turkoman\n\nIn a fight | Person kil*led by another in Al-Mayadeen City in Deir Ezzor\n\nTwo separate incidents | Two civilians kil*led in Daraa countryside\n\nIS*IS resurgence | 25th Division and formations of regime forces bring military…\n\nIn refrigerators from Iraq | Iranian “Revolutionary Guards” militia brings weapons to…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:32:29+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:32:29+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240521220523id_/https://www.syriahr.com/en/226396/?fbclid=IwAR29cV2MhzZObQ-GCN6tl2Jk5B9MglXPBBkmWNVyB2OuTedKhMmMDpIVt4U"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240521220523id_/https://www.syriahr.com/en/226396/?fbclid=IwAR29cV2MhzZObQ-GCN6tl2Jk5B9MglXPBBkmWNVyB2OuTedKhMmMDpIVt4U",
   "incident_ids": [
     "airwars-79810"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/226396/?fbclid=IwAR29cV2MhzZObQ-GCN6tl2Jk5B9MglXPBBkmWNVyB2OuTedKhMmMDpIVt4U"
   ],
   "original_url": "https://www.syriahr.com/en/226396/?fbclid=IwAR29cV2MhzZObQ-GCN6tl2Jk5B9MglXPBBkmWNVyB2OuTedKhMmMDpIVt4U",
-  "page_title": "",
+  "page_title": "Air attack | ISIS leader killed in new air bombardment on Turkish-backed areas in al-Hasakah countryside - The Syrian Observatory For Human Rights Air attack | ISIS leader killed in new air bombardment on Turkish-backed areas in al-Hasakah countryside - The Syrian Observatory For Human Rights Air attack | ISIS leader killed in new air bombardment on Turkish-backed areas in al-Hasakah countryside - The Syrian Observatory For Human Rights Air attack | ISIS leader killed in new air bombardment on Turkish-backed areas in al-Hasakah countryside Air attack | ISIS leader killed in new air bombardment on Turkish-backed areas in al-Hasakah countryside",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts477-cs1967-october-25-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:32:29+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-37f32856052a1abe812bc9fc",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/226396/?fbclid=IwAR29cV2MhzZObQ-GCN6tl2Jk5B9MglXPBBkmWNVyB2OuTedKhMmMDpIVt4U",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Air attack | ISIS leader killed in new air bombardment on Turkish-backed areas in al-Hasakah countryside\n\nAl-Hasakah province: SOHR activists have reported that unknown drone that is expected to be affiliated to the international coalition has targeted a leader in al-Mawali faction that is backed by Turkey-controlled Ahrar al-Sharqiyah and murdered hime near al-Edwaniyah village western ras al-Ain (Sere Kaneye) in the areas under control of the Turkish forces and factions of the National Army in al-Hasakah countryside.\n\nIt is worth noting that the fighter who has been targeted and murdered is from al-Shaheel area in Deir Ezzor countryside and he was former members in ISIS lines.\n\nOn Oct. 23, reliable sources told SOHR that the man who was killed in a drone attack in al-Raqqah countryside yesterday was a jihadist who had served in the ranks of the “formerly Jabhat al-Nusra” which swore allegiance to al-Qaida, before he joined recently to Ahrar al-Sharqiyyah. The attack has raised questions about the reasons behind the presence of such jihadists in areas under the control of Turkish forces in Syria.\n\nMeanwhile, US forces have announced that an affiliated drone killed the jihadist yesterday.\n\nA day earlier, SOHR activists reported that a former jihadist was killed, in the evening, due to strikes by an unidentified drone near Arbid junction in Suluk countryside in “Peace Spring” areas, north of al-Raqqah province.\n\nOn late July, the US Treasury imposed new sanctions on several Syrian entities including Ahrar al-Sharqiya faction and its leader “Abu Hatem al-Shaqra” and his cousin the commander “Abu Jaafar al-Shaqra”.\n\nPrev Post\n\nAttacking ISIS former buildings | Regime forces bombard ISIS former police station and court at border with Liwaa Ezkandaroon in north Idlib\n\nNext Post\n\nFactions on fire | Al-Golani attacks posts of Abu Muslim al-Shishani and Turkish Jihadists in Jiser al-Sho’our and Jabal al-Turkoman\n\nIn a fight | Person kil*led by another in Al-Mayadeen City in Deir Ezzor\n\nTwo separate incidents | Two civilians kil*led in Daraa countryside\n\nIS*IS resurgence | 25th Division and formations of regime forces bring military…\n\nIn refrigerators from Iraq | Iranian “Revolutionary Guards” militia brings weapons to…",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,
