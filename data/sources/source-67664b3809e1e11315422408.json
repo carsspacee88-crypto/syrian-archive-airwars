@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/adA0P"
+    "https://archive.is/adA0P",
+    "https://web.archive.org/web/20240525040729id_/https://news.snhr.org/2022/12/02/multiple-civilians-killed-in-a-bombing-by-the-syrian-regime-in-western-idlib-december-2/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Network for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "caa3c84421821366ec58ef3e3bc7f88e2a67c7d909b750585a75676fcba78715",
+  "content_variants": [
+    {
+      "bytes": 1738,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:02:21+00:00",
+      "sha256": "caa3c84421821366ec58ef3e3bc7f88e2a67c7d909b750585a75676fcba78715",
+      "source_url": "https://web.archive.org/web/20240525040729id_/https://news.snhr.org/2022/12/02/multiple-civilians-killed-in-a-bombing-by-the-syrian-regime-in-western-idlib-december-2/",
+      "text": "Date:\n\nMultiple civilians killed in a bombing by the Syrian regime in western Idlib, December 2\n\nRelated News\n\nMan named Qasem al-Za’lan shot dead by unidentified gunmen in W. Daraa, May 21, 2024\n\nMan named Wesam Abu Salem shot dead by unidentified gunmen in E. Daraa, May 21, 2024\n\nSNHR Condemns Syrian Regime for Killing Doctor Majd Kamalmaz Under Torture After Eight Years of Enforced Disappearance\n\nOn December 2, 2022, Syrian regime forces fired a guided missile at a house inhabited by an IDP family in Obin village, also known as al-Younisiya village, in the western suburbs of Idlib governorate, killing three civilians from the same family, including a 15-year-old child, and injuring other civilians.\n\nThrough this attack, the Syrian regime has once again categorically violated UN Security Council resolutions 2139 and 2254 which prohibit any further indiscriminate attacks, as well as violating the rules of international humanitarian law which stress the distinction between civilians and combatants.\n\nAttacks of this nature spread terror and panic among civilians, leading them to flee their lands and homes in an attempt to reach safety, and forcibly displacing them, with the number of internally displaced persons within Syria currently standing at approximately 6.5 million Syrian citizens in total.\n\nThe international community should put pressure on the Syrian regime and its allies to force them to compensate the displaced victims, rehabilitate homes and vital centers, support the political transition process, and press all parties to pursue the implementation of a political transition according to a strict timetable which must not exceed six months, thus enabling millions of refugees and IDPs to return home."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:02:18+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:02:21+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525040729id_/https://news.snhr.org/2022/12/02/multiple-civilians-killed-in-a-bombing-by-the-syrian-regime-in-western-idlib-december-2/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525040729id_/https://news.snhr.org/2022/12/02/multiple-civilians-killed-in-a-bombing-by-the-syrian-regime-in-western-idlib-december-2/",
   "incident_ids": [
     "airwars-85703"
   ],
@@ -85,10 +109,10 @@
     "https://news.snhr.org/2022/12/02/multiple-civilians-killed-in-a-bombing-by-the-syrian-regime-in-western-idlib-december-2/"
   ],
   "original_url": "https://news.snhr.org/2022/12/02/multiple-civilians-killed-in-a-bombing-by-the-syrian-regime-in-western-idlib-december-2/",
-  "page_title": "",
+  "page_title": "Multiple civilians killed in a bombing by the Syrian regime in western Idlib, December 2 Multiple civilians killed in a bombing by the Syrian regime in western Idlib, December 2 Multiple civilians killed in a bombing by the Syrian regime in western Idlib, December 2",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4748-december-2-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:02:21+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-67664b3809e1e11315422408",
   "source_type": "news_article",
   "stable_id_basis": "https://news.snhr.org/2022/12/02/multiple-civilians-killed-in-a-bombing-by-the-syrian-regime-in-western-idlib-december-2/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Date:\n\nMultiple civilians killed in a bombing by the Syrian regime in western Idlib, December 2\n\nRelated News\n\nMan named Qasem al-Za’lan shot dead by unidentified gunmen in W. Daraa, May 21, 2024\n\nMan named Wesam Abu Salem shot dead by unidentified gunmen in E. Daraa, May 21, 2024\n\nSNHR Condemns Syrian Regime for Killing Doctor Majd Kamalmaz Under Torture After Eight Years of Enforced Disappearance\n\nOn December 2, 2022, Syrian regime forces fired a guided missile at a house inhabited by an IDP family in Obin village, also known as al-Younisiya village, in the western suburbs of Idlib governorate, killing three civilians from the same family, including a 15-year-old child, and injuring other civilians.\n\nThrough this attack, the Syrian regime has once again categorically violated UN Security Council resolutions 2139 and 2254 which prohibit any further indiscriminate attacks, as well as violating the rules of international humanitarian law which stress the distinction between civilians and combatants.\n\nAttacks of this nature spread terror and panic among civilians, leading them to flee their lands and homes in an attempt to reach safety, and forcibly displacing them, with the number of internally displaced persons within Syria currently standing at approximately 6.5 million Syrian citizens in total.\n\nThe international community should put pressure on the Syrian regime and its allies to force them to compensate the displaced victims, rehabilitate homes and vital centers, support the political transition process, and press all parties to pursue the implementation of a political transition according to a strict timetable which must not exceed six months, thus enabling millions of refugees and IDPs to return home.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

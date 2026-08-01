@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/vbfKl"
+    "https://archive.is/vbfKl",
+    "https://web.archive.org/web/20251016112400id_/https://shaam.org/reports/battleground-reports/hsad-sh-am-lmujml-alahdath-almydanyh-fy-swrya-lywm-alsbt-04-ayar-2024"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "14428433bb2ffa44a0bb3815afd5a6c215f43e31748fff27ddf1956147283b2b",
+  "content_variants": [
+    {
+      "bytes": 2987,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:11:24+00:00",
+      "sha256": "14428433bb2ffa44a0bb3815afd5a6c215f43e31748fff27ddf1956147283b2b",
+      "source_url": "https://web.archive.org/web/20251016112400id_/https://shaam.org/reports/battleground-reports/hsad-sh-am-lmujml-alahdath-almydanyh-fy-swrya-lywm-alsbt-04-ayar-2024",
+      "text": "حصاد \"شــام\" لمُجمل الأحداث الميدانية في سوريا ليوم السبت 04/ أيار/ 2024\n\nحصاد \"شــام\" لمُجمل الأحداث الميدانية في سوريا ليوم السبت 04/ أيار/ 2024\n\nحلب::قصف الجيش التركي بقذائف المدفعية الثقيلة مواقع ميلشيات قسد في مدينة تل رفعت وقرية مرعناز شمال حلب.\n\nمقتل وجرح عدد من المدنيين في قريتي الكفير والغوز قرب مدينة الباب بريف حلب الشرقي جراء قصف مدفعي مصدره المناطق المشتركة لقوات الأسد ومليشيات قسد.\n\nقصف مدفعي من قبل قوات الأسد على محيط قرية كفر تعال بريف حلب الغربي.\n\nادلب::قصف مدفعي من قبل قوات الأسد على محيط بلدة معارة النعسان بريف إدلب الشمالي.\n\nحماة::قصف مدفعي من قبل قوات الأسد على محيط قريتي القرقور والسرمانية بريف حماة الغربي.\n\nدرعا::سمع صوت انفجار عنيف شرقي درعا ناجم عن سقوط صواريخ يعتقد أن مصدرها من الأردن استهدف مزرعة تعود ملكيتها لتاجر المخدرات \"رافع الرويس\" بالقرب من قرية ندى الحدودية مع المملكة الأردنية.\n\nمقتل شاب برصاص مجهولين في مدينة الحراك بالريف الشرقي.\n\nديرالزور::اشتباكات عائلية في بلدة غرانيج بالريف الشرقي أسفرت عن مقتل وجرح عدد من الأشخاص بينهم مدنيون.\n\nشن مجهولون هجوما استهدف نقطة لقوات الأسد في بادية ديرالزور الجنوبية أسفرت عن مقتل وجرح عدد من العناصر.\n\nاطلاق نار متبادل بين ميلشيات قسد وقوات الأسد، حيث قام الأخير بإطلاق النار من الرشاشات على بلدة الحوايج بينما ردت قسد بإستهداف مدينة الميادين، كما قام مجهولون بإستهداف نقطة عسكرية لقسد في بلدة الشحيل.\n\nمقتل أحد عناصر النظام في مدينة الميادين بالريف الشرقي برصاص مجهولين.\n\nالرقة::انفجرت عبوة ناسفة بسيارة عسكرية لقوات الأسد على طريق \"الطبقة -سلمية غربي الرقة أدت لمقتل من العناصر.\n\nشن الطيران الروسي الحربي غارات جوية استهدفت مواقع تنظيم داعش في بادية الرصافة جنوب الرقة.\n\nشنت ميليشيات قسد بمساندة من القوات الأمريكية عملية دهم وإعتقال عدد من الأشخاص في منطقة رميلة بمدينة الرقة."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:11:24+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:11:24+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251016112400id_/https://shaam.org/reports/battleground-reports/hsad-sh-am-lmujml-alahdath-almydanyh-fy-swrya-lywm-alsbt-04-ayar-2024"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251016112400id_/https://shaam.org/reports/battleground-reports/hsad-sh-am-lmujml-alahdath-almydanyh-fy-swrya-lywm-alsbt-04-ayar-2024",
   "incident_ids": [
     "airwars-116116"
   ],
@@ -85,10 +109,10 @@
     "https://shaam.org/reports/battleground-reports/hsad-sh-am-lmujml-alahdath-almydanyh-fy-swrya-lywm-alsbt-04-ayar-2024"
   ],
   "original_url": "https://shaam.org/reports/battleground-reports/hsad-sh-am-lmujml-alahdath-almydanyh-fy-swrya-lywm-alsbt-04-ayar-2024",
-  "page_title": "",
+  "page_title": "حصاد \"شــام\" لمُجمل الأحداث الميدانية في سوريا ليوم السبت 04/ أيار/ 2024 | شبكة شام الإخبارية حصاد \"شــام\" لمُجمل الأحداث الميدانية في سوريا ليوم السبت 04/ أيار/ 2024 حصاد \"شــام\" لمُجمل الأحداث الميدانية في سوريا ليوم السبت 04/ أيار/ 2024",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys176-may-4-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:11:24+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b321c8c7bec8552861fa3ca8",
   "source_type": "news_article",
   "stable_id_basis": "https://shaam.org/reports/battleground-reports/hsad-sh-am-lmujml-alahdath-almydanyh-fy-swrya-lywm-alsbt-04-ayar-2024",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "حصاد \"شــام\" لمُجمل الأحداث الميدانية في سوريا ليوم السبت 04/ أيار/ 2024\n\nحصاد \"شــام\" لمُجمل الأحداث الميدانية في سوريا ليوم السبت 04/ أيار/ 2024\n\nحلب::قصف الجيش التركي بقذائف المدفعية الثقيلة مواقع ميلشيات قسد في مدينة تل رفعت وقرية مرعناز شمال حلب.\n\nمقتل وجرح عدد من المدنيين في قريتي الكفير والغوز قرب مدينة الباب بريف حلب الشرقي جراء قصف مدفعي مصدره المناطق المشتركة لقوات الأسد ومليشيات قسد.\n\nقصف مدفعي من قبل قوات الأسد على محيط قرية كفر تعال بريف حلب الغربي.\n\nادلب::قصف مدفعي من قبل قوات الأسد على محيط بلدة معارة النعسان بريف إدلب الشمالي.\n\nحماة::قصف مدفعي من قبل قوات الأسد على محيط قريتي القرقور والسرمانية بريف حماة الغربي.\n\nدرعا::سمع صوت انفجار عنيف شرقي درعا ناجم عن سقوط صواريخ يعتقد أن مصدرها من الأردن استهدف مزرعة تعود ملكيتها لتاجر المخدرات \"رافع الرويس\" بالقرب من قرية ندى الحدودية مع المملكة الأردنية.\n\nمقتل شاب برصاص مجهولين في مدينة الحراك بالريف الشرقي.\n\nديرالزور::اشتباكات عائلية في بلدة غرانيج بالريف الشرقي أسفرت عن مقتل وجرح عدد من الأشخاص بينهم مدنيون.\n\nشن مجهولون هجوما استهدف نقطة لقوات الأسد في بادية ديرالزور الجنوبية أسفرت عن مقتل وجرح عدد من العناصر.\n\nاطلاق نار متبادل بين ميلشيات قسد وقوات الأسد، حيث قام الأخير بإطلاق النار من الرشاشات على بلدة الحوايج بينما ردت قسد بإستهداف مدينة الميادين، كما قام مجهولون بإستهداف نقطة عسكرية لقسد في بلدة الشحيل.\n\nمقتل أحد عناصر النظام في مدينة الميادين بالريف الشرقي برصاص مجهولين.\n\nالرقة::انفجرت عبوة ناسفة بسيارة عسكرية لقوات الأسد على طريق \"الطبقة -سلمية غربي الرقة أدت لمقتل من العناصر.\n\nشن الطيران الروسي الحربي غارات جوية استهدفت مواقع تنظيم داعش في بادية الرصافة جنوب الرقة.\n\nشنت ميليشيات قسد بمساندة من القوات الأمريكية عملية دهم وإعتقال عدد من الأشخاص في منطقة رميلة بمدينة الرقة.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

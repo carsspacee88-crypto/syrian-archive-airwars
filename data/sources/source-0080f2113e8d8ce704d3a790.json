@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/IPAKP"
+    "https://archive.md/IPAKP",
+    "https://web.archive.org/web/20211108085257id_/https://twitter.com/SOHEB2019/status/1457632198912356357"
   ],
   "attempt_history": [
     {
@@ -67,12 +68,35 @@
   "author": "'@SOHEB2019",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "198c15a38b06a68d1321f6b587c241c4b8310a272515df4a8ad2d5c56acae6e5",
+  "content_variants": [
+    {
+      "bytes": 462,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:54:04+00:00",
+      "sha256": "198c15a38b06a68d1321f6b587c241c4b8310a272515df4a8ad2d5c56acae6e5",
+      "source_url": "https://web.archive.org/web/20211108085257id_/https://twitter.com/SOHEB2019/status/1457632198912356357",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\n#ديرالزور\nاشتباكات بين ميليشيـا PKK/PYD مدعومة بطائرات التحالف وعدد من مقاتلي تنظيم الدولة في بادية ابو خشب غرب ديرالزور\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:54:03+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:54:04+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211108085257id_/https://twitter.com/SOHEB2019/status/1457632198912356357"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211108085257id_/https://twitter.com/SOHEB2019/status/1457632198912356357",
   "incident_ids": [
     "airwars-79930"
   ],
@@ -88,10 +112,10 @@
     "https://twitter.com/SOHEB2019/status/1457632198912356357"
   ],
   "original_url": "https://twitter.com/SOHEB2019/status/1457632198912356357",
-  "page_title": "",
+  "page_title": "صهيب اليعربي on Twitter: \"#ديرالزور\nاشتباكات بين ميليشيـا PKK/PYD مدعومة بطائرات التحالف وعدد من مقاتلي تنظيم الدولة في بادية ابو خشب غرب ديرالزور\" صهيب اليعربي on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1971-november-8-2021/",
@@ -111,16 +135,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:54:04+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0080f2113e8d8ce704d3a790",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/SOHEB2019/status/1457632198912356357",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\n#ديرالزور\nاشتباكات بين ميليشيـا PKK/PYD مدعومة بطائرات التحالف وعدد من مقاتلي تنظيم الدولة في بادية ابو خشب غرب ديرالزور\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "und",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/NYNNw"
+    "https://archive.md/NYNNw",
+    "https://web.archive.org/web/20240525121743id_/https://syrian-today.net/ar/article/2822/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D9%88%D9%8A%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D9%8A%D9%88%D9%85-%D8%AF%D8%A7%D9%85-%D9%81%D9%8A-%D9%85%D8%B9%D8%B1%D8%A9-%D9%85%D8%B5%D8%B1%D9%8A%D9%86"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Today",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c833418008bc604a8030ca41fb8b8fa83be08b1c5e3efd8cd26317e4ddccefb4",
+  "content_variants": [
+    {
+      "bytes": 1284,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:05:18+00:00",
+      "sha256": "c833418008bc604a8030ca41fb8b8fa83be08b1c5e3efd8cd26317e4ddccefb4",
+      "source_url": "https://web.archive.org/web/20240525121743id_/https://syrian-today.net/ar/article/2822/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D9%88%D9%8A%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D9%8A%D9%88%D9%85-%D8%AF%D8%A7%D9%85-%D9%81%D9%8A-%D9%85%D8%B9%D8%B1%D8%A9-%D9%85%D8%B5%D8%B1%D9%8A%D9%86",
+      "text": "سوريا\n\nغارات جوية روسية ..يوم دام في معرة مصرين\n\nشنت الطائرات الحربية الروسية ثلاث غارات استهدفت أطراف معرة مصرين شمال مدينة إدلب أسفرت عن اصابات في صفوف المدنيين\n\nآخر الأخبار\n\nقتيلان من حزب الله في \"قصف إسرائيلي\" بحمص\n\nإعلان إصابة أسماء الأسد بسرطان الدم\n\nمواد غذائية متجهة لغزة يصيبها العطب مع استمرار إغلاق معبر رفح\n\nتحليل-الانقسامات والانتخابات والأسد يكشفون أبعاد معضلة سوريا في أوروبا\n\nفي حكم تاريخي.. العدل الدولية تأمر إسرائيل بوقف العملية العسكرية في رفح\n\nتركيا تدعو الأمم المتحدة للضغط على إسرائيل\n\nالمقاطعة توجع شركات أمريكية كبيرة في آسيا والشرق الأوسط\n\nالأمم المتحدة : لا يمكن تقليل الدعم أكثر عن شمال غربي سوريا\n\nبعدما انتقد الشاعر نزار قباني.. الشملاني العنزي يحدث ضجة على مواقع التواصل الاجتماعي"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:05:17+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:05:18+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525121743id_/https://syrian-today.net/ar/article/2822/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D9%88%D9%8A%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D9%8A%D9%88%D9%85-%D8%AF%D8%A7%D9%85-%D9%81%D9%8A-%D9%85%D8%B9%D8%B1%D8%A9-%D9%85%D8%B5%D8%B1%D9%8A%D9%86"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525121743id_/https://syrian-today.net/ar/article/2822/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D9%88%D9%8A%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D9%8A%D9%88%D9%85-%D8%AF%D8%A7%D9%85-%D9%81%D9%8A-%D9%85%D8%B9%D8%B1%D8%A9-%D9%85%D8%B5%D8%B1%D9%8A%D9%86",
   "incident_ids": [
     "airwars-79975"
   ],
@@ -85,10 +109,10 @@
     "https://syrian-today.net/ar/article/2822/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D9%88%D9%8A%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D9%8A%D9%88%D9%85-%D8%AF%D8%A7%D9%85-%D9%81%D9%8A-%D9%85%D8%B9%D8%B1%D8%A9-%D9%85%D8%B5%D8%B1%D9%8A%D9%86"
   ],
   "original_url": "https://syrian-today.net/ar/article/2822/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D9%88%D9%8A%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D9%8A%D9%88%D9%85-%D8%AF%D8%A7%D9%85-%D9%81%D9%8A-%D9%85%D8%B9%D8%B1%D8%A9-%D9%85%D8%B5%D8%B1%D9%8A%D9%86",
-  "page_title": "",
+  "page_title": "السوري اليوم - غارات جوية روسية ..يوم دام في معرة مصرين It's Over 9000!",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4666-november-11-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:05:18+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-82113accf8362d66c0de517d",
   "source_type": "other_web_page",
   "stable_id_basis": "https://syrian-today.net/ar/article/2822/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D9%88%D9%8A%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D9%8A%D9%88%D9%85-%D8%AF%D8%A7%D9%85-%D9%81%D9%8A-%D9%85%D8%B9%D8%B1%D8%A9-%D9%85%D8%B5%D8%B1%D9%8A%D9%86",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "سوريا\n\nغارات جوية روسية ..يوم دام في معرة مصرين\n\nشنت الطائرات الحربية الروسية ثلاث غارات استهدفت أطراف معرة مصرين شمال مدينة إدلب أسفرت عن اصابات في صفوف المدنيين\n\nآخر الأخبار\n\nقتيلان من حزب الله في \"قصف إسرائيلي\" بحمص\n\nإعلان إصابة أسماء الأسد بسرطان الدم\n\nمواد غذائية متجهة لغزة يصيبها العطب مع استمرار إغلاق معبر رفح\n\nتحليل-الانقسامات والانتخابات والأسد يكشفون أبعاد معضلة سوريا في أوروبا\n\nفي حكم تاريخي.. العدل الدولية تأمر إسرائيل بوقف العملية العسكرية في رفح\n\nتركيا تدعو الأمم المتحدة للضغط على إسرائيل\n\nالمقاطعة توجع شركات أمريكية كبيرة في آسيا والشرق الأوسط\n\nالأمم المتحدة : لا يمكن تقليل الدعم أكثر عن شمال غربي سوريا\n\nبعدما انتقد الشاعر نزار قباني.. الشملاني العنزي يحدث ضجة على مواقع التواصل الاجتماعي",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

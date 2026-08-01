@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/ED9JR"
+    "https://archive.is/ED9JR",
+    "https://web.archive.org/web/20250620190111id_/https://npasyria.com/en/78276/?fbclid=IwAR0fhFWIagVxHAHEBlNWgIFapu8Fhdfj1Ya-uV1nHJIh3zTymyDJTnoQ31A"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "70f611cf3113a848b3fc5079d13c24041d35b19e242ab8d065935d78ddbe0411",
+  "content_variants": [
+    {
+      "bytes": 1588,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:53:53+00:00",
+      "sha256": "70f611cf3113a848b3fc5079d13c24041d35b19e242ab8d065935d78ddbe0411",
+      "source_url": "https://web.archive.org/web/20250620190111id_/https://npasyria.com/en/78276/?fbclid=IwAR0fhFWIagVxHAHEBlNWgIFapu8Fhdfj1Ya-uV1nHJIh3zTymyDJTnoQ31A",
+      "text": "Civilian injured in Turkish shelling of Syria’s Raqqa\n\nThe town of Ain Issa – North Press/archive\n\nRAQQA, Syria (North Press) – A civilian was injured on Sunday due to shelling by Turkish forces and their affiliated armed opposition factions, also known as Syrian National Army (SNA), that hit a village west of the town of Ain Issa in the northern countryside of Raqqa, north Syria.\n\nThe young man, Fadi Khallawi, was injured during the Turkish shelling of the village of Mu’allaq, west of Ain Issa, a local source told North Press.\n\nThe source added that Khallawi was taken to Omar Alloush hospital in the town to receive treatment, and that his condition is stable.\n\nThe countryside of Ain Issa and other regions of north and northeast Syria are frequently shelled by the Turkish forces and their affiliated SNA factions despite the signed ceasefire agreement there.\n\nOn May 18, a family of a mother and four children were injured due to the Turkish shelling on the village of Qartaj in Ain Issa countryside.\n\nFollowing the Turkish “Peace Spring” military operation in October 2019, which resulted in the occupation of the two cities of Tel Abyad, north of Raqqa, and Sere Kaniye (Ras al-Ain), north of Hasakah, Turkey signed two ceasefire agreements, one was with Russia and the other was with the US.\n\nThe agreements stipulate halt of all hostilities there and the withdrawal of the SDF 30 km in depth away from the Turkish border in addition to conducting Turkish-Russian joint patrols in order to monitor the implementation of the agreements.\n\nReporting by Ammar Haydar"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:53:53+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:53:53+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250620190111id_/https://npasyria.com/en/78276/?fbclid=IwAR0fhFWIagVxHAHEBlNWgIFapu8Fhdfj1Ya-uV1nHJIh3zTymyDJTnoQ31A"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250620190111id_/https://npasyria.com/en/78276/?fbclid=IwAR0fhFWIagVxHAHEBlNWgIFapu8Fhdfj1Ya-uV1nHJIh3zTymyDJTnoQ31A",
   "incident_ids": [
     "airwars-83717"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/78276/?fbclid=IwAR0fhFWIagVxHAHEBlNWgIFapu8Fhdfj1Ya-uV1nHJIh3zTymyDJTnoQ31A"
   ],
   "original_url": "https://npasyria.com/en/78276/?fbclid=IwAR0fhFWIagVxHAHEBlNWgIFapu8Fhdfj1Ya-uV1nHJIh3zTymyDJTnoQ31A",
-  "page_title": "",
+  "page_title": "Civilian injured in Turkish shelling of Syria's Raqqa - North press agency Civilian injured in Turkish shelling of Syria's Raqqa - North press agency Civilian injured in Turkish shelling of Syria's Raqqa - North press agency Civilian injured in Turkish shelling of Syria's Raqqa - North press agency Civilian injured in Turkish shelling of Syria's Raqqa - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts511-may-29-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:53:53+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-052af0db59d102f6b9995625",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/78276/?fbclid=IwAR0fhFWIagVxHAHEBlNWgIFapu8Fhdfj1Ya-uV1nHJIh3zTymyDJTnoQ31A",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Civilian injured in Turkish shelling of Syria’s Raqqa\n\nThe town of Ain Issa – North Press/archive\n\nRAQQA, Syria (North Press) – A civilian was injured on Sunday due to shelling by Turkish forces and their affiliated armed opposition factions, also known as Syrian National Army (SNA), that hit a village west of the town of Ain Issa in the northern countryside of Raqqa, north Syria.\n\nThe young man, Fadi Khallawi, was injured during the Turkish shelling of the village of Mu’allaq, west of Ain Issa, a local source told North Press.\n\nThe source added that Khallawi was taken to Omar Alloush hospital in the town to receive treatment, and that his condition is stable.\n\nThe countryside of Ain Issa and other regions of north and northeast Syria are frequently shelled by the Turkish forces and their affiliated SNA factions despite the signed ceasefire agreement there.\n\nOn May 18, a family of a mother and four children were injured due to the Turkish shelling on the village of Qartaj in Ain Issa countryside.\n\nFollowing the Turkish “Peace Spring” military operation in October 2019, which resulted in the occupation of the two cities of Tel Abyad, north of Raqqa, and Sere Kaniye (Ras al-Ain), north of Hasakah, Turkey signed two ceasefire agreements, one was with Russia and the other was with the US.\n\nThe agreements stipulate halt of all hostilities there and the withdrawal of the SDF 30 km in depth away from the Turkish border in addition to conducting Turkish-Russian joint patrols in order to monitor the implementation of the agreements.\n\nReporting by Ammar Haydar",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

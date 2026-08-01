@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/TPeEb"
+    "https://archive.is/TPeEb",
+    "https://web.archive.org/web/20240524223206id_/https://www.facebook.com/rdwanalshhwan/posts/pfbid0SSbPmRUEvFWnLa9xea9XN9jCJCc21mPupwfmvtgU1gic9yrZVBjWEkKAzt4rCs9Pl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Rdwanalshhwan",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "bf33618a84f7ce2f3c1cd249f909866746756083ea1c54a3a16bfd0cac189c3f",
+  "content_variants": [
+    {
+      "bytes": 226,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:54:28+00:00",
+      "sha256": "bf33618a84f7ce2f3c1cd249f909866746756083ea1c54a3a16bfd0cac189c3f",
+      "source_url": "https://web.archive.org/web/20240524223206id_/https://www.facebook.com/rdwanalshhwan/posts/pfbid0SSbPmRUEvFWnLa9xea9XN9jCJCc21mPupwfmvtgU1gic9yrZVBjWEkKAzt4rCs9Pl",
+      "text": "#عاجل\n\nإصـ ـابة 7 مدنيين كحصيلة أولية جراء استـ ـهداف عصابات الأسد مدينة جسر الشغور غرب إدلب بقذائف المدفعية الثقيلة منذ قليل"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:54:27+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:54:28+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524223206id_/https://www.facebook.com/rdwanalshhwan/posts/pfbid0SSbPmRUEvFWnLa9xea9XN9jCJCc21mPupwfmvtgU1gic9yrZVBjWEkKAzt4rCs9Pl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524223206id_/https://www.facebook.com/rdwanalshhwan/posts/pfbid0SSbPmRUEvFWnLa9xea9XN9jCJCc21mPupwfmvtgU1gic9yrZVBjWEkKAzt4rCs9Pl",
   "incident_ids": [
     "airwars-103771"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/rdwanalshhwan/posts/pfbid0SSbPmRUEvFWnLa9xea9XN9jCJCc21mPupwfmvtgU1gic9yrZVBjWEkKAzt4rCs9Pl"
   ],
   "original_url": "https://www.facebook.com/rdwanalshhwan/posts/pfbid0SSbPmRUEvFWnLa9xea9XN9jCJCc21mPupwfmvtgU1gic9yrZVBjWEkKAzt4rCs9Pl",
-  "page_title": "",
+  "page_title": "رضوان الشهوان Rdwanalshwan رضوان الشهوان Rdwanalshwan #عاجل\n\nإصـ ـابة 7 مدنيين... - رضوان الشهوان Rdwanalshwan",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4813-september-25-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:54:28+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-1b4efc98d0dae2f33ec1da0b",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/rdwanalshhwan/posts/pfbid0SSbPmRUEvFWnLa9xea9XN9jCJCc21mPupwfmvtgU1gic9yrZVBjWEkKAzt4rCs9Pl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#عاجل\n\nإصـ ـابة 7 مدنيين كحصيلة أولية جراء استـ ـهداف عصابات الأسد مدينة جسر الشغور غرب إدلب بقذائف المدفعية الثقيلة منذ قليل",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

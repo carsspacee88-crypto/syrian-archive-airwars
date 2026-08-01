@@ -67,8 +67,22 @@
   "content_hash": null,
   "content_variants": [],
   "descriptions": [],
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:03:29+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:03:29+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524190422id_/https://www.facebook.com/EuphratsPostNews/posts/pfbid02vzWVmcXfb4swN8VauqqdBCANazkUYST88uosPgb3jpAqnEnMbNxzCbertoX6b9Nal"
+    }
+  ],
   "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
+  "failure_reason": "capture_without_text",
   "final_redirected_url": "",
   "incident_ids": [
     "airwars-84937"
@@ -108,7 +122,7 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
+  "retrieval_status": "capture_without_text",
   "retrieved_at": null,
   "review_flags": [],
   "schema_version": "1.0.0",

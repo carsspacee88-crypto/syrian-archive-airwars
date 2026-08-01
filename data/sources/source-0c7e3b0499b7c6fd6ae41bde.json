@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/LBxdo"
+    "https://archive.is/LBxdo",
+    "https://web.archive.org/web/20251113111137id_/https://shaam.org/news/syria-news/shhy-d-mdny-bqs-f-mdf-ay-llnzam-tal-bldh-albarh-jnwby-idlb"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f7d8c5737437525ce758625237e6f49c8b3467f43eff45f3c94d7396b3d85815",
+  "content_variants": [
+    {
+      "bytes": 2802,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:54:17+00:00",
+      "sha256": "f7d8c5737437525ce758625237e6f49c8b3467f43eff45f3c94d7396b3d85815",
+      "source_url": "https://web.archive.org/web/20251113111137id_/https://shaam.org/news/syria-news/shhy-d-mdny-bqs-f-mdf-ay-llnzam-tal-bldh-albarh-jnwby-idlb",
+      "text": "شهيد مدني بقصف مدفعي للنظام طال بلدة البارة جنوبي إدلب\n\nشهيـ.ـد مدني بقصـ.ـف مدفـ.ـعي للنظام طال بلدة البارة جنوبي إدلب\n\nاستشهد رجل مدني، اليوم الأربعاء، بقصف مدفعي عنيف لقوات الأسد، استهدف بلدة البارة وعدة بلدات أخرى في جبل الزاوية بريف إدلب الجنوبي، سبقها عملية انغماسية للفصائل على أحد محاور القتال مع قوات الأسد في المنطقة.\n\nوقال نشطاء، إن قوات الأسد والميليشيات الأخرى، صعدت من قصفها المدفعي على قرى جبل الزاوية بشكل عنيف فجر اليوم، طالت عدة قرى وبلدات، منها بلدة البارة، أدى ذلك لسقوط شهيد مدني، وسط البلدة.\n\nووجاء التصعيد المدفعي، من قبل قوات الأسد، بعد ساعات قليلة من إعلان فصيل \"أنصار التوحيد\"، اليوم الأربعاء 18 كانون الثاني/ يناير، تنفيذ عملية نوعية ضد مواقع لميليشيات النظام بريف إدلب الجنوبي، ما أدى إلى مقتل وجرح عدد من العسكريين في قوات الأسد.\n\nوقالت مصادر ميدانية إن \"سرايا الانغماسيين\"، التابعة لـ \"أنصار التوحيد\"، شنت هجوماً مباغتاً طال نقاط عسكرية تتبع لميليشيات نظام الأسد، وذلك على محور معرة موخص بريف إدلب الجنوبي.\n\nولفتت المصادر إلى أن العملية النوعية كبدت قوات النظام خسائر بشرية ومادية حيث أدت إلى مقتل عناصر وجرح آخرين، فضلا عن السيطرة المؤقتة على المواقع المستهدفة قبل الانسحاب منها عقب الإغارة صباح اليوم.\n\nوفي سياق موازٍ قصف فوج المدفعية والصواريخ في \"أنصار التوحيد\" عدة مقرات وتجمعات عسكرية تتبع لقوات الأسد في كفرنبل ومعرة موخص، حيث تمكن من تحقيق إصابات مباشرة في صفوف ميليشيات النظام جنوبي إدلب.\n\nهذا وخلال الأشهر الثلاثة الماضية نفذت الفصائل العسكرية في الشمال السوري، عدة عمليات طالت مواقع لقوات الأسد على محاور امتدت من ريف اللاذقية الشمالي، حتى ريف حلب الغربي والشرقي، مروراً بريفي حماة وإدلب شمال غربي سوريا."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:54:17+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:54:17+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251113111137id_/https://shaam.org/news/syria-news/shhy-d-mdny-bqs-f-mdf-ay-llnzam-tal-bldh-albarh-jnwby-idlb"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251113111137id_/https://shaam.org/news/syria-news/shhy-d-mdny-bqs-f-mdf-ay-llnzam-tal-bldh-albarh-jnwby-idlb",
   "incident_ids": [
     "airwars-87301"
   ],
@@ -85,10 +109,10 @@
     "https://shaam.org/news/syria-news/shhy-d-mdny-bqs-f-mdf-ay-llnzam-tal-bldh-albarh-jnwby-idlb"
   ],
   "original_url": "https://shaam.org/news/syria-news/shhy-d-mdny-bqs-f-mdf-ay-llnzam-tal-bldh-albarh-jnwby-idlb",
-  "page_title": "",
+  "page_title": "شهيـ.ـد مدني بقصـ.ـف مدفـ.ـعي للنظام طال بلدة البارة جنوبي إدلب | شبكة شام الإخبارية شهيـ.ـد مدني بقصـ.ـف مدفـ.ـعي للنظام طال بلدة البارة جنوبي إدلب شهيـ.ـد مدني بقصـ.ـف مدفـ.ـعي للنظام طال بلدة البارة جنوبي إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4751-january-18-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:54:17+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0c7e3b0499b7c6fd6ae41bde",
   "source_type": "other_web_page",
   "stable_id_basis": "https://shaam.org/news/syria-news/shhy-d-mdny-bqs-f-mdf-ay-llnzam-tal-bldh-albarh-jnwby-idlb",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "شهيد مدني بقصف مدفعي للنظام طال بلدة البارة جنوبي إدلب\n\nشهيـ.ـد مدني بقصـ.ـف مدفـ.ـعي للنظام طال بلدة البارة جنوبي إدلب\n\nاستشهد رجل مدني، اليوم الأربعاء، بقصف مدفعي عنيف لقوات الأسد، استهدف بلدة البارة وعدة بلدات أخرى في جبل الزاوية بريف إدلب الجنوبي، سبقها عملية انغماسية للفصائل على أحد محاور القتال مع قوات الأسد في المنطقة.\n\nوقال نشطاء، إن قوات الأسد والميليشيات الأخرى، صعدت من قصفها المدفعي على قرى جبل الزاوية بشكل عنيف فجر اليوم، طالت عدة قرى وبلدات، منها بلدة البارة، أدى ذلك لسقوط شهيد مدني، وسط البلدة.\n\nووجاء التصعيد المدفعي، من قبل قوات الأسد، بعد ساعات قليلة من إعلان فصيل \"أنصار التوحيد\"، اليوم الأربعاء 18 كانون الثاني/ يناير، تنفيذ عملية نوعية ضد مواقع لميليشيات النظام بريف إدلب الجنوبي، ما أدى إلى مقتل وجرح عدد من العسكريين في قوات الأسد.\n\nوقالت مصادر ميدانية إن \"سرايا الانغماسيين\"، التابعة لـ \"أنصار التوحيد\"، شنت هجوماً مباغتاً طال نقاط عسكرية تتبع لميليشيات نظام الأسد، وذلك على محور معرة موخص بريف إدلب الجنوبي.\n\nولفتت المصادر إلى أن العملية النوعية كبدت قوات النظام خسائر بشرية ومادية حيث أدت إلى مقتل عناصر وجرح آخرين، فضلا عن السيطرة المؤقتة على المواقع المستهدفة قبل الانسحاب منها عقب الإغارة صباح اليوم.\n\nوفي سياق موازٍ قصف فوج المدفعية والصواريخ في \"أنصار التوحيد\" عدة مقرات وتجمعات عسكرية تتبع لقوات الأسد في كفرنبل ومعرة موخص، حيث تمكن من تحقيق إصابات مباشرة في صفوف ميليشيات النظام جنوبي إدلب.\n\nهذا وخلال الأشهر الثلاثة الماضية نفذت الفصائل العسكرية في الشمال السوري، عدة عمليات طالت مواقع لقوات الأسد على محاور امتدت من ريف اللاذقية الشمالي، حتى ريف حلب الغربي والشرقي، مروراً بريفي حماة وإدلب شمال غربي سوريا.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

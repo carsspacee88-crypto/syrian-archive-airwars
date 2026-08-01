@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/AAKRP"
+    "https://archive.md/AAKRP",
+    "https://web.archive.org/web/20241013005955id_/https://www.zamanalwsl.net/news/article/140847"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaman Al Wasl",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2f9e49c2770db8062ce4affb9e1c64f7b02e6f3218bceb4025f43dc1d4db9853",
+  "content_variants": [
+    {
+      "bytes": 296,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:00:18+00:00",
+      "sha256": "2f9e49c2770db8062ce4affb9e1c64f7b02e6f3218bceb4025f43dc1d4db9853",
+      "source_url": "https://web.archive.org/web/20241013005955id_/https://www.zamanalwsl.net/news/article/140847",
+      "text": "24 تشرين الاول 2021\n\nالميليشيات المرتبطة بروسيا تستهدف محيط قاعدة تركية جنوب إدلب\n\n0\n\nالتعليقات\n\nمحافظة\n\nإدلب\n\nجنوب\n\nضمن\n\nمنطقة\n\nغرب\n\nالقصف\n\nالعسكرية\n\nتعليقات حول الموضوع"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:00:18+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:00:18+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241013005955id_/https://www.zamanalwsl.net/news/article/140847"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241013005955id_/https://www.zamanalwsl.net/news/article/140847",
   "incident_ids": [
     "airwars-79733"
   ],
@@ -85,10 +109,10 @@
     "https://www.zamanalwsl.net/news/article/140847/"
   ],
   "original_url": "https://www.zamanalwsl.net/news/article/140847/",
-  "page_title": "",
+  "page_title": "الميليشيات المرتبطة بروسيا تستهدف محيط قاعدة تركية جنوب إدلب | زمان الوصل الميليشيات المرتبطة بروسيا تستهدف محيط قاعدة تركية جنوب إدلب الميليشيات المرتبطة بروسيا تستهدف محيط قاعدة تركية جنوب إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4661-october-23-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:00:18+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5aa9a409653b7e78a8ed0541",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.zamanalwsl.net/news/article/140847/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "24 تشرين الاول 2021\n\nالميليشيات المرتبطة بروسيا تستهدف محيط قاعدة تركية جنوب إدلب\n\n0\n\nالتعليقات\n\nمحافظة\n\nإدلب\n\nجنوب\n\nضمن\n\nمنطقة\n\nغرب\n\nالقصف\n\nالعسكرية\n\nتعليقات حول الموضوع",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/N211P"
+    "https://archive.md/N211P",
+    "https://web.archive.org/web/20211027092121id_/https://twitter.com/DeirEzzorNow/status/1453290651194384393"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@DeirEzzorNow",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "3d8ab96bbaba8dc6fcbba3381160690f48cba4e5f6fa7d495d939db7590d5743",
+  "content_variants": [
+    {
+      "bytes": 1540,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:59:23+00:00",
+      "sha256": "3d8ab96bbaba8dc6fcbba3381160690f48cba4e5f6fa7d495d939db7590d5743",
+      "source_url": "https://web.archive.org/web/20211027092121id_/https://twitter.com/DeirEzzorNow/status/1453290651194384393",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\n#ديرالزور #الصبحة\n\nمقتل \"سامر العبدالله\" نائب الرئاسة المشتركة لمجلس دير الزور المدني التابع للأدارة الذاتية، وعضو حزب سوريا المستقبل التابع للأدارة، برصاص #قسد في بلدة الصبحة وذلك ليلة أمس أثناء قيام دورية لقسد بملاحقة أحد المطلوبين واثناءخروجه من منزله ليتقصى سبب اطلاق النارpic.twitter.com/wQmj20Zrpf\n\nDeir Ezzore Now‏ @DeirEzzorNow\n\n15s15 seconds ago\n\nMore\n\nCopy link to Tweet\n\nEmbed Tweet\n\nأرداه عناصر الدورية قتيلاً أمام منزله !\n\n#سوريا\n\n0 replies\n\n0 retweets\n\n0 likes\n\nReply\n\nRetweet\n\nRetweeted\n\nLike\n\nLiked\n\nShow this thread\n\nThanks. Twitter will use this to make your timeline better.\nUndo\n\nUndo\n\nDeir Ezzore Now‏ @DeirEzzorNow\n\n15s15 seconds ago\n\nMore\n\nCopy link to Tweet\n\nEmbed Tweet\n\nأرداه عناصر الدورية قتيلاً أمام منزله !\n\n#سوريا\n\n0 replies\n\n0 retweets\n\n0 likes\n\nReply\n\nRetweet\n\nRetweeted\n\nLike\n\nLiked\n\nShow this thread\n\nThanks. Twitter will use this to make your timeline better.\nUndo\n\nUndo\n\nCopy link to Tweet\n\nEmbed Tweet\n\nأرداه عناصر الدورية قتيلاً أمام منزله !\n\n#سوريا\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:59:22+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:59:23+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211027092121id_/https://twitter.com/DeirEzzorNow/status/1453290651194384393"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211027092121id_/https://twitter.com/DeirEzzorNow/status/1453290651194384393",
   "incident_ids": [
     "airwars-79815"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/DeirEzzorNow/status/1453290651194384393"
   ],
   "original_url": "https://twitter.com/DeirEzzorNow/status/1453290651194384393",
-  "page_title": "",
+  "page_title": "Deir Ezzore Now on Twitter: \"#ديرالزور #الصبحة\n\nمقتل \"سامر العبدالله\" نائب الرئاسة المشتركة لمجلس دير الزور المدني التابع للأدارة الذاتية، وعضو حزب سوريا المستقبل التابع للأدارة، برصاص #قسد في بلدة الصبحة وذلك ليلة أمس أثناء قيام دورية لقسد بملاحقة أحد المطلوبين واثناءخروجه من منزله ليتقصى سبب اطلاق النار… https://t.co/7QfEXD7Ty7\" Deir Ezzore Now on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1968-october-27-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:59:23+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4cc838a032b5825d416b6740",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/DeirEzzorNow/status/1453290651194384393",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\n#ديرالزور #الصبحة\n\nمقتل \"سامر العبدالله\" نائب الرئاسة المشتركة لمجلس دير الزور المدني التابع للأدارة الذاتية، وعضو حزب سوريا المستقبل التابع للأدارة، برصاص #قسد في بلدة الصبحة وذلك ليلة أمس أثناء قيام دورية لقسد بملاحقة أحد المطلوبين واثناءخروجه من منزله ليتقصى سبب اطلاق النارpic.twitter.com/wQmj20Zrpf\n\nDeir Ezzore Now‏ @DeirEzzorNow\n\n15s15 seconds ago\n\nMore\n\nCopy link to Tweet\n\nEmbed Tweet\n\nأرداه عناصر الدورية قتيلاً أمام منزله !\n\n#سوريا\n\n0 replies\n\n0 retweets\n\n0 likes\n\nReply\n\nRetweet\n\nRetweeted\n\nLike\n\nLiked\n\nShow this thread\n\nThanks. Twitter will use this to make your timeline better.\nUndo\n\nUndo\n\nDeir Ezzore Now‏ @DeirEzzorNow\n\n15s15 seconds ago\n\nMore\n\nCopy link to Tweet\n\nEmbed Tweet\n\nأرداه عناصر الدورية قتيلاً أمام منزله !\n\n#سوريا\n\n0 replies\n\n0 retweets\n\n0 likes\n\nReply\n\nRetweet\n\nRetweeted\n\nLike\n\nLiked\n\nShow this thread\n\nThanks. Twitter will use this to make your timeline better.\nUndo\n\nUndo\n\nCopy link to Tweet\n\nEmbed Tweet\n\nأرداه عناصر الدورية قتيلاً أمام منزله !\n\n#سوريا\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

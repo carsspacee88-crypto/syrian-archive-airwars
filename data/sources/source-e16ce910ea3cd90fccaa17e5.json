@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/7rx8o"
+    "https://archive.ph/7rx8o",
+    "https://web.archive.org/web/20250519235531id_/https://anfenglish.com/news/international-coalition-condemns-turkish-deadly-drone-attack-erdogan-blames-us-61981"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "4de5e4728f074e21e22351cb70eb0ba5c761346a1988e4374ec41e1f9216f96a",
+  "content_variants": [
+    {
+      "bytes": 3236,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:17:41+00:00",
+      "sha256": "4de5e4728f074e21e22351cb70eb0ba5c761346a1988e4374ec41e1f9216f96a",
+      "source_url": "https://web.archive.org/web/20250519235531id_/https://anfenglish.com/news/international-coalition-condemns-turkish-deadly-drone-attack-erdogan-blames-us-61981",
+      "text": "ANF\n\nNEWS DESK\n\nSaturday, 20 August 2022, 15:36\n\nTurkey attacked an UN-sponsored education centre for girls with a combat drone on Thursday. Four girls were killed and eleven others were injured, some seriously, in the attack on the facility located between Til Temir and Hesekê.\n\nCombined Joint Task Force – Operation Inherent Resolve (CJTF-OIR) Commander Maj. Gen. John Brennan condemned the attack as a \"violation of the laws of armed conflict\" - without mentioning Turkey.\n\nThe statement said: “On the evening of Aug. 18, an armed unmanned aerial system struck a group of teenaged girls playing volleyball who were active in a United Nations educational outreach program in Hasakah. Initial reports indicate that the strike killed four and wounded several others. On behalf of CJTF-OIR, I condemn this attack and any others that kill and injure civilians.\n\n“Such acts are contrary to the laws of armed conflict, which require the protection of civilians. We extend our condolences to the families of those killed and sympathies to those injured.\n\n“The increase in military hostilities in northern Syria is creating chaos in a fragile region where the threat of ISIS remains present. We call for immediate de-escalation from all parties and an end to activities that put at risk the significant battlefield gains the Coalition has made against ISIS.”\n\nThe US-led coalition had expressed similar views on the deadly drone attack on Jiyan Tolhildan, Roj Xabûr and Barîn Botan in July. The act was condemned, but the perpetrator remained unmentioned.\n\nMeanwhile, Turkish President Tayyip Erdogan accused the US and the coalition of supporting terrorism in Syria. Erdogan told journalists on Friday after his return from Ukraine: \"In all the steps we are currently taking in Syria, especially in the north of Syria, east and west of the Euphrates to the Mediterranean, the work we have done with the Russians has been a fight against terrorism. We are continuing our fight against terrorism here together. We are carrying out part of it together with the Russians, and another part with our own soldiers and security forces. (...) Our phrase 'we might come suddenly one night' is not in vain. This will happen in due course. But let me also say this: nobody should ask Turkey if it is ready for something like this. We are prepared for all these things. Because we are prepared, we have the power to do whatever is necessary from moment to moment. At the moment, unfortunately, America in particular is piling up thousands of loads of weapons, ammunition, vehicles, equipment there. For whom is all this being amassed? Completely for terrorist organisations. The US cannot say that: I have not fed terrorism. It is the US and the coalition forces that have fed terrorism in Syria in the first place; they have done it relentlessly and are still doing it.\"\n\nErdoğan said this issue had also been discussed with Russian President Putin in Sochi. He announced a political dialogue with Assad and said that they were in contact with Russia about preparations for the operation in northern and eastern Syria: \"We are in contact with Russia, our security forces, intelligence and defence ministry in every step we take in Syria.\""
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:17:40+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:17:41+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250519235531id_/https://anfenglish.com/news/international-coalition-condemns-turkish-deadly-drone-attack-erdogan-blames-us-61981"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250519235531id_/https://anfenglish.com/news/international-coalition-condemns-turkish-deadly-drone-attack-erdogan-blames-us-61981",
   "incident_ids": [
     "airwars-84467"
   ],
@@ -85,10 +109,10 @@
     "https://anfenglish.com/news/international-coalition-condemns-turkish-deadly-drone-attack-erdogan-blames-us-61981"
   ],
   "original_url": "https://anfenglish.com/news/international-coalition-condemns-turkish-deadly-drone-attack-erdogan-blames-us-61981",
-  "page_title": "",
+  "page_title": "ANF |\nInternational Coalition condemns deadly Turkish drone attack, Erdogan blames US International Coalition condemns deadly Turkish drone attack, Erdogan blames US International Coalition condemns deadly Turkish drone attack, Erdogan blames US",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts550-august-19-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:17:41+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e16ce910ea3cd90fccaa17e5",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfenglish.com/news/international-coalition-condemns-turkish-deadly-drone-attack-erdogan-blames-us-61981",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ANF\n\nNEWS DESK\n\nSaturday, 20 August 2022, 15:36\n\nTurkey attacked an UN-sponsored education centre for girls with a combat drone on Thursday. Four girls were killed and eleven others were injured, some seriously, in the attack on the facility located between Til Temir and Hesekê.\n\nCombined Joint Task Force – Operation Inherent Resolve (CJTF-OIR) Commander Maj. Gen. John Brennan condemned the attack as a \"violation of the laws of armed conflict\" - without mentioning Turkey.\n\nThe statement said: “On the evening of Aug. 18, an armed unmanned aerial system struck a group of teenaged girls playing volleyball who were active in a United Nations educational outreach program in Hasakah. Initial reports indicate that the strike killed four and wounded several others. On behalf of CJTF-OIR, I condemn this attack and any others that kill and injure civilians.\n\n“Such acts are contrary to the laws of armed conflict, which require the protection of civilians. We extend our condolences to the families of those killed and sympathies to those injured.\n\n“The increase in military hostilities in northern Syria is creating chaos in a fragile region where the threat of ISIS remains present. We call for immediate de-escalation from all parties and an end to activities that put at risk the significant battlefield gains the Coalition has made against ISIS.”\n\nThe US-led coalition had expressed similar views on the deadly drone attack on Jiyan Tolhildan, Roj Xabûr and Barîn Botan in July. The act was condemned, but the perpetrator remained unmentioned.\n\nMeanwhile, Turkish President Tayyip Erdogan accused the US and the coalition of supporting terrorism in Syria. Erdogan told journalists on Friday after his return from Ukraine: \"In all the steps we are currently taking in Syria, especially in the north of Syria, east and west of the Euphrates to the Mediterranean, the work we have done with the Russians has been a fight against terrorism. We are continuing our fight against terrorism here together. We are carrying out part of it together with the Russians, and another part with our own soldiers and security forces. (...) Our phrase 'we might come suddenly one night' is not in vain. This will happen in due course. But let me also say this: nobody should ask Turkey if it is ready for something like this. We are prepared for all these things. Because we are prepared, we have the power to do whatever is necessary from moment to moment. At the moment, unfortunately, America in particular is piling up thousands of loads of weapons, ammunition, vehicles, equipment there. For whom is all this being amassed? Completely for terrorist organisations. The US cannot say that: I have not fed terrorism. It is the US and the coalition forces that have fed terrorism in Syria in the first place; they have done it relentlessly and are still doing it.\"\n\nErdoğan said this issue had also been discussed with Russian President Putin in Sochi. He announced a political dialogue with Assad and said that they were in contact with Russia about preparations for the operation in northern and eastern Syria: \"We are in contact with Russia, our security forces, intelligence and defence ministry in every step we take in Syria.\"",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

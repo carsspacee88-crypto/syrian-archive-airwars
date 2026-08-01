@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/5DKPH"
+    "https://archive.is/5DKPH",
+    "https://web.archive.org/web/20220426202402id_/https://twitter.com/Hamoudi_Free_Sy/status/1519049544029286400"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@Hamoudi_Free_Sy",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1edfc64ea5033a9e78563329204321e105086ca1a198d207847ffba6901bcbb7",
+  "content_variants": [
+    {
+      "bytes": 460,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:58:52+00:00",
+      "sha256": "1edfc64ea5033a9e78563329204321e105086ca1a198d207847ffba6901bcbb7",
+      "source_url": "https://web.archive.org/web/20220426202402id_/https://twitter.com/Hamoudi_Free_Sy/status/1519049544029286400",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nبرداً وسلاماً مارع\nتجدد القصف الصاروخي على المدينة من قبل ميليشيات \"قسد\" موقعاً إصابات في صفوف المدنيين\n#الشمال_السوري\n#مارعpic.twitter.com/7kJ9HMDqR9\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:58:52+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:58:52+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220426202402id_/https://twitter.com/Hamoudi_Free_Sy/status/1519049544029286400"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220426202402id_/https://twitter.com/Hamoudi_Free_Sy/status/1519049544029286400",
   "incident_ids": [
     "airwars-82741"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/Hamoudi_Free_Sy/status/1519049544029286400"
   ],
   "original_url": "https://twitter.com/Hamoudi_Free_Sy/status/1519049544029286400",
-  "page_title": "",
+  "page_title": "محمد عبد القادر حمود #بدنا_المعتقلين on Twitter: \"برداً وسلاماً مارع\nتجدد القصف الصاروخي على المدينة من قبل ميليشيات \"قسد\" موقعاً إصابات في صفوف المدنيين\n#الشمال_السوري\n#مارع… https://t.co/yXApzg8gWf\" محمد عبد القادر حمود #بدنا_المعتقلين on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys131-april-26-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:58:52+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4597c3632ef000ea5bd212d3",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/Hamoudi_Free_Sy/status/1519049544029286400",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nبرداً وسلاماً مارع\nتجدد القصف الصاروخي على المدينة من قبل ميليشيات \"قسد\" موقعاً إصابات في صفوف المدنيين\n#الشمال_السوري\n#مارعpic.twitter.com/7kJ9HMDqR9\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

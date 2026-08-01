@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/ImzC2"
+    "https://archive.is/ImzC2",
+    "https://web.archive.org/web/20251027172050id_/https://www.syriahr.com/%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D8%B9%D8%AA/449964/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory of Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "87a23ce706fc42fcff145f59b7d6e5903da64d765433aa0de368e3473bca10de",
+  "content_variants": [
+    {
+      "bytes": 1343,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:08:24+00:00",
+      "sha256": "87a23ce706fc42fcff145f59b7d6e5903da64d765433aa0de368e3473bca10de",
+      "source_url": "https://web.archive.org/web/20251027172050id_/https://www.syriahr.com/%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D8%B9%D8%AA/449964/",
+      "text": "محافظة الرقة: نفذت قوات “التحالف الدولي” عملية إنزال في قرية شنينة جنوب مدينة الرقة بـ20 كيلومتر، وتمكنت من اعتقال اثنين من قيادات تنظيم “الدولة الإسلامية”، إضافة إلى عدة نساء، كما قتل مدني أثناء تواجده قرب الموقع تزامنًا مع عملية الإنزال والمداهمة.\nوكان المرصد السوري قد رصد، اليوم، عملية إنزال جوي لقوات “التحالف الدولي” في قرية شنينة بريف الرقة الشمالي الغربي، فجر اليوم السبت.\nوبحسب المعلومات الأولية فقد استهدفت عملية الإنزال منزلًا لأشخاص نازحين من ريف دير الزور، حيث جرى اعتقال جميع قاطني المنزل، وسط معلومات عن تنفيذ طيران التحالف غارة، استهدفت المنزل عقب اعتقال قاطنيه، تزامن ذلك مع حملة تمشيط نفذتها قوات سوريا الديمقراطية للبحث عن خلايا تنظيم “الدولة الإسلامية” في مزرعة تشرين شمال الرقة بدعم من مروحيات التحالف الدولي."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:08:23+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:08:24+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251027172050id_/https://www.syriahr.com/%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D8%B9%D8%AA/449964/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251027172050id_/https://www.syriahr.com/%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D8%B9%D8%AA/449964/",
   "incident_ids": [
     "airwars-79091"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D8%B9%D8%AA/449964/"
   ],
   "original_url": "https://www.syriahr.com/%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D8%B9%D8%AA/449964/",
-  "page_title": "",
+  "page_title": "في عملية إنزال جوي.. \"التحالف الدولي\" يعتقل قيادات في تنظيم \"الدولة الإسلامية\" ويقتل أحد المواطنين في ريف الرقة - المرصد السوري لحقوق الإنسان في عملية إنزال جوي.. \"التحالف الدولي\" يعتقل قيادات في تنظيم \"الدولة الإسلامية\" ويقتل أحد المواطنين في ريف الرقة - المرصد السوري لحقوق الإنسان",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1965-october-2-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:08:24+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9e6fbbe53b187df37bf20944",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D8%B9%D8%AA/449964/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "محافظة الرقة: نفذت قوات “التحالف الدولي” عملية إنزال في قرية شنينة جنوب مدينة الرقة بـ20 كيلومتر، وتمكنت من اعتقال اثنين من قيادات تنظيم “الدولة الإسلامية”، إضافة إلى عدة نساء، كما قتل مدني أثناء تواجده قرب الموقع تزامنًا مع عملية الإنزال والمداهمة.\nوكان المرصد السوري قد رصد، اليوم، عملية إنزال جوي لقوات “التحالف الدولي” في قرية شنينة بريف الرقة الشمالي الغربي، فجر اليوم السبت.\nوبحسب المعلومات الأولية فقد استهدفت عملية الإنزال منزلًا لأشخاص نازحين من ريف دير الزور، حيث جرى اعتقال جميع قاطني المنزل، وسط معلومات عن تنفيذ طيران التحالف غارة، استهدفت المنزل عقب اعتقال قاطنيه، تزامن ذلك مع حملة تمشيط نفذتها قوات سوريا الديمقراطية للبحث عن خلايا تنظيم “الدولة الإسلامية” في مزرعة تشرين شمال الرقة بدعم من مروحيات التحالف الدولي.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

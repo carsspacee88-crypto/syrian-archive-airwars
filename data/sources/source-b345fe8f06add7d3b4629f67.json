@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/FAjVM"
+    "https://archive.md/FAjVM",
+    "https://web.archive.org/web/20211107143824id_/https://twitter.com/Step_Agency/status/1457353833894588418"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@Step_Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a91754f51bf899879b82aa4d9ce5fa522d75e4a833e56e3cbd42f1b924a263e5",
+  "content_variants": [
+    {
+      "bytes": 378,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:10:57+00:00",
+      "sha256": "a91754f51bf899879b82aa4d9ce5fa522d75e4a833e56e3cbd42f1b924a263e5",
+      "source_url": "https://web.archive.org/web/20211107143824id_/https://twitter.com/Step_Agency/status/1457353833894588418",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\n#عاجل|| قتيل وإصابة آخرين بجروح بقصف من طيران مسير استهدف سيارتهم في مدينة جرابلس شرق حلب\n\n3 Likes\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:10:56+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:10:57+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211107143824id_/https://twitter.com/Step_Agency/status/1457353833894588418"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211107143824id_/https://twitter.com/Step_Agency/status/1457353833894588418",
   "incident_ids": [
     "airwars-79890"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/Step_Agency/status/1457353833894588418"
   ],
   "original_url": "https://twitter.com/Step_Agency/status/1457353833894588418",
-  "page_title": "",
+  "page_title": "Step News Agency - وكالة ستيب الإخبارية on Twitter: \"#عاجل|| قتيل وإصابة آخرين بجروح بقصف من طيران مسير استهدف سيارتهم في مدينة جرابلس شرق حلب\" Step News Agency - وكالة ستيب الإخبارية on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1969-november-7-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:10:57+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b345fe8f06add7d3b4629f67",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/Step_Agency/status/1457353833894588418",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\n#عاجل|| قتيل وإصابة آخرين بجروح بقصف من طيران مسير استهدف سيارتهم في مدينة جرابلس شرق حلب\n\n3 Likes\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

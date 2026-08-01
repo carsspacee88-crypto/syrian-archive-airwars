@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/hSMvp"
+    "https://archive.is/hSMvp",
+    "https://web.archive.org/web/20220117072114id_/https://news.sn4hr.org/2021/12/28/russian-air-raid-targeted-adjacent-poultry-barns-in-n-idlib-governorate-on-december-27/?fbclid=IwAR3eFO1JZM2K8vLgF-HqeB7cWSyLL0DManKi-kOncvJK0nE0cdWqHm-swZY"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Network for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "3c0293ad476c5e2e4376cff8c138be432c1bdcc1f0b7ab16df4274bc05a346bc",
+  "content_variants": [
+    {
+      "bytes": 2088,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:59:55+00:00",
+      "sha256": "3c0293ad476c5e2e4376cff8c138be432c1bdcc1f0b7ab16df4274bc05a346bc",
+      "source_url": "https://web.archive.org/web/20220117072114id_/https://news.sn4hr.org/2021/12/28/russian-air-raid-targeted-adjacent-poultry-barns-in-n-idlib-governorate-on-december-27/?fbclid=IwAR3eFO1JZM2K8vLgF-HqeB7cWSyLL0DManKi-kOncvJK0nE0cdWqHm-swZY",
+      "text": "News\n\nAttacks on Civilian Facilities\n\nRussian forces\n\nFixed-wing warplanes which we believe were Russian fired missiles targeting three adjacent poultry barns to the west of Ma’aret Misreen town in the northern suburbs of Idlib governorate, on December 27, 2021, partially damaging the three barns, one of which was being used as a special food preparation facility.\nSNHR can confirm that the poultry barns are located in a residential area free of any military presence or equipment.\nThrough this action, Russian forces have, without doubt, committed another violation of Security Council resolutions 2139 and 2254 which prohibit any further indiscriminate attacks, as well as violating the rules of international humanitarian law which stress the distinction between civilians and combatants. Attacks of this nature spread terror and panic among civilians, leading them to flee their lands and homes in an attempt to reach safety, and forcibly displacing them, with the number of internally displaced persons within Syria currently standing at approximately 6.5 million Syrian citizens in total. The international community should put pressure on the Syrian regime and its allies to force them to compensate the displaced victims, rehabilitate homes and vital centers, support the political transition process, and press all parties to pursue implementation of political transition according to a strict timetable which must not exceed six months, thus enabling millions of refugees and IDPs to return homes.\n\nThe SDF abduct a girl in Hasaka Governorate in January 14\n\nA child died due to the explosion of a landmine of an unidentified source in Deir Ez-Zour City on January 15\n\nCivilian from Deir Ez-Zour died due to torture in a Syrian regime prison on January 13\n\nCivilian died on January 14, due to wounds inflicted by the blast of an IED of unidentified source in N. Aleppo\n\nCivilians injured and material damages caused by the blast of an unidentified suicide bomber in E. Aleppo on January 13\n\nCivilian from Idlib died due to torture in a Syrian regime detention center, Jan 12"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:59:55+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:59:55+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220117072114id_/https://news.sn4hr.org/2021/12/28/russian-air-raid-targeted-adjacent-poultry-barns-in-n-idlib-governorate-on-december-27/?fbclid=IwAR3eFO1JZM2K8vLgF-HqeB7cWSyLL0DManKi-kOncvJK0nE0cdWqHm-swZY"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220117072114id_/https://news.sn4hr.org/2021/12/28/russian-air-raid-targeted-adjacent-poultry-barns-in-n-idlib-governorate-on-december-27/?fbclid=IwAR3eFO1JZM2K8vLgF-HqeB7cWSyLL0DManKi-kOncvJK0nE0cdWqHm-swZY",
   "incident_ids": [
     "airwars-80841"
   ],
@@ -85,10 +109,10 @@
     "https://news.sn4hr.org/2021/12/28/russian-air-raid-targeted-adjacent-poultry-barns-in-n-idlib-governorate-on-december-27/?fbclid=IwAR3eFO1JZM2K8vLgF-HqeB7cWSyLL0DManKi-kOncvJK0nE0cdWqHm-swZY"
   ],
   "original_url": "https://news.sn4hr.org/2021/12/28/russian-air-raid-targeted-adjacent-poultry-barns-in-n-idlib-governorate-on-december-27/?fbclid=IwAR3eFO1JZM2K8vLgF-HqeB7cWSyLL0DManKi-kOncvJK0nE0cdWqHm-swZY",
-  "page_title": "",
+  "page_title": "Russian air raid targeted adjacent poultry barns in N. Idlib governorate on December 27 | Syrian Network for Human Rights Russian air raid targeted adjacent poultry barns in N. Idlib governorate on December 27 | Syrian Network for Human Rights Russian air raid targeted adjacent poultry barns in N. Idlib governorate on December 27 | Syrian Network for Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4682-december-27-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:59:55+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-54ca3f27e40ffd0ceb17e9e8",
   "source_type": "news_article",
   "stable_id_basis": "https://news.sn4hr.org/2021/12/28/russian-air-raid-targeted-adjacent-poultry-barns-in-n-idlib-governorate-on-december-27/?fbclid=IwAR3eFO1JZM2K8vLgF-HqeB7cWSyLL0DManKi-kOncvJK0nE0cdWqHm-swZY",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "News\n\nAttacks on Civilian Facilities\n\nRussian forces\n\nFixed-wing warplanes which we believe were Russian fired missiles targeting three adjacent poultry barns to the west of Ma’aret Misreen town in the northern suburbs of Idlib governorate, on December 27, 2021, partially damaging the three barns, one of which was being used as a special food preparation facility.\nSNHR can confirm that the poultry barns are located in a residential area free of any military presence or equipment.\nThrough this action, Russian forces have, without doubt, committed another violation of Security Council resolutions 2139 and 2254 which prohibit any further indiscriminate attacks, as well as violating the rules of international humanitarian law which stress the distinction between civilians and combatants. Attacks of this nature spread terror and panic among civilians, leading them to flee their lands and homes in an attempt to reach safety, and forcibly displacing them, with the number of internally displaced persons within Syria currently standing at approximately 6.5 million Syrian citizens in total. The international community should put pressure on the Syrian regime and its allies to force them to compensate the displaced victims, rehabilitate homes and vital centers, support the political transition process, and press all parties to pursue implementation of political transition according to a strict timetable which must not exceed six months, thus enabling millions of refugees and IDPs to return homes.\n\nThe SDF abduct a girl in Hasaka Governorate in January 14\n\nA child died due to the explosion of a landmine of an unidentified source in Deir Ez-Zour City on January 15\n\nCivilian from Deir Ez-Zour died due to torture in a Syrian regime prison on January 13\n\nCivilian died on January 14, due to wounds inflicted by the blast of an IED of unidentified source in N. Aleppo\n\nCivilians injured and material damages caused by the blast of an unidentified suicide bomber in E. Aleppo on January 13\n\nCivilian from Idlib died due to torture in a Syrian regime detention center, Jan 12",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

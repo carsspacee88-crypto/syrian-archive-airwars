@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/zaLeX"
+    "https://archive.is/zaLeX",
+    "https://web.archive.org/web/20240525013810id_/https://www.facebook.com/svxey/posts/pfbid02Wgyn3MgkX4wLWqrVEXj3PMe4QvUU8YiXjyfWc4tr4i7fz5JgiNUxh4y49ZeB2pVFl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Muhammad Al-Adlabi",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ab10f72fd29be49c3b845654438c68c6f503694be5c7e7b6426276a15c79412a",
+  "content_variants": [
+    {
+      "bytes": 606,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:18:39+00:00",
+      "sha256": "ab10f72fd29be49c3b845654438c68c6f503694be5c7e7b6426276a15c79412a",
+      "source_url": "https://web.archive.org/web/20240525013810id_/https://www.facebook.com/svxey/posts/pfbid02Wgyn3MgkX4wLWqrVEXj3PMe4QvUU8YiXjyfWc4tr4i7fz5JgiNUxh4y49ZeB2pVFl",
+      "text": "#عاجـــــــــــــــــــــــل\n\n11 شهيد اليوم حتى الآن في #إدلب وريفها وريف #حلب الغربي عدا الإصابات\n\nشهداءنا اليوم👇\n\n1_ بشرى حبوش من #أريحا\n\n2_ سلاف...\n\n#عاجـــــــــــــــــــــــل\n\n11 شهيد اليوم حتى الآن في #إدلب وريفها وريف #حلب الغربي عدا الإصابات\n\nشهداءنا اليوم👇\n\n1_ بشرى حبوش من #أريحا\n\n2_ سلاف عبيدو من #منطف\n\n3_ بشار الزير من #إدلب\n\n4_ أيمن..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:18:39+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:18:39+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525013810id_/https://www.facebook.com/svxey/posts/pfbid02Wgyn3MgkX4wLWqrVEXj3PMe4QvUU8YiXjyfWc4tr4i7fz5JgiNUxh4y49ZeB2pVFl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525013810id_/https://www.facebook.com/svxey/posts/pfbid02Wgyn3MgkX4wLWqrVEXj3PMe4QvUU8YiXjyfWc4tr4i7fz5JgiNUxh4y49ZeB2pVFl",
   "incident_ids": [
     "airwars-101839"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/svxey/posts/pfbid02Wgyn3MgkX4wLWqrVEXj3PMe4QvUU8YiXjyfWc4tr4i7fz5JgiNUxh4y49ZeB2pVFl"
   ],
   "original_url": "https://www.facebook.com/svxey/posts/pfbid02Wgyn3MgkX4wLWqrVEXj3PMe4QvUU8YiXjyfWc4tr4i7fz5JgiNUxh4y49ZeB2pVFl",
-  "page_title": "",
+  "page_title": "محمد الأدلبي محمد الأدلبي محمد الأدلبي - #عاجـــــــــــــــــــــــل\n\n11 شهيد...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4825-october-5-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:18:39+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f1179dfc83d002cd834b23e3",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/svxey/posts/pfbid02Wgyn3MgkX4wLWqrVEXj3PMe4QvUU8YiXjyfWc4tr4i7fz5JgiNUxh4y49ZeB2pVFl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#عاجـــــــــــــــــــــــل\n\n11 شهيد اليوم حتى الآن في #إدلب وريفها وريف #حلب الغربي عدا الإصابات\n\nشهداءنا اليوم👇\n\n1_ بشرى حبوش من #أريحا\n\n2_ سلاف...\n\n#عاجـــــــــــــــــــــــل\n\n11 شهيد اليوم حتى الآن في #إدلب وريفها وريف #حلب الغربي عدا الإصابات\n\nشهداءنا اليوم👇\n\n1_ بشرى حبوش من #أريحا\n\n2_ سلاف عبيدو من #منطف\n\n3_ بشار الزير من #إدلب\n\n4_ أيمن...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

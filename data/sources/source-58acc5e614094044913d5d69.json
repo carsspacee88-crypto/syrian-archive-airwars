@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/FlbKR"
+    "https://archive.ph/FlbKR",
+    "https://web.archive.org/web/20250217044904id_/https://npasyria.com/en/80818/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a650c0142e813ae3968be7826ced8fc85ae10359e953cb14261ae10b1f5b89ad",
+  "content_variants": [
+    {
+      "bytes": 1906,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:00:13+00:00",
+      "sha256": "a650c0142e813ae3968be7826ced8fc85ae10359e953cb14261ae10b1f5b89ad",
+      "source_url": "https://web.archive.org/web/20250217044904id_/https://npasyria.com/en/80818/",
+      "text": "Casualties reported in Russian airstrike in Syria’s Idlib\n\nPrevious bombardment on the Southern countryside of Idlib\n\nIDLIB, Syria (North Press) – About 20 individuals, most of them children, were killed and wounded, on Friday morning, in Russian airstrikes, targeting population centers in the countryside of Jisr al-Shughur area, west of Idlib Governorate, northwest Syria.\n\nRussian warplanes targeted, today at down, the homes of residents on the outskirts of the villages of al-Yaqoubia and al-Jadida, north of the city of Jisr al-Shughur, using high-explosive missiles, eyewitnesses told North Press.\n\nThe aerial bombardment caused the killing of seven civilians, including five children, four of them from one family, in addition to the injury of 14 others, including 8 children, the victims were transferred to medical points near the area, the eyewitnesses added.\n\nAccording to the eyewitnesses, most of the victims of the bombing are IDPs.\n\nThe Russian raids coincided with artillery bombardment by Syrian government forces that targeted a number of civilian vehicles that were transporting construction materials in the village of Mazraa in Zawiya Mountain south of Idlib. Only material damage was reported.\n\nThe Russian raids came days after Turkish officers demanded IDPs of villages in Idlib countryside to return to their homes and promised that there would not be any military operation by Russia or Syrian government forces on Idlib.\n\nAlthough the de-escalation zone in northwest Syria is subjected to a Russian-Turkish ceasefire agreement signed in March 2020, the area witnesses frequent mutual bombardment despite the entry of the ceasefire into force.\n\nIn March 2020, Russia and Turkey reached an agreement in Moscow that stipulated a ceasefire, the establishment of a safe corridor, and the conduct of joint patrols on the M4/Aleppo-Latakia Highway.\n\nReporting by Baha’ al-Nobani"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:00:11+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:00:13+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250217044904id_/https://npasyria.com/en/80818/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250217044904id_/https://npasyria.com/en/80818/",
   "incident_ids": [
     "airwars-84159"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/80818/"
   ],
   "original_url": "https://npasyria.com/en/80818/",
-  "page_title": "",
+  "page_title": "Casualties reported in Russian airstrike in Syria's Idlib - North press agency Casualties reported in Russian airstrike in Syria's Idlib - North press agency Casualties reported in Russian airstrike in Syria's Idlib - North press agency Casualties reported in Russian airstrike in Syria's Idlib - North press agency Casualties reported in Russian airstrike in Syria's Idlib - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4704-july-22-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:00:13+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-58acc5e614094044913d5d69",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/80818/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Casualties reported in Russian airstrike in Syria’s Idlib\n\nPrevious bombardment on the Southern countryside of Idlib\n\nIDLIB, Syria (North Press) – About 20 individuals, most of them children, were killed and wounded, on Friday morning, in Russian airstrikes, targeting population centers in the countryside of Jisr al-Shughur area, west of Idlib Governorate, northwest Syria.\n\nRussian warplanes targeted, today at down, the homes of residents on the outskirts of the villages of al-Yaqoubia and al-Jadida, north of the city of Jisr al-Shughur, using high-explosive missiles, eyewitnesses told North Press.\n\nThe aerial bombardment caused the killing of seven civilians, including five children, four of them from one family, in addition to the injury of 14 others, including 8 children, the victims were transferred to medical points near the area, the eyewitnesses added.\n\nAccording to the eyewitnesses, most of the victims of the bombing are IDPs.\n\nThe Russian raids coincided with artillery bombardment by Syrian government forces that targeted a number of civilian vehicles that were transporting construction materials in the village of Mazraa in Zawiya Mountain south of Idlib. Only material damage was reported.\n\nThe Russian raids came days after Turkish officers demanded IDPs of villages in Idlib countryside to return to their homes and promised that there would not be any military operation by Russia or Syrian government forces on Idlib.\n\nAlthough the de-escalation zone in northwest Syria is subjected to a Russian-Turkish ceasefire agreement signed in March 2020, the area witnesses frequent mutual bombardment despite the entry of the ceasefire into force.\n\nIn March 2020, Russia and Turkey reached an agreement in Moscow that stipulated a ceasefire, the establishment of a safe corridor, and the conduct of joint patrols on the M4/Aleppo-Latakia Highway.\n\nReporting by Baha’ al-Nobani",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/ngygB"
+    "https://archive.md/ngygB",
+    "https://web.archive.org/web/20260213193705id_/https://deirezzor24.net/en/the-international-coalition-carried-out-landing-operation-in-the-city-of-al-busaira/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Deir Ezzor 24",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "9cdb9c8f1d72c944c0e1b095431959003d413140a871bdf14ac258a16e525cbc",
+  "content_variants": [
+    {
+      "bytes": 82,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:19:00+00:00",
+      "sha256": "9cdb9c8f1d72c944c0e1b095431959003d413140a871bdf14ac258a16e525cbc",
+      "source_url": "https://web.archive.org/web/20260213193705id_/https://deirezzor24.net/en/the-international-coalition-carried-out-landing-operation-in-the-city-of-al-busaira/",
+      "text": "One moment, please...\n\nLoader\n\nPlease wait while your request is being verified..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:18:59+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:19:00+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260213193705id_/https://deirezzor24.net/en/the-international-coalition-carried-out-landing-operation-in-the-city-of-al-busaira/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260213193705id_/https://deirezzor24.net/en/the-international-coalition-carried-out-landing-operation-in-the-city-of-al-busaira/",
   "incident_ids": [
     "airwars-80656"
   ],
@@ -85,10 +109,10 @@
     "https://deirezzor24.net/en/the-international-coalition-carried-out-landing-operation-in-the-city-of-al-busaira/"
   ],
   "original_url": "https://deirezzor24.net/en/the-international-coalition-carried-out-landing-operation-in-the-city-of-al-busaira/",
-  "page_title": "",
+  "page_title": "One moment, please... Loader",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1974-december-12-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:19:00+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f3ab323d2f957f80670ad65a",
   "source_type": "other_web_page",
   "stable_id_basis": "https://deirezzor24.net/en/the-international-coalition-carried-out-landing-operation-in-the-city-of-al-busaira/",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "One moment, please...\n\nLoader\n\nPlease wait while your request is being verified...",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/y0vNF"
+    "https://archive.md/y0vNF",
+    "https://web.archive.org/web/20240515184055id_/https://www.facebook.com/EIN.LAROS/posts/420434429665143"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Einlaros",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1341f42b8bfb43545aff42426e3f36f92c7fd00da793ed419849986c37a41753",
+  "content_variants": [
+    {
+      "bytes": 254,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:19:02+00:00",
+      "sha256": "1341f42b8bfb43545aff42426e3f36f92c7fd00da793ed419849986c37a41753",
+      "source_url": "https://web.archive.org/web/20240515184055id_/https://www.facebook.com/EIN.LAROS/posts/420434429665143",
+      "text": "#جبل_الزاوية\nشهيد ثاني انتشلت جثمانه فرق الدفاع المدني من تحت الانقاض في بلدة #عين_لاروز بعد استهدافها بقذائف كراسنوبول الليزرية ظهر اليوم ."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:19:01+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:19:02+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515184055id_/https://www.facebook.com/EIN.LAROS/posts/420434429665143"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515184055id_/https://www.facebook.com/EIN.LAROS/posts/420434429665143",
   "incident_ids": [
     "airwars-80278"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/EIN.LAROS/posts/420434429665143"
   ],
   "original_url": "https://www.facebook.com/EIN.LAROS/posts/420434429665143",
-  "page_title": "",
+  "page_title": "مركز عين لاروز الإعلامي Ein LaRose Media Center مركز عين لاروز الإعلامي Ein LaRose Media Center #جبل_الزا... - مركز عين لاروز الإعلامي Ein LaRose Media Center",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4671-november-24-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:19:02+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f453d1f036738c14980ac966",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/EIN.LAROS/posts/420434429665143",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#جبل_الزاوية\nشهيد ثاني انتشلت جثمانه فرق الدفاع المدني من تحت الانقاض في بلدة #عين_لاروز بعد استهدافها بقذائف كراسنوبول الليزرية ظهر اليوم .",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/RMQrs"
+    "https://archive.is/RMQrs",
+    "https://web.archive.org/web/20240716124738id_/https://npasyria.com/en/85010/?fbclid=IwAR2WWBQLjJmWi4RSdaRSlqsrZrCtbMdlk5ZtahPFW5ULQKTqg_QcF7dmV6M"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "4284cbb5409e81fa0d399e5f681739dddceeb8afc2abd7049bc9c6b9b4f1ef16",
+  "content_variants": [
+    {
+      "bytes": 1248,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:58:42+00:00",
+      "sha256": "4284cbb5409e81fa0d399e5f681739dddceeb8afc2abd7049bc9c6b9b4f1ef16",
+      "source_url": "https://web.archive.org/web/20240716124738id_/https://npasyria.com/en/85010/?fbclid=IwAR2WWBQLjJmWi4RSdaRSlqsrZrCtbMdlk5ZtahPFW5ULQKTqg_QcF7dmV6M",
+      "text": "4 wounded in Turkish shelling of Syria’s Hasakah\n\nTurkish shelling of Umm al-Keif village in north of Tel Tamr town, northern Hasakah – North Press\n\nTEL TAMR, Syria (North Press) – On Monday evening, four people were wounded in a Turkish shelling of Tel Tamr town in the northern countryside of Hasakah in northeastern Syria.\n\nA medical source from Legarin Hospital in Tel Tamr said, “Four people were wounded in the village of Tel al-Laban.”\n\nThey were wounded in varying degrees, according to the source.\n\nTel Tamr, which has a population of about 25,000 and is 30 km away from the Syrian-Turkish border, is of strategic importance as it is a junction on the M4 Highway linking the Jazira region in northeast Syria to Aleppo governorate in northwest.\n\nA military source told North Press, “The Turkish forces fired a barrage of artillery shells at the village of Tel al-Laban, west of Tel Tamr.”\n\nThe town of Tel Tamr in north of Hasakah, northeast Syria, has been under constant attack by Turkish military and its affiliated armed Syrian opposition factions for more than two years.\n\nEarlier on Monday, the Turkish forces shelled the village of Qubur al-Qarajnah, north of Tel Tamr, leaving material damage.\n\nReporting by Adnan Hamo"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:58:41+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:58:42+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240716124738id_/https://npasyria.com/en/85010/?fbclid=IwAR2WWBQLjJmWi4RSdaRSlqsrZrCtbMdlk5ZtahPFW5ULQKTqg_QcF7dmV6M"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240716124738id_/https://npasyria.com/en/85010/?fbclid=IwAR2WWBQLjJmWi4RSdaRSlqsrZrCtbMdlk5ZtahPFW5ULQKTqg_QcF7dmV6M",
   "incident_ids": [
     "airwars-84996"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/85010/?fbclid=IwAR2WWBQLjJmWi4RSdaRSlqsrZrCtbMdlk5ZtahPFW5ULQKTqg_QcF7dmV6M"
   ],
   "original_url": "https://npasyria.com/en/85010/?fbclid=IwAR2WWBQLjJmWi4RSdaRSlqsrZrCtbMdlk5ZtahPFW5ULQKTqg_QcF7dmV6M",
-  "page_title": "",
+  "page_title": "4 wounded in Turkish shelling of Syria's Hasakah 4 wounded in Turkish shelling of Syria's Hasakah 4 wounded in Turkish shelling of Syria's Hasakah 4 wounded in Turkish shelling of Syria's Hasakah - North press agency 4 wounded in Turkish shelling of Syria's Hasakah - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts557-october-3-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:58:42+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-3bdb058b93c50df0f6e424a5",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/85010/?fbclid=IwAR2WWBQLjJmWi4RSdaRSlqsrZrCtbMdlk5ZtahPFW5ULQKTqg_QcF7dmV6M",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "und",
+  "text_original": "4 wounded in Turkish shelling of Syria’s Hasakah\n\nTurkish shelling of Umm al-Keif village in north of Tel Tamr town, northern Hasakah – North Press\n\nTEL TAMR, Syria (North Press) – On Monday evening, four people were wounded in a Turkish shelling of Tel Tamr town in the northern countryside of Hasakah in northeastern Syria.\n\nA medical source from Legarin Hospital in Tel Tamr said, “Four people were wounded in the village of Tel al-Laban.”\n\nThey were wounded in varying degrees, according to the source.\n\nTel Tamr, which has a population of about 25,000 and is 30 km away from the Syrian-Turkish border, is of strategic importance as it is a junction on the M4 Highway linking the Jazira region in northeast Syria to Aleppo governorate in northwest.\n\nA military source told North Press, “The Turkish forces fired a barrage of artillery shells at the village of Tel al-Laban, west of Tel Tamr.”\n\nThe town of Tel Tamr in north of Hasakah, northeast Syria, has been under constant attack by Turkish military and its affiliated armed Syrian opposition factions for more than two years.\n\nEarlier on Monday, the Turkish forces shelled the village of Qubur al-Qarajnah, north of Tel Tamr, leaving material damage.\n\nReporting by Adnan Hamo",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

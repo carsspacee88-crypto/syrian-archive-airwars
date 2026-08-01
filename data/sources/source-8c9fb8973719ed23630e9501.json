@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/hE6v1"
+    "https://archive.is/hE6v1",
+    "https://web.archive.org/web/20230322213238id_/https://www.kurdistan24.net/en/story/30357-Coalition-and-SDF-arrest-ex-ISIS-leader-in-Deir-ez-Zor"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Kurdistan24",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "e63089ff592788213394a7ebbff7063b09dacbea73efb13e040e1ac20b39cfea",
+  "content_variants": [
+    {
+      "bytes": 947,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:07:50+00:00",
+      "sha256": "e63089ff592788213394a7ebbff7063b09dacbea73efb13e040e1ac20b39cfea",
+      "source_url": "https://web.archive.org/web/20230322213238id_/https://www.kurdistan24.net/en/story/30357-Coalition-and-SDF-arrest-ex-ISIS-leader-in-Deir-ez-Zor",
+      "text": "Coalition and SDF arrest ex-ISIS leader in Deir ez-Zor\n\nElite Anti-Terror Forces (HAT) of the Syrian Democratic Forces (SDF). (Photo: SDF)\n\nERBIL (Kurdistan 24) – The Syrian Democratic Forces (SDF) on Monday evening arrested Hafiz Al-Khabeel, a former ISIS leader and a relative of Ahmed Al-Khabeel, commander of SDF’s Deir ez-Zor Military Council, the UK-based Syrian Observatory for Human Rights (SOHR) war monitor reported on Tuesday.\n\nSDF forces, with the support of Coalition helicopters, raided the man’s house in Al-Basirah city, east of Deir ez-Zor.\n\nAlthough the SDF and coalition forces announced the territorial defeat of ISIS in Syria in March 2019, ISIS sleeper cells continue to pose a threat, especially in Deir ez-Zor.\n\nRead More: ​​SDF continues to hunt ISIS cells in Hasakah province\n\nThe SDF also recently launched Operation Al-Jazeera Thunderbolt on Dec. 29 in the Hasakah province, arresting dozens of ISIS suspects."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:07:49+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:07:50+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230322213238id_/https://www.kurdistan24.net/en/story/30357-Coalition-and-SDF-arrest-ex-ISIS-leader-in-Deir-ez-Zor"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230322213238id_/https://www.kurdistan24.net/en/story/30357-Coalition-and-SDF-arrest-ex-ISIS-leader-in-Deir-ez-Zor",
   "incident_ids": [
     "airwars-89579"
   ],
@@ -85,10 +109,10 @@
     "https://www.kurdistan24.net/en/story/30357-Coalition-and-SDF-arrest-ex-ISIS-leader-in-Deir-ez-Zor"
   ],
   "original_url": "https://www.kurdistan24.net/en/story/30357-Coalition-and-SDF-arrest-ex-ISIS-leader-in-Deir-ez-Zor",
-  "page_title": "",
+  "page_title": "Coalition and SDF arrest ex-ISIS leader in Deir ez-Zor Coalition and SDF arrest ex-ISIS leader in Deir ez-Zor Coalition and SDF arrest ex-ISIS leader in Deir ez-Zor",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0003-january-2-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:07:50+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-8c9fb8973719ed23630e9501",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.kurdistan24.net/en/story/30357-Coalition-and-SDF-arrest-ex-ISIS-leader-in-Deir-ez-Zor",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Coalition and SDF arrest ex-ISIS leader in Deir ez-Zor\n\nElite Anti-Terror Forces (HAT) of the Syrian Democratic Forces (SDF). (Photo: SDF)\n\nERBIL (Kurdistan 24) – The Syrian Democratic Forces (SDF) on Monday evening arrested Hafiz Al-Khabeel, a former ISIS leader and a relative of Ahmed Al-Khabeel, commander of SDF’s Deir ez-Zor Military Council, the UK-based Syrian Observatory for Human Rights (SOHR) war monitor reported on Tuesday.\n\nSDF forces, with the support of Coalition helicopters, raided the man’s house in Al-Basirah city, east of Deir ez-Zor.\n\nAlthough the SDF and coalition forces announced the territorial defeat of ISIS in Syria in March 2019, ISIS sleeper cells continue to pose a threat, especially in Deir ez-Zor.\n\nRead More: ​​SDF continues to hunt ISIS cells in Hasakah province\n\nThe SDF also recently launched Operation Al-Jazeera Thunderbolt on Dec. 29 in the Hasakah province, arresting dozens of ISIS suspects.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

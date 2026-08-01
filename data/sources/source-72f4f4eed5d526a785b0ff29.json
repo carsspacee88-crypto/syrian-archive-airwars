@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/20v99"
+    "https://archive.ph/20v99",
+    "https://web.archive.org/web/20250722062425id_/https://www.dailysabah.com/politics/war-on-terror/ypg-terrorists-in-manbij-target-civilians-in-syrias-jarablus"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Daily Sabah",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c62fc5d7753e607d91aa7170f2463842de26ca1a0ed3bfa665a4513ba1e3c6e8",
+  "content_variants": [
+    {
+      "bytes": 1939,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:02:54+00:00",
+      "sha256": "c62fc5d7753e607d91aa7170f2463842de26ca1a0ed3bfa665a4513ba1e3c6e8",
+      "source_url": "https://web.archive.org/web/20250722062425id_/https://www.dailysabah.com/politics/war-on-terror/ypg-terrorists-in-manbij-target-civilians-in-syrias-jarablus",
+      "text": "Politics\n\nDiplomacy\n\nLegislation\n\nWar On Terror\n\nEU Affairs\n\nElections\n\nNews Analysis\n\nYPG terrorists in Manbij target civilians in Syria’s Jarablus\n\nby Daily Sabah with AA\n\nYPG terrorists on Monday targeted civilians in northern Jarablus, an area liberated by a Turkish operation, from Manbij province, where the terrorists still pose a threat.\n\nThe YPG terrorists, PKK's Syrian affiliate, who had to withdraw from Manbij under a 2019 deal between Turkey and Russia, wounded three civilians in a Grad missile attack.\n\nThe missiles hit civilian settlements, causing material damage, while the number of wounded is still being assessed and likely to grow.\n\nIn October 2019, Russia expressed commitment to removing the terrorist group from Tal Rifaat and Manbij after reaching an agreement with Turkey during Operation Peace Spring. Moscow also promised that the terrorists would be removed 30 kilometers (18.6 miles) from the border near the M4 highway and the area outside the Operation Peace Spring area.\n\nLikewise, then-U.S. Vice President Mike Pence pledged to Turkey that the YPG/PKK would withdraw from the region of Operation Peace Spring.\n\nThe YPG has controlled much of northeastern Syria since the forces of Syrian regime leader Bashar Assad withdrew in 2012.\n\nThe latest attack comes as Ankara increasingly warns of the terror threat on its southern border.\n\nTurkey, which has mounted four operations in northern Syria since 2016, has vowed a new operation against YPG terrorists that control swathes of territory near the Turkish border. Among the potential targets are Manbij and Tal Rifaat.\n\nThe terrorists often target Turkish forces who provide security in the Euphrates Shield, Olive Branch and Peace Spring areas and try to infiltrate the positions of Syrian opposition fighters from regions that the terrorist group was supposed to withdraw from under the agreements with the United States and Russia.\n\nshortlink copied"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:02:53+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:02:54+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250722062425id_/https://www.dailysabah.com/politics/war-on-terror/ypg-terrorists-in-manbij-target-civilians-in-syrias-jarablus"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250722062425id_/https://www.dailysabah.com/politics/war-on-terror/ypg-terrorists-in-manbij-target-civilians-in-syrias-jarablus",
   "incident_ids": [
     "airwars-83924"
   ],
@@ -85,10 +109,10 @@
     "https://www.dailysabah.com/politics/war-on-terror/ypg-terrorists-in-manbij-target-civilians-in-syrias-jarablus"
   ],
   "original_url": "https://www.dailysabah.com/politics/war-on-terror/ypg-terrorists-in-manbij-target-civilians-in-syrias-jarablus",
-  "page_title": "",
+  "page_title": "YPG terrorists in Manbij target civilians in Syria’s Jarablus | Daily Sabah\nYPG terrorists in Manbij target civilians in Syria’s Jarablus YPG terrorists in Manbij target civilians in Syria’s Jarablus",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys138-june-27-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:02:54+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-72f4f4eed5d526a785b0ff29",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.dailysabah.com/politics/war-on-terror/ypg-terrorists-in-manbij-target-civilians-in-syrias-jarablus",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Politics\n\nDiplomacy\n\nLegislation\n\nWar On Terror\n\nEU Affairs\n\nElections\n\nNews Analysis\n\nYPG terrorists in Manbij target civilians in Syria’s Jarablus\n\nby Daily Sabah with AA\n\nYPG terrorists on Monday targeted civilians in northern Jarablus, an area liberated by a Turkish operation, from Manbij province, where the terrorists still pose a threat.\n\nThe YPG terrorists, PKK's Syrian affiliate, who had to withdraw from Manbij under a 2019 deal between Turkey and Russia, wounded three civilians in a Grad missile attack.\n\nThe missiles hit civilian settlements, causing material damage, while the number of wounded is still being assessed and likely to grow.\n\nIn October 2019, Russia expressed commitment to removing the terrorist group from Tal Rifaat and Manbij after reaching an agreement with Turkey during Operation Peace Spring. Moscow also promised that the terrorists would be removed 30 kilometers (18.6 miles) from the border near the M4 highway and the area outside the Operation Peace Spring area.\n\nLikewise, then-U.S. Vice President Mike Pence pledged to Turkey that the YPG/PKK would withdraw from the region of Operation Peace Spring.\n\nThe YPG has controlled much of northeastern Syria since the forces of Syrian regime leader Bashar Assad withdrew in 2012.\n\nThe latest attack comes as Ankara increasingly warns of the terror threat on its southern border.\n\nTurkey, which has mounted four operations in northern Syria since 2016, has vowed a new operation against YPG terrorists that control swathes of territory near the Turkish border. Among the potential targets are Manbij and Tal Rifaat.\n\nThe terrorists often target Turkish forces who provide security in the Euphrates Shield, Olive Branch and Peace Spring areas and try to infiltrate the positions of Syrian opposition fighters from regions that the terrorist group was supposed to withdraw from under the agreements with the United States and Russia.\n\nshortlink copied",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,
