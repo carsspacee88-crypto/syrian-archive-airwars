@@ -504,7 +504,12 @@ class AsyncHostFetcher:
             return remaining
         return 0.0
 
-    async def fetch(self, url: str, accept: str = "text/html,application/json;q=0.9,*/*;q=0.1") -> FetchResult:
+    async def fetch(
+        self,
+        url: str,
+        accept: str = "text/html,application/json;q=0.9,*/*;q=0.1",
+        allowed_redirect_hosts: frozenset[str] | set[str] | None = None,
+    ) -> FetchResult:
         host = _host(url)
         if self._client is None:
             raise RuntimeError("AsyncHostFetcher must be used as an async context manager")
@@ -535,40 +540,79 @@ class AsyncHostFetcher:
             for attempt in range(1, self.retries + 1):
                 waiting += await self._wait_for_host(host)
                 started = time.monotonic()
-                self.total_requests += 1
                 if attempt > 1:
                     self.total_retries += 1
                 try:
-                    async with self._client.stream("GET", url, headers={"Accept": accept}) as response:
-                        body = bytearray()
-                        async for chunk in response.aiter_bytes():
-                            body.extend(chunk)
-                            if len(body) > self.max_bytes:
-                                raise ValueError(f"response_exceeds_{self.max_bytes}_bytes")
-                        payload = bytes(body)
-                        last = FetchResult(
-                            url=url,
-                            final_url=str(response.url),
-                            status=response.status_code,
-                            content_type=response.headers.get("Content-Type", ""),
-                            body=payload,
-                            retrieved_at=utc_now(),
-                            elapsed_seconds=round(time.monotonic() - started, 3),
-                            error=None if 200 <= response.status_code < 300 else f"http_{response.status_code}",
-                            attempts=attempt,
-                            waiting_seconds=round(waiting, 3),
-                            etag=response.headers.get("ETag", ""),
-                            last_modified=response.headers.get("Last-Modified", ""),
-                        )
-                        history.append({
-                            "attempt": attempt,
-                            "retrieved_at": last.retrieved_at,
-                            "status": last.status,
-                            "elapsed_seconds": last.elapsed_seconds,
-                            "result": "successful" if last.ok else "http_error",
-                            "error": last.error,
-                        })
-                        retry_after = RespectfulFetcher._retry_after_seconds(response.headers.get("Retry-After"))
+                    request_url = url
+                    redirect_count = 0
+                    response_headers: dict[str, str] = {}
+                    normalized_allowed_hosts = {
+                        value.casefold().removeprefix("www.")
+                        for value in (allowed_redirect_hosts or set())
+                    }
+                    while True:
+                        self.total_requests += 1
+                        async with self._client.stream(
+                            "GET",
+                            request_url,
+                            headers={"Accept": accept},
+                            follow_redirects=allowed_redirect_hosts is None,
+                        ) as response:
+                            response_headers = dict(response.headers)
+                            if allowed_redirect_hosts is not None and response.is_redirect:
+                                location = response.headers.get("Location", "")
+                                redirected_url = urllib.parse.urljoin(str(response.url), location)
+                                redirected_host = _host(redirected_url)
+                                if not location or redirected_host not in normalized_allowed_hosts:
+                                    last = FetchResult(
+                                        url=url,
+                                        final_url=str(response.url),
+                                        status=response.status_code,
+                                        content_type=response.headers.get("Content-Type", ""),
+                                        body=b"",
+                                        retrieved_at=utc_now(),
+                                        elapsed_seconds=round(time.monotonic() - started, 3),
+                                        error=f"redirect_blocked_outside_archive:{redirected_host or 'unknown'}",
+                                        attempts=attempt,
+                                        waiting_seconds=round(waiting, 3),
+                                    )
+                                    break
+                                redirect_count += 1
+                                if redirect_count > 10:
+                                    raise RuntimeError("too_many_archive_redirects")
+                                request_url = redirected_url
+                                continue
+                            body = bytearray()
+                            async for chunk in response.aiter_bytes():
+                                body.extend(chunk)
+                                if len(body) > self.max_bytes:
+                                    raise ValueError(f"response_exceeds_{self.max_bytes}_bytes")
+                            payload = bytes(body)
+                            last = FetchResult(
+                                url=url,
+                                final_url=str(response.url),
+                                status=response.status_code,
+                                content_type=response.headers.get("Content-Type", ""),
+                                body=payload,
+                                retrieved_at=utc_now(),
+                                elapsed_seconds=round(time.monotonic() - started, 3),
+                                error=None if 200 <= response.status_code < 300 else f"http_{response.status_code}",
+                                attempts=attempt,
+                                waiting_seconds=round(waiting, 3),
+                                etag=response.headers.get("ETag", ""),
+                                last_modified=response.headers.get("Last-Modified", ""),
+                            )
+                        break
+                    assert last is not None
+                    history.append({
+                        "attempt": attempt,
+                        "retrieved_at": last.retrieved_at,
+                        "status": last.status,
+                        "elapsed_seconds": last.elapsed_seconds,
+                        "result": "successful" if last.ok else "http_error",
+                        "error": last.error,
+                    })
+                    retry_after = RespectfulFetcher._retry_after_seconds(response_headers.get("retry-after"))
                     self._last_request_at[host] = time.monotonic()
                     if last.ok or last.status not in {429, 500, 502, 503, 504}:
                         break
@@ -624,7 +668,11 @@ class AsyncHostFetcher:
             ("limit", "-10"),
         ]
         cdx_url = "https://web.archive.org/cdx/search/cdx?" + urllib.parse.urlencode(params)
-        result = await self.fetch(cdx_url, accept="application/json")
+        result = await self.fetch(
+            cdx_url,
+            accept="application/json",
+            allowed_redirect_hosts={"web.archive.org"},
+        )
         metadata = result.metadata()
         metadata["ok"] = result.ok
         if not result.ok:

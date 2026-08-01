@@ -5,6 +5,7 @@ import argparse
 import json
 import sys
 import time
+from datetime import datetime
 from pathlib import Path
 from typing import Any
 
@@ -22,6 +23,19 @@ def _bounded(value: int, name: str, minimum: int, maximum: int) -> int:
     return value
 
 
+def _elapsed_seconds(started_at: str, finished_at: str) -> float:
+    started = datetime.fromisoformat(started_at)
+    finished = datetime.fromisoformat(finished_at)
+    return round(max(0.0, (finished - started).total_seconds()), 3)
+
+
+def _human_duration(seconds: float | int) -> str:
+    total = int(round(float(seconds)))
+    hours, remainder = divmod(total, 3600)
+    minutes, secs = divmod(remainder, 60)
+    return f"{hours:02d}:{minutes:02d}:{secs:02d}"
+
+
 def _write_action_summary(
     runner: SpeedPilotRunner,
     operation: str,
@@ -34,6 +48,7 @@ def _write_action_summary(
     json_path = report_root / f"v4-action-{key}.json"
     markdown_path = report_root / f"v4-action-{key}.md"
     last_by_stage = {str(row.get("stage")): row for row in stage_results}
+    timing = runner.progress.get("collection_timing") or {}
     payload = {
         "engine_version": ENGINE_VERSION,
         "operation": operation,
@@ -46,6 +61,7 @@ def _write_action_summary(
         "sources": report["sources"],
         "recovery": report["recovery"],
         "performance": report["performance"],
+        "timing": timing,
     }
     atomic_write_json(json_path, payload)
     markdown = [
@@ -54,6 +70,10 @@ def _write_action_summary(
         f"- الإصدار: **{ENGINE_VERSION}**",
         f"- العملية: **{operation}**",
         f"- الحالة: **{status}**",
+        f"- وضع جلب المصادر: **الرابط المؤرشف فقط**",
+        f"- بداية النطاق: **{timing.get('started_at') or 'قيد التسجيل'}**",
+        f"- نهاية النطاق: **{timing.get('finished_at') or 'لم يكتمل بعد'}**",
+        f"- المدة الإجمالية: **{_human_duration(timing.get('elapsed_seconds') or 0)}**",
         f"- الحوادث: **{report['incidents']['count']}**",
         f"- المصادر: **{report['sources']['unique']}**",
         f"- النصوص المحفوظة: **{report['sources']['texts_preserved']}** "
@@ -161,6 +181,17 @@ def main() -> None:
 
     if runner.recovery.summary()["pending"] and status == "completed":
         status = "completed_with_deferred_recovery"
+    finished_at = None if status.startswith("checkpointed_") else utc_now()
+    started_at = str(runner.progress.get("started_at") or utc_now())
+    timing = {
+        "started_at": started_at,
+        "finished_at": finished_at,
+        "elapsed_seconds": _elapsed_seconds(started_at, finished_at or utc_now()),
+        "is_final": finished_at is not None,
+    }
+    runner.progress["collection_policy"] = "archived_url_only"
+    runner.progress["collection_timing"] = timing
+    runner.save_progress()
     json_path, markdown_path = _write_action_summary(runner, args.operation, status, stage_results)
     result = {
         "engine_version": ENGINE_VERSION,
@@ -170,6 +201,7 @@ def main() -> None:
         "summary_json": json_path.relative_to(runner.root).as_posix(),
         "summary_markdown": markdown_path.relative_to(runner.root).as_posix(),
         "recovery": runner.recovery.summary(),
+        "timing": timing,
     }
     print("V4_ACTION_RESULT=" + json.dumps(result, ensure_ascii=False, sort_keys=True), flush=True)
 

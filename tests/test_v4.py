@@ -11,6 +11,7 @@ from archive_pipeline.extractors import extract_payload
 from archive_pipeline.v4 import (
     ENGINE_VERSION,
     RecoveryQueue,
+    fair_archive_host_order,
     fair_host_order,
     timing_summary,
 )
@@ -30,7 +31,7 @@ def source(source_id: str, url: str, text: str = "") -> dict[str, object]:
 
 class V4SchedulingTests(unittest.TestCase):
     def test_engine_version_is_stable(self) -> None:
-        self.assertEqual(ENGINE_VERSION, "4.0.0")
+        self.assertEqual(ENGINE_VERSION, "4.1.0")
 
     def test_fair_scheduler_round_robins_hosts(self) -> None:
         records = [
@@ -42,6 +43,17 @@ class V4SchedulingTests(unittest.TestCase):
         ]
         ordered = fair_host_order(records)
         self.assertEqual([row["source_id"] for row in ordered], ["a1", "b1", "c1", "a2", "a3"])
+
+    def test_archive_scheduler_uses_archive_hosts_not_original_platforms(self) -> None:
+        records = [
+            {**source("a1", "https://facebook.com/a"), "archived_urls": ["https://archive.is/a"]},
+            {**source("a2", "https://facebook.com/b"), "archived_urls": ["https://archive.is/b"]},
+            {**source("w1", "https://x.com/c"), "archived_urls": ["https://web.archive.org/web/1/https://x.com/c"]},
+        ]
+        self.assertEqual(
+            [row["source_id"] for row in fair_archive_host_order(records)],
+            ["a1", "w1", "a2"],
+        )
 
     def test_performance_summary_reports_p50_and_p90(self) -> None:
         summary = timing_summary([

@@ -12,12 +12,19 @@ import httpx
 from archive_pipeline.fetcher import AsyncHostFetcher, CircuitBreakingFetcher, FetchResult, HostCircuitBreaker
 from archive_pipeline.io_utils import utc_now
 from archive_pipeline.speed_pilot import (
+    _enforce_archived_only,
     _inherit_airwars_circuit_classification,
     _merge_previous_source,
     _new_source_record,
     _record_exact_content_duplicate_groups,
     _scope_sequences,
-    should_defer_archive,
+    SpeedPilotRunner,
+)
+from archive_pipeline.v4 import (
+    ARCHIVE_HOSTS,
+    is_archive_url,
+    normalize_archive_url,
+    source_has_archived_text,
 )
 
 
@@ -79,8 +86,86 @@ class CircuitBreakerTests(unittest.TestCase):
         self.assertEqual(skipped, 17)
         self.assertEqual(sum(result.attempts == 0 for result in results), 17)
 
+    def test_archive_redirect_cannot_escape_to_a_live_source(self) -> None:
+        requested_hosts: list[str] = []
+
+        def handler(request: httpx.Request) -> httpx.Response:
+            requested_hosts.append(request.url.host)
+            if request.url.host == "archive.is":
+                return httpx.Response(
+                    302,
+                    request=request,
+                    headers={"Location": "https://www.facebook.com/forbidden"},
+                )
+            raise AssertionError(f"live host was contacted: {request.url.host}")
+
+        async def scenario() -> FetchResult:
+            fetcher = AsyncHostFetcher(delay_seconds=0, retries=1)
+            async with fetcher:
+                assert fetcher._client is not None
+                await fetcher._client.aclose()
+                fetcher._client = httpx.AsyncClient(
+                    transport=httpx.MockTransport(handler),
+                    follow_redirects=True,
+                    trust_env=False,
+                )
+                return await fetcher.fetch(
+                    "https://archive.is/example",
+                    allowed_redirect_hosts=ARCHIVE_HOSTS,
+                )
+
+        result = asyncio.run(scenario())
+        self.assertEqual(requested_hosts, ["archive.is"])
+        self.assertEqual(result.error, "redirect_blocked_outside_archive:facebook.com")
+
 
 class SpeedPilotPolicyTests(unittest.TestCase):
+    def test_source_extraction_fetches_the_listed_archive_and_never_the_original(self) -> None:
+        class FakeArchiveFetcher:
+            def __init__(self) -> None:
+                self.calls: list[str] = []
+
+            async def fetch(self, url: str, **_: object) -> FetchResult:
+                if not is_archive_url(url):
+                    raise AssertionError(f"non-archive request: {url}")
+                self.calls.append(url)
+                return FetchResult(
+                    url=url,
+                    final_url=url,
+                    status=200,
+                    content_type="text/html; charset=utf-8",
+                    body=b"<html><main><h1>Archived report</h1><p>Preserved testimony text.</p></main></html>",
+                    retrieved_at=utc_now(),
+                    elapsed_seconds=0.01,
+                )
+
+            async def latest_wayback_capture(self, _: str) -> tuple[None, dict[str, object]]:
+                raise AssertionError("listed archive should be used before a CDX lookup")
+
+            def note_application_failure(self, *_: object) -> None:
+                return None
+
+        seed = {
+            "original_url": "https://www.facebook.com/example/posts/1",
+            "publisher": "Example",
+            "publisher_ar": "",
+            "author": "",
+            "publication_date": "",
+            "content": "",
+            "declared_language": "English",
+        }
+        record = _new_source_record(seed, "source-test")
+        record["archived_urls"] = [
+            record["original_url"],
+            "https://archive.is/abc123",
+        ]
+        fetcher = FakeArchiveFetcher()
+        runner = object.__new__(SpeedPilotRunner)
+        result = asyncio.run(runner._archive_source(fetcher, record))
+        self.assertEqual(fetcher.calls, ["https://archive.is/abc123"])
+        self.assertEqual(result["preservation_status"], "archived_text_preserved")
+        self.assertIn("Preserved testimony", result["text_original"])
+
     def test_exact_content_duplicates_are_recorded_without_merging_sources(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
@@ -133,9 +218,34 @@ class SpeedPilotPolicyTests(unittest.TestCase):
         self.assertEqual(values[0], 101)
         self.assertEqual(values[-1], 150)
 
-    def test_archive_is_deferred_only_when_original_text_exists(self) -> None:
-        self.assertTrue(should_defer_archive({"text_original": "Preserved verbatim text"}))
-        self.assertFalse(should_defer_archive({"text_original": ""}))
+    def test_only_recognized_archive_hosts_are_accepted(self) -> None:
+        self.assertTrue(is_archive_url("https://archive.ph/abc"))
+        self.assertTrue(is_archive_url("https://web.archive.org/web/2020/https://example.org"))
+        self.assertFalse(is_archive_url("https://x.com/example/status/1"))
+        self.assertFalse(is_archive_url("https://airwars.org/source/example"))
+        self.assertEqual(
+            normalize_archive_url("https://archive.is/wip/abc123"),
+            "https://archive.is/abc123",
+        )
+
+    def test_live_or_embedded_text_is_discarded_by_archive_only_policy(self) -> None:
+        record = {
+            "text_original": "Live text",
+            "content_hash": "live",
+            "preservation_status": "live_text_preserved",
+            "retrieval_status": "successful",
+            "extraction_status": "text_extracted",
+            "archived_urls": [
+                "https://x.com/example/status/1",
+                "https://archive.is/example",
+            ],
+            "content_variants": [],
+        }
+        prepared = _enforce_archived_only(record)
+        self.assertEqual(prepared["text_original"], "")
+        self.assertEqual(prepared["archived_urls"], ["https://archive.is/example"])
+        self.assertEqual(prepared["collection_policy"], "archived_url_only")
+        self.assertFalse(source_has_archived_text(prepared))
 
     def test_previous_successful_source_is_merged_without_losing_new_relationships(self) -> None:
         seed = {
