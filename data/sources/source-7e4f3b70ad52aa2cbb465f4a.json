@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/XLpr5"
+    "https://archive.is/XLpr5",
+    "https://web.archive.org/web/20241108023614id_/https://www.syriahr.com/en/245431/?fbclid=IwAR1s8vJPOv6Xb-e3dKp9q1edWOH_WXasSoVTm-gaWmefxDreXObGiBUCZ_w"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "85ca255620d9b795ecb888afcf83b4574e0099046c8f91a50caa296244c233a0",
+  "content_variants": [
+    {
+      "bytes": 2025,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:16:18+00:00",
+      "sha256": "85ca255620d9b795ecb888afcf83b4574e0099046c8f91a50caa296244c233a0",
+      "source_url": "https://web.archive.org/web/20241108023614id_/https://www.syriahr.com/en/245431/?fbclid=IwAR1s8vJPOv6Xb-e3dKp9q1edWOH_WXasSoVTm-gaWmefxDreXObGiBUCZ_w",
+      "text": "Turkish offensive | Turkish drone kills and injures three “Autonomous Administration” cadres in Al-Hasakah countryside\n\nSOHR sources have reported that Turkish drone-launched missiles hit a car carrying three cadres of the “Autonomous Administration” on “M4” international highway, south of Al-Qahtaniyah town, in areas held by the Autonomous Administration in the countryside of Al-Hasakah province, killing one and injured two others, including a “poet” who was elected to be a member of “Self-Defence” to be a cheerleader for young men.\n\nAccording to Syrian Observatory sources, the car was heading from Al-Tabqah city to Al-Qahtaniyah area to celebrate Assyrian day.\n\nEarly today, SOHR sources reported that a car was attacked on the international highway “M4” to the south of Al-Qahtaniyah city (Tirbespi) in areas controlled by Syria Democratic Forces in Al-Hasakah countryside. However, the nature of the attack remained unknown, as it is not known yet if it was a ground attack or airstrikes by a Turkish drone. Also, it is not known yet which party the targeted car is affiliated to.\n\nThe attack left at least one person dead and others injured, among those who were in the car, as well as causing substantial material damage to the car.\n\nOn March 16, reliable SOHR sources reported that a Turkish drone attacked a military vehicle nearby Houshan village in the east of Ain Issa in the northern countryside of Al-Raqqah, which caused material damage to the site of the attack.\n\nPrev Post\n\nSOHR: SDF Arrests Nearly 50 People in Syria’s Al-Hol Camp\n\nNext Post\n\nSOHR: Russia Is Preparing The Syrian “Tiger Forces” To Fight In Ukraine\n\nMilitary escalation | Two regime soldiers kil*led under shelling by Turkish forces in…\n\nNew attack | Two members of the “Autonomous Defence” injured by IS*IS cells in Deir…\n\nExchanged attacks | Civilian injured and oil tank burnt in “Euphrates Shield” area in…\n\nAffected by wounds | Woman shot de*ad with stray bullets eastern of Deir Ezzor"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:16:17+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:16:18+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241108023614id_/https://www.syriahr.com/en/245431/?fbclid=IwAR1s8vJPOv6Xb-e3dKp9q1edWOH_WXasSoVTm-gaWmefxDreXObGiBUCZ_w"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241108023614id_/https://www.syriahr.com/en/245431/?fbclid=IwAR1s8vJPOv6Xb-e3dKp9q1edWOH_WXasSoVTm-gaWmefxDreXObGiBUCZ_w",
   "incident_ids": [
     "airwars-82559"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/245431/?fbclid=IwAR1s8vJPOv6Xb-e3dKp9q1edWOH_WXasSoVTm-gaWmefxDreXObGiBUCZ_w"
   ],
   "original_url": "https://www.syriahr.com/en/245431/?fbclid=IwAR1s8vJPOv6Xb-e3dKp9q1edWOH_WXasSoVTm-gaWmefxDreXObGiBUCZ_w",
-  "page_title": "",
+  "page_title": "Turkish offensive | Turkish drone kills and injures three “Autonomous Administration” cadres in Al-Hasakah countryside - The Syrian Observatory For Human Rights Turkish offensive | Turkish drone kills and injures three “Autonomous Administration” cadres in Al-Hasakah countryside - The Syrian Observatory For Human Rights Turkish offensive | Turkish drone kills and injures three “Autonomous Administration” cadres in Al-Hasakah countryside - The Syrian Observatory For Human Rights Turkish offensive | Turkish drone kills and injures three “Autonomous Administration” cadres in Al-Hasakah countryside Turkish offensive | Turkish drone kills and injures three “Autonomous Administration” cadres in Al-Hasakah countryside",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts497-april-1-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:16:18+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7e4f3b70ad52aa2cbb465f4a",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/245431/?fbclid=IwAR1s8vJPOv6Xb-e3dKp9q1edWOH_WXasSoVTm-gaWmefxDreXObGiBUCZ_w",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish offensive | Turkish drone kills and injures three “Autonomous Administration” cadres in Al-Hasakah countryside\n\nSOHR sources have reported that Turkish drone-launched missiles hit a car carrying three cadres of the “Autonomous Administration” on “M4” international highway, south of Al-Qahtaniyah town, in areas held by the Autonomous Administration in the countryside of Al-Hasakah province, killing one and injured two others, including a “poet” who was elected to be a member of “Self-Defence” to be a cheerleader for young men.\n\nAccording to Syrian Observatory sources, the car was heading from Al-Tabqah city to Al-Qahtaniyah area to celebrate Assyrian day.\n\nEarly today, SOHR sources reported that a car was attacked on the international highway “M4” to the south of Al-Qahtaniyah city (Tirbespi) in areas controlled by Syria Democratic Forces in Al-Hasakah countryside. However, the nature of the attack remained unknown, as it is not known yet if it was a ground attack or airstrikes by a Turkish drone. Also, it is not known yet which party the targeted car is affiliated to.\n\nThe attack left at least one person dead and others injured, among those who were in the car, as well as causing substantial material damage to the car.\n\nOn March 16, reliable SOHR sources reported that a Turkish drone attacked a military vehicle nearby Houshan village in the east of Ain Issa in the northern countryside of Al-Raqqah, which caused material damage to the site of the attack.\n\nPrev Post\n\nSOHR: SDF Arrests Nearly 50 People in Syria’s Al-Hol Camp\n\nNext Post\n\nSOHR: Russia Is Preparing The Syrian “Tiger Forces” To Fight In Ukraine\n\nMilitary escalation | Two regime soldiers kil*led under shelling by Turkish forces in…\n\nNew attack | Two members of the “Autonomous Defence” injured by IS*IS cells in Deir…\n\nExchanged attacks | Civilian injured and oil tank burnt in “Euphrates Shield” area in…\n\nAffected by wounds | Woman shot de*ad with stray bullets eastern of Deir Ezzor",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

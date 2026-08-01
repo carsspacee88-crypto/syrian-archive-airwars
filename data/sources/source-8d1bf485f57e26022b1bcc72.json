@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20230928150148id_/https://www.syriahr.com/en/235912/"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Syrian Observatory of Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "754bed8ec8709853b35af5bc3e7b3c94c9a085283aa91a3bd4fba9620e673906",
+  "content_variants": [
+    {
+      "bytes": 3917,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:19:53+00:00",
+      "sha256": "754bed8ec8709853b35af5bc3e7b3c94c9a085283aa91a3bd4fba9620e673906",
+      "source_url": "https://web.archive.org/web/20230928150148id_/https://www.syriahr.com/en/235912/",
+      "text": "اشتباكات - قسد - المصدر RT\n\nISIS prison attack | Fierce clashes escalate in and around Ghuwayran prison, amid flights by Coalition supersonic aircraft\n\nAl-Hasaka province: Violent clashes are ongoing inside and around Ghuwayran prison between ISIS fighters on one hand, and Internal Security Forces, Syrian Democratic Forces and “HAT and YAT” special counter-terrorism units operating under the banner of SDF and Asayish trained by International Coalition on the other hand.\n\nThese clashes have coincided with flights by Coalition aircraft breaking through the sound barrier. No further developments occurred until this moment.\n\nEarlier today, SOHR sources reported that International Coalition jets dropped leaflets on residential neighbourhoods in Al-Hasakah, including phone numbers to report any “terrorist or suspicious activities,” amid the ongoing clashes in and around Ghuwayrran prison in Al-Hasakah city. Meanwhile, further military reinforcements had been brought into the vicinity of the prison.\n\nThese developments coincided with the flight of coalition warplanes over the region.\n\nOn the other hand, military forces surrounding the prison have offered, via loudspeaker, to negotiate the release of hostages of the prison’s employees and guards held by ISIS fighters.\n\nSyrian Observatory sources had confirmed that ISIS snipers have been stationed in a new building under construction close to Al-Sinaa prison, which is supposed to be a prison for ISIS members, and it has been built with foreign support for nearly a year.\n\nIt is worth noting that parts of the Ghuwayran prison are under the control of military forces, while the rest parts of the prison are under ISIS members and prisoners’ control.\n\nThe Syrian Observatory monitored a spike in the death toll of ISIS members, as at least 61 members were killed. The number of deaths is likely to rise further amid reports on other deaths, while the fate of dozens of prisoners remains unknown.\n\nThe total death toll since the start of Ghuwayran prison break on Thursday evening has reached 123: 77 ISIS fighters, seven civilians and 39 members of Asayish Forces, prison guards and counter-terrorism forces.\n\nObservatory asserts that the death toll was even higher, and the real number of fatalists was not exactly identified, as the fate of dozens members on both sides is still unknown. In addition, there were many people who sustained serious injuries.\n\nYesterday, SOHR sources reported that a military convoy of the International Coalition Forces arrived in the vicinity of Ghuwayran prison in Al-Hasakah city, amid flights by Coalition helicopters. The riot in the prison was expected to reach an end in the upcoming hours\n\nOn the other hand, the number of arrested ISIS prisoners, who had escaped earlier from the prison, to 136. However, other ISIS prisoners, whose number is unknown, are still free.\n\nSOHR sources confirmed that hundreds of ISIS prisoners managed to escape on Thursday evening and Friday dawn before some were arrested, while the fate of the others remained unknown.\n\nSOHR activists reported also that ISIS broadcasted videos showing their fighters holding tens of guards of Ghuwayran prison hostages in Al-Hasakah.\n\nIt is also worth noting that this was the most violent and largest attack on populated areas since elimination of ISIS as a controlling power in March 2019.\n\nPrev Post\n\nSecond Turkish attack in January | Water station in Al-Raqqa countryside put out of service\n\nNext Post\n\nSOHR: IS-Kurds battle after Syria prison attack kills over 120\n\n“SOHR camera” captures a security patrol of the military intelligence service touring…\n\nRenewed bombardment | Turkish forces shell positions in Manbij countryside\n\nNew murder in SDF-controlled areas | Young man killed by his relative in eastern…\n\nLess than 72 hours | war rem-nants cause de-ath and inj-ury of five people including…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:19:53+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:19:53+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230928150148id_/https://www.syriahr.com/en/235912/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230928150148id_/https://www.syriahr.com/en/235912/",
   "incident_ids": [
     "airwars-81424"
   ],
@@ -55,10 +80,10 @@
     "https://www.syriahr.com/en/235912/"
   ],
   "original_url": "https://www.syriahr.com/en/235912/",
-  "page_title": "",
+  "page_title": "ISIS prison attack | Fierce clashes escalate in and around Ghuwayran prison, amid flights by Coalition supersonic aircraft - The Syrian Observatory For Human Rights ISIS prison attack | Fierce clashes escalate in and around Ghuwayran prison, amid flights by Coalition supersonic aircraft - The Syrian Observatory For Human Rights ISIS prison attack | Fierce clashes escalate in and around Ghuwayran prison, amid flights by Coalition supersonic aircraft - The Syrian Observatory For Human Rights ISIS prison attack | Fierce clashes escalate in and around Ghuwayran prison, amid flights by Coalition supersonic aircraft ISIS prison attack | Fierce clashes escalate in and around Ghuwayran prison, amid flights by Coalition supersonic aircraft",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1976-january-20-2022/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:19:53+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-8d1bf485f57e26022b1bcc72",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/235912/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "اشتباكات - قسد - المصدر RT\n\nISIS prison attack | Fierce clashes escalate in and around Ghuwayran prison, amid flights by Coalition supersonic aircraft\n\nAl-Hasaka province: Violent clashes are ongoing inside and around Ghuwayran prison between ISIS fighters on one hand, and Internal Security Forces, Syrian Democratic Forces and “HAT and YAT” special counter-terrorism units operating under the banner of SDF and Asayish trained by International Coalition on the other hand.\n\nThese clashes have coincided with flights by Coalition aircraft breaking through the sound barrier. No further developments occurred until this moment.\n\nEarlier today, SOHR sources reported that International Coalition jets dropped leaflets on residential neighbourhoods in Al-Hasakah, including phone numbers to report any “terrorist or suspicious activities,” amid the ongoing clashes in and around Ghuwayrran prison in Al-Hasakah city. Meanwhile, further military reinforcements had been brought into the vicinity of the prison.\n\nThese developments coincided with the flight of coalition warplanes over the region.\n\nOn the other hand, military forces surrounding the prison have offered, via loudspeaker, to negotiate the release of hostages of the prison’s employees and guards held by ISIS fighters.\n\nSyrian Observatory sources had confirmed that ISIS snipers have been stationed in a new building under construction close to Al-Sinaa prison, which is supposed to be a prison for ISIS members, and it has been built with foreign support for nearly a year.\n\nIt is worth noting that parts of the Ghuwayran prison are under the control of military forces, while the rest parts of the prison are under ISIS members and prisoners’ control.\n\nThe Syrian Observatory monitored a spike in the death toll of ISIS members, as at least 61 members were killed. The number of deaths is likely to rise further amid reports on other deaths, while the fate of dozens of prisoners remains unknown.\n\nThe total death toll since the start of Ghuwayran prison break on Thursday evening has reached 123: 77 ISIS fighters, seven civilians and 39 members of Asayish Forces, prison guards and counter-terrorism forces.\n\nObservatory asserts that the death toll was even higher, and the real number of fatalists was not exactly identified, as the fate of dozens members on both sides is still unknown. In addition, there were many people who sustained serious injuries.\n\nYesterday, SOHR sources reported that a military convoy of the International Coalition Forces arrived in the vicinity of Ghuwayran prison in Al-Hasakah city, amid flights by Coalition helicopters. The riot in the prison was expected to reach an end in the upcoming hours\n\nOn the other hand, the number of arrested ISIS prisoners, who had escaped earlier from the prison, to 136. However, other ISIS prisoners, whose number is unknown, are still free.\n\nSOHR sources confirmed that hundreds of ISIS prisoners managed to escape on Thursday evening and Friday dawn before some were arrested, while the fate of the others remained unknown.\n\nSOHR activists reported also that ISIS broadcasted videos showing their fighters holding tens of guards of Ghuwayran prison hostages in Al-Hasakah.\n\nIt is also worth noting that this was the most violent and largest attack on populated areas since elimination of ISIS as a controlling power in March 2019.\n\nPrev Post\n\nSecond Turkish attack in January | Water station in Al-Raqqa countryside put out of service\n\nNext Post\n\nSOHR: IS-Kurds battle after Syria prison attack kills over 120\n\n“SOHR camera” captures a security patrol of the military intelligence service touring…\n\nRenewed bombardment | Turkish forces shell positions in Manbij countryside\n\nNew murder in SDF-controlled areas | Young man killed by his relative in eastern…\n\nLess than 72 hours | war rem-nants cause de-ath and inj-ury of five people including…",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

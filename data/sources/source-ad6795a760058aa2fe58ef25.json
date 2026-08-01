@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/BSM9w"
+    "https://archive.is/BSM9w",
+    "https://web.archive.org/web/20231205114242id_/https://npasyria.com/103233/?fbclid=IwAR2canCEs37oZnTy24FBQJyqWA9SoNGYCz4qDgeXQhHIspKjt7d9zwWy7Pw"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "85b466356c90607970a2fcfc6da48bf808f1d2266d14f172511ab8098eca9c77",
+  "content_variants": [
+    {
+      "bytes": 1393,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:25:40+00:00",
+      "sha256": "85b466356c90607970a2fcfc6da48bf808f1d2266d14f172511ab8098eca9c77",
+      "source_url": "https://web.archive.org/web/20231205114242id_/https://npasyria.com/103233/?fbclid=IwAR2canCEs37oZnTy24FBQJyqWA9SoNGYCz4qDgeXQhHIspKjt7d9zwWy7Pw",
+      "text": "القوات التركية تقصف الريف الشمالي للحسكة بعدة قذائف\n\nآثار الدمار على ريف بلدة أبو راسين (زركان) - أرشيفية/نورث برس\n\nتل تمر – نورث برس\n\nقصفت القوات التركية وفصائل المعارضة المسلحة الموالية لها، مساء الأربعاء، بعدة قذائف مدفعية ريف بلدة أبو راسين، شمال الحسكة، شمال شرقي سوريا.\n\nوقال مصدر محلي، لنورث برس، إن “عدة قذائف مدفعية مصدرها القوات التركية سقطت ضمن قرية الأسدية شمال بلدة أبو راسين، دون ورود معلومات عن وجود خسائر”.\n\nوأضاف المصدر، أن المنطقة تشهد في هذه الأثناء هدوء حذراً.\n\nوالجدير بالذكر، أن القوات التركية استهدفت بالأسلحة الثقيلة يومي الأحد والاثنين الماضيين، مركز وأرياف بلدة أبو راسين بوابل من القذائف أسفرت عن إصابة مدني بالإضافة إلى إصابة ثلاثة عناصر من قوى الأمن الداخلي “الأسايش”، بعد سقوط قذيفة على مركز لهم.\n\nإعداد: دلسوز يوسف – تحرير: محمد القاضي"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:25:39+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:25:40+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231205114242id_/https://npasyria.com/103233/?fbclid=IwAR2canCEs37oZnTy24FBQJyqWA9SoNGYCz4qDgeXQhHIspKjt7d9zwWy7Pw"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231205114242id_/https://npasyria.com/103233/?fbclid=IwAR2canCEs37oZnTy24FBQJyqWA9SoNGYCz4qDgeXQhHIspKjt7d9zwWy7Pw",
   "incident_ids": [
     "airwars-82639"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/103233/?fbclid=IwAR2canCEs37oZnTy24FBQJyqWA9SoNGYCz4qDgeXQhHIspKjt7d9zwWy7Pw"
   ],
   "original_url": "https://npasyria.com/103233/?fbclid=IwAR2canCEs37oZnTy24FBQJyqWA9SoNGYCz4qDgeXQhHIspKjt7d9zwWy7Pw",
-  "page_title": "",
+  "page_title": "القوات التركية تقصف الريف الشمالي للحسكة بعدة قذائف - North press agency | وكالة نورث برس القوات التركية تقصف الريف الشمالي للحسكة بعدة قذائف - North press agency | وكالة نورث برس",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts498-april-6-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:25:40+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ad6795a760058aa2fe58ef25",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/103233/?fbclid=IwAR2canCEs37oZnTy24FBQJyqWA9SoNGYCz4qDgeXQhHIspKjt7d9zwWy7Pw",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "القوات التركية تقصف الريف الشمالي للحسكة بعدة قذائف\n\nآثار الدمار على ريف بلدة أبو راسين (زركان) - أرشيفية/نورث برس\n\nتل تمر – نورث برس\n\nقصفت القوات التركية وفصائل المعارضة المسلحة الموالية لها، مساء الأربعاء، بعدة قذائف مدفعية ريف بلدة أبو راسين، شمال الحسكة، شمال شرقي سوريا.\n\nوقال مصدر محلي، لنورث برس، إن “عدة قذائف مدفعية مصدرها القوات التركية سقطت ضمن قرية الأسدية شمال بلدة أبو راسين، دون ورود معلومات عن وجود خسائر”.\n\nوأضاف المصدر، أن المنطقة تشهد في هذه الأثناء هدوء حذراً.\n\nوالجدير بالذكر، أن القوات التركية استهدفت بالأسلحة الثقيلة يومي الأحد والاثنين الماضيين، مركز وأرياف بلدة أبو راسين بوابل من القذائف أسفرت عن إصابة مدني بالإضافة إلى إصابة ثلاثة عناصر من قوى الأمن الداخلي “الأسايش”، بعد سقوط قذيفة على مركز لهم.\n\nإعداد: دلسوز يوسف – تحرير: محمد القاضي",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

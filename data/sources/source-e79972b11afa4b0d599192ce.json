@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/yZILI"
+    "https://archive.is/yZILI",
+    "https://web.archive.org/web/20240524221027id_/https://www.facebook.com/permalink.php?story_fbid=pfbid08LZmwpdeNuL4kTndCaebnf1H6ZyPY6osddcEJBz9cHr3v9cbukbiMKE4QsPKnwCkl&id=100063895862889"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Ariha, the bride of the north",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "94349d131968f44196e180d1ea94851c45cd4c17f3e1767580ece8c063084b7a",
+  "content_variants": [
+    {
+      "bytes": 49,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:33:13+00:00",
+      "sha256": "94349d131968f44196e180d1ea94851c45cd4c17f3e1767580ece8c063084b7a",
+      "source_url": "https://web.archive.org/web/20240524221027id_/https://www.facebook.com/permalink.php?story_fbid=pfbid08LZmwpdeNuL4kTndCaebnf1H6ZyPY6osddcEJBz9cHr3v9cbukbiMKE4QsPKnwCkl&id=100063895862889",
+      "text": "أريحا - أريحاArihaعروس الشمال"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:33:12+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:33:13+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524221027id_/https://www.facebook.com/permalink.php?story_fbid=pfbid08LZmwpdeNuL4kTndCaebnf1H6ZyPY6osddcEJBz9cHr3v9cbukbiMKE4QsPKnwCkl&id=100063895862889"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524221027id_/https://www.facebook.com/permalink.php?story_fbid=pfbid08LZmwpdeNuL4kTndCaebnf1H6ZyPY6osddcEJBz9cHr3v9cbukbiMKE4QsPKnwCkl&id=100063895862889",
   "incident_ids": [
     "airwars-106388"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/permalink.php?story_fbid=pfbid08LZmwpdeNuL4kTndCaebnf1H6ZyPY6osddcEJBz9cHr3v9cbukbiMKE4QsPKnwCkl&id=100063895862889"
   ],
   "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid08LZmwpdeNuL4kTndCaebnf1H6ZyPY6osddcEJBz9cHr3v9cbukbiMKE4QsPKnwCkl&id=100063895862889",
-  "page_title": "",
+  "page_title": "أريحاArihaعروس الشمال أريحاArihaعروس الشمال أريحا - أريحاArihaعروس الشمال",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4840-october-7-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:33:13+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e79972b11afa4b0d599192ce",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid08LZmwpdeNuL4kTndCaebnf1H6ZyPY6osddcEJBz9cHr3v9cbukbiMKE4QsPKnwCkl&id=100063895862889",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "أريحا - أريحاArihaعروس الشمال",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

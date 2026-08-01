@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20230512163727id_/https://www.youtube.com/watch?v=_HHckFma33Y"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Baladi News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "4b93134060ec72ba1d4463e2493005a2ea4f56a2c33839a86b26f3a5c51ff20e",
+  "content_variants": [
+    {
+      "bytes": 315,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:15:33+00:00",
+      "sha256": "4b93134060ec72ba1d4463e2493005a2ea4f56a2c33839a86b26f3a5c51ff20e",
+      "source_url": "https://web.archive.org/web/20230512163727id_/https://www.youtube.com/watch?v=_HHckFma33Y",
+      "text": "غارات جوية روسية تستهدف محيط مدينة معرة مصرين شمال إدلب - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersImpressumNetzDG TransparenzberichtNetzDG ComplaintsCancel MembershipsTermsPrivacyPolicy & SafetyHow YouTube worksTest new features© 2023 Google LLC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:15:30+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:15:33+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230512163727id_/https://www.youtube.com/watch?v=_HHckFma33Y"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230512163727id_/https://www.youtube.com/watch?v=_HHckFma33Y",
   "incident_ids": [
     "airwars-79975"
   ],
@@ -55,10 +80,10 @@
     "https://www.youtube.com/watch?v=_HHckFma33Y"
   ],
   "original_url": "https://www.youtube.com/watch?v=_HHckFma33Y",
-  "page_title": "",
+  "page_title": "غارات جوية روسية تستهدف محيط مدينة معرة مصرين شمال إدلب - YouTube غارات جوية روسية تستهدف محيط مدينة معرة مصرين شمال إدلب غارات جوية روسية تستهدف محيط مدينة معرة مصرين شمال إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4666-november-11-2021/",
@@ -78,16 +103,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:15:33+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-6f08ce3327eaee815495f7d4",
   "source_type": "youtube_page",
   "stable_id_basis": "https://www.youtube.com/watch?v=_HHckFma33Y",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "غارات جوية روسية تستهدف محيط مدينة معرة مصرين شمال إدلب - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersImpressumNetzDG TransparenzberichtNetzDG ComplaintsCancel MembershipsTermsPrivacyPolicy & SafetyHow YouTube worksTest new features© 2023 Google LLC",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

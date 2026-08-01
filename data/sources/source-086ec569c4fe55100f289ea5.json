@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/PobJH"
+    "https://archive.ph/PobJH",
+    "https://web.archive.org/web/20240525055404id_/https://shaam.org/news/syria-news/thlath-shhdaa-mdnyyn-bynhm-tfl-bqsf-sarwkhy-llnzam-ala-awbyn-ghrby-idlb"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "44edfa59608767b515118121e78848be72568387a8c75e0c7a7b66a1526efc29",
+  "content_variants": [
+    {
+      "bytes": 2675,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:56:18+00:00",
+      "sha256": "44edfa59608767b515118121e78848be72568387a8c75e0c7a7b66a1526efc29",
+      "source_url": "https://web.archive.org/web/20240525055404id_/https://shaam.org/news/syria-news/thlath-shhdaa-mdnyyn-bynhm-tfl-bqsf-sarwkhy-llnzam-ala-awbyn-ghrby-idlb",
+      "text": "صورة تعبيرية\n\nثلاث شهداء مدنيين بينهم طفل بقصف صاروخي للنظام على أوبين غربي إدلب\n\nاستشهد ثلاثة مدنيين وجح آخرون اليوم الجمعة، بقصف صاروخي لقوات النظام، استهدفت منزلاً لعائلة مهجرة، في قرية أوبين بريف إدلب الغربي، في ظل استمرار قوات الأسد وروسيا باستهداف المناطق المدنية لاسيما القريبة من خطوط التماس.\n\nوقال نشطاء، إن قوات الأسد استهدفت بصاروخ مضاد للدروع، منزلاً لعائلة مهجرة من ريف إدلب الشرقي، في قرية أوبين القريبة من الحدود السورية التركية، بريف إدلب الغربي، حيث سقط ثلاثة شهداء بينهم طفل وعدة جرحى.\n\nوتواصل قوات الأسد وروسيا بشكل يومي، استهداف المناطق المدنية على طول خطوط التماس من ريف اللاذقية إلى سهل الغاب وجبل الزاوية وريف سراقب وصولاً لريف حلب الغربي، متسبة بسقوط ضحايا مدنيين.\n\nوكان استشهد مدني وجرح آخرون اليوم الخميس 6/ تشرين الأول/ 2022، بقصف لقوات الأسد استهدف مدنيين يجمعون الحطب في جبل التركمان بريف اللاذقية الشمالي، في ظل استمرار القصف المدفعي للنظام ضد المدنيين بمناطق شمال غرب سوريا.\n\nوقال نشطاء، إن عدة مدنيين تعرضوا لاستهداف مباشر بصاروخ \"كورنيت\" مضاد للدروع، خلال جمعهم للحطب قرب قرية الزيتونة، في منطقة جبل التركمان بريف اللاذقية الشمالي، ما أدى لسقوط شهيد وعدة جرحى.\n\nوبشكل يومي، تتعرض المناطق المدنية في أرياف \"إدلب وحماة وحلب\"، لقصف مدفعي مصدره ميليشيات الأسد، بهدف خلق حالة من عدم الاستقرار ومنع عودة النازحين لمناطقهم القريبة من خطوط التماس.\n\nوسبق أن طالب فريق \"منسقو استجابة سوريا \"، المجتمع الدولي والمنظمات الدولية باتخاذ موقف \"واضح وحازم\" من الانتهاكات المستمرة، والعمل على وقف الهجمات ضد المدنيين، وتثبيت وقف إطلاق النار وإيقاف الخروقات."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:56:16+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:56:18+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525055404id_/https://shaam.org/news/syria-news/thlath-shhdaa-mdnyyn-bynhm-tfl-bqsf-sarwkhy-llnzam-ala-awbyn-ghrby-idlb"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525055404id_/https://shaam.org/news/syria-news/thlath-shhdaa-mdnyyn-bynhm-tfl-bqsf-sarwkhy-llnzam-ala-awbyn-ghrby-idlb",
   "incident_ids": [
     "airwars-85703"
   ],
@@ -85,10 +109,10 @@
     "https://shaam.org/news/syria-news/thlath-shhdaa-mdnyyn-bynhm-tfl-bqsf-sarwkhy-llnzam-ala-awbyn-ghrby-idlb"
   ],
   "original_url": "https://shaam.org/news/syria-news/thlath-shhdaa-mdnyyn-bynhm-tfl-bqsf-sarwkhy-llnzam-ala-awbyn-ghrby-idlb",
-  "page_title": "",
+  "page_title": "ثلاث شهداء مدنيين بينهم طفل بقصف صاروخي للنظام على أوبين غربي إدلب | شبكة شام الإخبارية ثلاث شهداء مدنيين بينهم طفل بقصف صاروخي للنظام على أوبين غربي إدلب ثلاث شهداء مدنيين بينهم طفل بقصف صاروخي للنظام على أوبين غربي إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4748-december-2-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:56:18+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-086ec569c4fe55100f289ea5",
   "source_type": "news_article",
   "stable_id_basis": "https://shaam.org/news/syria-news/thlath-shhdaa-mdnyyn-bynhm-tfl-bqsf-sarwkhy-llnzam-ala-awbyn-ghrby-idlb",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "صورة تعبيرية\n\nثلاث شهداء مدنيين بينهم طفل بقصف صاروخي للنظام على أوبين غربي إدلب\n\nاستشهد ثلاثة مدنيين وجح آخرون اليوم الجمعة، بقصف صاروخي لقوات النظام، استهدفت منزلاً لعائلة مهجرة، في قرية أوبين بريف إدلب الغربي، في ظل استمرار قوات الأسد وروسيا باستهداف المناطق المدنية لاسيما القريبة من خطوط التماس.\n\nوقال نشطاء، إن قوات الأسد استهدفت بصاروخ مضاد للدروع، منزلاً لعائلة مهجرة من ريف إدلب الشرقي، في قرية أوبين القريبة من الحدود السورية التركية، بريف إدلب الغربي، حيث سقط ثلاثة شهداء بينهم طفل وعدة جرحى.\n\nوتواصل قوات الأسد وروسيا بشكل يومي، استهداف المناطق المدنية على طول خطوط التماس من ريف اللاذقية إلى سهل الغاب وجبل الزاوية وريف سراقب وصولاً لريف حلب الغربي، متسبة بسقوط ضحايا مدنيين.\n\nوكان استشهد مدني وجرح آخرون اليوم الخميس 6/ تشرين الأول/ 2022، بقصف لقوات الأسد استهدف مدنيين يجمعون الحطب في جبل التركمان بريف اللاذقية الشمالي، في ظل استمرار القصف المدفعي للنظام ضد المدنيين بمناطق شمال غرب سوريا.\n\nوقال نشطاء، إن عدة مدنيين تعرضوا لاستهداف مباشر بصاروخ \"كورنيت\" مضاد للدروع، خلال جمعهم للحطب قرب قرية الزيتونة، في منطقة جبل التركمان بريف اللاذقية الشمالي، ما أدى لسقوط شهيد وعدة جرحى.\n\nوبشكل يومي، تتعرض المناطق المدنية في أرياف \"إدلب وحماة وحلب\"، لقصف مدفعي مصدره ميليشيات الأسد، بهدف خلق حالة من عدم الاستقرار ومنع عودة النازحين لمناطقهم القريبة من خطوط التماس.\n\nوسبق أن طالب فريق \"منسقو استجابة سوريا \"، المجتمع الدولي والمنظمات الدولية باتخاذ موقف \"واضح وحازم\" من الانتهاكات المستمرة، والعمل على وقف الهجمات ضد المدنيين، وتثبيت وقف إطلاق النار وإيقاف الخروقات.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

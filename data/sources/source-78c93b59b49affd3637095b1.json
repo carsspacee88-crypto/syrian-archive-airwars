@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/weLFr"
+    "https://archive.is/weLFr",
+    "https://web.archive.org/web/20220325233300id_/https://syrianewsagency.net/global/local/17840/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syria News Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "880e0e674f97bef8d29348eaccbe48f92f5840df4dd0ac0b32ceab83a4af11ae",
+  "content_variants": [
+    {
+      "bytes": 2427,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:15:45+00:00",
+      "sha256": "880e0e674f97bef8d29348eaccbe48f92f5840df4dd0ac0b32ceab83a4af11ae",
+      "source_url": "https://web.archive.org/web/20220325233300id_/https://syrianewsagency.net/global/local/17840/",
+      "text": "مقتل مدني وإصابة آخرين بقصف ميليشيا “قسد” على أعزاز\n\nقتل مدني وأصيب آخرون بجروح، اليوم الأربعاء، جرّاء قصف صاروخي من قبل ميليشيات “قسد” استهدف وسط مدينة أعزار بريف حلب الشمالي.\n\nوبحسب مصادر محلية فإن “ميليشيا “قسد” استهدفت بعدة قذائف صاروخية الأحياء السكنية في مدينة أعزاز بريف حلب الشمالي، ما أسفر عن مقتل مدني، وإصابة أربعة آخرين بجروح بعضهم بحالة خطرة”.\n\nوأضافت أن “القصف الصاروخي تسبب أيضاً بأضرار مادية، حيث قامت فرق الدفاع المدني السوري “الخوذ البيضاء” بإسعاف الجرحى”.\n\nيذكر أن ميليشيا “قسد” تشن محاولات تسلل وقصف صاروخي ومدفعي كل فترة بهدف زعزعة المنطقة أو محاولة إحداث خرق على مناطق الشمال السوري المحرر، من جانبها يقوم الجيش الوطني والجيش التركي بالرد على مصدر القصف في مناطق الميليشيات.\n\nالوسوم\n\nاعزاز\n\nالجيش الوطني السوري\n\nالدفاع المدني السوري\n\nتركيا\n\nحلب\n\nسورية\n\nقسد\n\nروسيا: سينتهي إدخال المساعدات إلى الشمال السوري نهاية الصيف\n\nالدورة السابعة لاجتماعات اللجنة الدستورية تختتم أعمالها\n\nالإنذار المبكر” تكشف عن حصيلة جديدة للمصابين بكورونا في الشمال السوري\n\nاترك تعليقاً إلغاء الرد\n\nروسيا: سينتهي إدخال المساعدات إلى الشمال السوري نهاية الصيف\n\nالدورة السابعة لاجتماعات اللجنة الدستورية تختتم أعمالها\n\nالإنذار المبكر” تكشف عن حصيلة جديدة للمصابين بكورونا في الشمال السوري\n\nمنسقو الاستجابة تحصي خسائر الاقتصاد السوري… 91% تحت خط الفقر\n\nرئيس الائتلاف الوطني يجتمع مع الهيئة الاستشارية لمجلس القبائل والعشائر السورية"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:15:42+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:15:45+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220325233300id_/https://syrianewsagency.net/global/local/17840/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220325233300id_/https://syrianewsagency.net/global/local/17840/",
   "incident_ids": [
     "airwars-82486"
   ],
@@ -85,10 +109,10 @@
     "https://syrianewsagency.net/global/local/17840/"
   ],
   "original_url": "https://syrianewsagency.net/global/local/17840/",
-  "page_title": "",
+  "page_title": "مقتل مدني وإصابة آخرين بقصف ميليشيا \"قسد\" على أعزاز - الوكالة السورية للأنباء | سنا مقتل مدني وإصابة آخرين بقصف ميليشيا \"قسد\" على أعزاز - الوكالة السورية للأنباء | سنا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys128-march-23-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:15:45+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-78c93b59b49affd3637095b1",
   "source_type": "news_article",
   "stable_id_basis": "https://syrianewsagency.net/global/local/17840/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مقتل مدني وإصابة آخرين بقصف ميليشيا “قسد” على أعزاز\n\nقتل مدني وأصيب آخرون بجروح، اليوم الأربعاء، جرّاء قصف صاروخي من قبل ميليشيات “قسد” استهدف وسط مدينة أعزار بريف حلب الشمالي.\n\nوبحسب مصادر محلية فإن “ميليشيا “قسد” استهدفت بعدة قذائف صاروخية الأحياء السكنية في مدينة أعزاز بريف حلب الشمالي، ما أسفر عن مقتل مدني، وإصابة أربعة آخرين بجروح بعضهم بحالة خطرة”.\n\nوأضافت أن “القصف الصاروخي تسبب أيضاً بأضرار مادية، حيث قامت فرق الدفاع المدني السوري “الخوذ البيضاء” بإسعاف الجرحى”.\n\nيذكر أن ميليشيا “قسد” تشن محاولات تسلل وقصف صاروخي ومدفعي كل فترة بهدف زعزعة المنطقة أو محاولة إحداث خرق على مناطق الشمال السوري المحرر، من جانبها يقوم الجيش الوطني والجيش التركي بالرد على مصدر القصف في مناطق الميليشيات.\n\nالوسوم\n\nاعزاز\n\nالجيش الوطني السوري\n\nالدفاع المدني السوري\n\nتركيا\n\nحلب\n\nسورية\n\nقسد\n\nروسيا: سينتهي إدخال المساعدات إلى الشمال السوري نهاية الصيف\n\nالدورة السابعة لاجتماعات اللجنة الدستورية تختتم أعمالها\n\nالإنذار المبكر” تكشف عن حصيلة جديدة للمصابين بكورونا في الشمال السوري\n\nاترك تعليقاً إلغاء الرد\n\nروسيا: سينتهي إدخال المساعدات إلى الشمال السوري نهاية الصيف\n\nالدورة السابعة لاجتماعات اللجنة الدستورية تختتم أعمالها\n\nالإنذار المبكر” تكشف عن حصيلة جديدة للمصابين بكورونا في الشمال السوري\n\nمنسقو الاستجابة تحصي خسائر الاقتصاد السوري… 91% تحت خط الفقر\n\nرئيس الائتلاف الوطني يجتمع مع الهيئة الاستشارية لمجلس القبائل والعشائر السورية",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

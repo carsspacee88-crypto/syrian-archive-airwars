@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/B6Sat"
+    "https://archive.is/B6Sat",
+    "https://web.archive.org/web/20230530094537id_/https://www.reuters.com/world/middle-east/us-military-says-it-captured-two-islamic-state-members-syria-2023-01-22/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Reuters",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "5e3113980fd2fe3bb21eff64fdefba398757c36f4b6dd93f40c45aa3f7620801",
+  "content_variants": [
+    {
+      "bytes": 1411,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:30:11+00:00",
+      "sha256": "5e3113980fd2fe3bb21eff64fdefba398757c36f4b6dd93f40c45aa3f7620801",
+      "source_url": "https://web.archive.org/web/20230530094537id_/https://www.reuters.com/world/middle-east/us-military-says-it-captured-two-islamic-state-members-syria-2023-01-22/",
+      "text": "WASHINGTON, Jan 22 (Reuters) - American forces have captured two Islamic State members during an air and ground assault in eastern Syria, the U.S. military's Central Command said in a statement released on Sunday.\n\nThe raid happened on Saturday, according to Col. Joe Buccino, a Central Command spokesperson, adding that one civilian received \"minor injuries\" during the attack and was treated at a nearby medical facility before being released back to his family.\n\nFew other details of the raid were disclosed. Central Command alluded to the presence of \"partner forces\" - language which in the past has been used to refer to the Syrian Democratic Forces, the Syrian Kurdish armed group that helped the U.S. and its allies defeat Islamic State.\n\nCentral Command did not immediately return a message seeking further information about the attack.\n\nOur Standards: The Thomson Reuters Trust Principles.\n\nRead Next\n\nBusinesscategoryOil falls 2% on US debt deal struggles, OPEC+ talks uncertainty9:14 AM UTC . Updated undefined ago\n\narticle with videoMiddle EastcategoryBiden says he and Erdogan talked about F-16s, Sweden's NATO bid2:00 AM UTC\n\narticle with galleryMarketscategoryYen dips after Japan's top finance diplomat says watching forex moves9:19 AM UTC . Updated undefined ago\n\narticle with galleryMarketscategoryDollar, European stocks steady with U.S. debt deal in focus9:01 AM UTC . Updated undefined ago"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:30:08+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:30:11+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230530094537id_/https://www.reuters.com/world/middle-east/us-military-says-it-captured-two-islamic-state-members-syria-2023-01-22/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230530094537id_/https://www.reuters.com/world/middle-east/us-military-says-it-captured-two-islamic-state-members-syria-2023-01-22/",
   "incident_ids": [
     "airwars-87415"
   ],
@@ -85,10 +109,10 @@
     "https://www.reuters.com/world/middle-east/us-military-says-it-captured-two-islamic-state-members-syria-2023-01-22/"
   ],
   "original_url": "https://www.reuters.com/world/middle-east/us-military-says-it-captured-two-islamic-state-members-syria-2023-01-22/",
-  "page_title": "",
+  "page_title": "U.S. military says it captured two Islamic State members in Syria | Reuters U.S. military says it captured two Islamic State members in Syria U.S. military says it captured two Islamic State members in Syria article with video article with gallery article with gallery article with gallery article with gallery",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1990-january-21-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:30:11+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d5b50ba6740319c89dafe4d8",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.reuters.com/world/middle-east/us-military-says-it-captured-two-islamic-state-members-syria-2023-01-22/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "WASHINGTON, Jan 22 (Reuters) - American forces have captured two Islamic State members during an air and ground assault in eastern Syria, the U.S. military's Central Command said in a statement released on Sunday.\n\nThe raid happened on Saturday, according to Col. Joe Buccino, a Central Command spokesperson, adding that one civilian received \"minor injuries\" during the attack and was treated at a nearby medical facility before being released back to his family.\n\nFew other details of the raid were disclosed. Central Command alluded to the presence of \"partner forces\" - language which in the past has been used to refer to the Syrian Democratic Forces, the Syrian Kurdish armed group that helped the U.S. and its allies defeat Islamic State.\n\nCentral Command did not immediately return a message seeking further information about the attack.\n\nOur Standards: The Thomson Reuters Trust Principles.\n\nRead Next\n\nBusinesscategoryOil falls 2% on US debt deal struggles, OPEC+ talks uncertainty9:14 AM UTC . Updated undefined ago\n\narticle with videoMiddle EastcategoryBiden says he and Erdogan talked about F-16s, Sweden's NATO bid2:00 AM UTC\n\narticle with galleryMarketscategoryYen dips after Japan's top finance diplomat says watching forex moves9:19 AM UTC . Updated undefined ago\n\narticle with galleryMarketscategoryDollar, European stocks steady with U.S. debt deal in focus9:01 AM UTC . Updated undefined ago",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

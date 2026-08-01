@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/MfoTS"
+    "https://archive.ph/MfoTS",
+    "https://web.archive.org/web/20250717181200id_/https://sana.sy/en/?p=280605"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SANA",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "6fdb73ba586ade6263d4c00271565e0bf0615dc9fca029a64d4c9339065443ca",
+  "content_variants": [
+    {
+      "bytes": 644,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:29:13+00:00",
+      "sha256": "6fdb73ba586ade6263d4c00271565e0bf0615dc9fca029a64d4c9339065443ca",
+      "source_url": "https://web.archive.org/web/20250717181200id_/https://sana.sy/en/?p=280605",
+      "text": "12 August، 2022\n\nQunaitra, SANA-Two citizens were wounded in an attack with two tank missiles fired by the Israeli occupation on the neighbourhood of al-Hamidia village in Qunaitra northern countryside.\n\n“The Israeli occupation bombed Friday afternoon two tank shells on the village, injuring two people who were rushed to a hospital in the province”, SANA reporter said.\n\nA medical source at the hospital told the correspondant :“Two citizens with injuries on different parts of their bodies were admitted to the hospital. They immediately received the necessary treatment and their medical condition is stable now”.\n\nALI,Baraa\n\ntweet"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:29:11+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:29:13+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250717181200id_/https://sana.sy/en/?p=280605"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250717181200id_/https://sana.sy/en/?p=280605",
   "incident_ids": [
     "airwars-84518"
   ],
@@ -85,10 +109,10 @@
     "https://sana.sy/en/?p=280605"
   ],
   "original_url": "https://sana.sy/en/?p=280605",
-  "page_title": "",
+  "page_title": "Two civilians injured in Israeli occupation attack on vicinity of al-Hamidia village, Qunaitra countryside – Syrian Arab News Agency Two civilians injured in Israeli occupation attack on vicinity of al-Hamidia village, Qunaitra countryside - Syrian Arab News Agency Two civilians injured in Israeli occupation attack on vicinity of al-Hamidia village, Qunaitra countryside Two civilians injured in Israeli occupation attack on vicinity of al-Hamidia village, Qunaitra countryside",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy027-august-12-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:29:13+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-c557ea389637b5e690fcc9b8",
   "source_type": "other_web_page",
   "stable_id_basis": "https://sana.sy/en/?p=280605",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "und",
+  "text_original": "12 August، 2022\n\nQunaitra, SANA-Two citizens were wounded in an attack with two tank missiles fired by the Israeli occupation on the neighbourhood of al-Hamidia village in Qunaitra northern countryside.\n\n“The Israeli occupation bombed Friday afternoon two tank shells on the village, injuring two people who were rushed to a hospital in the province”, SANA reporter said.\n\nA medical source at the hospital told the correspondant :“Two citizens with injuries on different parts of their bodies were admitted to the hospital. They immediately received the necessary treatment and their medical condition is stable now”.\n\nALI,Baraa\n\ntweet",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

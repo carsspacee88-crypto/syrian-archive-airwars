@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/6sbFI"
+    "https://archive.md/6sbFI",
+    "https://web.archive.org/web/20211203235233id_/https://twitter.com/attackerman/status/1466918172666343430"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@attackerman",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "37c322c0170ccc49f0c8e18e9757eb8ebebea8cc1e91b7b5790a6b34f60e45d3",
+  "content_variants": [
+    {
+      "bytes": 436,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:12:10+00:00",
+      "sha256": "37c322c0170ccc49f0c8e18e9757eb8ebebea8cc1e91b7b5790a6b34f60e45d3",
+      "source_url": "https://web.archive.org/web/20211203235233id_/https://twitter.com/attackerman/status/1466918172666343430",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nCENTCOM confirms to me via email that the US conducted a drone strike today in Idlib, Syria. I’ll have more about this, and its broader implications, in Monday’s edition of FOREVER WARS.pic.twitter.com/Md04gT17IL\n\n1 Retweet\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:12:07+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:12:10+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211203235233id_/https://twitter.com/attackerman/status/1466918172666343430"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211203235233id_/https://twitter.com/attackerman/status/1466918172666343430",
   "incident_ids": [
     "airwars-80506"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/attackerman/status/1466918172666343430"
   ],
   "original_url": "https://twitter.com/attackerman/status/1466918172666343430",
-  "page_title": "",
+  "page_title": "Spencer Ackerman on Twitter: \"CENTCOM confirms to me via email that the US conducted a drone strike today in Idlib, Syria. I’ll have more about this, and its broader implications, in Monday’s edition of FOREVER WARS.… https://t.co/nWYaRIXxR6\" Spencer Ackerman on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1973-december-3-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:12:10+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-573abf7c66717d49b26482c1",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/attackerman/status/1466918172666343430",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nCENTCOM confirms to me via email that the US conducted a drone strike today in Idlib, Syria. I’ll have more about this, and its broader implications, in Monday’s edition of FOREVER WARS.pic.twitter.com/Md04gT17IL\n\n1 Retweet\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

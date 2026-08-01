@@ -67,8 +67,22 @@
   "content_hash": null,
   "content_variants": [],
   "descriptions": [],
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:15:39+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:15:45+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260315080400id_/https://www.i24news.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/middle-east/1639407663-%D9%85%D9%82%D8%AA%D9%84-%D8%AE%D9%85%D8%B3%D8%A9-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%84%D9%80-%D9%82%D9%88%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%AF%D8%A7%D8%B9%D8%B4"
+    }
+  ],
   "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
+  "failure_reason": "capture_without_text",
   "final_redirected_url": "",
   "incident_ids": [
     "airwars-80656"
@@ -108,7 +122,7 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
+  "retrieval_status": "capture_without_text",
   "retrieved_at": null,
   "review_flags": [],
   "schema_version": "1.0.0",

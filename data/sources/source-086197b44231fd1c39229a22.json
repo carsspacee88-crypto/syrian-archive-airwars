@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/vSM6V"
+    "https://archive.md/vSM6V",
+    "https://web.archive.org/web/20240515200833id_/https://www.facebook.com/Palestsy/posts/4694440583939556"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Palestsy",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "185f8618006622849bda054513f3382aee55441761381e9784da3b74f915bb32",
+  "content_variants": [
+    {
+      "bytes": 603,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:56:07+00:00",
+      "sha256": "185f8618006622849bda054513f3382aee55441761381e9784da3b74f915bb32",
+      "source_url": "https://web.archive.org/web/20240515200833id_/https://www.facebook.com/Palestsy/posts/4694440583939556",
+      "text": "#خبر|| استشــ. ــاد المدرِّسة الفلسطينية السورية \"قمر بلال حافظ\" تولد 1993 نتيجة القصف المدفعي من قبل قوات النظام السوري على مدينة #أريحا في...\n\n#خبر|| استشــ. ــاد المدرِّسة الفلسطينية السورية \"قمر بلال حافظ\" تولد 1993 نتيجة القصف المدفعي من قبل قوات النظام السوري على مدينة #أريحا في #الشمال_السوري.\n\nواستشــ. ــد أيضاً عدداً من الأطفال حيث..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:56:07+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:56:07+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515200833id_/https://www.facebook.com/Palestsy/posts/4694440583939556"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515200833id_/https://www.facebook.com/Palestsy/posts/4694440583939556",
   "incident_ids": [
     "airwars-79588"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/Palestsy/posts/4694440583939556"
   ],
   "original_url": "https://www.facebook.com/Palestsy/posts/4694440583939556",
-  "page_title": "",
+  "page_title": "فلسطينيو سورية فلسطينيو سورية فلسطينيو سورية - #خبر|| استشــ. ــاد المدرِّسة الفلسطينية...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4659-october-20-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:56:07+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-086197b44231fd1c39229a22",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/Palestsy/posts/4694440583939556",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#خبر|| استشــ. ــاد المدرِّسة الفلسطينية السورية \"قمر بلال حافظ\" تولد 1993 نتيجة القصف المدفعي من قبل قوات النظام السوري على مدينة #أريحا في...\n\n#خبر|| استشــ. ــاد المدرِّسة الفلسطينية السورية \"قمر بلال حافظ\" تولد 1993 نتيجة القصف المدفعي من قبل قوات النظام السوري على مدينة #أريحا في #الشمال_السوري.\n\nواستشــ. ــد أيضاً عدداً من الأطفال حيث...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

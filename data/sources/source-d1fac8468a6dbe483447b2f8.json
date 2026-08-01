@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/0KGcI"
+    "https://archive.ph/0KGcI",
+    "https://web.archive.org/web/20250207112810id_/https://npasyria.com/174014/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "17b5fd25ccabcc89750f424cc2993ac34000d4debf9daeb8fbbc4fd3ab34ef27",
+  "content_variants": [
+    {
+      "bytes": 1767,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:29:46+00:00",
+      "sha256": "17b5fd25ccabcc89750f424cc2993ac34000d4debf9daeb8fbbc4fd3ab34ef27",
+      "source_url": "https://web.archive.org/web/20250207112810id_/https://npasyria.com/174014/",
+      "text": "برصاص القوات التركية.. إصابة 4 أشخاص في الدرباسية\n\nالدرباسية – شارع رئيسي وسط المدينة – نورث برس\n\nالدرباسية – نورث برس\n\nاُصيب أربعة أشخاص من بينهم طفلة، مساء الأحد، برصاص الجندرمة التركية في ناحية الدرباسية الحدودية مع تركيا، شمالي الحسكة.\n\nوقال شهود عيان من الدرباسية لنورث برس، إن “أربعة أشخاص من بينهم طفلة، يقطنون في الحي الغربي لناحية الدرباسية أُصيبوا بالرصاص الذي أُطلق عليهم من قبل القوات التركية (الجندرمة) المتواجدة على الحدود مساء اليوم”.\n\nومن جهته أفاد طبيب بقسم الإسعاف في مشفى (خبات) في الدرباسية لنورث برس، أن المشفى استقبل أربع إصابات وصلت خلال ساعات المساء، إصاباتهم ناجمة عن استهدافهم بأعيرة نارية.\n\nوذكر أن المصابين هم محمد توفيق (١٨ عاماً)، ولورين كالو (٣٠ عاماً)، وداوود مصطفى (30عاماً)، والطفلة نسرين محمد (٩ أعوام).\n\nوأضاف الطبيب الذي فضل عدم الكشف عن اسمه، أن الطفلة نسرين كانت حالتها خطيرة لذلك تم تحويلها على الفور لمشافي مدينة الحسكة، بينما الإصابات الثلاثة الأخرى تمت السيطرة على إصاباتهم والتمكن من معالجتها.\n\nإعداد: سامر ياسين – تحرير: سعد اليازجي"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:29:44+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:29:46+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250207112810id_/https://npasyria.com/174014/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250207112810id_/https://npasyria.com/174014/",
   "incident_ids": [
     "airwars-103570"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/174014/"
   ],
   "original_url": "https://npasyria.com/174014/",
-  "page_title": "",
+  "page_title": "برصاص القوات التركية.. إصابة 4 أشخاص في الدرباسية برصاص القوات التركية.. إصابة 4 أشخاص في الدرباسية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts663-november-26-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:29:46+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d1fac8468a6dbe483447b2f8",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/174014/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "برصاص القوات التركية.. إصابة 4 أشخاص في الدرباسية\n\nالدرباسية – شارع رئيسي وسط المدينة – نورث برس\n\nالدرباسية – نورث برس\n\nاُصيب أربعة أشخاص من بينهم طفلة، مساء الأحد، برصاص الجندرمة التركية في ناحية الدرباسية الحدودية مع تركيا، شمالي الحسكة.\n\nوقال شهود عيان من الدرباسية لنورث برس، إن “أربعة أشخاص من بينهم طفلة، يقطنون في الحي الغربي لناحية الدرباسية أُصيبوا بالرصاص الذي أُطلق عليهم من قبل القوات التركية (الجندرمة) المتواجدة على الحدود مساء اليوم”.\n\nومن جهته أفاد طبيب بقسم الإسعاف في مشفى (خبات) في الدرباسية لنورث برس، أن المشفى استقبل أربع إصابات وصلت خلال ساعات المساء، إصاباتهم ناجمة عن استهدافهم بأعيرة نارية.\n\nوذكر أن المصابين هم محمد توفيق (١٨ عاماً)، ولورين كالو (٣٠ عاماً)، وداوود مصطفى (30عاماً)، والطفلة نسرين محمد (٩ أعوام).\n\nوأضاف الطبيب الذي فضل عدم الكشف عن اسمه، أن الطفلة نسرين كانت حالتها خطيرة لذلك تم تحويلها على الفور لمشافي مدينة الحسكة، بينما الإصابات الثلاثة الأخرى تمت السيطرة على إصاباتهم والتمكن من معالجتها.\n\nإعداد: سامر ياسين – تحرير: سعد اليازجي",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

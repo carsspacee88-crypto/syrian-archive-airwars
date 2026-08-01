@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/AdYpR"
+    "https://archive.is/AdYpR",
+    "https://web.archive.org/web/20240525020720id_/https://www.facebook.com/SyriaCivilDefense/posts/2018243638331381"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Civil Defense",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "52586eefdab9079f2d59e168a6c1084f7267d6eb545b68ff5ccb1b1ea402f157",
+  "content_variants": [
+    {
+      "bytes": 641,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:29:26+00:00",
+      "sha256": "52586eefdab9079f2d59e168a6c1084f7267d6eb545b68ff5ccb1b1ea402f157",
+      "source_url": "https://web.archive.org/web/20240525020720id_/https://www.facebook.com/SyriaCivilDefense/posts/2018243638331381",
+      "text": "الطفل علي، ضحية جديدة للطائرات الروسية، التي استهدفته اليوم الجمعة 3 أيلول على أطراف بلدة #كنصفرة بريف #إدلب الجنوبي وهو يرعى الأغنام ليعيل عائلته، لم...\n\nالطفل علي، ضحية جديدة للطائرات الروسية، التي استهدفته اليوم الجمعة 3 أيلول على أطراف بلدة #كنصفرة بريف #إدلب الجنوبي وهو يرعى الأغنام ليعيل عائلته، لم يحلم علي بالمدرسة ولا بمنزل دافئ، حلمه كان بسيط..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:29:25+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:29:26+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525020720id_/https://www.facebook.com/SyriaCivilDefense/posts/2018243638331381"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525020720id_/https://www.facebook.com/SyriaCivilDefense/posts/2018243638331381",
   "incident_ids": [
     "airwars-77902"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/SyriaCivilDefense/posts/2018243638331381"
   ],
   "original_url": "https://www.facebook.com/SyriaCivilDefense/posts/2018243638331381",
-  "page_title": "",
+  "page_title": "الدفاع المدني السوري الدفاع المدني السوري الطفل علي، ضحية جديدة للطائرات... - الدفاع المدني السوري",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4636-september-3-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:29:26+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-cc8f1435e2c26c671ca6f909",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SyriaCivilDefense/posts/2018243638331381",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "الطفل علي، ضحية جديدة للطائرات الروسية، التي استهدفته اليوم الجمعة 3 أيلول على أطراف بلدة #كنصفرة بريف #إدلب الجنوبي وهو يرعى الأغنام ليعيل عائلته، لم...\n\nالطفل علي، ضحية جديدة للطائرات الروسية، التي استهدفته اليوم الجمعة 3 أيلول على أطراف بلدة #كنصفرة بريف #إدلب الجنوبي وهو يرعى الأغنام ليعيل عائلته، لم يحلم علي بالمدرسة ولا بمنزل دافئ، حلمه كان بسيط...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

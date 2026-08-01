@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/eLQhp"
+    "https://archive.is/eLQhp",
+    "https://web.archive.org/web/20230205134231id_/https://www.hawarnews.com/ar/haber/msdr-lmraslna3a-mqtl-3-nsaa-bynhn-amrah-haml-wisabh-atfal-fy-alashtbakat-aldaerh-byn-almrtzqh-fy-afryn-"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Hawar News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "477e7fdff91a97197df5c849d0f8d796396a0d46aa7c9fcbfd53621353416609",
+  "content_variants": [
+    {
+      "bytes": 74,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:32:42+00:00",
+      "sha256": "477e7fdff91a97197df5c849d0f8d796396a0d46aa7c9fcbfd53621353416609",
+      "source_url": "https://web.archive.org/web/20230205134231id_/https://www.hawarnews.com/ar/haber/msdr-lmraslna3a-mqtl-3-nsaa-bynhn-amrah-haml-wisabh-atfal-fy-alashtbakat-aldaerh-byn-almrtzqh-fy-afryn-",
+      "text": "One moment, please...\n\nPlease wait while your request is being verified..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:32:41+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:32:42+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230205134231id_/https://www.hawarnews.com/ar/haber/msdr-lmraslna3a-mqtl-3-nsaa-bynhn-amrah-haml-wisabh-atfal-fy-alashtbakat-aldaerh-byn-almrtzqh-fy-afryn-"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230205134231id_/https://www.hawarnews.com/ar/haber/msdr-lmraslna3a-mqtl-3-nsaa-bynhn-amrah-haml-wisabh-atfal-fy-alashtbakat-aldaerh-byn-almrtzqh-fy-afryn-",
   "incident_ids": [
     "airwars-85092"
   ],
@@ -85,10 +109,10 @@
     "https://www.hawarnews.com/ar/haber/msdr-lmraslna3a-mqtl-3-nsaa-bynhn-amrah-haml-wisabh-atfal-fy-alashtbakat-aldaerh-byn-almrtzqh-fy-afryn-"
   ],
   "original_url": "https://www.hawarnews.com/ar/haber/msdr-lmraslna3a-mqtl-3-nsaa-bynhn-amrah-haml-wisabh-atfal-fy-alashtbakat-aldaerh-byn-almrtzqh-fy-afryn-",
-  "page_title": "",
+  "page_title": "One moment, please...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts560-october-12-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:32:42+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f12308133afa5aff92176772",
   "source_type": "news_article",
   "stable_id_basis": "https://www.hawarnews.com/ar/haber/msdr-lmraslna3a-mqtl-3-nsaa-bynhn-amrah-haml-wisabh-atfal-fy-alashtbakat-aldaerh-byn-almrtzqh-fy-afryn-",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "One moment, please...\n\nPlease wait while your request is being verified...",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,
