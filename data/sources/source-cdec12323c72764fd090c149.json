@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/S6vJt"
+    "https://archive.is/S6vJt",
+    "https://web.archive.org/web/20250213230455id_/https://sana.sy/en/?p=317949"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SANA news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "12d0b66b9d2644856a24b4729a9bf553d8941c7e57d9127b096968900a02a8a4",
+  "content_variants": [
+    {
+      "bytes": 503,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:23:22+00:00",
+      "sha256": "12d0b66b9d2644856a24b4729a9bf553d8941c7e57d9127b096968900a02a8a4",
+      "source_url": "https://web.archive.org/web/20250213230455id_/https://sana.sy/en/?p=317949",
+      "text": "3 October، 2023\n\nDamascus, SANA- The Israeli enemy carried out an act of aggression on some sites in the vicinity of Deir Ezzor city, injuring two soldiers.\n\n‘At about 23.50 p.m. on Monday, the Israeli enemy carried out an aerial act of aggression on a number of the Syrian armed forces’ positions in the vicinity of Deir Ezzor’, a military source told SANA.\n\nThe sources added that the aggression caused the injury of two soldiers, and some material damage.\n\nRafah al-Allouni/Shaza Qreima\n\ntweet"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:23:22+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:23:22+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250213230455id_/https://sana.sy/en/?p=317949"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250213230455id_/https://sana.sy/en/?p=317949",
   "incident_ids": [
     "airwars-114451"
   ],
@@ -85,10 +109,10 @@
     "https://sana.sy/en/?p=317949"
   ],
   "original_url": "https://sana.sy/en/?p=317949",
-  "page_title": "",
+  "page_title": "Two soldiers injured in Israeli act of aggression on Deir Ezzor vicinity – Syrian Arab News Agency Two soldiers injured in Israeli act of aggression on Deir Ezzor vicinity - Syrian Arab News Agency Two soldiers injured in Israeli act of aggression on Deir Ezzor vicinity Two soldiers injured in Israeli act of aggression on Deir Ezzor vicinity",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy035-october-2-2023/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:23:22+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-cdec12323c72764fd090c149",
   "source_type": "news_article",
   "stable_id_basis": "https://sana.sy/en/?p=317949",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "3 October، 2023\n\nDamascus, SANA- The Israeli enemy carried out an act of aggression on some sites in the vicinity of Deir Ezzor city, injuring two soldiers.\n\n‘At about 23.50 p.m. on Monday, the Israeli enemy carried out an aerial act of aggression on a number of the Syrian armed forces’ positions in the vicinity of Deir Ezzor’, a military source told SANA.\n\nThe sources added that the aggression caused the injury of two soldiers, and some material damage.\n\nRafah al-Allouni/Shaza Qreima\n\ntweet",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

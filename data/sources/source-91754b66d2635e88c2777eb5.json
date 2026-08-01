@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/NU5DM"
+    "https://archive.is/NU5DM",
+    "https://web.archive.org/web/20250807030921id_/https://npasyria.com/en/101172/?fbclid=IwAR3Wz-e1QRbYqXT_y4zbZMxFAXoUERdiBe4m3mVXrbJfLDb6FM0neAlPI4g"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a7bb01b03ab9ae246506a7ea3ad37a073660bfe5e7cb7338db3a37d2a0920b78",
+  "content_variants": [
+    {
+      "bytes": 1043,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:18:59+00:00",
+      "sha256": "a7bb01b03ab9ae246506a7ea3ad37a073660bfe5e7cb7338db3a37d2a0920b78",
+      "source_url": "https://web.archive.org/web/20250807030921id_/https://npasyria.com/en/101172/?fbclid=IwAR3Wz-e1QRbYqXT_y4zbZMxFAXoUERdiBe4m3mVXrbJfLDb6FM0neAlPI4g",
+      "text": "Turkish border guards shoot 50-year-old man in western Idlib\n\nThe Turkish-Syrian border in northwest Syria – North Press\n\nIDLIB, Syria (North Press) – On Saturday afternoon, Turkish border guards shot at and wounded a 50-year-old man as he was entering his farmland located in western Idlib near the Turkish border in northwestern Syria.\n\nA local source told North Press that Riyad al-Kanou, 52, was shot by Turkish border guards while checking his land, adjacent to the Turkish border near the town of Harem in western Idlib.\n\nThe source added that “al-Kanou was taken to Harim Hospital in critical condition.”\n\nHe stated that the Turkish observation tower opposite the town of Harem shot the man with several bullets, one of which hit his body, despite knowing that he was there to check his land.\n\nHundreds of farmers who own lands adjacent to the Turkish border have since refrained from checking their lands out of fear of being targeted by Turkish border guards, who continue to directly shoot civilians.\n\nReporting by Hani Salem"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:18:59+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:18:59+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250807030921id_/https://npasyria.com/en/101172/?fbclid=IwAR3Wz-e1QRbYqXT_y4zbZMxFAXoUERdiBe4m3mVXrbJfLDb6FM0neAlPI4g"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250807030921id_/https://npasyria.com/en/101172/?fbclid=IwAR3Wz-e1QRbYqXT_y4zbZMxFAXoUERdiBe4m3mVXrbJfLDb6FM0neAlPI4g",
   "incident_ids": [
     "airwars-91956"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/101172/?fbclid=IwAR3Wz-e1QRbYqXT_y4zbZMxFAXoUERdiBe4m3mVXrbJfLDb6FM0neAlPI4g"
   ],
   "original_url": "https://npasyria.com/en/101172/?fbclid=IwAR3Wz-e1QRbYqXT_y4zbZMxFAXoUERdiBe4m3mVXrbJfLDb6FM0neAlPI4g",
-  "page_title": "",
+  "page_title": "Turkish border guards shoot 50-year-old man in western Idlib Turkish border guards shoot 50-year-old man in western Idlib Turkish border guards shoot 50-year-old man in western Idlib Turkish border guards shoot 50-year-old man in western Idlib - North press agency Turkish border guards shoot 50-year-old man in western Idlib - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts611-july-15-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:18:59+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-91754b66d2635e88c2777eb5",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/101172/?fbclid=IwAR3Wz-e1QRbYqXT_y4zbZMxFAXoUERdiBe4m3mVXrbJfLDb6FM0neAlPI4g",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish border guards shoot 50-year-old man in western Idlib\n\nThe Turkish-Syrian border in northwest Syria – North Press\n\nIDLIB, Syria (North Press) – On Saturday afternoon, Turkish border guards shot at and wounded a 50-year-old man as he was entering his farmland located in western Idlib near the Turkish border in northwestern Syria.\n\nA local source told North Press that Riyad al-Kanou, 52, was shot by Turkish border guards while checking his land, adjacent to the Turkish border near the town of Harem in western Idlib.\n\nThe source added that “al-Kanou was taken to Harim Hospital in critical condition.”\n\nHe stated that the Turkish observation tower opposite the town of Harem shot the man with several bullets, one of which hit his body, despite knowing that he was there to check his land.\n\nHundreds of farmers who own lands adjacent to the Turkish border have since refrained from checking their lands out of fear of being targeted by Turkish border guards, who continue to directly shoot civilians.\n\nReporting by Hani Salem",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

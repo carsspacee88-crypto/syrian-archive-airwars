@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/4fNJ2"
+    "https://archive.is/4fNJ2",
+    "https://web.archive.org/web/20240515173216id_/https://www.ugaritpost.com/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A2%D9%81%D8%B3-%D8%A8%D8%B1%D9%8A%D9%81/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Ugarit Post",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "57db99cf367be3d125a9423ecc9f48cd93c2522bc490ba97bf5ddb666f7a6a8a",
+  "content_variants": [
+    {
+      "bytes": 1741,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:02:04+00:00",
+      "sha256": "57db99cf367be3d125a9423ecc9f48cd93c2522bc490ba97bf5ddb666f7a6a8a",
+      "source_url": "https://web.archive.org/web/20240515173216id_/https://www.ugaritpost.com/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A2%D9%81%D8%B3-%D8%A8%D8%B1%D9%8A%D9%81/",
+      "text": "مقتل شخصين بقصف حكومي على بلدة آفس بريف إدلب\n\n927\n\nسنتين مضت\n\nأوغاريت بوست (إدلب) – قتل شخصين وأصيب اثنين آخرين بجروح، جراء قصف صاروخي للقوات الحكومية على قرية آفس شرقي إدلب، حيث يتواجد في المنطقة عدد كبير من النقاط والقواعد التابعة للقوات التركية.\nوكانت قوات الحكومة جددت قصفها صباح اليوم الأحد على مواقع للفصائل في منطقة “خفض التصعيد” بعد ساعات من الهدوء الحذر، حيث استهدفت بالمدفعية الثقيلة قرى الفطيرة وبينين وفليفل وأطراف البارة، بجبل الزاوية في ريف إدلب وسط تحليق مكثف لطيران استطلاع روسي في جبل الزاوية وسهل الغاب بريفي إدلب وحماه.\n\n9 ساعات مضت\n\nقتيلان بغارة لمسيّرة إسرائيلية على جنوبي لبنان\n\n10 ساعات مضت\n\nبريطانيا: اجتياح رفح لن يوقف صادرات الأسلحة إلى إسرائيل\n\n11 ساعة مضت\n\nالجيش الإسرائيلي يتوغل في رفح ومعارك محتدمة في جباليا\n\n12 ساعة مضت\n\nخلايا داعش تهاجم آلية ”للأسايش” شمال دير الزور\n\n12 ساعة مضت\n\nدون أي مراعاة لما تعيشه سوريا.. لبنان وتركيا يواصلان إعادة السوريين تحت مسمى “العودة الطوعية”\n\n13 ساعة مضت\n\nمقتل عنصر “للهيئة” بقصف لقوات الحكومة غرب حلب"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:02:00+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:02:04+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515173216id_/https://www.ugaritpost.com/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A2%D9%81%D8%B3-%D8%A8%D8%B1%D9%8A%D9%81/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515173216id_/https://www.ugaritpost.com/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A2%D9%81%D8%B3-%D8%A8%D8%B1%D9%8A%D9%81/",
   "incident_ids": [
     "airwars-82357"
   ],
@@ -85,10 +109,10 @@
     "https://www.ugaritpost.com/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A2%D9%81%D8%B3-%D8%A8%D8%B1%D9%8A%D9%81/"
   ],
   "original_url": "https://www.ugaritpost.com/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A2%D9%81%D8%B3-%D8%A8%D8%B1%D9%8A%D9%81/",
-  "page_title": "",
+  "page_title": "مقتل شخصين بقصف حكومي على بلدة آفس بريف إدلب - أوغاريت بوست مقتل شخصين بقصف حكومي على بلدة آفس بريف إدلب - أوغاريت بوست مقتل شخصين بقصف حكومي على بلدة آفس بريف إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4695-february-27-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:02:04+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-455dc40d95b93dd26d869866",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.ugaritpost.com/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A2%D9%81%D8%B3-%D8%A8%D8%B1%D9%8A%D9%81/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مقتل شخصين بقصف حكومي على بلدة آفس بريف إدلب\n\n927\n\nسنتين مضت\n\nأوغاريت بوست (إدلب) – قتل شخصين وأصيب اثنين آخرين بجروح، جراء قصف صاروخي للقوات الحكومية على قرية آفس شرقي إدلب، حيث يتواجد في المنطقة عدد كبير من النقاط والقواعد التابعة للقوات التركية.\nوكانت قوات الحكومة جددت قصفها صباح اليوم الأحد على مواقع للفصائل في منطقة “خفض التصعيد” بعد ساعات من الهدوء الحذر، حيث استهدفت بالمدفعية الثقيلة قرى الفطيرة وبينين وفليفل وأطراف البارة، بجبل الزاوية في ريف إدلب وسط تحليق مكثف لطيران استطلاع روسي في جبل الزاوية وسهل الغاب بريفي إدلب وحماه.\n\n9 ساعات مضت\n\nقتيلان بغارة لمسيّرة إسرائيلية على جنوبي لبنان\n\n10 ساعات مضت\n\nبريطانيا: اجتياح رفح لن يوقف صادرات الأسلحة إلى إسرائيل\n\n11 ساعة مضت\n\nالجيش الإسرائيلي يتوغل في رفح ومعارك محتدمة في جباليا\n\n12 ساعة مضت\n\nخلايا داعش تهاجم آلية ”للأسايش” شمال دير الزور\n\n12 ساعة مضت\n\nدون أي مراعاة لما تعيشه سوريا.. لبنان وتركيا يواصلان إعادة السوريين تحت مسمى “العودة الطوعية”\n\n13 ساعة مضت\n\nمقتل عنصر “للهيئة” بقصف لقوات الحكومة غرب حلب",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

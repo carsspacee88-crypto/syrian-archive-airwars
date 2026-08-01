@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/y7c4n"
+    "https://archive.is/y7c4n",
+    "https://web.archive.org/web/20240815194120id_/https://www.syriahr.com/en/260487/?fbclid=IwAR0vSFEfpyaQNfmrPhESldgLiBt5wpKzh-eqW7RfvDYqfvKfxXusS61rMjE"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "36b1d6296f4f96cdd31043b56d18c6683eab48076187b293527cc2e3aadca0af",
+  "content_variants": [
+    {
+      "bytes": 1542,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:20:51+00:00",
+      "sha256": "36b1d6296f4f96cdd31043b56d18c6683eab48076187b293527cc2e3aadca0af",
+      "source_url": "https://web.archive.org/web/20240815194120id_/https://www.syriahr.com/en/260487/?fbclid=IwAR0vSFEfpyaQNfmrPhESldgLiBt5wpKzh-eqW7RfvDYqfvKfxXusS61rMjE",
+      "text": "Including four siblings | Seven fatalities among people stranded under rubble following Russian airstrikes on Jisr Al-Shughour in western Idlib\n\nSOHR activists have documented the death of seven people: four sibling children, two men and unidentified person, among other people, including women and children, stranded under rubble following a Russian attack with four airstrikes which targeted the outskirts of Al-Yaqoubiyah village and a house in Al-Jadidah village in Jisr Al-Shughour countryside in western Idlib in the early hours of Friday morning.\n\nAccording to SOHR sources, most of the fatalities and people who are still stranded under the rubble are of displaced families from Sahl Al-Ghab in Hama countryside. Meanwhile, rescue teams are attempting to extract the stranded, amid unconfirmed reports of more fatalities.\n\nOn July 12, SOHR sources reported that Russian fighter jets executed eight airstrikes on the surrounding areas of Mashoun and Balshoun villages in Jabal Al-Zawiyah, to the flank of the M4 highway.\n\nPrev Post\n\nDaily death toll | Nine persons killed on July 21 across Syria\n\nNext Post\n\nRising tension | Casualties in clashes between regime forces and opponents in town in western Daraa\n\nAttempting to exert pressure on regime forces to release detainees | Residents from…\n\nDaraa | Civilian killed and another injured in gunfire by regime forces in northern…\n\nDeir Ezzor | SDF sniper shoots civilian dead in eastern countryside\n\nOngoing violations | Military police arbitrarily arrest two civilians in Afrin…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:20:50+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:20:51+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240815194120id_/https://www.syriahr.com/en/260487/?fbclid=IwAR0vSFEfpyaQNfmrPhESldgLiBt5wpKzh-eqW7RfvDYqfvKfxXusS61rMjE"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240815194120id_/https://www.syriahr.com/en/260487/?fbclid=IwAR0vSFEfpyaQNfmrPhESldgLiBt5wpKzh-eqW7RfvDYqfvKfxXusS61rMjE",
   "incident_ids": [
     "airwars-84159"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/260487/?fbclid=IwAR0vSFEfpyaQNfmrPhESldgLiBt5wpKzh-eqW7RfvDYqfvKfxXusS61rMjE"
   ],
   "original_url": "https://www.syriahr.com/en/260487/?fbclid=IwAR0vSFEfpyaQNfmrPhESldgLiBt5wpKzh-eqW7RfvDYqfvKfxXusS61rMjE",
-  "page_title": "",
+  "page_title": "Including four siblings | Seven fatalities among people stranded under rubble following Russian airstrikes on Jisr Al-Shughour in western Idlib - The Syrian Observatory For Human Rights Including four siblings | Seven fatalities among people stranded under rubble following Russian airstrikes on Jisr Al-Shughour in western Idlib - The Syrian Observatory For Human Rights Including four siblings | Seven fatalities among people stranded under rubble following Russian airstrikes on Jisr Al-Shughour in western Idlib - The Syrian Observatory For Human Rights Including four siblings | Seven fatalities among people stranded under rubble following Russian airstrikes on Jisr Al-Shughour in western Idlib Including four siblings | Seven fatalities among people stranded under rubble following Russian airstrikes on Jisr Al-Shughour in western Idlib",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4704-july-22-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:20:51+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-a8bbd175bd015b99143b33c9",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/260487/?fbclid=IwAR0vSFEfpyaQNfmrPhESldgLiBt5wpKzh-eqW7RfvDYqfvKfxXusS61rMjE",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Including four siblings | Seven fatalities among people stranded under rubble following Russian airstrikes on Jisr Al-Shughour in western Idlib\n\nSOHR activists have documented the death of seven people: four sibling children, two men and unidentified person, among other people, including women and children, stranded under rubble following a Russian attack with four airstrikes which targeted the outskirts of Al-Yaqoubiyah village and a house in Al-Jadidah village in Jisr Al-Shughour countryside in western Idlib in the early hours of Friday morning.\n\nAccording to SOHR sources, most of the fatalities and people who are still stranded under the rubble are of displaced families from Sahl Al-Ghab in Hama countryside. Meanwhile, rescue teams are attempting to extract the stranded, amid unconfirmed reports of more fatalities.\n\nOn July 12, SOHR sources reported that Russian fighter jets executed eight airstrikes on the surrounding areas of Mashoun and Balshoun villages in Jabal Al-Zawiyah, to the flank of the M4 highway.\n\nPrev Post\n\nDaily death toll | Nine persons killed on July 21 across Syria\n\nNext Post\n\nRising tension | Casualties in clashes between regime forces and opponents in town in western Daraa\n\nAttempting to exert pressure on regime forces to release detainees | Residents from…\n\nDaraa | Civilian killed and another injured in gunfire by regime forces in northern…\n\nDeir Ezzor | SDF sniper shoots civilian dead in eastern countryside\n\nOngoing violations | Military police arbitrarily arrest two civilians in Afrin…",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

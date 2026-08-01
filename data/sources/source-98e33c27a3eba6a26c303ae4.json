@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/4ufVX"
+    "https://archive.md/4ufVX",
+    "https://web.archive.org/web/20240525020844id_/https://www.facebook.com/SyriaCivilDefense/posts/2056577601164651"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syria Civil Defense (13)",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "4f0726953d049061cb93f3e2bed81cfa58838b9e9a2c4b89dfd3da8ec2c4ed28",
+  "content_variants": [
+    {
+      "bytes": 643,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:19:04+00:00",
+      "sha256": "4f0726953d049061cb93f3e2bed81cfa58838b9e9a2c4b89dfd3da8ec2c4ed28",
+      "source_url": "https://web.archive.org/web/20240525020844id_/https://www.facebook.com/SyriaCivilDefense/posts/2056577601164651",
+      "text": "حزينة مدينة #أريحا، تنعى أرواحاً فقدتها بصمت، تبكي ذكريات دمرها إجرام قوات النظام وروسيا، ستنام المدينة ليلتها على أنين الثكالى واليتامى، ستكون ليلة...\n\nحزينة مدينة #أريحا، تنعى أرواحاً فقدتها بصمت، تبكي ذكريات دمرها إجرام قوات النظام وروسيا، ستنام المدينة ليلتها على أنين الثكالى واليتامى، ستكون ليلة طويلة بانتظار فجر علّه يحمل السلام.\n#الخوذ_البيضاء"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:19:03+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:19:04+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525020844id_/https://www.facebook.com/SyriaCivilDefense/posts/2056577601164651"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525020844id_/https://www.facebook.com/SyriaCivilDefense/posts/2056577601164651",
   "incident_ids": [
     "airwars-79588"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/SyriaCivilDefense/posts/2056577601164651"
   ],
   "original_url": "https://www.facebook.com/SyriaCivilDefense/posts/2056577601164651",
-  "page_title": "",
+  "page_title": "الدفاع المدني السوري الدفاع المدني السوري حزينة مدينة #أريحا، تنعى أرواحاً... - الدفاع المدني السوري",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4659-october-20-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:19:04+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-98e33c27a3eba6a26c303ae4",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SyriaCivilDefense/posts/2056577601164651",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "حزينة مدينة #أريحا، تنعى أرواحاً فقدتها بصمت، تبكي ذكريات دمرها إجرام قوات النظام وروسيا، ستنام المدينة ليلتها على أنين الثكالى واليتامى، ستكون ليلة...\n\nحزينة مدينة #أريحا، تنعى أرواحاً فقدتها بصمت، تبكي ذكريات دمرها إجرام قوات النظام وروسيا، ستنام المدينة ليلتها على أنين الثكالى واليتامى، ستكون ليلة طويلة بانتظار فجر علّه يحمل السلام.\n#الخوذ_البيضاء",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

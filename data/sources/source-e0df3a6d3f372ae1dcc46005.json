@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/ChpV9"
+    "https://archive.ph/ChpV9",
+    "https://web.archive.org/web/20230922160814id_/https://www.syriahr.com/en/309833/?fbclid=IwAR295gioDBVw03BZMsTU18-OuIabEwbaTXL0_-R6sSjW-e7EjhHQwNpnr-k"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ba9f23bf2404b78c3a27ffd1e5e401890b0dcc92b9a0b4b5973eee8994734695",
+  "content_variants": [
+    {
+      "bytes": 2127,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:27:11+00:00",
+      "sha256": "ba9f23bf2404b78c3a27ffd1e5e401890b0dcc92b9a0b4b5973eee8994734695",
+      "source_url": "https://web.archive.org/web/20230922160814id_/https://www.syriahr.com/en/309833/?fbclid=IwAR295gioDBVw03BZMsTU18-OuIabEwbaTXL0_-R6sSjW-e7EjhHQwNpnr-k",
+      "text": "Turkish bombardment | Three children seriously injured in western Manbij countryside\n\nAleppo province: Three children from one family were seriously injured in Turkish bombardment in the past few hours on Tahnah village in western Manbij in eastern Aleppo countryside, where they were taken to Al-Barkal hospital in Manbij city for treatment.\n\nSeveral frontlines in the eastern and western countryside of Manbij, within areas of the military council of Minbij, are witnessing a remarkable escalation recently by the Turkish forces and their proxies.\n\nEarlier today, SOHR sources reported that factions of the Turkish-backed “National Army” carried out an infiltration operation on the frontline of Al-Boghaz village west of Minbij city east of Aleppo, which resulted in the eruption of violent clashes between the factions and the forces of the military council of Minbij, in which heavy weapons were used, where the latter managed to respond the attack after the violent clashes. Forces of the military council of Minbij also targeted two vehicles of the attacking factions, which led to their detonation, amid Information about dead and injured people.\nIn parallel, forces of the military council of Minbij shot down a Turkish kamikaze drone, a short time before, in Arab Hasan village in the countryside of Minbij, east of Aleppo.\n\nPrev Post\n\nAmid heavy losses among regime forces in Tallet Al-Malajah | Russian fighter jets lunch two airstrikes on two villages in Jabal Al-Zawiyah\n\nNext Post\n\n“SOHR camera” captures the circumstances of a penal session attended by dignitaries and elders of Al-Raqqah, Al-Tabaqah, Manbij and Ain Al-Arab (Kobani) in the headquarters of Syrian Democratic Council about “warding off the sedition” and preventing bloodshed\n\nDemanding expulsion of Iranian-backed militias and release of detainees | Residents…\n\nAmid unknown fate of the commander of “NDF” | Regime forces take control of security…\n\n“SOHR camera” captures SDF fighter on high alert in front of Ghuwayran prison, near…\n\nOngoing security chaos in Daraa | Two children and two regime soldiers injured in…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:27:10+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:27:11+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230922160814id_/https://www.syriahr.com/en/309833/?fbclid=IwAR295gioDBVw03BZMsTU18-OuIabEwbaTXL0_-R6sSjW-e7EjhHQwNpnr-k"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230922160814id_/https://www.syriahr.com/en/309833/?fbclid=IwAR295gioDBVw03BZMsTU18-OuIabEwbaTXL0_-R6sSjW-e7EjhHQwNpnr-k",
   "incident_ids": [
     "airwars-92899"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/309833/?fbclid=IwAR295gioDBVw03BZMsTU18-OuIabEwbaTXL0_-R6sSjW-e7EjhHQwNpnr-k"
   ],
   "original_url": "https://www.syriahr.com/en/309833/?fbclid=IwAR295gioDBVw03BZMsTU18-OuIabEwbaTXL0_-R6sSjW-e7EjhHQwNpnr-k",
-  "page_title": "",
+  "page_title": "Turkish bombardment | Three children seriously injured in western Manbij countryside • The Syrian Observatory For Human Rights Turkish bombardment | Three children seriously injured in western Manbij countryside • The Syrian Observatory For Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts628-september-6-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:27:11+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e0df3a6d3f372ae1dcc46005",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/309833/?fbclid=IwAR295gioDBVw03BZMsTU18-OuIabEwbaTXL0_-R6sSjW-e7EjhHQwNpnr-k",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish bombardment | Three children seriously injured in western Manbij countryside\n\nAleppo province: Three children from one family were seriously injured in Turkish bombardment in the past few hours on Tahnah village in western Manbij in eastern Aleppo countryside, where they were taken to Al-Barkal hospital in Manbij city for treatment.\n\nSeveral frontlines in the eastern and western countryside of Manbij, within areas of the military council of Minbij, are witnessing a remarkable escalation recently by the Turkish forces and their proxies.\n\nEarlier today, SOHR sources reported that factions of the Turkish-backed “National Army” carried out an infiltration operation on the frontline of Al-Boghaz village west of Minbij city east of Aleppo, which resulted in the eruption of violent clashes between the factions and the forces of the military council of Minbij, in which heavy weapons were used, where the latter managed to respond the attack after the violent clashes. Forces of the military council of Minbij also targeted two vehicles of the attacking factions, which led to their detonation, amid Information about dead and injured people.\nIn parallel, forces of the military council of Minbij shot down a Turkish kamikaze drone, a short time before, in Arab Hasan village in the countryside of Minbij, east of Aleppo.\n\nPrev Post\n\nAmid heavy losses among regime forces in Tallet Al-Malajah | Russian fighter jets lunch two airstrikes on two villages in Jabal Al-Zawiyah\n\nNext Post\n\n“SOHR camera” captures the circumstances of a penal session attended by dignitaries and elders of Al-Raqqah, Al-Tabaqah, Manbij and Ain Al-Arab (Kobani) in the headquarters of Syrian Democratic Council about “warding off the sedition” and preventing bloodshed\n\nDemanding expulsion of Iranian-backed militias and release of detainees | Residents…\n\nAmid unknown fate of the commander of “NDF” | Regime forces take control of security…\n\n“SOHR camera” captures SDF fighter on high alert in front of Ghuwayran prison, near…\n\nOngoing security chaos in Daraa | Two children and two regime soldiers injured in…",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

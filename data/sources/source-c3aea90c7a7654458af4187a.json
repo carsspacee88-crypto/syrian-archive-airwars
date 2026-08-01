@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/CVaBw"
+    "https://archive.is/CVaBw",
+    "https://web.archive.org/web/20260213165820id_/https://baladi-news.com/ar/articles/92010/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D9%86%D9%81%D8%B1-%D9%82%D9%88%D8%A7%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%88%D8%B1%D9%8A%D9%81%D9%87%D8%A7"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Baladi",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "36d88771d600df73e0e0af7845365679ef0e0ee29eccdad02ec1f3af6d8804ee",
+  "content_variants": [
+    {
+      "bytes": 709,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:22:23+00:00",
+      "sha256": "36d88771d600df73e0e0af7845365679ef0e0ee29eccdad02ec1f3af6d8804ee",
+      "source_url": "https://web.archive.org/web/20260213165820id_/https://baladi-news.com/ar/articles/92010/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D9%86%D9%81%D8%B1-%D9%82%D9%88%D8%A7%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%88%D8%B1%D9%8A%D9%81%D9%87%D8%A7",
+      "text": "إسقاط الحصانة عن حاكم مصرف سوريا المركزي السابق\n\nأقرت محكمة الاستئناف في باريس حكماً بإسقاط الحصانة عن حاكم مصرف سوريا المركزي السابق، أديب ميالة في تحقيق يتعلق بدوره في تمويل الجرائم التي ارتكبتها الحكومة السورية.واعتبرت المحكمة أن \"هذه الجرائم الدولية لا يمكن أن يشملها مبدأ الحصانة للسماح بإفلات مرتكبيها من العقاب\"، وفق ما ذكر \"المركز السوري للإعلام وحرية التعبير\".\n\nآخر ما نشر من القسم"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:22:23+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:22:23+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260213165820id_/https://baladi-news.com/ar/articles/92010/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D9%86%D9%81%D8%B1-%D9%82%D9%88%D8%A7%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%88%D8%B1%D9%8A%D9%81%D9%87%D8%A7"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260213165820id_/https://baladi-news.com/ar/articles/92010/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D9%86%D9%81%D8%B1-%D9%82%D9%88%D8%A7%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%88%D8%B1%D9%8A%D9%81%D9%87%D8%A7",
   "incident_ids": [
     "airwars-89327"
   ],
@@ -85,10 +109,10 @@
     "https://baladi-news.com/ar/articles/92010/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D9%86%D9%81%D8%B1-%D9%82%D9%88%D8%A7%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%88%D8%B1%D9%8A%D9%81%D9%87%D8%A7"
   ],
   "original_url": "https://baladi-news.com/ar/articles/92010/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D9%86%D9%81%D8%B1-%D9%82%D9%88%D8%A7%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%88%D8%B1%D9%8A%D9%81%D9%87%D8%A7",
-  "page_title": "",
+  "page_title": "الصفحة الرئيسية إسقاط الحصانة عن حاكم مصرف سوريا المركزي السابق - شبكة بلدي الإعلامية إسقاط الحصانة عن حاكم مصرف سوريا المركزي السابق - شبكة بلدي الإعلامية إسقاط الحصانة عن حاكم مصرف سوريا المركزي السابق - شبكة بلدي الإعلامية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/irs015-march-24-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:22:23+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-c3aea90c7a7654458af4187a",
   "source_type": "news_article",
   "stable_id_basis": "https://baladi-news.com/ar/articles/92010/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D9%86%D9%81%D8%B1-%D9%82%D9%88%D8%A7%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%88%D8%B1%D9%8A%D9%81%D9%87%D8%A7",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إسقاط الحصانة عن حاكم مصرف سوريا المركزي السابق\n\nأقرت محكمة الاستئناف في باريس حكماً بإسقاط الحصانة عن حاكم مصرف سوريا المركزي السابق، أديب ميالة في تحقيق يتعلق بدوره في تمويل الجرائم التي ارتكبتها الحكومة السورية.واعتبرت المحكمة أن \"هذه الجرائم الدولية لا يمكن أن يشملها مبدأ الحصانة للسماح بإفلات مرتكبيها من العقاب\"، وفق ما ذكر \"المركز السوري للإعلام وحرية التعبير\".\n\nآخر ما نشر من القسم",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

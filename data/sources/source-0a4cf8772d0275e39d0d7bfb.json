@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/Onx5L"
+    "https://archive.ph/Onx5L",
+    "https://web.archive.org/web/20260209023730id_/https://www.rudaw.net/english/middleeast/syria/16082022"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Rudaw News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "e6235849e15cbd0bda518aa00c1326e2476f313f0ff1b2d2960c2dd455ba354f",
+  "content_variants": [
+    {
+      "bytes": 1142,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:52:54+00:00",
+      "sha256": "e6235849e15cbd0bda518aa00c1326e2476f313f0ff1b2d2960c2dd455ba354f",
+      "source_url": "https://web.archive.org/web/20260209023730id_/https://www.rudaw.net/english/middleeast/syria/16082022",
+      "text": "SHARE ON\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on Telegram\n\nShare on Viber\n\nShare on Messenger\n\nSyrian authorities arrest officer over suspected killing of civilians in Suwayda\n\nPresident Masoud Barzani, US envoy discuss Syria\n\nPezeshkian says Iran-US talks ‘a step forward’\n\nJoint Kurdish delegation to visit Damascus soon: Politician\n\nSHARE ON\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on Telegram\n\nShare on Viber\n\nShare on Messenger\n\nComments\n\nRudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw.\n\nTo be approved for publication, however, your comments must meet our community guidelines.\n\nWe will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion.\n\nComments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected.\n\nPost a comment"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:52:53+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:52:54+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260209023730id_/https://www.rudaw.net/english/middleeast/syria/16082022"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260209023730id_/https://www.rudaw.net/english/middleeast/syria/16082022",
   "incident_ids": [
     "airwars-84424"
   ],
@@ -85,10 +109,10 @@
     "https://www.rudaw.net/english/middleeast/syria/16082022"
   ],
   "original_url": "https://www.rudaw.net/english/middleeast/syria/16082022",
-  "page_title": "",
+  "page_title": "Turkey claims responsibility for YPG fighter death Turkey claims responsibility for YPG fighter death Turkey claims responsibility for YPG fighter death | Rudaw.net",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts545-august-10-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:52:54+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0a4cf8772d0275e39d0d7bfb",
   "source_type": "news_article",
   "stable_id_basis": "https://www.rudaw.net/english/middleeast/syria/16082022",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "SHARE ON\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on Telegram\n\nShare on Viber\n\nShare on Messenger\n\nSyrian authorities arrest officer over suspected killing of civilians in Suwayda\n\nPresident Masoud Barzani, US envoy discuss Syria\n\nPezeshkian says Iran-US talks ‘a step forward’\n\nJoint Kurdish delegation to visit Damascus soon: Politician\n\nSHARE ON\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on Telegram\n\nShare on Viber\n\nShare on Messenger\n\nComments\n\nRudaw moderates all comments submitted on our website. We welcome comments which are relevant to the article and encourage further discussion about the issues that matter to you. We also welcome constructive criticism about Rudaw.\n\nTo be approved for publication, however, your comments must meet our community guidelines.\n\nWe will not tolerate the following: profanity, threats, personal attacks, vulgarity, abuse (such as sexism, racism, homophobia or xenophobia), or commercial or personal promotion.\n\nComments that do not meet our guidelines will be rejected. Comments are not edited – they are either approved or rejected.\n\nPost a comment",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

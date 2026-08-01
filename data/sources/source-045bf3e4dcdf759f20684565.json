@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/mvGEW"
+    "https://archive.md/mvGEW",
+    "https://web.archive.org/web/20240811114229id_/https://www.zamanalwsl.net/news/article/141207https:/www.zamanalwsl.net/news/article/141207"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaman Al Wasl",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8e2842f9c85595338750350792bfe97839f46f6360b5d50487675c5730474e29",
+  "content_variants": [
+    {
+      "bytes": 289,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:52:49+00:00",
+      "sha256": "8e2842f9c85595338750350792bfe97839f46f6360b5d50487675c5730474e29",
+      "source_url": "https://web.archive.org/web/20240811114229id_/https://www.zamanalwsl.net/news/article/141207https:/www.zamanalwsl.net/news/article/141207",
+      "text": "07 تشرين الثاني 2021\n\nطيران مُسير يستهدف شخصاً مجهول الهوية في جرابلس شرقي حلب\n\n0\n\nالتعليقات\n\nجرابلس\n\nحلب\n\nاستهدف\n\nشخص\n\nطريق\n\nالوصل\n\nمجهولة\n\nطيران\n\nتعليقات حول الموضوع"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:52:49+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:52:49+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240811114229id_/https://www.zamanalwsl.net/news/article/141207https:/www.zamanalwsl.net/news/article/141207"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240811114229id_/https://www.zamanalwsl.net/news/article/141207https:/www.zamanalwsl.net/news/article/141207",
   "incident_ids": [
     "airwars-79890"
   ],
@@ -85,10 +109,10 @@
     "https://www.zamanalwsl.net/news/article/141207https://www.zamanalwsl.net/news/article/141207"
   ],
   "original_url": "https://www.zamanalwsl.net/news/article/141207https://www.zamanalwsl.net/news/article/141207",
-  "page_title": "",
+  "page_title": "طيران مُسير يستهدف شخصاً مجهول الهوية في جرابلس شرقي حلب | زمان الوصل طيران مُسير يستهدف شخصاً مجهول الهوية في جرابلس شرقي حلب طيران مُسير يستهدف شخصاً مجهول الهوية في جرابلس شرقي حلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1969-november-7-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:52:49+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-045bf3e4dcdf759f20684565",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.zamanalwsl.net/news/article/141207https://www.zamanalwsl.net/news/article/141207",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "07 تشرين الثاني 2021\n\nطيران مُسير يستهدف شخصاً مجهول الهوية في جرابلس شرقي حلب\n\n0\n\nالتعليقات\n\nجرابلس\n\nحلب\n\nاستهدف\n\nشخص\n\nطريق\n\nالوصل\n\nمجهولة\n\nطيران\n\nتعليقات حول الموضوع",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

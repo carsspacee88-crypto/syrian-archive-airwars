@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/fmNFE"
+    "https://archive.ph/fmNFE",
+    "https://web.archive.org/web/20220525171212id_/https://english.alaraby.co.uk/news/turkey-shells-kobane-us-calls-de-escalation"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "The New Arab",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "9d12a0ed9b0a2ed3bfd0aeec67b1cd191f3a883f94c591722e5faebd65fccccf",
+  "content_variants": [
+    {
+      "bytes": 3533,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:29:27+00:00",
+      "sha256": "9d12a0ed9b0a2ed3bfd0aeec67b1cd191f3a883f94c591722e5faebd65fccccf",
+      "source_url": "https://web.archive.org/web/20220525171212id_/https://english.alaraby.co.uk/news/turkey-shells-kobane-us-calls-de-escalation",
+      "text": "As Turkey shells Syria's Kobane, the US calls for 'de-escalation' amid continued IS fears\n\nThe US on Monday called for 'de-escalation' following the intensification of Turkish strikes against Kurdish-held areas in northern Syria amid continued fears of a resurgence of the Islamic State group.\n\nTurkey has stepped up its attacks on Kurdish armed groups in northern Syria and Iraq, including shelling and drone strikes.\n\nWe are deeply concerned by reports of shelling on Kobani and deplore any loss of civilian life. The United States calls on all parties to deescalate.\n— U.S. Embassy Syria (@USEmbassySyria) April 24, 2022\n\nWe are deeply concerned by reports of shelling on Kobani and deplore any loss of civilian life. The United States calls on all parties to deescalate.\n\nThe Kurdish Women’s Protection Units (YPJ) on Thursday announced that three fighters were killed in a Turkish drone strike on the outskirts of Kobane, northeast Syria, on Wednesday.\n\nThe following day, further Turkish strikes targeted the city centre and a nearby village, injuring two people.\n\n\"The targeting of Kobani, shelling of innocent civilians, & killings of administrative figures by drones are provocations that threaten security & peace & hinder anti-ISIS operations,” the commander-in-chief of the Kurdish-led Syrian Democratic Forces (SDF) Mazloum Abdi tweeted on Friday.\n\nTurkey is escalating violations of int'l covenants with guarantor countries against our regions. The targeting of Kobani, shelling of innocent civilians, & killings of administrative figures by drones are provocations that threaten security & peace & hinder anti-ISIS operations.\n— Mazloum Abdî مظلوم عبدي (@MazloumAbdi) April 22, 2022\n\nTurkey is escalating violations of int'l covenants with guarantor countries against our regions. The targeting of Kobani, shelling of innocent civilians, & killings of administrative figures by drones are provocations that threaten security & peace & hinder anti-ISIS operations.\n\nThe US-backed SDF acts as the military wing for the autonomous Kurdish administration and has spearheaded efforts to defeat the IS group in northeast Syria.\n\nTurkish shelling targeted several positions controlled by the SDF over the past week, including areas around Ayn Issa, Tal Abyad, Manbij, Tal Tamr.\n\nAt least six people have been killed and 10 wounded in the strikes, according to the Rojava Information Centre.\n\nIn response, the SDF shelled positions held by the Syrian National Army (SNA) - a Turkish-assembled force made up of former Syrian opposition elements - near the town of Marea, northern Aleppo province.\n\nKurdish-held areas bordering SNA-controlled areas are subjected to frequent shelling, despite an uneasy ceasefire existing between Turkey and the SDF.\n\nTurkey views the SDF as an extension of the Kurdistan Workers' Party (PKK), a Kurdish separatist group that originated in Turkey.\n\nThe PKK is designated as a terrorist organisation by Turkey, the EU, and US.\n\nTurkish President Recep Tayyip Erdogan has repeatedly said that he views the SDF presence on Turkey's southern border as an unacceptable security threat.\n\nThe Islamic State group remains a continued threat in Syria with the US keen to ease tensions between Turkey and Kurdish forces to prevent a security vaccum emerging.\n\nTags\n\nSyria\n\nTurkey\n\nnortheast Syria\n\nMore In News\n\nBiden advisers in Saudi for secret oil, Israel talks: report\n\nBrother of Algeria's Bouteflika acquitted of charges\n\nSweden says not funding or arming 'terrorist organisations'"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:29:27+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:29:27+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220525171212id_/https://english.alaraby.co.uk/news/turkey-shells-kobane-us-calls-de-escalation"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220525171212id_/https://english.alaraby.co.uk/news/turkey-shells-kobane-us-calls-de-escalation",
   "incident_ids": [
     "airwars-84334",
     "airwars-82749"
@@ -87,10 +111,10 @@
     "https://english.alaraby.co.uk/news/turkey-shells-kobane-us-calls-de-escalation"
   ],
   "original_url": "https://english.alaraby.co.uk/news/turkey-shells-kobane-us-calls-de-escalation",
-  "page_title": "",
+  "page_title": "Turkey shells Kobane, US calls for 'de-escalation' Turkey shells Kobane, US calls for 'de-escalation' Turkey shells Kobane, US calls for 'de-escalation'",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts502a-april-22-2022/",
@@ -118,15 +142,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:29:27+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-fba80acd96ff9797122e8deb",
   "source_type": "other_web_page",
   "stable_id_basis": "https://english.alaraby.co.uk/news/turkey-shells-kobane-us-calls-de-escalation",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "As Turkey shells Syria's Kobane, the US calls for 'de-escalation' amid continued IS fears\n\nThe US on Monday called for 'de-escalation' following the intensification of Turkish strikes against Kurdish-held areas in northern Syria amid continued fears of a resurgence of the Islamic State group.\n\nTurkey has stepped up its attacks on Kurdish armed groups in northern Syria and Iraq, including shelling and drone strikes.\n\nWe are deeply concerned by reports of shelling on Kobani and deplore any loss of civilian life. The United States calls on all parties to deescalate.\n— U.S. Embassy Syria (@USEmbassySyria) April 24, 2022\n\nWe are deeply concerned by reports of shelling on Kobani and deplore any loss of civilian life. The United States calls on all parties to deescalate.\n\nThe Kurdish Women’s Protection Units (YPJ) on Thursday announced that three fighters were killed in a Turkish drone strike on the outskirts of Kobane, northeast Syria, on Wednesday.\n\nThe following day, further Turkish strikes targeted the city centre and a nearby village, injuring two people.\n\n\"The targeting of Kobani, shelling of innocent civilians, & killings of administrative figures by drones are provocations that threaten security & peace & hinder anti-ISIS operations,” the commander-in-chief of the Kurdish-led Syrian Democratic Forces (SDF) Mazloum Abdi tweeted on Friday.\n\nTurkey is escalating violations of int'l covenants with guarantor countries against our regions. The targeting of Kobani, shelling of innocent civilians, & killings of administrative figures by drones are provocations that threaten security & peace & hinder anti-ISIS operations.\n— Mazloum Abdî مظلوم عبدي (@MazloumAbdi) April 22, 2022\n\nTurkey is escalating violations of int'l covenants with guarantor countries against our regions. The targeting of Kobani, shelling of innocent civilians, & killings of administrative figures by drones are provocations that threaten security & peace & hinder anti-ISIS operations.\n\nThe US-backed SDF acts as the military wing for the autonomous Kurdish administration and has spearheaded efforts to defeat the IS group in northeast Syria.\n\nTurkish shelling targeted several positions controlled by the SDF over the past week, including areas around Ayn Issa, Tal Abyad, Manbij, Tal Tamr.\n\nAt least six people have been killed and 10 wounded in the strikes, according to the Rojava Information Centre.\n\nIn response, the SDF shelled positions held by the Syrian National Army (SNA) - a Turkish-assembled force made up of former Syrian opposition elements - near the town of Marea, northern Aleppo province.\n\nKurdish-held areas bordering SNA-controlled areas are subjected to frequent shelling, despite an uneasy ceasefire existing between Turkey and the SDF.\n\nTurkey views the SDF as an extension of the Kurdistan Workers' Party (PKK), a Kurdish separatist group that originated in Turkey.\n\nThe PKK is designated as a terrorist organisation by Turkey, the EU, and US.\n\nTurkish President Recep Tayyip Erdogan has repeatedly said that he views the SDF presence on Turkey's southern border as an unacceptable security threat.\n\nThe Islamic State group remains a continued threat in Syria with the US keen to ease tensions between Turkey and Kurdish forces to prevent a security vaccum emerging.\n\nTags\n\nSyria\n\nTurkey\n\nnortheast Syria\n\nMore In News\n\nBiden advisers in Saudi for secret oil, Israel talks: report\n\nBrother of Algeria's Bouteflika acquitted of charges\n\nSweden says not funding or arming 'terrorist organisations'",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

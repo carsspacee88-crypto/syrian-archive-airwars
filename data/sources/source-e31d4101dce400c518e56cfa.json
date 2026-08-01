@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/HilKK"
+    "https://archive.is/HilKK",
+    "https://web.archive.org/web/20220923204221id_/https://eldorar.com/node/178084"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Eldorar",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "eb141b4623c4195042312aa690cdfbce4e830def2aa8241caa3c8fa4e7c457b0",
+  "content_variants": [
+    {
+      "bytes": 1051,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:27:46+00:00",
+      "sha256": "eb141b4623c4195042312aa690cdfbce4e830def2aa8241caa3c8fa4e7c457b0",
+      "source_url": "https://web.archive.org/web/20220923204221id_/https://eldorar.com/node/178084",
+      "text": "شنت ميليشيات نظام الأسد، اليوم الخميس، حملة قصف مكثفة على ريف حلب الغربي ما أسفر عن وقوع قتلى وجرحى في صفوف المدنيين.\n\nوقالت مصادر إعلامية محلية: \"إن ميليشيات نظام الأسد استهدفت بقذائف الهاون بلدة كفرعمة بريف حلب الغربي\".\n\nوأضافت: \"أن هذا القصف أسفر عن مقتل مدني بالإضافة إلى إصابة طفل بحروح بليغة تم نقله على إثرها إلى المستشفى\".\n\nوأردفت: \"أن ميليشيات الأسد استهدفت بـ8 قذائف أطراف مدينة دارة عزة الشرقية، دون ورود أنباء عن تسجيل إصابات\".\n\nيذكر أن نظام الأسد كثفوا في الآونة الأخيرة من غاراتهم التي تستهدف التجمعات السكنية والمنشآت المدنية، ما أدى ذلك إلى وقوع ضحايا في صفوف المدنيين."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:27:44+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:27:46+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220923204221id_/https://eldorar.com/node/178084"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220923204221id_/https://eldorar.com/node/178084",
   "incident_ids": [
     "airwars-84937"
   ],
@@ -85,10 +109,10 @@
     "https://eldorar.com/node/178084"
   ],
   "original_url": "https://eldorar.com/node/178084",
-  "page_title": "",
+  "page_title": "قتلى وجرحى مدنيون بقصف لميليشيات الأسد على ريف حلب الغربي قتلى وجرحى مدنيون بقصف لميليشيات الأسد على ريف حلب الغربي قتلى وجرحى مدنيون بقصف لميليشيات الأسد على ريف حلب الغربي | الدرر الشامية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4723-september-17-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:27:46+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e31d4101dce400c518e56cfa",
   "source_type": "other_web_page",
   "stable_id_basis": "https://eldorar.com/node/178084",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "شنت ميليشيات نظام الأسد، اليوم الخميس، حملة قصف مكثفة على ريف حلب الغربي ما أسفر عن وقوع قتلى وجرحى في صفوف المدنيين.\n\nوقالت مصادر إعلامية محلية: \"إن ميليشيات نظام الأسد استهدفت بقذائف الهاون بلدة كفرعمة بريف حلب الغربي\".\n\nوأضافت: \"أن هذا القصف أسفر عن مقتل مدني بالإضافة إلى إصابة طفل بحروح بليغة تم نقله على إثرها إلى المستشفى\".\n\nوأردفت: \"أن ميليشيات الأسد استهدفت بـ8 قذائف أطراف مدينة دارة عزة الشرقية، دون ورود أنباء عن تسجيل إصابات\".\n\nيذكر أن نظام الأسد كثفوا في الآونة الأخيرة من غاراتهم التي تستهدف التجمعات السكنية والمنشآت المدنية، ما أدى ذلك إلى وقوع ضحايا في صفوف المدنيين.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

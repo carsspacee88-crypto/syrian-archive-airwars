@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/bwbm6"
+    "https://archive.ph/bwbm6",
+    "https://web.archive.org/web/20240524221335id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0vbF44G53mTEdShK1R237zWXU4bFdwbWk2nCj2V1PFJLpAzfyrTkQ4zfZuquzdhJql&id=61551210861307"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Sarmin Alyoum",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "7d50f3250de236fc0c78deb6b90355e6d19837392c86412bca0338ec881f4e33",
+  "content_variants": [
+    {
+      "bytes": 559,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:53:36+00:00",
+      "sha256": "7d50f3250de236fc0c78deb6b90355e6d19837392c86412bca0338ec881f4e33",
+      "source_url": "https://web.archive.org/web/20240524221335id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0vbF44G53mTEdShK1R237zWXU4bFdwbWk2nCj2V1PFJLpAzfyrTkQ4zfZuquzdhJql&id=61551210861307",
+      "text": "إصابة مدنيين اثنين بجروح جراء قصف مدفعي لقوات النظام استهدف المزارعين في بلدة الفطيرة جنوبي #إدلب أثناء العمل بقطاف التين، اليوم الثلاثاء 19.. 9.. 2023...\n\nإصابة مدنيين اثنين بجروح جراء قصف مدفعي لقوات النظام استهدف المزارعين في بلدة الفطيرة جنوبي #إدلب أثناء العمل بقطاف التين، اليوم الثلاثاء 19.. 9.. 2023\nسرمين اليوم"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:53:34+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:53:36+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524221335id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0vbF44G53mTEdShK1R237zWXU4bFdwbWk2nCj2V1PFJLpAzfyrTkQ4zfZuquzdhJql&id=61551210861307"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524221335id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0vbF44G53mTEdShK1R237zWXU4bFdwbWk2nCj2V1PFJLpAzfyrTkQ4zfZuquzdhJql&id=61551210861307",
   "incident_ids": [
     "airwars-102811"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/permalink.php?story_fbid=pfbid0vbF44G53mTEdShK1R237zWXU4bFdwbWk2nCj2V1PFJLpAzfyrTkQ4zfZuquzdhJql&id=61551210861307"
   ],
   "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0vbF44G53mTEdShK1R237zWXU4bFdwbWk2nCj2V1PFJLpAzfyrTkQ4zfZuquzdhJql&id=61551210861307",
-  "page_title": "",
+  "page_title": "سرمين اليوم سرمين اليوم سرمين اليوم - إصابة مدنيين اثنين بجروح جراء قصف مدفعي...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4809-september-19-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:53:36+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-178146c7fbe2d9cee8181f22",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid0vbF44G53mTEdShK1R237zWXU4bFdwbWk2nCj2V1PFJLpAzfyrTkQ4zfZuquzdhJql&id=61551210861307",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة مدنيين اثنين بجروح جراء قصف مدفعي لقوات النظام استهدف المزارعين في بلدة الفطيرة جنوبي #إدلب أثناء العمل بقطاف التين، اليوم الثلاثاء 19.. 9.. 2023...\n\nإصابة مدنيين اثنين بجروح جراء قصف مدفعي لقوات النظام استهدف المزارعين في بلدة الفطيرة جنوبي #إدلب أثناء العمل بقطاف التين، اليوم الثلاثاء 19.. 9.. 2023\nسرمين اليوم",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

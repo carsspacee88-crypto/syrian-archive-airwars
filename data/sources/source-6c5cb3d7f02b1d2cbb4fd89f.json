@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/DLUTr"
+    "https://archive.md/DLUTr",
+    "https://web.archive.org/web/20240524200802id_/https://www.facebook.com/karolen.kar.9/posts/4865368076827549"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Karolen.kar.9",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a39bbd6d2896af05f4ad89de867e2ff88026d2cee522aa6b4ea2fe9c83fd5852",
+  "content_variants": [
+    {
+      "bytes": 612,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:10:55+00:00",
+      "sha256": "a39bbd6d2896af05f4ad89de867e2ff88026d2cee522aa6b4ea2fe9c83fd5852",
+      "source_url": "https://web.archive.org/web/20240524200802id_/https://www.facebook.com/karolen.kar.9/posts/4865368076827549",
+      "text": "#ريف_إدلب_الجنوبي 24/11/2021\nبلدة سرجة. :\nاستشهاد امرأة مُهجّرة من بلدة كفربطيخ وتبلغ من العمر 32 عام. وإصابة 3 مدنيين بجروح جرّاء غارات الإحتلال الروسي...\n\n#ريف_إدلب_الجنوبي 24/11/2021\nبلدة سرجة. :\nاستشهاد امرأة مُهجّرة من بلدة كفربطيخ وتبلغ من العمر 32 عام. وإصابة 3 مدنيين بجروح جرّاء غارات الإحتلال الروسي على أطراف بلدة سرجة،كما وشنت عدد من الغارات..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:10:54+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:10:55+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524200802id_/https://www.facebook.com/karolen.kar.9/posts/4865368076827549"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524200802id_/https://www.facebook.com/karolen.kar.9/posts/4865368076827549",
   "incident_ids": [
     "airwars-80283"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/karolen.kar.9/posts/4865368076827549"
   ],
   "original_url": "https://www.facebook.com/karolen.kar.9/posts/4865368076827549",
-  "page_title": "",
+  "page_title": "Mohamed Al Shami Mohamed Al Shami #ريف_إدلب_الجنوبي 24/11/2021\nبلدة سرجة.... - Mohamed Al Shami",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4672-november-25-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:10:55+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-6c5cb3d7f02b1d2cbb4fd89f",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/karolen.kar.9/posts/4865368076827549",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#ريف_إدلب_الجنوبي 24/11/2021\nبلدة سرجة. :\nاستشهاد امرأة مُهجّرة من بلدة كفربطيخ وتبلغ من العمر 32 عام. وإصابة 3 مدنيين بجروح جرّاء غارات الإحتلال الروسي...\n\n#ريف_إدلب_الجنوبي 24/11/2021\nبلدة سرجة. :\nاستشهاد امرأة مُهجّرة من بلدة كفربطيخ وتبلغ من العمر 32 عام. وإصابة 3 مدنيين بجروح جرّاء غارات الإحتلال الروسي على أطراف بلدة سرجة،كما وشنت عدد من الغارات...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

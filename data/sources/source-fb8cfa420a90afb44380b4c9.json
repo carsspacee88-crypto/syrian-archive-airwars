@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/N6mmB"
+    "https://archive.ph/N6mmB",
+    "https://web.archive.org/web/20240529160352id_/https://anfarabic.com/%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86/tayrt-msyrt-llahtlal-altrky-tsthdf-syart-ly-tryq-qamshlw-amwda-94837"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d82c9055db89a9cc4204ecf40f3da922d89cfb0230356923a8afa43e252b7106",
+  "content_variants": [
+    {
+      "bytes": 435,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:29:06+00:00",
+      "sha256": "d82c9055db89a9cc4204ecf40f3da922d89cfb0230356923a8afa43e252b7106",
+      "source_url": "https://web.archive.org/web/20240529160352id_/https://anfarabic.com/%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86/tayrt-msyrt-llahtlal-altrky-tsthdf-syart-ly-tryq-qamshlw-amwda-94837",
+      "text": "وكالة فرات\n\nمركز الاخبار\n\nالأربعاء, ٢٣ أغسطس ٢٠٢٣, ١٧:٣٧\n\nاستهدفت طائرة مسيرة لجيش الاحتلال التركي بعد ظهر اليوم سيارة بالقرب من مفرق قرية تل شعيرعلى طريق قامشلو عامودا، وبحسب المعلومات الاولية ان السيارة كانت تقل عدد من الصحفيين والصحفيات."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:29:06+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:29:06+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240529160352id_/https://anfarabic.com/%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86/tayrt-msyrt-llahtlal-altrky-tsthdf-syart-ly-tryq-qamshlw-amwda-94837"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240529160352id_/https://anfarabic.com/%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86/tayrt-msyrt-llahtlal-altrky-tsthdf-syart-ly-tryq-qamshlw-amwda-94837",
   "incident_ids": [
     "airwars-92625"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/كردستان/tayrt-msyrt-llahtlal-altrky-tsthdf-syart-ly-tryq-qamshlw-amwda-94837"
   ],
   "original_url": "https://anfarabic.com/كردستان/tayrt-msyrt-llahtlal-altrky-tsthdf-syart-ly-tryq-qamshlw-amwda-94837",
-  "page_title": "",
+  "page_title": "ANF |\nطائرة مسيرة للاحتلال التركي تستهدف سيارة على طريق قامشلو عامودا-تم التحديث طائرة مسيرة للاحتلال التركي تستهدف سيارة على طريق قامشلو عامودا-تم التحديث طائرة مسيرة للاحتلال التركي تستهدف سيارة على طريق قامشلو عامودا-تم التحديث",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts624-august-23-2023/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:29:06+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-fb8cfa420a90afb44380b4c9",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfarabic.com/كردستان/tayrt-msyrt-llahtlal-altrky-tsthdf-syart-ly-tryq-qamshlw-amwda-94837",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "en",
+  "text_original": "وكالة فرات\n\nمركز الاخبار\n\nالأربعاء, ٢٣ أغسطس ٢٠٢٣, ١٧:٣٧\n\nاستهدفت طائرة مسيرة لجيش الاحتلال التركي بعد ظهر اليوم سيارة بالقرب من مفرق قرية تل شعيرعلى طريق قامشلو عامودا، وبحسب المعلومات الاولية ان السيارة كانت تقل عدد من الصحفيين والصحفيات.",
+  "text_original_language": "ar",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

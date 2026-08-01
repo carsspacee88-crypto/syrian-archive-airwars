@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/Qt6q0"
+    "https://archive.ph/Qt6q0",
+    "https://web.archive.org/web/20250519181948id_/https://npasyria.com/186575/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "712dc08357015d8ee7eb734c10f2c7ae68d9d80534e7b0d5552b5f836ae3b418",
+  "content_variants": [
+    {
+      "bytes": 1101,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:57:56+00:00",
+      "sha256": "712dc08357015d8ee7eb734c10f2c7ae68d9d80534e7b0d5552b5f836ae3b418",
+      "source_url": "https://web.archive.org/web/20250519181948id_/https://npasyria.com/186575/",
+      "text": "فقدان امرأة لحياتها وإصابة آخرين بقصف تركي على منبج\n\nقصف تركي على ريف منبج - نورث برس/ أرشيفية\n\nمنبج – نورث برس\n\nفقدت امرأة حياتها وأصيب خمسة أشخاص آخرين، الخميس، في قصف تركي مستمر منذ منتصف ليلة الأمس حتى ساعة إعداد الخبر.\n\nواستهدفت القوات التركية وفصائل المعارضة التابعة لها، أرياف منبج بأكثر من 150 قذيفة هاون ومدفعية.\n\nوفقدت امرأة حياتها في القصف التركي على قرية أم السطح بريف منبج الغربي، بحسب فضائية “روناهي” الكردية.\n\nوأصيب أربع أشخاص من عائلة واحدة في قرية عوسجلي بريف منبج، نتيجة القصف التركي المستمر على المنطقة منذ أكثر من أسبوع.\n\nونُقل المصابون إلى أحد مشافي المدينة لتلقي العلاج.\n\nتحرير: تيسير محمد"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:57:56+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:57:56+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250519181948id_/https://npasyria.com/186575/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250519181948id_/https://npasyria.com/186575/",
   "incident_ids": [
     "airwars-117008"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/186575/"
   ],
   "original_url": "https://npasyria.com/186575/",
-  "page_title": "",
+  "page_title": "فقدان امرأة لحياتها وإصابة آخرين بقصف تركي على منبج فقدان امرأة لحياتها وإصابة آخرين بقصف تركي على منبج",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts697-may-23-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:57:56+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2f23a68e448306c86970e163",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/186575/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "فقدان امرأة لحياتها وإصابة آخرين بقصف تركي على منبج\n\nقصف تركي على ريف منبج - نورث برس/ أرشيفية\n\nمنبج – نورث برس\n\nفقدت امرأة حياتها وأصيب خمسة أشخاص آخرين، الخميس، في قصف تركي مستمر منذ منتصف ليلة الأمس حتى ساعة إعداد الخبر.\n\nواستهدفت القوات التركية وفصائل المعارضة التابعة لها، أرياف منبج بأكثر من 150 قذيفة هاون ومدفعية.\n\nوفقدت امرأة حياتها في القصف التركي على قرية أم السطح بريف منبج الغربي، بحسب فضائية “روناهي” الكردية.\n\nوأصيب أربع أشخاص من عائلة واحدة في قرية عوسجلي بريف منبج، نتيجة القصف التركي المستمر على المنطقة منذ أكثر من أسبوع.\n\nونُقل المصابون إلى أحد مشافي المدينة لتلقي العلاج.\n\nتحرير: تيسير محمد",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
