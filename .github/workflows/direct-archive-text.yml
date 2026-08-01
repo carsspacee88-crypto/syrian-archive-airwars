@@ -31,7 +31,7 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
-      - run: python -m pip install -r requirements.txt socksio
+      - run: python -m pip install -r requirements.txt
       - name: استخراج النصوص من صفحات الأرشيف فقط
         run: |
           python scripts/direct_archive_text_ingest.py \
