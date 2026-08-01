@@ -7,6 +7,7 @@ from celery import Celery
 from sqlalchemy import select
 
 from archive_pipeline.speed_pilot import SpeedPilotRunner
+from archive_pipeline.v4 import RESOLVED_OUTCOME_STATUSES
 
 from .config import get_settings
 from .db import session_factory
@@ -59,7 +60,7 @@ def _reset_failed_progress(runner: SpeedPilotRunner) -> tuple[int, int]:
     source_failed = {
         source_id
         for source_id, outcome in (runner.progress.get("source_outcomes") or {}).items()
-        if outcome.get("status") not in {"successful", "cached"}
+        if outcome.get("status") not in RESOLVED_OUTCOME_STATUSES
     }
     runner.progress["incident_completed_sequences"] = [
         value
@@ -125,7 +126,7 @@ def _sync_progress(
                 status,
                 attempts=int(timing.get("attempts") or 0),
                 duration_seconds=float(timing.get("duration_seconds") or 0),
-                error=None if status == "successful" else status,
+                error=None if status in RESOLVED_OUTCOME_STATUSES else status,
                 detail={
                     "cache_hit": bool(outcome.get("cache_hit")),
                     "archive_deferred": bool(outcome.get("archive_deferred")),
@@ -133,7 +134,7 @@ def _sync_progress(
             )
         job.source_completed = len(outcomes)
         job.source_failed = sum(
-            str(outcome.get("status") or "") not in {"successful", "cached"}
+            str(outcome.get("status") or "") not in RESOLVED_OUTCOME_STATUSES
             for outcome in outcomes.values()
         )
         if result and result.get("total") is not None:
@@ -261,6 +262,13 @@ def run_collection(self, job_id: str) -> dict[str, Any]:
             if action or not result.get("done"):
                 return {"status": "stopped"}
 
+        if retry_failed and runner.recovery.summary()["pending"]:
+            _set_stage(job_id, "recovery", "بدأ استرداد العناصر الخارجية المؤجلة")
+            result = runner.run("recover", settings.source_chunk_size)
+            _sync_progress(job_id, runner, result)
+            if _control_action(job_id):
+                return {"status": "stopped"}
+
         if write_report:
             _set_stage(job_id, "report", "إنشاء تقرير المهمة النهائي")
             runner.run("report")
@@ -280,7 +288,11 @@ def run_collection(self, job_id: str) -> dict[str, Any]:
             add_event(
                 session,
                 job,
-                "انتهت المهمة",
+                (
+                    "انتهت المهمة؛ كل العناصر حُفظت، والمتعذر الخارجي بقي في طابور الاسترداد"
+                    if runner.recovery.summary()["pending"]
+                    else "انتهت المهمة"
+                ),
                 level="warning" if job.status.endswith("errors") else "info",
             )
             session.commit()

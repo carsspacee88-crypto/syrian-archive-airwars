@@ -12,6 +12,7 @@ from typing import Any, Callable
 
 from . import PILOT_PARSER_VERSION, PILOT_SCHEMA_VERSION, TRANSLATION_VERSION
 from .collector import collect_one
+from .extractors import extract_payload
 from .fetcher import AsyncHostFetcher, CircuitBreakingFetcher, FetchResult
 from .io_utils import atomic_write_json, clean_text, load_json, sha256_bytes, utc_now
 from .legacy import LegacyArchive
@@ -23,8 +24,6 @@ from .pilot import (
     LOGIN_WALL_MARKERS,
     _append_unique,
     _classify_fetch_failure,
-    _extract_html,
-    _extract_pdf,
     _legacy_source_seed,
     _normalized_source_seed,
     _record_exact_url_observations,
@@ -33,6 +32,15 @@ from .pilot import (
     detect_language,
     normalize_source_url,
     stable_source_id,
+)
+from .v4 import (
+    ENGINE_VERSION,
+    RecoveryQueue,
+    fair_host_order,
+    source_has_text,
+    source_host,
+    source_is_policy_complete,
+    timing_summary,
 )
 
 
@@ -209,7 +217,7 @@ class SpeedPilotRunner:
         delay: float = 0.75,
         timeout: float = 10.0,
         retries: int = 1,
-        workers: int = 6,
+        workers: int = 64,
         per_host_workers: int = 1,
     ):
         self.root = root.resolve()
@@ -230,7 +238,9 @@ class SpeedPilotRunner:
         self.report_path = self.root / "data" / "reports" / f"speed-pilot-{self.key}.json"
         self.report_markdown_path = self.report_path.with_suffix(".md")
         self.relationship_path = self.root / "data" / "relationships" / f"incident-sources-{self.key}.json"
+        self.recovery_path = self.root / "data" / "recovery" / f"v4-{self.key}.json"
         self.progress = load_json(self.progress_path, {}) or {}
+        self.progress.setdefault("engine_version", ENGINE_VERSION)
         self.progress.setdefault("pilot", f"speed-pilot-{self.key}")
         self.progress.setdefault("scope", {
             "first_sequence": first_sequence,
@@ -246,11 +256,14 @@ class SpeedPilotRunner:
         self.progress.setdefault("stage_runs", [])
         self.progress.setdefault("incident_fetch_stats", {})
         self.progress.setdefault("source_fetch_stats", {})
+        self.progress.setdefault("recovery_runs", [])
         self.cache = load_json(self.cache_path, {}) or {}
         self.cache.setdefault("schema_version", "1.0.0")
         self.cache.setdefault("urls", {})
+        self.recovery = RecoveryQueue(self.recovery_path, self.progress["scope"])
 
     def save_progress(self) -> None:
+        self.progress["engine_version"] = ENGINE_VERSION
         self.progress["updated_at"] = utc_now()
         atomic_write_json(self.progress_path, self.progress)
 
@@ -468,12 +481,17 @@ class SpeedPilotRunner:
 
     @staticmethod
     def _extract_into(record: dict[str, Any], result: FetchResult, provenance: str) -> None:
-        content_type = result.content_type.casefold()
-        source_type = record["source_type"]
         extraction_started = time.monotonic()
         try:
-            if "pdf" in content_type or source_type == "pdf_document":
-                extracted = _extract_pdf(result.body)
+            extracted = extract_payload(
+                result.body,
+                result.content_type,
+                result.final_url,
+                str(record.get("source_type") or ""),
+            )
+            detected_format = str(extracted.get("format") or "unsupported")
+            record["detected_format"] = detected_format
+            if detected_format == "pdf":
                 record["pdf"] = {
                     "byte_size": len(result.body),
                     "sha256": sha256_bytes(result.body),
@@ -482,15 +500,12 @@ class SpeedPilotRunner:
                     "binary_committed": False,
                 }
                 record["extraction_status"] = "ocr_pending" if extracted.get("ocr_pending") else "text_extracted"
-            elif "html" in content_type or result.body.lstrip().startswith((b"<!doctype", b"<html", b"<HTML")):
-                extracted = _extract_html(result.body, result.final_url)
-                record["extraction_status"] = "text_extracted" if extracted["text"] else "parsing_failed"
-            elif "text/" in content_type:
-                extracted = {"title": "", "author": "", "publication_date": "", "text": clean_text(result.body.decode("utf-8", errors="replace"))}
-                record["extraction_status"] = "text_extracted" if extracted["text"] else "parsing_failed"
+            elif detected_format != "unsupported":
+                record["extraction_status"] = "text_extracted" if extracted.get("text") else "parsing_failed"
             else:
                 record["retrieval_status"] = "unsupported_content_type"
                 record["extraction_status"] = "media_metadata_only"
+                record["preservation_status"] = "external_only"
                 record["failure_reason"] = f"unsupported_content_type:{result.content_type}"
                 return
         except Exception as error:
@@ -530,7 +545,8 @@ class SpeedPilotRunner:
             record["retrieval_status"] = "successful"
             record["failure_reason"] = None
             self._extract_into(record, result, "source_live")
-            return record, False
+            needs_recovery = not source_has_text(record) and record.get("extraction_status") != "media_metadata_only"
+            return record, needs_recovery
         taxonomy = "login_required" if access_wall else _classify_fetch_failure(result.status, result.error, preview)
         if result.status not in {None, 401, 403, 408, 425, 429, 500, 502, 503, 504}:
             fetcher.note_application_failure(record["original_url"], False, taxonomy)
@@ -603,12 +619,33 @@ class SpeedPilotRunner:
 
     def _finish_source(self, record: dict[str, Any], started: float, outcome: dict[str, Any]) -> None:
         source_id = record["source_id"]
+        attempt_offset = int(record.pop("_v4_attempt_offset", 0) or 0)
+        save_started = time.monotonic()
         atomic_write_json(self.root / "data" / "sources" / f"{source_id}.json", record)
+        save_seconds = round(time.monotonic() - save_started, 6)
         duration = round(time.monotonic() - started, 3)
+        attempt_rows = [
+            row
+            for row in (record.get("attempt_history") or [])[attempt_offset:]
+            if isinstance(row, dict)
+        ]
+        network_seconds = sum(float(row.get("elapsed_seconds") or 0) for row in attempt_rows)
+        throttle_seconds = sum(float(row.get("waiting_seconds") or 0) for row in attempt_rows)
+        extraction_seconds = float((record.get("timing") or {}).get("text_extraction_seconds") or 0)
+        queue_seconds = max(
+            0.0,
+            duration - network_seconds - throttle_seconds - extraction_seconds - save_seconds,
+        )
         self.progress["source_timings"] = [row for row in self.progress["source_timings"] if row.get("source_id") != source_id]
         self.progress["source_timings"].append({
             "source_id": source_id,
+            "host": source_host(str(record.get("original_url") or "")),
             "duration_seconds": duration,
+            "network_seconds": round(network_seconds, 6),
+            "throttle_seconds": round(throttle_seconds, 6),
+            "queue_seconds": round(queue_seconds, 6),
+            "save_seconds": save_seconds,
+            "extraction_seconds": round(extraction_seconds, 6),
             "status": record.get("retrieval_status"),
             "attempts": sum(int(row.get("attempts") or 0) for row in record.get("attempt_history") or [] if isinstance(row, dict)),
             "finished_at": utc_now(),
@@ -631,8 +668,6 @@ class SpeedPilotRunner:
             circuit_threshold=3,
             circuit_reprobe_every=100,
         )
-        archive_queue: list[dict[str, Any]] = []
-
         async def live_job(record: dict[str, Any]) -> tuple[dict[str, Any], bool]:
             try:
                 return await self._live_source(fetcher, record)
@@ -646,53 +681,54 @@ class SpeedPilotRunner:
                     "error": record["failure_reason"],
                     "attempts": 0,
                 })
-                return record, False
-
-        async def archive_job(record: dict[str, Any]) -> dict[str, Any]:
-            try:
-                return await self._archive_source(fetcher, record)
-            except Exception as error:
-                record["retrieval_status"] = "failed"
-                record["failure_reason"] = f"{type(error).__name__}:{error}"
-                record.setdefault("attempt_history", []).append({
-                    "attempted_at": utc_now(),
-                    "attempt_role": "archive_retry",
-                    "result": "task_failed",
-                    "error": record["failure_reason"],
-                    "attempts": 0,
-                })
-                return record
+                return record, True
 
         async with fetcher:
-            live_tasks = [asyncio.create_task(live_job(record)) for record in records]
+            live_tasks = [asyncio.create_task(live_job(record)) for record in fair_host_order(records)]
             for future in asyncio.as_completed(live_tasks):
                 record, needs_archive = await future
                 if needs_archive:
-                    atomic_write_json(self.root / "data" / "sources" / f"{record['source_id']}.json", record)
-                    archive_queue.append(record)
+                    record["recovery"] = {
+                        "status": "deferred",
+                        "queue": self.recovery_path.relative_to(self.root).as_posix(),
+                        "queued_at": utc_now(),
+                        "reason": record.get("failure_reason") or record.get("retrieval_status"),
+                    }
+                    self.recovery.defer(record)
+                    self._finish_source(record, starts[record["source_id"]], {
+                        "cache_hit": False,
+                        "archive_deferred": True,
+                        "status": "deferred_recovery",
+                    })
                 else:
                     deferred = (record.get("archive_retry") or {}).get("status") == "deferred_low_priority"
+                    if source_has_text(record) or source_is_policy_complete(record):
+                        self.recovery.resolve(
+                            record,
+                            "successful" if source_has_text(record) else "policy_complete",
+                        )
                     self._finish_source(record, starts[record["source_id"]], {
                         "cache_hit": False,
                         "archive_deferred": deferred,
-                        "status": record.get("retrieval_status"),
+                        "status": "successful" if source_has_text(record) else "policy_complete",
                     })
                     print(f"speed source live {record['source_id']} -> {record.get('retrieval_status')}", flush=True)
-            archive_tasks = [asyncio.create_task(archive_job(record)) for record in archive_queue]
-            for future in asyncio.as_completed(archive_tasks):
-                record = await future
-                self._finish_source(record, starts[record["source_id"]], {
-                    "cache_hit": False,
-                    "archive_deferred": False,
-                    "status": record.get("retrieval_status"),
-                })
-                print(f"speed source archive {record['source_id']} -> {record.get('retrieval_status')}", flush=True)
         self.progress["source_fetch_stats"] = _merge_stats(self.progress.get("source_fetch_stats", {}), fetcher.stats())
         self.save_progress()
 
     def collect_sources(self, max_items: int | None = None) -> dict[str, Any]:
         seeds, incident_sources, exact_urls = self._source_seeds()
-        completed = set(self.progress["source_completed_ids"])
+        completed: set[str] = set()
+        outcomes = self.progress.get("source_outcomes") or {}
+        for source_id in self.progress["source_completed_ids"]:
+            previous = load_json(self.root / "data" / "sources" / f"{source_id}.json", {}) or {}
+            outcome = str((outcomes.get(source_id) or {}).get("status") or "")
+            if (
+                source_has_text(previous)
+                or source_is_policy_complete(previous)
+                or outcome in {"policy_complete", "deferred_recovery"}
+            ):
+                completed.add(source_id)
         pending = [source_id for source_id in sorted(seeds) if source_id not in completed]
         if max_items is not None:
             pending = pending[:max_items]
@@ -702,6 +738,7 @@ class SpeedPilotRunner:
             path = self.root / "data" / "sources" / f"{source_id}.json"
             previous = load_json(path, {}) or {}
             record = _merge_previous_source(seeds[source_id], previous)
+            record["_v4_attempt_offset"] = len(record.get("attempt_history") or [])
             if self._cache_hit(source_id, previous):
                 record["cache_status"] = "persistent_url_cache_hit"
                 record["attempt_history"].append({
@@ -711,10 +748,11 @@ class SpeedPilotRunner:
                     "result": "persistent_url_cache_hit",
                     "attempts": 0,
                 })
+                self.recovery.resolve(record, "cached")
                 self._finish_source(record, starts[source_id], {
                     "cache_hit": True,
                     "archive_deferred": False,
-                    "status": record.get("retrieval_status"),
+                    "status": "cached",
                 })
                 continue
             if record["source_type"] in {"direct_image_url", "direct_video_url", "direct_audio_url"}:
@@ -728,16 +766,27 @@ class SpeedPilotRunner:
                     "result": "not_downloaded_by_media_policy",
                     "attempts": 0,
                 })
+                self.recovery.resolve(record, "policy_complete")
                 self._finish_source(record, starts[source_id], {
                     "cache_hit": False,
                     "archive_deferred": False,
-                    "status": record["retrieval_status"],
+                    "status": "policy_complete",
                 })
                 continue
             network_records.append(record)
         if network_records:
             asyncio.run(self._collect_source_batch(network_records, starts))
-        completed_count = len(set(self.progress["source_completed_ids"]) & set(seeds))
+        completed_ids: set[str] = set()
+        for source_id in seeds:
+            record = load_json(self.root / "data" / "sources" / f"{source_id}.json", {}) or {}
+            outcome = str((outcomes.get(source_id) or {}).get("status") or "")
+            if (
+                source_has_text(record)
+                or source_is_policy_complete(record)
+                or outcome in {"policy_complete", "deferred_recovery"}
+            ):
+                completed_ids.add(source_id)
+        completed_count = len(completed_ids)
         done = completed_count == len(seeds)
         if done:
             relationships = [
@@ -764,7 +813,100 @@ class SpeedPilotRunner:
             "total": len(seeds),
             "exact_content_duplicate_groups": duplicate_groups,
             "duplicate_records_updated": duplicate_records_updated,
+            "recovery": self.recovery.summary(),
         }
+
+    async def _recover_source_batch(
+        self,
+        records: list[dict[str, Any]],
+        starts: dict[str, float],
+    ) -> None:
+        fetcher = AsyncHostFetcher(
+            delay_seconds=self.delay,
+            timeout_seconds=self.timeout,
+            retries=self.retries,
+            workers=self.workers,
+            per_host_workers=self.per_host_workers,
+            circuit_state=self.progress.get("source_fetch_stats", {}).get("circuit_state"),
+            circuit_threshold=3,
+            circuit_reprobe_every=max(10, len(records)),
+        )
+
+        async def recovery_job(record: dict[str, Any]) -> dict[str, Any]:
+            try:
+                record, needs_archive = await self._live_source(fetcher, record)
+                if needs_archive:
+                    record = await self._archive_source(fetcher, record)
+                return record
+            except Exception as error:
+                record["retrieval_status"] = "failed"
+                record["failure_reason"] = f"{type(error).__name__}:{error}"
+                record.setdefault("attempt_history", []).append({
+                    "attempted_at": utc_now(),
+                    "attempt_role": "recovery",
+                    "result": "task_failed",
+                    "error": record["failure_reason"],
+                    "attempts": 0,
+                })
+                return record
+
+        async with fetcher:
+            tasks = [asyncio.create_task(recovery_job(record)) for record in fair_host_order(records)]
+            for future in asyncio.as_completed(tasks):
+                record = await future
+                source_id = record["source_id"]
+                self.recovery.note_attempt(source_id, str(record.get("retrieval_status") or "failed"))
+                if source_has_text(record):
+                    record["recovery"] = {"status": "resolved", "resolved_at": utc_now()}
+                    self.recovery.resolve(record, "successful")
+                    outcome = "successful"
+                elif source_is_policy_complete(record) or record.get("extraction_status") == "media_metadata_only":
+                    record["recovery"] = {"status": "policy_complete", "resolved_at": utc_now()}
+                    self.recovery.resolve(record, "policy_complete")
+                    outcome = "policy_complete"
+                else:
+                    record["recovery"] = {
+                        "status": "deferred",
+                        "queue": self.recovery_path.relative_to(self.root).as_posix(),
+                        "queued_at": utc_now(),
+                        "reason": record.get("failure_reason") or record.get("retrieval_status"),
+                    }
+                    self.recovery.defer(record)
+                    outcome = "deferred_recovery"
+                self._finish_source(record, starts[source_id], {
+                    "cache_hit": False,
+                    "archive_deferred": outcome == "deferred_recovery",
+                    "status": outcome,
+                })
+                print(f"v4 recovery {source_id} -> {outcome}", flush=True)
+        self.progress["source_fetch_stats"] = _merge_stats(
+            self.progress.get("source_fetch_stats", {}), fetcher.stats()
+        )
+        self.save_progress()
+
+    def recover_sources(self, max_items: int | None = None) -> dict[str, Any]:
+        seeds, _, _ = self._source_seeds()
+        selected_ids = [source_id for source_id in self.recovery.select(max_items) if source_id in seeds]
+        starts = {source_id: time.monotonic() for source_id in selected_ids}
+        records: list[dict[str, Any]] = []
+        for source_id in selected_ids:
+            previous = load_json(self.root / "data" / "sources" / f"{source_id}.json", {}) or {}
+            record = _merge_previous_source(seeds[source_id], previous)
+            record["_v4_attempt_offset"] = len(record.get("attempt_history") or [])
+            records.append(record)
+        if records:
+            asyncio.run(self._recover_source_batch(records, starts))
+        summary = self.recovery.summary()
+        result = {
+            "done": summary["pending"] == 0,
+            "processed": len(selected_ids),
+            "completed": summary["resolved"],
+            "total": summary["pending"] + summary["resolved"],
+            "recovery": summary,
+        }
+        self.progress["recovery_runs"].append({"recorded_at": utc_now(), **result})
+        self.save_progress()
+        return result
 
     def write_report(self) -> dict[str, Any]:
         seeds, _, _ = self._source_seeds()
@@ -775,14 +917,38 @@ class SpeedPilotRunner:
         source_timings = [row for row in self.progress["source_timings"] if row.get("source_id") in seeds]
         incident_wall = sum(float(row.get("duration_seconds") or 0) for row in self.progress["stage_runs"] if row.get("stage") == "incident_collection")
         source_wall = sum(float(row.get("duration_seconds") or 0) for row in self.progress["stage_runs"] if row.get("stage") == "source_collection")
-        actual_wall = incident_wall + source_wall
+        recovery_wall = sum(float(row.get("duration_seconds") or 0) for row in self.progress["stage_runs"] if row.get("stage") == "recovery")
+        actual_wall = incident_wall + source_wall + recovery_wall
         baseline = load_json(self.root / "data" / "reports" / "first-100-timing.json", {}) or {}
         baseline_incident_mean = float((baseline.get("incident") or {}).get("mean_seconds") or 0)
         baseline_source_mean = float((baseline.get("source") or {}).get("mean_seconds") or 0)
         baseline_equivalent = baseline_incident_mean * len(self.sequences) + baseline_source_mean * len(sources)
         outcomes = self.progress.get("source_outcomes") or {}
+        recovery_summary = self.recovery.summary()
+        texts_preserved = sum(source_has_text(row) for row in sources)
+        policy_completed = sum(
+            source_is_policy_complete(row)
+            or str((outcomes.get(source_id) or {}).get("status") or "") == "policy_complete"
+            for source_id, row in zip(sorted(seeds), sources)
+        )
+        deferred_recovery = sum(
+            str((outcomes.get(source_id) or {}).get("status") or "") == "deferred_recovery"
+            for source_id in seeds
+        )
+        host_rows: dict[str, dict[str, Any]] = {}
+        for row in source_timings:
+            host = str(row.get("host") or "unknown")
+            entry = host_rows.setdefault(host, {"processed": 0, "total_seconds": 0.0, "throttle_seconds": 0.0})
+            entry["processed"] += 1
+            entry["total_seconds"] += float(row.get("duration_seconds") or 0)
+            entry["throttle_seconds"] += float(row.get("throttle_seconds") or 0)
+        for entry in host_rows.values():
+            entry["total_seconds"] = round(entry["total_seconds"], 3)
+            entry["throttle_seconds"] = round(entry["throttle_seconds"], 3)
         report = {
             "generated_at": utc_now(),
+            "engine_version": ENGINE_VERSION,
+            "status": "completed_with_deferred_recovery" if recovery_summary["pending"] else "completed",
             "scope": self.progress["scope"],
             "translation_policy": "disabled_by_user",
             "media_binaries_downloaded": 0,
@@ -792,7 +958,8 @@ class SpeedPilotRunner:
                 "per_host_delay_seconds": self.delay,
                 "timeout_seconds": self.timeout,
                 "retries": self.retries,
-                "passes": ["live", "archive_retry_only_when_original_text_missing"],
+                "scheduler": "fair_host_round_robin",
+                "passes": ["live_primary", "durable_recovery_on_later_action_run"],
             },
             "incidents": {
                 "count": len(incidents),
@@ -803,11 +970,19 @@ class SpeedPilotRunner:
             "sources": {
                 "unique": len(sources),
                 "status_counts": dict(Counter(row.get("retrieval_status") or "missing" for row in sources)),
-                "texts_preserved": sum(bool(row.get("text_original")) for row in sources),
+                "texts_preserved": texts_preserved,
+                "text_coverage_percent": round((texts_preserved / len(sources)) * 100, 1) if sources else 0,
                 "cache_hits": sum(bool((outcomes.get(source_id) or {}).get("cache_hit")) for source_id in seeds),
-                "archive_deferred_existing_text": sum(bool((outcomes.get(source_id) or {}).get("archive_deferred")) for source_id in seeds),
+                "policy_completed": policy_completed,
+                "deferred_recovery": deferred_recovery,
                 "mean_task_seconds": round(statistics.mean(float(row.get("duration_seconds") or 0) for row in source_timings), 3) if source_timings else 0,
                 "wall_seconds": round(source_wall, 3),
+            },
+            "recovery": recovery_summary,
+            "performance": {
+                "timings": timing_summary(source_timings),
+                "hosts": dict(sorted(host_rows.items(), key=lambda item: (-item[1]["processed"], item[0]))),
+                "recovery_wall_seconds": round(recovery_wall, 3),
             },
             "fetching": {
                 "incident": self.progress.get("incident_fetch_stats") or {},
@@ -830,13 +1005,15 @@ class SpeedPilotRunner:
         }
         atomic_write_json(self.report_path, report)
         markdown = [
-            f"# Speed pilot {self.key}",
+            f"# V4 collection {self.key}",
             "",
+            f"- Engine: **{ENGINE_VERSION}**",
             f"- Incidents: **{len(incidents)}**",
             f"- Unique sources: **{len(sources)}**",
             f"- Preserved source texts: **{report['sources']['texts_preserved']}**",
+            f"- Text coverage: **{report['sources']['text_coverage_percent']}%**",
+            f"- Deferred to durable recovery: **{report['recovery']['pending']}**",
             f"- Persistent cache hits: **{report['sources']['cache_hits']}**",
-            f"- Archive lookups deferred because text already existed: **{report['sources']['archive_deferred_existing_text']}**",
             f"- Actual collection wall clock: **{report['comparison']['actual_collection_wall_seconds']} seconds**",
             f"- Normalized serial baseline: **{report['comparison']['baseline_equivalent_seconds']} seconds**",
             f"- Measured speedup: **{report['comparison']['speedup_factor']}x**",
@@ -847,7 +1024,7 @@ class SpeedPilotRunner:
         self.report_markdown_path.parent.mkdir(parents=True, exist_ok=True)
         self.report_markdown_path.write_text("\n".join(markdown), encoding="utf-8")
         self.progress["finished_at"] = utc_now()
-        self.progress["result"] = "complete"
+        self.progress["result"] = report["status"]
         self.save_progress()
         return report
 
@@ -856,6 +1033,7 @@ class SpeedPilotRunner:
             "manifest": ("manifest", self.build_manifest),
             "incidents": ("incident_collection", lambda: self.collect_incidents(max_items)),
             "sources": ("source_collection", lambda: self.collect_sources(max_items)),
+            "recover": ("recovery", lambda: self.recover_sources(max_items)),
             "report": ("report", lambda: {"done": True, "report": self.write_report()}),
         }
         stage_name, function = stages[stage]
@@ -875,9 +1053,9 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--delay", type=float, default=0.75)
     parser.add_argument("--timeout", type=float, default=10.0)
     parser.add_argument("--retries", type=int, default=1)
-    parser.add_argument("--workers", type=int, default=6)
+    parser.add_argument("--workers", type=int, default=64)
     parser.add_argument("--per-host-workers", type=int, default=1)
-    parser.add_argument("--stage", choices=("manifest", "incidents", "sources", "report"), required=True)
+    parser.add_argument("--stage", choices=("manifest", "incidents", "sources", "recover", "report"), required=True)
     parser.add_argument("--max-items", type=int)
     return parser
 
