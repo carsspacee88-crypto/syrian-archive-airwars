@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/JNIPW"
+    "https://archive.ph/JNIPW",
+    "https://web.archive.org/web/20250208172230id_/https://anfarabic.com/akhr-l-khbr/asabt-mwatn-fy-qsf-msyrt-llahtlal-altrky-ly-yn-ysy-95921"
   ],
   "attempt_history": [
     {
@@ -67,12 +68,35 @@
   "author": "ANF",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8a6ac35d4a763dabf59e1c9e6dd40b82a25986f4866ea383914b2a0afeb13647",
+  "content_variants": [
+    {
+      "bytes": 409,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:57:34+00:00",
+      "sha256": "8a6ac35d4a763dabf59e1c9e6dd40b82a25986f4866ea383914b2a0afeb13647",
+      "source_url": "https://web.archive.org/web/20250208172230id_/https://anfarabic.com/akhr-l-khbr/asabt-mwatn-fy-qsf-msyrt-llahtlal-altrky-ly-yn-ysy-95921",
+      "text": "ANF\n\nعين عيسى\n\nالخميس, ٢١ سبتمبر ٢٠٢٣, ١٦:٤٥\n\nأفاد مراسلنا بإصابة المواطن قبن عزيز الخليل (29 عاماً)، بجروح جراء قصف مسيّرة تابعة للاحتلال التركي لقرية صفاوية شرق ناحية عين عيسى.\n\nوأشار إلى أن المصاب نقل إلى مشفى الرقة لتلقي العلاج."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:57:33+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:57:34+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250208172230id_/https://anfarabic.com/akhr-l-khbr/asabt-mwatn-fy-qsf-msyrt-llahtlal-altrky-ly-yn-ysy-95921"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250208172230id_/https://anfarabic.com/akhr-l-khbr/asabt-mwatn-fy-qsf-msyrt-llahtlal-altrky-ly-yn-ysy-95921",
   "incident_ids": [
     "airwars-93203",
     "airwars-93265"
@@ -90,10 +114,10 @@
     "https://anfarabic.com/akhr-l-khbr/asabt-mwatn-fy-qsf-msyrt-llahtlal-altrky-ly-yn-ysy-95921"
   ],
   "original_url": "https://anfarabic.com/akhr-l-khbr/asabt-mwatn-fy-qsf-msyrt-llahtlal-altrky-ly-yn-ysy-95921",
-  "page_title": "",
+  "page_title": "ANF |\n​​​​​​​إصابة مواطن في قصف مسيّرة للاحتلال التركي على عين عيسى ​​​​​​​إصابة مواطن في قصف مسيّرة للاحتلال التركي على عين عيسى ​​​​​​​إصابة مواطن في قصف مسيّرة للاحتلال التركي على عين عيسى",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts631-september-21-2023/",
@@ -121,15 +145,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:57:34+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-343fe9263564adc2ec749035",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfarabic.com/akhr-l-khbr/asabt-mwatn-fy-qsf-msyrt-llahtlal-altrky-ly-yn-ysy-95921",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ANF\n\nعين عيسى\n\nالخميس, ٢١ سبتمبر ٢٠٢٣, ١٦:٤٥\n\nأفاد مراسلنا بإصابة المواطن قبن عزيز الخليل (29 عاماً)، بجروح جراء قصف مسيّرة تابعة للاحتلال التركي لقرية صفاوية شرق ناحية عين عيسى.\n\nوأشار إلى أن المصاب نقل إلى مشفى الرقة لتلقي العلاج.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/8GbuZ"
+    "https://archive.is/8GbuZ",
+    "https://web.archive.org/web/20211024143731id_/https://orient-news.net/ar/news_show/193314/0/%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%B6%D8%A7%D8%A8%D8%B7-%D9%84%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A3%D8%B3%D8%AF-%D9%88%D8%AA%D9%88%D8%AA%D8%B1-%D9%88%D8%A7%D8%B3%D8%AA%D9%86%D9%81%D8%A7%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D8%B1"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Oreint",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "676f41a522cf37d8e702a5ddaad859c4245363e45979502d630bc75937ede2e6",
+  "content_variants": [
+    {
+      "bytes": 374,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:14:20+00:00",
+      "sha256": "676f41a522cf37d8e702a5ddaad859c4245363e45979502d630bc75937ede2e6",
+      "source_url": "https://web.archive.org/web/20211024143731id_/https://orient-news.net/ar/news_show/193314/0/%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%B6%D8%A7%D8%A8%D8%B7-%D9%84%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A3%D8%B3%D8%AF-%D9%88%D8%AA%D9%88%D8%AA%D8%B1-%D9%88%D8%A7%D8%B3%D8%AA%D9%86%D9%81%D8%A7%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D8%B1",
+      "text": "قتلى بينهم ضابط لميليشيا أسد وتوتر واستنفار بريف حلب المحرر\n\nانتهاكات واشتباكات\n\nتوتر واستنفار\n\nكلمات مفتاحية:\n\nالحسكة\n\nديرالزور\n\nالبوكمال\n\nسوريا\n\nبشار الأسد\n\nميليشيات الأسد\n\nطرطوس\n\nاللاذقية\n\nالبادية السورية"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:14:18+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:14:20+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211024143731id_/https://orient-news.net/ar/news_show/193314/0/%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%B6%D8%A7%D8%A8%D8%B7-%D9%84%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A3%D8%B3%D8%AF-%D9%88%D8%AA%D9%88%D8%AA%D8%B1-%D9%88%D8%A7%D8%B3%D8%AA%D9%86%D9%81%D8%A7%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D8%B1"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211024143731id_/https://orient-news.net/ar/news_show/193314/0/%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%B6%D8%A7%D8%A8%D8%B7-%D9%84%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A3%D8%B3%D8%AF-%D9%88%D8%AA%D9%88%D8%AA%D8%B1-%D9%88%D8%A7%D8%B3%D8%AA%D9%86%D9%81%D8%A7%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D8%B1",
   "incident_ids": [
     "airwars-79502"
   ],
@@ -85,10 +109,10 @@
     "https://orient-news.net/ar/news_show/193314/0/%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%B6%D8%A7%D8%A8%D8%B7-%D9%84%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A3%D8%B3%D8%AF-%D9%88%D8%AA%D9%88%D8%AA%D8%B1-%D9%88%D8%A7%D8%B3%D8%AA%D9%86%D9%81%D8%A7%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D8%B1"
   ],
   "original_url": "https://orient-news.net/ar/news_show/193314/0/%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%B6%D8%A7%D8%A8%D8%B7-%D9%84%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A3%D8%B3%D8%AF-%D9%88%D8%AA%D9%88%D8%AA%D8%B1-%D9%88%D8%A7%D8%B3%D8%AA%D9%86%D9%81%D8%A7%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D8%B1",
-  "page_title": "",
+  "page_title": "قتلى بينهم ضابط لميليشيا أسد وتوتر واستنفار بريف حلب المحرر قتلى بينهم ضابط من ميليشيا أسد بمناطق متفرقة وتوتر واستنفار بريف حلب المحرر قتلى بينهم ضابط من ميليشيا أسد بمناطق متفرقة وتوتر واستنفار بريف حلب المحرر",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4655-october-12-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:14:20+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b2b4e618f2fc02a0b3d74a47",
   "source_type": "news_article",
   "stable_id_basis": "https://orient-news.net/ar/news_show/193314/0/%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%B6%D8%A7%D8%A8%D8%B7-%D9%84%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A3%D8%B3%D8%AF-%D9%88%D8%AA%D9%88%D8%AA%D8%B1-%D9%88%D8%A7%D8%B3%D8%AA%D9%86%D9%81%D8%A7%D8%B1-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D8%B1",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قتلى بينهم ضابط لميليشيا أسد وتوتر واستنفار بريف حلب المحرر\n\nانتهاكات واشتباكات\n\nتوتر واستنفار\n\nكلمات مفتاحية:\n\nالحسكة\n\nديرالزور\n\nالبوكمال\n\nسوريا\n\nبشار الأسد\n\nميليشيات الأسد\n\nطرطوس\n\nاللاذقية\n\nالبادية السورية",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

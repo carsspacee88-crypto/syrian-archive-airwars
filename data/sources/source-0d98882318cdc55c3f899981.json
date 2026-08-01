@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/K804o"
+    "https://archive.ph/K804o",
+    "https://web.archive.org/web/20250514073341id_/https://npasyria.com/en/101199/?fbclid=IwAR3bSevkot5YWK9K76J9HmXmtuk7wZRVebTWmfKIIVAEojWuuTOf4O8yOeg"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "NPA",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0bfd400275aa7a95332378fd7df430acd3956a32cecc34a330edb633a4cd1011",
+  "content_variants": [
+    {
+      "bytes": 816,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:53:05+00:00",
+      "sha256": "0bfd400275aa7a95332378fd7df430acd3956a32cecc34a330edb633a4cd1011",
+      "source_url": "https://web.archive.org/web/20250514073341id_/https://npasyria.com/en/101199/?fbclid=IwAR3bSevkot5YWK9K76J9HmXmtuk7wZRVebTWmfKIIVAEojWuuTOf4O8yOeg",
+      "text": "Car explosion injures person in Syria’s Manbij\n\nThe city of Manbij, northern Syria – North Press/Archive\n\nMANBIJ, Syria (North Press) – A car explosion in the village of Hassan Agha, south of Manbij in northern Syria, injured a person on Sunday.\n\nAn eyewitness told North Press that the person was slightly injured while in a mosque in the village.\n\nThe injured person was identified as Ahmed al-Jassim, 44, from Hassan Agha, according to the source.\n\nManbij Military Council posted on Facebook that a Turkish drone targeted a civilian car, causing the injury to al-Jassim.\n\nThis incident comes after three people were killed in Manbij on July 9 in a similar car targeting.\n\nAnadolu Agency reported on Saturday that Turkish intelligence was responsible for the previous targeting.\n\nReporting by Fadi al-Hussein"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:53:01+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:53:05+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250514073341id_/https://npasyria.com/en/101199/?fbclid=IwAR3bSevkot5YWK9K76J9HmXmtuk7wZRVebTWmfKIIVAEojWuuTOf4O8yOeg"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250514073341id_/https://npasyria.com/en/101199/?fbclid=IwAR3bSevkot5YWK9K76J9HmXmtuk7wZRVebTWmfKIIVAEojWuuTOf4O8yOeg",
   "incident_ids": [
     "airwars-91957"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/101199/?fbclid=IwAR3bSevkot5YWK9K76J9HmXmtuk7wZRVebTWmfKIIVAEojWuuTOf4O8yOeg"
   ],
   "original_url": "https://npasyria.com/en/101199/?fbclid=IwAR3bSevkot5YWK9K76J9HmXmtuk7wZRVebTWmfKIIVAEojWuuTOf4O8yOeg",
-  "page_title": "",
+  "page_title": "Car explosion injures person in Syria’s Manbij Car explosion injures person in Syria’s Manbij Car explosion injures person in Syria’s Manbij Car explosion injures person in Syria’s Manbij - North press agency Car explosion injures person in Syria’s Manbij - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts612-july-16-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:53:05+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0d98882318cdc55c3f899981",
   "source_type": "other_web_page",
   "stable_id_basis": "https://npasyria.com/en/101199/?fbclid=IwAR3bSevkot5YWK9K76J9HmXmtuk7wZRVebTWmfKIIVAEojWuuTOf4O8yOeg",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Car explosion injures person in Syria’s Manbij\n\nThe city of Manbij, northern Syria – North Press/Archive\n\nMANBIJ, Syria (North Press) – A car explosion in the village of Hassan Agha, south of Manbij in northern Syria, injured a person on Sunday.\n\nAn eyewitness told North Press that the person was slightly injured while in a mosque in the village.\n\nThe injured person was identified as Ahmed al-Jassim, 44, from Hassan Agha, according to the source.\n\nManbij Military Council posted on Facebook that a Turkish drone targeted a civilian car, causing the injury to al-Jassim.\n\nThis incident comes after three people were killed in Manbij on July 9 in a similar car targeting.\n\nAnadolu Agency reported on Saturday that Turkish intelligence was responsible for the previous targeting.\n\nReporting by Fadi al-Hussein",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/fxV5d"
+    "https://archive.is/fxV5d",
+    "https://web.archive.org/web/20250219204808id_/https://sana.sy/en/?p=276883"
   ],
   "attempt_history": [
     {
@@ -105,12 +106,35 @@
   "author": "Syrian Arab News Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "47ab09105ed067e9beefda50c4ff890f27139241b4b0f1dbe6be134ef4168c01",
+  "content_variants": [
+    {
+      "bytes": 1394,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:22:17+00:00",
+      "sha256": "47ab09105ed067e9beefda50c4ff890f27139241b4b0f1dbe6be134ef4168c01",
+      "source_url": "https://web.archive.org/web/20250219204808id_/https://sana.sy/en/?p=276883",
+      "text": "2 July، 2022\n\nTartous, SANA- The Israeli aggression perpetrated in the early hours on Saturday morning against Hamidieh town, in the south of the Syrian province of Tartous, caused injuries to two civilians and massive material damage to the irrigation and electricity networks, and the citizens’ private properties.\n\nSANA’s camera toured the villages affected by the aggression and monitored the extent of the damage caused by it.\n\nThe director of Water Resources of the province, Muhammad Mahrez, told SANA that the aggression destroyed three irrigation channels irrigating approximately 100 hectares.\n\nHe revealed that the damage is estimated at about 50 million Syrian pounds.\n\nFor his part, the director of Electricity in the province, Abdel Hamid Mansour, indicated that, due to the aggression, the electrical network suffered great damage, including poles and electricity transmission lines.\n\nAli Rahmoun, from the village of al-Qubaiba, who suffered a broken leg in the attack, said that the Israeli missiles caused damage to his house and more than three kilometers of agricultural land planted with aborigines, in addition to two water wells.\n\nMeanwhile, the citizen Alaa Ibrahim, from the town of Al-Jamasa, explained that his loss due to the attack is 52 sheep and two cows, in addition to agricultural instruments, which are his only source of livelihood.\n\nShaza Qreima\n\ntweet"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "no_archive_capture",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:22:17+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:22:17+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250219204808id_/https://sana.sy/en/?p=276883"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250219204808id_/https://sana.sy/en/?p=276883",
   "incident_ids": [
     "airwars-83969"
   ],
@@ -126,10 +150,10 @@
     "https://sana.sy/en/?p=276883"
   ],
   "original_url": "https://sana.sy/en/?p=276883",
-  "page_title": "",
+  "page_title": "Material damage caused to citizens’ properties, irrigation and electricity networks due to Israeli aggression on Tartous – Syrian Arab News Agency Material damage caused to citizens’ properties, irrigation and electricity networks due to Israeli aggression on Tartous - Syrian Arab News Agency Material damage caused to citizens’ properties, irrigation and electricity networks due to Israeli aggression on Tartous Material damage caused to citizens’ properties, irrigation and electricity networks due to Israeli aggression on Tartous",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy024-july-1-2022/",
@@ -149,15 +173,15 @@
     "reason": "no_archive_capture",
     "status": "deferred"
   },
-  "retrieval_status": "no_archive_capture",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:22:17+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e48fa3ec6f056f1924125ff8",
   "source_type": "news_article",
   "stable_id_basis": "https://sana.sy/en/?p=276883",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "2 July، 2022\n\nTartous, SANA- The Israeli aggression perpetrated in the early hours on Saturday morning against Hamidieh town, in the south of the Syrian province of Tartous, caused injuries to two civilians and massive material damage to the irrigation and electricity networks, and the citizens’ private properties.\n\nSANA’s camera toured the villages affected by the aggression and monitored the extent of the damage caused by it.\n\nThe director of Water Resources of the province, Muhammad Mahrez, told SANA that the aggression destroyed three irrigation channels irrigating approximately 100 hectares.\n\nHe revealed that the damage is estimated at about 50 million Syrian pounds.\n\nFor his part, the director of Electricity in the province, Abdel Hamid Mansour, indicated that, due to the aggression, the electrical network suffered great damage, including poles and electricity transmission lines.\n\nAli Rahmoun, from the village of al-Qubaiba, who suffered a broken leg in the attack, said that the Israeli missiles caused damage to his house and more than three kilometers of agricultural land planted with aborigines, in addition to two water wells.\n\nMeanwhile, the citizen Alaa Ibrahim, from the town of Al-Jamasa, explained that his loss due to the attack is 52 sheep and two cows, in addition to agricultural instruments, which are his only source of livelihood.\n\nShaza Qreima\n\ntweet",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

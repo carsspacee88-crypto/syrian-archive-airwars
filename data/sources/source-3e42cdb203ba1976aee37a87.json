@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/uAzr6"
+    "https://archive.md/uAzr6",
+    "https://web.archive.org/web/20240524205713id_/https://www.facebook.com/permalink.php?story_fbid=113726121098712&id=100073839744934"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Nashit Halabi",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ed1c587ddd0a9ba632ed986a01733a16504f353ddb4d272e955376e645777457",
+  "content_variants": [
+    {
+      "bytes": 643,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:58:35+00:00",
+      "sha256": "ed1c587ddd0a9ba632ed986a01733a16504f353ddb4d272e955376e645777457",
+      "source_url": "https://web.archive.org/web/20240524205713id_/https://www.facebook.com/permalink.php?story_fbid=113726121098712&id=100073839744934",
+      "text": "#إدلب\nاستشهاد طفل وإصابة آخرين جراء إستهداف طيران الإحتلال الروسي وعصابات الأسد مخيماً يضم أرامل واطفال ايتام قرب مدينة ترمانين القريبة من الحدود التركية...\n\n#إدلب\nاستشهاد طفل وإصابة آخرين جراء إستهداف طيران الإحتلال الروسي وعصابات الأسد مخيماً يضم أرامل واطفال ايتام قرب مدينة ترمانين القريبة من الحدود التركية بريف إدلب\nالشهيد :\nاليتيم / بسام حلاق ١٠..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:58:33+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:58:35+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524205713id_/https://www.facebook.com/permalink.php?story_fbid=113726121098712&id=100073839744934"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524205713id_/https://www.facebook.com/permalink.php?story_fbid=113726121098712&id=100073839744934",
   "incident_ids": [
     "airwars-79740"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/permalink.php?story_fbid=113726121098712&id=100073839744934"
   ],
   "original_url": "https://www.facebook.com/permalink.php?story_fbid=113726121098712&id=100073839744934",
-  "page_title": "",
+  "page_title": "ناشط حلبي ناشط حلبي ناشط حلبي - #إدلب\nاستشهاد طفل وإصابة آخرين جراء إستهداف...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4663-october-27-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:58:35+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-3e42cdb203ba1976aee37a87",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=113726121098712&id=100073839744934",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#إدلب\nاستشهاد طفل وإصابة آخرين جراء إستهداف طيران الإحتلال الروسي وعصابات الأسد مخيماً يضم أرامل واطفال ايتام قرب مدينة ترمانين القريبة من الحدود التركية...\n\n#إدلب\nاستشهاد طفل وإصابة آخرين جراء إستهداف طيران الإحتلال الروسي وعصابات الأسد مخيماً يضم أرامل واطفال ايتام قرب مدينة ترمانين القريبة من الحدود التركية بريف إدلب\nالشهيد :\nاليتيم / بسام حلاق ١٠...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

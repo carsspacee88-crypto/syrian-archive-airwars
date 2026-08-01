@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/86PMV"
+    "https://archive.is/86PMV",
+    "https://web.archive.org/web/20250621163217id_/https://npasyria.com/80718/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "91f61502c061d0e388880cd5ff8c0e8ae0e6b530e7426dba3212f15dfc456ca9",
+  "content_variants": [
+    {
+      "bytes": 2048,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:58:43+00:00",
+      "sha256": "91f61502c061d0e388880cd5ff8c0e8ae0e6b530e7426dba3212f15dfc456ca9",
+      "source_url": "https://web.archive.org/web/20250621163217id_/https://npasyria.com/80718/",
+      "text": "مقتل ثلاثة عناصر لـ”داعش شرقي دير الزور\n\nدورية لقوات سوريا الديمقراطيّة بحي الشبكة وسط بلدة الشحيل بريف دير الزور الشرقي\n\nدير الزور ـ نورث برس\n\nمقتل ثلاثة عناصر لتنظيم الدولة الإسلامية (داعش)، الأحد، بدورية مشتركة لقوات سوريا الديمقراطية “قسد” وقوات التحالف الدولي، في بلدة شرقي دير الزور، شرقي سوريا.\n\nوقال مصدر عسكري من قوات سوريا الديمقراطية، في بلدة الشحيل ٤٠ كم شرقي دير الزور، إن وحدات خاصة من “قسد”، وبمساندة طيران مروحي للتحالف الدولي قامت بعملية إنزال جوي بالقرب من ضفاف الفرات بحي “الشبكة” وسط البلدة استهدفت منزلاً يتجمع فيه عناصر لتنظيم “داعش”.\n\nوأضاف المصدر، لنورث برس، بأن عناصر التنظيم قاوموا الدورية بالأسلحة الرشاشة واستمر الاشتباك ما يقارب نصف ساعة أسفر عنه مقتل ثلاثة عناصر للتنظيم.\n\nوأشار شهود عيان من البلدة، إلى أن عناصر “داعش” ليسوا من أبناء البلدة ولم يتم التعرف على هويتهم.\n\nوبين الحين والآخر تكثف قوات سوريا الديمقراطية والتحالف الدولي من عملياتها الأمنية في أرياف دير الزور لملاحقة عناصر التنظيم المتشدد.\n\nوفي السادس عشر من أيلول /سبتمبر الجاري، ألقت قوات سوريا الديمقراطية بمشاركة قوات التحالف الدولي القبض على قيادي من “داعش” في بلدة الشحيل شرقي دير الزور.\n\nإعداد: محمد علي – تحرير: عمر علوش"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:58:42+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:58:43+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250621163217id_/https://npasyria.com/80718/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250621163217id_/https://npasyria.com/80718/",
   "incident_ids": [
     "airwars-78911"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/80718/"
   ],
   "original_url": "https://npasyria.com/80718/",
-  "page_title": "",
+  "page_title": "مقتل ثلاثة عناصر لـ\"داعش شرقي دير الزور مقتل ثلاثة عناصر لـ\"داعش شرقي دير الزور",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1963-september-26-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:58:43+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-530a437c28ffcb554680b170",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/80718/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مقتل ثلاثة عناصر لـ”داعش شرقي دير الزور\n\nدورية لقوات سوريا الديمقراطيّة بحي الشبكة وسط بلدة الشحيل بريف دير الزور الشرقي\n\nدير الزور ـ نورث برس\n\nمقتل ثلاثة عناصر لتنظيم الدولة الإسلامية (داعش)، الأحد، بدورية مشتركة لقوات سوريا الديمقراطية “قسد” وقوات التحالف الدولي، في بلدة شرقي دير الزور، شرقي سوريا.\n\nوقال مصدر عسكري من قوات سوريا الديمقراطية، في بلدة الشحيل ٤٠ كم شرقي دير الزور، إن وحدات خاصة من “قسد”، وبمساندة طيران مروحي للتحالف الدولي قامت بعملية إنزال جوي بالقرب من ضفاف الفرات بحي “الشبكة” وسط البلدة استهدفت منزلاً يتجمع فيه عناصر لتنظيم “داعش”.\n\nوأضاف المصدر، لنورث برس، بأن عناصر التنظيم قاوموا الدورية بالأسلحة الرشاشة واستمر الاشتباك ما يقارب نصف ساعة أسفر عنه مقتل ثلاثة عناصر للتنظيم.\n\nوأشار شهود عيان من البلدة، إلى أن عناصر “داعش” ليسوا من أبناء البلدة ولم يتم التعرف على هويتهم.\n\nوبين الحين والآخر تكثف قوات سوريا الديمقراطية والتحالف الدولي من عملياتها الأمنية في أرياف دير الزور لملاحقة عناصر التنظيم المتشدد.\n\nوفي السادس عشر من أيلول /سبتمبر الجاري، ألقت قوات سوريا الديمقراطية بمشاركة قوات التحالف الدولي القبض على قيادي من “داعش” في بلدة الشحيل شرقي دير الزور.\n\nإعداد: محمد علي – تحرير: عمر علوش",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

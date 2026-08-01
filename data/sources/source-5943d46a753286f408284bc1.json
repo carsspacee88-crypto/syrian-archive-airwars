@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/JMkPU"
+    "https://archive.is/JMkPU",
+    "https://web.archive.org/web/20231211081109id_/https://www.syriahr.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D8%AC%D8%B1%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89/446135/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1a762eca92add5eafa4bb63e679e88e6b3d8ada97cef0de9d62adbf58b8f7e92",
+  "content_variants": [
+    {
+      "bytes": 1831,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:58:51+00:00",
+      "sha256": "1a762eca92add5eafa4bb63e679e88e6b3d8ada97cef0de9d62adbf58b8f7e92",
+      "source_url": "https://web.archive.org/web/20231211081109id_/https://www.syriahr.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D8%AC%D8%B1%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89/446135/",
+      "text": "استشهاد امرأة جراء قصف قوات النظام على منطقة بريف إدلب الغربي\n\nمحافظة إدلب: وثّق نشطاء المرصد السوري لحقوق الإنسان، استشهاد مواطنة وإصابة مواطن جراء قصف مدفعي نفذته قوات النظام على بلدة فريكة بريف إدلب الغربي.\nورصد نشطاء المرصد السوري لحقوق الإنسان، قصفاً صاروخياً نفذته قوات النظام صباح اليوم الخميس، على مناطق في حرش بينين وكنصفرة والفطيرة بريف إدلب الجنوبي، ومناطق اخرى في جبل التركمان بريف اللاذقية الشمالي، كما قصفت الفصائل مواقع لقوات النظام في الجيد والبحصة وجورين والرصيف بريف حماة الغربي، ومحور الدار الكبيرة بريف إدلب الجنوبي.\n\nالسابق\n\nهام: القوات التركية والفصائل الموالية لها تقصفان مناطق انتشار القوات الكردية شمالي حلب\n\nالتالي\n\nتحرير الشام تعتقل جهادي سابق في تنظيم “حراس الدين” بريف إدلب\n\nبتهمة المشاركة في القتال ضدها.. وحدات من “قسد” تعتقل 3 مواطنين بالريف…\n\nفي الإستهداف الـ63 للأراضي السورية.. مقتل وإصابة 10 من المقاتلين والمدنيين في الغارات…\n\nاستشهاد مواطن في مدينة إدلب وارتفاع عدد الشهداء إلى 9 في مجزرة ارتكبتها قوات النظام…\n\n11 قتلوا وقضوا واستشهدوا في ظروف مختلفة في 10 كانون الأول"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:58:49+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:58:51+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231211081109id_/https://www.syriahr.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D8%AC%D8%B1%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89/446135/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231211081109id_/https://www.syriahr.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D8%AC%D8%B1%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89/446135/",
   "incident_ids": [
     "airwars-77875"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D8%AC%D8%B1%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89/446135/"
   ],
   "original_url": "https://www.syriahr.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D8%AC%D8%B1%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89/446135/",
-  "page_title": "",
+  "page_title": "استشهاد امرأة جراء قصف قوات النظام على منطقة بريف إدلب الغربي | المرصد السوري لحقوق الإنسان استشهاد امرأة جراء قصف قوات النظام على منطقة بريف إدلب الغربي | المرصد السوري لحقوق الإنسان استشهاد امرأة جراء قصف قوات النظام على منطقة بريف إدلب الغربي | المرصد السوري لحقوق الإنسان استشهاد امرأة جراء قصف قوات النظام على منطقة بريف إدلب الغربي استشهاد امرأة جراء قصف قوات النظام على منطقة بريف إدلب الغربي",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4635-september-2-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:58:51+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5943d46a753286f408284bc1",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D8%AC%D8%B1%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89/446135/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "استشهاد امرأة جراء قصف قوات النظام على منطقة بريف إدلب الغربي\n\nمحافظة إدلب: وثّق نشطاء المرصد السوري لحقوق الإنسان، استشهاد مواطنة وإصابة مواطن جراء قصف مدفعي نفذته قوات النظام على بلدة فريكة بريف إدلب الغربي.\nورصد نشطاء المرصد السوري لحقوق الإنسان، قصفاً صاروخياً نفذته قوات النظام صباح اليوم الخميس، على مناطق في حرش بينين وكنصفرة والفطيرة بريف إدلب الجنوبي، ومناطق اخرى في جبل التركمان بريف اللاذقية الشمالي، كما قصفت الفصائل مواقع لقوات النظام في الجيد والبحصة وجورين والرصيف بريف حماة الغربي، ومحور الدار الكبيرة بريف إدلب الجنوبي.\n\nالسابق\n\nهام: القوات التركية والفصائل الموالية لها تقصفان مناطق انتشار القوات الكردية شمالي حلب\n\nالتالي\n\nتحرير الشام تعتقل جهادي سابق في تنظيم “حراس الدين” بريف إدلب\n\nبتهمة المشاركة في القتال ضدها.. وحدات من “قسد” تعتقل 3 مواطنين بالريف…\n\nفي الإستهداف الـ63 للأراضي السورية.. مقتل وإصابة 10 من المقاتلين والمدنيين في الغارات…\n\nاستشهاد مواطن في مدينة إدلب وارتفاع عدد الشهداء إلى 9 في مجزرة ارتكبتها قوات النظام…\n\n11 قتلوا وقضوا واستشهدوا في ظروف مختلفة في 10 كانون الأول",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

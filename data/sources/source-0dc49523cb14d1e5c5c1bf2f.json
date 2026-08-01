@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/OHv62"
+    "https://archive.is/OHv62",
+    "https://web.archive.org/web/20250213055347id_/https://anfarabic.com/akhr-l-khbr/qsf-alahtlal-altrky-ytsbb-bastshhad-msn-mrh-61-amaa-athna-hratht-ardh-85953"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "358bd999d3fee6529074a32f6f33704abf3d80b7854c7b64392df1222f2b1c1b",
+  "content_variants": [
+    {
+      "bytes": 1288,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:53:10+00:00",
+      "sha256": "358bd999d3fee6529074a32f6f33704abf3d80b7854c7b64392df1222f2b1c1b",
+      "source_url": "https://web.archive.org/web/20250213055347id_/https://anfarabic.com/akhr-l-khbr/qsf-alahtlal-altrky-ytsbb-bastshhad-msn-mrh-61-amaa-athna-hratht-ardh-85953",
+      "text": "ANF\n\nمركز الأخبار\n\nالأحد, ١١ ديسمبر ٢٠٢٢, ١١:٥٣\n\nقصف الاحتلال التركي ومرتزقته يوم أمس السبت القرى المحاذية لخطوط التماس في ريفي مقاطعة كري سبي وناحية عين عيسى بالأسلحة الثقيلة والخفيفة، حيث أسفر عن استشهاد المواطن صالح العلي السلامة (61 عاماً) من عشيرة البو عساف، متأثراً بإصابته بشظايا قذيفة مصدرها القاعدة التركية في قرية بير عيسى، وذلك أثناء حراثته لأرضه.\n\nوالمواطن من أهالي قرية الحويجة 7 كم شرقي بلدة الهيشة التابعة لناحية عين عيسى (15 كم شرقي الناحية) وتم دفنه في مقبرة بير صران.\n\nو باستشهاد المواطن صالح السلامة يرتفع عدد الشهداء والجرحى من المدنيين جراء قصف دولة الاحتلال التركي على أرياف مقاطعة كري سبي وناحية عين عيسى منذ احتلالها لمقاطعة كري سبي في 9 تشرين الأول عام 2019 إلى 105 مديناً منهم 28 شهيداً و77 جريحاً."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:53:09+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:53:10+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250213055347id_/https://anfarabic.com/akhr-l-khbr/qsf-alahtlal-altrky-ytsbb-bastshhad-msn-mrh-61-amaa-athna-hratht-ardh-85953"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250213055347id_/https://anfarabic.com/akhr-l-khbr/qsf-alahtlal-altrky-ytsbb-bastshhad-msn-mrh-61-amaa-athna-hratht-ardh-85953",
   "incident_ids": [
     "airwars-85784"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/akhr-l-khbr/qsf-alahtlal-altrky-ytsbb-bastshhad-msn-mrh-61-amaa-athna-hratht-ardh-85953"
   ],
   "original_url": "https://anfarabic.com/akhr-l-khbr/qsf-alahtlal-altrky-ytsbb-bastshhad-msn-mrh-61-amaa-athna-hratht-ardh-85953",
-  "page_title": "",
+  "page_title": "ANF |\nقصف الاحتلال التركي يتسبب باستشهاد مسن عمره 61 عاماً أثناء حراثة أرضه قصف الاحتلال التركي يتسبب باستشهاد مسن عمره 61 عاماً أثناء حراثة أرضه قصف الاحتلال التركي يتسبب باستشهاد مسن عمره 61 عاماً أثناء حراثة أرضه",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts577-december-10-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:53:10+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0dc49523cb14d1e5c5c1bf2f",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfarabic.com/akhr-l-khbr/qsf-alahtlal-altrky-ytsbb-bastshhad-msn-mrh-61-amaa-athna-hratht-ardh-85953",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ANF\n\nمركز الأخبار\n\nالأحد, ١١ ديسمبر ٢٠٢٢, ١١:٥٣\n\nقصف الاحتلال التركي ومرتزقته يوم أمس السبت القرى المحاذية لخطوط التماس في ريفي مقاطعة كري سبي وناحية عين عيسى بالأسلحة الثقيلة والخفيفة، حيث أسفر عن استشهاد المواطن صالح العلي السلامة (61 عاماً) من عشيرة البو عساف، متأثراً بإصابته بشظايا قذيفة مصدرها القاعدة التركية في قرية بير عيسى، وذلك أثناء حراثته لأرضه.\n\nوالمواطن من أهالي قرية الحويجة 7 كم شرقي بلدة الهيشة التابعة لناحية عين عيسى (15 كم شرقي الناحية) وتم دفنه في مقبرة بير صران.\n\nو باستشهاد المواطن صالح السلامة يرتفع عدد الشهداء والجرحى من المدنيين جراء قصف دولة الاحتلال التركي على أرياف مقاطعة كري سبي وناحية عين عيسى منذ احتلالها لمقاطعة كري سبي في 9 تشرين الأول عام 2019 إلى 105 مديناً منهم 28 شهيداً و77 جريحاً.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

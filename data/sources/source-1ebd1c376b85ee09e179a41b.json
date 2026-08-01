@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/DG9zE"
+    "https://archive.is/DG9zE",
+    "https://web.archive.org/web/20231208120511id_/https://www.syriahr.com/en/246083/?fbclid=IwAR1cPS_zkC4hoAMT5ULMPQsAtsNvVVZcIuESALwR8JBd8x57MqC0Fun_aKo"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f81ef7d5e8e0c9edb63c0c171aaf272233d01e732e5012afbf1ea755e6093a24",
+  "content_variants": [
+    {
+      "bytes": 1744,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:53:47+00:00",
+      "sha256": "f81ef7d5e8e0c9edb63c0c171aaf272233d01e732e5012afbf1ea755e6093a24",
+      "source_url": "https://web.archive.org/web/20231208120511id_/https://www.syriahr.com/en/246083/?fbclid=IwAR1cPS_zkC4hoAMT5ULMPQsAtsNvVVZcIuESALwR8JBd8x57MqC0Fun_aKo",
+      "text": "Al-Hasakah | Turkish drone targets house injuring civilians\n\nAl-Hasakah province: SOHR activists have documented the injury of three people including a woman, where a Turkish drone shelled a house in Abu Raseen countryside in Al-Hasakah countryside, coinciding with sporadic land bombardment by the Turkish forces on Al-Asadiyah village in the area.\n\nSOHR activists have just reported that Turkish bases stationed in “Peace Spring” areas in Ras Al-Ain “Sere Kanye” countryside northern of Al-Hasakah, shelled Al-Asadiyah village in Abu Raseen “Zarkan” countryside north western of Al-Hasakah, where artillery shells hit civilians’ houses. This coincided with displacement movement by remaining residents in the village due to the heavy shelling.\nOn April 4, SOHR activists documented the injury of three members of the Operation Forces of the Internal Security Forces “Al-Asayesh”, where Turkish drone shelled “Al-Asayesh” centre in Abo Raseen “Zarkan” district north western of Al-Hasakah.\nThe shelling came as a response to a sneak operation by SDF members yesterday, where a guided missile was fired on a Turkish base in Al-Dawodiyah village in Ras Al-Ain “Sere Kanye” countryside, which is considered the biggest base in the region.\n\nPrev Post\n\nISIS attack | Four casualties of regime-backed local militias near oil field\n\nNext Post\n\n14 killed in different circumstances in April 5, 2022\n\nNinth time since Israeli aggression on Gaza | “Islamic Resistance”…\n\nDeath toll update | 16 members of regime forces and HTS killed in infiltration…\n\n“Putin-Erdogan” area | Member of HTS killed and exchanged bombardment…\n\nAfter three years of detention | Young man dies under brutal torturing and medical…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:53:44+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:53:47+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231208120511id_/https://www.syriahr.com/en/246083/?fbclid=IwAR1cPS_zkC4hoAMT5ULMPQsAtsNvVVZcIuESALwR8JBd8x57MqC0Fun_aKo"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231208120511id_/https://www.syriahr.com/en/246083/?fbclid=IwAR1cPS_zkC4hoAMT5ULMPQsAtsNvVVZcIuESALwR8JBd8x57MqC0Fun_aKo",
   "incident_ids": [
     "airwars-82639"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/246083/?fbclid=IwAR1cPS_zkC4hoAMT5ULMPQsAtsNvVVZcIuESALwR8JBd8x57MqC0Fun_aKo"
   ],
   "original_url": "https://www.syriahr.com/en/246083/?fbclid=IwAR1cPS_zkC4hoAMT5ULMPQsAtsNvVVZcIuESALwR8JBd8x57MqC0Fun_aKo",
-  "page_title": "",
+  "page_title": "Al-Hasakah | Turkish drone targets house injuring civilians - The Syrian Observatory For Human Rights Al-Hasakah | Turkish drone targets house injuring civilians - The Syrian Observatory For Human Rights Al-Hasakah | Turkish drone targets house injuring civilians - The Syrian Observatory For Human Rights Al-Hasakah | Turkish drone targets house injuring civilians Al-Hasakah | Turkish drone targets house injuring civilians",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts498-april-6-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:53:47+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-1ebd1c376b85ee09e179a41b",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/246083/?fbclid=IwAR1cPS_zkC4hoAMT5ULMPQsAtsNvVVZcIuESALwR8JBd8x57MqC0Fun_aKo",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Al-Hasakah | Turkish drone targets house injuring civilians\n\nAl-Hasakah province: SOHR activists have documented the injury of three people including a woman, where a Turkish drone shelled a house in Abu Raseen countryside in Al-Hasakah countryside, coinciding with sporadic land bombardment by the Turkish forces on Al-Asadiyah village in the area.\n\nSOHR activists have just reported that Turkish bases stationed in “Peace Spring” areas in Ras Al-Ain “Sere Kanye” countryside northern of Al-Hasakah, shelled Al-Asadiyah village in Abu Raseen “Zarkan” countryside north western of Al-Hasakah, where artillery shells hit civilians’ houses. This coincided with displacement movement by remaining residents in the village due to the heavy shelling.\nOn April 4, SOHR activists documented the injury of three members of the Operation Forces of the Internal Security Forces “Al-Asayesh”, where Turkish drone shelled “Al-Asayesh” centre in Abo Raseen “Zarkan” district north western of Al-Hasakah.\nThe shelling came as a response to a sneak operation by SDF members yesterday, where a guided missile was fired on a Turkish base in Al-Dawodiyah village in Ras Al-Ain “Sere Kanye” countryside, which is considered the biggest base in the region.\n\nPrev Post\n\nISIS attack | Four casualties of regime-backed local militias near oil field\n\nNext Post\n\n14 killed in different circumstances in April 5, 2022\n\nNinth time since Israeli aggression on Gaza | “Islamic Resistance”…\n\nDeath toll update | 16 members of regime forces and HTS killed in infiltration…\n\n“Putin-Erdogan” area | Member of HTS killed and exchanged bombardment…\n\nAfter three years of detention | Young man dies under brutal torturing and medical…",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

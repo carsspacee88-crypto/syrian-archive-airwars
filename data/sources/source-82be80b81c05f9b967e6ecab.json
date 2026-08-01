@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/2ZFcT"
+    "https://archive.ph/2ZFcT",
+    "https://web.archive.org/web/20240911110612id_/https://963media.com/24003/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "963media news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "902539f886961ae700afb13b2119757dae69af6d5d93ef40463e7189fd260bb7",
+  "content_variants": [
+    {
+      "bytes": 640,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:08:33+00:00",
+      "sha256": "902539f886961ae700afb13b2119757dae69af6d5d93ef40463e7189fd260bb7",
+      "source_url": "https://web.archive.org/web/20240911110612id_/https://963media.com/24003/",
+      "text": "حلب أصيب عنصران من القوات الحكومية السورية اليوم الأربعاء، بقصف طائرة مسيرة للقوات التركية بريف منبج شمالي سوريا. وأفاد المركز الإعلامي لـ”مجلس منبج العسكري” التابع لقوات سوريا الديموقراطية (قسد) في بيان، أن مسيرة تركية استهدفت نقطة للقوات الحكومية في قرية “الجات” بريف منبج الشمالي الشرقي، إلى جانب استهداف القرية بأكثر من 10 قذائف هاون. وتزامن […]"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:08:32+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:08:33+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240911110612id_/https://963media.com/24003/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240911110612id_/https://963media.com/24003/",
   "incident_ids": [
     "airwars-126848"
   ],
@@ -85,10 +109,10 @@
     "https://963media.com/24003/"
   ],
   "original_url": "https://963media.com/24003/",
-  "page_title": "",
+  "page_title": "جرحى في قصف للقوات التركية شمالي سوريا - 963+ جرحى في قصف للقوات التركية شمالي سوريا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts716-september-11-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:08:33+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-82be80b81c05f9b967e6ecab",
   "source_type": "news_article",
   "stable_id_basis": "https://963media.com/24003/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "حلب أصيب عنصران من القوات الحكومية السورية اليوم الأربعاء، بقصف طائرة مسيرة للقوات التركية بريف منبج شمالي سوريا. وأفاد المركز الإعلامي لـ”مجلس منبج العسكري” التابع لقوات سوريا الديموقراطية (قسد) في بيان، أن مسيرة تركية استهدفت نقطة للقوات الحكومية في قرية “الجات” بريف منبج الشمالي الشرقي، إلى جانب استهداف القرية بأكثر من 10 قذائف هاون. وتزامن […]",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

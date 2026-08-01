@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/ba7p5"
+    "https://archive.is/ba7p5",
+    "https://web.archive.org/web/20240524220830id_/https://www.facebook.com/permalink.php?story_fbid=pfbid02DcDfiE8pktr6ZR4PsbQ9ErjhurApdpQVgBy4KMYeeFTYvyMYxtg2h7HY6JLBp55Wl&id=61551210861307"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Sarmen al yaom",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b88848b1d4c075eb8fcd5cd1fc860e397abe9ea6d5747ceac500fa3bcaffd150",
+  "content_variants": [
+    {
+      "bytes": 585,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:53:59+00:00",
+      "sha256": "b88848b1d4c075eb8fcd5cd1fc860e397abe9ea6d5747ceac500fa3bcaffd150",
+      "source_url": "https://web.archive.org/web/20240524220830id_/https://www.facebook.com/permalink.php?story_fbid=pfbid02DcDfiE8pktr6ZR4PsbQ9ErjhurApdpQVgBy4KMYeeFTYvyMYxtg2h7HY6JLBp55Wl&id=61551210861307",
+      "text": "مجـ ـزرة ضحيتها خمسة من عائلة واحدة بصواريخ النظام\nعلى #كفرنوران بعد منتصف الليل\nوهذا القصف والموت لا يؤلم إلا أهل المناطق\nالقريبة لخطوط التماس فحسبهم...\n\nمجـ ـزرة ضحيتها خمسة من عائلة واحدة بصواريخ النظام\nعلى #كفرنوران بعد منتصف الليل\nوهذا القصف والموت لا يؤلم إلا أهل المناطق\nالقريبة لخطوط التماس فحسبهم الله.\nسرمين اليوم"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:53:58+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:53:59+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524220830id_/https://www.facebook.com/permalink.php?story_fbid=pfbid02DcDfiE8pktr6ZR4PsbQ9ErjhurApdpQVgBy4KMYeeFTYvyMYxtg2h7HY6JLBp55Wl&id=61551210861307"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524220830id_/https://www.facebook.com/permalink.php?story_fbid=pfbid02DcDfiE8pktr6ZR4PsbQ9ErjhurApdpQVgBy4KMYeeFTYvyMYxtg2h7HY6JLBp55Wl&id=61551210861307",
   "incident_ids": [
     "airwars-103889"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/permalink.php?story_fbid=pfbid02DcDfiE8pktr6ZR4PsbQ9ErjhurApdpQVgBy4KMYeeFTYvyMYxtg2h7HY6JLBp55Wl&id=61551210861307"
   ],
   "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02DcDfiE8pktr6ZR4PsbQ9ErjhurApdpQVgBy4KMYeeFTYvyMYxtg2h7HY6JLBp55Wl&id=61551210861307",
-  "page_title": "",
+  "page_title": "سرمين اليوم سرمين اليوم سرمين اليوم - مجـ ـزرة ضحيتها خمسة من عائلة واحدة بصواريخ...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4816-october-4-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:53:59+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-1c4b7fa7fa44db137bfc1c7f",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid02DcDfiE8pktr6ZR4PsbQ9ErjhurApdpQVgBy4KMYeeFTYvyMYxtg2h7HY6JLBp55Wl&id=61551210861307",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مجـ ـزرة ضحيتها خمسة من عائلة واحدة بصواريخ النظام\nعلى #كفرنوران بعد منتصف الليل\nوهذا القصف والموت لا يؤلم إلا أهل المناطق\nالقريبة لخطوط التماس فحسبهم...\n\nمجـ ـزرة ضحيتها خمسة من عائلة واحدة بصواريخ النظام\nعلى #كفرنوران بعد منتصف الليل\nوهذا القصف والموت لا يؤلم إلا أهل المناطق\nالقريبة لخطوط التماس فحسبهم الله.\nسرمين اليوم",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

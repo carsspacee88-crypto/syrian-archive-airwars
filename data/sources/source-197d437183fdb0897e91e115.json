@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/CtjEP"
+    "https://archive.ph/CtjEP",
+    "https://web.archive.org/web/20220807215336id_/https://twitter.com/EverydaySyria/status/1556384946809348097"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@EverydaySyria",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2fa7ac75bf71c19125c88f7f7e75ae8bac3dcbc7a57cb2701e693ccfb48505bf",
+  "content_variants": [
+    {
+      "bytes": 296,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:53:27+00:00",
+      "sha256": "2fa7ac75bf71c19125c88f7f7e75ae8bac3dcbc7a57cb2701e693ccfb48505bf",
+      "source_url": "https://web.archive.org/web/20220807215336id_/https://twitter.com/EverydaySyria/status/1556384946809348097",
+      "text": "ConversationEveryday Syria@EverydaySyriaPeople hold photos of the 2 children who lost their lives in a Turkish drone strike in #Qamishli yesterday.\n\nThe strike killed four people and wounded several others in the city's industrial district.9:01 PM · Aug 7, 2022·Twitter Web App4 Retweets5 Likes"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:53:22+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:53:27+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220807215336id_/https://twitter.com/EverydaySyria/status/1556384946809348097"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220807215336id_/https://twitter.com/EverydaySyria/status/1556384946809348097",
   "incident_ids": [
     "airwars-84361"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/EverydaySyria/status/1556384946809348097"
   ],
   "original_url": "https://twitter.com/EverydaySyria/status/1556384946809348097",
-  "page_title": "",
+  "page_title": "Everyday Syria on Twitter Everyday Syria on Twitter: \"People hold photos of the 2 children who lost their lives in a Turkish drone strike in #Qamishli yesterday.\n\nThe strike killed four people and wounded several others in the city's industrial district. https://t.co/pNHjJSpyrA\" / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts539-august-6-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:53:27+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-197d437183fdb0897e91e115",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/EverydaySyria/status/1556384946809348097",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ConversationEveryday Syria@EverydaySyriaPeople hold photos of the 2 children who lost their lives in a Turkish drone strike in #Qamishli yesterday.\n\nThe strike killed four people and wounded several others in the city's industrial district.9:01 PM · Aug 7, 2022·Twitter Web App4 Retweets5 Likes",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

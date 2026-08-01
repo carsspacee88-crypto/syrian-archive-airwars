@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/dsv3H"
+    "https://archive.is/dsv3H",
+    "https://web.archive.org/web/20220803214834id_/https://twitter.com/SyriaCivilDefe/status/1554947198311448577"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@SyriaCivilDefe",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0e04a7c5bb7b793dd74b69e9bdb7f86b87474ffee475edd84729049803cfac7b",
+  "content_variants": [
+    {
+      "bytes": 573,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:59:10+00:00",
+      "sha256": "0e04a7c5bb7b793dd74b69e9bdb7f86b87474ffee475edd84729049803cfac7b",
+      "source_url": "https://web.archive.org/web/20220803214834id_/https://twitter.com/SyriaCivilDefe/status/1554947198311448577",
+      "text": "Conversationالدفاع المدني السوري@SyriaCivilDefeإصابة 6 مدنيين بينهم 4 نساء، مساء، الأربعاء 3 آب، بقصف صاروخي استهدف الأحياء السكنية وسط مدينة اعزاز شمالي #حلب، مصدره المناطق التي تسيطر عليها قوات النظام وقوات سوريا الديمقراطية . فرقنا أسعفت المصابين إلى المشفى وأمّنت مكان القصف على الفور.\n#الخوذ_البيضاء9:47 PM · Aug 3, 2022·Twitter for Android"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:59:09+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:59:10+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220803214834id_/https://twitter.com/SyriaCivilDefe/status/1554947198311448577"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220803214834id_/https://twitter.com/SyriaCivilDefe/status/1554947198311448577",
   "incident_ids": [
     "airwars-84652"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/SyriaCivilDefe/status/1554947198311448577"
   ],
   "original_url": "https://twitter.com/SyriaCivilDefe/status/1554947198311448577",
-  "page_title": "",
+  "page_title": "الدفاع المدني السوري on Twitter الدفاع المدني السوري on Twitter: \"إصابة 6 مدنيين بينهم 4 نساء، مساء، الأربعاء 3 آب، بقصف صاروخي استهدف الأحياء السكنية وسط مدينة اعزاز شمالي #حلب، مصدره المناطق التي تسيطر عليها قوات النظام وقوات سوريا الديمقراطية . فرقنا أسعفت المصابين إلى المشفى وأمّنت مكان القصف على الفور.\n#الخوذ_البيضاء https://t.co/2W8Bi5No5I\" / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys146-august-3-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:59:10+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5ba3af3dc7ea35d997b48330",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/SyriaCivilDefe/status/1554947198311448577",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Conversationالدفاع المدني السوري@SyriaCivilDefeإصابة 6 مدنيين بينهم 4 نساء، مساء، الأربعاء 3 آب، بقصف صاروخي استهدف الأحياء السكنية وسط مدينة اعزاز شمالي #حلب، مصدره المناطق التي تسيطر عليها قوات النظام وقوات سوريا الديمقراطية . فرقنا أسعفت المصابين إلى المشفى وأمّنت مكان القصف على الفور.\n#الخوذ_البيضاء9:47 PM · Aug 3, 2022·Twitter for Android",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/KbQlA"
+    "https://archive.ph/KbQlA",
+    "https://web.archive.org/web/20220929172510id_/https://www.syriahr.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D8%A8/498953/?fbclid=IwAR23QGyajVVcr5P-HEWo2KVAbKP03NFKlh1lsnrjRCl8-5YncjtWs6oowTg"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syria Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1f1b6746de6c51aaa2fdc16b1f7e52b919e52e0ea54f8b0bf91407a5593f7817",
+  "content_variants": [
+    {
+      "bytes": 2552,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:59:00+00:00",
+      "sha256": "1f1b6746de6c51aaa2fdc16b1f7e52b919e52e0ea54f8b0bf91407a5593f7817",
+      "source_url": "https://web.archive.org/web/20220929172510id_/https://www.syriahr.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D8%A8/498953/?fbclid=IwAR23QGyajVVcr5P-HEWo2KVAbKP03NFKlh1lsnrjRCl8-5YncjtWs6oowTg",
+      "text": "إصابة شخصين باستهداف إسرائيلي لقرية بريف القنيطرة عند الحدود مع الجولان السوري المحتل\n\nأفادت مصادر المرصد السوري لحقوق الإنسان، بمحافظة القنيطرة، بأن القوات الإسرائيلية استهدفت بقذائف دبابة عسكرية، منطقة الحميدية بريف القنيطرة عند الحدود مع الجولان السوري المحتل، الأمر الذي أدى لإصابة شخصين اثنين لم تعرف هويتهم حتى اللحظة، ووفقاً لمصادر المرصد السوري، فإن دبابة إسرائيلية أطلقت 3 قذائف عند اقتراب الشخصين من منطقة “فض الاشتباكات”.\nوكان المرصد السوري أشار في السابع من شهر تموز الفائت من العام الجاري، إلى أن مسيّرة إسرائيلية استهدفت شخصًا من أهالي بلدة حضر بريف القنيطرة الشمالي، مما تسبب بمقتله على الفور\nووفقًا لمصادر المرصد السوري، فإن الشخص المستهدف يعمل في مجال الرصد والاستطلاع لصالح “حزب الله” اللبناني، في بلدة حضر الحدودية مع الجولان السوري المحتل، حيث جرى استهدافه من قِبل المسيرة الإسرائيلية أثناء تواجده قرب منزله الواقع في منطقة مقلع هادي غربي بلدة حضر.\n\nالسابق\n\nمقتل أحد عناصر قوات النظام برصاص مجهولين في مدينة درعا\n\nالتالي\n\nالقوات التركية تطلق الرصاص بالهواء لإبعاد المتظاهرين عن معبر جرابلس مع استمرار المظاهرات الشعبية ضد تصريحات وزير الخارجية التركي\n\nقصف صاروخي ومدفعي مصدره القوات التركية والفصائل الموالية لها يطال مناطق بريف حلب…\n\nمتأثرةً بجراحها.. استشهاد طفلة في عملية اغتيال سابقة طالت عائلتها من قبل مجهولين في…\n\nرغم مضي 5 سنوات على تحريرها من قبضة تنظيم “الدولة الإسلامية”.. يستمر…\n\nرغم الفاجعة المؤلمة..مخابرات النظام تسرق مصاغ ذهبية وأموال كانت بحوزة جثث غرقى…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:58:57+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:59:00+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220929172510id_/https://www.syriahr.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D8%A8/498953/?fbclid=IwAR23QGyajVVcr5P-HEWo2KVAbKP03NFKlh1lsnrjRCl8-5YncjtWs6oowTg"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220929172510id_/https://www.syriahr.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D8%A8/498953/?fbclid=IwAR23QGyajVVcr5P-HEWo2KVAbKP03NFKlh1lsnrjRCl8-5YncjtWs6oowTg",
   "incident_ids": [
     "airwars-84518"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%b4%d8%ae%d8%b5%d9%8a%d9%86-%d8%a8%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a-%d9%84%d9%82%d8%b1%d9%8a%d8%a9-%d8%a8/498953/?fbclid=IwAR23QGyajVVcr5P-HEWo2KVAbKP03NFKlh1lsnrjRCl8-5YncjtWs6oowTg"
   ],
   "original_url": "https://www.syriahr.com/%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%b4%d8%ae%d8%b5%d9%8a%d9%86-%d8%a8%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a-%d9%84%d9%82%d8%b1%d9%8a%d8%a9-%d8%a8/498953/?fbclid=IwAR23QGyajVVcr5P-HEWo2KVAbKP03NFKlh1lsnrjRCl8-5YncjtWs6oowTg",
-  "page_title": "",
+  "page_title": "إصابة شخصين باستهداف إسرائيلي لقرية بريف القنيطرة عند الحدود مع الجولان السوري المحتل - المرصد السوري لحقوق الإنسان إصابة شخصين باستهداف إسرائيلي لقرية بريف القنيطرة عند الحدود مع الجولان السوري المحتل - المرصد السوري لحقوق الإنسان",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy027-august-12-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:59:00+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-53edf9fd069e3c53e45e301e",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.syriahr.com/%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%b4%d8%ae%d8%b5%d9%8a%d9%86-%d8%a8%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a-%d9%84%d9%82%d8%b1%d9%8a%d8%a9-%d8%a8/498953/?fbclid=IwAR23QGyajVVcr5P-HEWo2KVAbKP03NFKlh1lsnrjRCl8-5YncjtWs6oowTg",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة شخصين باستهداف إسرائيلي لقرية بريف القنيطرة عند الحدود مع الجولان السوري المحتل\n\nأفادت مصادر المرصد السوري لحقوق الإنسان، بمحافظة القنيطرة، بأن القوات الإسرائيلية استهدفت بقذائف دبابة عسكرية، منطقة الحميدية بريف القنيطرة عند الحدود مع الجولان السوري المحتل، الأمر الذي أدى لإصابة شخصين اثنين لم تعرف هويتهم حتى اللحظة، ووفقاً لمصادر المرصد السوري، فإن دبابة إسرائيلية أطلقت 3 قذائف عند اقتراب الشخصين من منطقة “فض الاشتباكات”.\nوكان المرصد السوري أشار في السابع من شهر تموز الفائت من العام الجاري، إلى أن مسيّرة إسرائيلية استهدفت شخصًا من أهالي بلدة حضر بريف القنيطرة الشمالي، مما تسبب بمقتله على الفور\nووفقًا لمصادر المرصد السوري، فإن الشخص المستهدف يعمل في مجال الرصد والاستطلاع لصالح “حزب الله” اللبناني، في بلدة حضر الحدودية مع الجولان السوري المحتل، حيث جرى استهدافه من قِبل المسيرة الإسرائيلية أثناء تواجده قرب منزله الواقع في منطقة مقلع هادي غربي بلدة حضر.\n\nالسابق\n\nمقتل أحد عناصر قوات النظام برصاص مجهولين في مدينة درعا\n\nالتالي\n\nالقوات التركية تطلق الرصاص بالهواء لإبعاد المتظاهرين عن معبر جرابلس مع استمرار المظاهرات الشعبية ضد تصريحات وزير الخارجية التركي\n\nقصف صاروخي ومدفعي مصدره القوات التركية والفصائل الموالية لها يطال مناطق بريف حلب…\n\nمتأثرةً بجراحها.. استشهاد طفلة في عملية اغتيال سابقة طالت عائلتها من قبل مجهولين في…\n\nرغم مضي 5 سنوات على تحريرها من قبضة تنظيم “الدولة الإسلامية”.. يستمر…\n\nرغم الفاجعة المؤلمة..مخابرات النظام تسرق مصاغ ذهبية وأموال كانت بحوزة جثث غرقى…",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
