@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/DvVzI"
+    "https://archive.md/DvVzI",
+    "https://web.archive.org/web/20250422103915id_/https://eyeofeuphrates.com/ar/news/2021/12/13/3935?fbclid=IwAR0hRB2kWy-72QHe5pMqFBhxNEMNCOMWPYR1yrWdNOmYBI6EIbbnJ-6D1FU"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Eye of Euphrates",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1c9648ae1ba584a84b51e645fc45d6e655279d836b116447ad18943f74061b36",
+  "content_variants": [
+    {
+      "bytes": 536,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:28:47+00:00",
+      "sha256": "1c9648ae1ba584a84b51e645fc45d6e655279d836b116447ad18943f74061b36",
+      "source_url": "https://web.archive.org/web/20250422103915id_/https://eyeofeuphrates.com/ar/news/2021/12/13/3935?fbclid=IwAR0hRB2kWy-72QHe5pMqFBhxNEMNCOMWPYR1yrWdNOmYBI6EIbbnJ-6D1FU",
+      "text": "خاص-عين الفرات نفذت قوات التحالف الدولي، بعد منتصف الليل، عملية إنزال استهدفت أكثر من منزل وشخص في مدينة البصيرة شرقي ديرالزور. وقال مراسل شبكة \"عين الفرات\" إن مروحيتين وقوات أرضية شاركت بالعملية واستعملت مكبرات الصوت للنداء على المطلوبين وإخبارهم بأن المكان محاصر من قبل التحالف، وعليهم تسليم"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:28:46+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:28:47+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250422103915id_/https://eyeofeuphrates.com/ar/news/2021/12/13/3935?fbclid=IwAR0hRB2kWy-72QHe5pMqFBhxNEMNCOMWPYR1yrWdNOmYBI6EIbbnJ-6D1FU"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250422103915id_/https://eyeofeuphrates.com/ar/news/2021/12/13/3935?fbclid=IwAR0hRB2kWy-72QHe5pMqFBhxNEMNCOMWPYR1yrWdNOmYBI6EIbbnJ-6D1FU",
   "incident_ids": [
     "airwars-80656"
   ],
@@ -85,10 +109,10 @@
     "https://eyeofeuphrates.com/ar/news/2021/12/13/3935?fbclid=IwAR0hRB2kWy-72QHe5pMqFBhxNEMNCOMWPYR1yrWdNOmYBI6EIbbnJ-6D1FU"
   ],
   "original_url": "https://eyeofeuphrates.com/ar/news/2021/12/13/3935?fbclid=IwAR0hRB2kWy-72QHe5pMqFBhxNEMNCOMWPYR1yrWdNOmYBI6EIbbnJ-6D1FU",
-  "page_title": "",
+  "page_title": "قتـ.ـلى ومعتقلون بعملية إنزال للتحالف الدولي على البصيرة شرقي ديرالزور.. إليك التفاصيل | شبكة عين الفرات شبكة عين الفرات | قتـ.ـلى ومعتقلون بعملية إنزال للتحالف الدولي على البصيرة شرقي ديرالزور.. إليك التفاصيل",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1974-december-12-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:28:47+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-41e20a0ec0101cde808ee4f9",
   "source_type": "other_web_page",
   "stable_id_basis": "https://eyeofeuphrates.com/ar/news/2021/12/13/3935?fbclid=IwAR0hRB2kWy-72QHe5pMqFBhxNEMNCOMWPYR1yrWdNOmYBI6EIbbnJ-6D1FU",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "خاص-عين الفرات نفذت قوات التحالف الدولي، بعد منتصف الليل، عملية إنزال استهدفت أكثر من منزل وشخص في مدينة البصيرة شرقي ديرالزور. وقال مراسل شبكة \"عين الفرات\" إن مروحيتين وقوات أرضية شاركت بالعملية واستعملت مكبرات الصوت للنداء على المطلوبين وإخبارهم بأن المكان محاصر من قبل التحالف، وعليهم تسليم",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

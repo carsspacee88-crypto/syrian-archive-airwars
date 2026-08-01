@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/DL2jm"
+    "https://archive.is/DL2jm",
+    "https://web.archive.org/web/20220208091812id_/https://stepagency-sy.net/2022/01/20/%d8%b9%d9%81%d8%b1%d9%8a%d9%86-5/?fbclid=IwAR12z21Kh9pGKFX05zE4ObXmNt_-1BzjuCZP0dcTVjyjPGp3ludMQmTe6a8"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Step",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b3d49c3d96589b10798b4b10d98a997d406ff192e379266d3b85cc3a5e3c18c6",
+  "content_variants": [
+    {
+      "bytes": 2323,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:27:34+00:00",
+      "sha256": "b3d49c3d96589b10798b4b10d98a997d406ff192e379266d3b85cc3a5e3c18c6",
+      "source_url": "https://web.archive.org/web/20220208091812id_/https://stepagency-sy.net/2022/01/20/%d8%b9%d9%81%d8%b1%d9%8a%d9%86-5/?fbclid=IwAR12z21Kh9pGKFX05zE4ObXmNt_-1BzjuCZP0dcTVjyjPGp3ludMQmTe6a8",
+      "text": "تعرضت مدينة عفرين في ريف حلب شمال غرب سورية إلى القصف بعدد من القذائف الصاروخية مصدرها قوات قسد.\n\nوقال مراسل وكالة ستيب الإخبارية “محمد عرابي” إنه قتل 3 أشخاص وأصيب 13 آخرين جراء القصف، وسارع الدفاع المدني لنقل الاصابات الى المشافي في المدينة.\n\nوأضاف بأن قذيفتين سقطوا على مديرية الصحة في المدينة.\n\nكما أفاد باحتراق وتضرر عدد من المحال والسيارات والمنازل،\n\nمشيراً إلى أن ذلك يأتي ذكرى تحرير عفرين.\n\nالتالي\n\nوزير الدفاع التركي وكبار ضباطه يصلون الحدود السورية ويكشف مستقبل تحركاتهم العسكرية داخل أراضيها\n\nبالفيديو|| عاصفة ثلجية قوية تهدم خيام اللاجئين السوريين وتغلق الطرق وتحاصرهم في ظروف قاسية\n\nوزير الدفاع التركي وكبار ضباطه يصلون الحدود السورية ويكشف مستقبل تحركاتهم العسكرية داخل أراضيها\n\nبالفيديو|| عاصفة ثلجية قوية تهدم خيام اللاجئين السوريين وتغلق الطرق وتحاصرهم في ظروف قاسية\n\nشاهد|| العاصفة هبه تجمد اللبنانيين ومشاهد مخيفة لما سببه الصقيع بالسيارات.. ودعوات لإنقاذ النازحين\n\nبعد هروب الأسرى الستة.. اختراق أمنيّ جديد في السجون الإسرائيلية\n\nمقالات ذات صلة\n\nالاستخبارات الروسية تتحدث عن مخطط أمريكي “تحريضي” في محافظتي دمشق واللاذقية\n\nبالفيديو|| ماكنزي يتحدث عن مقاتلات أمريكية متطورة ستصل الإمارات قريباً مهاجماً ميليشيا الحوثي\n\nواشنطن تعرض 10 ملايين دولار لاعتقال زعيم تنظيم داعش.. وتنشر صورة له\n\nبعد قراره حل المجلس الأعلى للقضاء.. تصريحات مثيرة للرئيس التونسي قيس سعيد"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:27:33+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:27:34+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220208091812id_/https://stepagency-sy.net/2022/01/20/%d8%b9%d9%81%d8%b1%d9%8a%d9%86-5/?fbclid=IwAR12z21Kh9pGKFX05zE4ObXmNt_-1BzjuCZP0dcTVjyjPGp3ludMQmTe6a8"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220208091812id_/https://stepagency-sy.net/2022/01/20/%d8%b9%d9%81%d8%b1%d9%8a%d9%86-5/?fbclid=IwAR12z21Kh9pGKFX05zE4ObXmNt_-1BzjuCZP0dcTVjyjPGp3ludMQmTe6a8",
   "incident_ids": [
     "airwars-81349"
   ],
@@ -85,10 +109,10 @@
     "https://stepagency-sy.net/2022/01/20/%d8%b9%d9%81%d8%b1%d9%8a%d9%86-5/?fbclid=IwAR12z21Kh9pGKFX05zE4ObXmNt_-1BzjuCZP0dcTVjyjPGp3ludMQmTe6a8"
   ],
   "original_url": "https://stepagency-sy.net/2022/01/20/%d8%b9%d9%81%d8%b1%d9%8a%d9%86-5/?fbclid=IwAR12z21Kh9pGKFX05zE4ObXmNt_-1BzjuCZP0dcTVjyjPGp3ludMQmTe6a8",
-  "page_title": "",
+  "page_title": "قتلى وجرحى في قصف على مدينة عفرين | وكالة ستيب الإخبارية قتلى وجرحى في قصف على مدينة عفرين | وكالة ستيب الإخبارية قتلى وجرحى في قصف على مدينة عفرين | وكالة ستيب الإخبارية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys122-january-20-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:27:34+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-240c0761a0ed0feacc97d04d",
   "source_type": "news_article",
   "stable_id_basis": "https://stepagency-sy.net/2022/01/20/%d8%b9%d9%81%d8%b1%d9%8a%d9%86-5/?fbclid=IwAR12z21Kh9pGKFX05zE4ObXmNt_-1BzjuCZP0dcTVjyjPGp3ludMQmTe6a8",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "تعرضت مدينة عفرين في ريف حلب شمال غرب سورية إلى القصف بعدد من القذائف الصاروخية مصدرها قوات قسد.\n\nوقال مراسل وكالة ستيب الإخبارية “محمد عرابي” إنه قتل 3 أشخاص وأصيب 13 آخرين جراء القصف، وسارع الدفاع المدني لنقل الاصابات الى المشافي في المدينة.\n\nوأضاف بأن قذيفتين سقطوا على مديرية الصحة في المدينة.\n\nكما أفاد باحتراق وتضرر عدد من المحال والسيارات والمنازل،\n\nمشيراً إلى أن ذلك يأتي ذكرى تحرير عفرين.\n\nالتالي\n\nوزير الدفاع التركي وكبار ضباطه يصلون الحدود السورية ويكشف مستقبل تحركاتهم العسكرية داخل أراضيها\n\nبالفيديو|| عاصفة ثلجية قوية تهدم خيام اللاجئين السوريين وتغلق الطرق وتحاصرهم في ظروف قاسية\n\nوزير الدفاع التركي وكبار ضباطه يصلون الحدود السورية ويكشف مستقبل تحركاتهم العسكرية داخل أراضيها\n\nبالفيديو|| عاصفة ثلجية قوية تهدم خيام اللاجئين السوريين وتغلق الطرق وتحاصرهم في ظروف قاسية\n\nشاهد|| العاصفة هبه تجمد اللبنانيين ومشاهد مخيفة لما سببه الصقيع بالسيارات.. ودعوات لإنقاذ النازحين\n\nبعد هروب الأسرى الستة.. اختراق أمنيّ جديد في السجون الإسرائيلية\n\nمقالات ذات صلة\n\nالاستخبارات الروسية تتحدث عن مخطط أمريكي “تحريضي” في محافظتي دمشق واللاذقية\n\nبالفيديو|| ماكنزي يتحدث عن مقاتلات أمريكية متطورة ستصل الإمارات قريباً مهاجماً ميليشيا الحوثي\n\nواشنطن تعرض 10 ملايين دولار لاعتقال زعيم تنظيم داعش.. وتنشر صورة له\n\nبعد قراره حل المجلس الأعلى للقضاء.. تصريحات مثيرة للرئيس التونسي قيس سعيد",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/4Lrer"
+    "https://archive.md/4Lrer",
+    "https://web.archive.org/web/20240515180437id_/https://www.facebook.com/EdlibEmc1/posts/3073648132848735"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Edlib Media Center",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "789c0f601fc5b7d9427667653809690cc271742bddb31e46ba79d77f3e834c43",
+  "content_variants": [
+    {
+      "bytes": 197,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:44:40+00:00",
+      "sha256": "789c0f601fc5b7d9427667653809690cc271742bddb31e46ba79d77f3e834c43",
+      "source_url": "https://web.archive.org/web/20240515180437id_/https://www.facebook.com/EdlibEmc1/posts/3073648132848735",
+      "text": "مركز #ادلب الإعلامي\n\nصور توضح لحظة استهداف طيران الاحتلال الروسي محيط بلدة اليعقوبية غرب ادلب بالصواريخ .\n\n#EMC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:44:39+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:44:40+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515180437id_/https://www.facebook.com/EdlibEmc1/posts/3073648132848735"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515180437id_/https://www.facebook.com/EdlibEmc1/posts/3073648132848735",
   "incident_ids": [
     "airwars-80634"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/EdlibEmc1/posts/3073648132848735"
   ],
   "original_url": "https://www.facebook.com/EdlibEmc1/posts/3073648132848735",
-  "page_title": "",
+  "page_title": "مركز إدلب الإعلامي Edlib Media Center مركز إدلب الإعلامي Edlib Media Center مركز #ادلب... - مركز إدلب الإعلامي Edlib Media Center",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4679-december-11-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:44:40+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b6a87ce727f5d1adc6a2ef08",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/EdlibEmc1/posts/3073648132848735",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مركز #ادلب الإعلامي\n\nصور توضح لحظة استهداف طيران الاحتلال الروسي محيط بلدة اليعقوبية غرب ادلب بالصواريخ .\n\n#EMC",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

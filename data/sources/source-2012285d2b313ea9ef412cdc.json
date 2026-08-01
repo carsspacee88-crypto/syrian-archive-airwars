@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/H5gko"
+    "https://archive.is/H5gko",
+    "https://web.archive.org/web/20230207191511id_/http://www.zaitonmag.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84%D9%8A%D9%86-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%BA%D8%B1%D8%A8%D9%8A/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaiton mag",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "24d27ee92fde2c2596611c611563c39da911c8fe245cb88eedb4f300163af69b",
+  "content_variants": [
+    {
+      "bytes": 1434,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:27:07+00:00",
+      "sha256": "24d27ee92fde2c2596611c611563c39da911c8fe245cb88eedb4f300163af69b",
+      "source_url": "https://web.archive.org/web/20230207191511id_/http://www.zaitonmag.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84%D9%8A%D9%86-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%BA%D8%B1%D8%A8%D9%8A/",
+      "text": "إصابة طفلين بانفجار مخلفات القصف غربي إدلب\n\n2022-02-22\n287 زيارة\n\nأصيب طفلان بجروح خطرة اليوم الثلاثاء، جراء انفجار مخلفات قصف سابق لقوات النظام على مناطق ريف إدلب الغربي.\n\nوأفاد الدفاع المدني، بإصابة طفلين بجروح خطرة، إثر انفجار ذخائر غير منفجرة من مخلفات قصف سابق لقوات النظام وروسيا في قرية عدوان غربي إدلب.\n\nوأشار الدفاع المدني إلى أن هذه ثالث حادثة من نوعها خلال 24 ساعة الماضية، حيث أصيب 4 أطفال أمس الاثنين بانفجارين مماثلين في جسر الشغور ودركوش غربي إدلب.\n\nوأكد الدفاع المدني أن آلاف الذخائر غير المنفجرة جراء قصف قوات النظام وروسيا على مدن وبلدات الشمال السوري تنتشر في المناطق الزراعية وبين منازل المدنيين في مناطق شمال غرب سوريا، وتشكل تهديدا كبيرة على حياة السكان، ونصح المدنيين بالابتعاد عن الأجسام الغريبة وعدم التردد بالإبلاغ عنهم لأقرب مركز للدفاع المدني السوري ليتم التعامل معها."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:27:06+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:27:07+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230207191511id_/http://www.zaitonmag.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84%D9%8A%D9%86-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%BA%D8%B1%D8%A8%D9%8A/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230207191511id_/http://www.zaitonmag.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84%D9%8A%D9%86-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%BA%D8%B1%D8%A8%D9%8A/",
   "incident_ids": [
     "airwars-82133"
   ],
@@ -85,10 +109,10 @@
     "http://www.zaitonmag.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84%D9%8A%D9%86-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%BA%D8%B1%D8%A8%D9%8A/"
   ],
   "original_url": "http://www.zaitonmag.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84%D9%8A%D9%86-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%BA%D8%B1%D8%A8%D9%8A/",
-  "page_title": "",
+  "page_title": "إصابة طفلين بانفجار مخلفات القصف غربي إدلب - جريدة زيتون إصابة طفلين بانفجار مخلفات القصف غربي إدلب - جريدة زيتون",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4694-february-22-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:27:07+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2012285d2b313ea9ef412cdc",
   "source_type": "other_web_page",
   "stable_id_basis": "http://www.zaitonmag.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84%D9%8A%D9%86-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%BA%D8%B1%D8%A8%D9%8A/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة طفلين بانفجار مخلفات القصف غربي إدلب\n\n2022-02-22\n287 زيارة\n\nأصيب طفلان بجروح خطرة اليوم الثلاثاء، جراء انفجار مخلفات قصف سابق لقوات النظام على مناطق ريف إدلب الغربي.\n\nوأفاد الدفاع المدني، بإصابة طفلين بجروح خطرة، إثر انفجار ذخائر غير منفجرة من مخلفات قصف سابق لقوات النظام وروسيا في قرية عدوان غربي إدلب.\n\nوأشار الدفاع المدني إلى أن هذه ثالث حادثة من نوعها خلال 24 ساعة الماضية، حيث أصيب 4 أطفال أمس الاثنين بانفجارين مماثلين في جسر الشغور ودركوش غربي إدلب.\n\nوأكد الدفاع المدني أن آلاف الذخائر غير المنفجرة جراء قصف قوات النظام وروسيا على مدن وبلدات الشمال السوري تنتشر في المناطق الزراعية وبين منازل المدنيين في مناطق شمال غرب سوريا، وتشكل تهديدا كبيرة على حياة السكان، ونصح المدنيين بالابتعاد عن الأجسام الغريبة وعدم التردد بالإبلاغ عنهم لأقرب مركز للدفاع المدني السوري ليتم التعامل معها.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

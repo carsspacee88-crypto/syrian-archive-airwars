@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/WPtMT"
+    "https://archive.md/WPtMT",
+    "https://web.archive.org/web/20240524162822id_/https://www.facebook.com/Alarabiya.syria/posts/4794945840563608"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Alarabiya.syria",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c9967a16514adf08f0797e7b6b3a059e129f023035e1d209c1444efed1cb0f7e",
+  "content_variants": [
+    {
+      "bytes": 622,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:41:23+00:00",
+      "sha256": "c9967a16514adf08f0797e7b6b3a059e129f023035e1d209c1444efed1cb0f7e",
+      "source_url": "https://web.archive.org/web/20240524162822id_/https://www.facebook.com/Alarabiya.syria/posts/4794945840563608",
+      "text": "تصعيد روسي في إدلب يسفر عن قتلى وجرحى بينهم أطفال\n\nقضت امرأة وأصيب ثلاثة أشخاص بجروح بينهم أطفال، جراء قصف نفذته طائرات حربية روسية على ريف إدلب...\n\nتصعيد روسي في إدلب يسفر عن قتلى وجرحى بينهم أطفال\n\nقضت امرأة وأصيب ثلاثة أشخاص بجروح بينهم أطفال، جراء قصف نفذته طائرات حربية روسية على ريف إدلب الجنوبي، اليوم الخميس، في تصعيد جديد يستهدف مناطق..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:41:22+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:41:23+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524162822id_/https://www.facebook.com/Alarabiya.syria/posts/4794945840563608"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524162822id_/https://www.facebook.com/Alarabiya.syria/posts/4794945840563608",
   "incident_ids": [
     "airwars-80283",
     "airwars-80278"
@@ -87,10 +111,10 @@
     "https://www.facebook.com/Alarabiya.syria/posts/4794945840563608"
   ],
   "original_url": "https://www.facebook.com/Alarabiya.syria/posts/4794945840563608",
-  "page_title": "",
+  "page_title": "العربية سوريا - Al Arabiya Syria العربية سوريا - Al Arabiya Syria تصعيد روسي في إدلب يسفر... - العربية سوريا - Al Arabiya Syria",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4672-november-25-2021/",
@@ -118,15 +142,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:41:23+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-907ff69c7f68cb1e324b8c71",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/Alarabiya.syria/posts/4794945840563608",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "تصعيد روسي في إدلب يسفر عن قتلى وجرحى بينهم أطفال\n\nقضت امرأة وأصيب ثلاثة أشخاص بجروح بينهم أطفال، جراء قصف نفذته طائرات حربية روسية على ريف إدلب...\n\nتصعيد روسي في إدلب يسفر عن قتلى وجرحى بينهم أطفال\n\nقضت امرأة وأصيب ثلاثة أشخاص بجروح بينهم أطفال، جراء قصف نفذته طائرات حربية روسية على ريف إدلب الجنوبي، اليوم الخميس، في تصعيد جديد يستهدف مناطق...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

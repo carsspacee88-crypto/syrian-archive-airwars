@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/mH65i"
+    "https://archive.md/mH65i",
+    "https://web.archive.org/web/20230922162411id_/https://www.syriahr.com/en/230821/?fbclid=IwAR3byu5wWIiG5dlYWyORBR0lT76HK8s6hPIf6OZuSJnOitn3qxa7LNKmyyY"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "9c27680f9fc7e2251be6ae75d69c02892ff84e5fdbedf6a71e2468e33b9970a2",
+  "content_variants": [
+    {
+      "bytes": 1307,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:31:58+00:00",
+      "sha256": "9c27680f9fc7e2251be6ae75d69c02892ff84e5fdbedf6a71e2468e33b9970a2",
+      "source_url": "https://web.archive.org/web/20230922162411id_/https://www.syriahr.com/en/230821/?fbclid=IwAR3byu5wWIiG5dlYWyORBR0lT76HK8s6hPIf6OZuSJnOitn3qxa7LNKmyyY",
+      "text": "Regime rocket attack | Young man killed in Al-Atarib city, west Aleppo countryside\n\nAleppo province: SOHR activists have documented the death of a young man in a regime rocket attack that hit Al-Atarib city in the western countryside of Aleppo.\n\nSOHR activists also monitored an intensive rocket attack by regime, as regime forces fired 30 rockets on Kafrtaal town in the western countryside of Aleppo.\n\nEarly morning, SOHR activists monitored a rocket attack carried out by regime forces, targeting areas in Al-Futirah, Banin, and Fulifil in Jabal Al-Zawiyah in the southern countryside of Idlib, while Al-Fatah operations room factions have bombed regime positions on Kafr Batikh frontline in the south-eastern countryside of Idlib.\n\nPrev Post\n\nAfrin countryside | Military police members severely beat civilian, forcing him to pay 8,000 TL for his release\n\nNext Post\n\nMysterious crime | “Collaborator” with US forces found dead in Al-Hasakah\n\nDemanding expulsion of Iranian-backed militias and release of detainees | Residents…\n\nAmid unknown fate of the commander of “NDF” | Regime forces take control of security…\n\n“SOHR camera” captures SDF fighter on high alert in front of Ghuwayran prison, near…\n\nOngoing security chaos in Daraa | Two children and two regime soldiers injured in…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:31:58+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:31:58+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230922162411id_/https://www.syriahr.com/en/230821/?fbclid=IwAR3byu5wWIiG5dlYWyORBR0lT76HK8s6hPIf6OZuSJnOitn3qxa7LNKmyyY"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230922162411id_/https://www.syriahr.com/en/230821/?fbclid=IwAR3byu5wWIiG5dlYWyORBR0lT76HK8s6hPIf6OZuSJnOitn3qxa7LNKmyyY",
   "incident_ids": [
     "airwars-80646"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/230821/?fbclid=IwAR3byu5wWIiG5dlYWyORBR0lT76HK8s6hPIf6OZuSJnOitn3qxa7LNKmyyY"
   ],
   "original_url": "https://www.syriahr.com/en/230821/?fbclid=IwAR3byu5wWIiG5dlYWyORBR0lT76HK8s6hPIf6OZuSJnOitn3qxa7LNKmyyY",
-  "page_title": "",
+  "page_title": "Regime rocket attack | Young man killed in Al-Atarib city, west Aleppo countryside • The Syrian Observatory For Human Rights Regime rocket attack | Young man killed in Al-Atarib city, west Aleppo countryside • The Syrian Observatory For Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4680-december-11-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:31:58+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5a5df5415ec50079149f7570",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/230821/?fbclid=IwAR3byu5wWIiG5dlYWyORBR0lT76HK8s6hPIf6OZuSJnOitn3qxa7LNKmyyY",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Regime rocket attack | Young man killed in Al-Atarib city, west Aleppo countryside\n\nAleppo province: SOHR activists have documented the death of a young man in a regime rocket attack that hit Al-Atarib city in the western countryside of Aleppo.\n\nSOHR activists also monitored an intensive rocket attack by regime, as regime forces fired 30 rockets on Kafrtaal town in the western countryside of Aleppo.\n\nEarly morning, SOHR activists monitored a rocket attack carried out by regime forces, targeting areas in Al-Futirah, Banin, and Fulifil in Jabal Al-Zawiyah in the southern countryside of Idlib, while Al-Fatah operations room factions have bombed regime positions on Kafr Batikh frontline in the south-eastern countryside of Idlib.\n\nPrev Post\n\nAfrin countryside | Military police members severely beat civilian, forcing him to pay 8,000 TL for his release\n\nNext Post\n\nMysterious crime | “Collaborator” with US forces found dead in Al-Hasakah\n\nDemanding expulsion of Iranian-backed militias and release of detainees | Residents…\n\nAmid unknown fate of the commander of “NDF” | Regime forces take control of security…\n\n“SOHR camera” captures SDF fighter on high alert in front of Ghuwayran prison, near…\n\nOngoing security chaos in Daraa | Two children and two regime soldiers injured in…",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

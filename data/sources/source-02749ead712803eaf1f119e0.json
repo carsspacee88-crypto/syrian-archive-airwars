@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/hwC0t"
+    "https://archive.is/hwC0t",
+    "https://web.archive.org/web/20250622173107id_/https://alyaumtv.net/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D8%A8%D8%AA%D8%AC%D8%AF%D8%AF-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Alyaum TV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1928ace1a9062a08bf13dd9314166743f0e223c26c9e1ceb291dd9d640081aa0",
+  "content_variants": [
+    {
+      "bytes": 1821,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:22:13+00:00",
+      "sha256": "1928ace1a9062a08bf13dd9314166743f0e223c26c9e1ceb291dd9d640081aa0",
+      "source_url": "https://web.archive.org/web/20250622173107id_/https://alyaumtv.net/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D8%A8%D8%AA%D8%AC%D8%AF%D8%AF-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84/",
+      "text": "إصابة مدني بتجدد القصف المدفعي للاحتلال التركي على عين عيسى\n\nأُصيبَ مدنيٌّ جرّاء القصف المدفعي والصاروخي للاحتلال التركي على ريف ناحية عين عيسى شمال شرق سوريا.\n\nوقال مراسل اليوم، إنّ الاحتلال التركي عاود قصفه المدفعي على قرية معلك الآهلة بالمدنيين، ومخيم عين عيسى على الطريق الدولي بريف الناحية الغربي، ما أدّى لإصابة مدنيّ كان يرعى أغنامه في المنطقة.\n\nوكان حريقٌ قد اندلع في أحدِ منازل المدنيين في قرية معلك بريف الناحية، جراء قصفٍ نفّذه الاحتلال التركي والفصائل الإرهابية التابعة له من قواعد المنتشرة في محيط الناحية الشرقي والشمالي والغربي.\n\nهذا وأنشأ الاحتلال التركي أربعَ قواعدَ عسكريةٍ في محيط ناحية عين عيسى منذ العام الماضي، ومنها تنطلق القذائف والصواريخ لتسقط على رؤوس المدنيين في الناحية والقرى المحيطة بها وبالطريق الدولي إم فور.\n\nفوزة يوسف – الرئيسة المشتركة لوفد شمال وشرق سوريا التفاوضي لقناة اليوم: الأجواء…\n\nتعزيزات عسكرية أمريكية ضخمة تصل إلى شمال وشرق سوريا\n\nتعزيزات عسكرية جديدة للتحالف الدولي تصل إلى شمال وشرق سوريا\n\nتعزيزات عسكرية جديدة للتحالف الدولي تصل إلى شمال وشرق سوريا"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:22:13+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:22:13+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250622173107id_/https://alyaumtv.net/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D8%A8%D8%AA%D8%AC%D8%AF%D8%AF-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250622173107id_/https://alyaumtv.net/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D8%A8%D8%AA%D8%AC%D8%AF%D8%AF-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84/",
   "incident_ids": [
     "airwars-79108"
   ],
@@ -85,10 +109,10 @@
     "https://alyaumtv.net/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D8%A8%D8%AA%D8%AC%D8%AF%D8%AF-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84/"
   ],
   "original_url": "https://alyaumtv.net/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D8%A8%D8%AA%D8%AC%D8%AF%D8%AF-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84/",
-  "page_title": "",
+  "page_title": "إصابة مدني بتجدد القصف المدفعي للاحتلال التركي على عين عيسى – قناة اليوم إصابة مدني بتجدد القصف المدفعي للاحتلال التركي على عين عيسى إصابة مدني بتجدد القصف المدفعي للاحتلال التركي على عين عيسى",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts475-october-2-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:22:13+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-02749ead712803eaf1f119e0",
   "source_type": "other_web_page",
   "stable_id_basis": "https://alyaumtv.net/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D8%A8%D8%AA%D8%AC%D8%AF%D8%AF-%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة مدني بتجدد القصف المدفعي للاحتلال التركي على عين عيسى\n\nأُصيبَ مدنيٌّ جرّاء القصف المدفعي والصاروخي للاحتلال التركي على ريف ناحية عين عيسى شمال شرق سوريا.\n\nوقال مراسل اليوم، إنّ الاحتلال التركي عاود قصفه المدفعي على قرية معلك الآهلة بالمدنيين، ومخيم عين عيسى على الطريق الدولي بريف الناحية الغربي، ما أدّى لإصابة مدنيّ كان يرعى أغنامه في المنطقة.\n\nوكان حريقٌ قد اندلع في أحدِ منازل المدنيين في قرية معلك بريف الناحية، جراء قصفٍ نفّذه الاحتلال التركي والفصائل الإرهابية التابعة له من قواعد المنتشرة في محيط الناحية الشرقي والشمالي والغربي.\n\nهذا وأنشأ الاحتلال التركي أربعَ قواعدَ عسكريةٍ في محيط ناحية عين عيسى منذ العام الماضي، ومنها تنطلق القذائف والصواريخ لتسقط على رؤوس المدنيين في الناحية والقرى المحيطة بها وبالطريق الدولي إم فور.\n\nفوزة يوسف – الرئيسة المشتركة لوفد شمال وشرق سوريا التفاوضي لقناة اليوم: الأجواء…\n\nتعزيزات عسكرية أمريكية ضخمة تصل إلى شمال وشرق سوريا\n\nتعزيزات عسكرية جديدة للتحالف الدولي تصل إلى شمال وشرق سوريا\n\nتعزيزات عسكرية جديدة للتحالف الدولي تصل إلى شمال وشرق سوريا",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

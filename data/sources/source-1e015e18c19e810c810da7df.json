@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/I6scr"
+    "https://archive.ph/I6scr",
+    "https://web.archive.org/web/20240524165723id_/https://www.facebook.com/anewsarabic/posts/pfbid02v8LnE8dhT5EkRPjU81LoypK4kn3LyoFiSskYZmoFG5MejMrDzz4yrUv69q5FtXnl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Anewsarabic",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0f667f00b55e0b9b4c5a48cee985d39939ebe204bd9dbc670a2505b372db2b4e",
+  "content_variants": [
+    {
+      "bytes": 637,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:26:48+00:00",
+      "sha256": "0f667f00b55e0b9b4c5a48cee985d39939ebe204bd9dbc670a2505b372db2b4e",
+      "source_url": "https://web.archive.org/web/20240524165723id_/https://www.facebook.com/anewsarabic/posts/pfbid02v8LnE8dhT5EkRPjU81LoypK4kn3LyoFiSskYZmoFG5MejMrDzz4yrUv69q5FtXnl",
+      "text": "قتل 3 مدنيين من أسرة واحدة جراء استهداف قوات النظام السوري لقرية أوبين جنوب غربي محافظة إدلب شمالي البلاد.\n\nوأفادت مصادر بالدفاع المدني السوري (الخوذ...\n\nقتل 3 مدنيين من أسرة واحدة جراء استهداف قوات النظام السوري لقرية أوبين جنوب غربي محافظة إدلب شمالي البلاد.\n\nوأفادت مصادر بالدفاع المدني السوري (الخوذ البيضاء) للأناضول، أن الهجوم أسفر أيضا عن إصابة 6..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:26:47+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:26:48+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524165723id_/https://www.facebook.com/anewsarabic/posts/pfbid02v8LnE8dhT5EkRPjU81LoypK4kn3LyoFiSskYZmoFG5MejMrDzz4yrUv69q5FtXnl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524165723id_/https://www.facebook.com/anewsarabic/posts/pfbid02v8LnE8dhT5EkRPjU81LoypK4kn3LyoFiSskYZmoFG5MejMrDzz4yrUv69q5FtXnl",
   "incident_ids": [
     "airwars-85703"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/anewsarabic/posts/pfbid02v8LnE8dhT5EkRPjU81LoypK4kn3LyoFiSskYZmoFG5MejMrDzz4yrUv69q5FtXnl"
   ],
   "original_url": "https://www.facebook.com/anewsarabic/posts/pfbid02v8LnE8dhT5EkRPjU81LoypK4kn3LyoFiSskYZmoFG5MejMrDzz4yrUv69q5FtXnl",
-  "page_title": "",
+  "page_title": "ANews عربي ANews عربي ANews عربي - قتل 3 مدنيين من أسرة واحدة جراء استهداف قوات...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4748-december-2-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:26:48+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-1e015e18c19e810c810da7df",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/anewsarabic/posts/pfbid02v8LnE8dhT5EkRPjU81LoypK4kn3LyoFiSskYZmoFG5MejMrDzz4yrUv69q5FtXnl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قتل 3 مدنيين من أسرة واحدة جراء استهداف قوات النظام السوري لقرية أوبين جنوب غربي محافظة إدلب شمالي البلاد.\n\nوأفادت مصادر بالدفاع المدني السوري (الخوذ...\n\nقتل 3 مدنيين من أسرة واحدة جراء استهداف قوات النظام السوري لقرية أوبين جنوب غربي محافظة إدلب شمالي البلاد.\n\nوأفادت مصادر بالدفاع المدني السوري (الخوذ البيضاء) للأناضول، أن الهجوم أسفر أيضا عن إصابة 6...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

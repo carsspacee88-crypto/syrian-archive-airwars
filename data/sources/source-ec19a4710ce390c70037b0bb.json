@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/rSMqa"
+    "https://archive.is/rSMqa",
+    "https://web.archive.org/web/20251212031544id_/https://www.zamanalwsl.net/news/article/139296/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaman Al Wasl",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "07a032db06d29d1416b55e4d3e66c094391d04e483ab84ba5bbe7b1026e48899",
+  "content_variants": [
+    {
+      "bytes": 267,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:51:54+00:00",
+      "sha256": "07a032db06d29d1416b55e4d3e66c094391d04e483ab84ba5bbe7b1026e48899",
+      "source_url": "https://web.archive.org/web/20251212031544id_/https://www.zamanalwsl.net/news/article/139296/",
+      "text": "19 آب 2021\n\nميليشيات مرتبطة بروسيا ترتكب مجزرة جديدة في جبل الزاوية\n\n0\n\nالتعليقات\n\nقوات\n\nقرية\n\nشمال\n\nالنظام\n\nإدلب\n\nبلشون\n\nضمن\n\nالزاوية\n\nتعليقات حول الموضوع"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:51:53+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:51:54+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251212031544id_/https://www.zamanalwsl.net/news/article/139296/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251212031544id_/https://www.zamanalwsl.net/news/article/139296/",
   "incident_ids": [
     "airwars-77569"
   ],
@@ -85,10 +109,10 @@
     "https://www.zamanalwsl.net/news/article/139296/"
   ],
   "original_url": "https://www.zamanalwsl.net/news/article/139296/",
-  "page_title": "",
+  "page_title": "ميليشيات مرتبطة بروسيا ترتكب مجزرة جديدة في جبل الزاوية | زمان الوصل ميليشيات مرتبطة بروسيا ترتكب مجزرة جديدة في جبل الزاوية ميليشيات مرتبطة بروسيا ترتكب مجزرة جديدة في جبل الزاوية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4628-august-19-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:51:54+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ec19a4710ce390c70037b0bb",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.zamanalwsl.net/news/article/139296/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "19 آب 2021\n\nميليشيات مرتبطة بروسيا ترتكب مجزرة جديدة في جبل الزاوية\n\n0\n\nالتعليقات\n\nقوات\n\nقرية\n\nشمال\n\nالنظام\n\nإدلب\n\nبلشون\n\nضمن\n\nالزاوية\n\nتعليقات حول الموضوع",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

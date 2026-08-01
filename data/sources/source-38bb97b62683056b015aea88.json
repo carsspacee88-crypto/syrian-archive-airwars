@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20260121160430id_/https://airwars.org/civilian-casualties/ts713-september-9-2024/"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "> The injured citizen was martyred as a result of the Turkish army’s shelling of the village of “Deir Jamal” in al-Shahba",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "dc2b7dfb414fccae713ab88e8486ae285883105667a6f686206aaa725d2df483",
+  "content_variants": [
+    {
+      "bytes": 1455,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:28:21+00:00",
+      "sha256": "dc2b7dfb414fccae713ab88e8486ae285883105667a6f686206aaa725d2df483",
+      "source_url": "https://web.archive.org/web/20260121160430id_/https://airwars.org/civilian-casualties/ts713-september-9-2024/",
+      "text": "Airwars Assessment\n\nOn Monday, September 9th, 2024, one civilian was killed and four civilians, including two children, were reportedly injured following an alleged Turkish artillery strike on the countryside north of Aleppo, Syria. The village of Deir Jamal was hit by shelling in the afternoon and, in addition to the civilian casualties, suffered some material damage to civilian property.\n\nA young man named Muhammad Sadiq Omar, who was between 24 and 30 years of age, died in a hospital as a result of the severe injuries he sustained from the shelling. Efrin Human Rights posted on Facebook that Muhammad owned a shop in the village of Deir Jamal. Hawar News also reported on the incident and wrote that Muhammad was a resident of a nearby village named Kafr Naseh. Hawar News uploaded a blurred image of Muhammad in the hospital. The image is blurred due to its graphic nature, however, the image did show the extent of Muhammad’s serious injuries.\n\nThe Syrian Observatory for Human Rights (SOHR) reported that the incident resulted in more civilian casualties, specifically, “an adult martyr and four wounded, including two children.” However, there were no other reports on the injured civilians at the time of writing.\n\nWhere sources attributed the strike to a belligerent, they were unanimous in identifying Turkish forces as responsible for the attack.\n\nVictims\n\nKey Information\n\nMilitary Statements\n\nMedia from Sources (1)\n\nSources (10)"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:28:21+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:28:21+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260121160430id_/https://airwars.org/civilian-casualties/ts713-september-9-2024/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260121160430id_/https://airwars.org/civilian-casualties/ts713-september-9-2024/",
   "incident_ids": [
     "airwars-126448"
   ],
@@ -55,10 +80,10 @@
     "https://airwars.org/civilian-casualties/ts713-september-9-2024/"
   ],
   "original_url": "https://airwars.org/civilian-casualties/ts713-september-9-2024/",
-  "page_title": "",
+  "page_title": "TS713 – September 9, 2024 – Airwars TS713 – September 9, 2024",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts713-september-9-2024/",
@@ -78,16 +103,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:28:21+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-38bb97b62683056b015aea88",
   "source_type": "other_web_page",
   "stable_id_basis": "https://airwars.org/civilian-casualties/ts713-september-9-2024/",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Airwars Assessment\n\nOn Monday, September 9th, 2024, one civilian was killed and four civilians, including two children, were reportedly injured following an alleged Turkish artillery strike on the countryside north of Aleppo, Syria. The village of Deir Jamal was hit by shelling in the afternoon and, in addition to the civilian casualties, suffered some material damage to civilian property.\n\nA young man named Muhammad Sadiq Omar, who was between 24 and 30 years of age, died in a hospital as a result of the severe injuries he sustained from the shelling. Efrin Human Rights posted on Facebook that Muhammad owned a shop in the village of Deir Jamal. Hawar News also reported on the incident and wrote that Muhammad was a resident of a nearby village named Kafr Naseh. Hawar News uploaded a blurred image of Muhammad in the hospital. The image is blurred due to its graphic nature, however, the image did show the extent of Muhammad’s serious injuries.\n\nThe Syrian Observatory for Human Rights (SOHR) reported that the incident resulted in more civilian casualties, specifically, “an adult martyr and four wounded, including two children.” However, there were no other reports on the injured civilians at the time of writing.\n\nWhere sources attributed the strike to a belligerent, they were unanimous in identifying Turkish forces as responsible for the attack.\n\nVictims\n\nKey Information\n\nMilitary Statements\n\nMedia from Sources (1)\n\nSources (10)",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

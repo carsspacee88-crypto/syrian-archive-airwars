@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/n4fC5"
+    "https://archive.is/n4fC5",
+    "https://web.archive.org/web/20240524195520id_/https://www.facebook.com/IDLEBCITYNEWS1/posts/pfbid02WHH1d2WefgBgV5WhnMRJViXYMxNfghDL9rD45bf79PQiwF6276fyn7CVCHsmre2vl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Revolution coordination",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2b5ae3d29792167a1d3767ca271f8d675e493c66cd95cc659edd5e5b00fb012d",
+  "content_variants": [
+    {
+      "bytes": 640,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:44:34+00:00",
+      "sha256": "2b5ae3d29792167a1d3767ca271f8d675e493c66cd95cc659edd5e5b00fb012d",
+      "source_url": "https://web.archive.org/web/20240524195520id_/https://www.facebook.com/IDLEBCITYNEWS1/posts/pfbid02WHH1d2WefgBgV5WhnMRJViXYMxNfghDL9rD45bf79PQiwF6276fyn7CVCHsmre2vl",
+      "text": "حصيلة أولية لضحايا القصف المدفعي والصاروخي المكثف والمستمر من قبل قوات النظام على مدن وبلدات ريف إدلب اليوم الخميس 5 تشرين الأول.\n🔴 العدد الكلي للقتلى...\n\nحصيلة أولية لضحايا القصف المدفعي والصاروخي المكثف والمستمر من قبل قوات النظام على مدن وبلدات ريف إدلب اليوم الخميس 5 تشرين الأول.\n🔴 العدد الكلي للقتلى والجرحى:\n🔳 القتلى: 5 قتلى بينهم طفل وامرأة\n🔳..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:44:34+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:44:34+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524195520id_/https://www.facebook.com/IDLEBCITYNEWS1/posts/pfbid02WHH1d2WefgBgV5WhnMRJViXYMxNfghDL9rD45bf79PQiwF6276fyn7CVCHsmre2vl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524195520id_/https://www.facebook.com/IDLEBCITYNEWS1/posts/pfbid02WHH1d2WefgBgV5WhnMRJViXYMxNfghDL9rD45bf79PQiwF6276fyn7CVCHsmre2vl",
   "incident_ids": [
     "airwars-101710"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/IDLEBCITYNEWS1/posts/pfbid02WHH1d2WefgBgV5WhnMRJViXYMxNfghDL9rD45bf79PQiwF6276fyn7CVCHsmre2vl"
   ],
   "original_url": "https://www.facebook.com/IDLEBCITYNEWS1/posts/pfbid02WHH1d2WefgBgV5WhnMRJViXYMxNfghDL9rD45bf79PQiwF6276fyn7CVCHsmre2vl",
-  "page_title": "",
+  "page_title": "تنسيقية الثورة السورية في مدينة ادلب تنسيقية الثورة السورية في مدينة ادلب حصيلة أولية لضحايا... - تنسيقية الثورة السورية في مدينة ادلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4817-october-5-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:44:34+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b6597b78007d57ac2f184d1c",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/IDLEBCITYNEWS1/posts/pfbid02WHH1d2WefgBgV5WhnMRJViXYMxNfghDL9rD45bf79PQiwF6276fyn7CVCHsmre2vl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "حصيلة أولية لضحايا القصف المدفعي والصاروخي المكثف والمستمر من قبل قوات النظام على مدن وبلدات ريف إدلب اليوم الخميس 5 تشرين الأول.\n🔴 العدد الكلي للقتلى...\n\nحصيلة أولية لضحايا القصف المدفعي والصاروخي المكثف والمستمر من قبل قوات النظام على مدن وبلدات ريف إدلب اليوم الخميس 5 تشرين الأول.\n🔴 العدد الكلي للقتلى والجرحى:\n🔳 القتلى: 5 قتلى بينهم طفل وامرأة\n🔳...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

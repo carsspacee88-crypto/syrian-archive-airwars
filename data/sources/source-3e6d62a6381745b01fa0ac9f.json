@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/IuUy7"
+    "https://archive.ph/IuUy7",
+    "https://web.archive.org/web/20250211225322id_/https://npasyria.com/en/104757/?fbclid=IwAR1kDRcf4Lm1kvuBk4SKILfXZ30YDIcXr8x-oGVpHGO7D2O-PiNOrRjhDiQ"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2dd39611875c833e39cb891268ce56927e5e0ce1e9d3f441e49e8e6572b67b18",
+  "content_variants": [
+    {
+      "bytes": 936,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:28:34+00:00",
+      "sha256": "2dd39611875c833e39cb891268ce56927e5e0ce1e9d3f441e49e8e6572b67b18",
+      "source_url": "https://web.archive.org/web/20250211225322id_/https://npasyria.com/en/104757/?fbclid=IwAR1kDRcf4Lm1kvuBk4SKILfXZ30YDIcXr8x-oGVpHGO7D2O-PiNOrRjhDiQ",
+      "text": "2 Asayish members killed by Turkish drone in western Qamishli\n\nThe vehicle targeted by the Turkish drone in the western countryside of Qamishli city, NE Syria\n\nQAMISHLI, Syria (North Press) – On Sunday, Internal Security Forces of North and East Syria (Asayish) announced that two of its fighters lost their lives and eight individuals were injured in a Turkish drone attack on the road linking between the cities Amuda and Qamishli, northeastern Syria.\n\nEarlier today, a Turkish drone hit a vehicle on the Ali Faro Road, west of Qamishli city.\n\nThe Asayish Media Center stated that “a Turkish drone hit a vehicle of our forces on the Ali Faro Road in west of Qamishli city.”\n\nThe statement further added that the attack killed two members of the Asayish.\n\nThe Turkish drone also hit the civilians who tried to take the victims to hospitals, resulting in injuring eight individuals, the Asayish statement noted.\n\nBy Saad al-Yaziji"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:28:34+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:28:34+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250211225322id_/https://npasyria.com/en/104757/?fbclid=IwAR1kDRcf4Lm1kvuBk4SKILfXZ30YDIcXr8x-oGVpHGO7D2O-PiNOrRjhDiQ"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250211225322id_/https://npasyria.com/en/104757/?fbclid=IwAR1kDRcf4Lm1kvuBk4SKILfXZ30YDIcXr8x-oGVpHGO7D2O-PiNOrRjhDiQ",
   "incident_ids": [
     "airwars-93196"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/104757/?fbclid=IwAR1kDRcf4Lm1kvuBk4SKILfXZ30YDIcXr8x-oGVpHGO7D2O-PiNOrRjhDiQ"
   ],
   "original_url": "https://npasyria.com/en/104757/?fbclid=IwAR1kDRcf4Lm1kvuBk4SKILfXZ30YDIcXr8x-oGVpHGO7D2O-PiNOrRjhDiQ",
-  "page_title": "",
+  "page_title": "2 Asayish members killed by Turkish drone in western Qamishli 2 Asayish members killed by Turkish drone in western Qamishli 2 Asayish members killed by Turkish drone in western Qamishli 2 Asayish members killed by Turkish drone in western Qamishli - North press agency 2 Asayish members killed by Turkish drone in western Qamishli - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts629-september-17-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:28:34+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-3e6d62a6381745b01fa0ac9f",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/104757/?fbclid=IwAR1kDRcf4Lm1kvuBk4SKILfXZ30YDIcXr8x-oGVpHGO7D2O-PiNOrRjhDiQ",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "2 Asayish members killed by Turkish drone in western Qamishli\n\nThe vehicle targeted by the Turkish drone in the western countryside of Qamishli city, NE Syria\n\nQAMISHLI, Syria (North Press) – On Sunday, Internal Security Forces of North and East Syria (Asayish) announced that two of its fighters lost their lives and eight individuals were injured in a Turkish drone attack on the road linking between the cities Amuda and Qamishli, northeastern Syria.\n\nEarlier today, a Turkish drone hit a vehicle on the Ali Faro Road, west of Qamishli city.\n\nThe Asayish Media Center stated that “a Turkish drone hit a vehicle of our forces on the Ali Faro Road in west of Qamishli city.”\n\nThe statement further added that the attack killed two members of the Asayish.\n\nThe Turkish drone also hit the civilians who tried to take the victims to hospitals, resulting in injuring eight individuals, the Asayish statement noted.\n\nBy Saad al-Yaziji",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

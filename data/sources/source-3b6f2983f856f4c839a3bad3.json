@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/56UdU"
+    "https://archive.is/56UdU",
+    "https://web.archive.org/web/20240616194122id_/https://news.snhr.org/2023/03/24/man-and-woman-injured-in-syrian-regime-bombardment-of-a-popular-market-in-al-atareb-city-center-in-western-aleppo-march-23-2023/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Network for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "61c7b46ddb5fa1353aa0a2a257e77b7da1ac19a5fc518b9fefc8dc993da27ca4",
+  "content_variants": [
+    {
+      "bytes": 1880,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:28:23+00:00",
+      "sha256": "61c7b46ddb5fa1353aa0a2a257e77b7da1ac19a5fc518b9fefc8dc993da27ca4",
+      "source_url": "https://web.archive.org/web/20240616194122id_/https://news.snhr.org/2023/03/24/man-and-woman-injured-in-syrian-regime-bombardment-of-a-popular-market-in-al-atareb-city-center-in-western-aleppo-march-23-2023/",
+      "text": "Date:\n\nMan and woman injured in Syrian regime bombardment of a popular market in al-Atareb city center in western Aleppo, March 23, 2023\n\nRelated News\n\nMan named Alaa al-al-Mizar killed by the SDF in E. Deir Ez-Zour, June 13, 2024\n\nBody of unidentified man found in W. Daraa, June 15, 2024\n\nTwo girls named Almaz Koulin and Selfana Rashid abducted by the SDF in Aleppo governorate, June 1, 2024\n\nOn March 23, 2023, Syrian regime artillery forces fired multiple shells targeting al-Atareb city in the western suburbs of Aleppo governorate. A number of the shells landed on civilians’ homes, while the remainder landed in the popular market in the city center, injuring one man and one woman, as well as inflicting moderate damage and partial destruction on shops in the popular market, as well as the street.\n\nThe Syrian Network for Human Rights condemns bombardment of populated areas by Syrian regime forces. It should be noted that, through this and similar attacks, Syrian regime forces have repeatedly violated Security Council resolutions 2139 & 2254 that categorically prohibit indiscriminate attacks, as well as violating the rules of international humanitarian law on distinguishing between civilians and fighters. Such attacks only aim to spread fear and panic among civilians, drive them from their lands and homes, and forcibly displace them. It is estimated that 6.5 million people are currently internally displaced in Syria.\n\nThe international community must put pressure on the Syrian regime and its allies to compensate the displaced victims displaced, repair the damaged homes and civilian facilities, and support a process of political transition. Pressure should be applied to compel all parties to launch a political transition within a period of no more than six months, so that millions of displaced people can have a safe and stable return to their homes."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:28:22+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:28:23+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240616194122id_/https://news.snhr.org/2023/03/24/man-and-woman-injured-in-syrian-regime-bombardment-of-a-popular-market-in-al-atareb-city-center-in-western-aleppo-march-23-2023/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240616194122id_/https://news.snhr.org/2023/03/24/man-and-woman-injured-in-syrian-regime-bombardment-of-a-popular-market-in-al-atareb-city-center-in-western-aleppo-march-23-2023/",
   "incident_ids": [
     "airwars-87927"
   ],
@@ -85,10 +109,10 @@
     "https://news.snhr.org/2023/03/24/man-and-woman-injured-in-syrian-regime-bombardment-of-a-popular-market-in-al-atareb-city-center-in-western-aleppo-march-23-2023/"
   ],
   "original_url": "https://news.snhr.org/2023/03/24/man-and-woman-injured-in-syrian-regime-bombardment-of-a-popular-market-in-al-atareb-city-center-in-western-aleppo-march-23-2023/",
-  "page_title": "",
+  "page_title": "Man and woman injured in Syrian regime bombardment of a popular market in al-Atareb city center in western Aleppo, March 23, 2023 Man and woman injured in Syrian regime bombardment of a popular market in al-Atareb city center in western Aleppo, March 23, 2023 Man and woman injured in Syrian regime bombardment of a popular market in al-Atareb city center in western Aleppo, March 23, 2023",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4760-march-23-2023/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:28:23+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-3b6f2983f856f4c839a3bad3",
   "source_type": "news_article",
   "stable_id_basis": "https://news.snhr.org/2023/03/24/man-and-woman-injured-in-syrian-regime-bombardment-of-a-popular-market-in-al-atareb-city-center-in-western-aleppo-march-23-2023/",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Date:\n\nMan and woman injured in Syrian regime bombardment of a popular market in al-Atareb city center in western Aleppo, March 23, 2023\n\nRelated News\n\nMan named Alaa al-al-Mizar killed by the SDF in E. Deir Ez-Zour, June 13, 2024\n\nBody of unidentified man found in W. Daraa, June 15, 2024\n\nTwo girls named Almaz Koulin and Selfana Rashid abducted by the SDF in Aleppo governorate, June 1, 2024\n\nOn March 23, 2023, Syrian regime artillery forces fired multiple shells targeting al-Atareb city in the western suburbs of Aleppo governorate. A number of the shells landed on civilians’ homes, while the remainder landed in the popular market in the city center, injuring one man and one woman, as well as inflicting moderate damage and partial destruction on shops in the popular market, as well as the street.\n\nThe Syrian Network for Human Rights condemns bombardment of populated areas by Syrian regime forces. It should be noted that, through this and similar attacks, Syrian regime forces have repeatedly violated Security Council resolutions 2139 & 2254 that categorically prohibit indiscriminate attacks, as well as violating the rules of international humanitarian law on distinguishing between civilians and fighters. Such attacks only aim to spread fear and panic among civilians, drive them from their lands and homes, and forcibly displace them. It is estimated that 6.5 million people are currently internally displaced in Syria.\n\nThe international community must put pressure on the Syrian regime and its allies to compensate the displaced victims displaced, repair the damaged homes and civilian facilities, and support a process of political transition. Pressure should be applied to compel all parties to launch a political transition within a period of no more than six months, so that millions of displaced people can have a safe and stable return to their homes.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

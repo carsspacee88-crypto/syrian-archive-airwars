@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/S36p1"
+    "https://archive.ph/S36p1",
+    "https://web.archive.org/web/20250520073735id_/https://hawarnews.com/en/2-wounded-inturkish-bombing-on-afrin-countryside?fbclid=IwZXh0bgNhZW0CMTEAAR0PTssdc5W28DUDjSPWJR6DsFmadCXI705NYiXLkCHgP"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Hawar News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "7cc77ffba44e81f9ef50389d4e0bddce0419d9fceacd55bb0b1ab3d41f00789c",
+  "content_variants": [
+    {
+      "bytes": 3271,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:27:36+00:00",
+      "sha256": "7cc77ffba44e81f9ef50389d4e0bddce0419d9fceacd55bb0b1ab3d41f00789c",
+      "source_url": "https://web.archive.org/web/20250520073735id_/https://hawarnews.com/en/2-wounded-inturkish-bombing-on-afrin-countryside?fbclid=IwZXh0bgNhZW0CMTEAAR0PTssdc5W28DUDjSPWJR6DsFmadCXI705NYiXLkCHgP",
+      "text": "20 May, 2025\n\nHumanitarian convoy heads from Tabqa to coastal areas\n\n11 people killed in separate incidents in Syria\n\nDemands for formation of democratic Syria which preserves all Syrians\n\nEducation Body in Raqqa prepares for preparatory and secondary exams\n\nLifting US sanctions on Syria: Optimism collides with challenges of reality\n\nPoliticians: Leader Ocalan must be freed for real peace\n\nHawar News Agency Plan – 20, 5, 2025\n\nSDF fighter martyred, another injured in ISIS attack in eastern Deir ez-Zor\n\nLebanon issues new rule for Syrians arriving at Beirut Airport\n\nVance Cancels Visit to Israel as military operation escalates in Gaza\n\nTurkish occupation remnants cause death of citizen in rural area of Ain Issa\n\nIsraeli incursions south of Quneitra; patrols near Mantara Dam\n\nDrought, Turkey exacerbate crisis of NE, Syrian farmers\n\nleader's lawyer: Turkey did not take any practical steps for hope right to leader\n\nLanguage\n\nعربي\nKURDÎ\nTÜRKÇE\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nTÜRKÇE\n\nENGLISH\n\nSPANISH\n\nRUSSIAN\n\n2 wounded inTurkish bombing on Afrin countryside\n\nTwo citizens were wounde in the Turkish occupation state and its mercenaries shelling on the village of Beina in the countryside of Sherawa district of Afrin and Shahba canton.\n\nANHA correspondent reported that the bombing of the Turkish occupation and its mercenaries on the village resulted in injury young man Ibrahim Berro and the citizen Arif Saeed Sheikh (48 years old) while they were working in the agricultural lands surrounding the village.\n\nANHA's pointed out that the people took them to Afrin Hospital in the village of Fafin in the Shahba area.\n\na.k\n\nANHA\n\n2 wounded inTurkish bombing on Afrin countryside\n\nANHA correspondent reported that the bombing of the Turkish occupation and its mercenaries on the village resulted in injury young man Ibrahim Berro and the citizen Arif Saeed Sheikh (48 years old) while they were working in the agricultural lands surrounding the village.\n\nANHA's pointed out that the people took them to Afrin Hospital in the village of Fafin in the Shahba area.\n\na.k\n\nANHA\n\nTags:\n\nDAA comments on Amnesty International's report\n\n714 Iraqis leave al-Hol Camp\n\nEditors' Picks\n\nHumanitarian convoy heads from Tabqa to coastal areas\n\n20 May, 2025 - 10:05\n\n11 people killed in separate incidents in Syria\n\n20 May, 2025 - 08:56\n\nDemands for formation of democratic Syria which preserv...\n\n20 May, 2025 - 06:22\n\nLebanon issues new rule for Syrians arriving at Be...\n\n19 May, 2025 - 19:46\n\nTop ISIS cell leader arrested in Deir ez-Zor count...\n\n19 May, 2025 - 13:03\n\nSDF fighter martyred, another injured in ISIS att...\n\n19 May, 2025 - 21:49\n\nVance Cancels Visit to Israel as military operatio...\n\n19 May, 2025 - 19:08\n\nDrought, Turkey exacerbate crisis of NE, Syrian fa...\n\n19 May, 2025 - 16:35\n\nleader's lawyer: Turkey did not take any practical...\n\n19 May, 2025 - 16:34\n\nMakhmour residents’ sit-in enters day two\n\n16 May, 2025 - 10:56\n\nDropping water level of Euphrates river strikes Ra...\n\n16 May, 2025 - 05:11\n\nArrest of Makhmour delegation sparks public anger ...\n\n15 May, 2025 - 16:01\n\n\"Peace begins with Abdullah Ocalan's physical free...\n\n15 May, 2025 - 12:10\n\nSweida residents demand protection as Damascus ign...\n\n15 May, 2025 - 07:25"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:27:34+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:27:36+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250520073735id_/https://hawarnews.com/en/2-wounded-inturkish-bombing-on-afrin-countryside?fbclid=IwZXh0bgNhZW0CMTEAAR0PTssdc5W28DUDjSPWJR6DsFmadCXI705NYiXLkCHgP"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250520073735id_/https://hawarnews.com/en/2-wounded-inturkish-bombing-on-afrin-countryside?fbclid=IwZXh0bgNhZW0CMTEAAR0PTssdc5W28DUDjSPWJR6DsFmadCXI705NYiXLkCHgP",
   "incident_ids": [
     "airwars-126130"
   ],
@@ -85,10 +109,10 @@
     "https://hawarnews.com/en/2-wounded-inturkish-bombing-on-afrin-countryside?fbclid=IwZXh0bgNhZW0CMTEAAR0PTssdc5W28DUDjSPWJR6DsFmadCXI705NYiXLkCHgP"
   ],
   "original_url": "https://hawarnews.com/en/2-wounded-inturkish-bombing-on-afrin-countryside?fbclid=IwZXh0bgNhZW0CMTEAAR0PTssdc5W28DUDjSPWJR6DsFmadCXI705NYiXLkCHgP",
-  "page_title": "",
+  "page_title": "2 wounded inTurkish bombing on Afrin countryside - ANHA 2 wounded inTurkish bombing on Afrin countryside 2 wounded inTurkish bombing on Afrin countryside",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts692-april-28-2024/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:27:36+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-21302acd28f994fa212f1ac7",
   "source_type": "news_article",
   "stable_id_basis": "https://hawarnews.com/en/2-wounded-inturkish-bombing-on-afrin-countryside?fbclid=IwZXh0bgNhZW0CMTEAAR0PTssdc5W28DUDjSPWJR6DsFmadCXI705NYiXLkCHgP",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "20 May, 2025\n\nHumanitarian convoy heads from Tabqa to coastal areas\n\n11 people killed in separate incidents in Syria\n\nDemands for formation of democratic Syria which preserves all Syrians\n\nEducation Body in Raqqa prepares for preparatory and secondary exams\n\nLifting US sanctions on Syria: Optimism collides with challenges of reality\n\nPoliticians: Leader Ocalan must be freed for real peace\n\nHawar News Agency Plan – 20, 5, 2025\n\nSDF fighter martyred, another injured in ISIS attack in eastern Deir ez-Zor\n\nLebanon issues new rule for Syrians arriving at Beirut Airport\n\nVance Cancels Visit to Israel as military operation escalates in Gaza\n\nTurkish occupation remnants cause death of citizen in rural area of Ain Issa\n\nIsraeli incursions south of Quneitra; patrols near Mantara Dam\n\nDrought, Turkey exacerbate crisis of NE, Syrian farmers\n\nleader's lawyer: Turkey did not take any practical steps for hope right to leader\n\nLanguage\n\nعربي\nKURDÎ\nTÜRKÇE\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nTÜRKÇE\n\nENGLISH\n\nSPANISH\n\nRUSSIAN\n\n2 wounded inTurkish bombing on Afrin countryside\n\nTwo citizens were wounde in the Turkish occupation state and its mercenaries shelling on the village of Beina in the countryside of Sherawa district of Afrin and Shahba canton.\n\nANHA correspondent reported that the bombing of the Turkish occupation and its mercenaries on the village resulted in injury young man Ibrahim Berro and the citizen Arif Saeed Sheikh (48 years old) while they were working in the agricultural lands surrounding the village.\n\nANHA's pointed out that the people took them to Afrin Hospital in the village of Fafin in the Shahba area.\n\na.k\n\nANHA\n\n2 wounded inTurkish bombing on Afrin countryside\n\nANHA correspondent reported that the bombing of the Turkish occupation and its mercenaries on the village resulted in injury young man Ibrahim Berro and the citizen Arif Saeed Sheikh (48 years old) while they were working in the agricultural lands surrounding the village.\n\nANHA's pointed out that the people took them to Afrin Hospital in the village of Fafin in the Shahba area.\n\na.k\n\nANHA\n\nTags:\n\nDAA comments on Amnesty International's report\n\n714 Iraqis leave al-Hol Camp\n\nEditors' Picks\n\nHumanitarian convoy heads from Tabqa to coastal areas\n\n20 May, 2025 - 10:05\n\n11 people killed in separate incidents in Syria\n\n20 May, 2025 - 08:56\n\nDemands for formation of democratic Syria which preserv...\n\n20 May, 2025 - 06:22\n\nLebanon issues new rule for Syrians arriving at Be...\n\n19 May, 2025 - 19:46\n\nTop ISIS cell leader arrested in Deir ez-Zor count...\n\n19 May, 2025 - 13:03\n\nSDF fighter martyred, another injured in ISIS att...\n\n19 May, 2025 - 21:49\n\nVance Cancels Visit to Israel as military operatio...\n\n19 May, 2025 - 19:08\n\nDrought, Turkey exacerbate crisis of NE, Syrian fa...\n\n19 May, 2025 - 16:35\n\nleader's lawyer: Turkey did not take any practical...\n\n19 May, 2025 - 16:34\n\nMakhmour residents’ sit-in enters day two\n\n16 May, 2025 - 10:56\n\nDropping water level of Euphrates river strikes Ra...\n\n16 May, 2025 - 05:11\n\nArrest of Makhmour delegation sparks public anger ...\n\n15 May, 2025 - 16:01\n\n\"Peace begins with Abdullah Ocalan's physical free...\n\n15 May, 2025 - 12:10\n\nSweida residents demand protection as Damascus ign...\n\n15 May, 2025 - 07:25",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

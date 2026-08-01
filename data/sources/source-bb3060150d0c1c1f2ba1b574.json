@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20240515174238id_/https://www.youtube.com/watch?v=enSY-SgN6po"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Syria TV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "fc0472e7a08969819a446c75662671550e50c223c4c1a314325aaea67fbcaa27",
+  "content_variants": [
+    {
+      "bytes": 307,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:44:50+00:00",
+      "sha256": "fc0472e7a08969819a446c75662671550e50c223c4c1a314325aaea67fbcaa27",
+      "source_url": "https://web.archive.org/web/20240515174238id_/https://www.youtube.com/watch?v=enSY-SgN6po",
+      "text": "قوات النظام ترتكب مجزرة ضحيتها أفراد عائلة واحدة في بلدة معارة النعسان بريف حلب - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2024 Google LLC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:44:49+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:44:50+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515174238id_/https://www.youtube.com/watch?v=enSY-SgN6po"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515174238id_/https://www.youtube.com/watch?v=enSY-SgN6po",
   "incident_ids": [
     "airwars-81860"
   ],
@@ -55,10 +80,10 @@
     "https://www.youtube.com/watch?v=enSY-SgN6po"
   ],
   "original_url": "https://www.youtube.com/watch?v=enSY-SgN6po",
-  "page_title": "",
+  "page_title": "قوات النظام ترتكب مجزرة ضحيتها أفراد عائلة واحدة في بلدة معارة النعسان بريف حلب - YouTube قوات النظام ترتكب مجزرة ضحيتها أفراد عائلة واحدة في بلدة معارة النعسان بريف حلب قوات النظام ترتكب مجزرة ضحيتها أفراد عائلة واحدة في بلدة معارة النعسان بريف حلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4689-february-12-2022/",
@@ -78,16 +103,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:44:50+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-bb3060150d0c1c1f2ba1b574",
   "source_type": "youtube_page",
   "stable_id_basis": "https://www.youtube.com/watch?v=enSY-SgN6po",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "قوات النظام ترتكب مجزرة ضحيتها أفراد عائلة واحدة في بلدة معارة النعسان بريف حلب - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2024 Google LLC",
+  "text_original_language": "und",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

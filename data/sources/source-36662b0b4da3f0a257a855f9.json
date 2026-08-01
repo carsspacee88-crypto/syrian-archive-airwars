@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/sx5Cc"
+    "https://archive.is/sx5Cc",
+    "https://web.archive.org/web/20250515021319id_/https://www.baladi-news.com/public/ar/breakingnews/38443/%D8%A8%D9%84%D8%AF%D9%8A-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%A8%D8%B1%D8%B4%D8%A7%D8%B4-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D9%82%D8%B3%D8%AF-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B4%D9%81%D9%89-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Baladi",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1d7674a3e810c91459055ac3ab22f8e63ad704a785703a44356f1e164d01c84a",
+  "content_variants": [
+    {
+      "bytes": 601,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:28:17+00:00",
+      "sha256": "1d7674a3e810c91459055ac3ab22f8e63ad704a785703a44356f1e164d01c84a",
+      "source_url": "https://web.archive.org/web/20250515021319id_/https://www.baladi-news.com/public/ar/breakingnews/38443/%D8%A8%D9%84%D8%AF%D9%8A-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%A8%D8%B1%D8%B4%D8%A7%D8%B4-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D9%82%D8%B3%D8%AF-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B4%D9%81%D9%89-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "text": "#بلدي: إصابة مدني جراء قصف برشاش 23 لقوات \"قسد\" استهدف مشفى أعزاز الوطني بريف #حلب الشمالي\n#سوريا | شبكة بلدي الإعلامية\n\n#بلدي: إصابة مدني جراء قصف برشاش 23 لقوات &quot;قسد&quot; استهدف مشفى أعزاز الوطني بريف #حلب الشمالي\n#سوريا - It's Over 9000!\n\n#بلدي: إصابة مدني جراء قصف برشاش 23 لقوات \"قسد\" استهدف مشفى أعزاز الوطني بريف #حلب الشمالي\n#سوريا\nمنذ 3 سنوات"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:28:16+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:28:17+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250515021319id_/https://www.baladi-news.com/public/ar/breakingnews/38443/%D8%A8%D9%84%D8%AF%D9%8A-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%A8%D8%B1%D8%B4%D8%A7%D8%B4-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D9%82%D8%B3%D8%AF-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B4%D9%81%D9%89-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250515021319id_/https://www.baladi-news.com/public/ar/breakingnews/38443/%D8%A8%D9%84%D8%AF%D9%8A-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%A8%D8%B1%D8%B4%D8%A7%D8%B4-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D9%82%D8%B3%D8%AF-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B4%D9%81%D9%89-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
   "incident_ids": [
     "airwars-82369"
   ],
@@ -85,10 +109,10 @@
     "https://www.baladi-news.com/public/ar/breakingnews/38443/%D8%A8%D9%84%D8%AF%D9%8A-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%A8%D8%B1%D8%B4%D8%A7%D8%B4-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D9%82%D8%B3%D8%AF-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B4%D9%81%D9%89-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
   ],
   "original_url": "https://www.baladi-news.com/public/ar/breakingnews/38443/%D8%A8%D9%84%D8%AF%D9%8A-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%A8%D8%B1%D8%B4%D8%A7%D8%B4-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D9%82%D8%B3%D8%AF-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B4%D9%81%D9%89-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-  "page_title": "",
+  "page_title": "#بلدي: إصابة مدني جراء قصف برشاش 23 لقوات \"قسد\" استهدف مشفى أعزاز الوطني بريف #حلب الشمالي\n#سوريا | شبكة بلدي الإعلامية #بلدي: إصابة مدني جراء قصف برشاش 23 لقوات \"قسد\" استهدف مشفى أعزاز الوطني بريف #حلب الشمالي\n#سوريا - It's Over 9000! #بلدي: إصابة مدني جراء قصف برشاش 23 لقوات \"قسد\" استهدف مشفى أعزاز الوطني بريف #حلب الشمالي\n#سوريا #بلدي: إصابة مدني جراء قصف برشاش 23 لقوات \"قسد\" استهدف مشفى أعزاز الوطني بريف #حلب الشمالي\n#سوريا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys126-february-27-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:28:17+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-36662b0b4da3f0a257a855f9",
   "source_type": "news_article",
   "stable_id_basis": "https://www.baladi-news.com/public/ar/breakingnews/38443/%D8%A8%D9%84%D8%AF%D9%8A-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%A8%D8%B1%D8%B4%D8%A7%D8%B4-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D9%82%D8%B3%D8%AF-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B4%D9%81%D9%89-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#بلدي: إصابة مدني جراء قصف برشاش 23 لقوات \"قسد\" استهدف مشفى أعزاز الوطني بريف #حلب الشمالي\n#سوريا | شبكة بلدي الإعلامية\n\n#بلدي: إصابة مدني جراء قصف برشاش 23 لقوات &quot;قسد&quot; استهدف مشفى أعزاز الوطني بريف #حلب الشمالي\n#سوريا - It's Over 9000!\n\n#بلدي: إصابة مدني جراء قصف برشاش 23 لقوات \"قسد\" استهدف مشفى أعزاز الوطني بريف #حلب الشمالي\n#سوريا\nمنذ 3 سنوات",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

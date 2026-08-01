@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/kZ7go"
+    "https://archive.md/kZ7go",
+    "https://web.archive.org/web/20241104090826id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-19-11-2021.html?fbclid=IwAR3I7SiXn7nfTk9ORlBIAF4iYslLSOCOyZLpozMGRXbXLAbZeGg_p4oSqmA"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "175dd2a411230e028886edd399c1cd5dc4ce8405cdff2a901b2c858e44453d06",
+  "content_variants": [
+    {
+      "bytes": 2236,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:28:09+00:00",
+      "sha256": "175dd2a411230e028886edd399c1cd5dc4ce8405cdff2a901b2c858e44453d06",
+      "source_url": "https://web.archive.org/web/20241104090826id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-19-11-2021.html?fbclid=IwAR3I7SiXn7nfTk9ORlBIAF4iYslLSOCOyZLpozMGRXbXLAbZeGg_p4oSqmA",
+      "text": "حصاد الأحداث الميدانية ليوم الجمعة 19-11-2021\n\nحصاد الأحداث الميدانية ليوم الجمعة 19-11-2021\n\nحلب::سقط ثلاثة شهداء و17 جريحا إثر قصف صاروخي من المناطق التي تسيطر عليها قوات سوريا الديمقراطية \"قسد\" وقوات الأسد على الأحياء السكنية في مدينة عفرين بالريف الشمالي، ورد الجيشين الوطني والتركي باستهداف معاقل \"قسد\" بالريف الشمالي بقذائف المدفعية وصواريخ الكاتيوشا والغراد.\n\nجرت اشتباكات بين عناصر الشرطة والأمن العام الوطني ومسلحين في مدينة الباب بالريف الشرقي، على خلفية محاولات الطرف الأول اعتقال أحد المطلوبين.\n\nحماة::استهدفت فصائل الثوار معاقل قوات الأسد في قرية جورين بسهل الغاب بالريف الغربي بقذائف صاروخية.\n\nدرعا::أصيب عنصر سابق في الجيش الحر إثر إطلاق النار عليه من قبل مسلح يستقل دراجة نارية في بلدة المسيفرة بالريف الشرقي.\n\nديرالزور::تعرض رتل عسكري روسي لإطلاق نار أثناء دخوله إلى مناطق سيطرة نظام الأسد بديرالزور، عبر معبر بلدة الصالحية، قادماً من طريق \"الحسكة _ دير الزور\".\n\nالحسكة::اعتقلت \"قسد\" عشرة مدنيين بعد مداهمة قرية الخازوق التابعة لناحية تل براك بالريف الشمالي.\n\nالرقة::اعتقلت \"قسد\" شخصاً بتهمة التهريب إلى منطقة نبع السلام بالريف الشمالي.\n\nاستهدف الجيش الوطني مواقع \"قسد\" في محيط مدينة عين عيسى والطريق الدولي \"أم 4\" بالريف الشمالي بقذائف المدفعية.\n\nشنت \"قسد\" حملة مداهمات واعتقالات في أحياء المختلطة والدرعية والطيار وسط مدينة الرقة."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:28:08+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:28:09+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241104090826id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-19-11-2021.html?fbclid=IwAR3I7SiXn7nfTk9ORlBIAF4iYslLSOCOyZLpozMGRXbXLAbZeGg_p4oSqmA"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241104090826id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-19-11-2021.html?fbclid=IwAR3I7SiXn7nfTk9ORlBIAF4iYslLSOCOyZLpozMGRXbXLAbZeGg_p4oSqmA",
   "incident_ids": [
     "airwars-80375"
   ],
@@ -85,10 +109,10 @@
     "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-19-11-2021.html?fbclid=IwAR3I7SiXn7nfTk9ORlBIAF4iYslLSOCOyZLpozMGRXbXLAbZeGg_p4oSqmA"
   ],
   "original_url": "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-19-11-2021.html?fbclid=IwAR3I7SiXn7nfTk9ORlBIAF4iYslLSOCOyZLpozMGRXbXLAbZeGg_p4oSqmA",
-  "page_title": "",
+  "page_title": "حصاد الأحداث الميدانية ليوم الجمعة 19-11-2021 | شبكة شام الإخبارية حصاد الأحداث الميدانية ليوم الجمعة 19-11-2021 حصاد الأحداث الميدانية ليوم الجمعة 19-11-2021",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys120-november-19-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:28:09+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-351dec351012c0bc0921f4eb",
   "source_type": "news_article",
   "stable_id_basis": "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-19-11-2021.html?fbclid=IwAR3I7SiXn7nfTk9ORlBIAF4iYslLSOCOyZLpozMGRXbXLAbZeGg_p4oSqmA",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "حصاد الأحداث الميدانية ليوم الجمعة 19-11-2021\n\nحصاد الأحداث الميدانية ليوم الجمعة 19-11-2021\n\nحلب::سقط ثلاثة شهداء و17 جريحا إثر قصف صاروخي من المناطق التي تسيطر عليها قوات سوريا الديمقراطية \"قسد\" وقوات الأسد على الأحياء السكنية في مدينة عفرين بالريف الشمالي، ورد الجيشين الوطني والتركي باستهداف معاقل \"قسد\" بالريف الشمالي بقذائف المدفعية وصواريخ الكاتيوشا والغراد.\n\nجرت اشتباكات بين عناصر الشرطة والأمن العام الوطني ومسلحين في مدينة الباب بالريف الشرقي، على خلفية محاولات الطرف الأول اعتقال أحد المطلوبين.\n\nحماة::استهدفت فصائل الثوار معاقل قوات الأسد في قرية جورين بسهل الغاب بالريف الغربي بقذائف صاروخية.\n\nدرعا::أصيب عنصر سابق في الجيش الحر إثر إطلاق النار عليه من قبل مسلح يستقل دراجة نارية في بلدة المسيفرة بالريف الشرقي.\n\nديرالزور::تعرض رتل عسكري روسي لإطلاق نار أثناء دخوله إلى مناطق سيطرة نظام الأسد بديرالزور، عبر معبر بلدة الصالحية، قادماً من طريق \"الحسكة _ دير الزور\".\n\nالحسكة::اعتقلت \"قسد\" عشرة مدنيين بعد مداهمة قرية الخازوق التابعة لناحية تل براك بالريف الشمالي.\n\nالرقة::اعتقلت \"قسد\" شخصاً بتهمة التهريب إلى منطقة نبع السلام بالريف الشمالي.\n\nاستهدف الجيش الوطني مواقع \"قسد\" في محيط مدينة عين عيسى والطريق الدولي \"أم 4\" بالريف الشمالي بقذائف المدفعية.\n\nشنت \"قسد\" حملة مداهمات واعتقالات في أحياء المختلطة والدرعية والطيار وسط مدينة الرقة.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

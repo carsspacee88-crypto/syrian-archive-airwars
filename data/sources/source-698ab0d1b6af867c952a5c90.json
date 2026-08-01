@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/bPYOQ"
+    "https://archive.ph/bPYOQ",
+    "https://web.archive.org/web/20231208091922id_/https://www.zamanalwsl.net/news/article/156028/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "zamanAlwasl News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b45679e72d614493763c575a6231a7c9773702d1666967bc1d0fdfdacd497a67",
+  "content_variants": [
+    {
+      "bytes": 288,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:34:56+00:00",
+      "sha256": "b45679e72d614493763c575a6231a7c9773702d1666967bc1d0fdfdacd497a67",
+      "source_url": "https://web.archive.org/web/20231208091922id_/https://www.zamanalwsl.net/news/article/156028/",
+      "text": "24 ايلول 2023\n\nالخوذ البيضاء: استهداف مخيمات النازحين انتهاك صارخ للقانون الدولي\n\n0\n\nالتعليقات\n\nالنظام\n\nسرمين\n\nإدلب\n\nأطراف\n\nقوات\n\nمدينة\n\nطفل\n\nريف\n\nتعليقات حول الموضوع"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:34:56+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:34:56+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231208091922id_/https://www.zamanalwsl.net/news/article/156028/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231208091922id_/https://www.zamanalwsl.net/news/article/156028/",
   "incident_ids": [
     "airwars-102751"
   ],
@@ -85,10 +109,10 @@
     "https://www.zamanalwsl.net/news/article/156028/"
   ],
   "original_url": "https://www.zamanalwsl.net/news/article/156028/",
-  "page_title": "",
+  "page_title": "الخوذ البيضاء: استهداف مخيمات النازحين انتهاك صارخ للقانون الدولي | زمان الوصل الخوذ البيضاء: استهداف مخيمات النازحين انتهاك صارخ للقانون الدولي الخوذ البيضاء: استهداف مخيمات النازحين انتهاك صارخ للقانون الدولي",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4810-september-23-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:34:56+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-698ab0d1b6af867c952a5c90",
   "source_type": "news_article",
   "stable_id_basis": "https://www.zamanalwsl.net/news/article/156028/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "24 ايلول 2023\n\nالخوذ البيضاء: استهداف مخيمات النازحين انتهاك صارخ للقانون الدولي\n\n0\n\nالتعليقات\n\nالنظام\n\nسرمين\n\nإدلب\n\nأطراف\n\nقوات\n\nمدينة\n\nطفل\n\nريف\n\nتعليقات حول الموضوع",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
