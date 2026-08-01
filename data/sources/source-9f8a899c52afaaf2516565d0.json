@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/7K8eT"
+    "https://archive.is/7K8eT",
+    "https://web.archive.org/web/20250318144947id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-wasabt-6-mwatnyn-jra-qsf-alahtlal-ly-ryf-yn-ysy-94261"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "963f8bbe5449d06c971fea532ed9320fa90fae3f8cae3f56d47fb1aa51e21f25",
+  "content_variants": [
+    {
+      "bytes": 1365,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:49:03+00:00",
+      "sha256": "963f8bbe5449d06c971fea532ed9320fa90fae3f8cae3f56d47fb1aa51e21f25",
+      "source_url": "https://web.archive.org/web/20250318144947id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-wasabt-6-mwatnyn-jra-qsf-alahtlal-ly-ryf-yn-ysy-94261",
+      "text": "ANF\n\nمركز الاخبار\n\nالأربعاء, ٩ أغسطس ٢٠٢٣, ١٢:٢٠\n\nاستهدف جيش الاحتلال التركي، أمس قرية الشركة جنوب الطريق الدولي M4، مما أسفر عن استشهاد 3 مواطنين، وإصابة 3 آخرين من عائلة اسماعيل الهادي الخلاوي، تم نقلهم إلى مشافي مدينة الرقة.\n\nوأسماء الشهداء هم الجدة دوزة (60 عاماً)، هبة الخلاوي (10 سنوات)، عبد الله (3 سنوات)، والمصابين هم؛ ملك (12 عاماً)، تهاني (5 أعوام)، ووالدتهم هيا عمر (25 عاماً).\n\nوهذه هي المجزرة السادسة التي يرتكبها الاحتلال التركي في ريف ناحية عين عيسى، حيث ارتكب من قبل 5 مجازر راح ضحيتها العشرات بين شهيد وجريح، وهم كل من (مجزرة الصفاوية، ومجزرتي الدبس، والعليمات، ومزرعة قرطاج)، وارتفع بذلك العدد الكلي للشهداء والجرحى الذين استهدفهم الاحتلال التركي على خطوط التماس من مقاطعة كري سبي وناحية عين عيسى 118، بين شهيد وجريح منذ بداية احتلال تركيا للمقاطعة 2019."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:49:03+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:49:03+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250318144947id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-wasabt-6-mwatnyn-jra-qsf-alahtlal-ly-ryf-yn-ysy-94261"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250318144947id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-wasabt-6-mwatnyn-jra-qsf-alahtlal-ly-ryf-yn-ysy-94261",
   "incident_ids": [
     "airwars-92642"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/سوريا/astshhad-wasabt-6-mwatnyn-jra-qsf-alahtlal-ly-ryf-yn-ysy-94261"
   ],
   "original_url": "https://anfarabic.com/سوريا/astshhad-wasabt-6-mwatnyn-jra-qsf-alahtlal-ly-ryf-yn-ysy-94261",
-  "page_title": "",
+  "page_title": "ANF |\nاستشهاد وإصابة 6 مواطنين جراء قصف الاحتلال على ريف عين عيسى استشهاد وإصابة 6 مواطنين جراء قصف الاحتلال على ريف عين عيسى استشهاد وإصابة 6 مواطنين جراء قصف الاحتلال على ريف عين عيسى",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts621-august-8-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:49:03+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9f8a899c52afaaf2516565d0",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfarabic.com/سوريا/astshhad-wasabt-6-mwatnyn-jra-qsf-alahtlal-ly-ryf-yn-ysy-94261",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ANF\n\nمركز الاخبار\n\nالأربعاء, ٩ أغسطس ٢٠٢٣, ١٢:٢٠\n\nاستهدف جيش الاحتلال التركي، أمس قرية الشركة جنوب الطريق الدولي M4، مما أسفر عن استشهاد 3 مواطنين، وإصابة 3 آخرين من عائلة اسماعيل الهادي الخلاوي، تم نقلهم إلى مشافي مدينة الرقة.\n\nوأسماء الشهداء هم الجدة دوزة (60 عاماً)، هبة الخلاوي (10 سنوات)، عبد الله (3 سنوات)، والمصابين هم؛ ملك (12 عاماً)، تهاني (5 أعوام)، ووالدتهم هيا عمر (25 عاماً).\n\nوهذه هي المجزرة السادسة التي يرتكبها الاحتلال التركي في ريف ناحية عين عيسى، حيث ارتكب من قبل 5 مجازر راح ضحيتها العشرات بين شهيد وجريح، وهم كل من (مجزرة الصفاوية، ومجزرتي الدبس، والعليمات، ومزرعة قرطاج)، وارتفع بذلك العدد الكلي للشهداء والجرحى الذين استهدفهم الاحتلال التركي على خطوط التماس من مقاطعة كري سبي وناحية عين عيسى 118، بين شهيد وجريح منذ بداية احتلال تركيا للمقاطعة 2019.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

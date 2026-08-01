@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/FrUMn"
+    "https://archive.ph/FrUMn",
+    "https://web.archive.org/web/20250325211401id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/jysh-alahtlal-altrky-yqsf-yn-ysy-97543"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "13960f09be46b690410bb0e8f1dc7ccd58248461b3c92f721c211b951ffbb11e",
+  "content_variants": [
+    {
+      "bytes": 393,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:52:54+00:00",
+      "sha256": "13960f09be46b690410bb0e8f1dc7ccd58248461b3c92f721c211b951ffbb11e",
+      "source_url": "https://web.archive.org/web/20250325211401id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/jysh-alahtlal-altrky-yqsf-yn-ysy-97543",
+      "text": "ANF\n\nمركز الاخبار\n\nالأربعاء, ٢٥ أكتوبر ٢٠٢٣, ١٤:٣٧\n\nتعرضت قرية المشيرفة والأحياء الغربية لناحية عين عيسى وصوامع الحبوب في أطرافها الشمالية لقصف عنيف، مما أسفر عن إصابة المواطن بشار أحمد (26 عاماً).\n\nولا يزال القصف مستمراً."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:52:54+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:52:54+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250325211401id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/jysh-alahtlal-altrky-yqsf-yn-ysy-97543"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250325211401id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/jysh-alahtlal-altrky-yqsf-yn-ysy-97543",
   "incident_ids": [
     "airwars-103494"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/سوريا/jysh-alahtlal-altrky-yqsf-yn-ysy-97543"
   ],
   "original_url": "https://anfarabic.com/سوريا/jysh-alahtlal-altrky-yqsf-yn-ysy-97543",
-  "page_title": "",
+  "page_title": "ANF |\nجيش الاحتلال التركي يقصف عين عيسى جيش الاحتلال التركي يقصف عين عيسى جيش الاحتلال التركي يقصف عين عيسى",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts653-october-25-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:52:54+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-c24a9a10eeecd619659e0c3b",
   "source_type": "news_article",
   "stable_id_basis": "https://anfarabic.com/سوريا/jysh-alahtlal-altrky-yqsf-yn-ysy-97543",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ANF\n\nمركز الاخبار\n\nالأربعاء, ٢٥ أكتوبر ٢٠٢٣, ١٤:٣٧\n\nتعرضت قرية المشيرفة والأحياء الغربية لناحية عين عيسى وصوامع الحبوب في أطرافها الشمالية لقصف عنيف، مما أسفر عن إصابة المواطن بشار أحمد (26 عاماً).\n\nولا يزال القصف مستمراً.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

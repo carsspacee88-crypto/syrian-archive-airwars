@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/VXPdx"
+    "https://archive.is/VXPdx",
+    "https://web.archive.org/web/20260424052654id_/https://www.newarab.com/news/syria-regime-soldier-sdf-fighters-killed-countrys-north"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "The New Arab",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "fe72f88daf176cbeceed6c2ed3307995e282117398a367ceb3c3af37bd49af0b",
+  "content_variants": [
+    {
+      "bytes": 2302,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:30:28+00:00",
+      "sha256": "fe72f88daf176cbeceed6c2ed3307995e282117398a367ceb3c3af37bd49af0b",
+      "source_url": "https://web.archive.org/web/20260424052654id_/https://www.newarab.com/news/syria-regime-soldier-sdf-fighters-killed-countrys-north",
+      "text": "Syria regime soldier, SDF fighters killed in country's north\n\nA regime soldier and Syrian Democratic Forces (SDF) fighters were killed in separate incidents in Syria's north on Sunday.\n\nTwo members of the Kurdish-led SDF were killed by unknown gunmen near a bridge south of Raqqa city, activist Abu Omar al-Bukamali told The New Arab's Arabic-language sister service Al-Araby Al-Jadeed.\n\nIn northeastern Syria, the SDF launched a campaign of raids on homes in several villages in Hasakah province, al-Bukamali said.\n\nThey arrested five people accused of links to the Islamic State (IS) group during a raid in Al-Husseiniyah village in the province's east, he added.\n\nKurdish leader meets with US, SDF commanders in NE Syria\n\nThe SDF announced Sunday the launch of Operation Al-Jazeera Thunderbolt in cooperation with the US-led international coalition against IS cells in Hasakah province.\n\nThe Kurdish-led force said 32 people were arrested on charges of belonging to the extremist group.\n\nAlso on Sunday, Syrian regime soldiers were injured after Turkish forces targeted their post in a village in the north of Aleppo province.\n\nThe UK-based Syrian Observatory for Human Rights said Turkish forces bombed several villages in the countryside in the north of the province.\n\nThe monitor added that heavy clashes broke out on Sunday, pitting Syrian regime forces and the SDF against fighters from the Turkey-backed Syrian National Army rebel group.\n\nThe monitor added that a regime soldier was killed in the clashes, which took place in the countryside near Al-Bab.\n\nThe Russian Reconciliation Center for Syria, part of Russia's armed forces, said on Saturday that two regime soldiers were injured by a drone bombing in Latakia province.\n\nRelated Articles\n\nFormer Syrian rebel leader returns home after UAE detention\n\nIs an 'Islamic NATO' emerging as a counterweight to Israel?\n\nKSA–Turkey rail line planned linking holy cities to Istanbul\n\nSyria\n\nSyrian regime\n\nSDF\n\nSyrian Democratic Forces\n\nTurkey\n\nIslamic State group\n\nAl-Bab\n\nAleppo\n\nLatakia\n\nHasakah\n\nRaqqa\n\nRecommended for You\n\nLoading recommendations...\n\nMore In News\n\nTrump says US in no rush but 'clock is ticking' for Iran\n\nUS says Iran players welcome at World Cup amid Italy uproar\n\nIsrael, Lebanon extend ceasefire as Trump hopes for deal"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:30:28+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:30:28+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260424052654id_/https://www.newarab.com/news/syria-regime-soldier-sdf-fighters-killed-countrys-north"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260424052654id_/https://www.newarab.com/news/syria-regime-soldier-sdf-fighters-killed-countrys-north",
   "incident_ids": [
     "airwars-89576"
   ],
@@ -85,10 +109,10 @@
     "https://www.newarab.com/news/syria-regime-soldier-sdf-fighters-killed-countrys-north"
   ],
   "original_url": "https://www.newarab.com/news/syria-regime-soldier-sdf-fighters-killed-countrys-north",
-  "page_title": "",
+  "page_title": "Syria regime soldier, SDF fighters killed in country’s north Syria regime soldier, SDF fighters killed in country’s north Syria regime soldier, SDF fighters killed in country's north",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0002-january-1-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:30:28+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-22095b283b6f394f99bd53a0",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.newarab.com/news/syria-regime-soldier-sdf-fighters-killed-countrys-north",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Syria regime soldier, SDF fighters killed in country's north\n\nA regime soldier and Syrian Democratic Forces (SDF) fighters were killed in separate incidents in Syria's north on Sunday.\n\nTwo members of the Kurdish-led SDF were killed by unknown gunmen near a bridge south of Raqqa city, activist Abu Omar al-Bukamali told The New Arab's Arabic-language sister service Al-Araby Al-Jadeed.\n\nIn northeastern Syria, the SDF launched a campaign of raids on homes in several villages in Hasakah province, al-Bukamali said.\n\nThey arrested five people accused of links to the Islamic State (IS) group during a raid in Al-Husseiniyah village in the province's east, he added.\n\nKurdish leader meets with US, SDF commanders in NE Syria\n\nThe SDF announced Sunday the launch of Operation Al-Jazeera Thunderbolt in cooperation with the US-led international coalition against IS cells in Hasakah province.\n\nThe Kurdish-led force said 32 people were arrested on charges of belonging to the extremist group.\n\nAlso on Sunday, Syrian regime soldiers were injured after Turkish forces targeted their post in a village in the north of Aleppo province.\n\nThe UK-based Syrian Observatory for Human Rights said Turkish forces bombed several villages in the countryside in the north of the province.\n\nThe monitor added that heavy clashes broke out on Sunday, pitting Syrian regime forces and the SDF against fighters from the Turkey-backed Syrian National Army rebel group.\n\nThe monitor added that a regime soldier was killed in the clashes, which took place in the countryside near Al-Bab.\n\nThe Russian Reconciliation Center for Syria, part of Russia's armed forces, said on Saturday that two regime soldiers were injured by a drone bombing in Latakia province.\n\nRelated Articles\n\nFormer Syrian rebel leader returns home after UAE detention\n\nIs an 'Islamic NATO' emerging as a counterweight to Israel?\n\nKSA–Turkey rail line planned linking holy cities to Istanbul\n\nSyria\n\nSyrian regime\n\nSDF\n\nSyrian Democratic Forces\n\nTurkey\n\nIslamic State group\n\nAl-Bab\n\nAleppo\n\nLatakia\n\nHasakah\n\nRaqqa\n\nRecommended for You\n\nLoading recommendations...\n\nMore In News\n\nTrump says US in no rush but 'clock is ticking' for Iran\n\nUS says Iran players welcome at World Cup amid Italy uproar\n\nIsrael, Lebanon extend ceasefire as Trump hopes for deal",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/oWOgv"
+    "https://archive.ph/oWOgv",
+    "https://web.archive.org/web/20250613221753id_/https://www.zamanalwsl.net/news/article/142374/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaman Al Wasl",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "9a85fb77243adf18e93db38f3288eba0a9de8629cb2772bcb0ab1b461115b2c4",
+  "content_variants": [
+    {
+      "bytes": 285,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:52:09+00:00",
+      "sha256": "9a85fb77243adf18e93db38f3288eba0a9de8629cb2772bcb0ab1b461115b2c4",
+      "source_url": "https://web.archive.org/web/20250613221753id_/https://www.zamanalwsl.net/news/article/142374/",
+      "text": "25 كانون الأول 2021\n\nقتلى وجرحى بقصف جوي تركي على \"عين العرب\" شرق حلب\n\n0\n\nالتعليقات\n\nمدينة\n\nعين\n\nالعرب\n\nالذاتية\n\nالأول\n\nالديمقراطي\n\nالاتحاد\n\nبقصف\n\nتعليقات حول الموضوع"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:52:08+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:52:09+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250613221753id_/https://www.zamanalwsl.net/news/article/142374/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250613221753id_/https://www.zamanalwsl.net/news/article/142374/",
   "incident_ids": [
     "airwars-80857"
   ],
@@ -85,10 +109,10 @@
     "https://www.zamanalwsl.net/news/article/142374/"
   ],
   "original_url": "https://www.zamanalwsl.net/news/article/142374/",
-  "page_title": "",
+  "page_title": "قتلى وجرحى بقصف جوي تركي على \"عين العرب\" شرق حلب | زمان الوصل قتلى وجرحى بقصف جوي تركي على عين العرب شرق حلب قتلى وجرحى بقصف جوي تركي على عين العرب شرق حلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts481-december-25-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:52:09+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-bd1e1c96b1f644f94bb7d9c1",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.zamanalwsl.net/news/article/142374/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "25 كانون الأول 2021\n\nقتلى وجرحى بقصف جوي تركي على \"عين العرب\" شرق حلب\n\n0\n\nالتعليقات\n\nمدينة\n\nعين\n\nالعرب\n\nالذاتية\n\nالأول\n\nالديمقراطي\n\nالاتحاد\n\nبقصف\n\nتعليقات حول الموضوع",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

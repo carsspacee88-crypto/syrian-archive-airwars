@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/eDmBp"
+    "https://archive.ph/eDmBp",
+    "https://web.archive.org/web/20240525021314id_/https://www.facebook.com/SyriaCivilDefense/posts/pfbid0bLzYUHt5RhfCRsKBynGEPrXbquEdkFtLmKT7req9N5HANbFZzhVt8EBtgrbFrFESl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Civil Defense",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "9c2193bd8fcbdd9725f3cbd22a98ded8d2c1a89fb8106c6c6bdcf1369c020e44",
+  "content_variants": [
+    {
+      "bytes": 640,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:52:06+00:00",
+      "sha256": "9c2193bd8fcbdd9725f3cbd22a98ded8d2c1a89fb8106c6c6bdcf1369c020e44",
+      "source_url": "https://web.archive.org/web/20240525021314id_/https://www.facebook.com/SyriaCivilDefense/posts/pfbid0bLzYUHt5RhfCRsKBynGEPrXbquEdkFtLmKT7req9N5HANbFZzhVt8EBtgrbFrFESl",
+      "text": "إصابة امرأة بجروح، واندلاع حريق في أحد منازل المدنيين، جراء قصف قوات النظام وروسيا بلدة البارة جنوبي #إدلب بالقذائف المدفعية، اليوم السبت 6 آب،\nفرقنا...\n\nإصابة امرأة بجروح، واندلاع حريق في أحد منازل المدنيين، جراء قصف قوات النظام وروسيا بلدة البارة جنوبي #إدلب بالقذائف المدفعية، اليوم السبت 6 آب،\nفرقنا تفقدت الأماكن المستهدفة وأمنتها، وأخمدت الحريق..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:52:06+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:52:06+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525021314id_/https://www.facebook.com/SyriaCivilDefense/posts/pfbid0bLzYUHt5RhfCRsKBynGEPrXbquEdkFtLmKT7req9N5HANbFZzhVt8EBtgrbFrFESl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525021314id_/https://www.facebook.com/SyriaCivilDefense/posts/pfbid0bLzYUHt5RhfCRsKBynGEPrXbquEdkFtLmKT7req9N5HANbFZzhVt8EBtgrbFrFESl",
   "incident_ids": [
     "airwars-84534"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/SyriaCivilDefense/posts/pfbid0bLzYUHt5RhfCRsKBynGEPrXbquEdkFtLmKT7req9N5HANbFZzhVt8EBtgrbFrFESl"
   ],
   "original_url": "https://www.facebook.com/SyriaCivilDefense/posts/pfbid0bLzYUHt5RhfCRsKBynGEPrXbquEdkFtLmKT7req9N5HANbFZzhVt8EBtgrbFrFESl",
-  "page_title": "",
+  "page_title": "الدفاع المدني السوري الدفاع المدني السوري إصابة امرأة بجروح، واندلاع حريق في... - الدفاع المدني السوري",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4709-august-6-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:52:06+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-bc0b0a4de14be277d29f1c6f",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SyriaCivilDefense/posts/pfbid0bLzYUHt5RhfCRsKBynGEPrXbquEdkFtLmKT7req9N5HANbFZzhVt8EBtgrbFrFESl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة امرأة بجروح، واندلاع حريق في أحد منازل المدنيين، جراء قصف قوات النظام وروسيا بلدة البارة جنوبي #إدلب بالقذائف المدفعية، اليوم السبت 6 آب،\nفرقنا...\n\nإصابة امرأة بجروح، واندلاع حريق في أحد منازل المدنيين، جراء قصف قوات النظام وروسيا بلدة البارة جنوبي #إدلب بالقذائف المدفعية، اليوم السبت 6 آب،\nفرقنا تفقدت الأماكن المستهدفة وأمنتها، وأخمدت الحريق...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

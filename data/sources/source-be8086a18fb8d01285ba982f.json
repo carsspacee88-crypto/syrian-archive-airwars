@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/6HcC9"
+    "https://archive.ph/6HcC9",
+    "https://web.archive.org/web/20250313011831id_/https://www.zamanalwsl.net/news/article/146111/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaman Al Wasl",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ea2e8049d3eb97755bd2c6d6b9abb558011af1d9080f9cff5f8976df1f2106ba",
+  "content_variants": [
+    {
+      "bytes": 263,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:52:24+00:00",
+      "sha256": "ea2e8049d3eb97755bd2c6d6b9abb558011af1d9080f9cff5f8976df1f2106ba",
+      "source_url": "https://web.archive.org/web/20250313011831id_/https://www.zamanalwsl.net/news/article/146111/",
+      "text": "12 أيار 2022\n\nإصابة مدني بغارات روسية استهدفت جبل الزاوية\n\n0\n\nالتعليقات\n\nالروسية\n\nمنطقة\n\nجبل\n\nإدلب\n\nالطائرات\n\nالحربية\n\nالزاوية\n\nصيب\n\nتعليقات حول الموضوع"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:52:23+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:52:24+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250313011831id_/https://www.zamanalwsl.net/news/article/146111/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250313011831id_/https://www.zamanalwsl.net/news/article/146111/",
   "incident_ids": [
     "airwars-83592"
   ],
@@ -85,10 +109,10 @@
     "https://www.zamanalwsl.net/news/article/146111/"
   ],
   "original_url": "https://www.zamanalwsl.net/news/article/146111/",
-  "page_title": "",
+  "page_title": "إصابة مدني بغارات روسية استهدفت جبل الزاوية | زمان الوصل إصابة مدني بغارات روسية استهدفت جبل الزاوية إصابة مدني بغارات روسية استهدفت جبل الزاوية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4699-may-12-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:52:24+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-be8086a18fb8d01285ba982f",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.zamanalwsl.net/news/article/146111/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "12 أيار 2022\n\nإصابة مدني بغارات روسية استهدفت جبل الزاوية\n\n0\n\nالتعليقات\n\nالروسية\n\nمنطقة\n\nجبل\n\nإدلب\n\nالطائرات\n\nالحربية\n\nالزاوية\n\nصيب\n\nتعليقات حول الموضوع",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/q4BCp"
+    "https://archive.is/q4BCp",
+    "https://web.archive.org/web/20250804010715id_/https://baladi-news.com/ar/articles/80384/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D9%81%D8%AA%D8%AA%D8%AD-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%A1-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8-%D8%B5%D9%88%D8%B1"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Baladi",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0656c1f64119185c989e6747a7a7dd454e45fb71411ae87d8a9153b39f0c302b",
+  "content_variants": [
+    {
+      "bytes": 1480,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:28:37+00:00",
+      "sha256": "0656c1f64119185c989e6747a7a7dd454e45fb71411ae87d8a9153b39f0c302b",
+      "source_url": "https://web.archive.org/web/20250804010715id_/https://baladi-news.com/ar/articles/80384/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D9%81%D8%AA%D8%AA%D8%AD-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%A1-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8-%D8%B5%D9%88%D8%B1",
+      "text": "طرطوس.. تسجيل 100 إصابة بالتهاب الكبد الفيروسي\n\nبلدي نيوز\n\nسجلت مديرية الصحة التابعة لحكومة النظام السوري في محافظة طرطوس، أكثر من 100 حالة إصابة بالتهاب الكبد الفيروسي جراء تلوث مياه الشرب والري الزراعي، واختلاطها بمياه الصرف الصحي في قرية بعمرة بناحية صافيتا.\n\nوقالت صحيفة \"الوطن\"، المقربة من النظام، إن عدد المصابين بالتهاب الكبد المسجلين لدى مديرية الصحة في طرطوس تجاوز الأسبوع الماضي حاجز الـ 100 إصابة في قرية بعمرة التابعة لناحية صافيتا في ريف طرطوس، موضحة أن الإصابات سببها شرب المياه من بئر بعمرة الجديدة التي تلوثت بمياه الصرف الصحي، إضافة إلى أكل الخضروات المروية بهذه المياه الملوثة.\n\nونقل موقع العربي الجديد عن مصادر مطلعة، إن التلوث يسبب عادة الإصابة بمرض التهاب الكبد الوبائي من الدرجة \"a\" وهو الذي سجلته مديرية الصحة، وانتقال المرض يكون عن طريق العدوى بالتعرّض لسوائل ملوثة بالفيروس.\n\nآخر ما نشر من القسم"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:28:36+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:28:37+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250804010715id_/https://baladi-news.com/ar/articles/80384/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D9%81%D8%AA%D8%AA%D8%AD-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%A1-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8-%D8%B5%D9%88%D8%B1"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250804010715id_/https://baladi-news.com/ar/articles/80384/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D9%81%D8%AA%D8%AA%D8%AD-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%A1-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8-%D8%B5%D9%88%D8%B1",
   "incident_ids": [
     "airwars-80902"
   ],
@@ -85,10 +109,10 @@
     "https://baladi-news.com/ar/articles/80384/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D9%81%D8%AA%D8%AA%D8%AD-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%A1-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8-%D8%B5%D9%88%D8%B1"
   ],
   "original_url": "https://baladi-news.com/ar/articles/80384/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D9%81%D8%AA%D8%AA%D8%AD-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%A1-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8-%D8%B5%D9%88%D8%B1",
-  "page_title": "",
+  "page_title": "الصفحة الرئيسية طرطوس.. تسجيل 100 إصابة بالتهاب الكبد الفيروسي - شبكة بلدي الإعلامية طرطوس.. تسجيل 100 إصابة بالتهاب الكبد الفيروسي - شبكة بلدي الإعلامية طرطوس.. تسجيل 100 إصابة بالتهاب الكبد الفيروسي - شبكة بلدي الإعلامية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4685-january-1-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:28:37+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0190014a48df1ff3c229730d",
   "source_type": "news_article",
   "stable_id_basis": "https://baladi-news.com/ar/articles/80384/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D9%81%D8%AA%D8%AA%D8%AD-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%A1-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8-%D8%B5%D9%88%D8%B1",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "طرطوس.. تسجيل 100 إصابة بالتهاب الكبد الفيروسي\n\nبلدي نيوز\n\nسجلت مديرية الصحة التابعة لحكومة النظام السوري في محافظة طرطوس، أكثر من 100 حالة إصابة بالتهاب الكبد الفيروسي جراء تلوث مياه الشرب والري الزراعي، واختلاطها بمياه الصرف الصحي في قرية بعمرة بناحية صافيتا.\n\nوقالت صحيفة \"الوطن\"، المقربة من النظام، إن عدد المصابين بالتهاب الكبد المسجلين لدى مديرية الصحة في طرطوس تجاوز الأسبوع الماضي حاجز الـ 100 إصابة في قرية بعمرة التابعة لناحية صافيتا في ريف طرطوس، موضحة أن الإصابات سببها شرب المياه من بئر بعمرة الجديدة التي تلوثت بمياه الصرف الصحي، إضافة إلى أكل الخضروات المروية بهذه المياه الملوثة.\n\nونقل موقع العربي الجديد عن مصادر مطلعة، إن التلوث يسبب عادة الإصابة بمرض التهاب الكبد الوبائي من الدرجة \"a\" وهو الذي سجلته مديرية الصحة، وانتقال المرض يكون عن طريق العدوى بالتعرّض لسوائل ملوثة بالفيروس.\n\nآخر ما نشر من القسم",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

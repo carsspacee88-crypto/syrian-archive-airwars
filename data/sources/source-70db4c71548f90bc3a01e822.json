@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/jGEql"
+    "https://archive.md/jGEql",
+    "https://web.archive.org/web/20240524211945id_/https://www.facebook.com/permalink.php?story_fbid=1878513985665714&id=793563384160785"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Kafarnabil Live",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "7b16b865c719d04c8a5df8c90a0bedc8d9857e9a8ad3a35bf5be39bfa08c49ce",
+  "content_variants": [
+    {
+      "bytes": 625,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:42:12+00:00",
+      "sha256": "7b16b865c719d04c8a5df8c90a0bedc8d9857e9a8ad3a35bf5be39bfa08c49ce",
+      "source_url": "https://web.archive.org/web/20240524211945id_/https://www.facebook.com/permalink.php?story_fbid=1878513985665714&id=793563384160785",
+      "text": "اسماء الشهداء نتيجة القصف الذي استهدف مدينة #أريحا\n#تحديث\n١- قمر بلال حافظ\n٢-زكريا أحمد بزي\n٣-يوسف محمد جمال الحسن\n٤-محمود ياسر سارح\n٥- سلام العاهي من...\n\nاسماء الشهداء نتيجة القصف الذي استهدف مدينة #أريحا\n#تحديث\n١- قمر بلال حافظ\n٢-زكريا أحمد بزي\n٣-يوسف محمد جمال الحسن\n٤-محمود ياسر سارح\n٥- سلام العاهي من مدينة معرة النعمان\n٦- حسون احسان الخديجة معرة..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:42:11+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:42:12+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524211945id_/https://www.facebook.com/permalink.php?story_fbid=1878513985665714&id=793563384160785"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524211945id_/https://www.facebook.com/permalink.php?story_fbid=1878513985665714&id=793563384160785",
   "incident_ids": [
     "airwars-79588"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/permalink.php?story_fbid=1878513985665714&id=793563384160785"
   ],
   "original_url": "https://www.facebook.com/permalink.php?story_fbid=1878513985665714&id=793563384160785",
-  "page_title": "",
+  "page_title": "كفرنبل مباشر/kafranbel Live كفرنبل مباشر/kafranbel Live اسماء الشهداء نتيجة القصف... - كفرنبل مباشر/kafranbel Live",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4659-october-20-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:42:12+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-70db4c71548f90bc3a01e822",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=1878513985665714&id=793563384160785",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "اسماء الشهداء نتيجة القصف الذي استهدف مدينة #أريحا\n#تحديث\n١- قمر بلال حافظ\n٢-زكريا أحمد بزي\n٣-يوسف محمد جمال الحسن\n٤-محمود ياسر سارح\n٥- سلام العاهي من...\n\nاسماء الشهداء نتيجة القصف الذي استهدف مدينة #أريحا\n#تحديث\n١- قمر بلال حافظ\n٢-زكريا أحمد بزي\n٣-يوسف محمد جمال الحسن\n٤-محمود ياسر سارح\n٥- سلام العاهي من مدينة معرة النعمان\n٦- حسون احسان الخديجة معرة...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

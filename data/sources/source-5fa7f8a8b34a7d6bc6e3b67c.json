@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/tHZmW"
+    "https://archive.is/tHZmW",
+    "https://web.archive.org/web/20250219175410id_/https://sana.sy/en/?p=276804"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Arab News Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "08e0fe8f160f4fa8ee17e569ccad417e5f28c985bf8614988192cf68350c627a",
+  "content_variants": [
+    {
+      "bytes": 602,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:39:53+00:00",
+      "sha256": "08e0fe8f160f4fa8ee17e569ccad417e5f28c985bf8614988192cf68350c627a",
+      "source_url": "https://web.archive.org/web/20250219175410id_/https://sana.sy/en/?p=276804",
+      "text": "2 July، 2022\n\nDamascus, SANA- Two civilians were injured in an Israeli missile aggression on a number of poultry farms in the vicinity of Hamidiya town, south of Tartous.\n\n“Nearly at 6:30 a.m. on Saturday, the Israeli enemy carried out an air missile aggression from over the Mediterranean Sea, west of the Lebanese city of Tripoli, targeting several poultry farms in the vicinity of Hamidiya town, south of Tartous,” a military source told SANA.\n\nThe source added that the aggression injured two civilians, including a woman, and caused some material damages.\n\nRafah al-Allouni/ Mazen Eyon\n\ntweet"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:39:52+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:39:53+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250219175410id_/https://sana.sy/en/?p=276804"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250219175410id_/https://sana.sy/en/?p=276804",
   "incident_ids": [
     "airwars-83969"
   ],
@@ -85,10 +109,10 @@
     "https://sana.sy/en/?p=276804"
   ],
   "original_url": "https://sana.sy/en/?p=276804",
-  "page_title": "",
+  "page_title": "Two civilians injured in an Israeli aggression on several poultry farms, south of Tartous – Syrian Arab News Agency Two civilians injured in an Israeli aggression on several poultry farms, south of Tartous - Syrian Arab News Agency Two civilians injured in an Israeli aggression on several poultry farms, south of Tartous Two civilians injured in an Israeli aggression on several poultry farms, south of Tartous",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy024-july-1-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:39:53+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5fa7f8a8b34a7d6bc6e3b67c",
   "source_type": "news_article",
   "stable_id_basis": "https://sana.sy/en/?p=276804",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "2 July، 2022\n\nDamascus, SANA- Two civilians were injured in an Israeli missile aggression on a number of poultry farms in the vicinity of Hamidiya town, south of Tartous.\n\n“Nearly at 6:30 a.m. on Saturday, the Israeli enemy carried out an air missile aggression from over the Mediterranean Sea, west of the Lebanese city of Tripoli, targeting several poultry farms in the vicinity of Hamidiya town, south of Tartous,” a military source told SANA.\n\nThe source added that the aggression injured two civilians, including a woman, and caused some material damages.\n\nRafah al-Allouni/ Mazen Eyon\n\ntweet",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

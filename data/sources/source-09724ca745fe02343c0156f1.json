@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20240818141840id_/https://www.youtube.com/watch?v=-mE_vpV8GOA"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Jamil Al Hasan",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "014e05db22da2d47609c4b919f163ae18942fe7e606d0111601e440bb41953b1",
+  "content_variants": [
+    {
+      "bytes": 237,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:29:18+00:00",
+      "sha256": "014e05db22da2d47609c4b919f163ae18942fe7e606d0111601e440bb41953b1",
+      "source_url": "https://web.archive.org/web/20240818141840id_/https://www.youtube.com/watch?v=-mE_vpV8GOA",
+      "text": "عمنوزع خبز عن روح بابا الي استشهد هلق في قصف البارة - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new features© 2024 Google LLC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:29:17+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:29:18+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240818141840id_/https://www.youtube.com/watch?v=-mE_vpV8GOA"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240818141840id_/https://www.youtube.com/watch?v=-mE_vpV8GOA",
   "incident_ids": [
     "airwars-87301"
   ],
@@ -55,10 +80,10 @@
     "https://www.youtube.com/watch?v=-mE_vpV8GOA"
   ],
   "original_url": "https://www.youtube.com/watch?v=-mE_vpV8GOA",
-  "page_title": "",
+  "page_title": "عمنوزع خبز عن روح بابا الي استشهد هلق في قصف البارة - YouTube عمنوزع خبز عن روح بابا الي استشهد هلق في قصف البارة عمنوزع خبز عن روح بابا الي استشهد هلق في قصف البارة",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4751-january-18-2023/",
@@ -78,16 +103,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:29:18+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-09724ca745fe02343c0156f1",
   "source_type": "youtube_page",
   "stable_id_basis": "https://www.youtube.com/watch?v=-mE_vpV8GOA",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "عمنوزع خبز عن روح بابا الي استشهد هلق في قصف البارة - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new features© 2024 Google LLC",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

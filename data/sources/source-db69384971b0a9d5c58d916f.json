@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/W1mIW"
+    "https://archive.is/W1mIW",
+    "https://web.archive.org/web/20211002183211id_/https://twitter.com/Click_Syria/status/1444195768932446212"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@Click_Syria",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0246ea063eecf3673bf97cecf9ee9afaa32565262f78922c27225e7aa3de5bb7",
+  "content_variants": [
+    {
+      "bytes": 549,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:55:02+00:00",
+      "sha256": "0246ea063eecf3673bf97cecf9ee9afaa32565262f78922c27225e7aa3de5bb7",
+      "source_url": "https://web.archive.org/web/20211002183211id_/https://twitter.com/Click_Syria/status/1444195768932446212",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\n#كليك_ميداني || شنـ ـت قوات \"قسد\" مدعومة بطائرات \"التحالف الأمريكي\" حملة مداهـ ـمات في مزرعة تشرين شمال #الرقة حيث سمعت أصوات اشتـ ـباكات وانفـ ـجارات قوية في محيط المزرعة\n#سوريا\n\n22 Retweets\n\n23 Likes\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:55:00+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:55:02+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211002183211id_/https://twitter.com/Click_Syria/status/1444195768932446212"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211002183211id_/https://twitter.com/Click_Syria/status/1444195768932446212",
   "incident_ids": [
     "airwars-79091"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/Click_Syria/status/1444195768932446212"
   ],
   "original_url": "https://twitter.com/Click_Syria/status/1444195768932446212",
-  "page_title": "",
+  "page_title": "كليك Click on Twitter: \"#كليك_ميداني || شنـ ـت قوات \"قسد\" مدعومة بطائرات \"التحالف الأمريكي\" حملة مداهـ ـمات في مزرعة تشرين شمال #الرقة حيث سمعت أصوات اشتـ ـباكات وانفـ ـجارات قوية في محيط المزرعة\n#سوريا\" كليك Click on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1965-october-2-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:55:02+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-db69384971b0a9d5c58d916f",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/Click_Syria/status/1444195768932446212",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\n#كليك_ميداني || شنـ ـت قوات \"قسد\" مدعومة بطائرات \"التحالف الأمريكي\" حملة مداهـ ـمات في مزرعة تشرين شمال #الرقة حيث سمعت أصوات اشتـ ـباكات وانفـ ـجارات قوية في محيط المزرعة\n#سوريا\n\n22 Retweets\n\n23 Likes\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

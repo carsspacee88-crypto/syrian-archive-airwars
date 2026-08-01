@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/6clfw"
+    "https://archive.ph/6clfw",
+    "https://web.archive.org/web/20250514081903id_/https://npasyria.com/en/81545/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "4f2ef8206cce49664ffc5b8298ed831a5a5ef53a6d9e2209a59837461de92041",
+  "content_variants": [
+    {
+      "bytes": 1290,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:30:01+00:00",
+      "sha256": "4f2ef8206cce49664ffc5b8298ed831a5a5ef53a6d9e2209a59837461de92041",
+      "source_url": "https://web.archive.org/web/20250514081903id_/https://npasyria.com/en/81545/",
+      "text": "4 killed, 2 wounded in Turkish strike in Syria’s Qamishli – Asayish\n\nAl-Siyahi street in Qamishli – North Press\n\nQAMISHLI, Syria (North Press) – The Internal Security Forces of North and East Syria (Asayish) said on Saturday evening that four people were killed and two others injured in a Turkish strike in al-Sinaa neighborhood in Qamishli city, northeastern Syria.\n\nIn a statement published on its official website, the Asayish said that the preliminary investigation indicated that the mysterious blast in the city was caused by a Turkish drone strike that targeted a car in the al-Sinaa neighborhood in Qamishli.\n\nThe attack “killed 4 people, including two children,” the statement added.\n\nThe Asayish stated that two other people were critically wounded in the assault and taken to hospitals to receive proper treatment.\n\nThe strike also caused significant material damage to the shops and vehicles in the vicinity, according to the statement.\n\nThe statement noted that the investigation is still ongoing to identify the victims.\n\nThe Asayish statement denounced the international community’s silence regarding the repeated Turkish attacks against civilians in its areas of north and east Syria, noting that they aim at destabilizing the region.\n\nReporting by Adnan Hamo"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:30:00+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:30:01+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250514081903id_/https://npasyria.com/en/81545/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250514081903id_/https://npasyria.com/en/81545/",
   "incident_ids": [
     "airwars-84361"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/81545/"
   ],
   "original_url": "https://npasyria.com/en/81545/",
-  "page_title": "",
+  "page_title": "4 killed, 2 wounded in Turkish strike in Syria’s Qamishli – Asayish - North press agency 4 killed, 2 wounded in Turkish strike in Syria’s Qamishli – Asayish - North press agency 4 killed, 2 wounded in Turkish strike in Syria’s Qamishli – Asayish - North press agency 4 killed, 2 wounded in Turkish strike in Syria’s Qamishli – Asayish - North press agency 4 killed, 2 wounded in Turkish strike in Syria’s Qamishli – Asayish - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts539-august-6-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:30:01+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-1c64cf59de43e9a91b498045",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/81545/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "4 killed, 2 wounded in Turkish strike in Syria’s Qamishli – Asayish\n\nAl-Siyahi street in Qamishli – North Press\n\nQAMISHLI, Syria (North Press) – The Internal Security Forces of North and East Syria (Asayish) said on Saturday evening that four people were killed and two others injured in a Turkish strike in al-Sinaa neighborhood in Qamishli city, northeastern Syria.\n\nIn a statement published on its official website, the Asayish said that the preliminary investigation indicated that the mysterious blast in the city was caused by a Turkish drone strike that targeted a car in the al-Sinaa neighborhood in Qamishli.\n\nThe attack “killed 4 people, including two children,” the statement added.\n\nThe Asayish stated that two other people were critically wounded in the assault and taken to hospitals to receive proper treatment.\n\nThe strike also caused significant material damage to the shops and vehicles in the vicinity, according to the statement.\n\nThe statement noted that the investigation is still ongoing to identify the victims.\n\nThe Asayish statement denounced the international community’s silence regarding the repeated Turkish attacks against civilians in its areas of north and east Syria, noting that they aim at destabilizing the region.\n\nReporting by Adnan Hamo",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

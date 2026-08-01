@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/kMYa2"
+    "https://archive.is/kMYa2",
+    "https://web.archive.org/web/20250524133659id_/https://www.almodon.com/arabworld/2023/2/22/%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D9%86-%D8%AF%D8%A7%D8%B9%D8%B4-%D8%A8%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Al Modon",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "fd9ead4218bb410b7fa761c5c961ccfedc58d1e79837e8c0603bd5b85243b010",
+  "content_variants": [
+    {
+      "bytes": 939,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:45:37+00:00",
+      "sha256": "fd9ead4218bb410b7fa761c5c961ccfedc58d1e79837e8c0603bd5b85243b010",
+      "source_url": "https://web.archive.org/web/20250524133659id_/https://www.almodon.com/arabworld/2023/2/22/%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D9%86-%D8%AF%D8%A7%D8%B9%D8%B4-%D8%A8%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81",
+      "text": "دير الزور: قتلى وجرحى من داعش بإنزال جوي للتحالف\n\nالتعليقات\n\nالتعليقات المنشورة تعبر عن آراء أصحابها\n\nالكاتب\n\nالليرة السورية ترتفع 5% بعد رفع العقوبات الأميركية\n\nالسبت 2025/05/24\n\n\"حماس\" تندد بتصريحات فاين: تحريض صريح على الإبادة الجماعية\n\nالسبت 2025/05/24\n\nاعفاء أميركي من عقوبات \"قيصر\" لـ180 يوماً.. ودمشق ترحّب\n\nالسبت 2025/05/24\n\nشهداء وجرحى بينهم أطفال ونساء.. ومباحثات بباريس حول غزة\n\nالسبت 2025/05/24\n\nتابعنا عبر مواقع التواصل الإجتماعي\n\nإشترك في النشرة الإخبارية ليصلك كل جديد\n\nاشترك معنا في نشرة المدن الدورية لتبقى على اتصال دائم بالحدث"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:45:35+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:45:37+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250524133659id_/https://www.almodon.com/arabworld/2023/2/22/%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D9%86-%D8%AF%D8%A7%D8%B9%D8%B4-%D8%A8%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250524133659id_/https://www.almodon.com/arabworld/2023/2/22/%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D9%86-%D8%AF%D8%A7%D8%B9%D8%B4-%D8%A8%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81",
   "incident_ids": [
     "airwars-87638"
   ],
@@ -85,10 +109,10 @@
     "https://www.almodon.com/arabworld/2023/2/22/%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D9%86-%D8%AF%D8%A7%D8%B9%D8%B4-%D8%A8%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81"
   ],
   "original_url": "https://www.almodon.com/arabworld/2023/2/22/%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D9%86-%D8%AF%D8%A7%D8%B9%D8%B4-%D8%A8%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81",
-  "page_title": "",
+  "page_title": "دير الزور: قتلى وجرحى من داعش بإنزال جوي للتحالف دير الزور: قتلى وجرحى من داعش بإنزال جوي للتحالف دير الزور: قتلى وجرحى من داعش بإنزال جوي للتحالف",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1991-february-22-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:45:37+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-88fe98a380a3fe64ab3e809d",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.almodon.com/arabworld/2023/2/22/%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1-%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D9%86-%D8%AF%D8%A7%D8%B9%D8%B4-%D8%A8%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "دير الزور: قتلى وجرحى من داعش بإنزال جوي للتحالف\n\nالتعليقات\n\nالتعليقات المنشورة تعبر عن آراء أصحابها\n\nالكاتب\n\nالليرة السورية ترتفع 5% بعد رفع العقوبات الأميركية\n\nالسبت 2025/05/24\n\n\"حماس\" تندد بتصريحات فاين: تحريض صريح على الإبادة الجماعية\n\nالسبت 2025/05/24\n\nاعفاء أميركي من عقوبات \"قيصر\" لـ180 يوماً.. ودمشق ترحّب\n\nالسبت 2025/05/24\n\nشهداء وجرحى بينهم أطفال ونساء.. ومباحثات بباريس حول غزة\n\nالسبت 2025/05/24\n\nتابعنا عبر مواقع التواصل الإجتماعي\n\nإشترك في النشرة الإخبارية ليصلك كل جديد\n\nاشترك معنا في نشرة المدن الدورية لتبقى على اتصال دائم بالحدث",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

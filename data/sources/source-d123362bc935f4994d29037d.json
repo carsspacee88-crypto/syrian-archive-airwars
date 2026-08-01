@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/5C3Vr"
+    "https://archive.is/5C3Vr",
+    "https://web.archive.org/web/20250810222331id_/https://npasyria.com/en/77839/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "3927a2a9a972374ac6efb62553911bfaa2026094a108fabcd552160849814464",
+  "content_variants": [
+    {
+      "bytes": 1995,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:55:10+00:00",
+      "sha256": "3927a2a9a972374ac6efb62553911bfaa2026094a108fabcd552160849814464",
+      "source_url": "https://web.archive.org/web/20250810222331id_/https://npasyria.com/en/77839/",
+      "text": "Turkish shelling on Syria’s Ain Issa injures 4 children with 1 paralyzed\n\nFamily in Raqqa National Hospital after they were hit by a Turkish shelling on Ain Issa – North Press\n\nRAQQA, Syria (North Press) – A medical source from the National Hospital in Raqqa, a city in northern Syria, said on Wednesday that a family of a mother and four children was injured due to a Turkish shelling on Ain Issa, a town north of Raqqa.\n\nThe medical source said that one of the children was diagnosed with Hemiplegia, a condition caused by brain damage or spinal cord injury that leads to paralysis on one side of the body.\n\nOn Tuesday night, the village of Qartaj, the home of the family, was shelled by the Turkish forces, according to the official website of the SDF.\n\nThe village of Qartaj is 5 km away from Ain Issa and 45 km from the Syrian-Turkish border. It hosts dozens of the forcibly displaced people of Tel Abyad.\n\nMuhammad al-Ayed, a neurosurgeon at the Raqqa National Hospital, said that the 13-year-old child, Hayel Muhammad, was hit by a shrapnel that entered his back and ended in his abdomen, causing him to lose the ability to walk.\n\nThe shrapnel was removed after surgical intervention, but it significantly damaged the child’s spine, the doctor added to North Press.\n\nThe other children and their mother are in stable condition, he said.\n\nArna Hammoud, 50, the aunt of the injured children, said that the Turkish shelling, which took place Tuesday night, targeted tents that they had taken as homes on the outskirts of the countryside of Ain Issa town.\n\nHammoud told North Press that they are working as shepherds and moved to the place, which was shelled, about a week earlier.\n\nThe Turkish shelling directly targeted our tents; we tried to escape but my brother’s family was injured anyway, she said.\n\nThe woman said that the oldest of her brother’s children is 13 and the youngest is five, and that the injured mother is Na’ima Muhammad, 35.\n\nReporting by Ammar Abdullatif"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:55:10+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:55:10+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250810222331id_/https://npasyria.com/en/77839/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250810222331id_/https://npasyria.com/en/77839/",
   "incident_ids": [
     "airwars-83639"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/77839/"
   ],
   "original_url": "https://npasyria.com/en/77839/",
-  "page_title": "",
+  "page_title": "Turkish shelling on Syria’s Ain Issa injures 4 children with 1 paralyzed - North press agency Turkish shelling on Syria’s Ain Issa injures 4 children with 1 paralyzed - North press agency Turkish shelling on Syria’s Ain Issa injures 4 children with 1 paralyzed - North press agency Turkish shelling on Syria’s Ain Issa injures 4 children with 1 paralyzed - North press agency Turkish shelling on Syria’s Ain Issa injures 4 children with 1 paralyzed - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts508-may-17-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:55:10+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d123362bc935f4994d29037d",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/77839/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish shelling on Syria’s Ain Issa injures 4 children with 1 paralyzed\n\nFamily in Raqqa National Hospital after they were hit by a Turkish shelling on Ain Issa – North Press\n\nRAQQA, Syria (North Press) – A medical source from the National Hospital in Raqqa, a city in northern Syria, said on Wednesday that a family of a mother and four children was injured due to a Turkish shelling on Ain Issa, a town north of Raqqa.\n\nThe medical source said that one of the children was diagnosed with Hemiplegia, a condition caused by brain damage or spinal cord injury that leads to paralysis on one side of the body.\n\nOn Tuesday night, the village of Qartaj, the home of the family, was shelled by the Turkish forces, according to the official website of the SDF.\n\nThe village of Qartaj is 5 km away from Ain Issa and 45 km from the Syrian-Turkish border. It hosts dozens of the forcibly displaced people of Tel Abyad.\n\nMuhammad al-Ayed, a neurosurgeon at the Raqqa National Hospital, said that the 13-year-old child, Hayel Muhammad, was hit by a shrapnel that entered his back and ended in his abdomen, causing him to lose the ability to walk.\n\nThe shrapnel was removed after surgical intervention, but it significantly damaged the child’s spine, the doctor added to North Press.\n\nThe other children and their mother are in stable condition, he said.\n\nArna Hammoud, 50, the aunt of the injured children, said that the Turkish shelling, which took place Tuesday night, targeted tents that they had taken as homes on the outskirts of the countryside of Ain Issa town.\n\nHammoud told North Press that they are working as shepherds and moved to the place, which was shelled, about a week earlier.\n\nThe Turkish shelling directly targeted our tents; we tried to escape but my brother’s family was injured anyway, she said.\n\nThe woman said that the oldest of her brother’s children is 13 and the youngest is five, and that the injured mother is Na’ima Muhammad, 35.\n\nReporting by Ammar Abdullatif",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

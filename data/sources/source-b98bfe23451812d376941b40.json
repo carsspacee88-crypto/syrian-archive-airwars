@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/eq5qv"
+    "https://archive.is/eq5qv",
+    "https://web.archive.org/web/20220120111858id_/https://twitter.com/baladinetwork/status/1484121978948796422"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@baladinetwork",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2788fc25a9960034837d46cd2c4bce21e6bd6cc43a2762d7812771a020554405",
+  "content_variants": [
+    {
+      "bytes": 361,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:51:59+00:00",
+      "sha256": "2788fc25a9960034837d46cd2c4bce21e6bd6cc43a2762d7812771a020554405",
+      "source_url": "https://web.archive.org/web/20220120111858id_/https://twitter.com/baladinetwork/status/1484121978948796422",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\n#بلدي: شهيدة وجرحى بقصف مدفعي لقوات \"قسد\" على منطقة مريمين بريف #عفرين\n#سوريا #حلب\n\n1 Like\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:51:58+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:51:59+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220120111858id_/https://twitter.com/baladinetwork/status/1484121978948796422"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220120111858id_/https://twitter.com/baladinetwork/status/1484121978948796422",
   "incident_ids": [
     "airwars-81343"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/baladinetwork/status/1484121978948796422"
   ],
   "original_url": "https://twitter.com/baladinetwork/status/1484121978948796422",
-  "page_title": "",
+  "page_title": "شبكة بلدي الإعلامية on Twitter: \"#بلدي: شهيدة وجرحى بقصف مدفعي لقوات \"قسد\" على منطقة مريمين بريف #عفرين\n#سوريا #حلب\" شبكة بلدي الإعلامية on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys121-january-20-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:51:59+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b98bfe23451812d376941b40",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/baladinetwork/status/1484121978948796422",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\n#بلدي: شهيدة وجرحى بقصف مدفعي لقوات \"قسد\" على منطقة مريمين بريف #عفرين\n#سوريا #حلب\n\n1 Like\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

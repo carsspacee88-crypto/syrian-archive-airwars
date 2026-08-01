@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/Rt825"
+    "https://archive.md/Rt825",
+    "https://web.archive.org/web/20221001114106id_/https://resalapost.com/2021/11/22/%D9%85%D8%B1%D8%A7%D8%B3%D9%84-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%A8%D9%88%D8%B3%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%88%D8%B3-32/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@resalapost",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "53dc6ff34fc5d2d2a1ae04a4db84185d6f875ef1bcb6a3545c63d0a5e0fe9e67",
+  "content_variants": [
+    {
+      "bytes": 326,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:48:38+00:00",
+      "sha256": "53dc6ff34fc5d2d2a1ae04a4db84185d6f875ef1bcb6a3545c63d0a5e0fe9e67",
+      "source_url": "https://web.archive.org/web/20221001114106id_/https://resalapost.com/2021/11/22/%D9%85%D8%B1%D8%A7%D8%B3%D9%84-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%A8%D9%88%D8%B3%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%88%D8%B3-32/",
+      "text": "مراسل رسالة بوست: الطيران الحربي الروسي يستهدف بالصواريخ الفراغية منطقة جبل السماق شمالِ غربي إدلب.\n\nنوفمبر 22, 2021\nأخبار عاجلة\n\nاضف تعليق\n491 زيارة\n\nFacebook\n\nTwitter\n\nWhatsApp\n\nStumbleupon\n\nPinterest\n\nطباعة"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:48:37+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:48:38+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20221001114106id_/https://resalapost.com/2021/11/22/%D9%85%D8%B1%D8%A7%D8%B3%D9%84-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%A8%D9%88%D8%B3%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%88%D8%B3-32/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20221001114106id_/https://resalapost.com/2021/11/22/%D9%85%D8%B1%D8%A7%D8%B3%D9%84-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%A8%D9%88%D8%B3%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%88%D8%B3-32/",
   "incident_ids": [
     "airwars-80172"
   ],
@@ -85,10 +109,10 @@
     "https://resalapost.com/2021/11/22/%d9%85%d8%b1%d8%a7%d8%b3%d9%84-%d8%b1%d8%b3%d8%a7%d9%84%d8%a9-%d8%a8%d9%88%d8%b3%d8%aa-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%b3-32/"
   ],
   "original_url": "https://resalapost.com/2021/11/22/%d9%85%d8%b1%d8%a7%d8%b3%d9%84-%d8%b1%d8%b3%d8%a7%d9%84%d8%a9-%d8%a8%d9%88%d8%b3%d8%aa-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%b3-32/",
-  "page_title": "",
+  "page_title": "مراسل رسالة بوست: الطيران الحربي الروسي يستهدف بالصواريخ الفراغية منطقة جبل السماق شمالِ غربي إدلب. – رسالة بوست مراسل رسالة بوست: الطيران الحربي الروسي يستهدف بالصواريخ الفراغية منطقة جبل السماق شمالِ غربي إدلب. - رسالة بوست",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4669-november-22-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:48:38+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9723847e9de90fb34bac8770",
   "source_type": "other_web_page",
   "stable_id_basis": "https://resalapost.com/2021/11/22/%d9%85%d8%b1%d8%a7%d8%b3%d9%84-%d8%b1%d8%b3%d8%a7%d9%84%d8%a9-%d8%a8%d9%88%d8%b3%d8%aa-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%b3-32/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مراسل رسالة بوست: الطيران الحربي الروسي يستهدف بالصواريخ الفراغية منطقة جبل السماق شمالِ غربي إدلب.\n\nنوفمبر 22, 2021\nأخبار عاجلة\n\nاضف تعليق\n491 زيارة\n\nFacebook\n\nTwitter\n\nWhatsApp\n\nStumbleupon\n\nPinterest\n\nطباعة",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

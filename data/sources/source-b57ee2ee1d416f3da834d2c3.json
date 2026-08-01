@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/sfRkc"
+    "https://archive.is/sfRkc",
+    "https://web.archive.org/web/20211011111217id_/https://twitter.com/feryal222kakhi/status/1447520349072019457"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@feryal222kakhi",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8e53d1e5297a1b374b3150a09bcd35a888c7ea419322fb448c82947692f3d027",
+  "content_variants": [
+    {
+      "bytes": 396,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:51:07+00:00",
+      "sha256": "8e53d1e5297a1b374b3150a09bcd35a888c7ea419322fb448c82947692f3d027",
+      "source_url": "https://web.archive.org/web/20211011111217id_/https://twitter.com/feryal222kakhi/status/1447520349072019457",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nانفجار مجهول في منازل المدنيين في قرية الدابس جنوب #جرابلس وهناك إصابات في صفوف المدنيينpic.twitter.com/2tq1rgw3NN\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:51:05+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:51:07+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211011111217id_/https://twitter.com/feryal222kakhi/status/1447520349072019457"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211011111217id_/https://twitter.com/feryal222kakhi/status/1447520349072019457",
   "incident_ids": [
     "airwars-79409"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/feryal222kakhi/status/1447520349072019457"
   ],
   "original_url": "https://twitter.com/feryal222kakhi/status/1447520349072019457",
-  "page_title": "",
+  "page_title": "فريال كاخي on Twitter: \"انفجار مجهول في منازل المدنيين في قرية الدابس جنوب #جرابلس وهناك إصابات في صفوف المدنيين… \" فريال كاخي on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys118-october-11-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:51:07+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b57ee2ee1d416f3da834d2c3",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/feryal222kakhi/status/1447520349072019457",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nانفجار مجهول في منازل المدنيين في قرية الدابس جنوب #جرابلس وهناك إصابات في صفوف المدنيينpic.twitter.com/2tq1rgw3NN\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

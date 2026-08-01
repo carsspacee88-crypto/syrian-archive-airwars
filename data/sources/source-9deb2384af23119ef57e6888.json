@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/pHRAi"
+    "https://archive.md/pHRAi",
+    "https://web.archive.org/web/20240524191821id_/https://www.facebook.com/groups/559222761342365/posts/964260364171934/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Scoop",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b570397426d32cc0f9c9d8cbcca308b9dd4319998184a90b44badfd251e73711",
+  "content_variants": [
+    {
+      "bytes": 639,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:49:11+00:00",
+      "sha256": "b570397426d32cc0f9c9d8cbcca308b9dd4319998184a90b44badfd251e73711",
+      "source_url": "https://web.archive.org/web/20240524191821id_/https://www.facebook.com/groups/559222761342365/posts/964260364171934/",
+      "text": "‏\"جمال\" 5 سنوات باغتته قذائف قوات النظام وروسيا في منزله ببلدة بنش شرقي ‎إدلب أثناء تناول الفطور مع عائلته، وأصابته مع 3 من إخوانه وأبيه وابنة عمه،كان...\n\n‏\"جمال\" 5 سنوات باغتته قذائف قوات النظام وروسيا في منزله ببلدة بنش شرقي ‎إدلب أثناء تناول الفطور مع عائلته، وأصابته مع 3 من إخوانه وأبيه وابنة عمه،كان يحاول كبت مشاعره وحبس دموعه لكنه سرعان ما انفجر..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:49:10+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:49:11+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524191821id_/https://www.facebook.com/groups/559222761342365/posts/964260364171934/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524191821id_/https://www.facebook.com/groups/559222761342365/posts/964260364171934/",
   "incident_ids": [
     "airwars-80597"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/groups/559222761342365/posts/964260364171934/"
   ],
   "original_url": "https://www.facebook.com/groups/559222761342365/posts/964260364171934/",
-  "page_title": "",
+  "page_title": "‏سكوب - scoop‏ | ‏\"جمال\" 5 سنوات باغتته قذائف قوات النظام وروسيا في منزله ببلدة بنش شرقي ‎إدلب أثنا... | Facebook ‏سكوب - scoop‏ | ‏\"جمال\" 5 سنوات باغتته قذائف قوات النظام وروسيا في... ‏سكوب - scoop‏ | ‏\"جمال\" 5 سنوات باغتته قذائف قوات النظام وروسيا في منزله ببلدة بنش شرقي ‎إدلب أثنا...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4675-december-2-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:49:11+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9deb2384af23119ef57e6888",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/groups/559222761342365/posts/964260364171934/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "‏\"جمال\" 5 سنوات باغتته قذائف قوات النظام وروسيا في منزله ببلدة بنش شرقي ‎إدلب أثناء تناول الفطور مع عائلته، وأصابته مع 3 من إخوانه وأبيه وابنة عمه،كان...\n\n‏\"جمال\" 5 سنوات باغتته قذائف قوات النظام وروسيا في منزله ببلدة بنش شرقي ‎إدلب أثناء تناول الفطور مع عائلته، وأصابته مع 3 من إخوانه وأبيه وابنة عمه،كان يحاول كبت مشاعره وحبس دموعه لكنه سرعان ما انفجر...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

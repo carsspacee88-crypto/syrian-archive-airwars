@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/gFrbu"
+    "https://archive.md/gFrbu",
+    "https://web.archive.org/web/20250805172450id_/https://sana.sy/?p=1525291"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Arab News Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "3cd55b1d5f4051ee93b723981b637abb25dcb374b2af060a39ff393988f80e22",
+  "content_variants": [
+    {
+      "bytes": 1120,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:35:54+00:00",
+      "sha256": "3cd55b1d5f4051ee93b723981b637abb25dcb374b2af060a39ff393988f80e22",
+      "source_url": "https://web.archive.org/web/20250805172450id_/https://sana.sy/?p=1525291",
+      "text": "2021-11-24\n\nحمص-سانا\n\nاستشهد مدنيان وأصيب آخر وستة جنود بجروح جراء عدوان إسرائيلي جوي باتجاه المنطقة الوسطى.\n\nوذكر مصدر عسكري في تصريح لـ سانا أنه “حوالى الساعة الواحدة و26 دقيقة من فجر اليوم نفذ العدو الإسرائيلي عدواناً جوياً برشقات من الصواريخ من اتجاه شمال شرق بيروت مستهدفاً بعض النقاط في المنطقة الوسطى وقد تصدت وسائط دفاعنا الجوي لصواريخ العدوان وأسقطت معظمها”.\n\nوأشار المصدر إلى أن العدوان أدى “إلى استشهاد مدنيين اثنين وإصابة آخر بجروح خطيرة وإصابة ستة جنود بجروح ووقوع بعض الخسائر المادية”.\n\nوتصدت وسائط دفاعنا الجوي في السابع عشر من الشهر الجاري لعدوان إسرائيلي بالصواريخ استهدف أحد الأبنية الفارغة جنوب دمشق."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:35:54+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:35:54+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250805172450id_/https://sana.sy/?p=1525291"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250805172450id_/https://sana.sy/?p=1525291",
   "incident_ids": [
     "airwars-80293"
   ],
@@ -85,10 +109,10 @@
     "http://www.sana.sy/?p=1525291"
   ],
   "original_url": "http://www.sana.sy/?p=1525291",
-  "page_title": "",
+  "page_title": "شهداء وجرحى مدنيون وعسكريون جراء عدوان جوي إسرائيلي باتجاه المنطقة الوسطى – S A N A شهداء وجرحى مدنيون وعسكريون جراء عدوان جوي إسرائيلي باتجاه المنطقة الوسطى - S A N A",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy020-november-24-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:35:54+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-43f87b6a4899de1c3bef9bc6",
   "source_type": "news_article",
   "stable_id_basis": "http://www.sana.sy/?p=1525291",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "2021-11-24\n\nحمص-سانا\n\nاستشهد مدنيان وأصيب آخر وستة جنود بجروح جراء عدوان إسرائيلي جوي باتجاه المنطقة الوسطى.\n\nوذكر مصدر عسكري في تصريح لـ سانا أنه “حوالى الساعة الواحدة و26 دقيقة من فجر اليوم نفذ العدو الإسرائيلي عدواناً جوياً برشقات من الصواريخ من اتجاه شمال شرق بيروت مستهدفاً بعض النقاط في المنطقة الوسطى وقد تصدت وسائط دفاعنا الجوي لصواريخ العدوان وأسقطت معظمها”.\n\nوأشار المصدر إلى أن العدوان أدى “إلى استشهاد مدنيين اثنين وإصابة آخر بجروح خطيرة وإصابة ستة جنود بجروح ووقوع بعض الخسائر المادية”.\n\nوتصدت وسائط دفاعنا الجوي في السابع عشر من الشهر الجاري لعدوان إسرائيلي بالصواريخ استهدف أحد الأبنية الفارغة جنوب دمشق.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

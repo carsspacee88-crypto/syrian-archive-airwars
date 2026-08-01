@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/6tpIk"
+    "https://archive.md/6tpIk",
+    "https://web.archive.org/web/20240524212225id_/https://www.facebook.com/permalink.php?story_fbid=2011882008979529&id=100004732488493"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Kashef",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "006518afa3bd4a91c81628cd56273686c3875776e1fa697d0bcf4f15d906ef65",
+  "content_variants": [
+    {
+      "bytes": 591,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:36:25+00:00",
+      "sha256": "006518afa3bd4a91c81628cd56273686c3875776e1fa697d0bcf4f15d906ef65",
+      "source_url": "https://web.archive.org/web/20240524212225id_/https://www.facebook.com/permalink.php?story_fbid=2011882008979529&id=100004732488493",
+      "text": "سرجة\nشهيدة وعدة إصابات بينهم أطفال جراء استهداف طيراب الحربي الروسي محيط بلدة سرجة وهم\n\n1 أمينة خالد الخالد شهيدة\n2 عزام رائد قنب إصابة\n3 محمد مصطفى...\n\nسرجة\nشهيدة وعدة إصابات بينهم أطفال جراء استهداف طيراب الحربي الروسي محيط بلدة سرجة وهم\n\n1 أمينة خالد الخالد شهيدة\n2 عزام رائد قنب إصابة\n3 محمد مصطفى قنب إصابة\n4 منير رائد قنب إصابة"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:36:25+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:36:25+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524212225id_/https://www.facebook.com/permalink.php?story_fbid=2011882008979529&id=100004732488493"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524212225id_/https://www.facebook.com/permalink.php?story_fbid=2011882008979529&id=100004732488493",
   "incident_ids": [
     "airwars-80283"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/permalink.php?story_fbid=2011882008979529&id=100004732488493"
   ],
   "original_url": "https://www.facebook.com/permalink.php?story_fbid=2011882008979529&id=100004732488493",
-  "page_title": "",
+  "page_title": "تفا صيل تفا صيل تفا صيل - سرجة\nشهيدة وعدة إصابات بينهم أطفال جراء استهداف...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4672-november-25-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:36:25+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4b6637575dc1bdaffb24a3e0",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=2011882008979529&id=100004732488493",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "سرجة\nشهيدة وعدة إصابات بينهم أطفال جراء استهداف طيراب الحربي الروسي محيط بلدة سرجة وهم\n\n1 أمينة خالد الخالد شهيدة\n2 عزام رائد قنب إصابة\n3 محمد مصطفى...\n\nسرجة\nشهيدة وعدة إصابات بينهم أطفال جراء استهداف طيراب الحربي الروسي محيط بلدة سرجة وهم\n\n1 أمينة خالد الخالد شهيدة\n2 عزام رائد قنب إصابة\n3 محمد مصطفى قنب إصابة\n4 منير رائد قنب إصابة",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

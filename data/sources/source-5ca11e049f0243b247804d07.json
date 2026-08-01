@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/9tANc"
+    "https://archive.md/9tANc",
+    "https://web.archive.org/web/20230402034824id_/https://twitter.com/idlibcalling/status/1457482505016258562"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@IdlibCalling",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "82d7782e1608c27b6d2199f690123041c36ff7e2faa8965494199040f9bac84d",
+  "content_variants": [
+    {
+      "bytes": 162,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:39:59+00:00",
+      "sha256": "82d7782e1608c27b6d2199f690123041c36ff7e2faa8965494199040f9bac84d",
+      "source_url": "https://web.archive.org/web/20230402034824id_/https://twitter.com/idlibcalling/status/1457482505016258562",
+      "text": "ConversationThis Tweet is from a suspended account. Learn moreYouthAlert! (YA!) U.S.A.@YouthAlertYA·Nov 8, 2021Replying to @IdlibCalling😢😢Show more replies"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:39:57+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:39:59+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230402034824id_/https://twitter.com/idlibcalling/status/1457482505016258562"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230402034824id_/https://twitter.com/idlibcalling/status/1457482505016258562",
   "incident_ids": [
     "airwars-79890"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/IdlibCalling/status/1457482505016258562"
   ],
   "original_url": "https://twitter.com/IdlibCalling/status/1457482505016258562",
-  "page_title": "",
+  "page_title": "Tweet / Twitter Tweet / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1969-november-7-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:39:59+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5ca11e049f0243b247804d07",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/IdlibCalling/status/1457482505016258562",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "ConversationThis Tweet is from a suspended account. Learn moreYouthAlert! (YA!) U.S.A.@YouthAlertYA·Nov 8, 2021Replying to @IdlibCalling😢😢Show more replies",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,
