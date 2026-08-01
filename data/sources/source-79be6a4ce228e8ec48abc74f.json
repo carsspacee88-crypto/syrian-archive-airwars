@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/kGnQI"
+    "https://archive.is/kGnQI",
+    "https://web.archive.org/web/20240524170255id_/https://www.facebook.com/ArihaTV/posts/pfbid0hzZyvRu6nyJV97HvgXG5QK588BoDsb3htNtAsP6Eai6HjgLXFDZfudcNRu7PuSNQl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Ariha TV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a4704b96653fdd6fccea1ce272258c07c7374b7b886b2ba9549add0465c21122",
+  "content_variants": [
+    {
+      "bytes": 189,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:59:33+00:00",
+      "sha256": "a4704b96653fdd6fccea1ce272258c07c7374b7b886b2ba9549add0465c21122",
+      "source_url": "https://web.archive.org/web/20240524170255id_/https://www.facebook.com/ArihaTV/posts/pfbid0hzZyvRu6nyJV97HvgXG5QK588BoDsb3htNtAsP6Eai6HjgLXFDZfudcNRu7PuSNQl",
+      "text": "#عاجل\nحركة نزوح كبيرة تشهدها مدينة دارة عزة في ريف #حلب الغربي نتيجة القصف المكثف من قبل قوات النظام\n#arihatv"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:59:31+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:59:33+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524170255id_/https://www.facebook.com/ArihaTV/posts/pfbid0hzZyvRu6nyJV97HvgXG5QK588BoDsb3htNtAsP6Eai6HjgLXFDZfudcNRu7PuSNQl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524170255id_/https://www.facebook.com/ArihaTV/posts/pfbid0hzZyvRu6nyJV97HvgXG5QK588BoDsb3htNtAsP6Eai6HjgLXFDZfudcNRu7PuSNQl",
   "incident_ids": [
     "airwars-105885"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/ArihaTV/posts/pfbid0hzZyvRu6nyJV97HvgXG5QK588BoDsb3htNtAsP6Eai6HjgLXFDZfudcNRu7PuSNQl"
   ],
   "original_url": "https://www.facebook.com/ArihaTV/posts/pfbid0hzZyvRu6nyJV97HvgXG5QK588BoDsb3htNtAsP6Eai6HjgLXFDZfudcNRu7PuSNQl",
-  "page_title": "",
+  "page_title": "Ariha TV Ariha TV Ariha TV - #عاجل\nحركة نزوح كبيرة تشهدها مدينة دارة عزة في...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4828-october-5-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:59:33+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-79be6a4ce228e8ec48abc74f",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/ArihaTV/posts/pfbid0hzZyvRu6nyJV97HvgXG5QK588BoDsb3htNtAsP6Eai6HjgLXFDZfudcNRu7PuSNQl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#عاجل\nحركة نزوح كبيرة تشهدها مدينة دارة عزة في ريف #حلب الغربي نتيجة القصف المكثف من قبل قوات النظام\n#arihatv",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

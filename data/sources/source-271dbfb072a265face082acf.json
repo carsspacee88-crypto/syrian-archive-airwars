@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/PvH4m"
+    "https://archive.is/PvH4m",
+    "https://web.archive.org/web/20220819203335id_/https://twitter.com/bkdadaksa/status/1560686202537246722"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@bkdadaksa",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d5cdd9a5ba86c2684008ce473e5103ba7ed007ed906248851f8854c6cf921edb",
+  "content_variants": [
+    {
+      "bytes": 390,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:44:10+00:00",
+      "sha256": "d5cdd9a5ba86c2684008ce473e5103ba7ed007ed906248851f8854c6cf921edb",
+      "source_url": "https://web.archive.org/web/20220819203335id_/https://twitter.com/bkdadaksa/status/1560686202537246722",
+      "text": "Conversationالأقصى البغداديه@bkdadaksaاليوم #مجزرة_الباب\n\nصور للأطفال الجرحى عدا عن 15 شهيد جلهم أطفال وجرحى عددهم تجاوز 33 منهم 8 حالات بتر بصواريخ الإجرام المرخص دولياً\n#فريق_مجاهدونTranslate Tweet5:52 PM · Aug 19, 2022·Twitter for Android16 Retweets19 Likes"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:44:09+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:44:10+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220819203335id_/https://twitter.com/bkdadaksa/status/1560686202537246722"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220819203335id_/https://twitter.com/bkdadaksa/status/1560686202537246722",
   "incident_ids": [
     "airwars-84682"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/bkdadaksa/status/1560686202537246722"
   ],
   "original_url": "https://twitter.com/bkdadaksa/status/1560686202537246722",
-  "page_title": "",
+  "page_title": "الأقصى البغداديه on Twitter الأقصى البغداديه on Twitter: \"اليوم #مجزرة_الباب\n\nصور للأطفال الجرحى عدا عن 15 شهيد جلهم أطفال وجرحى عددهم تجاوز 33 منهم 8 حالات بتر بصواريخ الإجرام المرخص دولياً\n#فريق_مجاهدون https://t.co/9kr8fKRlwz\" / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys149-august-19-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:44:10+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-271dbfb072a265face082acf",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/bkdadaksa/status/1560686202537246722",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Conversationالأقصى البغداديه@bkdadaksaاليوم #مجزرة_الباب\n\nصور للأطفال الجرحى عدا عن 15 شهيد جلهم أطفال وجرحى عددهم تجاوز 33 منهم 8 حالات بتر بصواريخ الإجرام المرخص دولياً\n#فريق_مجاهدونTranslate Tweet5:52 PM · Aug 19, 2022·Twitter for Android16 Retweets19 Likes",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

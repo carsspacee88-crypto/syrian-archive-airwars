@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/kmAmZ"
+    "https://archive.is/kmAmZ",
+    "https://web.archive.org/web/20210823052640id_/https://twitter.com/AuroraIntel/status/1429500140897947649"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@AuroraIntel",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ea9a2f3365416980db361d433882b988db581b6f23c904a0c30a7f3f89c2f985",
+  "content_variants": [
+    {
+      "bytes": 1224,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:39:53+00:00",
+      "sha256": "ea9a2f3365416980db361d433882b988db581b6f23c904a0c30a7f3f89c2f985",
+      "source_url": "https://web.archive.org/web/20210823052640id_/https://twitter.com/AuroraIntel/status/1429500140897947649",
+      "text": "Aurora Intel‏ @AuroraIntel\n\n12h12 hours ago\n\nMore\n\nCopy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\nAdditional work still on going around the airstrike in #Syria on the eve 19th August 2021 shows a warehouse not affilated to SAA targeted in the Rif-Dimashq Governorate, #Damascus, #Syria\nhttps://twitter.com/AuroraIntel/status/1428685571132694528 …pic.twitter.com/guJwKnMhja\n\n3 replies\n\n17 retweets\n\n40 likes\n\nReply\n\n3\n\nRetweet\n\n17\n\nRetweeted\n\n17\n\nLike\n\n40\n\nLiked\n\n40\n\nShow this thread\n\nCopy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\nAdditional work still on going around the airstrike in #Syria on the eve 19th August 2021 shows a warehouse not affilated to SAA targeted in the Rif-Dimashq Governorate, #Damascus, #Syria\nhttps://twitter.com/AuroraIntel/status/1428685571132694528 …pic.twitter.com/guJwKnMhja\n\nCopy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\nThe warehouse is suspected to have links to #IRGC or affiliated groups.\n\n7 Retweets\n\n22 Likes\n\nShow more replies\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:39:51+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:39:53+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20210823052640id_/https://twitter.com/AuroraIntel/status/1429500140897947649"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20210823052640id_/https://twitter.com/AuroraIntel/status/1429500140897947649",
   "incident_ids": [
     "airwars-77611"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/AuroraIntel/status/1429500140897947649"
   ],
   "original_url": "https://twitter.com/AuroraIntel/status/1429500140897947649",
-  "page_title": "",
+  "page_title": "Aurora Intel on Twitter: \"The warehouse is suspected to have links to #IRGC or affiliated groups.\" Aurora Intel on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy019-august-19-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:39:53+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-1628b6719842cd4d4af2f4a5",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/AuroraIntel/status/1429500140897947649",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Aurora Intel‏ @AuroraIntel\n\n12h12 hours ago\n\nMore\n\nCopy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\nAdditional work still on going around the airstrike in #Syria on the eve 19th August 2021 shows a warehouse not affilated to SAA targeted in the Rif-Dimashq Governorate, #Damascus, #Syria\nhttps://twitter.com/AuroraIntel/status/1428685571132694528 …pic.twitter.com/guJwKnMhja\n\n3 replies\n\n17 retweets\n\n40 likes\n\nReply\n\n3\n\nRetweet\n\n17\n\nRetweeted\n\n17\n\nLike\n\n40\n\nLiked\n\n40\n\nShow this thread\n\nCopy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\nAdditional work still on going around the airstrike in #Syria on the eve 19th August 2021 shows a warehouse not affilated to SAA targeted in the Rif-Dimashq Governorate, #Damascus, #Syria\nhttps://twitter.com/AuroraIntel/status/1428685571132694528 …pic.twitter.com/guJwKnMhja\n\nCopy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\nThe warehouse is suspected to have links to #IRGC or affiliated groups.\n\n7 Retweets\n\n22 Likes\n\nShow more replies\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

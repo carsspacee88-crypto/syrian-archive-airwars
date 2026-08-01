@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/C2k3n"
+    "https://archive.is/C2k3n",
+    "https://web.archive.org/web/20240525025326id_/https://www.facebook.com/Western.Directorate/posts/pfbid02Y7YXBWpmj88rYf6JKAyN8ZNxGKVyg99v92xUwR6W6ppxnuG7SyXdMdCC75S6QnPYl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Civil Defense",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "80efdbbc7f87c7bec28f0b7309f0419f44c3f9a60686fdaa62ed971996512eb2",
+  "content_variants": [
+    {
+      "bytes": 602,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:35:22+00:00",
+      "sha256": "80efdbbc7f87c7bec28f0b7309f0419f44c3f9a60686fdaa62ed971996512eb2",
+      "source_url": "https://web.archive.org/web/20240525025326id_/https://www.facebook.com/Western.Directorate/posts/pfbid02Y7YXBWpmj88rYf6JKAyN8ZNxGKVyg99v92xUwR6W6ppxnuG7SyXdMdCC75S6QnPYl",
+      "text": "تفقد فرقنا للأماكن التي طالتها الغارات الجوية الروسية في قرية جفتلك حج حمود في ريف جسر الشغور غربي #إدلب، اليوم الجمعة 6 تشرين الأول وأدى لمقتل طفل...\n\nتفقد فرقنا للأماكن التي طالتها الغارات الجوية الروسية في قرية جفتلك حج حمود في ريف جسر الشغور غربي #إدلب، اليوم الجمعة 6 تشرين الأول وأدى لمقتل طفل وإصابة طفلين شقيقين.\n#الخوذ_البيضاء"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:35:21+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:35:22+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525025326id_/https://www.facebook.com/Western.Directorate/posts/pfbid02Y7YXBWpmj88rYf6JKAyN8ZNxGKVyg99v92xUwR6W6ppxnuG7SyXdMdCC75S6QnPYl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525025326id_/https://www.facebook.com/Western.Directorate/posts/pfbid02Y7YXBWpmj88rYf6JKAyN8ZNxGKVyg99v92xUwR6W6ppxnuG7SyXdMdCC75S6QnPYl",
   "incident_ids": [
     "airwars-105906"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/Western.Directorate/posts/pfbid02Y7YXBWpmj88rYf6JKAyN8ZNxGKVyg99v92xUwR6W6ppxnuG7SyXdMdCC75S6QnPYl"
   ],
   "original_url": "https://www.facebook.com/Western.Directorate/posts/pfbid02Y7YXBWpmj88rYf6JKAyN8ZNxGKVyg99v92xUwR6W6ppxnuG7SyXdMdCC75S6QnPYl",
-  "page_title": "",
+  "page_title": "الدفاع المدني السوري - المديرية الغربية الدفاع المدني السوري - المديرية الغربية تفقد فرقنا... - الدفاع المدني السوري - المديرية الغربية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4829-october-6-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:35:22+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-003181c5360fcc1a1b881d47",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/Western.Directorate/posts/pfbid02Y7YXBWpmj88rYf6JKAyN8ZNxGKVyg99v92xUwR6W6ppxnuG7SyXdMdCC75S6QnPYl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "تفقد فرقنا للأماكن التي طالتها الغارات الجوية الروسية في قرية جفتلك حج حمود في ريف جسر الشغور غربي #إدلب، اليوم الجمعة 6 تشرين الأول وأدى لمقتل طفل...\n\nتفقد فرقنا للأماكن التي طالتها الغارات الجوية الروسية في قرية جفتلك حج حمود في ريف جسر الشغور غربي #إدلب، اليوم الجمعة 6 تشرين الأول وأدى لمقتل طفل وإصابة طفلين شقيقين.\n#الخوذ_البيضاء",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

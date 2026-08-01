@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/WEM02"
+    "https://archive.is/WEM02",
+    "https://web.archive.org/web/20240525004726id_/https://www.facebook.com/snhr/photos/a.256329064515163/2029368657211186/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syria Network for Human Rights (5)",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "5f8b3147f814c999edcb4b3cf97157a971c46634b9e244d3e54f66d6eb974aee",
+  "content_variants": [
+    {
+      "bytes": 355,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:49:22+00:00",
+      "sha256": "5f8b3147f814c999edcb4b3cf97157a971c46634b9e244d3e54f66d6eb974aee",
+      "source_url": "https://web.archive.org/web/20240525004726id_/https://www.facebook.com/snhr/photos/a.256329064515163/2029368657211186/",
+      "text": "Professor was one of the victims killed in Syrian regime bombing of Idlib city:\nA man, named as Nour al Din Ghfeir, who held a PhD in Accounting and...\n\nProfessor was one of the victims killed in Syrian regime bombing of Idlib city:\nA man, named as Nour al Din Ghfeir, who held a PhD in Accounting and worked as the Dean of Idlib University’s Faculty..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:49:19+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:49:22+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525004726id_/https://www.facebook.com/snhr/photos/a.256329064515163/2029368657211186/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525004726id_/https://www.facebook.com/snhr/photos/a.256329064515163/2029368657211186/",
   "incident_ids": [
     "airwars-78103"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/snhr/photos/a.256329064515163/2029368657211186/"
   ],
   "original_url": "https://www.facebook.com/snhr/photos/a.256329064515163/2029368657211186/",
-  "page_title": "",
+  "page_title": "Syrian Network for Human Rights - SNHR - Professor was one of the victims killed in Syrian regime bombing of Idlib city: A man, named as Nour al Din Ghfeir, who held a PhD in Accounting and worked as the Dean of Idlib University’s Faculty of Administrative Sciences and Director of its Accounting Department, in addition to working as Director of the Audit Institute at the International University of Science and Renaissance,was one of victims killed in Syrian regime forces’ heavy artillery bombardment near al Husari pool in the south of Idlib city on the evening of September 7. SNHR notes that the professor was killed along with his 12-year-old son, named as Majd, in the same incident. SNHR notes that this shelling is a breach of the ceasefire agreement reached following consultations between the Turkish and Russian presidents, which came into effect on March 6 2020. Through this action, Syrian forces have, without doubt, committed another violation of Security Council resolutions 2139 and 2254 which prohibit any further indiscriminate attacks, as well as violating the rules of international humanitarian law which stress the distinction between civilians and combatants. Attacks of this nature spread terror and panic among civilians, leading them to flee their lands and homes in an attempt to reach safety, and forcibly displacing them, with the number of internally displaced persons within Syria currently standing at approximately 6.5 million Syrian citizens in total. The international community should put pressure on the Syrian regime and its allies to force them to compensate the displaced victims, rehabilitate homes and vital centers, support the process of political transition, and press all parties to pursue implementation of political transition according to a strict timetable which must not exceed six months, thus enabling millions of IDPs to return homes. https://news.sn4hr.org/?p=97175 #Syria #Idlib #Professor | Facebook Syrian Network for Human Rights - SNHR - Professor was one of the... Facebook",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4640-september-7-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:49:22+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4e2f1fae877acd7aa40cee8b",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/snhr/photos/a.256329064515163/2029368657211186/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Professor was one of the victims killed in Syrian regime bombing of Idlib city:\nA man, named as Nour al Din Ghfeir, who held a PhD in Accounting and...\n\nProfessor was one of the victims killed in Syrian regime bombing of Idlib city:\nA man, named as Nour al Din Ghfeir, who held a PhD in Accounting and worked as the Dean of Idlib University’s Faculty...",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

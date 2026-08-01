@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/4TcF8"
+    "https://archive.is/4TcF8",
+    "https://web.archive.org/web/20231205180856id_/https://syrianewsagency.net/invesigations/reports/26263/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syria News Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "31f2d292cf857cdc799cf8548247782f8cd70b58f7bebdf79836292dd3b289d0",
+  "content_variants": [
+    {
+      "bytes": 2436,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:02:00+00:00",
+      "sha256": "31f2d292cf857cdc799cf8548247782f8cd70b58f7bebdf79836292dd3b289d0",
+      "source_url": "https://web.archive.org/web/20231205180856id_/https://syrianewsagency.net/invesigations/reports/26263/",
+      "text": "قصف إسرائيلي على مصياف حماة استهدف مراكز لنظام الأسد والميليشيات الإيرانية\n\nقصف الكيان الإسرائيلي -مساء الخميس 25 آب- منطقة مصياف بريف حماة الخاضعة لسيطرة نظام الأسد.\n\nوقال ناشطون إن القصف استهدف مركز البحوث العلمية، الذي يستخدمه النظام والإيرانيون لتطوير الأسلحة وتصنيعها على طريق مصياف -وادي العيون، إضافة إلى قرية السويدة، جنوب شرقي مصياف، ومنطقة جب رملة.\n\nوحصلت سلسلة من الانفجارات في الموقع بعد الاستهداف الإسرائيلي حسب مقطع فيديو انتشر على وسائل التواصل الاجتماعي.\n\nوذكر ناشطون أن حرائق اندلعت في مستودعات أسلحة “الـ555” التابعة للبحوث العلمية في منطقة الشيخ غضبان.\n\nوبشكل متكرر يقصف الكيان الإسرائيلي مواقع مشتركة للميليشيات الإيرانية وقوات الأسد داخل سورية، دون أي رد من الجهة المقصوفة.\n\nالوسوم\n\nإسرائيل\n\nإيران\n\nالميليشيات الإيرانية\n\nحماو\n\nدمشق\n\nسورية\n\nمصياف\n\nنظام الأسد\n\nقوات الأسد بسياسة ممنهجة تقطع عشرات الآلاف من أشجار الزيتون جنوبي إدلب\n\nصندوق قطر للتنمية يدعم “الأونروا” بـ18 مليون يورو\n\nنائبة رئيس الائتلاف الوطني: مشاركة المرأة في الشأن العام يساهم في مناهضة العنف ضد النساء\n\nقوات الأسد بسياسة ممنهجة تقطع عشرات الآلاف من أشجار الزيتون جنوبي إدلب\n\nصندوق قطر للتنمية يدعم “الأونروا” بـ18 مليون يورو\n\nنائبة رئيس الائتلاف الوطني: مشاركة المرأة في الشأن العام يساهم في مناهضة العنف ضد النساء\n\nنوفمبر الأسود على ميليشيات pkk.. ضربات تركية تطيح بـ 6 قياديين في سورية والعراق\n\nمبادرة بجهود سوريين لإنشاء محكمة لجرائم السلاح الكيميائي."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:01:58+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:02:00+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231205180856id_/https://syrianewsagency.net/invesigations/reports/26263/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231205180856id_/https://syrianewsagency.net/invesigations/reports/26263/",
   "incident_ids": [
     "airwars-84519"
   ],
@@ -85,10 +109,10 @@
     "https://syrianewsagency.net/invesigations/reports/26263/"
   ],
   "original_url": "https://syrianewsagency.net/invesigations/reports/26263/",
-  "page_title": "",
+  "page_title": "قصف إسرائيلي على مصياف حماة استهدف مراكز لنظام الأسد والميليشيات الإيرانية - الوكالة السورية للأنباء | سنا قصف إسرائيلي على مصياف حماة استهدف مراكز لنظام الأسد والميليشيات الإيرانية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy028-august-25-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:02:00+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-82f704a9a8da274ba1719138",
   "source_type": "news_article",
   "stable_id_basis": "https://syrianewsagency.net/invesigations/reports/26263/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قصف إسرائيلي على مصياف حماة استهدف مراكز لنظام الأسد والميليشيات الإيرانية\n\nقصف الكيان الإسرائيلي -مساء الخميس 25 آب- منطقة مصياف بريف حماة الخاضعة لسيطرة نظام الأسد.\n\nوقال ناشطون إن القصف استهدف مركز البحوث العلمية، الذي يستخدمه النظام والإيرانيون لتطوير الأسلحة وتصنيعها على طريق مصياف -وادي العيون، إضافة إلى قرية السويدة، جنوب شرقي مصياف، ومنطقة جب رملة.\n\nوحصلت سلسلة من الانفجارات في الموقع بعد الاستهداف الإسرائيلي حسب مقطع فيديو انتشر على وسائل التواصل الاجتماعي.\n\nوذكر ناشطون أن حرائق اندلعت في مستودعات أسلحة “الـ555” التابعة للبحوث العلمية في منطقة الشيخ غضبان.\n\nوبشكل متكرر يقصف الكيان الإسرائيلي مواقع مشتركة للميليشيات الإيرانية وقوات الأسد داخل سورية، دون أي رد من الجهة المقصوفة.\n\nالوسوم\n\nإسرائيل\n\nإيران\n\nالميليشيات الإيرانية\n\nحماو\n\nدمشق\n\nسورية\n\nمصياف\n\nنظام الأسد\n\nقوات الأسد بسياسة ممنهجة تقطع عشرات الآلاف من أشجار الزيتون جنوبي إدلب\n\nصندوق قطر للتنمية يدعم “الأونروا” بـ18 مليون يورو\n\nنائبة رئيس الائتلاف الوطني: مشاركة المرأة في الشأن العام يساهم في مناهضة العنف ضد النساء\n\nقوات الأسد بسياسة ممنهجة تقطع عشرات الآلاف من أشجار الزيتون جنوبي إدلب\n\nصندوق قطر للتنمية يدعم “الأونروا” بـ18 مليون يورو\n\nنائبة رئيس الائتلاف الوطني: مشاركة المرأة في الشأن العام يساهم في مناهضة العنف ضد النساء\n\nنوفمبر الأسود على ميليشيات pkk.. ضربات تركية تطيح بـ 6 قياديين في سورية والعراق\n\nمبادرة بجهود سوريين لإنشاء محكمة لجرائم السلاح الكيميائي.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

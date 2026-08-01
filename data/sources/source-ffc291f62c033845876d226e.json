@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/KPqru"
+    "https://archive.is/KPqru",
+    "https://web.archive.org/web/20240910214832id_/https://www.zamanalwsl.net/news/article/155451"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaman Al Wasl",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0b9165e72ffc42d0802df5c5789ad3ee6fe06c01b2cb47a967a4a8b8e1ef0344",
+  "content_variants": [
+    {
+      "bytes": 261,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:29:13+00:00",
+      "sha256": "0b9165e72ffc42d0802df5c5789ad3ee6fe06c01b2cb47a967a4a8b8e1ef0344",
+      "source_url": "https://web.archive.org/web/20240910214832id_/https://www.zamanalwsl.net/news/article/155451",
+      "text": "قُتل وجرح 7 مدنيين معظمهم أطفال، مساء السبت، إثر استهداف قوات النظام والميليشيات المرتبطة بروسيا منطقة جبل الزاوية الواقعة ضمن ما يُعرف بمنطقة"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:29:13+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:29:13+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240910214832id_/https://www.zamanalwsl.net/news/article/155451"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240910214832id_/https://www.zamanalwsl.net/news/article/155451",
   "incident_ids": [
     "airwars-92864"
   ],
@@ -85,10 +109,10 @@
     "https://www.zamanalwsl.net/news/article/155451/"
   ],
   "original_url": "https://www.zamanalwsl.net/news/article/155451/",
-  "page_title": "",
+  "page_title": "قذائف قوات النظام تقتل طفلين جنوب إدلب | زمان الوصل قذائف قوات النظام تقتل طفلين جنوب إدلب قذائف قوات النظام تقتل طفلين جنوب إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4800-august-26-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:29:13+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ffc291f62c033845876d226e",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.zamanalwsl.net/news/article/155451/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قُتل وجرح 7 مدنيين معظمهم أطفال، مساء السبت، إثر استهداف قوات النظام والميليشيات المرتبطة بروسيا منطقة جبل الزاوية الواقعة ضمن ما يُعرف بمنطقة",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
