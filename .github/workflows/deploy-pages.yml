@@ -7,7 +7,7 @@ on:
       - ".github/v4-request.json"
   workflow_dispatch:
   workflow_run:
-    workflows: ["جمع بيانات Airwars"]
+    workflows: ["جمع بيانات Airwars", "استخراج نصوص المصادر المؤرشفة مباشرة"]
     types: [completed]
     branches: [main]
 

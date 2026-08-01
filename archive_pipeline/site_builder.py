@@ -313,7 +313,7 @@ def _pilot_case_html(
         for field, entries in sorted((record.get("field_provenance") or {}).items())
     )
     return f'''<section class="pilot-archive" aria-labelledby="pilot-title">
-      <div class="pilot-heading"><div><p class="eyebrow">طيار المحتوى الكامل · الحالات 0001–0100</p><h2 id="pilot-title">السجل النصي والمنظّم الكامل المتاح</h2></div><span class="pilot-badge">{_e(record.get("completeness_status"))}</span></div>
+      <div class="pilot-heading"><div><p class="eyebrow">المحتوى النصي المحفوظ · الحالة {sequence:04d}</p><h2 id="pilot-title">السجل النصي والمنظّم الكامل المتاح</h2></div><span class="pilot-badge">{_e(record.get("completeness_status"))}</span></div>
       <section class="pilot-section"><h2>1. تفاصيل الحادثة</h2><dl class="pilot-fields">{field_html}</dl><p><a href="{_e(record.get('canonical_url'))}" target="_blank" rel="noopener noreferrer">فتح صفحة Airwars القانونية</a></p></section>
       <section class="pilot-section"><h2>2. السرد الكامل الأصلي</h2><div class="preserved-text" dir="auto">{_text_blocks(record.get("narrative_original"))}</div></section>
       <section class="pilot-section"><h2>3. حالة الترجمة</h2><p class="status-line">الحالة: {_e(translation.get("status") or "disabled_by_user")} · الإصدار: <span class="ltr">{_e(translation.get("version") or "disabled-no-translation-v1")}</span></p><p>الترجمة معطلة في هذا الطيار بطلب المستخدم. يُحفظ النص الأصلي المسترجع ويُعرض كما هو في القسم السابق، ولا يُنشأ نص مترجم جديد.</p></section>
@@ -338,7 +338,7 @@ def _patch_case(
     if marker not in text:
         raise ValueError(f"case_main_not_found:{sequence}")
     pilot = ""
-    if record and record.get("pilot", {}).get("in_scope") and 1 <= sequence <= 100:
+    if record and record.get("pilot", {}).get("in_scope"):
         pilot = _pilot_case_html(record, sequence, source_records or {}, source_ids or [], media_records or [])
     panel = f'\n  <div class="wrap provenance-wrap">{_case_provenance(record, sequence)}{pilot}</div>'
     return text.replace(marker, marker + panel, 1)
