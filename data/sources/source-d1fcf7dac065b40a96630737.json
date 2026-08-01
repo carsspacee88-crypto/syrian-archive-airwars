@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/SOokU"
+    "https://archive.is/SOokU",
+    "https://web.archive.org/web/20231208133800id_/https://www.syriahr.com/en/251325/?fbclid=IwAR1TVbWHbaRxy6CW0PQ9xlmIboESaKU0cOknTOi_5oBDZ3lZk9zWf5NlA6Q"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "81ac687a25b9631fe01e327cd213645bc1f5cb9f1d14b8d520048965c3fbbee9",
+  "content_variants": [
+    {
+      "bytes": 2521,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:41:34+00:00",
+      "sha256": "81ac687a25b9631fe01e327cd213645bc1f5cb9f1d14b8d520048965c3fbbee9",
+      "source_url": "https://web.archive.org/web/20231208133800id_/https://www.syriahr.com/en/251325/?fbclid=IwAR1TVbWHbaRxy6CW0PQ9xlmIboESaKU0cOknTOi_5oBDZ3lZk9zWf5NlA6Q",
+      "text": "Military escalation | Opposition factions shell Nubl town in regime-held areas killing child and injuring another\n\nSOHR activists have documented the death of a child and injury of another in shelling by opposition factions in Aleppo countryside, targeting Nubl town which is under control of regime-backed militias, where funerals of regime-backed militias are being held for those killed when a guided missile hit their vehicle in Ain Jarra and Al-Jabal Qabtan frontlines in the western section of Al-Halaby countryside.\n\nSOHR activists have just reported that three missiles hit the outskirts of Nubl town from the side of Al-Haj Saeed Sharbo Mosque in northern Aleppo countryside, where funerals of regime-backed militias are being held for those killed when a guided missile hit their vehicle in Ain Jarra and Al-Jabal Qabtan frontlines in the western section of Al-Halaby countryside, leaving ten fighters killed.\n\nSOHR activists had monitored Russian warplanes flying over north western Aleppo countryside, and executed four airstrikes targeting camps of Al-Sultan Murad faction opposite to Mash’ala village in areas held by Turkish-backed factions in Kafr Janna, leaving injuries and material damages. Meanwhile, Russian warplanes are still flying in the region.\n\nEarlier today, reliable sources told SOHR that opposition faction targeted with a guided missile a bus carrying regime-backed Shia’a militiamen from Nubl and Al-Zahraa towns. The attack took place on the frontline of Ainjara-Qabtan Al-Jabal in the western countryside of Aleppo, leaving at least tem regime-backed militiamen dead. The death toll was expected to rise as the attack left other militiamen injured, some seriously.\n\nOn May 8, SOHR activists documented the death of six members of “Jayish Al-Nasr” faction operating under the banner of the “National Liberation Front” and the injury of five others, some seriously, after being targeted with a guided missile fired by regime forces on the frontline of Al-Qaherah village in Sahl Al-Ghab, north-west of Hama.\n\nPrev Post\n\nSOHR: Ten soldiers killed as missile hits military bus\n\nNext Post\n\nSOHR: Missile attack kills 10 Syrian soldiers in the north\n\nMilitary escalation | Iranian-backed groups fire missiles on US base in Kharab…\n\nIsraeli attack | Four people killed in attack by Israeli drone on car in Al-Qunaitrah…\n\nNinth time since Israeli aggression on Gaza | “Islamic Resistance”…\n\nDeath toll update | 16 members of regime forces and HTS killed in infiltration…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:41:34+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:41:34+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231208133800id_/https://www.syriahr.com/en/251325/?fbclid=IwAR1TVbWHbaRxy6CW0PQ9xlmIboESaKU0cOknTOi_5oBDZ3lZk9zWf5NlA6Q"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231208133800id_/https://www.syriahr.com/en/251325/?fbclid=IwAR1TVbWHbaRxy6CW0PQ9xlmIboESaKU0cOknTOi_5oBDZ3lZk9zWf5NlA6Q",
   "incident_ids": [
     "airwars-83611"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/251325/?fbclid=IwAR1TVbWHbaRxy6CW0PQ9xlmIboESaKU0cOknTOi_5oBDZ3lZk9zWf5NlA6Q"
   ],
   "original_url": "https://www.syriahr.com/en/251325/?fbclid=IwAR1TVbWHbaRxy6CW0PQ9xlmIboESaKU0cOknTOi_5oBDZ3lZk9zWf5NlA6Q",
-  "page_title": "",
+  "page_title": "Military escalation | Opposition factions shell Nubl town in regime-held areas killing child and injuring another - The Syrian Observatory For Human Rights Military escalation | Opposition factions shell Nubl town in regime-held areas killing child and injuring another - The Syrian Observatory For Human Rights Military escalation | Opposition factions shell Nubl town in regime-held areas killing child and injuring another - The Syrian Observatory For Human Rights Military escalation | Opposition factions shell Nubl town in regime-held areas killing child and injuring another Military escalation | Opposition factions shell Nubl town in regime-held areas killing child and injuring another",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts507-may-13-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:41:34+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d1fcf7dac065b40a96630737",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/251325/?fbclid=IwAR1TVbWHbaRxy6CW0PQ9xlmIboESaKU0cOknTOi_5oBDZ3lZk9zWf5NlA6Q",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Military escalation | Opposition factions shell Nubl town in regime-held areas killing child and injuring another\n\nSOHR activists have documented the death of a child and injury of another in shelling by opposition factions in Aleppo countryside, targeting Nubl town which is under control of regime-backed militias, where funerals of regime-backed militias are being held for those killed when a guided missile hit their vehicle in Ain Jarra and Al-Jabal Qabtan frontlines in the western section of Al-Halaby countryside.\n\nSOHR activists have just reported that three missiles hit the outskirts of Nubl town from the side of Al-Haj Saeed Sharbo Mosque in northern Aleppo countryside, where funerals of regime-backed militias are being held for those killed when a guided missile hit their vehicle in Ain Jarra and Al-Jabal Qabtan frontlines in the western section of Al-Halaby countryside, leaving ten fighters killed.\n\nSOHR activists had monitored Russian warplanes flying over north western Aleppo countryside, and executed four airstrikes targeting camps of Al-Sultan Murad faction opposite to Mash’ala village in areas held by Turkish-backed factions in Kafr Janna, leaving injuries and material damages. Meanwhile, Russian warplanes are still flying in the region.\n\nEarlier today, reliable sources told SOHR that opposition faction targeted with a guided missile a bus carrying regime-backed Shia’a militiamen from Nubl and Al-Zahraa towns. The attack took place on the frontline of Ainjara-Qabtan Al-Jabal in the western countryside of Aleppo, leaving at least tem regime-backed militiamen dead. The death toll was expected to rise as the attack left other militiamen injured, some seriously.\n\nOn May 8, SOHR activists documented the death of six members of “Jayish Al-Nasr” faction operating under the banner of the “National Liberation Front” and the injury of five others, some seriously, after being targeted with a guided missile fired by regime forces on the frontline of Al-Qaherah village in Sahl Al-Ghab, north-west of Hama.\n\nPrev Post\n\nSOHR: Ten soldiers killed as missile hits military bus\n\nNext Post\n\nSOHR: Missile attack kills 10 Syrian soldiers in the north\n\nMilitary escalation | Iranian-backed groups fire missiles on US base in Kharab…\n\nIsraeli attack | Four people killed in attack by Israeli drone on car in Al-Qunaitrah…\n\nNinth time since Israeli aggression on Gaza | “Islamic Resistance”…\n\nDeath toll update | 16 members of regime forces and HTS killed in infiltration…",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

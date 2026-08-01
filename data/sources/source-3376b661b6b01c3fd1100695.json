@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/8m3Gj"
+    "https://archive.md/8m3Gj",
+    "https://web.archive.org/web/20211111093822id_/https://syrianpc.com/archives/324372"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Press Center",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "7e6a5cddf9afc187381f675da033fbedc479bc87917f0919b376e081015405f4",
+  "content_variants": [
+    {
+      "bytes": 1506,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:20:51+00:00",
+      "sha256": "7e6a5cddf9afc187381f675da033fbedc479bc87917f0919b376e081015405f4",
+      "source_url": "https://web.archive.org/web/20211111093822id_/https://syrianpc.com/archives/324372",
+      "text": "استشهاد طفل في قصف جوي شمال غرب سوريا\n\nقصف الطيران الحربي الروسي بالصواريخ اليوم الخميس 11 تشرين الثاني/نوفمبر، ريف إدلب الشمالي ما أدى لوقوع ضحايا في صفوف المدنيين.\n\nأفاد مراسلنا بأن الطيران الحربي الروسي استهدف محيط مدينة معرة مصرين من الجهة الجنوبي بثلاث غارات متتالية.\n\nوأضاف المراسل أن الاستهداف وقع على مدجنة يقطنها نازحين ما تسبب في وقوع ضحايا.\n\nوأكد المراسل أن طفلا استشهد في القصف، ولم يتم التعرف على هويته بعد، وأصيب عدد من النساء والأطفال.\n\nويذكر ،أن الطيران الحربي الروسي يستهدف بشكل متكرر مناطق خفض التصعيد شمال غرب سوريا، وغالبا ما يخلف القصف شهداء وجرحى مدنيين.\n\nالمركز الصحفي السوري\n\nعين على الواقع\n\nالخبر السابق\n\nرئيس الوزراء البيلاروسي يهاجم الاتحاد الأوربي ويصفهم بالأوغاد.\n\nجرحى للنظام السوري في قصف جوي إسرائيلي\n\nشهداء وجرحى مدنيون في ريف إدلب .\n\nمصرع ثلاثة عسكريين روس في سوريا\n\n7 شهداء وجرحى بقصف النظام شرق إدلب"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:20:48+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:20:51+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211111093822id_/https://syrianpc.com/archives/324372"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211111093822id_/https://syrianpc.com/archives/324372",
   "incident_ids": [
     "airwars-79975"
   ],
@@ -85,10 +109,10 @@
     "https://syrianpc.com/archives/324372"
   ],
   "original_url": "https://syrianpc.com/archives/324372",
-  "page_title": "",
+  "page_title": "استشهاد طفل في قصف جوي شمال غرب سوريا - مركز الصحافة الاجتماعية استشهاد طفل في قصف جوي شمال غرب سوريا - مركز الصحافة الاجتماعية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4666-november-11-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:20:51+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-3376b661b6b01c3fd1100695",
   "source_type": "news_article",
   "stable_id_basis": "https://syrianpc.com/archives/324372",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "استشهاد طفل في قصف جوي شمال غرب سوريا\n\nقصف الطيران الحربي الروسي بالصواريخ اليوم الخميس 11 تشرين الثاني/نوفمبر، ريف إدلب الشمالي ما أدى لوقوع ضحايا في صفوف المدنيين.\n\nأفاد مراسلنا بأن الطيران الحربي الروسي استهدف محيط مدينة معرة مصرين من الجهة الجنوبي بثلاث غارات متتالية.\n\nوأضاف المراسل أن الاستهداف وقع على مدجنة يقطنها نازحين ما تسبب في وقوع ضحايا.\n\nوأكد المراسل أن طفلا استشهد في القصف، ولم يتم التعرف على هويته بعد، وأصيب عدد من النساء والأطفال.\n\nويذكر ،أن الطيران الحربي الروسي يستهدف بشكل متكرر مناطق خفض التصعيد شمال غرب سوريا، وغالبا ما يخلف القصف شهداء وجرحى مدنيين.\n\nالمركز الصحفي السوري\n\nعين على الواقع\n\nالخبر السابق\n\nرئيس الوزراء البيلاروسي يهاجم الاتحاد الأوربي ويصفهم بالأوغاد.\n\nجرحى للنظام السوري في قصف جوي إسرائيلي\n\nشهداء وجرحى مدنيون في ريف إدلب .\n\nمصرع ثلاثة عسكريين روس في سوريا\n\n7 شهداء وجرحى بقصف النظام شرق إدلب",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

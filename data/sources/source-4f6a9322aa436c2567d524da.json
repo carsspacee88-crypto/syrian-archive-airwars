@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/2L1GZ"
+    "https://archive.md/2L1GZ",
+    "https://web.archive.org/web/20240524204610id_/https://www.facebook.com/News.Daraa.Alhadth/posts/142126018167470"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "News.Daraa.Alhadth",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "5572b3c9ec420871992398908fd0330158feb85ff836df46bd1bbcea3cd70511",
+  "content_variants": [
+    {
+      "bytes": 204,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:24:37+00:00",
+      "sha256": "5572b3c9ec420871992398908fd0330158feb85ff836df46bd1bbcea3cd70511",
+      "source_url": "https://web.archive.org/web/20240524204610id_/https://www.facebook.com/News.Daraa.Alhadth/posts/142126018167470",
+      "text": "عاجل | استشهاد امرأة وإصابة 3 مدنيين بينهم أطفال جراء استهداف طيران الإحتلال الروسي محيط بلدة #مجدليا جنوب #ادلب ."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:24:34+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:24:37+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524204610id_/https://www.facebook.com/News.Daraa.Alhadth/posts/142126018167470"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524204610id_/https://www.facebook.com/News.Daraa.Alhadth/posts/142126018167470",
   "incident_ids": [
     "airwars-80283"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/News.Daraa.Alhadth/posts/142126018167470"
   ],
   "original_url": "https://www.facebook.com/News.Daraa.Alhadth/posts/142126018167470",
-  "page_title": "",
+  "page_title": "أخباردرعا الحدث - Daraa Alhadth أخباردرعا الحدث - Daraa Alhadth عاجل | استشهاد امرأة... - أخباردرعا الحدث - Daraa Alhadth",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4672-november-25-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:24:37+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4f6a9322aa436c2567d524da",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/News.Daraa.Alhadth/posts/142126018167470",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "عاجل | استشهاد امرأة وإصابة 3 مدنيين بينهم أطفال جراء استهداف طيران الإحتلال الروسي محيط بلدة #مجدليا جنوب #ادلب .",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/kn9RK"
+    "https://archive.is/kn9RK",
+    "https://web.archive.org/web/20220925211744id_/https://www.basnews.com/ar/babat/747412"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Bas News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f90826eaeab9626dec6c9cc8c810da2327d019e9986b62801c557f0924961a62",
+  "content_variants": [
+    {
+      "bytes": 1924,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:27:57+00:00",
+      "sha256": "f90826eaeab9626dec6c9cc8c810da2327d019e9986b62801c557f0924961a62",
+      "source_url": "https://web.archive.org/web/20220925211744id_/https://www.basnews.com/ar/babat/747412",
+      "text": "‹سانا›: مقتل مدني خلال إنزال جوي للقوات الأمريكية بريف دير الزور\n\nفقد مدني حياته في بلدة ذيبان بريف محافظة دير الزور الشرقي، اليوم الاثنين، خلال عملية إنزال جوي نفذتها القوات الأمريكية في المنطقة، وفق ما نقلت وكالة الأنباء السورية الرسمية ‹سانا›.\n\nونقلت الوكالة عن مصادر محلية قولها، إن «قوات الاحتلال الأمريكي نفذت ظهر اليوم عملية إنزال جوي في بلدة ذيبان شرق دير الزور بعد تطويق البلدة ومداهمة عدد من المنازل والعبث بمحتوياتها وبث حالة من الرعب في صفوف السكان ما أدى إلى استشهاد مدني من أهالي البلدة».\n\nواتهمت ‹سانا› قوات سوريا الديمقراطية (قسد) بالتعاون مع القوات الأمريكية «لاستهداف منازل المدنيين بريف دير الزور والحسكة».\n\nوتسببت الحرب الأهلية السورية منذ اندلاعها في آذار / مارس 2011 بمقتل أكثر من 400 ألف، فيما نزح أكثر من نصف السكان داخل البلاد، وأكثر من 6,6 مليون لاجئ فروا بشكل أساسي إلى الدول المجاورة، وفق تقارير للأمم المتحدة.\n\nأراء\n\nأحدث الأخبار\n\nالاخبار\n\nكوردستان\n\nالعراق\n\nالشرق الاوسط\n\nالمهجر\n\nالعالم\n\nلایف ستایل\n\nالبيئه\n\nالصحة\n\nمتنوع\n\nالتكنلوجيا\n\nالسياحة\n\nثقافة و فنون\n\nفنون\n\nكتب\n\nسينما\n\nموسيقا\n\nثقافة كوردية\n\nاللغات\n\nكوردی\n\nكرمانجي\n\nفارسي\n\nتركي\n\nانجليزي"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:27:53+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:27:57+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220925211744id_/https://www.basnews.com/ar/babat/747412"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220925211744id_/https://www.basnews.com/ar/babat/747412",
   "incident_ids": [
     "airwars-82530"
   ],
@@ -85,10 +109,10 @@
     "https://www.basnews.com/ar/babat/747412"
   ],
   "original_url": "https://www.basnews.com/ar/babat/747412",
-  "page_title": "",
+  "page_title": "‹سانا›: مقتل مدني خلال إنزال جوي للقوات الأمريكية بريف دير الزور ‹سانا›: مقتل مدني خلال إنزال جوي للقوات الأمريكية بريف دير الزور ‹سانا›: مقتل مدني خلال إنزال جوي للقوات الأمريكية بريف دير الزور",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1980-march-28-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:27:57+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-67e64c02fa7e2a1d0639d2bf",
   "source_type": "news_article",
   "stable_id_basis": "https://www.basnews.com/ar/babat/747412",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "‹سانا›: مقتل مدني خلال إنزال جوي للقوات الأمريكية بريف دير الزور\n\nفقد مدني حياته في بلدة ذيبان بريف محافظة دير الزور الشرقي، اليوم الاثنين، خلال عملية إنزال جوي نفذتها القوات الأمريكية في المنطقة، وفق ما نقلت وكالة الأنباء السورية الرسمية ‹سانا›.\n\nونقلت الوكالة عن مصادر محلية قولها، إن «قوات الاحتلال الأمريكي نفذت ظهر اليوم عملية إنزال جوي في بلدة ذيبان شرق دير الزور بعد تطويق البلدة ومداهمة عدد من المنازل والعبث بمحتوياتها وبث حالة من الرعب في صفوف السكان ما أدى إلى استشهاد مدني من أهالي البلدة».\n\nواتهمت ‹سانا› قوات سوريا الديمقراطية (قسد) بالتعاون مع القوات الأمريكية «لاستهداف منازل المدنيين بريف دير الزور والحسكة».\n\nوتسببت الحرب الأهلية السورية منذ اندلاعها في آذار / مارس 2011 بمقتل أكثر من 400 ألف، فيما نزح أكثر من نصف السكان داخل البلاد، وأكثر من 6,6 مليون لاجئ فروا بشكل أساسي إلى الدول المجاورة، وفق تقارير للأمم المتحدة.\n\nأراء\n\nأحدث الأخبار\n\nالاخبار\n\nكوردستان\n\nالعراق\n\nالشرق الاوسط\n\nالمهجر\n\nالعالم\n\nلایف ستایل\n\nالبيئه\n\nالصحة\n\nمتنوع\n\nالتكنلوجيا\n\nالسياحة\n\nثقافة و فنون\n\nفنون\n\nكتب\n\nسينما\n\nموسيقا\n\nثقافة كوردية\n\nاللغات\n\nكوردی\n\nكرمانجي\n\nفارسي\n\nتركي\n\nانجليزي",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

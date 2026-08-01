@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/OvSLx"
+    "https://archive.is/OvSLx",
+    "https://web.archive.org/web/20240525020648id_/https://www.facebook.com/SyriaCivilDefense/posts/2006497789505966"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Civil Defense",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d0d40f5f9195483c4d4e6bdd3f7f28c04144554bd3e60db7f019c13c15c658ec",
+  "content_variants": [
+    {
+      "bytes": 628,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:22:17+00:00",
+      "sha256": "d0d40f5f9195483c4d4e6bdd3f7f28c04144554bd3e60db7f019c13c15c658ec",
+      "source_url": "https://web.archive.org/web/20240525020648id_/https://www.facebook.com/SyriaCivilDefense/posts/2006497789505966",
+      "text": "لم يجف حبر الأقلام بعد على صفحات الدفتر، حتى اختلط بدماء صاحبها الطفل المتفوق \"مصطفى عجاج\"، وبين الركام بصمت وقهر يبحث صديقه عن ما تبقى من ذكريات، على...\n\nلم يجف حبر الأقلام بعد على صفحات الدفتر، حتى اختلط بدماء صاحبها الطفل المتفوق \"مصطفى عجاج\"، وبين الركام بصمت وقهر يبحث صديقه عن ما تبقى من ذكريات، على مقاعد الدراسة كانا متفوقين بشهادة التعليم..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:22:15+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:22:17+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525020648id_/https://www.facebook.com/SyriaCivilDefense/posts/2006497789505966"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525020648id_/https://www.facebook.com/SyriaCivilDefense/posts/2006497789505966",
   "incident_ids": [
     "airwars-77569"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/SyriaCivilDefense/posts/2006497789505966"
   ],
   "original_url": "https://www.facebook.com/SyriaCivilDefense/posts/2006497789505966",
-  "page_title": "",
+  "page_title": "الدفاع المدني السوري الدفاع المدني السوري لم يجف حبر الأقلام بعد على صفحات... - الدفاع المدني السوري",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4628-august-19-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:22:17+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-35b6b55c70e2719b0f146388",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SyriaCivilDefense/posts/2006497789505966",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "لم يجف حبر الأقلام بعد على صفحات الدفتر، حتى اختلط بدماء صاحبها الطفل المتفوق \"مصطفى عجاج\"، وبين الركام بصمت وقهر يبحث صديقه عن ما تبقى من ذكريات، على...\n\nلم يجف حبر الأقلام بعد على صفحات الدفتر، حتى اختلط بدماء صاحبها الطفل المتفوق \"مصطفى عجاج\"، وبين الركام بصمت وقهر يبحث صديقه عن ما تبقى من ذكريات، على مقاعد الدراسة كانا متفوقين بشهادة التعليم...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

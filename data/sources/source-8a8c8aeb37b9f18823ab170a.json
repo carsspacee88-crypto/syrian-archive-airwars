@@ -67,8 +67,22 @@
   "content_hash": null,
   "content_variants": [],
   "descriptions": [],
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:31:23+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:32:40+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": null,
+      "url": "https://web.archive.org/web/20241007041325id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/yn-ysy-almrkz-alalamy-lqwat-swrya-aldymqratyt-ywkd-asabt-5-mdnyyn-fy-qsf-alahtlal-altrky-79327"
+    }
+  ],
   "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
+  "failure_reason": "capture_fetch_failed",
   "final_redirected_url": "",
   "incident_ids": [
     "airwars-83639"
@@ -108,7 +122,7 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
+  "retrieval_status": "capture_fetch_failed",
   "retrieved_at": null,
   "review_flags": [],
   "schema_version": "1.0.0",

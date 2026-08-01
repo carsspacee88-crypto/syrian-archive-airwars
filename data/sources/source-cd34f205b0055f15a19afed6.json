@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/rCwuX"
+    "https://archive.is/rCwuX",
+    "https://web.archive.org/web/20250817224411id_/https://sana.sy/?p=2041009"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SANA news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ca74b9adbe784737e678c1b918431f1a3612e815d33b2615d0a928d128587be6",
+  "content_variants": [
+    {
+      "bytes": 1030,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:41:06+00:00",
+      "sha256": "ca74b9adbe784737e678c1b918431f1a3612e815d33b2615d0a928d128587be6",
+      "source_url": "https://web.archive.org/web/20250817224411id_/https://sana.sy/?p=2041009",
+      "text": "2024-02-07\n\nحمص-سانا\n\nاستشهد وأصيب عدد من المدنيين فجر اليوم، جراء عدوان إسرائيلي استهدف عدداً من النقاط في مدينة حمص وريفها، فيما تصدت وسائط دفاعنا الجوي لصواريخ العدوان وأسقطت بعضها.\n\nوذكر مصدر عسكري لـ سانا أنه “حوالي الساعة 00:30 من فجر اليوم شن العدو الإسرائيلي عدواناً جوياً من اتجاه شمال طرابلس مستهدفاً عدداً من النقاط في مدينة حمص وريفها، وتصدت وسائط دفاعنا الجوي لصواريخ العدوان وأسقطت بعضها”.\n\nوأضاف المصدر: إن العدوان أدى إلى استشهاد وإصابة عدد من المدنيين، ووقوع بعض الخسائر المادية في الممتلكات العامة والخاصة.\n\nمتابعة أخبار سانا على تلغرام https://t.me/SyrianArabNewsAgency"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:41:04+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:41:06+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250817224411id_/https://sana.sy/?p=2041009"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250817224411id_/https://sana.sy/?p=2041009",
   "incident_ids": [
     "airwars-114547"
   ],
@@ -85,10 +109,10 @@
     "https://sana.sy/?p=2041009"
   ],
   "original_url": "https://sana.sy/?p=2041009",
-  "page_title": "",
+  "page_title": "استشهاد وإصابة عدد من المدنيين جراء عدوان إسرائيلي استهدف نقاطاً في مدينة حمص وريفها – S A N A استشهاد وإصابة عدد من المدنيين جراء عدوان إسرائيلي استهدف نقاطاً في مدينة حمص وريفها - S A N A",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy040-february-7-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:41:06+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-cd34f205b0055f15a19afed6",
   "source_type": "news_article",
   "stable_id_basis": "https://sana.sy/?p=2041009",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "2024-02-07\n\nحمص-سانا\n\nاستشهد وأصيب عدد من المدنيين فجر اليوم، جراء عدوان إسرائيلي استهدف عدداً من النقاط في مدينة حمص وريفها، فيما تصدت وسائط دفاعنا الجوي لصواريخ العدوان وأسقطت بعضها.\n\nوذكر مصدر عسكري لـ سانا أنه “حوالي الساعة 00:30 من فجر اليوم شن العدو الإسرائيلي عدواناً جوياً من اتجاه شمال طرابلس مستهدفاً عدداً من النقاط في مدينة حمص وريفها، وتصدت وسائط دفاعنا الجوي لصواريخ العدوان وأسقطت بعضها”.\n\nوأضاف المصدر: إن العدوان أدى إلى استشهاد وإصابة عدد من المدنيين، ووقوع بعض الخسائر المادية في الممتلكات العامة والخاصة.\n\nمتابعة أخبار سانا على تلغرام https://t.me/SyrianArabNewsAgency",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
