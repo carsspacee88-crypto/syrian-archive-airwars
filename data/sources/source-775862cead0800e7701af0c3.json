@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/60u8Y"
+    "https://archive.md/60u8Y",
+    "https://web.archive.org/web/20230209023725id_/https://www.syriahr.com/en/226211/?fbclid=IwAR3c9eF31NgjPkgSNln8jYwWFbVmXVQaj8wMUA6fthci0-Jv6J0T8qp9lA4"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syria Observatory of Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a90fb8f0e1b9ca15194b0bc539189c1ca3382ebf5e1368afa05b0dbaf29bb7ef",
+  "content_variants": [
+    {
+      "bytes": 1298,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:58:13+00:00",
+      "sha256": "a90fb8f0e1b9ca15194b0bc539189c1ca3382ebf5e1368afa05b0dbaf29bb7ef",
+      "source_url": "https://web.archive.org/web/20230209023725id_/https://www.syriahr.com/en/226211/?fbclid=IwAR3c9eF31NgjPkgSNln8jYwWFbVmXVQaj8wMUA6fthci0-Jv6J0T8qp9lA4",
+      "text": "Mostly women and children | Regime rocket fire on western countryside of Aleppo leaves many injured\n\nSOHR activists have documented the injury of four civilians, including two children and a woman, as a result of rocket attacks by regime forces on the outskirts of Darat Izza town in the western countryside of Aleppo, in the “de-escalation zone”.\n\nEarlier today, SOHR reported that Russian fighter jets carried out three airstrikes on the frontlines of al-Bara and Kansafra in Jabal al-Zawiyah in the south of Idlib. No casualties were reported. Today’s airstrikes came after Russian jets had suspended aerial operations on the “de-escalation zone” for about three days.\n\nPrev Post\n\nHours after reducing the weight of bread packs | “Watad” company raises fuel prices in HTS-held areas\n\nNext Post\n\nSyrian desert | Eight pro-regime militiamen killed and wounded, while Russian fighter jets target ISIS positions with nearly 20 strikes\n\nLack of humanity | Heartless thieves steal rescue equipment from those affected by…\n\nThrough Awn Al-Dadat crossing | 375 bodies of Syrians who died in Turkey brought to…\n\nDeath toll update | Number of casualties due to earthquake in Syria rises to 3,508…\n\nSyrian casualties in Turkey | Bodies of 120 Syrians brought through border crossings…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:58:12+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:58:13+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230209023725id_/https://www.syriahr.com/en/226211/?fbclid=IwAR3c9eF31NgjPkgSNln8jYwWFbVmXVQaj8wMUA6fthci0-Jv6J0T8qp9lA4"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230209023725id_/https://www.syriahr.com/en/226211/?fbclid=IwAR3c9eF31NgjPkgSNln8jYwWFbVmXVQaj8wMUA6fthci0-Jv6J0T8qp9lA4",
   "incident_ids": [
     "airwars-79724"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/226211/?fbclid=IwAR3c9eF31NgjPkgSNln8jYwWFbVmXVQaj8wMUA6fthci0-Jv6J0T8qp9lA4"
   ],
   "original_url": "https://www.syriahr.com/en/226211/?fbclid=IwAR3c9eF31NgjPkgSNln8jYwWFbVmXVQaj8wMUA6fthci0-Jv6J0T8qp9lA4",
-  "page_title": "",
+  "page_title": "Mostly women and children | Regime rocket fire on western countryside of Aleppo leaves many injured • The Syrian Observatory For Human Rights Mostly women and children | Regime rocket fire on western countryside of Aleppo leaves many injured • The Syrian Observatory For Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4660-october-23-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:58:13+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-775862cead0800e7701af0c3",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/226211/?fbclid=IwAR3c9eF31NgjPkgSNln8jYwWFbVmXVQaj8wMUA6fthci0-Jv6J0T8qp9lA4",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Mostly women and children | Regime rocket fire on western countryside of Aleppo leaves many injured\n\nSOHR activists have documented the injury of four civilians, including two children and a woman, as a result of rocket attacks by regime forces on the outskirts of Darat Izza town in the western countryside of Aleppo, in the “de-escalation zone”.\n\nEarlier today, SOHR reported that Russian fighter jets carried out three airstrikes on the frontlines of al-Bara and Kansafra in Jabal al-Zawiyah in the south of Idlib. No casualties were reported. Today’s airstrikes came after Russian jets had suspended aerial operations on the “de-escalation zone” for about three days.\n\nPrev Post\n\nHours after reducing the weight of bread packs | “Watad” company raises fuel prices in HTS-held areas\n\nNext Post\n\nSyrian desert | Eight pro-regime militiamen killed and wounded, while Russian fighter jets target ISIS positions with nearly 20 strikes\n\nLack of humanity | Heartless thieves steal rescue equipment from those affected by…\n\nThrough Awn Al-Dadat crossing | 375 bodies of Syrians who died in Turkey brought to…\n\nDeath toll update | Number of casualties due to earthquake in Syria rises to 3,508…\n\nSyrian casualties in Turkey | Bodies of 120 Syrians brought through border crossings…",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

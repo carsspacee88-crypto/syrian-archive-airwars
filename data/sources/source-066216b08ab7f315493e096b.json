@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/uqiU8"
+    "https://archive.md/uqiU8",
+    "https://web.archive.org/web/20211102141045id_/https://twitter.com/WM_FREESYR/status/1455533548056756234"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@WM_FREESYR",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "4a4ab7b8146359c91109d709c061946408303941d0c7da96b10ee515636755b4",
+  "content_variants": [
+    {
+      "bytes": 431,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:43:21+00:00",
+      "sha256": "4a4ab7b8146359c91109d709c061946408303941d0c7da96b10ee515636755b4",
+      "source_url": "https://web.archive.org/web/20211102141045id_/https://twitter.com/WM_FREESYR/status/1455533548056756234",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\n#عاجل\n\nإستشهاد طفلتين جراء قصف مدفعي لميليشيات #قسد على قرية #قرف_مغار بريف مدينة #جرابلس شرق #حلب\n\n2 Likes\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:43:20+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:43:21+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211102141045id_/https://twitter.com/WM_FREESYR/status/1455533548056756234"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211102141045id_/https://twitter.com/WM_FREESYR/status/1455533548056756234",
   "incident_ids": [
     "airwars-79967"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/WM_FREESYR/status/1455533548056756234"
   ],
   "original_url": "https://twitter.com/WM_FREESYR/status/1455533548056756234",
-  "page_title": "",
+  "page_title": "𖤓ᵂˢᴱᴱᴹ𖤓🎭 1️⃣ on Twitter: \"#عاجل\n\nإستشهاد طفلتين جراء قصف مدفعي لميليشيات #قسد على قرية #قرف_مغار بريف مدينة #جرابلس شرق #حلب\" 𖤓ᵂˢᴱᴱᴹ𖤓🎭 1️⃣ on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys119-november-2-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:43:21+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-066216b08ab7f315493e096b",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/WM_FREESYR/status/1455533548056756234",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\n#عاجل\n\nإستشهاد طفلتين جراء قصف مدفعي لميليشيات #قسد على قرية #قرف_مغار بريف مدينة #جرابلس شرق #حلب\n\n2 Likes\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

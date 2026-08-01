@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/kCkmp"
+    "https://archive.is/kCkmp",
+    "https://web.archive.org/web/20241113062735id_/https://www.rasdsyria.org/news/7966/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Rasd Syria",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "88d54e58c3cb4b4a42b359430c14de615dcf9a5b5661bf965de18165bb80f137",
+  "content_variants": [
+    {
+      "bytes": 1980,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:20:21+00:00",
+      "sha256": "88d54e58c3cb4b4a42b359430c14de615dcf9a5b5661bf965de18165bb80f137",
+      "source_url": "https://web.archive.org/web/20241113062735id_/https://www.rasdsyria.org/news/7966/",
+      "text": "وثقت شبكة رصد سوريا لحقوق الإنسان بتاريخ ١٩-٧-٢٠٢٣ مقتل كل من الشقيقين محمد سالم النزال و حمود سالم النزال واعتقال ابن عمهم صالح احمد النزال، من قرية تل الذهب بريف بلدة الدشيشة بريف محافظة دير الزور الواقعة قرب الحدود السورية العراقية على ايدي عناصر قوات سوريا الديمقراطية اثناء قيامهم بعملية أمنية في القرية بالتعاون مع طيران قوات التحالف الدولي في ليلة الأمس.\n\nويحاول فريق شبكة رصد سوريا لحقوق الإنسان الوصول الى مزيد من المعلومات.\n\nتدين شبكة رصد سوريا لحقوق الإنسان كافة عمليات القتل التي تستهدف المدنيين في كافة مناطق وتطالب التحالف الدولي بتحمل مسؤولياتها تجاه المدنيين وفتح تحقيق شامل حول مقتل الشابان ومحاسبة المسؤولين وتقديمهم الى العدالة وتعويض المتضررين والضغط على قوات سوريا الديمقراطية من أجل الكف عن انتهاكاتها ضد المدنيين في مناطق واقع تحت سيطرتها ووضع حدا لتلك الانتهاكات يذكر ان شبكة رصد سوريا لحقوق الإنسان وثقت في الآونة الاخيرة قيام قوات سوريا الديمقراطية باعتقال عشرات المدنيين في محافظة دير الزور و الرقة بحجج واهية وايصال تقارير وهمية الى قوات التحالف الدولي من أجل قيام باعتقالات ضد المدنيين والمعارضين والناشطين في تلك المناطق والتغطية على انتهاكاتها مستمرة."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:20:20+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:20:21+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241113062735id_/https://www.rasdsyria.org/news/7966/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241113062735id_/https://www.rasdsyria.org/news/7966/",
   "incident_ids": [
     "airwars-91897"
   ],
@@ -85,10 +109,10 @@
     "https://www.rasdsyria.org/news/7966/"
   ],
   "original_url": "https://www.rasdsyria.org/news/7966/",
-  "page_title": "",
+  "page_title": "مقتل شقيقين واعتقال آخر على يد قوات سوريا الديمقراطية بريف دير الزور - شبكة رصد سوريا لحقوق الإنسان مقتل شقيقين واعتقال آخر على يد قوات سوريا الديمقراطية بريف دير الزور - شبكة رصد سوريا لحقوق الإنسان",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1995-july-19-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:20:21+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-dfb8999673e1c4f1d4568643",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.rasdsyria.org/news/7966/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "وثقت شبكة رصد سوريا لحقوق الإنسان بتاريخ ١٩-٧-٢٠٢٣ مقتل كل من الشقيقين محمد سالم النزال و حمود سالم النزال واعتقال ابن عمهم صالح احمد النزال، من قرية تل الذهب بريف بلدة الدشيشة بريف محافظة دير الزور الواقعة قرب الحدود السورية العراقية على ايدي عناصر قوات سوريا الديمقراطية اثناء قيامهم بعملية أمنية في القرية بالتعاون مع طيران قوات التحالف الدولي في ليلة الأمس.\n\nويحاول فريق شبكة رصد سوريا لحقوق الإنسان الوصول الى مزيد من المعلومات.\n\nتدين شبكة رصد سوريا لحقوق الإنسان كافة عمليات القتل التي تستهدف المدنيين في كافة مناطق وتطالب التحالف الدولي بتحمل مسؤولياتها تجاه المدنيين وفتح تحقيق شامل حول مقتل الشابان ومحاسبة المسؤولين وتقديمهم الى العدالة وتعويض المتضررين والضغط على قوات سوريا الديمقراطية من أجل الكف عن انتهاكاتها ضد المدنيين في مناطق واقع تحت سيطرتها ووضع حدا لتلك الانتهاكات يذكر ان شبكة رصد سوريا لحقوق الإنسان وثقت في الآونة الاخيرة قيام قوات سوريا الديمقراطية باعتقال عشرات المدنيين في محافظة دير الزور و الرقة بحجج واهية وايصال تقارير وهمية الى قوات التحالف الدولي من أجل قيام باعتقالات ضد المدنيين والمعارضين والناشطين في تلك المناطق والتغطية على انتهاكاتها مستمرة.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

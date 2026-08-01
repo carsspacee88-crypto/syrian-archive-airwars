@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/9589Q"
+    "https://archive.is/9589Q",
+    "https://web.archive.org/web/20230616011155id_/https://alepponews.net/27631"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Aleppo News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "829416f75c5a472141926cfc24bbfe72bf244e9c33fd1d82588eb577957bca22",
+  "content_variants": [
+    {
+      "bytes": 868,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:43:12+00:00",
+      "sha256": "829416f75c5a472141926cfc24bbfe72bf244e9c33fd1d82588eb577957bca22",
+      "source_url": "https://web.archive.org/web/20230616011155id_/https://alepponews.net/27631",
+      "text": "أوضح مصدر ميداني أن وحدات الجيش العاملة في ريف حماة دكت بالمدفعية الثقيلة مواقع الإرهابيين في القرقور وخربة الناقوس والسرمانية بسهل الغاب الشمالي الغربي، في حين استهدفت الوحدات العاملة في ريف إدلب بالمدفعية الثقيلة نقاط تمركز الإرهابيين في محيط البارة وحرش بينين والرويحة وآفس ومعربليت وكنصفرة بريف إدلب الجنوبي. وذكر المصدر أن ضربات الجيش جاءت\n\nأوضح مصدر ميداني أن وحدات الجيش العاملة في ريف حماة دكت بالمدفعية الثقيلة مواقع الإرهابيين في القرقور وخربة الناقوس والسرمانية"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:43:09+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:43:12+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230616011155id_/https://alepponews.net/27631"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230616011155id_/https://alepponews.net/27631",
   "incident_ids": [
     "airwars-89689"
   ],
@@ -85,10 +109,10 @@
     "https://alepponews.net/27631"
   ],
   "original_url": "https://alepponews.net/27631",
-  "page_title": "",
+  "page_title": "الجيش السوري يستهدف مواقع الإرهابيين بريف إدلب - أخبار حلب الجيش السوري يستهدف مواقع الإرهابيين بريف إدلب - أخبار حلب الجيش السوري يستهدف مواقع الإرهابيين بريف إدلب - أخبار حلب الجيش السوري يستهدف مواقع الإرهابيين بريف إدلب الجيش السوري يستهدف مواقع الإرهابيين بريف إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4772-june-14-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:43:12+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-03ec31ea1cb2b56c48c937cb",
   "source_type": "news_article",
   "stable_id_basis": "https://alepponews.net/27631",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "أوضح مصدر ميداني أن وحدات الجيش العاملة في ريف حماة دكت بالمدفعية الثقيلة مواقع الإرهابيين في القرقور وخربة الناقوس والسرمانية بسهل الغاب الشمالي الغربي، في حين استهدفت الوحدات العاملة في ريف إدلب بالمدفعية الثقيلة نقاط تمركز الإرهابيين في محيط البارة وحرش بينين والرويحة وآفس ومعربليت وكنصفرة بريف إدلب الجنوبي. وذكر المصدر أن ضربات الجيش جاءت\n\nأوضح مصدر ميداني أن وحدات الجيش العاملة في ريف حماة دكت بالمدفعية الثقيلة مواقع الإرهابيين في القرقور وخربة الناقوس والسرمانية",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/uWAHB"
+    "https://archive.is/uWAHB",
+    "https://web.archive.org/web/20220426201056id_/https://twitter.com/WAlantqam/status/1519046216952295434"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@WAlantqam",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ab054ec185eb0ef59c292f53ca12e11e6c1e615322160eda699a0ff2a5bb66b7",
+  "content_variants": [
+    {
+      "bytes": 397,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:10:32+00:00",
+      "sha256": "ab054ec185eb0ef59c292f53ca12e11e6c1e615322160eda699a0ff2a5bb66b7",
+      "source_url": "https://web.archive.org/web/20220426201056id_/https://twitter.com/WAlantqam/status/1519046216952295434",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nاصابات ست اشخاص من مسلحين من قبل النظام السوري في مارع ومنهم من عرف باسم حسن نجار من مارع .pic.twitter.com/1fE9gemiWo\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:10:31+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:10:32+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220426201056id_/https://twitter.com/WAlantqam/status/1519046216952295434"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220426201056id_/https://twitter.com/WAlantqam/status/1519046216952295434",
   "incident_ids": [
     "airwars-82741"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/WAlantqam/status/1519046216952295434"
   ],
   "original_url": "https://twitter.com/WAlantqam/status/1519046216952295434",
-  "page_title": "",
+  "page_title": "الكاسر on Twitter: \"اصابات ست اشخاص من مسلحين من قبل النظام السوري في مارع ومنهم من عرف باسم حسن نجار من مارع .… \" الكاسر on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys131-april-26-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:10:32+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b8d4a177d493a4583cfead3e",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/WAlantqam/status/1519046216952295434",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nاصابات ست اشخاص من مسلحين من قبل النظام السوري في مارع ومنهم من عرف باسم حسن نجار من مارع .pic.twitter.com/1fE9gemiWo\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

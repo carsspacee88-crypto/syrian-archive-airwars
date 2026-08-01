@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/o4N6p"
+    "https://archive.is/o4N6p",
+    "https://web.archive.org/web/20240524204008id_/https://www.facebook.com/mohamadalfaisa1/posts/pfbid0356hpJupjTW8ydcM7xayJ31DXQXUSD42NzX4MeGHR1KnBLrUAmkjG91VNkoGp8HUCl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Muhammad Al-Faisal",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c305c33f9a090b3269430ddfeda443d4dc75a3dd75f9ba57c47b780ae46275b3",
+  "content_variants": [
+    {
+      "bytes": 128,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:19:42+00:00",
+      "sha256": "c305c33f9a090b3269430ddfeda443d4dc75a3dd75f9ba57c47b780ae46275b3",
+      "source_url": "https://web.archive.org/web/20240524204008id_/https://www.facebook.com/mohamadalfaisa1/posts/pfbid0356hpJupjTW8ydcM7xayJ31DXQXUSD42NzX4MeGHR1KnBLrUAmkjG91VNkoGp8HUCl",
+      "text": "#عاجل | قصف مدفعي وصاروخي على مدينة دارة عزة غربي #حلب مصدره ميليشيا اسد"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:19:41+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:19:42+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524204008id_/https://www.facebook.com/mohamadalfaisa1/posts/pfbid0356hpJupjTW8ydcM7xayJ31DXQXUSD42NzX4MeGHR1KnBLrUAmkjG91VNkoGp8HUCl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524204008id_/https://www.facebook.com/mohamadalfaisa1/posts/pfbid0356hpJupjTW8ydcM7xayJ31DXQXUSD42NzX4MeGHR1KnBLrUAmkjG91VNkoGp8HUCl",
   "incident_ids": [
     "airwars-105885"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/mohamadalfaisa1/posts/pfbid0356hpJupjTW8ydcM7xayJ31DXQXUSD42NzX4MeGHR1KnBLrUAmkjG91VNkoGp8HUCl"
   ],
   "original_url": "https://www.facebook.com/mohamadalfaisa1/posts/pfbid0356hpJupjTW8ydcM7xayJ31DXQXUSD42NzX4MeGHR1KnBLrUAmkjG91VNkoGp8HUCl",
-  "page_title": "",
+  "page_title": "محمد الفيصل Mohamad Alfaisal محمد الفيصل Mohamad Alfaisal #عاجل | قصف مدفعي وصاروخي... - محمد الفيصل Mohamad Alfaisal",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4828-october-5-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:19:42+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e1a515f7f3ac42f290c347f6",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/mohamadalfaisa1/posts/pfbid0356hpJupjTW8ydcM7xayJ31DXQXUSD42NzX4MeGHR1KnBLrUAmkjG91VNkoGp8HUCl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#عاجل | قصف مدفعي وصاروخي على مدينة دارة عزة غربي #حلب مصدره ميليشيا اسد",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/jWJFr"
+    "https://archive.is/jWJFr",
+    "https://web.archive.org/web/20250216015459id_/https://www.baladi-news.com/ar/articles/82311/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84-%D8%A8%D9%80-%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%A5%D8%AF%D9%84%D8%A8"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Baladi",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a3d285a32543f444eacd643e266522f9effcc72f375296770b3b6dd5acc6b54b",
+  "content_variants": [
+    {
+      "bytes": 2129,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:16:15+00:00",
+      "sha256": "a3d285a32543f444eacd643e266522f9effcc72f375296770b3b6dd5acc6b54b",
+      "source_url": "https://web.archive.org/web/20250216015459id_/https://www.baladi-news.com/ar/articles/82311/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84-%D8%A8%D9%80-%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%A5%D8%AF%D9%84%D8%A8",
+      "text": "إصابة طفل بـ قصف روسي على إدلب\n\nبلدي نيوز - إدلب (معاذ العباس)\n\nأصيب طفل بجروح جراء قصف القوات الروسية وقوات النظام بالمدفعية الثقيلة بلدة معارة النعسان شرق شمال إدلب.\n\nوقال مراسل بلدي إن طفل أُصيب جراء قصف القوات الروسية وقوات النظام المتواجدة في بلدة ميزناز بالمدفعية الثقيلة بلدة معارة النعسان شرق شمال إدلب.\n\nوأضاف أن الطفل \"مصطفى حيدر\" 11 عاما أصيب أثناء رعيه الأغنام على أطراف بلدته معارة النعسان بعد استهداف مكان تواجده بشكل مباشر.\n\nويُشار إلى أن فرق الدفاع المدني ذكرت أنها تفقدت الأماكن التي تعرضت للقصف وتأكدت من عدم وجود إصابات أخرى.\n\nمقالات ذات صلة\n\nردع العدوان في يومها الخامس\n\nآخر تطورات عملية \"ردع العدوان\"\n\nالدفاع المدني\"الهجمات المكثفة للنظام وروسيااستهدفت أكثر من 16 مدينة وبلدة\"\n\nقتلى وجرحى بقصف النظام على ريف إدلب\n\nروسيا تنشئ تسع نقاط مراقبة بمحافظتي درعا والقنيطرة\n\nروسيا تجري تدريبات جوية مشتركة مع قوات النظام في حلب\n\nمجزرة بحق المدنيين في محافظة إدلب\n\nمقتل11مدنياً وإصابة 39 آخرين حصيلة مجازر روسيا والنظام بحق المدنيين في محافظة إدلب شمال غربي سوريا\n\nقصف روسي\n\nمن عائلة واحدة.. خمسة شهداء بقصف روسي على ريف إدلب\n\nادلب\n\nقصف روسي يودي بحياة رجل مسن في إدلب\n\nالطيران الروسي\n\nروسيا تكثف غاراتها على جبل الزاوية في إدلب\n\nجسر الشغور\n\nشهداء وجرحى بقصف روسي مكثف على إدلب"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:16:14+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:16:15+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250216015459id_/https://www.baladi-news.com/ar/articles/82311/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84-%D8%A8%D9%80-%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%A5%D8%AF%D9%84%D8%A8"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250216015459id_/https://www.baladi-news.com/ar/articles/82311/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84-%D8%A8%D9%80-%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%A5%D8%AF%D9%84%D8%A8",
   "incident_ids": [
     "airwars-82472"
   ],
@@ -85,10 +109,10 @@
     "https://www.baladi-news.com/ar/articles/82311/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84-%D8%A8%D9%80-%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%A5%D8%AF%D9%84%D8%A8"
   ],
   "original_url": "https://www.baladi-news.com/ar/articles/82311/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84-%D8%A8%D9%80-%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%A5%D8%AF%D9%84%D8%A8",
-  "page_title": "",
+  "page_title": "إصابة طفل بـ قصف روسي على إدلب | شبكة بلدي الإعلامية إصابة طفل بـ قصف روسي على إدلب - It's Over 9000! إصابة طفل بـ قصف روسي على إدلب إصابة طفل بـ قصف روسي على إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4696-march-16-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:16:15+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ce25e04ba98aebede3591374",
   "source_type": "news_article",
   "stable_id_basis": "https://www.baladi-news.com/ar/articles/82311/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B7%D9%81%D9%84-%D8%A8%D9%80-%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%A5%D8%AF%D9%84%D8%A8",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة طفل بـ قصف روسي على إدلب\n\nبلدي نيوز - إدلب (معاذ العباس)\n\nأصيب طفل بجروح جراء قصف القوات الروسية وقوات النظام بالمدفعية الثقيلة بلدة معارة النعسان شرق شمال إدلب.\n\nوقال مراسل بلدي إن طفل أُصيب جراء قصف القوات الروسية وقوات النظام المتواجدة في بلدة ميزناز بالمدفعية الثقيلة بلدة معارة النعسان شرق شمال إدلب.\n\nوأضاف أن الطفل \"مصطفى حيدر\" 11 عاما أصيب أثناء رعيه الأغنام على أطراف بلدته معارة النعسان بعد استهداف مكان تواجده بشكل مباشر.\n\nويُشار إلى أن فرق الدفاع المدني ذكرت أنها تفقدت الأماكن التي تعرضت للقصف وتأكدت من عدم وجود إصابات أخرى.\n\nمقالات ذات صلة\n\nردع العدوان في يومها الخامس\n\nآخر تطورات عملية \"ردع العدوان\"\n\nالدفاع المدني\"الهجمات المكثفة للنظام وروسيااستهدفت أكثر من 16 مدينة وبلدة\"\n\nقتلى وجرحى بقصف النظام على ريف إدلب\n\nروسيا تنشئ تسع نقاط مراقبة بمحافظتي درعا والقنيطرة\n\nروسيا تجري تدريبات جوية مشتركة مع قوات النظام في حلب\n\nمجزرة بحق المدنيين في محافظة إدلب\n\nمقتل11مدنياً وإصابة 39 آخرين حصيلة مجازر روسيا والنظام بحق المدنيين في محافظة إدلب شمال غربي سوريا\n\nقصف روسي\n\nمن عائلة واحدة.. خمسة شهداء بقصف روسي على ريف إدلب\n\nادلب\n\nقصف روسي يودي بحياة رجل مسن في إدلب\n\nالطيران الروسي\n\nروسيا تكثف غاراتها على جبل الزاوية في إدلب\n\nجسر الشغور\n\nشهداء وجرحى بقصف روسي مكثف على إدلب",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

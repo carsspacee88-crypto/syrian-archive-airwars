@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/DccSO"
+    "https://archive.md/DccSO",
+    "https://web.archive.org/web/20240515194548id_/https://www.youtube.com/watch?v=P2RyIAfnw38"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Ahmad Abu Mo`awyaia",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "af3a67c87075032da20ba0e5e76bcb3f65eb9baec9fbb29d36c206f51f7a4d25",
+  "content_variants": [
+    {
+      "bytes": 283,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:02:23+00:00",
+      "sha256": "af3a67c87075032da20ba0e5e76bcb3f65eb9baec9fbb29d36c206f51f7a4d25",
+      "source_url": "https://web.archive.org/web/20240515194548id_/https://www.youtube.com/watch?v=P2RyIAfnw38",
+      "text": "إصابة طفل ودمار في منازل المدنيين نتيجة قصف استهدف محيط معرة مصرين - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2024 Google LLC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:02:21+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:02:23+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515194548id_/https://www.youtube.com/watch?v=P2RyIAfnw38"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515194548id_/https://www.youtube.com/watch?v=P2RyIAfnw38",
   "incident_ids": [
     "airwars-79693"
   ],
@@ -85,10 +109,10 @@
     "https://www.youtube.com/watch?v=P2RyIAfnw38"
   ],
   "original_url": "https://www.youtube.com/watch?v=P2RyIAfnw38",
-  "page_title": "",
+  "page_title": "إصابة طفل ودمار في منازل المدنيين نتيجة قصف استهدف محيط معرة مصرين - YouTube إصابة طفل ودمار في منازل المدنيين نتيجة قصف استهدف محيط معرة مصرين إصابة طفل ودمار في منازل المدنيين نتيجة قصف استهدف محيط معرة مصرين",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4662-october-23-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:02:23+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-94c2f2fa88af2be4d2d538ad",
   "source_type": "youtube_page",
   "stable_id_basis": "https://www.youtube.com/watch?v=P2RyIAfnw38",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "إصابة طفل ودمار في منازل المدنيين نتيجة قصف استهدف محيط معرة مصرين - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2024 Google LLC",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

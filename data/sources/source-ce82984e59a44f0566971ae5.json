@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/pODEL"
+    "https://archive.is/pODEL",
+    "https://web.archive.org/web/20240524203737id_/https://www.facebook.com/moanasalagha/posts/pfbid02KR395FVCPmsDJg35TDssNMDvVAKcpU1N42PejtPuUYwrW6tqC9Ej8G9XG7e6Zhtrl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Mu'nis Al-Agha",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "011619fda5623e335310be4f7600137c57b6dd821c87e399adff0c738ee647b6",
+  "content_variants": [
+    {
+      "bytes": 639,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:15:18+00:00",
+      "sha256": "011619fda5623e335310be4f7600137c57b6dd821c87e399adff0c738ee647b6",
+      "source_url": "https://web.archive.org/web/20240524203737id_/https://www.facebook.com/moanasalagha/posts/pfbid02KR395FVCPmsDJg35TDssNMDvVAKcpU1N42PejtPuUYwrW6tqC9Ej8G9XG7e6Zhtrl",
+      "text": "إصابة 3 مدنيين بجروح منها بليغة في حصيلة أولية لقصف صاروخي من قبل قوات النظام استهدف الأحياء السكنية في قرية مجدليا في ريف #إدلب الجنوبي، اليوم الجمعة 6...\n\nإصابة 3 مدنيين بجروح منها بليغة في حصيلة أولية لقصف صاروخي من قبل قوات النظام استهدف الأحياء السكنية في قرية مجدليا في ريف #إدلب الجنوبي، اليوم الجمعة 6 تشرين الأول، فرقنا أسعفت المصابين إلى المشفى..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:15:18+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:15:18+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524203737id_/https://www.facebook.com/moanasalagha/posts/pfbid02KR395FVCPmsDJg35TDssNMDvVAKcpU1N42PejtPuUYwrW6tqC9Ej8G9XG7e6Zhtrl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524203737id_/https://www.facebook.com/moanasalagha/posts/pfbid02KR395FVCPmsDJg35TDssNMDvVAKcpU1N42PejtPuUYwrW6tqC9Ej8G9XG7e6Zhtrl",
   "incident_ids": [
     "airwars-105974"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/moanasalagha/posts/pfbid02KR395FVCPmsDJg35TDssNMDvVAKcpU1N42PejtPuUYwrW6tqC9Ej8G9XG7e6Zhtrl"
   ],
   "original_url": "https://www.facebook.com/moanasalagha/posts/pfbid02KR395FVCPmsDJg35TDssNMDvVAKcpU1N42PejtPuUYwrW6tqC9Ej8G9XG7e6Zhtrl",
-  "page_title": "",
+  "page_title": "مؤنس الآغا مؤنس الآغا مؤنس الآغا - إصابة 3 مدنيين بجروح منها بليغة في حصيلة...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4832-october-6-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:15:18+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ce82984e59a44f0566971ae5",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/moanasalagha/posts/pfbid02KR395FVCPmsDJg35TDssNMDvVAKcpU1N42PejtPuUYwrW6tqC9Ej8G9XG7e6Zhtrl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة 3 مدنيين بجروح منها بليغة في حصيلة أولية لقصف صاروخي من قبل قوات النظام استهدف الأحياء السكنية في قرية مجدليا في ريف #إدلب الجنوبي، اليوم الجمعة 6...\n\nإصابة 3 مدنيين بجروح منها بليغة في حصيلة أولية لقصف صاروخي من قبل قوات النظام استهدف الأحياء السكنية في قرية مجدليا في ريف #إدلب الجنوبي، اليوم الجمعة 6 تشرين الأول، فرقنا أسعفت المصابين إلى المشفى...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

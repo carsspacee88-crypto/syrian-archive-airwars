@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/tmqxR"
+    "https://archive.is/tmqxR",
+    "https://web.archive.org/web/20230824112142id_/https://www.reuters.com/world/middle-east/two-local-officials-northeast-syria-killed-by-turkish-drone-kurdish-authorities-2023-06-20/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Reuters",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8f17614e208d237c3d095c32fef5fe40f21b039a122bd5649002a42c58572ae7",
+  "content_variants": [
+    {
+      "bytes": 2892,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:49:27+00:00",
+      "sha256": "8f17614e208d237c3d095c32fef5fe40f21b039a122bd5649002a42c58572ae7",
+      "source_url": "https://web.archive.org/web/20230824112142id_/https://www.reuters.com/world/middle-east/two-local-officials-northeast-syria-killed-by-turkish-drone-kurdish-authorities-2023-06-20/",
+      "text": "A burnt vehicle is pictured after, what medical and security sources say, was targeted by a Turkish drone strike in the village of Tal Shaeer, Syria June 20, 2023. HAWARNEWS/Handout via REUTERS Acquire Licensing Rights\n\nQAMISHLI, Syria, June 20 (Reuters) - Two local civilian officials and their driver were killed in Syria's Kurdish-run northeast on Tuesday when their car was targeted by a Turkish drone strike, regional Kurdish authorities said.\n\nIn a statement, they named the dead as Yusra Darwish, co-chair of the Qamishli canton's administrative council; Liman Shawish, an adviser to the Kurdish-led autonomous administration, and their driver. The Syriac co-chair of the Qamishli council, Gabriel Chamoun, was wounded.\n\nKurdish medical sources and a security source said a Turkish drone had targeted their car in the village of Tal Shaeer in northeast Syria.\n\nThe Turkish defence ministry did not immediately respond to a request for comment.\n\nTurkish state media on Tuesday cited security sources saying Turkey's MIT intelligence agency had \"neutralised\" a senior figure in the Kurdish YPG, or People's Protection Units, in the area of Tal Rifaat some 27 km northwest of Tal Shaeer.\n\nIt named the figure as Ridvan Ulugana and said he had been active in operations targeting the Turkish military. It did not say that any civilians were killed, or mention Tal Shaeer.\n\nTurkey is fiercely opposed to the YPG and the Kurdish-led autonomous zone in Syria's northeast, accusing them of links to the Kurdistan Workers' Party (PKK), designated a terrorist group by Ankara, the United States and the European Union. YPG officials have said it operates separately from the PKK.\n\nTurkey has used ground artillery and unmanned drones to target Kurdish militants, including last week.\n\nThat has caused tensions with the United States, which has allied with the Syrian Democratic Forces (SDF), spearheaded by the YPG, in the fight against Islamic State in Syria.\n\n(This story has been corrected to fix Chamoun's first name and job title in paragraph 2)\n\nReporting by Orhan Qereman in Qamishli, Syria; Daren Butler and Huseyin Hayatsever in Turkey; writing by Maya Gebeily; editing by Mark Heinrich\n\nOur Standards: The Thomson Reuters Trust Principles.\n\nRead Next\n\nWorldcategoryBRICS invites six countries including Saudi Arabia, Iran to be new members7:59 AM UTC\n\nBRICS invites six countries including Saudi Arabia, Iran to be new members\n\narticle with galleryWorldcategoryBRICS invites Saudi, Iran and others to join developing world bloc9:20 AM UTC\n\nBRICS invites Saudi, Iran and others to join developing world bloc\n\nBusinesscategoryOil steadies, US Fed chief's speech in spotlight9:13 AM UTC\n\nOil steadies, US Fed chief's speech in spotlight\n\nMiddle EastcategoryBRICS set to invite Saudi Arabia to join, Bloomberg reports6:03 AM UTC\n\nBRICS set to invite Saudi Arabia to join, Bloomberg reports"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:49:27+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:49:27+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230824112142id_/https://www.reuters.com/world/middle-east/two-local-officials-northeast-syria-killed-by-turkish-drone-kurdish-authorities-2023-06-20/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230824112142id_/https://www.reuters.com/world/middle-east/two-local-officials-northeast-syria-killed-by-turkish-drone-kurdish-authorities-2023-06-20/",
   "incident_ids": [
     "airwars-89708"
   ],
@@ -85,10 +109,10 @@
     "https://www.reuters.com/world/middle-east/two-local-officials-northeast-syria-killed-by-turkish-drone-kurdish-authorities-2023-06-20/"
   ],
   "original_url": "https://www.reuters.com/world/middle-east/two-local-officials-northeast-syria-killed-by-turkish-drone-kurdish-authorities-2023-06-20/",
-  "page_title": "",
+  "page_title": "Two local officials in northeast Syria killed by Turkish drone, Kurdish authorities say | Reuters Two local officials in northeast Syria killed by Turkish drone, Kurdish authorities say Two local officials in northeast Syria killed by Turkish drone, Kurdish authorities say article with gallery article with video",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts605-june-20-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:49:27+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-3b60b0b6ef949c532e38281b",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.reuters.com/world/middle-east/two-local-officials-northeast-syria-killed-by-turkish-drone-kurdish-authorities-2023-06-20/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "A burnt vehicle is pictured after, what medical and security sources say, was targeted by a Turkish drone strike in the village of Tal Shaeer, Syria June 20, 2023. HAWARNEWS/Handout via REUTERS Acquire Licensing Rights\n\nQAMISHLI, Syria, June 20 (Reuters) - Two local civilian officials and their driver were killed in Syria's Kurdish-run northeast on Tuesday when their car was targeted by a Turkish drone strike, regional Kurdish authorities said.\n\nIn a statement, they named the dead as Yusra Darwish, co-chair of the Qamishli canton's administrative council; Liman Shawish, an adviser to the Kurdish-led autonomous administration, and their driver. The Syriac co-chair of the Qamishli council, Gabriel Chamoun, was wounded.\n\nKurdish medical sources and a security source said a Turkish drone had targeted their car in the village of Tal Shaeer in northeast Syria.\n\nThe Turkish defence ministry did not immediately respond to a request for comment.\n\nTurkish state media on Tuesday cited security sources saying Turkey's MIT intelligence agency had \"neutralised\" a senior figure in the Kurdish YPG, or People's Protection Units, in the area of Tal Rifaat some 27 km northwest of Tal Shaeer.\n\nIt named the figure as Ridvan Ulugana and said he had been active in operations targeting the Turkish military. It did not say that any civilians were killed, or mention Tal Shaeer.\n\nTurkey is fiercely opposed to the YPG and the Kurdish-led autonomous zone in Syria's northeast, accusing them of links to the Kurdistan Workers' Party (PKK), designated a terrorist group by Ankara, the United States and the European Union. YPG officials have said it operates separately from the PKK.\n\nTurkey has used ground artillery and unmanned drones to target Kurdish militants, including last week.\n\nThat has caused tensions with the United States, which has allied with the Syrian Democratic Forces (SDF), spearheaded by the YPG, in the fight against Islamic State in Syria.\n\n(This story has been corrected to fix Chamoun's first name and job title in paragraph 2)\n\nReporting by Orhan Qereman in Qamishli, Syria; Daren Butler and Huseyin Hayatsever in Turkey; writing by Maya Gebeily; editing by Mark Heinrich\n\nOur Standards: The Thomson Reuters Trust Principles.\n\nRead Next\n\nWorldcategoryBRICS invites six countries including Saudi Arabia, Iran to be new members7:59 AM UTC\n\nBRICS invites six countries including Saudi Arabia, Iran to be new members\n\narticle with galleryWorldcategoryBRICS invites Saudi, Iran and others to join developing world bloc9:20 AM UTC\n\nBRICS invites Saudi, Iran and others to join developing world bloc\n\nBusinesscategoryOil steadies, US Fed chief's speech in spotlight9:13 AM UTC\n\nOil steadies, US Fed chief's speech in spotlight\n\nMiddle EastcategoryBRICS set to invite Saudi Arabia to join, Bloomberg reports6:03 AM UTC\n\nBRICS set to invite Saudi Arabia to join, Bloomberg reports",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

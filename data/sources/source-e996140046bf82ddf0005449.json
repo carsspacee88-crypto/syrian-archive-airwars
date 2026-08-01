@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/15HUk"
+    "https://archive.is/15HUk",
+    "https://web.archive.org/web/20220725170405id_/https://twitter.com/baladinetwork/status/1551596253389135874"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@baladinetwork",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "e2735d344a926a498db0be6d0d1efefdee0616bf06d6ffb38026d6d764c0b465",
+  "content_variants": [
+    {
+      "bytes": 245,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:23:33+00:00",
+      "sha256": "e2735d344a926a498db0be6d0d1efefdee0616bf06d6ffb38026d6d764c0b465",
+      "source_url": "https://web.archive.org/web/20220725170405id_/https://twitter.com/baladinetwork/status/1551596253389135874",
+      "text": "Conversationشبكة بلدي الإعلامية@baladinetwork#بلدي: شهيدة وجرحى بقصف مدفعي لـ #قسد استهدف مدينة #إعزاز بريف #حلب #سوريا3:52 PM · Jul 25, 2022·Twitter for iPhone2 Retweets"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:23:33+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:23:33+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220725170405id_/https://twitter.com/baladinetwork/status/1551596253389135874"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220725170405id_/https://twitter.com/baladinetwork/status/1551596253389135874",
   "incident_ids": [
     "airwars-84263"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/baladinetwork/status/1551596253389135874"
   ],
   "original_url": "https://twitter.com/baladinetwork/status/1551596253389135874",
-  "page_title": "",
+  "page_title": "شبكة بلدي الإعلامية on Twitter شبكة بلدي الإعلامية on Twitter: \"#بلدي: شهيدة وجرحى بقصف مدفعي لـ #قسد استهدف مدينة #إعزاز بريف #حلب #سوريا\" / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys143-july-25-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:23:33+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e996140046bf82ddf0005449",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/baladinetwork/status/1551596253389135874",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Conversationشبكة بلدي الإعلامية@baladinetwork#بلدي: شهيدة وجرحى بقصف مدفعي لـ #قسد استهدف مدينة #إعزاز بريف #حلب #سوريا3:52 PM · Jul 25, 2022·Twitter for iPhone2 Retweets",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

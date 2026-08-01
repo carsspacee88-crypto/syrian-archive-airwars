@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/csbCz"
+    "https://archive.is/csbCz",
+    "https://web.archive.org/web/20220628222253id_/https://www.zamanalwsl.net/news/article/140107/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaman Al Wasl",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "fa0d9dab23eedece51b90dfd3564249571b40d1b339cd8eff46614ff18fd5551",
+  "content_variants": [
+    {
+      "bytes": 236,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:54:27+00:00",
+      "sha256": "fa0d9dab23eedece51b90dfd3564249571b40d1b339cd8eff46614ff18fd5551",
+      "source_url": "https://web.archive.org/web/20220628222253id_/https://www.zamanalwsl.net/news/article/140107/",
+      "text": "22 ايلول 2021\n\nمقتل شخص بغارات روسية جنوب إدلب\n\n0\n\nالتعليقات\n\nمحافظة\n\nجنوب\n\nإدلب\n\nجبل\n\nشخص\n\nمنطقة\n\nالزاوية\n\nوالصواريخ\n\nتعليقات حول الموضوع"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:54:26+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:54:27+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220628222253id_/https://www.zamanalwsl.net/news/article/140107/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220628222253id_/https://www.zamanalwsl.net/news/article/140107/",
   "incident_ids": [
     "airwars-78840"
   ],
@@ -85,10 +109,10 @@
     "https://www.zamanalwsl.net/news/article/140107/"
   ],
   "original_url": "https://www.zamanalwsl.net/news/article/140107/",
-  "page_title": "",
+  "page_title": "مقتل شخص بغارات روسية جنوب إدلب | زمان الوصل مقتل شخص بغارات روسية جنوب إدلب مقتل شخص بغارات روسية جنوب إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4647-september-22-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:54:27+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-63b97684a9deaea3879c4de6",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.zamanalwsl.net/news/article/140107/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "22 ايلول 2021\n\nمقتل شخص بغارات روسية جنوب إدلب\n\n0\n\nالتعليقات\n\nمحافظة\n\nجنوب\n\nإدلب\n\nجبل\n\nشخص\n\nمنطقة\n\nالزاوية\n\nوالصواريخ\n\nتعليقات حول الموضوع",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
