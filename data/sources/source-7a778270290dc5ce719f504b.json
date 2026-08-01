@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/MJsYi"
+    "https://archive.md/MJsYi",
+    "https://web.archive.org/web/20240515180436id_/https://www.facebook.com/EdlibEmc1/posts/3073880996158782"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Edlib Media Center",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "99beec27d0e74b5b47036734663a8e188f04af2d9b00b2dba4bbedec4ff281bd",
+  "content_variants": [
+    {
+      "bytes": 203,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:37:31+00:00",
+      "sha256": "99beec27d0e74b5b47036734663a8e188f04af2d9b00b2dba4bbedec4ff281bd",
+      "source_url": "https://web.archive.org/web/20240515180436id_/https://www.facebook.com/EdlibEmc1/posts/3073880996158782",
+      "text": "مركز #ادلب الاعلامي\n\nثلاثة مدنيون استشهدوا اثر غارات طيران الإحتلال الروسي على محيط بلدة اليعقوبية غرب ادلب.\n\n#EMC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:37:30+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:37:31+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515180436id_/https://www.facebook.com/EdlibEmc1/posts/3073880996158782"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515180436id_/https://www.facebook.com/EdlibEmc1/posts/3073880996158782",
   "incident_ids": [
     "airwars-80634"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/EdlibEmc1/posts/3073880996158782"
   ],
   "original_url": "https://www.facebook.com/EdlibEmc1/posts/3073880996158782",
-  "page_title": "",
+  "page_title": "مركز إدلب الإعلامي Edlib Media Center مركز إدلب الإعلامي Edlib Media Center مركز #ادلب... - مركز إدلب الإعلامي Edlib Media Center",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4679-december-11-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:37:31+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7a778270290dc5ce719f504b",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/EdlibEmc1/posts/3073880996158782",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مركز #ادلب الاعلامي\n\nثلاثة مدنيون استشهدوا اثر غارات طيران الإحتلال الروسي على محيط بلدة اليعقوبية غرب ادلب.\n\n#EMC",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

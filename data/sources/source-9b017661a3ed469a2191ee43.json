@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/KY7gJ"
+    "https://archive.is/KY7gJ",
+    "https://web.archive.org/web/20251119073112id_/https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alithnyn-16-01-2023"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f9aba1a2a1fed744494a1946ac66bdf007387623e2179253d4c29762fd53857e",
+  "content_variants": [
+    {
+      "bytes": 1780,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:39:43+00:00",
+      "sha256": "f9aba1a2a1fed744494a1946ac66bdf007387623e2179253d4c29762fd53857e",
+      "source_url": "https://web.archive.org/web/20251119073112id_/https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alithnyn-16-01-2023",
+      "text": "طفلتان تعيشان في مخيم طريق الحمام في ريف جسر الشغور غربي إدلب\n\nحصاد الأحداث الميدانية ليوم الإثنين 16-01-2023\n\nحلب::سيّرت القوات التركية والروسية دورية عسكرية مشتركة في محيط مدينة عين العرب بالريف الشرقي.\n\nاستشهدت امرأة بعد استهدافها من قبل قناص تابع لميليشيات قوات سوريا الديمقراطية \"قسد\" في قرية حزوان بريف مدينة الباب بالريف الشرقي.\n\nجرت اشتباكات عنيفة بين الجيش الوطني وقوات الأسد على جبهة قرية العمية شرقي مدينة الباب بالريف الشرقي، في حين تعرض محيط قريتي تقاد والهباطة بالريف الغربي لقصف مدفعي من قبل قوات الأسد.\n\nحمص::انفجرت عبوة ناسفة زرعها مجهولون بسيارة قائد ميليشيا الدفاع الوطني في مدينة تلبيسة بالريف الشمالي، ما أدى لمقتله.\n\nدرعا::أطلق مجهولون النار من الأسلحة الرشاشة على حاجز لفرع أمن الدولة على الطريق الواصل بلدتي نمر وبسطاس، ما أدى لسقوط جرحى.\n\nديرالزور::سقط قتيل من قوات الأسد بعدما هاجم مسلحون نقطة عسكرية لهم في بادية الخريطة بالريف الغربي.\n\nسقط قتيل على خلفية قضية ثأر في بلدة الجرذي بالريف الشرقي.\n\nالرقة::قام لصوص بقتل سيدة وابنتها في حي المختلطة بمدينة الرقة خنقا."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:39:43+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:39:43+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251119073112id_/https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alithnyn-16-01-2023"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251119073112id_/https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alithnyn-16-01-2023",
   "incident_ids": [
     "airwars-87283"
   ],
@@ -85,10 +109,10 @@
     "https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alithnyn-16-01-2023"
   ],
   "original_url": "https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alithnyn-16-01-2023",
-  "page_title": "",
+  "page_title": "حصاد الأحداث الميدانية ليوم الإثنين 16-01-2023 | شبكة شام الإخبارية حصاد الأحداث الميدانية ليوم الإثنين 16-01-2023 حصاد الأحداث الميدانية ليوم الإثنين 16-01-2023",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys163-january-16-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:39:43+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9b017661a3ed469a2191ee43",
   "source_type": "news_article",
   "stable_id_basis": "https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alithnyn-16-01-2023",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "طفلتان تعيشان في مخيم طريق الحمام في ريف جسر الشغور غربي إدلب\n\nحصاد الأحداث الميدانية ليوم الإثنين 16-01-2023\n\nحلب::سيّرت القوات التركية والروسية دورية عسكرية مشتركة في محيط مدينة عين العرب بالريف الشرقي.\n\nاستشهدت امرأة بعد استهدافها من قبل قناص تابع لميليشيات قوات سوريا الديمقراطية \"قسد\" في قرية حزوان بريف مدينة الباب بالريف الشرقي.\n\nجرت اشتباكات عنيفة بين الجيش الوطني وقوات الأسد على جبهة قرية العمية شرقي مدينة الباب بالريف الشرقي، في حين تعرض محيط قريتي تقاد والهباطة بالريف الغربي لقصف مدفعي من قبل قوات الأسد.\n\nحمص::انفجرت عبوة ناسفة زرعها مجهولون بسيارة قائد ميليشيا الدفاع الوطني في مدينة تلبيسة بالريف الشمالي، ما أدى لمقتله.\n\nدرعا::أطلق مجهولون النار من الأسلحة الرشاشة على حاجز لفرع أمن الدولة على الطريق الواصل بلدتي نمر وبسطاس، ما أدى لسقوط جرحى.\n\nديرالزور::سقط قتيل من قوات الأسد بعدما هاجم مسلحون نقطة عسكرية لهم في بادية الخريطة بالريف الغربي.\n\nسقط قتيل على خلفية قضية ثأر في بلدة الجرذي بالريف الشرقي.\n\nالرقة::قام لصوص بقتل سيدة وابنتها في حي المختلطة بمدينة الرقة خنقا.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

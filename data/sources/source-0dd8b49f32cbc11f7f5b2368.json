@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/vhxfE"
+    "https://archive.is/vhxfE",
+    "https://web.archive.org/web/20240524153551id_/http://baladi-news.com/public/ar/breakingnews/38242/%D8%A8%D9%84%D8%AF%D9%8A-%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A5%D8%AB%D8%B1-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%AC%D8%AF%D9%84%D9%8A%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Baladi News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f5054ca2140e3e396e713fce8f7f9aa963212396f6011d5576fafa9b128e2b03",
+  "content_variants": [
+    {
+      "bytes": 565,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:29:03+00:00",
+      "sha256": "f5054ca2140e3e396e713fce8f7f9aa963212396f6011d5576fafa9b128e2b03",
+      "source_url": "https://web.archive.org/web/20240524153551id_/http://baladi-news.com/public/ar/breakingnews/38242/%D8%A8%D9%84%D8%AF%D9%8A-%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A5%D8%AB%D8%B1-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%AC%D8%AF%D9%84%D9%8A%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "text": "#بلدي: جرحى مدنيون إثر قصف مدفعي لقوات النظام استهدف قرية مجدليا بريف #إدلب الجنوبي #سوريا | شبكة بلدي الإعلامية\n\n#بلدي: جرحى مدنيون إثر قصف مدفعي لقوات النظام استهدف قرية مجدليا بريف #إدلب الجنوبي #سوريا - It's Over 9000!\n\n#بلدي: جرحى مدنيون إثر قصف مدفعي لقوات النظام استهدف قرية مجدليا بريف #إدلب الجنوبي #سوريا\nمنذ سنتين"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:28:59+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:29:03+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524153551id_/http://baladi-news.com/public/ar/breakingnews/38242/%D8%A8%D9%84%D8%AF%D9%8A-%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A5%D8%AB%D8%B1-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%AC%D8%AF%D9%84%D9%8A%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524153551id_/http://baladi-news.com/public/ar/breakingnews/38242/%D8%A8%D9%84%D8%AF%D9%8A-%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A5%D8%AB%D8%B1-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%AC%D8%AF%D9%84%D9%8A%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
   "incident_ids": [
     "airwars-78996"
   ],
@@ -85,10 +109,10 @@
     "https://www.baladi-news.com/public/ar/breakingnews/38242/%D8%A8%D9%84%D8%AF%D9%8A-%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A5%D8%AB%D8%B1-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%AC%D8%AF%D9%84%D9%8A%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
   ],
   "original_url": "https://www.baladi-news.com/public/ar/breakingnews/38242/%D8%A8%D9%84%D8%AF%D9%8A-%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A5%D8%AB%D8%B1-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%AC%D8%AF%D9%84%D9%8A%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-  "page_title": "",
+  "page_title": "#بلدي: جرحى مدنيون إثر قصف مدفعي لقوات النظام استهدف قرية مجدليا بريف #إدلب الجنوبي #سوريا | شبكة بلدي الإعلامية #بلدي: جرحى مدنيون إثر قصف مدفعي لقوات النظام استهدف قرية مجدليا بريف #إدلب الجنوبي #سوريا - It's Over 9000! #بلدي: جرحى مدنيون إثر قصف مدفعي لقوات النظام استهدف قرية مجدليا بريف #إدلب الجنوبي #سوريا #بلدي: جرحى مدنيون إثر قصف مدفعي لقوات النظام استهدف قرية مجدليا بريف #إدلب الجنوبي #سوريا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4649-september-27-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:29:03+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0dd8b49f32cbc11f7f5b2368",
   "source_type": "news_article",
   "stable_id_basis": "https://www.baladi-news.com/public/ar/breakingnews/38242/%D8%A8%D9%84%D8%AF%D9%8A-%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A5%D8%AB%D8%B1-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D9%8A%D8%A9-%D9%85%D8%AC%D8%AF%D9%84%D9%8A%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#بلدي: جرحى مدنيون إثر قصف مدفعي لقوات النظام استهدف قرية مجدليا بريف #إدلب الجنوبي #سوريا | شبكة بلدي الإعلامية\n\n#بلدي: جرحى مدنيون إثر قصف مدفعي لقوات النظام استهدف قرية مجدليا بريف #إدلب الجنوبي #سوريا - It's Over 9000!\n\n#بلدي: جرحى مدنيون إثر قصف مدفعي لقوات النظام استهدف قرية مجدليا بريف #إدلب الجنوبي #سوريا\nمنذ سنتين",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

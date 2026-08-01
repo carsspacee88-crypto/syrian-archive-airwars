@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/f6Lcg"
+    "https://archive.is/f6Lcg",
+    "https://web.archive.org/web/20230204031232id_/https://hawarnews.com/ar/haber/isabh-mwatnyn-fy-alqsf-altrky-ala-qryh-almshyrfh-bryf-ayn-aysa-h61252.html?fbclid=IwAR3fK-1sxNIcpz8MRSjQ4SAh0QSbOa91Y7"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Hawar News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "228ce5e94cf58f84c9341d66f949b721939d5738492b29c2426aec6423dc1762",
+  "content_variants": [
+    {
+      "bytes": 785,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:32:24+00:00",
+      "sha256": "228ce5e94cf58f84c9341d66f949b721939d5738492b29c2426aec6423dc1762",
+      "source_url": "https://web.archive.org/web/20230204031232id_/https://hawarnews.com/ar/haber/isabh-mwatnyn-fy-alqsf-altrky-ala-qryh-almshyrfh-bryf-ayn-aysa-h61252.html?fbclid=IwAR3fK-1sxNIcpz8MRSjQ4SAh0QSbOa91Y7",
+      "text": "قالت مراسلتنا إن مواطنين اثنين من أهالي قرية المشيرفة أصيبا في هجمات جيش الاحتلال التركي ومرتزقته على القرية الواقعة بريف ناحية عين عيسى.\n\nووفقاً لها فإن المواطنين هما: \"صالح محمود، وعبدالرحمن صالح المحمود\".\n\n(س ر)\n\nANHA\n\nإقرأ أيضاً\n\n​​​​​​​مسؤول في مركز بحثي: قوى إقليمية ودولية تلعب دوراً في تزايد نشاط داعش\n\nتركيا تعرقل \"الحق في الأمل\" بـ \"العقوبات الانضباطية\"\n\nانتهاء فعالية الإضراب عن الطعام في حي زور آفا بالتأكيد على تصعيد النضال"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:32:22+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:32:24+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230204031232id_/https://hawarnews.com/ar/haber/isabh-mwatnyn-fy-alqsf-altrky-ala-qryh-almshyrfh-bryf-ayn-aysa-h61252.html?fbclid=IwAR3fK-1sxNIcpz8MRSjQ4SAh0QSbOa91Y7"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230204031232id_/https://hawarnews.com/ar/haber/isabh-mwatnyn-fy-alqsf-altrky-ala-qryh-almshyrfh-bryf-ayn-aysa-h61252.html?fbclid=IwAR3fK-1sxNIcpz8MRSjQ4SAh0QSbOa91Y7",
   "incident_ids": [
     "airwars-81350"
   ],
@@ -85,10 +109,10 @@
     "https://hawarnews.com/ar/haber/isabh-mwatnyn-fy-alqsf-altrky-ala-qryh-almshyrfh-bryf-ayn-aysa-h61252.html?fbclid=IwAR3fK-1sxNIcpz8MRSjQ4SAh0QSbOa91Y7"
   ],
   "original_url": "https://hawarnews.com/ar/haber/isabh-mwatnyn-fy-alqsf-altrky-ala-qryh-almshyrfh-bryf-ayn-aysa-h61252.html?fbclid=IwAR3fK-1sxNIcpz8MRSjQ4SAh0QSbOa91Y7",
-  "page_title": "",
+  "page_title": "إصابة مواطنين في القصف التركي على قرية المشيرفة بريف عين عيسى - وكالة أنباء هاوار إصابة مواطنين في القصف التركي على قرية المشيرفة بريف عين عيسى - وكالة أنباء هاوار إصابة مواطنين في القصف التركي على قرية المشيرفة بريف عين عيسى - وكالة أنباء هاوار",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts485-january-22-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:32:24+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4e6802775806a1bfb25155ad",
   "source_type": "news_article",
   "stable_id_basis": "https://hawarnews.com/ar/haber/isabh-mwatnyn-fy-alqsf-altrky-ala-qryh-almshyrfh-bryf-ayn-aysa-h61252.html?fbclid=IwAR3fK-1sxNIcpz8MRSjQ4SAh0QSbOa91Y7",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قالت مراسلتنا إن مواطنين اثنين من أهالي قرية المشيرفة أصيبا في هجمات جيش الاحتلال التركي ومرتزقته على القرية الواقعة بريف ناحية عين عيسى.\n\nووفقاً لها فإن المواطنين هما: \"صالح محمود، وعبدالرحمن صالح المحمود\".\n\n(س ر)\n\nANHA\n\nإقرأ أيضاً\n\n​​​​​​​مسؤول في مركز بحثي: قوى إقليمية ودولية تلعب دوراً في تزايد نشاط داعش\n\nتركيا تعرقل \"الحق في الأمل\" بـ \"العقوبات الانضباطية\"\n\nانتهاء فعالية الإضراب عن الطعام في حي زور آفا بالتأكيد على تصعيد النضال",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

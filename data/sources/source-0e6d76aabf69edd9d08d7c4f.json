@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/w3T6E"
+    "https://archive.is/w3T6E",
+    "https://web.archive.org/web/20251111133038id_/https://www.zamanalwsl.net/news/article/139676/"
   ],
   "attempt_history": [
     {
@@ -67,12 +68,35 @@
   "author": "Zaman Al Wasl",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "88da83b4f18acd24a89a4abddff2263eb5a3b3c8c23e148af4a8dcce618253b3",
+  "content_variants": [
+    {
+      "bytes": 301,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:29:01+00:00",
+      "sha256": "88da83b4f18acd24a89a4abddff2263eb5a3b3c8c23e148af4a8dcce618253b3",
+      "source_url": "https://web.archive.org/web/20251111133038id_/https://www.zamanalwsl.net/news/article/139676/",
+      "text": "04 ايلول 2021\n\nغارات جوية روسية جديدة جنوب إدلب\n\n1\n\nالتعليقات\n\nإدلب\n\nضمن\n\nالطائرات\n\nالحربية\n\nالروسية\n\nجوية\n\nوالبلدات\n\nجنوب\n\nلعنة الله على المجتمع الدولي.\n\nتعليقات حول الموضوع"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:29:01+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:29:01+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251111133038id_/https://www.zamanalwsl.net/news/article/139676/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251111133038id_/https://www.zamanalwsl.net/news/article/139676/",
   "incident_ids": [
     "airwars-77921"
   ],
@@ -88,10 +112,10 @@
     "https://www.zamanalwsl.net/news/article/139676/"
   ],
   "original_url": "https://www.zamanalwsl.net/news/article/139676/",
-  "page_title": "",
+  "page_title": "غارات جوية روسية جديدة جنوب إدلب | زمان الوصل غارات جوية روسية جديدة جنوب إدلب غارات جوية روسية جديدة جنوب إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4637-september-4-2021/",
@@ -111,15 +135,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:29:01+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0e6d76aabf69edd9d08d7c4f",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.zamanalwsl.net/news/article/139676/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "04 ايلول 2021\n\nغارات جوية روسية جديدة جنوب إدلب\n\n1\n\nالتعليقات\n\nإدلب\n\nضمن\n\nالطائرات\n\nالحربية\n\nالروسية\n\nجوية\n\nوالبلدات\n\nجنوب\n\nلعنة الله على المجتمع الدولي.\n\nتعليقات حول الموضوع",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

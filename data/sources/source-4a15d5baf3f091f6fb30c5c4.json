@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/rbHSH"
+    "https://archive.is/rbHSH",
+    "https://web.archive.org/web/20221205142228id_/https://www.jesrpress.com/2022/03/23/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%AC%D8%B1%D9%91%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D8%B7%D8%A7%D9%84-%D9%88%D8%B3%D8%B7-%D9%85%D8%AF%D9%8A/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Jesr Press",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "6199f4402de9de1206416bc6d88fce8ce8d3f634fd67efe444eb839f0cc744e5",
+  "content_variants": [
+    {
+      "bytes": 1900,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:32:23+00:00",
+      "sha256": "6199f4402de9de1206416bc6d88fce8ce8d3f634fd67efe444eb839f0cc744e5",
+      "source_url": "https://web.archive.org/web/20221205142228id_/https://www.jesrpress.com/2022/03/23/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%AC%D8%B1%D9%91%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D8%B7%D8%A7%D9%84-%D9%88%D8%B3%D8%B7-%D9%85%D8%AF%D9%8A/",
+      "text": "قتلى وجرحى جرّاء قصف صاروخي طال وسط مدينة إعزاز شمالي حلب\n\nجسر – ريف حلب\n\nتعرّضت مدينة إعزاز بريف حلب الشمالي لضربات صاروخية طالت الأحياء السكنية وسط المدينة، قبل قليل من مساء اليوم الأربعاء 23 آذار/ مارس، وهرعت سيارات الإسعاف نحو المكان المستهدف، وبحسب مصادر محلية، فإنّ الحصيلة الأولية للضحايا، هي قتيل و 7 مصابين حتى اللحظة.\n\nوأضافت المصادر، أنّ المدينة استهدفت بنحو 15 صاروخ، ذكرت المعلومات أنّ مصدرها المناطق الخاضعة لسيطرة “قسد”.\n\nمن جانبها ردّت القوات التركية و”الجيش الوطني” المتواجدة في مركز البحوث، بقصفٍ مكثّف على قرية “مرعناز” الخاضعة لسيطرة “قوات سوريا الديمقراطية” (قسد)، التي قالت الأنباء أنّها مصدر القصف الذي استهدف مدينة “إعزاز”.\n\nالسابق\n\n“الغارديان” تكشف عن شركات وهمية أنشأها “نظام الأسد” للتحايل على العقوبات\n\nالتالي\n\n“قسد” تحدد مسارات العبور إلى مناطق سيطرتها حسب الهوية\n\nمقتل وإصابة 5 أشخاص في اقتتال بين أبناء عمومة بريف الحسكة\n\nالاستخبارات التركية تحيّد “مزغين كوباني” القيادية في “PYD”…\n\n“الائتلاف” يدعم احتجاجات السويداء ويطالب المجتمع الدولي بعدم تجاهلها\n\nمظلوم عبدي يتحدث عن محاولة تركيا اغتياله في سوريا"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:32:22+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:32:23+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20221205142228id_/https://www.jesrpress.com/2022/03/23/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%AC%D8%B1%D9%91%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D8%B7%D8%A7%D9%84-%D9%88%D8%B3%D8%B7-%D9%85%D8%AF%D9%8A/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20221205142228id_/https://www.jesrpress.com/2022/03/23/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%AC%D8%B1%D9%91%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D8%B7%D8%A7%D9%84-%D9%88%D8%B3%D8%B7-%D9%85%D8%AF%D9%8A/",
   "incident_ids": [
     "airwars-82486"
   ],
@@ -85,10 +109,10 @@
     "https://www.jesrpress.com/2022/03/23/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%AC%D8%B1%D9%91%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D8%B7%D8%A7%D9%84-%D9%88%D8%B3%D8%B7-%D9%85%D8%AF%D9%8A/"
   ],
   "original_url": "https://www.jesrpress.com/2022/03/23/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%AC%D8%B1%D9%91%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D8%B7%D8%A7%D9%84-%D9%88%D8%B3%D8%B7-%D9%85%D8%AF%D9%8A/",
-  "page_title": "",
+  "page_title": "قتلى وجرحى جرّاء قصف صاروخي طال وسط مدينة إعزاز شمالي حلب - صحيفة جسر قتلى وجرحى جرّاء قصف صاروخي طال وسط مدينة إعزاز شمالي حلب - صحيفة جسر",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys128-march-23-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:32:23+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4a15d5baf3f091f6fb30c5c4",
   "source_type": "news_article",
   "stable_id_basis": "https://www.jesrpress.com/2022/03/23/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%AC%D8%B1%D9%91%D8%A7%D8%A1-%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D8%B7%D8%A7%D9%84-%D9%88%D8%B3%D8%B7-%D9%85%D8%AF%D9%8A/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قتلى وجرحى جرّاء قصف صاروخي طال وسط مدينة إعزاز شمالي حلب\n\nجسر – ريف حلب\n\nتعرّضت مدينة إعزاز بريف حلب الشمالي لضربات صاروخية طالت الأحياء السكنية وسط المدينة، قبل قليل من مساء اليوم الأربعاء 23 آذار/ مارس، وهرعت سيارات الإسعاف نحو المكان المستهدف، وبحسب مصادر محلية، فإنّ الحصيلة الأولية للضحايا، هي قتيل و 7 مصابين حتى اللحظة.\n\nوأضافت المصادر، أنّ المدينة استهدفت بنحو 15 صاروخ، ذكرت المعلومات أنّ مصدرها المناطق الخاضعة لسيطرة “قسد”.\n\nمن جانبها ردّت القوات التركية و”الجيش الوطني” المتواجدة في مركز البحوث، بقصفٍ مكثّف على قرية “مرعناز” الخاضعة لسيطرة “قوات سوريا الديمقراطية” (قسد)، التي قالت الأنباء أنّها مصدر القصف الذي استهدف مدينة “إعزاز”.\n\nالسابق\n\n“الغارديان” تكشف عن شركات وهمية أنشأها “نظام الأسد” للتحايل على العقوبات\n\nالتالي\n\n“قسد” تحدد مسارات العبور إلى مناطق سيطرتها حسب الهوية\n\nمقتل وإصابة 5 أشخاص في اقتتال بين أبناء عمومة بريف الحسكة\n\nالاستخبارات التركية تحيّد “مزغين كوباني” القيادية في “PYD”…\n\n“الائتلاف” يدعم احتجاجات السويداء ويطالب المجتمع الدولي بعدم تجاهلها\n\nمظلوم عبدي يتحدث عن محاولة تركيا اغتياله في سوريا",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

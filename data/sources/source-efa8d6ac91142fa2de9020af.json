@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/Ttz9V"
+    "https://archive.is/Ttz9V",
+    "https://web.archive.org/web/20240519235901id_/https://sana.sy/en/?p=319064"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SANA news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "818f9d8b28de2e66fc9b0b9f3c4e4bb39b20bde745628f6d27138f2f893e6140",
+  "content_variants": [
+    {
+      "bytes": 863,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:48:33+00:00",
+      "sha256": "818f9d8b28de2e66fc9b0b9f3c4e4bb39b20bde745628f6d27138f2f893e6140",
+      "source_url": "https://web.archive.org/web/20240519235901id_/https://sana.sy/en/?p=319064",
+      "text": "22 October، 2023\n\nDamascus, SANA- A civilian worker at Damascus International Airport was martyred and another was injured, in an Israeli act of aggression on Sunday morning that targeted Damascus and Aleppo international airports, putting them out of service.\n\n“At about 05:25 am on Sunday, the Israeli enemy simultaneously carried out an aerial act of aggression with waves of missiles from the direction of the Mediterranean Sea west of Lattakia and from the direction of the occupied Syrian Golan targeting Damascus and Aleppo international airports,” a military source said in a statement.\n\nThe statement added: “The aggression led to the martyrdom of a civilian worker at Damascus Airport, the injury of another worker, in addition to causing material damage to the runways of the two airports, putting them out of service.”\n\nRuaa al-Jazaeri\n\ntweet"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:48:31+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:48:33+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240519235901id_/https://sana.sy/en/?p=319064"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240519235901id_/https://sana.sy/en/?p=319064",
   "incident_ids": [
     "airwars-114456"
   ],
@@ -85,10 +109,10 @@
     "https://sana.sy/en/?p=319064"
   ],
   "original_url": "https://sana.sy/en/?p=319064",
-  "page_title": "",
+  "page_title": "One civilian martyred, another injured in Israeli aggression on Damascus and Aleppo airports – Syrian Arab News Agency One civilian martyred, another injured in Israeli aggression on Damascus and Aleppo airports - Syrian Arab News Agency One civilian martyred, another injured in Israeli aggression on Damascus and Aleppo airports One civilian martyred, another injured in Israeli aggression on Damascus and Aleppo airports",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy036-october-22-2023/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:48:33+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-efa8d6ac91142fa2de9020af",
   "source_type": "news_article",
   "stable_id_basis": "https://sana.sy/en/?p=319064",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "22 October، 2023\n\nDamascus, SANA- A civilian worker at Damascus International Airport was martyred and another was injured, in an Israeli act of aggression on Sunday morning that targeted Damascus and Aleppo international airports, putting them out of service.\n\n“At about 05:25 am on Sunday, the Israeli enemy simultaneously carried out an aerial act of aggression with waves of missiles from the direction of the Mediterranean Sea west of Lattakia and from the direction of the occupied Syrian Golan targeting Damascus and Aleppo international airports,” a military source said in a statement.\n\nThe statement added: “The aggression led to the martyrdom of a civilian worker at Damascus Airport, the injury of another worker, in addition to causing material damage to the runways of the two airports, putting them out of service.”\n\nRuaa al-Jazaeri\n\ntweet",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

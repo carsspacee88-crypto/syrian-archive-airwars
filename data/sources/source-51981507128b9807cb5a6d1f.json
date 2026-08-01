@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/Zq8c2"
+    "https://archive.ph/Zq8c2",
+    "https://web.archive.org/web/20240718205705id_/https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/asabt-mwatn-fy-asthdaf-msyrt-antharyt-llahtlal-altrky-fy-alshhba-107718"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "4a83b1dd4e84aa5afb4d4a6f0279835a40a502444fb581eda0228cd5825be164",
+  "content_variants": [
+    {
+      "bytes": 494,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:32:41+00:00",
+      "sha256": "4a83b1dd4e84aa5afb4d4a6f0279835a40a502444fb581eda0228cd5825be164",
+      "source_url": "https://web.archive.org/web/20240718205705id_/https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/asabt-mwatn-fy-asthdaf-msyrt-antharyt-llahtlal-altrky-fy-alshhba-107718",
+      "text": "وكالة فرات\n\nمركز الاخبار\n\nالخميس, ١٨ يوليو ٢٠٢٤, ٢٢:٠٣\n\nأفاد مراسل وكالتنا في مقاطعة عفرين والشهباء بأن المواطن هورك حسين هورك (38 عاماً) أصيب بجروح إثر استهداف مسيّرة انتحارية تابعة لجيش الاحتلال التركي ومرتزقته، اليوم، محيط مشفى آفرين في بلدة فافين بمقاطعة عفرين والشهباء."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:32:40+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:32:41+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240718205705id_/https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/asabt-mwatn-fy-asthdaf-msyrt-antharyt-llahtlal-altrky-fy-alshhba-107718"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240718205705id_/https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/asabt-mwatn-fy-asthdaf-msyrt-antharyt-llahtlal-altrky-fy-alshhba-107718",
   "incident_ids": [
     "airwars-116896"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/روج آفا - سوريا/asabt-mwatn-fy-asthdaf-msyrt-antharyt-llahtlal-altrky-fy-alshhba-107718"
   ],
   "original_url": "https://anfarabic.com/روج آفا - سوريا/asabt-mwatn-fy-asthdaf-msyrt-antharyt-llahtlal-altrky-fy-alshhba-107718",
-  "page_title": "",
+  "page_title": "ANF |\nإصابة مواطن في استهداف مسيّرة انتحارية للاحتلال التركي في الشهباء إصابة مواطن في استهداف مسيّرة انتحارية للاحتلال التركي في الشهباء إصابة مواطن في استهداف مسيّرة انتحارية للاحتلال التركي في الشهباء",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts702-july-18-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:32:41+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-51981507128b9807cb5a6d1f",
   "source_type": "news_article",
   "stable_id_basis": "https://anfarabic.com/روج آفا - سوريا/asabt-mwatn-fy-asthdaf-msyrt-antharyt-llahtlal-altrky-fy-alshhba-107718",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "وكالة فرات\n\nمركز الاخبار\n\nالخميس, ١٨ يوليو ٢٠٢٤, ٢٢:٠٣\n\nأفاد مراسل وكالتنا في مقاطعة عفرين والشهباء بأن المواطن هورك حسين هورك (38 عاماً) أصيب بجروح إثر استهداف مسيّرة انتحارية تابعة لجيش الاحتلال التركي ومرتزقته، اليوم، محيط مشفى آفرين في بلدة فافين بمقاطعة عفرين والشهباء.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

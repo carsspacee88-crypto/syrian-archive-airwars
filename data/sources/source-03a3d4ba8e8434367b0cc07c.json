@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/wDVJU"
+    "https://archive.is/wDVJU",
+    "https://web.archive.org/web/20241206163824id_/https://orient-news.net/ar/news_show/193383/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A3%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B3%D8%B1%D9%85%D8%AF%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Orient",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "6826734dd7cfa8159feefb008eb6f275ea37b070f21b7fdb778ac1890ac02d37",
+  "content_variants": [
+    {
+      "bytes": 1660,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:28:46+00:00",
+      "sha256": "6826734dd7cfa8159feefb008eb6f275ea37b070f21b7fdb778ac1890ac02d37",
+      "source_url": "https://web.archive.org/web/20241206163824id_/https://orient-news.net/ar/news_show/193383/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A3%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B3%D8%B1%D9%85%D8%AF%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8",
+      "text": "الرئيسية\n\nأخبار وتقارير\n\nتحقيقات\n\nلقاء الأسبوع\n\nاقتصاد\n\nمنوعات\n\nرأي وتحليل\n\nالبرامج\n\nوأفاد مراسل أورينت أن ميليشيا أسد والاحتلال الروسي استهدفوا بأكثر من 20 قذيفة مدفعية طريق معبر باب الهوى- سرمدا، في حين قصفت الفصائل العسكرية بقذائف المدفعية الثقيلة تجمعات ميليشيا أسد وإيران في بلدة بسرطون بريف حلب الغربي رداً على استهداف المدنيين في المناطق المحررة.\n\nمن جهته، أوضح الدفاع المدني أن قصفاً مدفعياً لميليشيا أسد والاحتلال الروسي طال اليوم مرافق حيوية وخدمية والطريق الواصل بين باب الهوى وسرمدا بريف إدلب، مضيفاً أن فرق الإنقاذ انتشلت جثامين القتلى وأسعفت المصابين، كما قامت بإخماد النيران في ظل استمرار القصف على المنطقة.\n\nوأشار إلى أن ميليشيا أسد والاحتلال الروسي استهدفتا أيضاً اليوم بقذائف الهاون منازل المدنيين في بلدة البارة جنوب إدلب، موضحة أنه بعد البحث والتفقد للأماكن المستهدفة تبين عدم وجود إصابات بين المدنيين في تلك المنطقة.\n\nالتعليقات (1)\n\nأحمد المهاجر\n\nالأكثر قراءة\n\n💡 أهم المواضيع\n\n✨ أهم التصنيفات"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:28:45+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:28:46+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241206163824id_/https://orient-news.net/ar/news_show/193383/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A3%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B3%D8%B1%D9%85%D8%AF%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241206163824id_/https://orient-news.net/ar/news_show/193383/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A3%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B3%D8%B1%D9%85%D8%AF%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8",
   "incident_ids": [
     "airwars-79515"
   ],
@@ -85,10 +109,10 @@
     "https://orient-news.net/ar/news_show/193383/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A3%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B3%D8%B1%D9%85%D8%AF%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8"
   ],
   "original_url": "https://orient-news.net/ar/news_show/193383/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A3%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B3%D8%B1%D9%85%D8%AF%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8",
-  "page_title": "",
+  "page_title": "قتلى وجرحى مدنيون بقصف لميليشيا أسد على سرمدا بريف إدلب - أورينت نت قتلى وجرحى مدنيون بقصف لميليشيا أسد على سرمدا بريف إدلب قتلى وجرحى مدنيون بقصف لميليشيا أسد على سرمدا بريف إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4656-october-16-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:28:46+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-03a3d4ba8e8434367b0cc07c",
   "source_type": "news_article",
   "stable_id_basis": "https://orient-news.net/ar/news_show/193383/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7-%D8%A3%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B3%D8%B1%D9%85%D8%AF%D8%A7-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "الرئيسية\n\nأخبار وتقارير\n\nتحقيقات\n\nلقاء الأسبوع\n\nاقتصاد\n\nمنوعات\n\nرأي وتحليل\n\nالبرامج\n\nوأفاد مراسل أورينت أن ميليشيا أسد والاحتلال الروسي استهدفوا بأكثر من 20 قذيفة مدفعية طريق معبر باب الهوى- سرمدا، في حين قصفت الفصائل العسكرية بقذائف المدفعية الثقيلة تجمعات ميليشيا أسد وإيران في بلدة بسرطون بريف حلب الغربي رداً على استهداف المدنيين في المناطق المحررة.\n\nمن جهته، أوضح الدفاع المدني أن قصفاً مدفعياً لميليشيا أسد والاحتلال الروسي طال اليوم مرافق حيوية وخدمية والطريق الواصل بين باب الهوى وسرمدا بريف إدلب، مضيفاً أن فرق الإنقاذ انتشلت جثامين القتلى وأسعفت المصابين، كما قامت بإخماد النيران في ظل استمرار القصف على المنطقة.\n\nوأشار إلى أن ميليشيا أسد والاحتلال الروسي استهدفتا أيضاً اليوم بقذائف الهاون منازل المدنيين في بلدة البارة جنوب إدلب، موضحة أنه بعد البحث والتفقد للأماكن المستهدفة تبين عدم وجود إصابات بين المدنيين في تلك المنطقة.\n\nالتعليقات (1)\n\nأحمد المهاجر\n\nالأكثر قراءة\n\n💡 أهم المواضيع\n\n✨ أهم التصنيفات",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

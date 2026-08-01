@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20250621170734id_/https://npasyria.com/94027/"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "NPA Syria",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f088d5b4135820e9263b0189ae98c831af5392efcb764b75fe1202abf14142d7",
+  "content_variants": [
+    {
+      "bytes": 1591,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:46:24+00:00",
+      "sha256": "f088d5b4135820e9263b0189ae98c831af5392efcb764b75fe1202abf14142d7",
+      "source_url": "https://web.archive.org/web/20250621170734id_/https://npasyria.com/94027/",
+      "text": "“مسد” يستقبل وفداً من نازحي عفرين في الحسكة\n\nاجتماع بين مسد ووفد من نازحي عفرين في الحسكة ـ نورث برس\n\nالقامشلي ـ نورث برس\n\nاستقبل مجلس سوريا الديمقراطية (مسد)، الخميس، وفداً من المهجرين قسراً من عفرين، بالتزامن مع الذكرى السنوية الرابعة للعدوان التركي على المنطقة.\n\nوشدد مجلس سوريا الديمقراطية، على ضرورة إنهاء “الاحتلال” التركي ووقف الجرائم والانتهاكات الممنهجة التي تشهدها عفرين، وضمان عودة آمنة وكريمة للنازحين منها.\n\nكما ناقش المجتمعون، سبل وإمكانيات عودة سكان عفرين، والانتهاكات التركية على المنطقة، إضافة لأوضاع سكان الشهباء ووسائل إيصال المساعدات الإنسانية لهم.\n\nودعا المجتمعون المجتمع الدولي والدول الفاعلة في الملف السوري لتحمل مسؤولياتها القانونية والأخلاقية لإنهاء الكارثة المستمرة في عفرين ووقف معاناة سكانها المهجرين قسراً.\n\nوشددوا أيضاً على ضرورة إنهاء جرائم الحرب والجرائم ضد الإنسانية المرتكبة فيها وتقديم الجناة للعدالة.\n\nإعداد وتحرير: قيس العبدالله"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:46:24+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:46:24+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250621170734id_/https://npasyria.com/94027/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250621170734id_/https://npasyria.com/94027/",
   "incident_ids": [
     "airwars-81349"
   ],
@@ -55,10 +80,10 @@
     "https://npasyria.com/94027/"
   ],
   "original_url": "https://npasyria.com/94027/",
-  "page_title": "",
+  "page_title": "\"مسد\" يستقبل وفداً من نازحي عفرين في الحسكة - North press agency | وكالة نورث برس \"مسد\" يستقبل وفداً من نازحي عفرين في الحسكة - North press agency | وكالة نورث برس",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys122-january-20-2022/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:46:24+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-cc56fb2cde626551c9232bba",
   "source_type": "other_web_page",
   "stable_id_basis": "https://npasyria.com/94027/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "“مسد” يستقبل وفداً من نازحي عفرين في الحسكة\n\nاجتماع بين مسد ووفد من نازحي عفرين في الحسكة ـ نورث برس\n\nالقامشلي ـ نورث برس\n\nاستقبل مجلس سوريا الديمقراطية (مسد)، الخميس، وفداً من المهجرين قسراً من عفرين، بالتزامن مع الذكرى السنوية الرابعة للعدوان التركي على المنطقة.\n\nوشدد مجلس سوريا الديمقراطية، على ضرورة إنهاء “الاحتلال” التركي ووقف الجرائم والانتهاكات الممنهجة التي تشهدها عفرين، وضمان عودة آمنة وكريمة للنازحين منها.\n\nكما ناقش المجتمعون، سبل وإمكانيات عودة سكان عفرين، والانتهاكات التركية على المنطقة، إضافة لأوضاع سكان الشهباء ووسائل إيصال المساعدات الإنسانية لهم.\n\nودعا المجتمعون المجتمع الدولي والدول الفاعلة في الملف السوري لتحمل مسؤولياتها القانونية والأخلاقية لإنهاء الكارثة المستمرة في عفرين ووقف معاناة سكانها المهجرين قسراً.\n\nوشددوا أيضاً على ضرورة إنهاء جرائم الحرب والجرائم ضد الإنسانية المرتكبة فيها وتقديم الجناة للعدالة.\n\nإعداد وتحرير: قيس العبدالله",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

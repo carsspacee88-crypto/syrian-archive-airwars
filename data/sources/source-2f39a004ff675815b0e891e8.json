@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/esgZu"
+    "https://archive.md/esgZu",
+    "https://web.archive.org/web/20240525024629id_/https://www.facebook.com/syrtelevision/posts/1850266125168933"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syriatelevision",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a2cdda97b4f13128130b16a3b3a6b4300592f8bd5b04138cfe1d8bd434ddb197",
+  "content_variants": [
+    {
+      "bytes": 603,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:31:38+00:00",
+      "sha256": "a2cdda97b4f13128130b16a3b3a6b4300592f8bd5b04138cfe1d8bd434ddb197",
+      "source_url": "https://web.archive.org/web/20240525024629id_/https://www.facebook.com/syrtelevision/posts/1850266125168933",
+      "text": "\"شي مشوار بعيد كتير عن هالضغط والقرف\"\nآخر ما نشرته قبل سقوطها ضحية في #إدلب\n#متداول | صورة \"حالة واتساب\" للآنسة قمر بلال حافظ من مواليد عام 1993 التي...\n\n\"شي مشوار بعيد كتير عن هالضغط والقرف\"\nآخر ما نشرته قبل سقوطها ضحية في #إدلب\n#متداول | صورة \"حالة واتساب\" للآنسة قمر بلال حافظ من مواليد عام 1993 التي سقطت ضحية بقصف قوات الأسد على مدينة #أريحا..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:31:37+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:31:38+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525024629id_/https://www.facebook.com/syrtelevision/posts/1850266125168933"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525024629id_/https://www.facebook.com/syrtelevision/posts/1850266125168933",
   "incident_ids": [
     "airwars-79588"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/syrtelevision/posts/1850266125168933"
   ],
   "original_url": "https://www.facebook.com/syrtelevision/posts/1850266125168933",
-  "page_title": "",
+  "page_title": "Syria TV تلفزيون سوريا Syria TV تلفزيون سوريا \"شي مشوار بعيد كتير عن هالضغط... - Syria TV تلفزيون سوريا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4659-october-20-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:31:38+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2f39a004ff675815b0e891e8",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/syrtelevision/posts/1850266125168933",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "\"شي مشوار بعيد كتير عن هالضغط والقرف\"\nآخر ما نشرته قبل سقوطها ضحية في #إدلب\n#متداول | صورة \"حالة واتساب\" للآنسة قمر بلال حافظ من مواليد عام 1993 التي...\n\n\"شي مشوار بعيد كتير عن هالضغط والقرف\"\nآخر ما نشرته قبل سقوطها ضحية في #إدلب\n#متداول | صورة \"حالة واتساب\" للآنسة قمر بلال حافظ من مواليد عام 1993 التي سقطت ضحية بقصف قوات الأسد على مدينة #أريحا...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

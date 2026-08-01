@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/7EbAZ"
+    "https://archive.is/7EbAZ",
+    "https://web.archive.org/web/20240524165809id_/https://www.facebook.com/arebanews/posts/pfbid083JQTPfwPK3HYDFjLbESUc71KsdHZLQbNJzrRb7626J29gNKWoZFY8dh3tQa4WA9l"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Areba village",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "cb38211fddb2508d35f6d503caab2191b16ef2b6a71b0bf91260ed0a91fa2483",
+  "content_variants": [
+    {
+      "bytes": 609,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:43:38+00:00",
+      "sha256": "cb38211fddb2508d35f6d503caab2191b16ef2b6a71b0bf91260ed0a91fa2483",
+      "source_url": "https://web.archive.org/web/20240524165809id_/https://www.facebook.com/arebanews/posts/pfbid083JQTPfwPK3HYDFjLbESUc71KsdHZLQbNJzrRb7626J29gNKWoZFY8dh3tQa4WA9l",
+      "text": "#إدلب\nاللهم تقبل الشهداء وعافي الجرحى اللهم آمن روعات أهلنا في كافة المناطق المحررة وإحرسهم بعينك التي لا تنام يارب المظلومين\n\n#سرمين #أريحا...\n\n#إدلب\nاللهم تقبل الشهداء وعافي الجرحى اللهم آمن روعات أهلنا في كافة المناطق المحررة وإحرسهم بعينك التي لا تنام يارب المظلومين\n\n#سرمين #أريحا #جسر_الشغور #مجدليا #الوساطة #الصحن #البارة #الموزرة..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:43:35+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:43:38+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524165809id_/https://www.facebook.com/arebanews/posts/pfbid083JQTPfwPK3HYDFjLbESUc71KsdHZLQbNJzrRb7626J29gNKWoZFY8dh3tQa4WA9l"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524165809id_/https://www.facebook.com/arebanews/posts/pfbid083JQTPfwPK3HYDFjLbESUc71KsdHZLQbNJzrRb7626J29gNKWoZFY8dh3tQa4WA9l",
   "incident_ids": [
     "airwars-105974"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/arebanews/posts/pfbid083JQTPfwPK3HYDFjLbESUc71KsdHZLQbNJzrRb7626J29gNKWoZFY8dh3tQa4WA9l"
   ],
   "original_url": "https://www.facebook.com/arebanews/posts/pfbid083JQTPfwPK3HYDFjLbESUc71KsdHZLQbNJzrRb7626J29gNKWoZFY8dh3tQa4WA9l",
-  "page_title": "",
+  "page_title": "قرية عريبا - يوميات وصور قرية عريبا - يوميات وصور #إدلب\nاللهم تقبل الشهداء وعافي... - قرية عريبا - يوميات وصور",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4832-october-6-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:43:38+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b7d33a6ee97c40eadcc358be",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/arebanews/posts/pfbid083JQTPfwPK3HYDFjLbESUc71KsdHZLQbNJzrRb7626J29gNKWoZFY8dh3tQa4WA9l",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#إدلب\nاللهم تقبل الشهداء وعافي الجرحى اللهم آمن روعات أهلنا في كافة المناطق المحررة وإحرسهم بعينك التي لا تنام يارب المظلومين\n\n#سرمين #أريحا...\n\n#إدلب\nاللهم تقبل الشهداء وعافي الجرحى اللهم آمن روعات أهلنا في كافة المناطق المحررة وإحرسهم بعينك التي لا تنام يارب المظلومين\n\n#سرمين #أريحا #جسر_الشغور #مجدليا #الوساطة #الصحن #البارة #الموزرة...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

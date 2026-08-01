@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/2D9X0"
+    "https://archive.md/2D9X0",
+    "https://web.archive.org/web/20211108103806id_/https://twitter.com/YusufAd76532779/status/1457657924873031682"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@YusufAd76532779",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "7107ae7c49cc68e37516c2f44c70a4f8caa0532a4a74e87236589e5296d9c136",
+  "content_variants": [
+    {
+      "bytes": 540,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:29:37+00:00",
+      "sha256": "7107ae7c49cc68e37516c2f44c70a4f8caa0532a4a74e87236589e5296d9c136",
+      "source_url": "https://web.archive.org/web/20211108103806id_/https://twitter.com/YusufAd76532779/status/1457657924873031682",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\n#ديرالزور\nصورة الشاب \"مدلول العدس\" الذي قتلته ميليشيا #قسد اثناء مداهمة لمنزله في قرية #فنيجين في بادية #ابو_خشب غرب ديرالزور\n\n#مراسل_الشرقية_الرسمي pic.twitter.com/nUIlQCg9C2\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:29:35+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:29:37+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211108103806id_/https://twitter.com/YusufAd76532779/status/1457657924873031682"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211108103806id_/https://twitter.com/YusufAd76532779/status/1457657924873031682",
   "incident_ids": [
     "airwars-79930"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/YusufAd76532779/status/1457657924873031682"
   ],
   "original_url": "https://twitter.com/YusufAd76532779/status/1457657924873031682",
-  "page_title": "",
+  "page_title": "مراسل الشرقية on Twitter: \"#ديرالزور\nصورة الشاب \"مدلول العدس\" الذي قتلته ميليشيا #قسد اثناء مداهمة لمنزله في قرية #فنيجين في بادية #ابو_خشب غرب ديرالزور\n\n#مراسل_الشرقية_الرسمي ✅… https://t.co/ak1RiR5XDM\" مراسل الشرقية on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1971-november-8-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:29:37+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-1f24abcce1ea01249b437039",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/YusufAd76532779/status/1457657924873031682",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\n#ديرالزور\nصورة الشاب \"مدلول العدس\" الذي قتلته ميليشيا #قسد اثناء مداهمة لمنزله في قرية #فنيجين في بادية #ابو_خشب غرب ديرالزور\n\n#مراسل_الشرقية_الرسمي pic.twitter.com/nUIlQCg9C2\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/6Dejs"
+    "https://archive.md/6Dejs",
+    "https://web.archive.org/web/20240524220646id_/https://www.facebook.com/permalink.php?story_fbid=985474575645996&id=380935266099933"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Alhadath",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "691390184b19a33a89188352306a27c68609bce2ccb61e5c56939ec1f4275652",
+  "content_variants": [
+    {
+      "bytes": 621,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:48:45+00:00",
+      "sha256": "691390184b19a33a89188352306a27c68609bce2ccb61e5c56939ec1f4275652",
+      "source_url": "https://web.archive.org/web/20240524220646id_/https://www.facebook.com/permalink.php?story_fbid=985474575645996&id=380935266099933",
+      "text": "6 جرحى من عائلة واحدة بقصف مدفعي للنظام بريف إدلب\nأصيب 6 مدنيين من عائلة واحدة هم (4 أطفال ورجل وامرأة )، جراء تعرض منزلهم لقصف مدفعي من قبل قوات النظام...\n\n6 جرحى من عائلة واحدة بقصف مدفعي للنظام بريف إدلب\nأصيب 6 مدنيين من عائلة واحدة هم (4 أطفال ورجل وامرأة )، جراء تعرض منزلهم لقصف مدفعي من قبل قوات النظام في بلدة بنش شرقي إدلب اليوم الخميس.\nوبحسب..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:48:43+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:48:45+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524220646id_/https://www.facebook.com/permalink.php?story_fbid=985474575645996&id=380935266099933"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524220646id_/https://www.facebook.com/permalink.php?story_fbid=985474575645996&id=380935266099933",
   "incident_ids": [
     "airwars-80597"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/permalink.php?story_fbid=985474575645996&id=380935266099933"
   ],
   "original_url": "https://www.facebook.com/permalink.php?story_fbid=985474575645996&id=380935266099933",
-  "page_title": "",
+  "page_title": "Al Hadath Syria الحدث السوري Al Hadath Syria الحدث السوري 6 جرحى من عائلة واحدة بقصف... - Al Hadath Syria الحدث السوري",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4675-december-2-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:48:45+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f62e437e331f57ca3169c7b5",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=985474575645996&id=380935266099933",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "6 جرحى من عائلة واحدة بقصف مدفعي للنظام بريف إدلب\nأصيب 6 مدنيين من عائلة واحدة هم (4 أطفال ورجل وامرأة )، جراء تعرض منزلهم لقصف مدفعي من قبل قوات النظام...\n\n6 جرحى من عائلة واحدة بقصف مدفعي للنظام بريف إدلب\nأصيب 6 مدنيين من عائلة واحدة هم (4 أطفال ورجل وامرأة )، جراء تعرض منزلهم لقصف مدفعي من قبل قوات النظام في بلدة بنش شرقي إدلب اليوم الخميس.\nوبحسب...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

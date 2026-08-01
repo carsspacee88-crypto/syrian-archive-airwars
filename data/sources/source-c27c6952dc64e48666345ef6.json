@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/r4SAP"
+    "https://archive.is/r4SAP",
+    "https://web.archive.org/web/20240523204721id_/https://www.aljazeera.net/news/2022/2/16/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Al Jazeera",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ed7ee5f2d4d39b1940861729ebd35426eee26501c956a5d2214b82b6dd56a75d",
+  "content_variants": [
+    {
+      "bytes": 1566,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:43:52+00:00",
+      "sha256": "ed7ee5f2d4d39b1940861729ebd35426eee26501c956a5d2214b82b6dd56a75d",
+      "source_url": "https://web.archive.org/web/20240523204721id_/https://www.aljazeera.net/news/2022/2/16/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89",
+      "text": "سحب ضخمة من الدخان الأسود غطّت أجواء المنطقة نتيجة القصف (مواقع التواصل)\n\nقتل 4 مدنيين سوريين -في حصيلة غير نهائية- وأصيب آخرون اليوم الأربعاء جراء قصف مدفعي لقوات النظام طال مستودع محروقات في بلدة ترمانين بريف إدلب شمال غربي البلاد بالقسم الواقع تحت سيطرة المعارضة.\n\nوقال شهود عيان إن حريقا ضخما اندلع في المكان داخل خزانات الوقود إثر القصف، نتجت عنه سحب ضخمة من الدخان الأسود غطّت أجواء المنطقة.\n\nوعمل رجال إطفاء -مع آليات تابعة للدفاع المدني الناشط في مناطق سيطرة الفصائل- لساعات على إخماد النيران.\n\nوتتعرض مناطق تحت سيطرة المعارضة في إدلب ومحيطها منذ يونيو/حزيران الماضي لقصف متكرر من قوات النظام، ترد عليه الفصائل أحيانا باستهداف مواقع سيطرة القوات الحكومية في مناطق محاذية.\n\nويسري منذ السادس من مارس/آذار 2020 وقف لإطلاق النار في المنطقة أعقب هجوما واسعا شنّته قوات النظام بدعم روسي على مدى 3 أشهر، ولا يزال وقف إطلاق النار صامدا إلى حد كبير، رغم الخروق المتكررة."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:43:52+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:43:52+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240523204721id_/https://www.aljazeera.net/news/2022/2/16/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240523204721id_/https://www.aljazeera.net/news/2022/2/16/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89",
   "incident_ids": [
     "airwars-82010"
   ],
@@ -85,10 +109,10 @@
     "https://www.aljazeera.net/news/2022/2/16/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89"
   ],
   "original_url": "https://www.aljazeera.net/news/2022/2/16/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89",
-  "page_title": "",
+  "page_title": "سوريا.. قتلى مدنيون في قصف للنظام على مخزن محروقات بريف إدلب | أخبار | الجزيرة نت سوريا.. قتلى مدنيون في قصف للنظام على مخزن محروقات بريف إدلب سوريا.. قتلى مدنيون في قصف للنظام على مخزن محروقات بريف إدلب play أظهر القائمة الرئيسية play search aj-logo aj-logo aj-logo facebook twitter youtube instagram-colored-outline rss whatsapp telegram tiktok-colored-outline",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4690-february-16-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:43:52+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-c27c6952dc64e48666345ef6",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.aljazeera.net/news/2022/2/16/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "سحب ضخمة من الدخان الأسود غطّت أجواء المنطقة نتيجة القصف (مواقع التواصل)\n\nقتل 4 مدنيين سوريين -في حصيلة غير نهائية- وأصيب آخرون اليوم الأربعاء جراء قصف مدفعي لقوات النظام طال مستودع محروقات في بلدة ترمانين بريف إدلب شمال غربي البلاد بالقسم الواقع تحت سيطرة المعارضة.\n\nوقال شهود عيان إن حريقا ضخما اندلع في المكان داخل خزانات الوقود إثر القصف، نتجت عنه سحب ضخمة من الدخان الأسود غطّت أجواء المنطقة.\n\nوعمل رجال إطفاء -مع آليات تابعة للدفاع المدني الناشط في مناطق سيطرة الفصائل- لساعات على إخماد النيران.\n\nوتتعرض مناطق تحت سيطرة المعارضة في إدلب ومحيطها منذ يونيو/حزيران الماضي لقصف متكرر من قوات النظام، ترد عليه الفصائل أحيانا باستهداف مواقع سيطرة القوات الحكومية في مناطق محاذية.\n\nويسري منذ السادس من مارس/آذار 2020 وقف لإطلاق النار في المنطقة أعقب هجوما واسعا شنّته قوات النظام بدعم روسي على مدى 3 أشهر، ولا يزال وقف إطلاق النار صامدا إلى حد كبير، رغم الخروق المتكررة.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

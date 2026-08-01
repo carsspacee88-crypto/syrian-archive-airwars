@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/a21lL"
+    "https://archive.is/a21lL",
+    "https://web.archive.org/web/20251206204741id_/https://www.asianewslb.com/?page=article&id=135810"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Asia News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0da0d7b1037428374c72626e64bb3d9d89029fb4e1d7e381a153cd63f364b0dd",
+  "content_variants": [
+    {
+      "bytes": 1636,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:29:25+00:00",
+      "sha256": "0da0d7b1037428374c72626e64bb3d9d89029fb4e1d7e381a153cd63f364b0dd",
+      "source_url": "https://web.archive.org/web/20251206204741id_/https://www.asianewslb.com/?page=article&id=135810",
+      "text": "افريقيا\n\nاوروبا\n\nاميركا\n\nاسيا\n\nباسيفيك\n\nعن الوكالة\n\nأعلن معنا\n\nاتصل بنا\n\nEnglish\n\nFrançais\n\nEspañol\n\nمقتل وإصابة 5 مدنيين بانفجار مخلفات الحرب في مناطق متفرقة بسورية\n\nلا تزال مخلفات الحرب تزهق أرواح المدنيين في عموم المناطق السورية، وتشكل هاجس خوف للمواطنين، دون التوعية من مخاطرها بشكل كاف.\nوفي السياق، رصد نشطاء، خلال الـ 24 ساعة الفائتة، مقتل 4 مدنيين وإصابة طفل بجروح، نتيجة انفجار مخلفات الحرب على الأراضي السورية.\nوتوزعت حصيلة القتلى والجرحى كما يلي:\n-في 14 تشرين الثاني الجاري، قتل شابين بانفجار لغم أرضي من مخلفات الحرب، في قرية مقطع حجر كبير جنوبي منبج بريف حلب الشرقي.\n-واليوم 15 تشرين الثاني الجاري، قتل مواطنين اثنين جراء انفجار لغم أرضي من مخلفات الحرب على مفرق قرية العلوش بريف مدينة منبج ضمن مناطق نفوذ “قسد” بريف حلب الشرقي.\n-كما أصيب طفل يبلغ من العمر 9 سنوات بجروح بليغة، جراء انفجار لغم أرضي من مخلفات الحرب، في قرية كوكانة بريف عفرين شمالي حلب، حيث جرى نقله إلى مستشفى في مركز مدينة عفرين لتلقي العلاج."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:29:24+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:29:25+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251206204741id_/https://www.asianewslb.com/?page=article&id=135810"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251206204741id_/https://www.asianewslb.com/?page=article&id=135810",
   "incident_ids": [
     "airwars-85389"
   ],
@@ -85,10 +109,10 @@
     "https://www.asianewslb.com/?page=article&id=135810"
   ],
   "original_url": "https://www.asianewslb.com/?page=article&id=135810",
-  "page_title": "",
+  "page_title": "مقتل وإصابة 5 مدنيين بانفجار مخلفات الحرب في مناطق متفرقة بسورية - وكالة أنباء آسيا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys156-november-13-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:29:25+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-170d4c4a4ec419bb5d70dfa3",
   "source_type": "news_article",
   "stable_id_basis": "https://www.asianewslb.com/?page=article&id=135810",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "افريقيا\n\nاوروبا\n\nاميركا\n\nاسيا\n\nباسيفيك\n\nعن الوكالة\n\nأعلن معنا\n\nاتصل بنا\n\nEnglish\n\nFrançais\n\nEspañol\n\nمقتل وإصابة 5 مدنيين بانفجار مخلفات الحرب في مناطق متفرقة بسورية\n\nلا تزال مخلفات الحرب تزهق أرواح المدنيين في عموم المناطق السورية، وتشكل هاجس خوف للمواطنين، دون التوعية من مخاطرها بشكل كاف.\nوفي السياق، رصد نشطاء، خلال الـ 24 ساعة الفائتة، مقتل 4 مدنيين وإصابة طفل بجروح، نتيجة انفجار مخلفات الحرب على الأراضي السورية.\nوتوزعت حصيلة القتلى والجرحى كما يلي:\n-في 14 تشرين الثاني الجاري، قتل شابين بانفجار لغم أرضي من مخلفات الحرب، في قرية مقطع حجر كبير جنوبي منبج بريف حلب الشرقي.\n-واليوم 15 تشرين الثاني الجاري، قتل مواطنين اثنين جراء انفجار لغم أرضي من مخلفات الحرب على مفرق قرية العلوش بريف مدينة منبج ضمن مناطق نفوذ “قسد” بريف حلب الشرقي.\n-كما أصيب طفل يبلغ من العمر 9 سنوات بجروح بليغة، جراء انفجار لغم أرضي من مخلفات الحرب، في قرية كوكانة بريف عفرين شمالي حلب، حيث جرى نقله إلى مستشفى في مركز مدينة عفرين لتلقي العلاج.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

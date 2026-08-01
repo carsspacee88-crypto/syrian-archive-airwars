@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/Aeeon"
+    "https://archive.is/Aeeon",
+    "https://web.archive.org/web/20240524222419id_/https://www.facebook.com/RadioAlthawraa/posts/pfbid0QDX9nACkcVud2W6vQ2BF9YAH97kDQR8fPM9kTqjWpex3zovxBdqGKaam8ykmWZzel"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Revolution Radio",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "5e378054ce36756839f1dd3862c414bf0afe35a6b3ec25ad331dd9ad9c6f2b48",
+  "content_variants": [
+    {
+      "bytes": 244,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:38:06+00:00",
+      "sha256": "5e378054ce36756839f1dd3862c414bf0afe35a6b3ec25ad331dd9ad9c6f2b48",
+      "source_url": "https://web.archive.org/web/20240524222419id_/https://www.facebook.com/RadioAlthawraa/posts/pfbid0QDX9nACkcVud2W6vQ2BF9YAH97kDQR8fPM9kTqjWpex3zovxBdqGKaam8ykmWZzel",
+      "text": "#عاجل\nمراسلنا: إصابة 15 شخص من أهالي #سرمين شرقي #إدلب جراء استهداف عصابات الأسد أحياء المدينة بـ ـراجـ ـمات الصـ ـواريـ ـخ\n#راديو_الثورة"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:38:06+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:38:06+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524222419id_/https://www.facebook.com/RadioAlthawraa/posts/pfbid0QDX9nACkcVud2W6vQ2BF9YAH97kDQR8fPM9kTqjWpex3zovxBdqGKaam8ykmWZzel"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524222419id_/https://www.facebook.com/RadioAlthawraa/posts/pfbid0QDX9nACkcVud2W6vQ2BF9YAH97kDQR8fPM9kTqjWpex3zovxBdqGKaam8ykmWZzel",
   "incident_ids": [
     "airwars-101734"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/RadioAlthawraa/posts/pfbid0QDX9nACkcVud2W6vQ2BF9YAH97kDQR8fPM9kTqjWpex3zovxBdqGKaam8ykmWZzel"
   ],
   "original_url": "https://www.facebook.com/RadioAlthawraa/posts/pfbid0QDX9nACkcVud2W6vQ2BF9YAH97kDQR8fPM9kTqjWpex3zovxBdqGKaam8ykmWZzel",
-  "page_title": "",
+  "page_title": "راديو الثورة راديو الثورة راديو الثورة - #عاجل\nمراسلنا: إصابة 15 شخص من أهالي...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4818-october-5-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:38:06+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7acb97d12f5914757b8304ae",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/RadioAlthawraa/posts/pfbid0QDX9nACkcVud2W6vQ2BF9YAH97kDQR8fPM9kTqjWpex3zovxBdqGKaam8ykmWZzel",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#عاجل\nمراسلنا: إصابة 15 شخص من أهالي #سرمين شرقي #إدلب جراء استهداف عصابات الأسد أحياء المدينة بـ ـراجـ ـمات الصـ ـواريـ ـخ\n#راديو_الثورة",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/QgqYT"
+    "https://archive.is/QgqYT",
+    "https://web.archive.org/web/20220202134055id_/https://twitter.com/DeirEzzorNow/status/1488869912437211136"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@DeirEzzorNow",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "e83fb3b38c98f2700d25982f7243624719f090686ded0d411fb140472fd29dbf",
+  "content_variants": [
+    {
+      "bytes": 1527,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:34:40+00:00",
+      "sha256": "e83fb3b38c98f2700d25982f7243624719f090686ded0d411fb140472fd29dbf",
+      "source_url": "https://web.archive.org/web/20220202134055id_/https://twitter.com/DeirEzzorNow/status/1488869912437211136",
+      "text": "Deir Ezzore Now‏ @DeirEzzorNow\n\n1h1 hour ago\n\nMore\n\nCopy link to Tweet\n\nEmbed Tweet\n\n#حلب | #الباب\n\nقصف مدفعي مصدرهُ مناطق سيطرة #قسد يستهدف أحياء مدينة #الباب، و (5) شهداء وعدد كبير من الجرحى حصيلة أولية، تم استهداف مسجد النعساني خلال القصف كذلك.pic.twitter.com/dGt3W8FQd0\n\n1 reply\n\n0 retweets\n\n0 likes\n\nReply\n\n1\n\nRetweet\n\nRetweeted\n\nLike\n\nLiked\n\nShow this thread\n\nCopy link to Tweet\n\nEmbed Tweet\n\n#حلب | #الباب\n\nقصف مدفعي مصدرهُ مناطق سيطرة #قسد يستهدف أحياء مدينة #الباب، و (5) شهداء وعدد كبير من الجرحى حصيلة أولية، تم استهداف مسجد النعساني خلال القصف كذلك.pic.twitter.com/dGt3W8FQd0\n\nCopy link to Tweet\n\nEmbed Tweet\n\n(10) شهداء وحوالي 25 جريحاً نتيجة القصف الذي طال الباب، من بين الشهداء في مدينة الباب : محمد عبد الرزاق الشيخ عيسى من أبناء مدينة الميادين وهناك اصابات من مُهجري ديرالزور بينهم 3 من مدبنة البوكمال هم :\n-ياسر الاصيل (تم اسعافه لتركيا)\n- عزام الجليد\n- عبدالعزيز الدبس\n\n1 Retweet\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:34:39+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:34:40+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220202134055id_/https://twitter.com/DeirEzzorNow/status/1488869912437211136"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220202134055id_/https://twitter.com/DeirEzzorNow/status/1488869912437211136",
   "incident_ids": [
     "airwars-81727"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/DeirEzzorNow/status/1488869912437211136"
   ],
   "original_url": "https://twitter.com/DeirEzzorNow/status/1488869912437211136",
-  "page_title": "",
+  "page_title": "Deir Ezzore Now on Twitter: \"(10) شهداء وحوالي 25 جريحاً نتيجة القصف الذي طال الباب، من بين الشهداء في مدينة الباب : محمد عبد الرزاق الشيخ عيسى من أبناء مدينة الميادين وهناك اصابات من مُهجري ديرالزور بينهم 3 من مدبنة البوكمال هم :\n-ياسر الاصيل (تم اسعافه لتركيا)\n- عزام الجليد\n- عبدالعزيز الدبس\" Deir Ezzore Now on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys123-february-2-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:34:40+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5ea1f2526096874c34027494",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/DeirEzzorNow/status/1488869912437211136",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Deir Ezzore Now‏ @DeirEzzorNow\n\n1h1 hour ago\n\nMore\n\nCopy link to Tweet\n\nEmbed Tweet\n\n#حلب | #الباب\n\nقصف مدفعي مصدرهُ مناطق سيطرة #قسد يستهدف أحياء مدينة #الباب، و (5) شهداء وعدد كبير من الجرحى حصيلة أولية، تم استهداف مسجد النعساني خلال القصف كذلك.pic.twitter.com/dGt3W8FQd0\n\n1 reply\n\n0 retweets\n\n0 likes\n\nReply\n\n1\n\nRetweet\n\nRetweeted\n\nLike\n\nLiked\n\nShow this thread\n\nCopy link to Tweet\n\nEmbed Tweet\n\n#حلب | #الباب\n\nقصف مدفعي مصدرهُ مناطق سيطرة #قسد يستهدف أحياء مدينة #الباب، و (5) شهداء وعدد كبير من الجرحى حصيلة أولية، تم استهداف مسجد النعساني خلال القصف كذلك.pic.twitter.com/dGt3W8FQd0\n\nCopy link to Tweet\n\nEmbed Tweet\n\n(10) شهداء وحوالي 25 جريحاً نتيجة القصف الذي طال الباب، من بين الشهداء في مدينة الباب : محمد عبد الرزاق الشيخ عيسى من أبناء مدينة الميادين وهناك اصابات من مُهجري ديرالزور بينهم 3 من مدبنة البوكمال هم :\n-ياسر الاصيل (تم اسعافه لتركيا)\n- عزام الجليد\n- عبدالعزيز الدبس\n\n1 Retweet\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

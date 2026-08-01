@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/HdFDr"
+    "https://archive.md/HdFDr",
+    "https://web.archive.org/web/20240525030531id_/https://hibrpress.com/v2/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%B9%D9%84%D9%89-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D9%8A/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Hibr Press",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "780519c9a8b7f163d8f9448945cd53cb4dcb8276375cff57baa8f4efb975a81f",
+  "content_variants": [
+    {
+      "bytes": 1467,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:39:32+00:00",
+      "sha256": "780519c9a8b7f163d8f9448945cd53cb4dcb8276375cff57baa8f4efb975a81f",
+      "source_url": "https://web.archive.org/web/20240525030531id_/https://hibrpress.com/v2/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%B9%D9%84%D9%89-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D9%8A/",
+      "text": "شهيدان بقصف مدفعي على جبل الزاوية في ريف إدلب\n\nارتقى شخصان وأصيب آخرون بقصف مصدره قوات الأسد على بلدة عين لاروز في جبل الزاوية جنوبي إدلب، اليوم الأربعاء.\n\nوقامت ميليشيا نظام الأسد بقصفِ بلدة عين لاروز في جبل الزاوية بقذائف مدفعية من نوع “كراسنوبول الليزرية” ليذهب ضحية ذلك شهيدان وعدد من الجرحى وخسائر في المنازل.\n\nلمتابعة كل جديد اشترك في قناة صحيفة حبر على تلغرام اضغط هنا\n\nوقصفت ميليشيا نظام الأسد أيضاً قرية كفر تعال في ريف حلب الغربي، بأكثر من 40 قذيفة دون وقوع أي إصابات.\n\nوتشهد المناطق المحررة تصعيداً على القرى والبلدات المحاذية والتي تقع على مقربة من خطوط التماس مع ميليشيا نظام الأسد والمليشيات الإيرانية وميليشيا قسد.\n\nابن زايد يصل تركيا ويلتقي أردوغان لتطوير التعاون بين البلدين\nيذكر أن نظام الأسد قام بتصعيد قصفه على المناطق المحررة عامةً، مسببةً أضراراً مادية وشهداء وجرحى خلال الفترة الماضية."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:39:31+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:39:32+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525030531id_/https://hibrpress.com/v2/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%B9%D9%84%D9%89-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D9%8A/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525030531id_/https://hibrpress.com/v2/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%B9%D9%84%D9%89-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D9%8A/",
   "incident_ids": [
     "airwars-80278"
   ],
@@ -85,10 +109,10 @@
     "https://hibrpress.com/v2/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%B9%D9%84%D9%89-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D9%8A/"
   ],
   "original_url": "https://hibrpress.com/v2/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%B9%D9%84%D9%89-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D9%8A/",
-  "page_title": "",
+  "page_title": "شهيدان بقصف مدفعي على جبل الزاوية في ريف إدلب - صحيفة حبر شهيدان بقصف مدفعي على جبل الزاوية في ريف إدلب - صحيفة حبر",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4671-november-24-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:39:32+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9a9f73acc5d1709e4edf4ab4",
   "source_type": "news_article",
   "stable_id_basis": "https://hibrpress.com/v2/%D8%B4%D9%87%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%B9%D9%84%D9%89-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D9%8A/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "شهيدان بقصف مدفعي على جبل الزاوية في ريف إدلب\n\nارتقى شخصان وأصيب آخرون بقصف مصدره قوات الأسد على بلدة عين لاروز في جبل الزاوية جنوبي إدلب، اليوم الأربعاء.\n\nوقامت ميليشيا نظام الأسد بقصفِ بلدة عين لاروز في جبل الزاوية بقذائف مدفعية من نوع “كراسنوبول الليزرية” ليذهب ضحية ذلك شهيدان وعدد من الجرحى وخسائر في المنازل.\n\nلمتابعة كل جديد اشترك في قناة صحيفة حبر على تلغرام اضغط هنا\n\nوقصفت ميليشيا نظام الأسد أيضاً قرية كفر تعال في ريف حلب الغربي، بأكثر من 40 قذيفة دون وقوع أي إصابات.\n\nوتشهد المناطق المحررة تصعيداً على القرى والبلدات المحاذية والتي تقع على مقربة من خطوط التماس مع ميليشيا نظام الأسد والمليشيات الإيرانية وميليشيا قسد.\n\nابن زايد يصل تركيا ويلتقي أردوغان لتطوير التعاون بين البلدين\nيذكر أن نظام الأسد قام بتصعيد قصفه على المناطق المحررة عامةً، مسببةً أضراراً مادية وشهداء وجرحى خلال الفترة الماضية.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

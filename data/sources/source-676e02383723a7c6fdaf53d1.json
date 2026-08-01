@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/flRnh"
+    "https://archive.ph/flRnh",
+    "https://web.archive.org/web/20240426065515id_/https://anfarabic.com/akhr-l-khbr/s-104732"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "4b0938a633a98e501befd1cb18cc6011bef5039fd4e8239c53c1113c269c2850",
+  "content_variants": [
+    {
+      "bytes": 796,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:35:29+00:00",
+      "sha256": "4b0938a633a98e501befd1cb18cc6011bef5039fd4e8239c53c1113c269c2850",
+      "source_url": "https://web.archive.org/web/20240426065515id_/https://anfarabic.com/akhr-l-khbr/s-104732",
+      "text": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالجمعة, ٢٦ أبريل ٢٠٢٤, ٠٩:٣٨\n\nنشر المركز الإعلامي لمجلس منبج العسكري معلومات على موقعه الرسمي، عن القصف الذي استهدف قرية شمال مدينة منبج، وقال:\" جيش الاحتلال التركي ومرتزقته جددوا قصفهم على قرى منبج الآهلة بالسكان في ساعات الليل المتأخرة وتركز القصف على منزلين في قرية عون الدادات شمالي المدينة، مما أسفر عن أضرار مادية في المنزلين وإصابة طفلة في بطنها وهي تخضع حالياً لعلاج في مشفى التخصصي في مدينة منبج\"."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:35:29+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:35:29+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240426065515id_/https://anfarabic.com/akhr-l-khbr/s-104732"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240426065515id_/https://anfarabic.com/akhr-l-khbr/s-104732",
   "incident_ids": [
     "airwars-115967"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/akhr-l-khbr/s-104732"
   ],
   "original_url": "https://anfarabic.com/akhr-l-khbr/s-104732",
-  "page_title": "",
+  "page_title": "ANF |\nقصف الاحتلال التركي على قرية في منبج يسفر عن إصابة طفلة قصف الاحتلال التركي على قرية في منبج يسفر عن إصابة طفلة قصف الاحتلال التركي على قرية في منبج يسفر عن إصابة طفلة",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts691-april-25-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:35:29+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-676e02383723a7c6fdaf53d1",
   "source_type": "news_article",
   "stable_id_basis": "https://anfarabic.com/akhr-l-khbr/s-104732",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالجمعة, ٢٦ أبريل ٢٠٢٤, ٠٩:٣٨\n\nنشر المركز الإعلامي لمجلس منبج العسكري معلومات على موقعه الرسمي، عن القصف الذي استهدف قرية شمال مدينة منبج، وقال:\" جيش الاحتلال التركي ومرتزقته جددوا قصفهم على قرى منبج الآهلة بالسكان في ساعات الليل المتأخرة وتركز القصف على منزلين في قرية عون الدادات شمالي المدينة، مما أسفر عن أضرار مادية في المنزلين وإصابة طفلة في بطنها وهي تخضع حالياً لعلاج في مشفى التخصصي في مدينة منبج\".",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

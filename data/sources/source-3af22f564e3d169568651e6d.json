@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/E9Mze"
+    "https://archive.is/E9Mze",
+    "https://web.archive.org/web/20240525025012id_/https://www.facebook.com/trmaninalaraqa/posts/985488579038695"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Tramnin",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1705c8812900f44f16672cda725facf06dc6a06a9222332d44a8c27753625b9b",
+  "content_variants": [
+    {
+      "bytes": 649,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:32:28+00:00",
+      "sha256": "1705c8812900f44f16672cda725facf06dc6a06a9222332d44a8c27753625b9b",
+      "source_url": "https://web.archive.org/web/20240525025012id_/https://www.facebook.com/trmaninalaraqa/posts/985488579038695",
+      "text": "{{بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ}}\n{{كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ الْقِيَامَةِ ۖ فَمَن زُحْزِحَ...\n\n{{بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ}}\n{{كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ الْقِيَامَةِ ۖ فَمَن زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ الْجَنَّةَ فَقَدْ..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:32:27+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:32:28+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525025012id_/https://www.facebook.com/trmaninalaraqa/posts/985488579038695"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525025012id_/https://www.facebook.com/trmaninalaraqa/posts/985488579038695",
   "incident_ids": [
     "airwars-82010"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/trmaninalaraqa/posts/985488579038695"
   ],
   "original_url": "https://www.facebook.com/trmaninalaraqa/posts/985488579038695",
-  "page_title": "",
+  "page_title": "ترمانين العراقة ترمانين العراقة ترمانين العراقة - {{بِسْمِ اللَّهِ الرَّحْمَٰنِ...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4690-february-16-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:32:28+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-3af22f564e3d169568651e6d",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/trmaninalaraqa/posts/985488579038695",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "{{بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ}}\n{{كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ الْقِيَامَةِ ۖ فَمَن زُحْزِحَ...\n\n{{بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ}}\n{{كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ الْقِيَامَةِ ۖ فَمَن زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ الْجَنَّةَ فَقَدْ...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

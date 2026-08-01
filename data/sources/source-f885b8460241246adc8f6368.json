@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/Ty2NI"
+    "https://archive.is/Ty2NI",
+    "https://web.archive.org/web/20250118075824id_/https://news.snhr.org/2023/01/21/7-civilians-injured-in-sdf-rocket-launcher-attack-in-northern-aleppo-governorate-january-20-2023/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Network for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "6ded273b9d79035a4df94963b4e6928ef5fdcd79cdf7591a4b8b269dc32ff863",
+  "content_variants": [
+    {
+      "bytes": 940,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:48:51+00:00",
+      "sha256": "6ded273b9d79035a4df94963b4e6928ef5fdcd79cdf7591a4b8b269dc32ff863",
+      "source_url": "https://web.archive.org/web/20250118075824id_/https://news.snhr.org/2023/01/21/7-civilians-injured-in-sdf-rocket-launcher-attack-in-northern-aleppo-governorate-january-20-2023/",
+      "text": "Date:\n\n7 civilians injured in SDF rocket launcher attack in northern Aleppo governorate, January 20, 2023\n\nRelated News\n\nMan named Zakkour al-Fouzi killed by a landmine of unidentified source in W. Deir Ez-Zour, January 15, 2025\n\nMan named Ayyash al-Abd shot dead by unidentified gunmen in E. Deir Ez-Zour, January 15, 2025\n\nTwo civilians injured by a landmine of unidentified source in E. Hama, January 14, 2025\n\nOn January 20, 2023, Syrian Democratic Forces (SDF) used rocket launcher to bomb residential neighborhoods in southern Izaz city in the northern suburbs of Aleppo governorate, injuring seven civilians, including one child, one woman, and four civilian police officers. Additionally, some houses suffered damages.\n\nThe Syrian Network for Human Rights (SNHR) condemns any attacks on vital facilities and civilian-populated areas. We hold the SDF responsible for this attack, and demand that an investigation be launched into it."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:48:51+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:48:51+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250118075824id_/https://news.snhr.org/2023/01/21/7-civilians-injured-in-sdf-rocket-launcher-attack-in-northern-aleppo-governorate-january-20-2023/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250118075824id_/https://news.snhr.org/2023/01/21/7-civilians-injured-in-sdf-rocket-launcher-attack-in-northern-aleppo-governorate-january-20-2023/",
   "incident_ids": [
     "airwars-87284"
   ],
@@ -85,10 +109,10 @@
     "https://news.snhr.org/2023/01/21/7-civilians-injured-in-sdf-rocket-launcher-attack-in-northern-aleppo-governorate-january-20-2023/"
   ],
   "original_url": "https://news.snhr.org/2023/01/21/7-civilians-injured-in-sdf-rocket-launcher-attack-in-northern-aleppo-governorate-january-20-2023/",
-  "page_title": "",
+  "page_title": "7 civilians injured in SDF rocket launcher attack in northern Aleppo governorate, January 20, 2023 7 civilians injured in SDF rocket launcher attack in northern Aleppo governorate, January 20, 2023 7 civilians injured in SDF rocket launcher attack in northern Aleppo governorate, January 20, 2023",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys164-january-20-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:48:51+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f885b8460241246adc8f6368",
   "source_type": "news_article",
   "stable_id_basis": "https://news.snhr.org/2023/01/21/7-civilians-injured-in-sdf-rocket-launcher-attack-in-northern-aleppo-governorate-january-20-2023/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Date:\n\n7 civilians injured in SDF rocket launcher attack in northern Aleppo governorate, January 20, 2023\n\nRelated News\n\nMan named Zakkour al-Fouzi killed by a landmine of unidentified source in W. Deir Ez-Zour, January 15, 2025\n\nMan named Ayyash al-Abd shot dead by unidentified gunmen in E. Deir Ez-Zour, January 15, 2025\n\nTwo civilians injured by a landmine of unidentified source in E. Hama, January 14, 2025\n\nOn January 20, 2023, Syrian Democratic Forces (SDF) used rocket launcher to bomb residential neighborhoods in southern Izaz city in the northern suburbs of Aleppo governorate, injuring seven civilians, including one child, one woman, and four civilian police officers. Additionally, some houses suffered damages.\n\nThe Syrian Network for Human Rights (SNHR) condemns any attacks on vital facilities and civilian-populated areas. We hold the SDF responsible for this attack, and demand that an investigation be launched into it.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

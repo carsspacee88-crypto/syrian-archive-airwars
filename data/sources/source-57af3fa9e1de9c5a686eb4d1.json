@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/1I0yc"
+    "https://archive.is/1I0yc",
+    "https://web.archive.org/web/20251001171521id_/https://anfenglishmobile.com/rojava-syria/pyd-calls-for-international-action-and-closure-of-airspace-amidst-deadly-turkish-attacks-61706"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Ajansa Nûçeyan a Firatê",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "76116e1000e0c3fdd8dc888fbbf150d0f62f5720905697d371513ed7641617aa",
+  "content_variants": [
+    {
+      "bytes": 2873,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:33:25+00:00",
+      "sha256": "76116e1000e0c3fdd8dc888fbbf150d0f62f5720905697d371513ed7641617aa",
+      "source_url": "https://web.archive.org/web/20251001171521id_/https://anfenglishmobile.com/rojava-syria/pyd-calls-for-international-action-and-closure-of-airspace-amidst-deadly-turkish-attacks-61706",
+      "text": "ANF\n\nNEWS DESK\n\nSunday, 7 August 2022, 13:09\n\nThe General Assembly of the Democratic Union Party (PYD) released a statement regarding the attacks by the Turkish state against North and East Syria and stated that the plans of the Turkish occupation state came over in a new phase more than 2 months ago.\n\nThe statement released by PYD on Sunday reads as follows:\n\n“On August 6, 2022, a drone of the Turkish occupation state targeted a car in the Sinaa neighborhood, resulting in 4 people being martyred, 2 of whom were children, and the injury of some others. In addition, material damage was caused to the houses and properties of the citizens. 2 days before this attack, a suicide drone of the Turkish occupation state targeted the center of Tel Rifaat, where 9 citizens were injured, including 6 children.\n\nFor more than 2 months, the plans of the Turkish occupation state to carry out demographic change along the whole Syrian border came over into a new phase. Since the beginning of the Syrian crisis and through direct and indirect occupation of Syrian territory, the Turkish forces have occupied large areas of Syria and imposed all forms of Turkification and Ottomanism on them.\n\nThe acts of the Turkish state during this phase have been to carry out attacks with UAV’s, targeting the citizens, the Internal Security Forces, the Syrian Democratic Forces (SDF). These acts are part of their continuation of plans to wage a total war against the Autonomous Administration of North and East Syria (AANES) and its components. This is to weaken the potential of the people and the forces who played important roles in defeating ISIS.\n\nThe flying of planes of the Turkish occupation army in the airspace of Syria violates international agreements. The Islamic nationalist regime carries out hostile acts represented by the AKP against the free people and democratic forces in the region. This takes place in the context of satisfying their bloody desires against the citizens of the region, especially the Kurdish people.\n\nWe condemn the crimes carried out by the Turkish occupation state and their mercenary and terrorist groups against the citizens of North and East Syria. We also call on the international community and the international guarantor forces to make agreements with the Turkish occupation state in order to prevent further attacks by the Turkish occupation and stop them from carrying out more criminal acts against the people of North and East Syria.\n\nWe call on the UN Security Council to prohibit Turkish planes from entering the airspace over the region.\n\nWe call on international organizations to set up investigative committees into the crimes carried out by the Turkish occupation state and their affiliated mercenaries and to demand accountability for the crimes they have carried out and to end the Turkish occupation of Syrian territory.”"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:33:25+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:33:25+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251001171521id_/https://anfenglishmobile.com/rojava-syria/pyd-calls-for-international-action-and-closure-of-airspace-amidst-deadly-turkish-attacks-61706"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251001171521id_/https://anfenglishmobile.com/rojava-syria/pyd-calls-for-international-action-and-closure-of-airspace-amidst-deadly-turkish-attacks-61706",
   "incident_ids": [
     "airwars-84361"
   ],
@@ -85,10 +109,10 @@
     "https://anfenglishmobile.com/rojava-syria/pyd-calls-for-international-action-and-closure-of-airspace-amidst-deadly-turkish-attacks-61706"
   ],
   "original_url": "https://anfenglishmobile.com/rojava-syria/pyd-calls-for-international-action-and-closure-of-airspace-amidst-deadly-turkish-attacks-61706",
-  "page_title": "",
+  "page_title": "ANF |\nPYD calls for international action and closure of airspace amidst deadly Turkish attacks PYD calls for international action and closure of airspace amidst deadly Turkish attacks PYD calls for international action and closure of airspace amidst deadly Turkish attacks",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts539-august-6-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:33:25+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-57af3fa9e1de9c5a686eb4d1",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfenglishmobile.com/rojava-syria/pyd-calls-for-international-action-and-closure-of-airspace-amidst-deadly-turkish-attacks-61706",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ANF\n\nNEWS DESK\n\nSunday, 7 August 2022, 13:09\n\nThe General Assembly of the Democratic Union Party (PYD) released a statement regarding the attacks by the Turkish state against North and East Syria and stated that the plans of the Turkish occupation state came over in a new phase more than 2 months ago.\n\nThe statement released by PYD on Sunday reads as follows:\n\n“On August 6, 2022, a drone of the Turkish occupation state targeted a car in the Sinaa neighborhood, resulting in 4 people being martyred, 2 of whom were children, and the injury of some others. In addition, material damage was caused to the houses and properties of the citizens. 2 days before this attack, a suicide drone of the Turkish occupation state targeted the center of Tel Rifaat, where 9 citizens were injured, including 6 children.\n\nFor more than 2 months, the plans of the Turkish occupation state to carry out demographic change along the whole Syrian border came over into a new phase. Since the beginning of the Syrian crisis and through direct and indirect occupation of Syrian territory, the Turkish forces have occupied large areas of Syria and imposed all forms of Turkification and Ottomanism on them.\n\nThe acts of the Turkish state during this phase have been to carry out attacks with UAV’s, targeting the citizens, the Internal Security Forces, the Syrian Democratic Forces (SDF). These acts are part of their continuation of plans to wage a total war against the Autonomous Administration of North and East Syria (AANES) and its components. This is to weaken the potential of the people and the forces who played important roles in defeating ISIS.\n\nThe flying of planes of the Turkish occupation army in the airspace of Syria violates international agreements. The Islamic nationalist regime carries out hostile acts represented by the AKP against the free people and democratic forces in the region. This takes place in the context of satisfying their bloody desires against the citizens of the region, especially the Kurdish people.\n\nWe condemn the crimes carried out by the Turkish occupation state and their mercenary and terrorist groups against the citizens of North and East Syria. We also call on the international community and the international guarantor forces to make agreements with the Turkish occupation state in order to prevent further attacks by the Turkish occupation and stop them from carrying out more criminal acts against the people of North and East Syria.\n\nWe call on the UN Security Council to prohibit Turkish planes from entering the airspace over the region.\n\nWe call on international organizations to set up investigative committees into the crimes carried out by the Turkish occupation state and their affiliated mercenaries and to demand accountability for the crimes they have carried out and to end the Turkish occupation of Syrian territory.”",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

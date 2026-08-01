@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/wXh1z"
+    "https://archive.ph/wXh1z",
+    "https://web.archive.org/web/20230715114045id_/https://www.raialyoum.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-4-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Raialyoum",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1a88b932387cbf344a17a29773d0c6a5657891b1b6d1f1584c2e632fcefd3e41",
+  "content_variants": [
+    {
+      "bytes": 1793,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:29:03+00:00",
+      "sha256": "1a88b932387cbf344a17a29773d0c6a5657891b1b6d1f1584c2e632fcefd3e41",
+      "source_url": "https://web.archive.org/web/20230715114045id_/https://www.raialyoum.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-4-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81/",
+      "text": "دمشق-( د ب أ ) – لقي أربعة سوريين، بينهم أم وطفلتان، في قصف بقذيفة صاروخية على بلدة أورم الكبرى بريف حلب.\nووفق الوكالة العربية السورية للأنباء ( سانا ) اليوم الثلاثاء ، جاء ذلك “جراء اعتداء التنظيمات الإرهابية بقذيفة صاروخية على بلدة أورم الكبرى بريف حلب” .\nوقال المرصد السوري لحقوق الإنسان إن “عائلة كاملة مؤلفة من أربعة أفراد هم الأب والأم وطفلتان قتلوا جراء سقوط قذائف على منزلهم إثر قصف مدفعي لفصائل غرفة عمليات “الفتح المبين”، أمس، على بلدة أورم الكبرى ضمن مناطق سيطرة قوات النظام في ريف حلب الغربي”.\nواستهدفت فصائل المعارضة مواقع قوات السورية في الدار الكبيرة والملاجة بريف إدلب الجنوبي، دون تسجيل خسائر بشرية.\n\nالاعلانات\n\nشروط التعليق:\n\nالتزام زوار \"راي اليوم\" بلياقات التفاعل مع المواد المنشورة ومواضيعها المطروحة، وعدم تناول الشخصيات والمقامات الدينية والدنيوية والكتّاب، بكلام جارح ونابِ ومشين، وعدم المساس بالشعوب والأعراق والإثنيات والأوطان بالسوء، وعلى ان يكون التعليق مختصرا بقدر الامكان. وان لا يزيد التعليق عن 100 كلمة، والا سنعتذر عن عدم النشر.\n\nاضافة تعليق إلغاء الرد"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:29:02+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:29:03+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230715114045id_/https://www.raialyoum.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-4-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230715114045id_/https://www.raialyoum.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-4-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81/",
   "incident_ids": [
     "airwars-89761"
   ],
@@ -85,10 +109,10 @@
     "https://www.raialyoum.com/سوريا-مقتل-4-أشخاص-في-قصف-صاروخي-على-ريف/"
   ],
   "original_url": "https://www.raialyoum.com/سوريا-مقتل-4-أشخاص-في-قصف-صاروخي-على-ريف/",
-  "page_title": "",
+  "page_title": "سوريا : مقتل 4 أشخاص في قصف صاروخي على ريف حلب | رأي اليوم سوريا : مقتل 4 أشخاص في قصف صاروخي على ريف حلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts607-july-4-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:29:03+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0958dc379fe05170a53279d6",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.raialyoum.com/سوريا-مقتل-4-أشخاص-في-قصف-صاروخي-على-ريف/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "دمشق-( د ب أ ) – لقي أربعة سوريين، بينهم أم وطفلتان، في قصف بقذيفة صاروخية على بلدة أورم الكبرى بريف حلب.\nووفق الوكالة العربية السورية للأنباء ( سانا ) اليوم الثلاثاء ، جاء ذلك “جراء اعتداء التنظيمات الإرهابية بقذيفة صاروخية على بلدة أورم الكبرى بريف حلب” .\nوقال المرصد السوري لحقوق الإنسان إن “عائلة كاملة مؤلفة من أربعة أفراد هم الأب والأم وطفلتان قتلوا جراء سقوط قذائف على منزلهم إثر قصف مدفعي لفصائل غرفة عمليات “الفتح المبين”، أمس، على بلدة أورم الكبرى ضمن مناطق سيطرة قوات النظام في ريف حلب الغربي”.\nواستهدفت فصائل المعارضة مواقع قوات السورية في الدار الكبيرة والملاجة بريف إدلب الجنوبي، دون تسجيل خسائر بشرية.\n\nالاعلانات\n\nشروط التعليق:\n\nالتزام زوار \"راي اليوم\" بلياقات التفاعل مع المواد المنشورة ومواضيعها المطروحة، وعدم تناول الشخصيات والمقامات الدينية والدنيوية والكتّاب، بكلام جارح ونابِ ومشين، وعدم المساس بالشعوب والأعراق والإثنيات والأوطان بالسوء، وعلى ان يكون التعليق مختصرا بقدر الامكان. وان لا يزيد التعليق عن 100 كلمة، والا سنعتذر عن عدم النشر.\n\nاضافة تعليق إلغاء الرد",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/ZHlAN"
+    "https://archive.md/ZHlAN",
+    "https://web.archive.org/web/20240620144640id_/https://www.radioalkul.com/p417874/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Radio Al Kul",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "280859af894b24fae1965d34440f3b53719cdff72ca049de036a7dc717fb44e4",
+  "content_variants": [
+    {
+      "bytes": 414,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:28:40+00:00",
+      "sha256": "280859af894b24fae1965d34440f3b53719cdff72ca049de036a7dc717fb44e4",
+      "source_url": "https://web.archive.org/web/20240620144640id_/https://www.radioalkul.com/p417874/",
+      "text": "مقالات ذات صلة\n\nالنصف الممتلئ: خطاب الكراهية\n\nالنصف الممتلئ: عيد الأضحى المبارك\n\nملف اليوم: أكثر من 20 قتيلاً بينهم ضباط في كمين لد!عش ضد قوات النظام في البادية السورية\n\nنشرة أخبار التاسعة مساءً من راديو وتلفزيون الكل | الخميس 13-06-2024"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:28:40+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:28:40+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240620144640id_/https://www.radioalkul.com/p417874/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240620144640id_/https://www.radioalkul.com/p417874/",
   "incident_ids": [
     "airwars-80051"
   ],
@@ -85,10 +109,10 @@
     "https://www.radioalkul.com/p417874/"
   ],
   "original_url": "https://www.radioalkul.com/p417874/",
-  "page_title": "",
+  "page_title": "الولايات المتحدة تحمّل روسيا وبيلاروسيا مسؤولية أزمة اللاجئين على الحدود مع بولندا – Radio Alkul الولايات المتحدة تحمّل روسيا وبيلاروسيا مسؤولية أزمة اللاجئين على الحدود مع بولندا الولايات المتحدة تحمّل روسيا وبيلاروسيا مسؤولية أزمة اللاجئين على الحدود مع بولندا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4667-november-14-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:28:40+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-04f7a40c4662d9bc9c2e1430",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.radioalkul.com/p417874/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مقالات ذات صلة\n\nالنصف الممتلئ: خطاب الكراهية\n\nالنصف الممتلئ: عيد الأضحى المبارك\n\nملف اليوم: أكثر من 20 قتيلاً بينهم ضباط في كمين لد!عش ضد قوات النظام في البادية السورية\n\nنشرة أخبار التاسعة مساءً من راديو وتلفزيون الكل | الخميس 13-06-2024",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/0yIzz"
+    "https://archive.is/0yIzz",
+    "https://web.archive.org/web/20220120125418id_/https://twitter.com/abo_alnoor_1977/status/1484145969365241857"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@abo_alnoor_1977",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "04736936cef4f4b9be8f0427fb36e279080c8a8b3395a6823b842d51306f7dde",
+  "content_variants": [
+    {
+      "bytes": 547,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:38:34+00:00",
+      "sha256": "04736936cef4f4b9be8f0427fb36e279080c8a8b3395a6823b842d51306f7dde",
+      "source_url": "https://web.archive.org/web/20220120125418id_/https://twitter.com/abo_alnoor_1977/status/1484145969365241857",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nاللهم لطفك بحال أهلنا\nالجوع والبرد والصقيع والتهجير وقلة الزاد والقصف الممنهج ماذا يراد لنا\nاللهم اجعل مايلقى على أهلنا من القذائف والنيران بردا وسلاما\nقصف على عفرينpic.twitter.com/ejrddkb6g1\n\n3 Likes\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:38:33+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:38:34+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220120125418id_/https://twitter.com/abo_alnoor_1977/status/1484145969365241857"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220120125418id_/https://twitter.com/abo_alnoor_1977/status/1484145969365241857",
   "incident_ids": [
     "airwars-81349"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/abo_alnoor_1977/status/1484145969365241857"
   ],
   "original_url": "https://twitter.com/abo_alnoor_1977/status/1484145969365241857",
-  "page_title": "",
+  "page_title": "أبو النور الحمصي on Twitter: \"اللهم لطفك بحال أهلنا\nالجوع والبرد والصقيع والتهجير وقلة الزاد والقصف الممنهج ماذا يراد لنا\nاللهم اجعل مايلقى على أهلنا من القذائف والنيران بردا وسلاما\nقصف على عفرين… https://t.co/hFSq3qyP8N\" أبو النور الحمصي on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys122-january-20-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:38:34+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-8ad92fe4bab6fe20568a06b9",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/abo_alnoor_1977/status/1484145969365241857",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nاللهم لطفك بحال أهلنا\nالجوع والبرد والصقيع والتهجير وقلة الزاد والقصف الممنهج ماذا يراد لنا\nاللهم اجعل مايلقى على أهلنا من القذائف والنيران بردا وسلاما\nقصف على عفرينpic.twitter.com/ejrddkb6g1\n\n3 Likes\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

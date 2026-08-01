@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20251015013915id_/https://www.foxnews.com/politics/centcom-confirms-drone-strike-al-qaeda-leader-syria"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Fox",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1eceb675f4f05734a4383228a1344e8b9dbc23485f6764d6099cc4660360c6b3",
+  "content_variants": [
+    {
+      "bytes": 3713,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:49:50+00:00",
+      "sha256": "1eceb675f4f05734a4383228a1344e8b9dbc23485f6764d6099cc4660360c6b3",
+      "source_url": "https://web.archive.org/web/20251015013915id_/https://www.foxnews.com/politics/centcom-confirms-drone-strike-al-qaeda-leader-syria",
+      "text": "The House minority leader blasted Democratic leadership, saying the current policy is 'creating another Syria' in the Middle East.\n\nThe United States military conducted a drone strike in Syria targeting a senior al-Qaeda leader and planner, a CENTCOM spokesperson says.\n\n\"U.S. forces conducted a kinetic strike near Idlib, Syria, December 3, targeting a senior al-Qaeda leader and planner,\" CENTCOM spokesperson Captain Bill Urban told Fox News Digital in a statement. \"The strike was conducted using a precision strike method from MQ-9 aircraft.\"\n\nSyria's Bashar Assad (AP)\n\nAUSTIN ORDERS INVESTIGATION OF SYRIA AIRSTRIKE THAT KILLED CIVILIANS\n\nUrban added that an \"initial review of this strike indicates the potential for possible civilian casualties.\"\n\n\"We abhor the loss of innocent life and take all possible measures to prevent them. The possibility of a civilian casualty was immediately self-reported to U.S. Central Command. We are initiating a full investigation of the allegations and will release the results when appropriate,\" Urban added.\n\nUS MILITARY WAS TIPPED OFF ABOUT IRAN-BACKED ATTACK ON TROOPS IN SYRIA, SAVING LIVES\n\nFile photo - Airman 1st Class Andrew Frano, an MQ-9 Crew Chief, at Holloman Air Force Base, N.M., Dec. 19, 2016. (U.S. Air Force photo by J.M. Eddins Jr.)\n\nCENTCOM says it will reveal the results of the strike \"when appropriate.\"\n\nThe White House did not immediately respond to a request for comment from Fox News Digital.\n\nNews of the strike comes days after Secretary of Defense Lloyd Austin ordered a renewed investigation into a 2019 airstrike in Syria that resulted in the deaths of civilians after the attack was first reported in detail by the New York Times earlier this month.\n\nU.S. Army Forces commander Gen. Michael Garrett has been assigned to conduct the investigation, which will review \"reports of investigation already conducted\" while also conducting \"further inquiry into the facts and circumstances\" of the strike, Pentagon press secretary John Kirby said Monday.\n\nMaintainers from the 386th Expeditionary Aircraft Maintenance Squadron prepare to tow an MQ-9 Reaper unmanned aerial vehicle into position for an engine test before Intelligence, Surveillance and Reconnaissance (ISR) operations at Ali Al Salem Air Base, Kuwait, July 23, 2019. (U.S. Air Force Photo by Staff Sgt. Mozer O. Da Cunha)\n\nThe investigation stems from a March 2019 strike on ISIS in Baghouz, Syria, in support of U.S.-allied Syrian Democratic Forces, who called for air support after they were attacked by ISIS fighters.\n\nCLICK HERE TO GET THE FOX NEWS APP\n\nWhile the Syrian fighters, U.S. special operations forces operating in the area, and an unmanned aerial vehicle overhead flying above the battlefield reported no civilians in the area where the strike was to be carried out, later reports from a UAV operator said there may have been civilians in the area where bombs were dropped.\n\nThe New York Times report last month details that there were mostly women and children in the area the bombs were dropped, possibly resulting in the deaths of 70 civilians.\n\nFox News’ Michael Lee contributed to this report\n\nAndrew Mark Miller is a reporter at Fox News. Find him on Twitter @andymarkmiller and email tips to AndrewMark.Miller@Fox.com.\n\nFox News Politics\n\nGet the latest updates from the 2024 campaign trail, exclusive interviews and more Fox News politics content.\n\nBy entering your email and clicking the Subscribe button, you agree to the Fox News Privacy Policy and Terms of Use, and\nagree to receive content and promotional communications from Fox News. You understand that you can\nopt-out at any time.\n\nSubscribed\n\nYou've successfully subscribed to this newsletter!"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:49:48+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:49:50+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251015013915id_/https://www.foxnews.com/politics/centcom-confirms-drone-strike-al-qaeda-leader-syria"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251015013915id_/https://www.foxnews.com/politics/centcom-confirms-drone-strike-al-qaeda-leader-syria",
   "incident_ids": [
     "airwars-80506"
   ],
@@ -55,10 +80,10 @@
     "https://www.foxnews.com/politics/centcom-confirms-drone-strike-al-qaeda-leader-syria"
   ],
   "original_url": "https://www.foxnews.com/politics/centcom-confirms-drone-strike-al-qaeda-leader-syria",
-  "page_title": "",
+  "page_title": "CENTCOM confirms drone strike targeted Al-Qaeda leader in Syria | Fox News CENTCOM confirms drone strike targeted Al-Qaeda leader in Syria CENTCOM confirms drone strike targeted Al-Qaeda leader in Syria",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1973-december-3-2021/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:49:50+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f59cece26a26c34909da8ec9",
   "source_type": "news_article",
   "stable_id_basis": "https://www.foxnews.com/politics/centcom-confirms-drone-strike-al-qaeda-leader-syria",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "The House minority leader blasted Democratic leadership, saying the current policy is 'creating another Syria' in the Middle East.\n\nThe United States military conducted a drone strike in Syria targeting a senior al-Qaeda leader and planner, a CENTCOM spokesperson says.\n\n\"U.S. forces conducted a kinetic strike near Idlib, Syria, December 3, targeting a senior al-Qaeda leader and planner,\" CENTCOM spokesperson Captain Bill Urban told Fox News Digital in a statement. \"The strike was conducted using a precision strike method from MQ-9 aircraft.\"\n\nSyria's Bashar Assad (AP)\n\nAUSTIN ORDERS INVESTIGATION OF SYRIA AIRSTRIKE THAT KILLED CIVILIANS\n\nUrban added that an \"initial review of this strike indicates the potential for possible civilian casualties.\"\n\n\"We abhor the loss of innocent life and take all possible measures to prevent them. The possibility of a civilian casualty was immediately self-reported to U.S. Central Command. We are initiating a full investigation of the allegations and will release the results when appropriate,\" Urban added.\n\nUS MILITARY WAS TIPPED OFF ABOUT IRAN-BACKED ATTACK ON TROOPS IN SYRIA, SAVING LIVES\n\nFile photo - Airman 1st Class Andrew Frano, an MQ-9 Crew Chief, at Holloman Air Force Base, N.M., Dec. 19, 2016. (U.S. Air Force photo by J.M. Eddins Jr.)\n\nCENTCOM says it will reveal the results of the strike \"when appropriate.\"\n\nThe White House did not immediately respond to a request for comment from Fox News Digital.\n\nNews of the strike comes days after Secretary of Defense Lloyd Austin ordered a renewed investigation into a 2019 airstrike in Syria that resulted in the deaths of civilians after the attack was first reported in detail by the New York Times earlier this month.\n\nU.S. Army Forces commander Gen. Michael Garrett has been assigned to conduct the investigation, which will review \"reports of investigation already conducted\" while also conducting \"further inquiry into the facts and circumstances\" of the strike, Pentagon press secretary John Kirby said Monday.\n\nMaintainers from the 386th Expeditionary Aircraft Maintenance Squadron prepare to tow an MQ-9 Reaper unmanned aerial vehicle into position for an engine test before Intelligence, Surveillance and Reconnaissance (ISR) operations at Ali Al Salem Air Base, Kuwait, July 23, 2019. (U.S. Air Force Photo by Staff Sgt. Mozer O. Da Cunha)\n\nThe investigation stems from a March 2019 strike on ISIS in Baghouz, Syria, in support of U.S.-allied Syrian Democratic Forces, who called for air support after they were attacked by ISIS fighters.\n\nCLICK HERE TO GET THE FOX NEWS APP\n\nWhile the Syrian fighters, U.S. special operations forces operating in the area, and an unmanned aerial vehicle overhead flying above the battlefield reported no civilians in the area where the strike was to be carried out, later reports from a UAV operator said there may have been civilians in the area where bombs were dropped.\n\nThe New York Times report last month details that there were mostly women and children in the area the bombs were dropped, possibly resulting in the deaths of 70 civilians.\n\nFox News’ Michael Lee contributed to this report\n\nAndrew Mark Miller is a reporter at Fox News. Find him on Twitter @andymarkmiller and email tips to AndrewMark.Miller@Fox.com.\n\nFox News Politics\n\nGet the latest updates from the 2024 campaign trail, exclusive interviews and more Fox News politics content.\n\nBy entering your email and clicking the Subscribe button, you agree to the Fox News Privacy Policy and Terms of Use, and\nagree to receive content and promotional communications from Fox News. You understand that you can\nopt-out at any time.\n\nSubscribed\n\nYou've successfully subscribed to this newsletter!",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

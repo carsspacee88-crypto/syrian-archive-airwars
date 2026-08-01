@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/wPYvL"
+    "https://archive.ph/wPYvL",
+    "https://web.archive.org/web/20240325181839id_/https://anfarabic.com/akhr-l-khbr/wkalt-frat-llanba-103539"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "eee5cb6b403c01bf2303da5c4ac8eb51b96c92ac3d861112fd1721a84997ea6d",
+  "content_variants": [
+    {
+      "bytes": 534,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:48:12+00:00",
+      "sha256": "eee5cb6b403c01bf2303da5c4ac8eb51b96c92ac3d861112fd1721a84997ea6d",
+      "source_url": "https://web.archive.org/web/20240325181839id_/https://anfarabic.com/akhr-l-khbr/wkalt-frat-llanba-103539",
+      "text": "وكالة فرات للأنباء\n\nمركز الاخبار\n\nالاثنين, ٢٥ مارس ٢٠٢٤, ١١:٣٣\n\nقصف جيش الاحتلال التركي بعد ظهر أمس الأحد، مجموعة من العمال يعملون في الأراضي الزراعية في محيط قرية بيلونية بمقاطعة عفرين والشهباء.\n\nوأسفر القصف عن استشهاد المواطن رشيد حمو عبد الحنان 36 عاماً، من أهالي ناحية موباتا في عفرين المحتلة."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:48:11+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:48:12+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240325181839id_/https://anfarabic.com/akhr-l-khbr/wkalt-frat-llanba-103539"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240325181839id_/https://anfarabic.com/akhr-l-khbr/wkalt-frat-llanba-103539",
   "incident_ids": [
     "airwars-115965"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/akhr-l-khbr/wkalt-frat-llanba-103539"
   ],
   "original_url": "https://anfarabic.com/akhr-l-khbr/wkalt-frat-llanba-103539",
-  "page_title": "",
+  "page_title": "ANF |\nقصف جيش الاحتلال التركي يسفر عن استشهاد مواطن في بيلوينة قصف جيش الاحتلال التركي يسفر عن استشهاد مواطن في بيلوينة قصف جيش الاحتلال التركي يسفر عن استشهاد مواطن في بيلوينة",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts690-march-24-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:48:12+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e8ada6f9fe9aff5cd10c1d08",
   "source_type": "news_article",
   "stable_id_basis": "https://anfarabic.com/akhr-l-khbr/wkalt-frat-llanba-103539",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "وكالة فرات للأنباء\n\nمركز الاخبار\n\nالاثنين, ٢٥ مارس ٢٠٢٤, ١١:٣٣\n\nقصف جيش الاحتلال التركي بعد ظهر أمس الأحد، مجموعة من العمال يعملون في الأراضي الزراعية في محيط قرية بيلونية بمقاطعة عفرين والشهباء.\n\nوأسفر القصف عن استشهاد المواطن رشيد حمو عبد الحنان 36 عاماً، من أهالي ناحية موباتا في عفرين المحتلة.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
