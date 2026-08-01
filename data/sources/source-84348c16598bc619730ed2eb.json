@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/HhAwo"
+    "https://archive.is/HhAwo",
+    "https://web.archive.org/web/20250427003556id_/https://npasyria.com/160829/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "NPA",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b75defc8568e3eac0a2099e7d6ed1755581969bb790dbb7975dde0b06d379d43",
+  "content_variants": [
+    {
+      "bytes": 1006,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:30:24+00:00",
+      "sha256": "b75defc8568e3eac0a2099e7d6ed1755581969bb790dbb7975dde0b06d379d43",
+      "source_url": "https://web.archive.org/web/20250427003556id_/https://npasyria.com/160829/",
+      "text": "مسيرة تركية تستهدف سيارتين بريف القامشلي\n\nصورة لسيارة محترقة نتيجة قصف تركي سابق شرقي القامشلي\n\nالقامشلي – نورث برس\n\nاستهدفت مسيرة تركية، الخميس، سيارتين بين قريتي تل معروف وخزنة بريف القامشلي الجنوبي، وسط أنباء متداولة عن وقوع ضحايا وإصابات.\n\nوقال مراسل نورث برس، إن الاستهداف وقع على الطريق الواقع بين قريتي تل معروف والخزنة مقابل قرية الشيبانية دون تأكيد أنباء وقوع ضحايا وإصابات.\n\nوحتى ساعة إعداد الخبر، لم تعلق قوى الأمن الداخلي (الأسايش) على الاستهداف، فيما قال شهود عيان إن “سيارات إسعاف توجهت لموقع الحدث”.\n\nإعداد: نالين علي – تحرير: سعد اليازجي"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:30:24+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:30:24+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250427003556id_/https://npasyria.com/160829/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250427003556id_/https://npasyria.com/160829/",
   "incident_ids": [
     "airwars-92575"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/160829/"
   ],
   "original_url": "https://npasyria.com/160829/",
-  "page_title": "",
+  "page_title": "مسيرة تركية تستهدف سيارتين بريف القامشلي مسيرة تركية تستهدف سيارتين بريف القامشلي",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts615-july-27-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:30:24+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-84348c16598bc619730ed2eb",
   "source_type": "other_web_page",
   "stable_id_basis": "https://npasyria.com/160829/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مسيرة تركية تستهدف سيارتين بريف القامشلي\n\nصورة لسيارة محترقة نتيجة قصف تركي سابق شرقي القامشلي\n\nالقامشلي – نورث برس\n\nاستهدفت مسيرة تركية، الخميس، سيارتين بين قريتي تل معروف وخزنة بريف القامشلي الجنوبي، وسط أنباء متداولة عن وقوع ضحايا وإصابات.\n\nوقال مراسل نورث برس، إن الاستهداف وقع على الطريق الواقع بين قريتي تل معروف والخزنة مقابل قرية الشيبانية دون تأكيد أنباء وقوع ضحايا وإصابات.\n\nوحتى ساعة إعداد الخبر، لم تعلق قوى الأمن الداخلي (الأسايش) على الاستهداف، فيما قال شهود عيان إن “سيارات إسعاف توجهت لموقع الحدث”.\n\nإعداد: نالين علي – تحرير: سعد اليازجي",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

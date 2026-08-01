@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/Lc1LV"
+    "https://archive.md/Lc1LV",
+    "https://web.archive.org/web/20240524211130id_/https://www.facebook.com/permalink.php?story_fbid=1540222196333353&id=757869821235265"
   ],
   "attempt_history": [
     {
@@ -67,12 +68,35 @@
   "author": "Idlib Urgent",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1b99137f016312b93770568550798ed8b16a5be636860fb4a06b367e186f93aa",
+  "content_variants": [
+    {
+      "bytes": 262,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:42:27+00:00",
+      "sha256": "1b99137f016312b93770568550798ed8b16a5be636860fb4a06b367e186f93aa",
+      "source_url": "https://web.archive.org/web/20240524211130id_/https://www.facebook.com/permalink.php?story_fbid=1540222196333353&id=757869821235265",
+      "text": "#عاجل\nأربع إصابات منهم بحالة حرجة جراء غارة جوية من طيران الإحتلال الروسي إستهدف ورشة زيتون محيط قرية #مجدليا ب #جبل_الأربعين بريف #إدلب الجنوبي ."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:42:26+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:42:27+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524211130id_/https://www.facebook.com/permalink.php?story_fbid=1540222196333353&id=757869821235265"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524211130id_/https://www.facebook.com/permalink.php?story_fbid=1540222196333353&id=757869821235265",
   "incident_ids": [
     "airwars-80283"
   ],
@@ -88,10 +112,10 @@
     "https://www.facebook.com/permalink.php?story_fbid=1540222196333353&id=757869821235265"
   ],
   "original_url": "https://www.facebook.com/permalink.php?story_fbid=1540222196333353&id=757869821235265",
-  "page_title": "",
+  "page_title": "ادلب عاجل Idlib Urgent ادلب عاجل Idlib Urgent #عاجل\nأربع إصابات منهم بحالة حرجة... - ادلب عاجل Idlib Urgent",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4672-november-25-2021/",
@@ -111,15 +135,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:42:27+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-cbe1861cdc25818daab1b619",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=1540222196333353&id=757869821235265",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#عاجل\nأربع إصابات منهم بحالة حرجة جراء غارة جوية من طيران الإحتلال الروسي إستهدف ورشة زيتون محيط قرية #مجدليا ب #جبل_الأربعين بريف #إدلب الجنوبي .",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

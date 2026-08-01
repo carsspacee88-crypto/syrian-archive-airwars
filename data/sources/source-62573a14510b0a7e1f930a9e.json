@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/usD7Q"
+    "https://archive.md/usD7Q",
+    "https://web.archive.org/web/20211214033248id_/https://twitter.com/Sada_AlSharqieh/status/1470284587054030848"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@Sada_AlSharqieh",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "7f02147e0767f81acfe10c5bcd4037cd52c3b7fe4c221ed14dcf345a5ec7b7be",
+  "content_variants": [
+    {
+      "bytes": 599,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:28:03+00:00",
+      "sha256": "7f02147e0767f81acfe10c5bcd4037cd52c3b7fe4c221ed14dcf345a5ec7b7be",
+      "source_url": "https://web.archive.org/web/20211214033248id_/https://twitter.com/Sada_AlSharqieh/status/1470284587054030848",
+      "text": "ConversationSada AlSharqieh@Sada_AlSharqiehانزال جوي في قرية البريهة شرقي ديرالزور، ليلة الأمس، لقوات #التحالف_الدولي بالتعاون مع قوات #قسد\nوأسفرت العملية عن مقتل خلف الوهاب و2 من أولاده وشخص رابع\"زائر لديهم هو الهدف من عملية الإنزال\"،حيث جرت اشتباكات بين الطرفين قبيل مقتل الاربعة وتدمير المنزل\n#صدى_الشرقية\n@Liveuamap6:48 AM · Dec 13, 2021·Twitter for Android1 Quote Tweet5 Likes"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:28:02+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:28:03+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211214033248id_/https://twitter.com/Sada_AlSharqieh/status/1470284587054030848"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211214033248id_/https://twitter.com/Sada_AlSharqieh/status/1470284587054030848",
   "incident_ids": [
     "airwars-80656"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/Sada_AlSharqieh/status/1470284587054030848"
   ],
   "original_url": "https://twitter.com/Sada_AlSharqieh/status/1470284587054030848",
-  "page_title": "",
+  "page_title": "Sada AlSharqieh on Twitter Sada AlSharqieh on Twitter: \"انزال جوي في قرية البريهة شرقي ديرالزور، ليلة الأمس، لقوات #التحالف_الدولي بالتعاون مع قوات #قسد\nوأسفرت العملية عن مقتل خلف الوهاب و2 من أولاده وشخص رابع\"زائر لديهم هو الهدف من عملية الإنزال\"،حيث جرت اشتباكات بين الطرفين قبيل مقتل الاربعة وتدمير المنزل\n#صدى_الشرقية\n@Liveuamap https://t.co/8mOQ1flJOT\" / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1974-december-12-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:28:03+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-62573a14510b0a7e1f930a9e",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/Sada_AlSharqieh/status/1470284587054030848",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ConversationSada AlSharqieh@Sada_AlSharqiehانزال جوي في قرية البريهة شرقي ديرالزور، ليلة الأمس، لقوات #التحالف_الدولي بالتعاون مع قوات #قسد\nوأسفرت العملية عن مقتل خلف الوهاب و2 من أولاده وشخص رابع\"زائر لديهم هو الهدف من عملية الإنزال\"،حيث جرت اشتباكات بين الطرفين قبيل مقتل الاربعة وتدمير المنزل\n#صدى_الشرقية\n@Liveuamap6:48 AM · Dec 13, 2021·Twitter for Android1 Quote Tweet5 Likes",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

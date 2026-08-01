@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/4uSNi"
+    "https://archive.ph/4uSNi",
+    "https://web.archive.org/web/20240524190614id_/https://www.facebook.com/fm.watan/posts/pfbid02zdDYQNTgrDQqZYBUho2uyrzeNBfYC7GiCtypw6XChayCdVRsbSAfRoSdPGd1NSbnl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Watan FM",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2791220602af1e08db4ccfeb978add38dd7d4ead10e8938c2f756512e195f285",
+  "content_variants": [
+    {
+      "bytes": 240,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:25:04+00:00",
+      "sha256": "2791220602af1e08db4ccfeb978add38dd7d4ead10e8938c2f756512e195f285",
+      "source_url": "https://web.archive.org/web/20240524190614id_/https://www.facebook.com/fm.watan/posts/pfbid02zdDYQNTgrDQqZYBUho2uyrzeNBfYC7GiCtypw6XChayCdVRsbSAfRoSdPGd1NSbnl",
+      "text": "إصابة طفلة وأضرار في المنازل بقصف لقوات الأسد على بلدة البارة جنوبي إدلب، كما قصفت قوات الأسد بلدة آفس وأطراف بلدة النيرب شرقي إدلب."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:25:03+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:25:04+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524190614id_/https://www.facebook.com/fm.watan/posts/pfbid02zdDYQNTgrDQqZYBUho2uyrzeNBfYC7GiCtypw6XChayCdVRsbSAfRoSdPGd1NSbnl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524190614id_/https://www.facebook.com/fm.watan/posts/pfbid02zdDYQNTgrDQqZYBUho2uyrzeNBfYC7GiCtypw6XChayCdVRsbSAfRoSdPGd1NSbnl",
   "incident_ids": [
     "airwars-85696"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/fm.watan/posts/pfbid02zdDYQNTgrDQqZYBUho2uyrzeNBfYC7GiCtypw6XChayCdVRsbSAfRoSdPGd1NSbnl"
   ],
   "original_url": "https://www.facebook.com/fm.watan/posts/pfbid02zdDYQNTgrDQqZYBUho2uyrzeNBfYC7GiCtypw6XChayCdVRsbSAfRoSdPGd1NSbnl",
-  "page_title": "",
+  "page_title": "Watan Fm | إذاعة وطن Watan Fm | إذاعة وطن إصابة طفلة وأضرار في المنازل بقصف... - Watan Fm | إذاعة وطن",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4747-november-30-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:25:04+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-58a95228a963bb3e63bd85c3",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/fm.watan/posts/pfbid02zdDYQNTgrDQqZYBUho2uyrzeNBfYC7GiCtypw6XChayCdVRsbSAfRoSdPGd1NSbnl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة طفلة وأضرار في المنازل بقصف لقوات الأسد على بلدة البارة جنوبي إدلب، كما قصفت قوات الأسد بلدة آفس وأطراف بلدة النيرب شرقي إدلب.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/voA5e"
+    "https://archive.is/voA5e",
+    "https://web.archive.org/web/20240524220925id_/https://www.facebook.com/permalink.php?story_fbid=pfbid02xLi2bajZLe7ekhAG8huX5DA9aK6ioiSY1kkfiPUgeJ8AZYzSX94xRArLcaa7q47l&id=100050668411212"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Kafarnabel",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1d0f72c697c78a62c975ceeb2018c10f72ca402e8023151093fca6107b4fa42d",
+  "content_variants": [
+    {
+      "bytes": 625,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:31:37+00:00",
+      "sha256": "1d0f72c697c78a62c975ceeb2018c10f72ca402e8023151093fca6107b4fa42d",
+      "source_url": "https://web.archive.org/web/20240524220925id_/https://www.facebook.com/permalink.php?story_fbid=pfbid02xLi2bajZLe7ekhAG8huX5DA9aK6ioiSY1kkfiPUgeJ8AZYzSX94xRArLcaa7q47l&id=100050668411212",
+      "text": "#متابعة السبت ٢٠٢٣/٨/٥\n\nثلاث شهداء واكثر من ٦ اصابات في صفوف المدنيين جراء الغارات الجوية الروسية على الاطراف الغربية لمدينة #ادلب_المحافظة\n\n#الشهداء...\n\n#متابعة السبت ٢٠٢٣/٨/٥\n\nثلاث شهداء واكثر من ٦ اصابات في صفوف المدنيين جراء الغارات الجوية الروسية على الاطراف الغربية لمدينة #ادلب_المحافظة\n\n#الشهداء\n(رجل وزوجته وابنهما)\n\n#الاصابات\n١_يحيى كيالي..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:31:35+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:31:37+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524220925id_/https://www.facebook.com/permalink.php?story_fbid=pfbid02xLi2bajZLe7ekhAG8huX5DA9aK6ioiSY1kkfiPUgeJ8AZYzSX94xRArLcaa7q47l&id=100050668411212"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524220925id_/https://www.facebook.com/permalink.php?story_fbid=pfbid02xLi2bajZLe7ekhAG8huX5DA9aK6ioiSY1kkfiPUgeJ8AZYzSX94xRArLcaa7q47l&id=100050668411212",
   "incident_ids": [
     "airwars-92682"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/permalink.php?story_fbid=pfbid02xLi2bajZLe7ekhAG8huX5DA9aK6ioiSY1kkfiPUgeJ8AZYzSX94xRArLcaa7q47l&id=100050668411212"
   ],
   "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02xLi2bajZLe7ekhAG8huX5DA9aK6ioiSY1kkfiPUgeJ8AZYzSX94xRArLcaa7q47l&id=100050668411212",
-  "page_title": "",
+  "page_title": "كفرنبل مباشر/kafranbel Live كفرنبل مباشر/kafranbel Live #متابعة السبت ٢٠٢٣/٨/٥\n\nثلاث... - كفرنبل مباشر/kafranbel Live",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4790-august-5-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:31:37+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-85850f54c1830db469ee926f",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid02xLi2bajZLe7ekhAG8huX5DA9aK6ioiSY1kkfiPUgeJ8AZYzSX94xRArLcaa7q47l&id=100050668411212",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#متابعة السبت ٢٠٢٣/٨/٥\n\nثلاث شهداء واكثر من ٦ اصابات في صفوف المدنيين جراء الغارات الجوية الروسية على الاطراف الغربية لمدينة #ادلب_المحافظة\n\n#الشهداء...\n\n#متابعة السبت ٢٠٢٣/٨/٥\n\nثلاث شهداء واكثر من ٦ اصابات في صفوف المدنيين جراء الغارات الجوية الروسية على الاطراف الغربية لمدينة #ادلب_المحافظة\n\n#الشهداء\n(رجل وزوجته وابنهما)\n\n#الاصابات\n١_يحيى كيالي...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

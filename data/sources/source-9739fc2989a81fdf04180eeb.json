@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/vSLuO"
+    "https://archive.ph/vSLuO",
+    "https://web.archive.org/web/20260209091456id_/https://www.rudawarabia.net/arabic/kurdistan/140220241"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Rudaw News news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "015b7d5b766911bfe5a27f8eb73b71765c53fc33f3a082387201229159a37c2a",
+  "content_variants": [
+    {
+      "bytes": 2683,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:33:00+00:00",
+      "sha256": "015b7d5b766911bfe5a27f8eb73b71765c53fc33f3a082387201229159a37c2a",
+      "source_url": "https://web.archive.org/web/20260209091456id_/https://www.rudawarabia.net/arabic/kurdistan/140220241",
+      "text": "شارك على\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on Telegram\n\nShare on Viber\n\nShare on Messenger\n\nفقدان 18 مهاجراً من روجآفا في الجزائر منذ أشهر\n\nالثانية خلال يومين.. مسلحو \"العمشات\" يطردون عائلة كوردية من منزلهم بعفرين\n\nمسلحو \"الجيش الوطني\" في عفرين يستولون على منزل كوردي قتلوا زوجته قبل أشهر\n\nمقتل شاب على يد الشرطة العسكرية بعفرين إثر \"التعذيب الوحشي\"\n\nرووداو ديجيتال\n\nقصفت تركيا بالمدفعية قرية بينه التابعة لناحية شيراوا في عفرين بروجآفا، وأدى إلى مقتل كوردي وإصابة آخر.\n\nكما قتل إثر تعرض نقطة عسكرية لقوات الجيش السوري، للقصف جندي في الجيش يُدعى علي المنهل.\n\nأفادت منظمة حقوق الإنسان في عفرين-سوريا، بأن تركيا قصفت قرية بينه، مساء الاثنين.\n\nوبحسب المصدر نفسه، فقد سقطت أكثر من 10 قذائف في قرية بينه.\n\nالكوردي الذي قُتل يدعى جوان عزت أسود يبلغ من العمر 36 عاماً وهو أب لخمسة أطفال.\n\nكما أصيب جراء القصف بجروح بليغة، عدنان عيسو كيو البالغ من العمر 39 عاماً، ويتلقى حالياً العلاج في مستشفى أفرين في الشهباء.\n\nالقصف ألحق أضراراً مادية بمنازل الأهالي وممتلكاتهم.\n\n\"احتلال عفرين\"\n\nهاجمت تركيا وفصائل المعارضة السورية المسلحة عفرين في 20 كانون الثاني 2018.\n\nحيث شن الجيش التركي والفصائل السورية المسلحة الموالية لتركيا هجوماً في مطلع 2018 على إقليم عفرين الذي كان حينها تحت سيطرة الإدارة الذاتية لشمال وشرق سوريا، وبعد معارك استمرت نحو شهرين تمكنت من احتلال عفرين وأطرافها.\n\nخلال ست سنوات من سيطرة الفصائل على عفرين، ارتكبت فيها انتهاكات واسعة النطاق مثل النهب والقتل والتغيير الديمغرافي.\n\nشارك على\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on Telegram\n\nShare on Viber\n\nShare on Messenger\n\nتعليقات\n\nعلق كضيف أو قم بتسجيل الدخول لمداخلات أكثر\n\nأضف تعليقاً"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:32:58+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:33:00+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260209091456id_/https://www.rudawarabia.net/arabic/kurdistan/140220241"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260209091456id_/https://www.rudawarabia.net/arabic/kurdistan/140220241",
   "incident_ids": [
     "airwars-115962"
   ],
@@ -85,10 +109,10 @@
     "https://www.rudawarabia.net/arabic/kurdistan/140220241"
   ],
   "original_url": "https://www.rudawarabia.net/arabic/kurdistan/140220241",
-  "page_title": "",
+  "page_title": "قصف تركي على عفرين يسفر عن مقتل شخصين قصف تركي على عفرين يسفر عن مقتل شخصين قصف تركي على عفرين يسفر عن مقتل شخصين| رووداو.نيت",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts684-february-12-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:33:00+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9739fc2989a81fdf04180eeb",
   "source_type": "news_article",
   "stable_id_basis": "https://www.rudawarabia.net/arabic/kurdistan/140220241",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "شارك على\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on Telegram\n\nShare on Viber\n\nShare on Messenger\n\nفقدان 18 مهاجراً من روجآفا في الجزائر منذ أشهر\n\nالثانية خلال يومين.. مسلحو \"العمشات\" يطردون عائلة كوردية من منزلهم بعفرين\n\nمسلحو \"الجيش الوطني\" في عفرين يستولون على منزل كوردي قتلوا زوجته قبل أشهر\n\nمقتل شاب على يد الشرطة العسكرية بعفرين إثر \"التعذيب الوحشي\"\n\nرووداو ديجيتال\n\nقصفت تركيا بالمدفعية قرية بينه التابعة لناحية شيراوا في عفرين بروجآفا، وأدى إلى مقتل كوردي وإصابة آخر.\n\nكما قتل إثر تعرض نقطة عسكرية لقوات الجيش السوري، للقصف جندي في الجيش يُدعى علي المنهل.\n\nأفادت منظمة حقوق الإنسان في عفرين-سوريا، بأن تركيا قصفت قرية بينه، مساء الاثنين.\n\nوبحسب المصدر نفسه، فقد سقطت أكثر من 10 قذائف في قرية بينه.\n\nالكوردي الذي قُتل يدعى جوان عزت أسود يبلغ من العمر 36 عاماً وهو أب لخمسة أطفال.\n\nكما أصيب جراء القصف بجروح بليغة، عدنان عيسو كيو البالغ من العمر 39 عاماً، ويتلقى حالياً العلاج في مستشفى أفرين في الشهباء.\n\nالقصف ألحق أضراراً مادية بمنازل الأهالي وممتلكاتهم.\n\n\"احتلال عفرين\"\n\nهاجمت تركيا وفصائل المعارضة السورية المسلحة عفرين في 20 كانون الثاني 2018.\n\nحيث شن الجيش التركي والفصائل السورية المسلحة الموالية لتركيا هجوماً في مطلع 2018 على إقليم عفرين الذي كان حينها تحت سيطرة الإدارة الذاتية لشمال وشرق سوريا، وبعد معارك استمرت نحو شهرين تمكنت من احتلال عفرين وأطرافها.\n\nخلال ست سنوات من سيطرة الفصائل على عفرين، ارتكبت فيها انتهاكات واسعة النطاق مثل النهب والقتل والتغيير الديمغرافي.\n\nشارك على\n\nShare on Facebook\n\nShare on Twitter\n\nShare on Whatsapp\n\nShare on Telegram\n\nShare on Viber\n\nShare on Messenger\n\nتعليقات\n\nعلق كضيف أو قم بتسجيل الدخول لمداخلات أكثر\n\nأضف تعليقاً",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

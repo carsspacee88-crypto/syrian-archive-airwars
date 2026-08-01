@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/8DnTO"
+    "https://archive.is/8DnTO",
+    "https://web.archive.org/web/20250908084250id_/https://www.zamanalwsl.net/news/article/139288https:/www.zamanalwsl.net/news/article/139288"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaman Al Wasl",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b7e0dba7fea146e868def0ffe950052c551372d79a3d31f834cd2002046401f0",
+  "content_variants": [
+    {
+      "bytes": 242,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:28:24+00:00",
+      "sha256": "b7e0dba7fea146e868def0ffe950052c551372d79a3d31f834cd2002046401f0",
+      "source_url": "https://web.archive.org/web/20250908084250id_/https://www.zamanalwsl.net/news/article/139288https:/www.zamanalwsl.net/news/article/139288",
+      "text": "18 آب 2021\n\nضحايا في \"عفرين\" إثر قصف صاروخي مصدره \"قسد\"\n\n0\n\nالتعليقات\n\nحلب\n\nعفرين\n\nمدينة\n\nقوات\n\nقسد\n\nالمدفعية\n\nشمالي\n\nسوريا\n\nتعليقات حول الموضوع"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:28:24+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:28:24+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250908084250id_/https://www.zamanalwsl.net/news/article/139288https:/www.zamanalwsl.net/news/article/139288"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250908084250id_/https://www.zamanalwsl.net/news/article/139288https:/www.zamanalwsl.net/news/article/139288",
   "incident_ids": [
     "airwars-77435"
   ],
@@ -85,10 +109,10 @@
     "https://www.zamanalwsl.net/news/article/139288https://www.zamanalwsl.net/news/article/139288"
   ],
   "original_url": "https://www.zamanalwsl.net/news/article/139288https://www.zamanalwsl.net/news/article/139288",
-  "page_title": "",
+  "page_title": "ضحايا في \"عفرين\" إثر قصف صاروخي مصدره \"قسد\" | زمان الوصل ضحايا في عفرين إثر قصف صاروخي مصدره قسد ضحايا في عفرين إثر قصف صاروخي مصدره قسد",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys113-rs4627-august-18-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:28:24+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-67a0e0169031d5748bd784ee",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.zamanalwsl.net/news/article/139288https://www.zamanalwsl.net/news/article/139288",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "18 آب 2021\n\nضحايا في \"عفرين\" إثر قصف صاروخي مصدره \"قسد\"\n\n0\n\nالتعليقات\n\nحلب\n\nعفرين\n\nمدينة\n\nقوات\n\nقسد\n\nالمدفعية\n\nشمالي\n\nسوريا\n\nتعليقات حول الموضوع",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

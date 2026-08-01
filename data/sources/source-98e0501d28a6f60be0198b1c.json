@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/vAv60"
+    "https://archive.is/vAv60",
+    "https://web.archive.org/web/20250912170336id_/https://deirezzor24.net/en/the-global-coalition-launches-a-security-operation-against-daesh-in-the-busseirah-city/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Deir Ezzor 24",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8dcb18365624222c2e3630b4892cb1a659f2dbca895ece0260a58733b906467a",
+  "content_variants": [
+    {
+      "bytes": 274,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:33:14+00:00",
+      "sha256": "8dcb18365624222c2e3630b4892cb1a659f2dbca895ece0260a58733b906467a",
+      "source_url": "https://web.archive.org/web/20250912170336id_/https://deirezzor24.net/en/the-global-coalition-launches-a-security-operation-against-daesh-in-the-busseirah-city/",
+      "text": "Today, the Global Coalition and the SDF launched an anti-Daesh security operation in the Busseirah city in the east of\n\nToday, the Global Coalition and the SDF launched an anti-Daesh security operation in the Busseirah city in the east of Deir Ezzor in order to capture some"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:33:14+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:33:14+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250912170336id_/https://deirezzor24.net/en/the-global-coalition-launches-a-security-operation-against-daesh-in-the-busseirah-city/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250912170336id_/https://deirezzor24.net/en/the-global-coalition-launches-a-security-operation-against-daesh-in-the-busseirah-city/",
   "incident_ids": [
     "airwars-81854"
   ],
@@ -85,10 +109,10 @@
     "https://deirezzor24.net/en/the-global-coalition-launches-a-security-operation-against-daesh-in-the-busseirah-city/"
   ],
   "original_url": "https://deirezzor24.net/en/the-global-coalition-launches-a-security-operation-against-daesh-in-the-busseirah-city/",
-  "page_title": "",
+  "page_title": "The Global Coalition Launches A Security Operation Against Daesh In The Busseirah City The Global Coalition Launches A Security Operation Against Daesh In The Busseirah City The Global Coalition Launches A Security Operation Against Daesh In The Busseirah City | دير الزور 24 - Deir EzZor 24 The Global Coalition Launches A Security Operation Against Daesh In The Busseirah City | دير الزور 24 - Deir EzZor 24",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1978-february-8-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:33:14+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-98e0501d28a6f60be0198b1c",
   "source_type": "other_web_page",
   "stable_id_basis": "https://deirezzor24.net/en/the-global-coalition-launches-a-security-operation-against-daesh-in-the-busseirah-city/",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Today, the Global Coalition and the SDF launched an anti-Daesh security operation in the Busseirah city in the east of\n\nToday, the Global Coalition and the SDF launched an anti-Daesh security operation in the Busseirah city in the east of Deir Ezzor in order to capture some",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

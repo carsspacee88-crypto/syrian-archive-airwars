@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/llWZd"
+    "https://archive.is/llWZd",
+    "https://web.archive.org/web/20230206162222id_/https://www.syriahr.com/en/262536/?fbclid=IwAR38K7K4ctD1nz84DHWjmc6RQ2DDVnyRpSSQCALWBSGUZUxFGT9rAxxx_W8"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "dfbc11c3605375ac04b049b1deca45095d9f4f4e5b3b8f407324839c33b6bb15",
+  "content_variants": [
+    {
+      "bytes": 1261,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:41:48+00:00",
+      "sha256": "dfbc11c3605375ac04b049b1deca45095d9f4f4e5b3b8f407324839c33b6bb15",
+      "source_url": "https://web.archive.org/web/20230206162222id_/https://www.syriahr.com/en/262536/?fbclid=IwAR38K7K4ctD1nz84DHWjmc6RQ2DDVnyRpSSQCALWBSGUZUxFGT9rAxxx_W8",
+      "text": "With flight of Turkish drone | Explosion in Al-Qamishly leaves one killed and three injured\n\nAl-Hasakah province: SOHR activists have reported hearing loud explosion in Al-Qamishly city, due to the explosion of a car in Al-Sina’a Al-Qadima (old industrial) area at Kaziyah Hasko, killing one person and injuring at least three others.\n\nThis coincided with the flight of Turkish drones over the region. However, it wasn’t confirmed whether the explosion was caused by the Turkish drones or another cause.\n\nPrev Post\n\n“SOHR camera” captures the daily activity in Sahlat Al-Banat camp in Al-Raqqah where displaced people are suffering from poor service and disastrous living conditions in light of suspension of support provided by humanitarian organisations since early 2022\n\nNext Post\n\nFor “belonging to ISIS” | Military Police raid houses and arrest woman, her children and activist in Afrin\n\n“SOHR camera” captures efforts by residents and rescue teams to recover bodies and…\n\n“SOHR camera” captures efforts by residents and rescue teams to recover bodies and…\n\n“SOHR camera” in Al-Hasakah city captures residents staying in streets, fearing…\n\nMore bodies recovered | 812 Syrian people ki*lled so far while hundreds of families…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:41:48+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:41:48+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230206162222id_/https://www.syriahr.com/en/262536/?fbclid=IwAR38K7K4ctD1nz84DHWjmc6RQ2DDVnyRpSSQCALWBSGUZUxFGT9rAxxx_W8"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230206162222id_/https://www.syriahr.com/en/262536/?fbclid=IwAR38K7K4ctD1nz84DHWjmc6RQ2DDVnyRpSSQCALWBSGUZUxFGT9rAxxx_W8",
   "incident_ids": [
     "airwars-84361"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/262536/?fbclid=IwAR38K7K4ctD1nz84DHWjmc6RQ2DDVnyRpSSQCALWBSGUZUxFGT9rAxxx_W8"
   ],
   "original_url": "https://www.syriahr.com/en/262536/?fbclid=IwAR38K7K4ctD1nz84DHWjmc6RQ2DDVnyRpSSQCALWBSGUZUxFGT9rAxxx_W8",
-  "page_title": "",
+  "page_title": "With flight of Turkish drone | Explosion in Al-Qamishly leaves one killed and three injured • The Syrian Observatory For Human Rights With flight of Turkish drone | Explosion in Al-Qamishly leaves one killed and three injured • The Syrian Observatory For Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts539-august-6-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:41:48+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-c2ed42efca0fa7b37d73f11a",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/262536/?fbclid=IwAR38K7K4ctD1nz84DHWjmc6RQ2DDVnyRpSSQCALWBSGUZUxFGT9rAxxx_W8",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "With flight of Turkish drone | Explosion in Al-Qamishly leaves one killed and three injured\n\nAl-Hasakah province: SOHR activists have reported hearing loud explosion in Al-Qamishly city, due to the explosion of a car in Al-Sina’a Al-Qadima (old industrial) area at Kaziyah Hasko, killing one person and injuring at least three others.\n\nThis coincided with the flight of Turkish drones over the region. However, it wasn’t confirmed whether the explosion was caused by the Turkish drones or another cause.\n\nPrev Post\n\n“SOHR camera” captures the daily activity in Sahlat Al-Banat camp in Al-Raqqah where displaced people are suffering from poor service and disastrous living conditions in light of suspension of support provided by humanitarian organisations since early 2022\n\nNext Post\n\nFor “belonging to ISIS” | Military Police raid houses and arrest woman, her children and activist in Afrin\n\n“SOHR camera” captures efforts by residents and rescue teams to recover bodies and…\n\n“SOHR camera” captures efforts by residents and rescue teams to recover bodies and…\n\n“SOHR camera” in Al-Hasakah city captures residents staying in streets, fearing…\n\nMore bodies recovered | 812 Syrian people ki*lled so far while hundreds of families…",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

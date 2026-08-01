@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/NrFMA"
+    "https://archive.is/NrFMA",
+    "https://web.archive.org/web/20220618113953id_/https://twitter.com/Rian_almasri/status/1538124256684408832"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@Rian_almasri",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "e516deab6d6956ffd555378e2337068b76a89e682aee6f9f0ddaf7f29c22fe3b",
+  "content_variants": [
+    {
+      "bytes": 399,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:28:37+00:00",
+      "sha256": "e516deab6d6956ffd555378e2337068b76a89e682aee6f9f0ddaf7f29c22fe3b",
+      "source_url": "https://web.archive.org/web/20220618113953id_/https://twitter.com/Rian_almasri/status/1538124256684408832",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\n#عاجل #الباب\nميليشيات #قسد تستهدف منزل مدني في قرية عبلة بصاروخ موجه وسقوط جرحى بينهم اطفالpic.twitter.com/pSFPFItKoF\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:28:36+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:28:37+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220618113953id_/https://twitter.com/Rian_almasri/status/1538124256684408832"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220618113953id_/https://twitter.com/Rian_almasri/status/1538124256684408832",
   "incident_ids": [
     "airwars-83889"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/Rian_almasri/status/1538124256684408832"
   ],
   "original_url": "https://twitter.com/Rian_almasri/status/1538124256684408832",
-  "page_title": "",
+  "page_title": "ريان المصري on Twitter: \"#عاجل #الباب\nميليشيات #قسد تستهدف منزل مدني في قرية عبلة بصاروخ موجه وسقوط جرحى بينهم اطفال… \" ريان المصري on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys137-june-18-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:28:37+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-70dca3c6a2fdcfb4d3c974f4",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/Rian_almasri/status/1538124256684408832",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\n#عاجل #الباب\nميليشيات #قسد تستهدف منزل مدني في قرية عبلة بصاروخ موجه وسقوط جرحى بينهم اطفالpic.twitter.com/pSFPFItKoF\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/2kQ93"
+    "https://archive.ph/2kQ93",
+    "https://web.archive.org/web/20241204180643id_/https://www.reuters.com/world/middle-east/turkish-syria-offensive-would-impede-fight-against-islamic-state-kurdish-sdf-2022-06-02/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Reuters",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "7d5cc542316b757af6cf20af898474e88b78a36845179140f92f80269cd238fd",
+  "content_variants": [
+    {
+      "bytes": 1245,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:28:56+00:00",
+      "sha256": "7d5cc542316b757af6cf20af898474e88b78a36845179140f92f80269cd238fd",
+      "source_url": "https://web.archive.org/web/20241204180643id_/https://www.reuters.com/world/middle-east/turkish-syria-offensive-would-impede-fight-against-islamic-state-kurdish-sdf-2022-06-02/",
+      "text": "Summary\n\nSDF warns new assault will hinder campaign against Islamic State\n\nOn Turkey visit, U.S. envoy repeats opposition to any attack\n\nFighter killed in Manbij, shelling kills four in Tel Abyad\n\nDEADLY VIOLENCE\n\nSign up here.\n\nAdditional reporting by Alaa Swilam in Cairo, Tom Perry in Beirut and Suleiman al-Khalidi in Amman and David Ljunggren in Ottawa; writing by Maher Chmaytelli and Tom Perry; editing by John Stonestreet, Christina Fincher and Jonathan Oatis\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\nX\n\nFacebook\n\nLinkedin\n\nEmail\n\nLink\n\nThomson Reuters\n\nCovers Canadian political, economic and general news as well as breaking news across North America, previously based in London and Moscow and a winner of Reuters’ Treasury scoop of the year.\n\nEmail\n\nX\n\nLinkedin\n\nRead Next\n\nMiddle EastcategoryIsraeli forces advance in Khan Younis area of southern Gaza, 20 killed across enclave 1:40 PM UTC\n\nMiddle EastcategorySyrian military and rebels battle around Hama3:54 PM UTC\n\nMiddle EastcategoryIsrael says deaths of six hostages in Gaza probably linked to Israeli strike5:27 PM UTC · Updated ago\n\nMiddle EastcategoryIsraeli settlers attack two Palestinian towns and their own military in West Bank2:42 PM UTC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:28:56+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:28:56+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241204180643id_/https://www.reuters.com/world/middle-east/turkish-syria-offensive-would-impede-fight-against-islamic-state-kurdish-sdf-2022-06-02/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241204180643id_/https://www.reuters.com/world/middle-east/turkish-syria-offensive-would-impede-fight-against-islamic-state-kurdish-sdf-2022-06-02/",
   "incident_ids": [
     "airwars-83761"
   ],
@@ -85,10 +109,10 @@
     "https://www.reuters.com/world/middle-east/turkish-syria-offensive-would-impede-fight-against-islamic-state-kurdish-sdf-2022-06-02/"
   ],
   "original_url": "https://www.reuters.com/world/middle-east/turkish-syria-offensive-would-impede-fight-against-islamic-state-kurdish-sdf-2022-06-02/",
-  "page_title": "",
+  "page_title": "U.S.-backed Syrian force warns against new Turkish attack, Russia alarmed | Reuters U.S.-backed Syrian force warns against new Turkish attack, Russia alarmed U.S.-backed Syrian force warns against new Turkish attack, Russia alarmed Text Small Text Medium Text Large Text Share X Facebook Linkedin Email Link Share X Facebook Linkedin Email Link Email X Linkedin X Facebook Instagram Youtube Linkedin",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys134-june-1-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:28:56+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-725700e15db1807f4a791c29",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.reuters.com/world/middle-east/turkish-syria-offensive-would-impede-fight-against-islamic-state-kurdish-sdf-2022-06-02/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Summary\n\nSDF warns new assault will hinder campaign against Islamic State\n\nOn Turkey visit, U.S. envoy repeats opposition to any attack\n\nFighter killed in Manbij, shelling kills four in Tel Abyad\n\nDEADLY VIOLENCE\n\nSign up here.\n\nAdditional reporting by Alaa Swilam in Cairo, Tom Perry in Beirut and Suleiman al-Khalidi in Amman and David Ljunggren in Ottawa; writing by Maher Chmaytelli and Tom Perry; editing by John Stonestreet, Christina Fincher and Jonathan Oatis\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\nX\n\nFacebook\n\nLinkedin\n\nEmail\n\nLink\n\nThomson Reuters\n\nCovers Canadian political, economic and general news as well as breaking news across North America, previously based in London and Moscow and a winner of Reuters’ Treasury scoop of the year.\n\nEmail\n\nX\n\nLinkedin\n\nRead Next\n\nMiddle EastcategoryIsraeli forces advance in Khan Younis area of southern Gaza, 20 killed across enclave 1:40 PM UTC\n\nMiddle EastcategorySyrian military and rebels battle around Hama3:54 PM UTC\n\nMiddle EastcategoryIsrael says deaths of six hostages in Gaza probably linked to Israeli strike5:27 PM UTC · Updated ago\n\nMiddle EastcategoryIsraeli settlers attack two Palestinian towns and their own military in West Bank2:42 PM UTC",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

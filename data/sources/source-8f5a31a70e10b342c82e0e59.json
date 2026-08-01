@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/x6QSu"
+    "https://archive.is/x6QSu",
+    "https://web.archive.org/web/20221129135807id_/http://www.zaitonmag.com/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D8%A8%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaiton mag",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "9581752cc727d6fb2d987cd2e45ab6e7834b4d06d3202f6f6cbe665905a873cc",
+  "content_variants": [
+    {
+      "bytes": 1205,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:32:17+00:00",
+      "sha256": "9581752cc727d6fb2d987cd2e45ab6e7834b4d06d3202f6f6cbe665905a873cc",
+      "source_url": "https://web.archive.org/web/20221129135807id_/http://www.zaitonmag.com/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D8%A8%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88/",
+      "text": "مقتل شخص بعملية إنزال جوي للتحالف الدولي و”قسد” جنوبي الحسكة\n\n2022-06-09\n197 زيارة\n\nقتل شخص فجر اليوم الخميس، خلال عملية إنزال جوي نفذتها قوات التحالف الدولي وقوات سوريا الديمقراطية “قسد” في قرية العطالة بريف الحسكة الجنوبي.\n\nوأفادت شبكة عين الفرات المحلية، بأن قوات تابعة للتحالف الدولي وبمشاركة قوات سوريا الديمقراطية “قسد” نفذت عملية إنزال جوي على أحد المنازل في قرية العطالة بريف الحسكة، وقتلت المدعو “حامد الناصر”.\n\nيذكر أن قوات التحالف الدولي وقوات سوريا الديمقراطية “قسد” تنفذان بشكل متواصل عمليات إنزال جوي ومداهمات وحملات اعتقال في العديد من القرى والبلدات بأرياف دير الزور والحسكة التي تسيطر عليها قوات سوريا الديمقراطية، بتهمة انتمائهم لتنظيم داعش."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:32:17+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:32:17+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20221129135807id_/http://www.zaitonmag.com/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D8%A8%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20221129135807id_/http://www.zaitonmag.com/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D8%A8%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88/",
   "incident_ids": [
     "airwars-83827"
   ],
@@ -85,10 +109,10 @@
     "http://www.zaitonmag.com/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D8%A8%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88/"
   ],
   "original_url": "http://www.zaitonmag.com/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D8%A8%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88/",
-  "page_title": "",
+  "page_title": "مقتل شخص بعملية إنزال جوي للتحالف الدولي و\"قسد\" جنوبي الحسكة - جريدة زيتون مقتل شخص بعملية إنزال جوي للتحالف الدولي و\"قسد\" جنوبي الحسكة - جريدة زيتون",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1981-june-9-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:32:17+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-8f5a31a70e10b342c82e0e59",
   "source_type": "other_web_page",
   "stable_id_basis": "http://www.zaitonmag.com/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5-%D8%A8%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D9%88%D9%8A-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D8%AF%D9%88/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مقتل شخص بعملية إنزال جوي للتحالف الدولي و”قسد” جنوبي الحسكة\n\n2022-06-09\n197 زيارة\n\nقتل شخص فجر اليوم الخميس، خلال عملية إنزال جوي نفذتها قوات التحالف الدولي وقوات سوريا الديمقراطية “قسد” في قرية العطالة بريف الحسكة الجنوبي.\n\nوأفادت شبكة عين الفرات المحلية، بأن قوات تابعة للتحالف الدولي وبمشاركة قوات سوريا الديمقراطية “قسد” نفذت عملية إنزال جوي على أحد المنازل في قرية العطالة بريف الحسكة، وقتلت المدعو “حامد الناصر”.\n\nيذكر أن قوات التحالف الدولي وقوات سوريا الديمقراطية “قسد” تنفذان بشكل متواصل عمليات إنزال جوي ومداهمات وحملات اعتقال في العديد من القرى والبلدات بأرياف دير الزور والحسكة التي تسيطر عليها قوات سوريا الديمقراطية، بتهمة انتمائهم لتنظيم داعش.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

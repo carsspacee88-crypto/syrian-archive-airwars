@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/fi62j"
+    "https://archive.md/fi62j",
+    "https://web.archive.org/web/20251210205657id_/https://www.syria.tv/%D9%82%D8%AA%D9%8A%D9%84%D8%A7%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D9%83%D9%81%D8%B1-%D8%AA%D8%AE%D8%A7%D8%B1%D9%8A%D9%85-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SyriaTv",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ba62b1b88d508734429c24d474f2f7069b2ecc353e5cce42648c2d986ed6fd2f",
+  "content_variants": [
+    {
+      "bytes": 1774,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:23:59+00:00",
+      "sha256": "ba62b1b88d508734429c24d474f2f7069b2ecc353e5cce42648c2d986ed6fd2f",
+      "source_url": "https://web.archive.org/web/20251210205657id_/https://www.syria.tv/%D9%82%D8%AA%D9%8A%D9%84%D8%A7%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D9%83%D9%81%D8%B1-%D8%AA%D8%AE%D8%A7%D8%B1%D9%8A%D9%85-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+      "text": "قتيلان بقصف جوي روسي على كفر تخاريم في ريف إدلب| فيديو\n\nقُتل مدنيان نتيجة غارات جوية شنتها طائرات روسية على محيط قرية \"تلتيتا\" في جبل السماق، شمال غربي إدلب.\n\nوأفاد مراسل تلفزيون سوريا بأن الطيران الروسي شنّ غارات جوية استهدفت منطقة جبل السماق الواقع شرق مدينة كفرتخاريم في ريف إدلب، ما أدّى إلى مقتل مدنيَّين اثنين كانا يعملان داخل أرض زراعية استهدفها القصف.\n\nوأضاف المراسل أن القصف أسفر عن توقّف شبكة الإنترنت في كفر تخاريم نتيجة استهداف الغارات الروسية أبراج الإنترنت والاتصالات في المنطقة.\n\nروسيا تستهدف بلدات شمال غربي سوريا بـ 20 غارة جوية | فيديو\n\nومنذ بداية الحملة العسكرية الأخيرة في شهر حزيران 2021 حتى الـ 26 من تشرين الأول الماضي، استجابت فرق الدفاع المدني السوري لأكثر من 700 هجوم جوي ومدفعي من قبل قوات النظام وروسيا والميليشيات الأخرى، تم فيها انتشال جثامين أكثر من 155 شخصاً فقدوا حياتهم، من بينهم 55 طفلاً، و24 امرأة ، بينما تم إنقاذ وإسعاف أكثر من 400 شخص أصيبوا نتيجة لتلك الهجمات.\n\nمعظمهم أطفال.. مجزرة جراء غارات روسية على مزرعة لمهجرين شمالي إدلب\n\nاخترنا لك\n\nالأكثر قراءة"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:23:58+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:23:59+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251210205657id_/https://www.syria.tv/%D9%82%D8%AA%D9%8A%D9%84%D8%A7%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D9%83%D9%81%D8%B1-%D8%AA%D8%AE%D8%A7%D8%B1%D9%8A%D9%85-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251210205657id_/https://www.syria.tv/%D9%82%D8%AA%D9%8A%D9%84%D8%A7%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D9%83%D9%81%D8%B1-%D8%AA%D8%AE%D8%A7%D8%B1%D9%8A%D9%85-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
   "incident_ids": [
     "airwars-80172"
   ],
@@ -85,10 +109,10 @@
     "https://www.syria.tv/%D9%82%D8%AA%D9%8A%D9%84%D8%A7%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D9%83%D9%81%D8%B1-%D8%AA%D8%AE%D8%A7%D8%B1%D9%8A%D9%85-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88"
   ],
   "original_url": "https://www.syria.tv/%D9%82%D8%AA%D9%8A%D9%84%D8%A7%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D9%83%D9%81%D8%B1-%D8%AA%D8%AE%D8%A7%D8%B1%D9%8A%D9%85-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-  "page_title": "",
+  "page_title": "قتيلان بقصف جوي روسي على كفر تخاريم في ريف إدلب| فيديو قتيلان بقصف جوي روسي على كفر تخاريم في ريف إدلب| فيديو قتيلان بقصف جوي روسي على كفر تخاريم في ريف إدلب| فيديو",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4669-november-22-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:23:59+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5123521a986df8a741f4fb80",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.syria.tv/%D9%82%D8%AA%D9%8A%D9%84%D8%A7%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D9%83%D9%81%D8%B1-%D8%AA%D8%AE%D8%A7%D8%B1%D9%8A%D9%85-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قتيلان بقصف جوي روسي على كفر تخاريم في ريف إدلب| فيديو\n\nقُتل مدنيان نتيجة غارات جوية شنتها طائرات روسية على محيط قرية \"تلتيتا\" في جبل السماق، شمال غربي إدلب.\n\nوأفاد مراسل تلفزيون سوريا بأن الطيران الروسي شنّ غارات جوية استهدفت منطقة جبل السماق الواقع شرق مدينة كفرتخاريم في ريف إدلب، ما أدّى إلى مقتل مدنيَّين اثنين كانا يعملان داخل أرض زراعية استهدفها القصف.\n\nوأضاف المراسل أن القصف أسفر عن توقّف شبكة الإنترنت في كفر تخاريم نتيجة استهداف الغارات الروسية أبراج الإنترنت والاتصالات في المنطقة.\n\nروسيا تستهدف بلدات شمال غربي سوريا بـ 20 غارة جوية | فيديو\n\nومنذ بداية الحملة العسكرية الأخيرة في شهر حزيران 2021 حتى الـ 26 من تشرين الأول الماضي، استجابت فرق الدفاع المدني السوري لأكثر من 700 هجوم جوي ومدفعي من قبل قوات النظام وروسيا والميليشيات الأخرى، تم فيها انتشال جثامين أكثر من 155 شخصاً فقدوا حياتهم، من بينهم 55 طفلاً، و24 امرأة ، بينما تم إنقاذ وإسعاف أكثر من 400 شخص أصيبوا نتيجة لتلك الهجمات.\n\nمعظمهم أطفال.. مجزرة جراء غارات روسية على مزرعة لمهجرين شمالي إدلب\n\nاخترنا لك\n\nالأكثر قراءة",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

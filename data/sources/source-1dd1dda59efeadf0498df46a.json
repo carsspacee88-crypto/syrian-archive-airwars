@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/VZNXa"
+    "https://archive.is/VZNXa",
+    "https://web.archive.org/web/20240524221119id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0ExDkJZNou6UCxyf7vsDebmiNBAWV9ryhpfgPvovGXjWmnJW6seXuY8peMhn43XkPl&id=100063943966278"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "News of the village of Nahlia and its environs",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "56ac80b9de343a0774714b72e872d8368cea82d5345598a9d4cc46882e7af8f8",
+  "content_variants": [
+    {
+      "bytes": 171,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:15:12+00:00",
+      "sha256": "56ac80b9de343a0774714b72e872d8368cea82d5345598a9d4cc46882e7af8f8",
+      "source_url": "https://web.archive.org/web/20240524221119id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0ExDkJZNou6UCxyf7vsDebmiNBAWV9ryhpfgPvovGXjWmnJW6seXuY8peMhn43XkPl&id=100063943966278",
+      "text": "الشهيد مصطفى وضاح غندوره\n\nاستشهد خلال القصف على اريحا قبل قليل\n\nالله يتقبلو من الشهداء ويغفرلو"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:15:12+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:15:12+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524221119id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0ExDkJZNou6UCxyf7vsDebmiNBAWV9ryhpfgPvovGXjWmnJW6seXuY8peMhn43XkPl&id=100063943966278"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524221119id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0ExDkJZNou6UCxyf7vsDebmiNBAWV9ryhpfgPvovGXjWmnJW6seXuY8peMhn43XkPl&id=100063943966278",
   "incident_ids": [
     "airwars-106388"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/permalink.php?story_fbid=pfbid0ExDkJZNou6UCxyf7vsDebmiNBAWV9ryhpfgPvovGXjWmnJW6seXuY8peMhn43XkPl&id=100063943966278"
   ],
   "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0ExDkJZNou6UCxyf7vsDebmiNBAWV9ryhpfgPvovGXjWmnJW6seXuY8peMhn43XkPl&id=100063943966278",
-  "page_title": "",
+  "page_title": "أخبار قرية نحليا وماحولها - ريف ادلب أخبار قرية نحليا وماحولها - ريف ادلب الشهيد مصطفى وضاح... - أخبار قرية نحليا وماحولها - ريف ادلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4840-october-7-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:15:12+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-1dd1dda59efeadf0498df46a",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid0ExDkJZNou6UCxyf7vsDebmiNBAWV9ryhpfgPvovGXjWmnJW6seXuY8peMhn43XkPl&id=100063943966278",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "الشهيد مصطفى وضاح غندوره\n\nاستشهد خلال القصف على اريحا قبل قليل\n\nالله يتقبلو من الشهداء ويغفرلو",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

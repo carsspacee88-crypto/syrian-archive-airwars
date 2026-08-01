@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/lYt6v"
+    "https://archive.md/lYt6v",
+    "https://web.archive.org/web/20250325123518id_/https://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-19-10-2021.html?fbclid=IwAR07mSaJKnnluPWYAc6spvkevFEslh01iMDc0n_dBI-_ZTmxv3w0GKW-d4k"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "857a57bd4a4804086b44b0db7d95588a521dc161c64685ba13802005bf0d4c3e",
+  "content_variants": [
+    {
+      "bytes": 2321,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:40:11+00:00",
+      "sha256": "857a57bd4a4804086b44b0db7d95588a521dc161c64685ba13802005bf0d4c3e",
+      "source_url": "https://web.archive.org/web/20250325123518id_/https://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-19-10-2021.html?fbclid=IwAR07mSaJKnnluPWYAc6spvkevFEslh01iMDc0n_dBI-_ZTmxv3w0GKW-d4k",
+      "text": "حصاد الأحداث الميدانية ليوم الثلاثاء 19-10-2021\n\nحصاد الأحداث الميدانية ليوم الثلاثاء 19-10-2021\n\nحلب::استهدفت فصائل الثوار معاقل قوات الأشد في الفوج 46 بالريف الغربي بقذائف المدفعية والهاون.\n\nإدلب::شن الطيران الروسي غارات جوية على محيط النقطة التركية في بلدة البارة بالريف الجنوبي، في حين سقط شهيد وجرحى جراء قصف مدفعي من قبل قوات الأسد على قرية قوقفين، وتعرضت بلدتي كنصفرة وسرجة لقصف مماثل.\n\nديرالزور::جرت اشتباكات بين عناصر ميليشيا الحرس الثوري الإيراني وعناصر ميليشيا الدفاع الوطني في مدينة العشارة بالريف الشرقي، وأصيب خلالها امرأة.\n\nقام مجهولون بإلقاء قنبلة صوتية على أحد المحلات في بلدة السوسة بالريف الشرقي، وقامت على إثرها دورية تابعة لقوات سوريا الديمقراطية \"قسد\" بمداهمة منزل صاحب المحل واعتقاله بهدف التحقيق معه.\n\nانتحرت طفلة شنقاً بظروف غامضة داخل منزلها في حي الرصافة بمدينة ديرالزور.\n\nالحسكة::استهدف الجيشين التركي والوطني معاقل \"قسد\" في قرية الدردارة ومحيط بلدة تل تمر بقذائف المدفعية.\n\nنشب حريق في مخيم روج بريف مدينة المالكية بالريف الشمالي الشرقي، ما أدى لحدوث أضرار مادية فقط.\n\nقُتل أحد عناصر \"قسد\" برصاص مجهولين في منطقة الدشيشة بالريف الجنوبي.\n\nتوفيت طفلة عراقية إثر دهسها من قبل صهريج لنقل المياه في مخيم الهول بالريف الشرقي.\n\nقامت مجموعة من مؤيدي نظام الأسد بقطع الطريق العام أمام رتل أمريكي مكون من أربع مدرعات في قرية حامو بريف مدينة القامشلي، ومنعوه من دخول القرية."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:40:11+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:40:11+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250325123518id_/https://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-19-10-2021.html?fbclid=IwAR07mSaJKnnluPWYAc6spvkevFEslh01iMDc0n_dBI-_ZTmxv3w0GKW-d4k"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250325123518id_/https://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-19-10-2021.html?fbclid=IwAR07mSaJKnnluPWYAc6spvkevFEslh01iMDc0n_dBI-_ZTmxv3w0GKW-d4k",
   "incident_ids": [
     "airwars-79642"
   ],
@@ -85,10 +109,10 @@
     "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-19-10-2021.html?fbclid=IwAR07mSaJKnnluPWYAc6spvkevFEslh01iMDc0n_dBI-_ZTmxv3w0GKW-d4k"
   ],
   "original_url": "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-19-10-2021.html?fbclid=IwAR07mSaJKnnluPWYAc6spvkevFEslh01iMDc0n_dBI-_ZTmxv3w0GKW-d4k",
-  "page_title": "",
+  "page_title": "حصاد الأحداث الميدانية ليوم الثلاثاء 19-10-2021 | شبكة شام الإخبارية حصاد الأحداث الميدانية ليوم الثلاثاء 19-10-2021 حصاد الأحداث الميدانية ليوم الثلاثاء 19-10-2021",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4658-october-19-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:40:11+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b96f3d9be7a5f7f0f4a22d65",
   "source_type": "other_web_page",
   "stable_id_basis": "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-19-10-2021.html?fbclid=IwAR07mSaJKnnluPWYAc6spvkevFEslh01iMDc0n_dBI-_ZTmxv3w0GKW-d4k",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "حصاد الأحداث الميدانية ليوم الثلاثاء 19-10-2021\n\nحصاد الأحداث الميدانية ليوم الثلاثاء 19-10-2021\n\nحلب::استهدفت فصائل الثوار معاقل قوات الأشد في الفوج 46 بالريف الغربي بقذائف المدفعية والهاون.\n\nإدلب::شن الطيران الروسي غارات جوية على محيط النقطة التركية في بلدة البارة بالريف الجنوبي، في حين سقط شهيد وجرحى جراء قصف مدفعي من قبل قوات الأسد على قرية قوقفين، وتعرضت بلدتي كنصفرة وسرجة لقصف مماثل.\n\nديرالزور::جرت اشتباكات بين عناصر ميليشيا الحرس الثوري الإيراني وعناصر ميليشيا الدفاع الوطني في مدينة العشارة بالريف الشرقي، وأصيب خلالها امرأة.\n\nقام مجهولون بإلقاء قنبلة صوتية على أحد المحلات في بلدة السوسة بالريف الشرقي، وقامت على إثرها دورية تابعة لقوات سوريا الديمقراطية \"قسد\" بمداهمة منزل صاحب المحل واعتقاله بهدف التحقيق معه.\n\nانتحرت طفلة شنقاً بظروف غامضة داخل منزلها في حي الرصافة بمدينة ديرالزور.\n\nالحسكة::استهدف الجيشين التركي والوطني معاقل \"قسد\" في قرية الدردارة ومحيط بلدة تل تمر بقذائف المدفعية.\n\nنشب حريق في مخيم روج بريف مدينة المالكية بالريف الشمالي الشرقي، ما أدى لحدوث أضرار مادية فقط.\n\nقُتل أحد عناصر \"قسد\" برصاص مجهولين في منطقة الدشيشة بالريف الجنوبي.\n\nتوفيت طفلة عراقية إثر دهسها من قبل صهريج لنقل المياه في مخيم الهول بالريف الشرقي.\n\nقامت مجموعة من مؤيدي نظام الأسد بقطع الطريق العام أمام رتل أمريكي مكون من أربع مدرعات في قرية حامو بريف مدينة القامشلي، ومنعوه من دخول القرية.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

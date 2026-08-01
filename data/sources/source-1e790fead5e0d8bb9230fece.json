@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/xDEYO"
+    "https://archive.is/xDEYO",
+    "https://web.archive.org/web/20240612220333id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/jysh-alahtlal-altrky-yqsf-nahyt-tl-rft-93774"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c69f070d255a649624f55d1fe83b9ec5274cc3fe9490309aa4942dc22430f75e",
+  "content_variants": [
+    {
+      "bytes": 373,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:15:17+00:00",
+      "sha256": "c69f070d255a649624f55d1fe83b9ec5274cc3fe9490309aa4942dc22430f75e",
+      "source_url": "https://web.archive.org/web/20240612220333id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/jysh-alahtlal-altrky-yqsf-nahyt-tl-rft-93774",
+      "text": "ANF\n\nالشهباء\n\nالسبت, ٢٩ يوليو ٢٠٢٣, ١٠:٤٠\n\nأفادت المعلومات الواردة لوكالتنا بإقدام جيش الاحتلال التركي على قصف ناحية تل رفعت التابعة لمقاطعة الشهباء، وأن القصف أسفر عن إصابة المواطن آزاد حسين كَول دَدو بجروح."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:15:17+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:15:17+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240612220333id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/jysh-alahtlal-altrky-yqsf-nahyt-tl-rft-93774"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240612220333id_/https://anfarabic.com/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/jysh-alahtlal-altrky-yqsf-nahyt-tl-rft-93774",
   "incident_ids": [
     "airwars-92586"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/سوريا/jysh-alahtlal-altrky-yqsf-nahyt-tl-rft-93774"
   ],
   "original_url": "https://anfarabic.com/سوريا/jysh-alahtlal-altrky-yqsf-nahyt-tl-rft-93774",
-  "page_title": "",
+  "page_title": "ANF |\nجيش الاحتلال التركي يقصف ناحية تل رفعت جيش الاحتلال التركي يقصف ناحية تل رفعت جيش الاحتلال التركي يقصف ناحية تل رفعت",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts617-july-29-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:15:17+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-1e790fead5e0d8bb9230fece",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfarabic.com/سوريا/jysh-alahtlal-altrky-yqsf-nahyt-tl-rft-93774",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ANF\n\nالشهباء\n\nالسبت, ٢٩ يوليو ٢٠٢٣, ١٠:٤٠\n\nأفادت المعلومات الواردة لوكالتنا بإقدام جيش الاحتلال التركي على قصف ناحية تل رفعت التابعة لمقاطعة الشهباء، وأن القصف أسفر عن إصابة المواطن آزاد حسين كَول دَدو بجروح.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

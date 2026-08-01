@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/TN580"
+    "https://archive.md/TN580",
+    "https://web.archive.org/web/20230204015645id_/https://www.syriahr.com/en/225839/?fbclid=IwAR1RPk2io9SzMFWJlEsOw1usxO13RjQEL00zrLCqzeoIFBy_JsM7bqQHKmA"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syria Observatory for Human Rights (SOHR)",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "6bfe3b7d1125effdad0c314fa75ae88c9a817a8df74a14ad761e95ba46ead98c",
+  "content_variants": [
+    {
+      "bytes": 1858,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:28:30+00:00",
+      "sha256": "6bfe3b7d1125effdad0c314fa75ae88c9a817a8df74a14ad761e95ba46ead98c",
+      "source_url": "https://web.archive.org/web/20230204015645id_/https://www.syriahr.com/en/225839/?fbclid=IwAR1RPk2io9SzMFWJlEsOw1usxO13RjQEL00zrLCqzeoIFBy_JsM7bqQHKmA",
+      "text": "New massacre | Regime forces shell Ariha city with rockets, killing and injuring over 35\n\nSOHR sources in the “de-escalation zone” have documented a new massacre in the early morning in Idlib province. SOHR initial reports have confirmed that eight people, including two children and a female, were killed in rocket fire by regime forces on Ariha city in the southern countryside of Idlib, while the innocent civilians were heading to their work and schools. The death toll is expected to rise further as the attack left at least 26 persons injured, some seriously. There are unconfirmed reports of more casualties.\n\nYesterday, SOHR activists reported renewed airstrikes by Russian jets, after suspension of aerial operations for a week. The Russian fighter jets executed three airstrikes on the perimeter of the Turkish military post in al-Barah in Jabal al-Zawiyah in the southern countryside of Idlib, as the Russian missiles hit positions a few metres away from the Turkish post. However, no casualties were reported.\n\nOn the other hand, regime forces bombarded positions in Sarjeh, Quqfin in the southern countryside of Idlin and Kafr Ta’al in the western countryside of Aleppo with Russian-made shells “Krasinball”, killing an opposition fighter and injuring four others in Quqfin.\n\nPrev Post\n\nDamascus | Explosion of twin IEDs in regime military bus leaves 14 people dead\n\nNext Post\n\nSecurity breach in Damascus based on Turkish-Russian deal | New attacks in Damascus left 20 casualties\n\nDeir Ezzor | Disputes in “brothel” sparks armed clashes between the National Defence…\n\nDeath toll update | Regime soldier dies affected by his wounds raising number of…\n\nNew assa-ssination | Two collaborators with the Military Intelligence kil-led in…\n\nMilitary escalation | “Al-Fath Al-Mubin” shell regime positions in Sahl Al-Ghab and…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:28:29+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:28:30+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230204015645id_/https://www.syriahr.com/en/225839/?fbclid=IwAR1RPk2io9SzMFWJlEsOw1usxO13RjQEL00zrLCqzeoIFBy_JsM7bqQHKmA"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230204015645id_/https://www.syriahr.com/en/225839/?fbclid=IwAR1RPk2io9SzMFWJlEsOw1usxO13RjQEL00zrLCqzeoIFBy_JsM7bqQHKmA",
   "incident_ids": [
     "airwars-79588",
     "airwars-79642"
@@ -87,10 +111,10 @@
     "https://www.syriahr.com/en/225839/?fbclid=IwAR1RPk2io9SzMFWJlEsOw1usxO13RjQEL00zrLCqzeoIFBy_JsM7bqQHKmA"
   ],
   "original_url": "https://www.syriahr.com/en/225839/?fbclid=IwAR1RPk2io9SzMFWJlEsOw1usxO13RjQEL00zrLCqzeoIFBy_JsM7bqQHKmA",
-  "page_title": "",
+  "page_title": "New massacre | Regime forces shell Ariha city with rockets, killing and injuring over 35 • The Syrian Observatory For Human Rights New massacre | Regime forces shell Ariha city with rockets, killing and injuring over 35 • The Syrian Observatory For Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4659-october-20-2021/",
@@ -118,16 +142,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:28:30+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-64ad0234cd7eed02329e13b0",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/225839/?fbclid=IwAR1RPk2io9SzMFWJlEsOw1usxO13RjQEL00zrLCqzeoIFBy_JsM7bqQHKmA",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "New massacre | Regime forces shell Ariha city with rockets, killing and injuring over 35\n\nSOHR sources in the “de-escalation zone” have documented a new massacre in the early morning in Idlib province. SOHR initial reports have confirmed that eight people, including two children and a female, were killed in rocket fire by regime forces on Ariha city in the southern countryside of Idlib, while the innocent civilians were heading to their work and schools. The death toll is expected to rise further as the attack left at least 26 persons injured, some seriously. There are unconfirmed reports of more casualties.\n\nYesterday, SOHR activists reported renewed airstrikes by Russian jets, after suspension of aerial operations for a week. The Russian fighter jets executed three airstrikes on the perimeter of the Turkish military post in al-Barah in Jabal al-Zawiyah in the southern countryside of Idlib, as the Russian missiles hit positions a few metres away from the Turkish post. However, no casualties were reported.\n\nOn the other hand, regime forces bombarded positions in Sarjeh, Quqfin in the southern countryside of Idlin and Kafr Ta’al in the western countryside of Aleppo with Russian-made shells “Krasinball”, killing an opposition fighter and injuring four others in Quqfin.\n\nPrev Post\n\nDamascus | Explosion of twin IEDs in regime military bus leaves 14 people dead\n\nNext Post\n\nSecurity breach in Damascus based on Turkish-Russian deal | New attacks in Damascus left 20 casualties\n\nDeir Ezzor | Disputes in “brothel” sparks armed clashes between the National Defence…\n\nDeath toll update | Regime soldier dies affected by his wounds raising number of…\n\nNew assa-ssination | Two collaborators with the Military Intelligence kil-led in…\n\nMilitary escalation | “Al-Fath Al-Mubin” shell regime positions in Sahl Al-Ghab and…",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

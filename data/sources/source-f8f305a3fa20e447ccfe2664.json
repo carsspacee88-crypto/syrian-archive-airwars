@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/gNfWk"
+    "https://archive.is/gNfWk",
+    "https://web.archive.org/web/20220702011534id_/https://npasyria.com/en/78846/?fbclid=IwAR2oflUxueaxblP60H7sySsz-BhqLuoyLaP6dTlhPnIyW2pC27AdhdE46AI"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "bd1c53ea4be077f82ad54debd11bf98cb755c0d9710b24e9512e7bc88536744a",
+  "content_variants": [
+    {
+      "bytes": 754,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:52:25+00:00",
+      "sha256": "bd1c53ea4be077f82ad54debd11bf98cb755c0d9710b24e9512e7bc88536744a",
+      "source_url": "https://web.archive.org/web/20220702011534id_/https://npasyria.com/en/78846/?fbclid=IwAR2oflUxueaxblP60H7sySsz-BhqLuoyLaP6dTlhPnIyW2pC27AdhdE46AI",
+      "text": "Drone attacks neighborhood in northeast Syria’s Qamishli\n\nPeople checking the damage affected a food transport truck in Qamishli – North Press\n\nQAMISHLI, Syria (North Press) – A local source told North Press on Thursday that a drone, expected to be Turkish, attacked the city of Qamishli, northeastern Syria, injuring a civilian and causing material damage.\n\n“At about 10 a.m. a ‘Turkish’ drone attacked a location near a local market in Maysaloon neighborhood in the city of Qamishli,” the source added.\n\nThe attack injured a civilian and caused material damage to three food transport trucks, according to the source.\n\nSecurity Forces of North and East Syria (Asayish) have not commented on the incident, yet.\n\nReporting by Hoshang Hassan"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:52:24+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:52:25+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220702011534id_/https://npasyria.com/en/78846/?fbclid=IwAR2oflUxueaxblP60H7sySsz-BhqLuoyLaP6dTlhPnIyW2pC27AdhdE46AI"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220702011534id_/https://npasyria.com/en/78846/?fbclid=IwAR2oflUxueaxblP60H7sySsz-BhqLuoyLaP6dTlhPnIyW2pC27AdhdE46AI",
   "incident_ids": [
     "airwars-83823"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/78846/?fbclid=IwAR2oflUxueaxblP60H7sySsz-BhqLuoyLaP6dTlhPnIyW2pC27AdhdE46AI"
   ],
   "original_url": "https://npasyria.com/en/78846/?fbclid=IwAR2oflUxueaxblP60H7sySsz-BhqLuoyLaP6dTlhPnIyW2pC27AdhdE46AI",
-  "page_title": "",
+  "page_title": "Drone attacks neighborhood in northeast Syria's Qamishli Drone attacks neighborhood in northeast Syria's Qamishli",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts518-june-9-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:52:25+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f8f305a3fa20e447ccfe2664",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/78846/?fbclid=IwAR2oflUxueaxblP60H7sySsz-BhqLuoyLaP6dTlhPnIyW2pC27AdhdE46AI",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Drone attacks neighborhood in northeast Syria’s Qamishli\n\nPeople checking the damage affected a food transport truck in Qamishli – North Press\n\nQAMISHLI, Syria (North Press) – A local source told North Press on Thursday that a drone, expected to be Turkish, attacked the city of Qamishli, northeastern Syria, injuring a civilian and causing material damage.\n\n“At about 10 a.m. a ‘Turkish’ drone attacked a location near a local market in Maysaloon neighborhood in the city of Qamishli,” the source added.\n\nThe attack injured a civilian and caused material damage to three food transport trucks, according to the source.\n\nSecurity Forces of North and East Syria (Asayish) have not commented on the incident, yet.\n\nReporting by Hoshang Hassan",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/0k16B"
+    "https://archive.is/0k16B",
+    "https://web.archive.org/web/20240304085136id_/https://www.syriahr.com/en/301187/?fbclid=IwAR1bkDF6X6ZbljPKQSMZ8pMWf_tdn9iOHMuWSN_BrZKoH_oPiedyVbqklXc"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2b9456f372b591d6a3ebce89f5f60ed9a2e55ad685bd4316c9560779a3b0cce1",
+  "content_variants": [
+    {
+      "bytes": 1882,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:46:54+00:00",
+      "sha256": "2b9456f372b591d6a3ebce89f5f60ed9a2e55ad685bd4316c9560779a3b0cce1",
+      "source_url": "https://web.archive.org/web/20240304085136id_/https://www.syriahr.com/en/301187/?fbclid=IwAR1bkDF6X6ZbljPKQSMZ8pMWf_tdn9iOHMuWSN_BrZKoH_oPiedyVbqklXc",
+      "text": "During crossing of Russian convoy | Turkish forces shell positions in northern countryside of Aleppo and hit Russian armoured vehicle\n\nAleppo province: Earlier today, Turkish forces fired heavy artillery shells on positions on the road of Mazarea Um Hosh-Harbel in the northern countryside of Aleppo, within areas controlled by Kurdish and regime forces, during the passing of a Russian convoy in the region, where a shell hit an armoured vehicle and damaged it. No causalities were reported.\nMazarea Um Hosh-Harbel is considered as lines of contacts between areas controlled by Kurdish and regime forces on one hand, and “Euphrates Shield” areas on the other hand, in the opposite side of Marea city in the northern countryside of Aleppo.\nYesterday, SOHR reported that Turkish forces and their proxies fired heavy artillery shells on the vicinity of Tel Refaat city, Abin, Kashta’ar, Mara’anaz, Tatimrash, Al-Malkiya, Soghanka and Herasha in Shirawa district in Afrin countryside within areas of Kurdish and regime forces in northern Aleppo countryside. However, no casualties have been reported yet.\nThis comes after an attack on two bases of Turkish forces in Aleppo countryside.\n\nPrev Post\n\nExploiting bad living conditions through offering financial prizes | Iranian cultural centre in Deir Ezzor opens new courses for learning Persian language\n\nNext Post\n\n“SOHR camera” captures the deployment of members of the military intelligence service and National Defence Forces near Al-Masraf roundabout in Al-Mayadeen city in the eastern countryside of Deir Ezzor\n\nAleppo | Turkish forces shell village in Minbij countryside\n\nDeir Ezzor | bombardment exchanged between regime forces and “SDF” in…\n\nDays after killing of officer accused of firing missiles into occupied Golan | Two…\n\nDeath toll update | Five members killed in previous operation by HTS on Jabal…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:46:53+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:46:54+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240304085136id_/https://www.syriahr.com/en/301187/?fbclid=IwAR1bkDF6X6ZbljPKQSMZ8pMWf_tdn9iOHMuWSN_BrZKoH_oPiedyVbqklXc"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240304085136id_/https://www.syriahr.com/en/301187/?fbclid=IwAR1bkDF6X6ZbljPKQSMZ8pMWf_tdn9iOHMuWSN_BrZKoH_oPiedyVbqklXc",
   "incident_ids": [
     "airwars-89669"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/301187/?fbclid=IwAR1bkDF6X6ZbljPKQSMZ8pMWf_tdn9iOHMuWSN_BrZKoH_oPiedyVbqklXc"
   ],
   "original_url": "https://www.syriahr.com/en/301187/?fbclid=IwAR1bkDF6X6ZbljPKQSMZ8pMWf_tdn9iOHMuWSN_BrZKoH_oPiedyVbqklXc",
-  "page_title": "",
+  "page_title": "During crossing of Russian convoy | Turkish forces shell positions in northern countryside of Aleppo and hit Russian armoured vehicle - The Syrian Observatory For Human Rights During crossing of Russian convoy | Turkish forces shell positions in northern countryside of Aleppo and hit Russian armoured vehicle - The Syrian Observatory For Human Rights During crossing of Russian convoy | Turkish forces shell positions in northern countryside of Aleppo and hit Russian armoured vehicle - The Syrian Observatory For Human Rights During crossing of Russian convoy | Turkish forces shell positions in northern countryside of Aleppo and hit Russian armoured vehicle During crossing of Russian convoy | Turkish forces shell positions in northern countryside of Aleppo and hit Russian armoured vehicle",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts600-june-12-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:46:54+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e3c95b326fc77e15bb063bd8",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/301187/?fbclid=IwAR1bkDF6X6ZbljPKQSMZ8pMWf_tdn9iOHMuWSN_BrZKoH_oPiedyVbqklXc",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "During crossing of Russian convoy | Turkish forces shell positions in northern countryside of Aleppo and hit Russian armoured vehicle\n\nAleppo province: Earlier today, Turkish forces fired heavy artillery shells on positions on the road of Mazarea Um Hosh-Harbel in the northern countryside of Aleppo, within areas controlled by Kurdish and regime forces, during the passing of a Russian convoy in the region, where a shell hit an armoured vehicle and damaged it. No causalities were reported.\nMazarea Um Hosh-Harbel is considered as lines of contacts between areas controlled by Kurdish and regime forces on one hand, and “Euphrates Shield” areas on the other hand, in the opposite side of Marea city in the northern countryside of Aleppo.\nYesterday, SOHR reported that Turkish forces and their proxies fired heavy artillery shells on the vicinity of Tel Refaat city, Abin, Kashta’ar, Mara’anaz, Tatimrash, Al-Malkiya, Soghanka and Herasha in Shirawa district in Afrin countryside within areas of Kurdish and regime forces in northern Aleppo countryside. However, no casualties have been reported yet.\nThis comes after an attack on two bases of Turkish forces in Aleppo countryside.\n\nPrev Post\n\nExploiting bad living conditions through offering financial prizes | Iranian cultural centre in Deir Ezzor opens new courses for learning Persian language\n\nNext Post\n\n“SOHR camera” captures the deployment of members of the military intelligence service and National Defence Forces near Al-Masraf roundabout in Al-Mayadeen city in the eastern countryside of Deir Ezzor\n\nAleppo | Turkish forces shell village in Minbij countryside\n\nDeir Ezzor | bombardment exchanged between regime forces and “SDF” in…\n\nDays after killing of officer accused of firing missiles into occupied Golan | Two…\n\nDeath toll update | Five members killed in previous operation by HTS on Jabal…",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

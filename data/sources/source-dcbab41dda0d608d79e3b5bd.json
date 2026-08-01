@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/pIScR"
+    "https://archive.md/pIScR",
+    "https://web.archive.org/web/20220517211359id_/https://www.basnews.com/en/babat/722655"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "BasNews",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c5f54b32de46169cf921eb1d3f9ceededbc28605ee89b519c5a7bed4902cc09f",
+  "content_variants": [
+    {
+      "bytes": 1515,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:46:26+00:00",
+      "sha256": "c5f54b32de46169cf921eb1d3f9ceededbc28605ee89b519c5a7bed4902cc09f",
+      "source_url": "https://web.archive.org/web/20220517211359id_/https://www.basnews.com/en/babat/722655",
+      "text": "Suspected Turkish Airstrike Targets Vehicle in NE Syria: Monitor\n\nERBIL — A suspected Turkish airstrike on Tuesday evening targeted a vehicle in the Kurdish city of Qamishli in northeast of Syria, a monitoring group reported.\n\nThe Syrian Observatory for Human Rights said in a statement that target was likely a military vehicle, without giving further details on the incident.\n\nPKK-affiliated news agencies also confirmed the report and explained that the car was hit by a Turkish airstrike in Hilaliye district, in Qamishli, for which they blamed Turkey.\n\nTurkey often hits targets belonging to the Kurdish forces in Syria as Ankara views the Kurdish fighters as an extension of the Kurdistan Worker's Party (PKK) which is designated as a \"terrorist organization\" by the country.\n\nThe PKK and Turkish army are in a military conflict for more than three decades over the Kurdish question in Turkey.\n\nAnkara has previously carried out a number of operations against the Kurdish forces in Syria over the past few years while it has lately began threatening to conduct a new incursion into neighboring Syria.\n\nTurkey last week deployed more troops to the borders of Syria as part of preparations for a possible fresh operation against the Kurds in the neighboring country.\n\nOPINION\n\nLATEST NEWS\n\nNEWS\n\nKurdistan\n\nIraq\n\nMiddle East\n\nDiaspora\n\nWorld\n\nLIFESTYLE\n\nEnvironment\n\nHealth\n\nMagazine\n\nTechnology\n\nTourism\n\nCULTURE & ARTS\n\nAgenda\n\nBook\n\nArt\n\nCinema\n\nMusic\n\nLanguages\n\nKurdish\n\nArabic\n\nPersian\n\nKurdî\n\nTürkçe"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:46:26+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:46:26+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220517211359id_/https://www.basnews.com/en/babat/722655"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220517211359id_/https://www.basnews.com/en/babat/722655",
   "incident_ids": [
     "airwars-79932"
   ],
@@ -85,10 +109,10 @@
     "https://www.basnews.com/en/babat/722655"
   ],
   "original_url": "https://www.basnews.com/en/babat/722655",
-  "page_title": "",
+  "page_title": "Suspected Turkish Airstrike Targets Vehicle in NE Syria: Monitor Suspected Turkish Airstrike Targets Vehicle in NE Syria: Monitor Suspected Turkish Airstrike Targets Vehicle in NE Syria: Monitor",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts478-november-9-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:46:26+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-dcbab41dda0d608d79e3b5bd",
   "source_type": "news_article",
   "stable_id_basis": "https://www.basnews.com/en/babat/722655",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Suspected Turkish Airstrike Targets Vehicle in NE Syria: Monitor\n\nERBIL — A suspected Turkish airstrike on Tuesday evening targeted a vehicle in the Kurdish city of Qamishli in northeast of Syria, a monitoring group reported.\n\nThe Syrian Observatory for Human Rights said in a statement that target was likely a military vehicle, without giving further details on the incident.\n\nPKK-affiliated news agencies also confirmed the report and explained that the car was hit by a Turkish airstrike in Hilaliye district, in Qamishli, for which they blamed Turkey.\n\nTurkey often hits targets belonging to the Kurdish forces in Syria as Ankara views the Kurdish fighters as an extension of the Kurdistan Worker's Party (PKK) which is designated as a \"terrorist organization\" by the country.\n\nThe PKK and Turkish army are in a military conflict for more than three decades over the Kurdish question in Turkey.\n\nAnkara has previously carried out a number of operations against the Kurdish forces in Syria over the past few years while it has lately began threatening to conduct a new incursion into neighboring Syria.\n\nTurkey last week deployed more troops to the borders of Syria as part of preparations for a possible fresh operation against the Kurds in the neighboring country.\n\nOPINION\n\nLATEST NEWS\n\nNEWS\n\nKurdistan\n\nIraq\n\nMiddle East\n\nDiaspora\n\nWorld\n\nLIFESTYLE\n\nEnvironment\n\nHealth\n\nMagazine\n\nTechnology\n\nTourism\n\nCULTURE & ARTS\n\nAgenda\n\nBook\n\nArt\n\nCinema\n\nMusic\n\nLanguages\n\nKurdish\n\nArabic\n\nPersian\n\nKurdî\n\nTürkçe",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,
