@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/dnNsM"
+    "https://archive.is/dnNsM",
+    "https://web.archive.org/web/20220301194946id_/https://twitter.com/BirDertli42/status/1498747170870149122"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@BirDertli42",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c5171aac1f012e099cb99f9b4178cc6458bdd5769ebfd467b571434d1f01ebae",
+  "content_variants": [
+    {
+      "bytes": 315,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:51:32+00:00",
+      "sha256": "c5171aac1f012e099cb99f9b4178cc6458bdd5769ebfd467b571434d1f01ebae",
+      "source_url": "https://web.archive.org/web/20220301194946id_/https://twitter.com/BirDertli42/status/1498747170870149122",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nPKK'lı teröristlerin Cerablus'a yönelik saldırısında bir sivil yaralandı.pic.twitter.com/hZCBjgiT5J\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:51:31+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:51:32+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220301194946id_/https://twitter.com/BirDertli42/status/1498747170870149122"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220301194946id_/https://twitter.com/BirDertli42/status/1498747170870149122",
   "incident_ids": [
     "airwars-82377"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/BirDertli42/status/1498747170870149122"
   ],
   "original_url": "https://twitter.com/BirDertli42/status/1498747170870149122",
-  "page_title": "",
+  "page_title": "Ali Karadayı 🇹🇷 on Twitter: \"PKK'lı teröristlerin Cerablus'a yönelik saldırısında bir sivil yaralandı.… \" Ali Karadayı 🇹🇷 on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys127-march-1-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:51:32+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-eadbc9b0f37ff36257aa7aa1",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/BirDertli42/status/1498747170870149122",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nPKK'lı teröristlerin Cerablus'a yönelik saldırısında bir sivil yaralandı.pic.twitter.com/hZCBjgiT5J\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

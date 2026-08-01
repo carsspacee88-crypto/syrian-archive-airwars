@@ -67,8 +67,22 @@
   "content_hash": null,
   "content_variants": [],
   "descriptions": [],
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:26:54+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:26:59+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524204220id_/https://www.facebook.com/Mohammed12fu/posts/pfbid02LCL9MNCpaQ3QaT2kh9pGvssVJFN3HbEEMTijL5fEudmVSfMpJU3vzGuNGua15kTml"
+    }
+  ],
   "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
+  "failure_reason": "capture_without_text",
   "final_redirected_url": "",
   "incident_ids": [
     "airwars-96512"
@@ -108,7 +122,7 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
+  "retrieval_status": "capture_without_text",
   "retrieved_at": null,
   "review_flags": [],
   "schema_version": "1.0.0",

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/SZfHi"
+    "https://archive.is/SZfHi",
+    "https://web.archive.org/web/20240524161930id_/https://www.facebook.com/a7mad.bakour/posts/pfbid02Vrwj1bBwcvgUFGkR5w92zVtnBzN3d9zGbSjuAt3hvbcua1dLRxBMyfBpNauhFEAEl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Journalist Ahmed Bakour Home",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d43d9548d0ba1ec2c4beec4eaaef16033da5acc0261c443ec0c425cbb3c73eb0",
+  "content_variants": [
+    {
+      "bytes": 149,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:31:56+00:00",
+      "sha256": "d43d9548d0ba1ec2c4beec4eaaef16033da5acc0261c443ec0c425cbb3c73eb0",
+      "source_url": "https://web.archive.org/web/20240524161930id_/https://www.facebook.com/a7mad.bakour/posts/pfbid02Vrwj1bBwcvgUFGkR5w92zVtnBzN3d9zGbSjuAt3hvbcua1dLRxBMyfBpNauhFEAEl",
+      "text": "عاجل اصابة اسماعيل قداد اثر استهداف مدينة اريحا بالرجمات الصواريخ قبل قليل\n#اريحا"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:31:55+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:31:56+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524161930id_/https://www.facebook.com/a7mad.bakour/posts/pfbid02Vrwj1bBwcvgUFGkR5w92zVtnBzN3d9zGbSjuAt3hvbcua1dLRxBMyfBpNauhFEAEl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524161930id_/https://www.facebook.com/a7mad.bakour/posts/pfbid02Vrwj1bBwcvgUFGkR5w92zVtnBzN3d9zGbSjuAt3hvbcua1dLRxBMyfBpNauhFEAEl",
   "incident_ids": [
     "airwars-106001"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/a7mad.bakour/posts/pfbid02Vrwj1bBwcvgUFGkR5w92zVtnBzN3d9zGbSjuAt3hvbcua1dLRxBMyfBpNauhFEAEl"
   ],
   "original_url": "https://www.facebook.com/a7mad.bakour/posts/pfbid02Vrwj1bBwcvgUFGkR5w92zVtnBzN3d9zGbSjuAt3hvbcua1dLRxBMyfBpNauhFEAEl",
-  "page_title": "",
+  "page_title": "الإعلامي أحمد بكور الرئيسية الإعلامي أحمد بكور الرئيسية عاجل اصابة اسماعيل قداد اثر... - الإعلامي أحمد بكور الرئيسية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4834-october-6-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:31:56+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-69ef22544323545e8765bde3",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/a7mad.bakour/posts/pfbid02Vrwj1bBwcvgUFGkR5w92zVtnBzN3d9zGbSjuAt3hvbcua1dLRxBMyfBpNauhFEAEl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "عاجل اصابة اسماعيل قداد اثر استهداف مدينة اريحا بالرجمات الصواريخ قبل قليل\n#اريحا",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

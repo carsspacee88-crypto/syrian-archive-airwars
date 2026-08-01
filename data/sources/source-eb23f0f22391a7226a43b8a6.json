@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/1LPoI"
+    "https://archive.is/1LPoI",
+    "https://web.archive.org/web/20250413034442id_/https://sana.sy/?p=2033490"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SANA news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c582dc416aba41b0a93c4180e35199c562bdcbf40570df38535676159e1dd86e",
+  "content_variants": [
+    {
+      "bytes": 992,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:51:24+00:00",
+      "sha256": "c582dc416aba41b0a93c4180e35199c562bdcbf40570df38535676159e1dd86e",
+      "source_url": "https://web.archive.org/web/20250413034442id_/https://sana.sy/?p=2033490",
+      "text": "2024-01-20\n\nدمشق-سانا\n\nاستشهد عدد من المدنيين وأصيب آخرون جراء عدوان إسرائيلي بالصواريخ استهدف مبنى سكنياً في حي المزة بمدينة دمشق.\n\nوذكر مصدر عسكري في تصريح لـ سانا أنه “حوالي الساعة العاشرة و20 دقيقة من صباح اليوم نفذ العدو الإسرائيلي عدواناً جوياً من اتجاه الجولان السوري المحتل مستهدفاً بناءً سكنياً في حي المزة في مدينة دمشق وقد تصدت وسائط دفاعنا الجوي لصواريخ العدوان وأسقطت بعضها”.\n\nوأضاف المصدر: إن العدوان “أسفر عن استشهاد وإصابة عدد من المدنيين وتدمير البناء بالكامل وتضرر الأبنية المجاورة”.\n\nمتابعة أخبار سانا على تلغرام https://t.me/SyrianArabNewsAgenc"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:51:23+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:51:24+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250413034442id_/https://sana.sy/?p=2033490"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250413034442id_/https://sana.sy/?p=2033490",
   "incident_ids": [
     "airwars-114489"
   ],
@@ -85,10 +109,10 @@
     "https://sana.sy/?p=2033490"
   ],
   "original_url": "https://sana.sy/?p=2033490",
-  "page_title": "",
+  "page_title": "استشهاد وإصابة عدد من المدنيين جراء عدوان إسرائيلي استهدف مبنى سكنياً في حي المزة بمدينة دمشق – S A N A استشهاد وإصابة عدد من المدنيين جراء عدوان إسرائيلي استهدف مبنى سكنياً في حي المزة بمدينة دمشق - S A N A",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy038-january-20-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:51:24+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-eb23f0f22391a7226a43b8a6",
   "source_type": "news_article",
   "stable_id_basis": "https://sana.sy/?p=2033490",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "2024-01-20\n\nدمشق-سانا\n\nاستشهد عدد من المدنيين وأصيب آخرون جراء عدوان إسرائيلي بالصواريخ استهدف مبنى سكنياً في حي المزة بمدينة دمشق.\n\nوذكر مصدر عسكري في تصريح لـ سانا أنه “حوالي الساعة العاشرة و20 دقيقة من صباح اليوم نفذ العدو الإسرائيلي عدواناً جوياً من اتجاه الجولان السوري المحتل مستهدفاً بناءً سكنياً في حي المزة في مدينة دمشق وقد تصدت وسائط دفاعنا الجوي لصواريخ العدوان وأسقطت بعضها”.\n\nوأضاف المصدر: إن العدوان “أسفر عن استشهاد وإصابة عدد من المدنيين وتدمير البناء بالكامل وتضرر الأبنية المجاورة”.\n\nمتابعة أخبار سانا على تلغرام https://t.me/SyrianArabNewsAgenc",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/EpMZK"
+    "https://archive.is/EpMZK",
+    "https://web.archive.org/web/20241216003855id_/https://npasyria.com/157382/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0b7318d0d882af82b5995d1e9debc8bfb4c65ce706381c1ffab2675090c47db4",
+  "content_variants": [
+    {
+      "bytes": 1787,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:29:26+00:00",
+      "sha256": "0b7318d0d882af82b5995d1e9debc8bfb4c65ce706381c1ffab2675090c47db4",
+      "source_url": "https://web.archive.org/web/20241216003855id_/https://npasyria.com/157382/",
+      "text": "بعد الغارات الجوية.. حركة نزوح في مدينة جسر الشغور بإدلب\n\nنزوح سكان في ريف إدلب نتيجة التصعيد العسكري - نورث برس\n\nإدلب – نورث برس\n\nشهدت مدينة جسر الشغور غربي إدلب، شمال غربي سوريا، خلال الساعات الـ24 الماضية حركة نزوح متقطعة لسكان في المدينة إلى مناطق أخرى، نتيجة التصعيد العسكري الذي تشهده المنطقة.\n\nوقالت مصادر محلية من المدينة لنورث برس، إن مدينة جسر الشغور غربي إدلب والتي يعيش بها أكثر من 50 ألف مدني، شهدت خلال الساعات القليلة الماضية حركة نزوح لأكثر من 50 عائلة نحو المناطق الحدودية مع تركيا شمالي إدلب ومناطق أخرى في ريف حلب.\n\nوحركة النزوح التي شهدتها المدينة جاءت بعد ساعات من تعرض المدينة لغارات جوية روسية أسفرت عن مقتل وجرح أكثر من 75 شخصاً، وبعد يوم واحد من تعرض الأحياء السكنية فيها لقصف مدفعي وصاروخي بري من قبل قوات الحكومة السورية.\n\nوتقع منطقة جسر الشغور غربي إدلب على المثلث ما بين حماة واللاذقية وإدلب ويمر بالقرب منها الطريق الدولي حلب – اللاذقية المعروف بـ M4، ويتخوف سكانها من عملية عسكرية جديدة للقوات الحكومة في ظل التصعيد العسكري.\n\nإعداد: مؤيد الشيخ – تحرير: مالين محمد"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:29:25+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:29:26+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241216003855id_/https://npasyria.com/157382/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241216003855id_/https://npasyria.com/157382/",
   "incident_ids": [
     "airwars-89639"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/157382/"
   ],
   "original_url": "https://npasyria.com/157382/",
-  "page_title": "",
+  "page_title": "بعد الغارات الجوية.. حركة نزوح في مدينة جسر الشغور بإدلب - North press agency | وكالة نورث برس بعد الغارات الجوية.. حركة نزوح في مدينة جسر الشغور بإدلب - North press agency | وكالة نورث برس",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4777-june-25-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:29:26+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5d1a575bd6cddd2245fa71e5",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/157382/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "بعد الغارات الجوية.. حركة نزوح في مدينة جسر الشغور بإدلب\n\nنزوح سكان في ريف إدلب نتيجة التصعيد العسكري - نورث برس\n\nإدلب – نورث برس\n\nشهدت مدينة جسر الشغور غربي إدلب، شمال غربي سوريا، خلال الساعات الـ24 الماضية حركة نزوح متقطعة لسكان في المدينة إلى مناطق أخرى، نتيجة التصعيد العسكري الذي تشهده المنطقة.\n\nوقالت مصادر محلية من المدينة لنورث برس، إن مدينة جسر الشغور غربي إدلب والتي يعيش بها أكثر من 50 ألف مدني، شهدت خلال الساعات القليلة الماضية حركة نزوح لأكثر من 50 عائلة نحو المناطق الحدودية مع تركيا شمالي إدلب ومناطق أخرى في ريف حلب.\n\nوحركة النزوح التي شهدتها المدينة جاءت بعد ساعات من تعرض المدينة لغارات جوية روسية أسفرت عن مقتل وجرح أكثر من 75 شخصاً، وبعد يوم واحد من تعرض الأحياء السكنية فيها لقصف مدفعي وصاروخي بري من قبل قوات الحكومة السورية.\n\nوتقع منطقة جسر الشغور غربي إدلب على المثلث ما بين حماة واللاذقية وإدلب ويمر بالقرب منها الطريق الدولي حلب – اللاذقية المعروف بـ M4، ويتخوف سكانها من عملية عسكرية جديدة للقوات الحكومة في ظل التصعيد العسكري.\n\nإعداد: مؤيد الشيخ – تحرير: مالين محمد",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/AjKgx"
+    "https://archive.is/AjKgx",
+    "https://web.archive.org/web/20240616190745id_/https://news.snhr.org/2023/01/28/civilian-dies-of-wounds-sustained-in-earlier-shelling-by-syrian-regime-force-on-aleppo-suburbs-january-28-2023/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Network for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b70f4575dac96a5329d19f646f4f8337340ea16b7167d640574054d64d1fc731",
+  "content_variants": [
+    {
+      "bytes": 1888,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:51:29+00:00",
+      "sha256": "b70f4575dac96a5329d19f646f4f8337340ea16b7167d640574054d64d1fc731",
+      "source_url": "https://web.archive.org/web/20240616190745id_/https://news.snhr.org/2023/01/28/civilian-dies-of-wounds-sustained-in-earlier-shelling-by-syrian-regime-force-on-aleppo-suburbs-january-28-2023/",
+      "text": "Date:\n\nCivilian dies of wounds sustained in earlier shelling by Syrian regime force on Aleppo suburbs, January 28, 2023\n\nRelated News\n\nTwo girls named Almaz Koulin and Selfana Rashid abducted by the SDF in Aleppo governorate, June 1, 2024\n\nFather killed, his son injured, by the explosion of a war remnant of unidentified source in W. Idlib, June 13, 2024\n\nGirl named Amani Sheikh Khalil abducted by the SDF in Aleppo governorate, June 6, 2024\n\nSameh Salim Ayyoub, a poultry farm worker from Qebtan al-Jabal village in the western suburbs of Aleppo, died on January 28, 2023, of wounds sustained in artillery shelling on January 21, 2023, by Syrian regime forces who fired a shell near the poultry farm where he worked on the northeastern outskirts of Darat Ezza city, in the western suburbs of Aleppo governorate.\n\nThe Syrian Network for Human Rights notes that, through this attack, the Syrian regime has once again categorically violated UN Security Council resolutions 2139 and 2254 which prohibit any further indiscriminate attacks, as well as violating the rules of international humanitarian law which stress the distinction between civilians and combatants.\n\nAttacks of this nature spread terror and panic among civilians, leading them to flee their lands and homes in an attempt to reach safety, and forcibly displacing them, with the number of internally displaced persons within Syria currently standing at approximately 6.5 million Syrian citizens in total.\n\nThe international community should put pressure on the Syrian regime and its allies to force them to compensate the displaced victims, rehabilitate homes and vital centers, support the political transition process, and press all parties to pursue the implementation of a political transition according to a strict timetable which must not exceed six months, thus enabling millions of refugees and IDPs to return home."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:51:28+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:51:29+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240616190745id_/https://news.snhr.org/2023/01/28/civilian-dies-of-wounds-sustained-in-earlier-shelling-by-syrian-regime-force-on-aleppo-suburbs-january-28-2023/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240616190745id_/https://news.snhr.org/2023/01/28/civilian-dies-of-wounds-sustained-in-earlier-shelling-by-syrian-regime-force-on-aleppo-suburbs-january-28-2023/",
   "incident_ids": [
     "airwars-87708"
   ],
@@ -85,10 +109,10 @@
     "https://news.snhr.org/2023/01/28/civilian-dies-of-wounds-sustained-in-earlier-shelling-by-syrian-regime-force-on-aleppo-suburbs-january-28-2023/"
   ],
   "original_url": "https://news.snhr.org/2023/01/28/civilian-dies-of-wounds-sustained-in-earlier-shelling-by-syrian-regime-force-on-aleppo-suburbs-january-28-2023/",
-  "page_title": "",
+  "page_title": "Civilian dies of wounds sustained in earlier shelling by Syrian regime force on Aleppo suburbs, January 28, 2023 Civilian dies of wounds sustained in earlier shelling by Syrian regime force on Aleppo suburbs, January 28, 2023 Civilian dies of wounds sustained in earlier shelling by Syrian regime force on Aleppo suburbs, January 28, 2023",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4753-january-21-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:51:29+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ecf254adf4dc13c712368502",
   "source_type": "news_article",
   "stable_id_basis": "https://news.snhr.org/2023/01/28/civilian-dies-of-wounds-sustained-in-earlier-shelling-by-syrian-regime-force-on-aleppo-suburbs-january-28-2023/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Date:\n\nCivilian dies of wounds sustained in earlier shelling by Syrian regime force on Aleppo suburbs, January 28, 2023\n\nRelated News\n\nTwo girls named Almaz Koulin and Selfana Rashid abducted by the SDF in Aleppo governorate, June 1, 2024\n\nFather killed, his son injured, by the explosion of a war remnant of unidentified source in W. Idlib, June 13, 2024\n\nGirl named Amani Sheikh Khalil abducted by the SDF in Aleppo governorate, June 6, 2024\n\nSameh Salim Ayyoub, a poultry farm worker from Qebtan al-Jabal village in the western suburbs of Aleppo, died on January 28, 2023, of wounds sustained in artillery shelling on January 21, 2023, by Syrian regime forces who fired a shell near the poultry farm where he worked on the northeastern outskirts of Darat Ezza city, in the western suburbs of Aleppo governorate.\n\nThe Syrian Network for Human Rights notes that, through this attack, the Syrian regime has once again categorically violated UN Security Council resolutions 2139 and 2254 which prohibit any further indiscriminate attacks, as well as violating the rules of international humanitarian law which stress the distinction between civilians and combatants.\n\nAttacks of this nature spread terror and panic among civilians, leading them to flee their lands and homes in an attempt to reach safety, and forcibly displacing them, with the number of internally displaced persons within Syria currently standing at approximately 6.5 million Syrian citizens in total.\n\nThe international community should put pressure on the Syrian regime and its allies to force them to compensate the displaced victims, rehabilitate homes and vital centers, support the political transition process, and press all parties to pursue the implementation of a political transition according to a strict timetable which must not exceed six months, thus enabling millions of refugees and IDPs to return home.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

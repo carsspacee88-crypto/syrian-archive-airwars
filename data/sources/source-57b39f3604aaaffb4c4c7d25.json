@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/doZkS"
+    "https://archive.is/doZkS",
+    "https://web.archive.org/web/20240222082547id_/https://www.syriahr.com/en/283794/?fbclid=IwAR1KnPnfMesRswHCXccptThTO94u8x1s4xx5ChvQ9abyGgDnjc5_Kdwq_Sw"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SOHR",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8ca785f01da0252a1706f51782abcd563ea6bc1b45cffdaf4bd823f87a5f914f",
+  "content_variants": [
+    {
+      "bytes": 1105,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:28:48+00:00",
+      "sha256": "8ca785f01da0252a1706f51782abcd563ea6bc1b45cffdaf4bd823f87a5f914f",
+      "source_url": "https://web.archive.org/web/20240222082547id_/https://www.syriahr.com/en/283794/?fbclid=IwAR1KnPnfMesRswHCXccptThTO94u8x1s4xx5ChvQ9abyGgDnjc5_Kdwq_Sw",
+      "text": "Third Turkish drone attack in 2023 | Child injured in Al-Raqqah countryside\n\nAl-Raqqah province: A Turkish drone targeted a site in Al-Khalidiyah village, west of SDF-controlled Ain Issa district in Al-Raqqah countryside, injuring a child. The victim was taken to a hospital for treatment.\n\nIt is worth noting that this is the third Turkish drone attack in January 2023.\n\nOn January 3, Syrian Observatory activists reported that three SDF members were killed by a Turkish drone strike that hit a site in Tel Tawil at the northern entrance Al-Hasakah city.\n\nPrev Post\n\nRampant security chaos | Killing of school principal by underage age student sparks angry and popular discontent in regime-held areas in Hama\n\nNext Post\n\nShow campaign | Regime security services persecute dr*ug pus*hers, arresting nearly 35\n\nSecurity chaos | Civilian sh-ot de-ad by “rob-bery” gang in Homs…\n\nAccording to document between both sides | “Autonomous Administration”…\n\nDaily death toll | 11 persons killed on February 21 across Syria\n\nSecurity chaos | Young man shot de*ad by his friend in Deir Ezzor countryside"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:28:47+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:28:48+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240222082547id_/https://www.syriahr.com/en/283794/?fbclid=IwAR1KnPnfMesRswHCXccptThTO94u8x1s4xx5ChvQ9abyGgDnjc5_Kdwq_Sw"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240222082547id_/https://www.syriahr.com/en/283794/?fbclid=IwAR1KnPnfMesRswHCXccptThTO94u8x1s4xx5ChvQ9abyGgDnjc5_Kdwq_Sw",
   "incident_ids": [
     "airwars-86816"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/283794/?fbclid=IwAR1KnPnfMesRswHCXccptThTO94u8x1s4xx5ChvQ9abyGgDnjc5_Kdwq_Sw"
   ],
   "original_url": "https://www.syriahr.com/en/283794/?fbclid=IwAR1KnPnfMesRswHCXccptThTO94u8x1s4xx5ChvQ9abyGgDnjc5_Kdwq_Sw",
-  "page_title": "",
+  "page_title": "Third Turkish drone attack in 2023 | Child injured in Al-Raqqah countryside - The Syrian Observatory For Human Rights Third Turkish drone attack in 2023 | Child injured in Al-Raqqah countryside - The Syrian Observatory For Human Rights Third Turkish drone attack in 2023 | Child injured in Al-Raqqah countryside - The Syrian Observatory For Human Rights Third Turkish drone attack in 2023 | Child injured in Al-Raqqah countryside Third Turkish drone attack in 2023 | Child injured in Al-Raqqah countryside",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts584-january-7-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:28:48+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-57b39f3604aaaffb4c4c7d25",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.syriahr.com/en/283794/?fbclid=IwAR1KnPnfMesRswHCXccptThTO94u8x1s4xx5ChvQ9abyGgDnjc5_Kdwq_Sw",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Third Turkish drone attack in 2023 | Child injured in Al-Raqqah countryside\n\nAl-Raqqah province: A Turkish drone targeted a site in Al-Khalidiyah village, west of SDF-controlled Ain Issa district in Al-Raqqah countryside, injuring a child. The victim was taken to a hospital for treatment.\n\nIt is worth noting that this is the third Turkish drone attack in January 2023.\n\nOn January 3, Syrian Observatory activists reported that three SDF members were killed by a Turkish drone strike that hit a site in Tel Tawil at the northern entrance Al-Hasakah city.\n\nPrev Post\n\nRampant security chaos | Killing of school principal by underage age student sparks angry and popular discontent in regime-held areas in Hama\n\nNext Post\n\nShow campaign | Regime security services persecute dr*ug pus*hers, arresting nearly 35\n\nSecurity chaos | Civilian sh-ot de-ad by “rob-bery” gang in Homs…\n\nAccording to document between both sides | “Autonomous Administration”…\n\nDaily death toll | 11 persons killed on February 21 across Syria\n\nSecurity chaos | Young man shot de*ad by his friend in Deir Ezzor countryside",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

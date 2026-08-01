@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/bz2jG"
+    "https://archive.ph/bz2jG",
+    "https://web.archive.org/web/20240304073053id_/https://www.syriahr.com/en/247639/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "56c775900239abdc3ef9c2f2c15a33cad592e9a0f37b1aba7921ac101ceb183b",
+  "content_variants": [
+    {
+      "bytes": 2708,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:28:48+00:00",
+      "sha256": "56c775900239abdc3ef9c2f2c15a33cad592e9a0f37b1aba7921ac101ceb183b",
+      "source_url": "https://web.archive.org/web/20240304073053id_/https://www.syriahr.com/en/247639/",
+      "text": "Turkish intensive shelling | Little girl injured and civilian property damaged in Abu Rasan/ Zarkan district in Al-Hasakah countryside\n\nSOHR activists have documented the injury of a little girl in an artillery shell fired by Turkish forces at her family’s house in the vicinity of Khadrawi village in Abu Rasin/ Zarkan countryside in the north-western countryside of Al-Hasakah.\n\nTurkish intensive shelling on the countryside of Tel Tamr and Abu Rasin has continued since the early morning hours of Monday, causing material damage to civilian houses.\n\nThis morning, SOHR activists reported that Turkish forces stationed in “Peace Spring” area carried out intensive rocket attacks since the early hours of Monday morning on areas in north-western Al-Hasakah countryside, targeting civilian houses and triggering a massive exodus of civilians from the area.\n\nTurkish shelling also hit the vicinity of Tel Tamr town and the villages of Tel Shannan, Tel Tawil Assyria, Al-Dardarah, and Umm Al-Kif.\n\nMoreover, Turkish forces have fired heavy weapons and mortar shells on Zarkan district and its countryside, the centre of the district, and the villages of Asadiyah, Khadrawi, Dada Abdal, Rabi’at, and Khirbet Shair.\n\nThe intensive shelling came amid intensive overflight by Turkish drones and coincided with a massive displacement of people.\n\nOn April 17, Yesterday evening, the forces of “Tel Tamr Military Council” operating under the banner of SDF carried out a rocket attack, targeting areas under the control of “National Army” factions in retaliation for the shelling of areas under their control in which six members of Turkish-backed “National Army” factions were wounded, some of them had been taken to Turkish territory for their serious injuries.\n\nMeanwhile, in the early hours of Monday morning, several rocket fires had been fired by Turkish forces stationed in “Peace Spring” area in the vicinity of a camp in the tel Al-Samen area in northern Al-Raqqah countryside, hosting displaced persons from Tel Abyad area. However, no casualties were reported.\n\nPrev Post\n\n“SOHR Camera” captures damage to civilian housing over Turkish shelling on Abu Rasin/ Zarkan district in Al-Hasakah countryside\n\nNext Post\n\nAl-Rukban camp | Nearly 15 families and 20 young men flee dire living conditions for regime-controlled areas with no guarantees since early April.\n\nDaily death toll | 14 persons killed on March 3 across Syria\n\nFor “refusing to sell narcotic pills” | Armed gang murd*ers a pharmacist in…\n\nIS*IS resurgence | Gu*nman attack truck carrying oil tank in Al-Hasakah countryside\n\nOngoing uprising against Al-Golany | Dozens in Taftanaz demand departure of the head…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:28:45+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:28:48+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240304073053id_/https://www.syriahr.com/en/247639/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240304073053id_/https://www.syriahr.com/en/247639/",
   "incident_ids": [
     "airwars-82672"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/247639/"
   ],
   "original_url": "https://www.syriahr.com/en/247639/",
-  "page_title": "",
+  "page_title": "Turkish intensive shelling | Little girl injured and civilian property damaged in Abu Rasan/ Zarkan district in Al-Hasakah countryside - The Syrian Observatory For Human Rights Turkish intensive shelling | Little girl injured and civilian property damaged in Abu Rasan/ Zarkan district in Al-Hasakah countryside - The Syrian Observatory For Human Rights Turkish intensive shelling | Little girl injured and civilian property damaged in Abu Rasan/ Zarkan district in Al-Hasakah countryside - The Syrian Observatory For Human Rights Turkish intensive shelling | Little girl injured and civilian property damaged in Abu Rasan/ Zarkan district in Al-Hasakah countryside Turkish intensive shelling | Little girl injured and civilian property damaged in Abu Rasan/ Zarkan district in Al-Hasakah countryside",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts501-april-18-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:28:48+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5b235de486db1fa5bf881adb",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/247639/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish intensive shelling | Little girl injured and civilian property damaged in Abu Rasan/ Zarkan district in Al-Hasakah countryside\n\nSOHR activists have documented the injury of a little girl in an artillery shell fired by Turkish forces at her family’s house in the vicinity of Khadrawi village in Abu Rasin/ Zarkan countryside in the north-western countryside of Al-Hasakah.\n\nTurkish intensive shelling on the countryside of Tel Tamr and Abu Rasin has continued since the early morning hours of Monday, causing material damage to civilian houses.\n\nThis morning, SOHR activists reported that Turkish forces stationed in “Peace Spring” area carried out intensive rocket attacks since the early hours of Monday morning on areas in north-western Al-Hasakah countryside, targeting civilian houses and triggering a massive exodus of civilians from the area.\n\nTurkish shelling also hit the vicinity of Tel Tamr town and the villages of Tel Shannan, Tel Tawil Assyria, Al-Dardarah, and Umm Al-Kif.\n\nMoreover, Turkish forces have fired heavy weapons and mortar shells on Zarkan district and its countryside, the centre of the district, and the villages of Asadiyah, Khadrawi, Dada Abdal, Rabi’at, and Khirbet Shair.\n\nThe intensive shelling came amid intensive overflight by Turkish drones and coincided with a massive displacement of people.\n\nOn April 17, Yesterday evening, the forces of “Tel Tamr Military Council” operating under the banner of SDF carried out a rocket attack, targeting areas under the control of “National Army” factions in retaliation for the shelling of areas under their control in which six members of Turkish-backed “National Army” factions were wounded, some of them had been taken to Turkish territory for their serious injuries.\n\nMeanwhile, in the early hours of Monday morning, several rocket fires had been fired by Turkish forces stationed in “Peace Spring” area in the vicinity of a camp in the tel Al-Samen area in northern Al-Raqqah countryside, hosting displaced persons from Tel Abyad area. However, no casualties were reported.\n\nPrev Post\n\n“SOHR Camera” captures damage to civilian housing over Turkish shelling on Abu Rasin/ Zarkan district in Al-Hasakah countryside\n\nNext Post\n\nAl-Rukban camp | Nearly 15 families and 20 young men flee dire living conditions for regime-controlled areas with no guarantees since early April.\n\nDaily death toll | 14 persons killed on March 3 across Syria\n\nFor “refusing to sell narcotic pills” | Armed gang murd*ers a pharmacist in…\n\nIS*IS resurgence | Gu*nman attack truck carrying oil tank in Al-Hasakah countryside\n\nOngoing uprising against Al-Golany | Dozens in Taftanaz demand departure of the head…",
   "text_original_language": "en",
   "translation": {
     "chunks": [],
