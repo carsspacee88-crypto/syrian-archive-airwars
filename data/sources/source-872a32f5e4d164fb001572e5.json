@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/DW3Vd"
+    "https://archive.is/DW3Vd",
+    "https://web.archive.org/web/20241023093000id_/https://www.shrc.org/?p=39069"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Human Rights Committee",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a19b3fabbb5f071b0b58d629b4d83e6f6eb1193db2c4e80603128b5e80a6ca85",
+  "content_variants": [
+    {
+      "bytes": 1809,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:11:30+00:00",
+      "sha256": "a19b3fabbb5f071b0b58d629b4d83e6f6eb1193db2c4e80603128b5e80a6ca85",
+      "source_url": "https://web.archive.org/web/20241023093000id_/https://www.shrc.org/?p=39069",
+      "text": "استهدفت قوات الأسد اليوم الأربعاء 21 حزيران /يونيو 2023 بقصف مدفعي قرية كفرنوران في ريف حلب الغربي، ما أدى لمقتل ثلاثة أشخاص بينهم طفل ووالده، وإصابة 11 مدنياً بينهم طفلان وامرأة.\n\nكما قصفت الطريق الواصل بين كفرنوران وبلدة معارة النعسان في ريف إدلب الشرقي، وأطراف مدينة الأتارب الشرقية قرية القصر في ريف حلب الغربي.\n\nيذكر أن المناطق الخاضعة لسيطرة المعارضة السورية شمال غرب سورية تتعرض بشكل شبه يومي ومتكرر لقصف من قبل قوات نظام الأسد وحلفائه، علما أن هذه المناطق تخضع لاتفاق خفض التصعيد الموقع بين روسيا والنظام من طرف وتركيا والمعارضة السورية من طرف آخر.\n\nاللجنة السورية لحقوق الإنسان تدين هذا الاعتداء الذي يشكل خرق لقواعد القانون الدولي الإنساني الخاصة بالتمييز بين المدنيين والعسكريين، ولقرارات مجلس الأمن وبالأخص القرارين رقم 2139 و2254 القاضيين بوقف الهجمات العشوائية، وتحمل المجتمع الدولي مسؤولية دماء الشعب السوري التي يسفكها نظام الأسد وحلفاؤه، بسبب تغاضيه ووقوفه مكتوف اليدين عن محاولة إيقاف تلك الجرائم ومحاسبة مرتكبيها\n\nاللحظات الأولى لقصف قوات الأسد على كفرنوران اليوم الأربعاء 21/6/2023"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:11:29+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:11:30+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241023093000id_/https://www.shrc.org/?p=39069"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241023093000id_/https://www.shrc.org/?p=39069",
   "incident_ids": [
     "airwars-91670"
   ],
@@ -85,10 +109,10 @@
     "https://www.shrc.org/?p=39069"
   ],
   "original_url": "https://www.shrc.org/?p=39069",
-  "page_title": "",
+  "page_title": "3 قتلى و11 إصابة بقصف لقوات الأسد على قرية كفر نوران بريف حلب الغربي",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4773-june-21-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:11:30+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-872a32f5e4d164fb001572e5",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.shrc.org/?p=39069",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "استهدفت قوات الأسد اليوم الأربعاء 21 حزيران /يونيو 2023 بقصف مدفعي قرية كفرنوران في ريف حلب الغربي، ما أدى لمقتل ثلاثة أشخاص بينهم طفل ووالده، وإصابة 11 مدنياً بينهم طفلان وامرأة.\n\nكما قصفت الطريق الواصل بين كفرنوران وبلدة معارة النعسان في ريف إدلب الشرقي، وأطراف مدينة الأتارب الشرقية قرية القصر في ريف حلب الغربي.\n\nيذكر أن المناطق الخاضعة لسيطرة المعارضة السورية شمال غرب سورية تتعرض بشكل شبه يومي ومتكرر لقصف من قبل قوات نظام الأسد وحلفائه، علما أن هذه المناطق تخضع لاتفاق خفض التصعيد الموقع بين روسيا والنظام من طرف وتركيا والمعارضة السورية من طرف آخر.\n\nاللجنة السورية لحقوق الإنسان تدين هذا الاعتداء الذي يشكل خرق لقواعد القانون الدولي الإنساني الخاصة بالتمييز بين المدنيين والعسكريين، ولقرارات مجلس الأمن وبالأخص القرارين رقم 2139 و2254 القاضيين بوقف الهجمات العشوائية، وتحمل المجتمع الدولي مسؤولية دماء الشعب السوري التي يسفكها نظام الأسد وحلفاؤه، بسبب تغاضيه ووقوفه مكتوف اليدين عن محاولة إيقاف تلك الجرائم ومحاسبة مرتكبيها\n\nاللحظات الأولى لقصف قوات الأسد على كفرنوران اليوم الأربعاء 21/6/2023",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

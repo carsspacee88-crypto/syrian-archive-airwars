@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/MbSnt"
+    "https://archive.is/MbSnt",
+    "https://web.archive.org/web/20241216074715id_/https://npasyria.com/en/91097/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "e5e8a581737da48a7c61ddb2642c9a216145e7d925d76a3e6f72704777195af2",
+  "content_variants": [
+    {
+      "bytes": 1426,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:14:33+00:00",
+      "sha256": "e5e8a581737da48a7c61ddb2642c9a216145e7d925d76a3e6f72704777195af2",
+      "source_url": "https://web.archive.org/web/20241216074715id_/https://npasyria.com/en/91097/",
+      "text": "US forces, SDF detain ISIS official in east Syria – CENTCOM\n\nGeneral Michael Erik Kurilla, CENTCOM commander along with SDF leaders in Hawl Camp, in Syria\n\nQAMISHLI, Syria (North Press) – The US Central Command (CENTCOM) said on Thursday that US forces, in cooperation with the Syrian Democratic Forces (SDF), captured an ISIS official in a helicopter raid in eastern Syria a day earlier.\n\n“U.S. Central Command forces partnered with Syrian Democratic Forces to conduct a partnered helicopter assault in eastern Syria on Jan. 18 capturing an ISIS Syrian provincial media and security operative,” CENTCOM said in a press release.\n\nAccording to the statement, “The individual was involved in the planning and facilitation of ISIS operations in and outside of the region as well as global recruiting efforts.”\n\nThe statement added that no casualties occurred during the assault.\n\n“This operation reaffirms CENTCOM’s steadfast commitment to the region and the enduring defeat of ISIS,” said Col. Joe Buccino, CENTCOM spokesperson.\n\nBuccino added that ISIS still constitute a threat, noting that “CENTCOM maintains a sufficient and sustainable presence in the region and will continue to counter threats against regional security.”\n\nOn Wednesday, the CENTCOM said that US forces and SDF would continue to reduce the number of residents at Hawl Camp, which houses about 50.000 family members of ISIS militants."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:14:32+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:14:33+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241216074715id_/https://npasyria.com/en/91097/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241216074715id_/https://npasyria.com/en/91097/",
   "incident_ids": [
     "airwars-89629"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/91097/"
   ],
   "original_url": "https://npasyria.com/en/91097/",
-  "page_title": "",
+  "page_title": "US forces, SDF detain ISIS official in east Syria – CENTCOM US forces, SDF detain ISIS official in east Syria – CENTCOM US forces, SDF detain ISIS official in east Syria – CENTCOM US forces, SDF detain ISIS official in east Syria – CENTCOM - North press agency US forces, SDF detain ISIS official in east Syria – CENTCOM - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0011-january-18-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:14:33+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9cb3886b364fb9aa15ca2b25",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/91097/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "US forces, SDF detain ISIS official in east Syria – CENTCOM\n\nGeneral Michael Erik Kurilla, CENTCOM commander along with SDF leaders in Hawl Camp, in Syria\n\nQAMISHLI, Syria (North Press) – The US Central Command (CENTCOM) said on Thursday that US forces, in cooperation with the Syrian Democratic Forces (SDF), captured an ISIS official in a helicopter raid in eastern Syria a day earlier.\n\n“U.S. Central Command forces partnered with Syrian Democratic Forces to conduct a partnered helicopter assault in eastern Syria on Jan. 18 capturing an ISIS Syrian provincial media and security operative,” CENTCOM said in a press release.\n\nAccording to the statement, “The individual was involved in the planning and facilitation of ISIS operations in and outside of the region as well as global recruiting efforts.”\n\nThe statement added that no casualties occurred during the assault.\n\n“This operation reaffirms CENTCOM’s steadfast commitment to the region and the enduring defeat of ISIS,” said Col. Joe Buccino, CENTCOM spokesperson.\n\nBuccino added that ISIS still constitute a threat, noting that “CENTCOM maintains a sufficient and sustainable presence in the region and will continue to counter threats against regional security.”\n\nOn Wednesday, the CENTCOM said that US forces and SDF would continue to reduce the number of residents at Hawl Camp, which houses about 50.000 family members of ISIS militants.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/kSah6"
+    "https://archive.ph/kSah6",
+    "https://web.archive.org/web/20250216224959id_/https://npasyria.com/177253/?fbclid=IwAR2kPWAW3hciN2rTYeBLbv30I57SYKYfs3LGVeaJ5zgKpOLxm4ee-8AG8vA"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "5857cbed0d0cdc1a23a66f8d31ee202914366187eb8677f25dd49bd048a6bcb2",
+  "content_variants": [
+    {
+      "bytes": 2326,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:19:42+00:00",
+      "sha256": "5857cbed0d0cdc1a23a66f8d31ee202914366187eb8677f25dd49bd048a6bcb2",
+      "source_url": "https://web.archive.org/web/20250216224959id_/https://npasyria.com/177253/?fbclid=IwAR2kPWAW3hciN2rTYeBLbv30I57SYKYfs3LGVeaJ5zgKpOLxm4ee-8AG8vA",
+      "text": "قتلى وجرحى في قصف متبادل بأرياف حلب وحماة وإدلب\n\nقصف على مدينة دار عزة بريف حلب الغربي- متداول\n\nإدلب- نورث برس\n\nشهدت أرياف إدلب وحلب وحماة ضمن منطقة خفض التصعيد شمال غربي سوريا، الاثنين، تصعيداً عسكرياً غير مسبوق وقصفاً متبادلاً، بين قوات الحكومة السورية وهيئة تحرير الشام ( جبهة النصرة سابقاً)، ما أسفر عن وقوع قتلى وجرحى من الطرفين.\n\nوقالت منصات للمعارضة، إن “قوات الحكومة قصفت براجمة الصواريخ مدينة دارة عزة بريف حلب الغربي، مما أدى لمقتل ثلاثة أشخاص وإصابة آخرين”.\n\nفيما أعلنت غرفة عمليات الفتح المبين و(تضم مجموعات متشددة) أنها استهدفت مقرات وتجمعات للقوات الحكومية والقوات الرديفة الإيرانية في قرية شطحة بسهل الغاب شمال غرب حماة، وبلدتي نبل والزهراء بريف حلب الشمالي، مؤكداً “تحقيق إصابات “.\n\nوأسفر القصف على بلدتي النبل والزهراء ذات الغالبية الشيعية، عن مقتل امرأة وطفلتين، كحصيلة أولية، وفقاً لمراسل نورث برس في المنطقة.\n\nوأضافت المنصات أن القوات الحكومية قصفت بالمدفعية الثقيلة محيط قرى الفطيرة، وكنصفرة، وسان بريف إدلب الجنوبي.\n\nوأشارت إلى أن القوات الحكومية جددت قصفها قبل قليل، لمدينة دارة عزة، إضافة إلى قرى كباشين فافرتين برج حيدر بريف حلب الغربي.\n\nإلى ذلك أكدت وسائل إعلام حكومية، إن الجيش السوري استهداف بالصواربخ وبالمدفعية الثقيلة “مقرات إرهابيي جبهة النصرة، في مدينة دارةعزة بريف حلب الغربي” مشيرة إلى وقوع قتلى وجرحى بصفوف “الإرهابيين”.\n\nتحرير: مالين محمد"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:19:39+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:19:42+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250216224959id_/https://npasyria.com/177253/?fbclid=IwAR2kPWAW3hciN2rTYeBLbv30I57SYKYfs3LGVeaJ5zgKpOLxm4ee-8AG8vA"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250216224959id_/https://npasyria.com/177253/?fbclid=IwAR2kPWAW3hciN2rTYeBLbv30I57SYKYfs3LGVeaJ5zgKpOLxm4ee-8AG8vA",
   "incident_ids": [
     "airwars-104081"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/177253/?fbclid=IwAR2kPWAW3hciN2rTYeBLbv30I57SYKYfs3LGVeaJ5zgKpOLxm4ee-8AG8vA"
   ],
   "original_url": "https://npasyria.com/177253/?fbclid=IwAR2kPWAW3hciN2rTYeBLbv30I57SYKYfs3LGVeaJ5zgKpOLxm4ee-8AG8vA",
-  "page_title": "",
+  "page_title": "قتلى وجرحى في قصف متبادل بأرياف حلب وحماة وإدلب - North press agency | وكالة نورث برس قتلى وجرحى في قصف متبادل بأرياف حلب وحماة وإدلب - North press agency | وكالة نورث برس",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts676-january-1-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:19:42+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-cf3821d480910ae078bd12e4",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/177253/?fbclid=IwAR2kPWAW3hciN2rTYeBLbv30I57SYKYfs3LGVeaJ5zgKpOLxm4ee-8AG8vA",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قتلى وجرحى في قصف متبادل بأرياف حلب وحماة وإدلب\n\nقصف على مدينة دار عزة بريف حلب الغربي- متداول\n\nإدلب- نورث برس\n\nشهدت أرياف إدلب وحلب وحماة ضمن منطقة خفض التصعيد شمال غربي سوريا، الاثنين، تصعيداً عسكرياً غير مسبوق وقصفاً متبادلاً، بين قوات الحكومة السورية وهيئة تحرير الشام ( جبهة النصرة سابقاً)، ما أسفر عن وقوع قتلى وجرحى من الطرفين.\n\nوقالت منصات للمعارضة، إن “قوات الحكومة قصفت براجمة الصواريخ مدينة دارة عزة بريف حلب الغربي، مما أدى لمقتل ثلاثة أشخاص وإصابة آخرين”.\n\nفيما أعلنت غرفة عمليات الفتح المبين و(تضم مجموعات متشددة) أنها استهدفت مقرات وتجمعات للقوات الحكومية والقوات الرديفة الإيرانية في قرية شطحة بسهل الغاب شمال غرب حماة، وبلدتي نبل والزهراء بريف حلب الشمالي، مؤكداً “تحقيق إصابات “.\n\nوأسفر القصف على بلدتي النبل والزهراء ذات الغالبية الشيعية، عن مقتل امرأة وطفلتين، كحصيلة أولية، وفقاً لمراسل نورث برس في المنطقة.\n\nوأضافت المنصات أن القوات الحكومية قصفت بالمدفعية الثقيلة محيط قرى الفطيرة، وكنصفرة، وسان بريف إدلب الجنوبي.\n\nوأشارت إلى أن القوات الحكومية جددت قصفها قبل قليل، لمدينة دارة عزة، إضافة إلى قرى كباشين فافرتين برج حيدر بريف حلب الغربي.\n\nإلى ذلك أكدت وسائل إعلام حكومية، إن الجيش السوري استهداف بالصواربخ وبالمدفعية الثقيلة “مقرات إرهابيي جبهة النصرة، في مدينة دارةعزة بريف حلب الغربي” مشيرة إلى وقوع قتلى وجرحى بصفوف “الإرهابيين”.\n\nتحرير: مالين محمد",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

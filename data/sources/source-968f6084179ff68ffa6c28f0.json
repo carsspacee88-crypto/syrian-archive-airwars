@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/Qh7m6"
+    "https://archive.md/Qh7m6",
+    "https://web.archive.org/web/20240515200953id_/https://www.facebook.com/tafaseelpress/posts/421431226266310"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Tafaseelpress",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "5f91bef0357ce32eebf95b24f1e92bf03479eb67b5b81ba121e92a123d65cd2c",
+  "content_variants": [
+    {
+      "bytes": 601,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:13:28+00:00",
+      "sha256": "5f91bef0357ce32eebf95b24f1e92bf03479eb67b5b81ba121e92a123d65cd2c",
+      "source_url": "https://web.archive.org/web/20240515200953id_/https://www.facebook.com/tafaseelpress/posts/421431226266310",
+      "text": "اسماء الشهداء نتيجة القصف الذي استهدف مدينة #أريحا\n#تحديث\n1- قمر بلال حافظ\n2-زكريا أحمد بزي\n3-يوسف محمد جمال الحسن\n4-ريماس بنت يوسف الحسن -طفلة\n5-...\n\nاسماء الشهداء نتيجة القصف الذي استهدف مدينة #أريحا\n#تحديث\n1- قمر بلال حافظ\n2-زكريا أحمد بزي\n3-يوسف محمد جمال الحسن\n4-ريماس بنت يوسف الحسن -طفلة\n5- سلام العاهي من مدينة معرة النعمان\n6- حسون احسان..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:13:27+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:13:28+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515200953id_/https://www.facebook.com/tafaseelpress/posts/421431226266310"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515200953id_/https://www.facebook.com/tafaseelpress/posts/421431226266310",
   "incident_ids": [
     "airwars-79588"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/tafaseelpress/posts/421431226266310"
   ],
   "original_url": "https://www.facebook.com/tafaseelpress/posts/421431226266310",
-  "page_title": "",
+  "page_title": "تفاصيل - Tafaseel تفاصيل - Tafaseel اسماء الشهداء نتيجة القصف الذي استهدف... - تفاصيل - Tafaseel",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4659-october-20-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:13:28+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-968f6084179ff68ffa6c28f0",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/tafaseelpress/posts/421431226266310",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "اسماء الشهداء نتيجة القصف الذي استهدف مدينة #أريحا\n#تحديث\n1- قمر بلال حافظ\n2-زكريا أحمد بزي\n3-يوسف محمد جمال الحسن\n4-ريماس بنت يوسف الحسن -طفلة\n5-...\n\nاسماء الشهداء نتيجة القصف الذي استهدف مدينة #أريحا\n#تحديث\n1- قمر بلال حافظ\n2-زكريا أحمد بزي\n3-يوسف محمد جمال الحسن\n4-ريماس بنت يوسف الحسن -طفلة\n5- سلام العاهي من مدينة معرة النعمان\n6- حسون احسان...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

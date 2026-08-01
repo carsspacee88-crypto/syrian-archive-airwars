@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/TKQz6"
+    "https://archive.ph/TKQz6",
+    "https://web.archive.org/web/20220810060752id_/https://thecradle.co/Article/news/13423"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "7db62edc771a7bb8e32a71af83febb41db611a32af6c7dc1020836a42f71803f",
+  "content_variants": [
+    {
+      "bytes": 3572,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:04:51+00:00",
+      "sha256": "7db62edc771a7bb8e32a71af83febb41db611a32af6c7dc1020836a42f71803f",
+      "source_url": "https://web.archive.org/web/20220810060752id_/https://thecradle.co/Article/news/13423",
+      "text": "Orthodox priests lay the cornerstone of the Syrian-replica of Hagia Sophia (Photo credit: EHA News/Twitter)\n\nIn the early hours of 24 July, Al-Qaeda affiliated Hayat Tahrir al-Sham (HTS) targeted a crowd of people as they gathered to inaugurate a Russian-funded church in Hama, Syria.\n\nAccording to Syrian Arab News Agency (SANA), HTS used rockets and suicide drones to attack civilians at the opening of a replica of Hagia Sophia church in Al-Suqaylabiyah, north west of Hama governorate.\n\nAt the gathering were high-ranking Russian liaison officers and the commander of the Syrian National Defense Forces (NDF) in Hama, Nabeul al-Abdullah.\n\nThe attack on Al-Suqaylabiyah, whose residents are mostly Greek Orthodox, caused the death of two civilians and the injury of dozens of other people, according to SANA.\n\nIn July 2020, after the decision of Turkish President Recep Tayyip Erdogan to turn Hagia Sophia into a mosque, Nabeul al-Abdullah pitched an idea to Russian officers from the reconciliation center at Hmeimim Airbase.\n\nThe idea was to build a replica of Hagia Sophia in Syria.\n\nمراسل سانا: سقوط صاروخ مصدره التنظيمات الإرهابية على تجمع حاشد في مدينة السقيلبية بريف حماة وأنباء عن شهداء وجرحى.\nSANA reporter: A rocket fired by terrorist organizations fell on crowded gathering in al-Suqaylabiyah city in Hama countryside, reports of martyrs and wounded. pic.twitter.com/3P6L2HtRcP\n— الرادع السوري 🇸🇾🌻 (@syria_rd) July 24, 2022\n\nمراسل سانا: سقوط صاروخ مصدره التنظيمات الإرهابية على تجمع حاشد في مدينة السقيلبية بريف حماة وأنباء عن شهداء وجرحى.\n\nSANA reporter: A rocket fired by terrorist organizations fell on crowded gathering in al-Suqaylabiyah city in Hama countryside, reports of martyrs and wounded. pic.twitter.com/3P6L2HtRcP\n\n— الرادع السوري 🇸🇾🌻 (@syria_rd) July 24, 2022\n\nA few days ago, on 19 July, HTS commander Abu Mohammad al-Julani paid a visit to notables from the remaining Christian community in the Idlib villages of Qunayah and Yacoubiyah.\n\nSimilarly, Al-Julani visited the Druze community in Jabal al-Summaq a month earlier.\n\nChristian notables alongside HTS leader Abu Mohammed al-Julani during a visit to Qunayah and Yacoubiyah villages (Photo credit: Amjad)\n\nThe HTS has recently made an effort to rebrand its name, effectively cutting its ties to Al-Qaeda and embracing a new ideology that is limited to Syria and focuses on fighting the Syrian Arab Army, according to research by Wilson Center.\n\nAfter defecting from the Islamic State in Syria and Iraq (ISIS) in 2012, Al-Julani founded Al-Nusra Front before rebranding back to HTS on 28 January 2017.\n\nAccording to Al-Monitor, this effort was coupled by unannounced intelligence cooperation with both Russia and the US to target Hurras al-Din commanders, Al-Qaeda’s foreign branch in Syria.\n\nHowever, the label of HTS as a terrorist organization continues to be used by all countries present on the Syrian battlefield.\n\nThe HTS rebranding was also mocked by Ayman al-Zawahiri, the current leader of Al-Qaeda since June 2011, who considered HTS actions as deviation from true jihad.\n\n“[HTS] wants to deceive you into buying the myth that only if you were to change your jihad to an exclusively nationalist Syrian struggle, [then] the leading international criminals would be pleased with you,” said Al-Zawahiri in an audio message on 23 April 2017."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:04:51+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:04:51+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220810060752id_/https://thecradle.co/Article/news/13423"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220810060752id_/https://thecradle.co/Article/news/13423",
   "incident_ids": [
     "airwars-84211"
   ],
@@ -85,10 +109,10 @@
     "https://thecradle.co/Article/news/13423"
   ],
   "original_url": "https://thecradle.co/Article/news/13423",
-  "page_title": "",
+  "page_title": "Turkish-backed rebels attack Hagia Sophia replica in Syria Turkish-backed rebels attack Hagia Sophia replica in Syria Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts532-july-24-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:04:51+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-608c0237597d2626fa23f823",
   "source_type": "news_article",
   "stable_id_basis": "https://thecradle.co/Article/news/13423",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Orthodox priests lay the cornerstone of the Syrian-replica of Hagia Sophia (Photo credit: EHA News/Twitter)\n\nIn the early hours of 24 July, Al-Qaeda affiliated Hayat Tahrir al-Sham (HTS) targeted a crowd of people as they gathered to inaugurate a Russian-funded church in Hama, Syria.\n\nAccording to Syrian Arab News Agency (SANA), HTS used rockets and suicide drones to attack civilians at the opening of a replica of Hagia Sophia church in Al-Suqaylabiyah, north west of Hama governorate.\n\nAt the gathering were high-ranking Russian liaison officers and the commander of the Syrian National Defense Forces (NDF) in Hama, Nabeul al-Abdullah.\n\nThe attack on Al-Suqaylabiyah, whose residents are mostly Greek Orthodox, caused the death of two civilians and the injury of dozens of other people, according to SANA.\n\nIn July 2020, after the decision of Turkish President Recep Tayyip Erdogan to turn Hagia Sophia into a mosque, Nabeul al-Abdullah pitched an idea to Russian officers from the reconciliation center at Hmeimim Airbase.\n\nThe idea was to build a replica of Hagia Sophia in Syria.\n\nمراسل سانا: سقوط صاروخ مصدره التنظيمات الإرهابية على تجمع حاشد في مدينة السقيلبية بريف حماة وأنباء عن شهداء وجرحى.\nSANA reporter: A rocket fired by terrorist organizations fell on crowded gathering in al-Suqaylabiyah city in Hama countryside, reports of martyrs and wounded. pic.twitter.com/3P6L2HtRcP\n— الرادع السوري 🇸🇾🌻 (@syria_rd) July 24, 2022\n\nمراسل سانا: سقوط صاروخ مصدره التنظيمات الإرهابية على تجمع حاشد في مدينة السقيلبية بريف حماة وأنباء عن شهداء وجرحى.\n\nSANA reporter: A rocket fired by terrorist organizations fell on crowded gathering in al-Suqaylabiyah city in Hama countryside, reports of martyrs and wounded. pic.twitter.com/3P6L2HtRcP\n\n— الرادع السوري 🇸🇾🌻 (@syria_rd) July 24, 2022\n\nA few days ago, on 19 July, HTS commander Abu Mohammad al-Julani paid a visit to notables from the remaining Christian community in the Idlib villages of Qunayah and Yacoubiyah.\n\nSimilarly, Al-Julani visited the Druze community in Jabal al-Summaq a month earlier.\n\nChristian notables alongside HTS leader Abu Mohammed al-Julani during a visit to Qunayah and Yacoubiyah villages (Photo credit: Amjad)\n\nThe HTS has recently made an effort to rebrand its name, effectively cutting its ties to Al-Qaeda and embracing a new ideology that is limited to Syria and focuses on fighting the Syrian Arab Army, according to research by Wilson Center.\n\nAfter defecting from the Islamic State in Syria and Iraq (ISIS) in 2012, Al-Julani founded Al-Nusra Front before rebranding back to HTS on 28 January 2017.\n\nAccording to Al-Monitor, this effort was coupled by unannounced intelligence cooperation with both Russia and the US to target Hurras al-Din commanders, Al-Qaeda’s foreign branch in Syria.\n\nHowever, the label of HTS as a terrorist organization continues to be used by all countries present on the Syrian battlefield.\n\nThe HTS rebranding was also mocked by Ayman al-Zawahiri, the current leader of Al-Qaeda since June 2011, who considered HTS actions as deviation from true jihad.\n\n“[HTS] wants to deceive you into buying the myth that only if you were to change your jihad to an exclusively nationalist Syrian struggle, [then] the leading international criminals would be pleased with you,” said Al-Zawahiri in an audio message on 23 April 2017.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

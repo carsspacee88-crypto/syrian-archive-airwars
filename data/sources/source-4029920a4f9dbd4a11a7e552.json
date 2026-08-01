@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20251208135251id_/https://syrianarchive.org/ar/investigations/israeli-airstrikes-on-sites-in-the-aleppo-countryside/"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Syrian Archive",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "591262007eb93210c161d64957ea77ed62c4561b0ea70c511f9e60a65d96f52e",
+  "content_variants": [
+    {
+      "bytes": 681,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:58:26+00:00",
+      "sha256": "591262007eb93210c161d64957ea77ed62c4561b0ea70c511f9e60a65d96f52e",
+      "source_url": "https://web.archive.org/web/20251208135251id_/https://syrianarchive.org/ar/investigations/israeli-airstrikes-on-sites-in-the-aleppo-countryside/",
+      "text": "غارات جوية إسرائيلية على مواقع في ريف حلب\n\nتحقيق يتناول هجمات إسرائيلية على مواقع في ريف حلب\n\nاطبع المقال\n\nحول الحادثة:\n\nمقدمة :\n\nحول أماكن التأثير:\n\nماذا حدث و متى ؟\n\nأولى البلاغات:\n\nموقع التأثير 1 - السفيرة:\n\nموقع التأثير 2 – جبرين :\n\nموقع التأثير 3 - كفر جوم:\n\nتحديد الموقع الجغرافي :\n\nموقع التأثير الأول:\n\nموقع التأثير الثاني:\n\nموقع التأثير الثالث:\n\nالضحايا :\n\nالمسؤول المحتمل :\n\nالخاتمة:"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:58:25+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:58:26+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251208135251id_/https://syrianarchive.org/ar/investigations/israeli-airstrikes-on-sites-in-the-aleppo-countryside/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251208135251id_/https://syrianarchive.org/ar/investigations/israeli-airstrikes-on-sites-in-the-aleppo-countryside/",
   "incident_ids": [
     "airwars-114276"
   ],
@@ -55,10 +80,10 @@
     "https://syrianarchive.org/ar/investigations/israeli-airstrikes-on-sites-in-the-aleppo-countryside"
   ],
   "original_url": "https://syrianarchive.org/ar/investigations/israeli-airstrikes-on-sites-in-the-aleppo-countryside",
-  "page_title": "",
+  "page_title": "غارات جوية إسرائيلية على مواقع في ريف حلب | الأرشيف السوري غارات جوية إسرائيلية على مواقع في ريف حلب غارات جوية إسرائيلية على مواقع في ريف حلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy043-march-29-2024/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:58:26+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4029920a4f9dbd4a11a7e552",
   "source_type": "other_web_page",
   "stable_id_basis": "https://syrianarchive.org/ar/investigations/israeli-airstrikes-on-sites-in-the-aleppo-countryside",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "غارات جوية إسرائيلية على مواقع في ريف حلب\n\nتحقيق يتناول هجمات إسرائيلية على مواقع في ريف حلب\n\nاطبع المقال\n\nحول الحادثة:\n\nمقدمة :\n\nحول أماكن التأثير:\n\nماذا حدث و متى ؟\n\nأولى البلاغات:\n\nموقع التأثير 1 - السفيرة:\n\nموقع التأثير 2 – جبرين :\n\nموقع التأثير 3 - كفر جوم:\n\nتحديد الموقع الجغرافي :\n\nموقع التأثير الأول:\n\nموقع التأثير الثاني:\n\nموقع التأثير الثالث:\n\nالضحايا :\n\nالمسؤول المحتمل :\n\nالخاتمة:",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/oQx3h"
+    "https://archive.ph/oQx3h",
+    "https://web.archive.org/web/20260118202557id_/https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alkhmys-18-08-2022"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Sham",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c9aa35c026f930311b20b4156d8e90731ad4f3f994c6e5f4e830dd16f6d1ac00",
+  "content_variants": [
+    {
+      "bytes": 2816,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:56:46+00:00",
+      "sha256": "c9aa35c026f930311b20b4156d8e90731ad4f3f994c6e5f4e830dd16f6d1ac00",
+      "source_url": "https://web.archive.org/web/20260118202557id_/https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alkhmys-18-08-2022",
+      "text": "حصاد الأحداث الميدانية ليوم الخميس 18-08-2022\n\nحصاد الأحداث الميدانية ليوم الخميس 18-08-2022\n\nحلب::قصف مدفعي من قبل ميلشيات قسد استهدف مدينة مارع شمال حلب ادى لسقوط شهيد وعدد من الجرحى بين المدنيين.\n\nقصف مدفعي من قبل قوات الأسد على محيط قرية بحفيس بالريف الغربي.\n\nادلب::قصف مدفعي من قبل قوات الأسد استهدف بلدات وقرى البارة ودير سنبل ورويحة والفطيرة وكنصفرة ومنطف بالريف الجنوبي ما تسبب بسقوط جرحى في صفوف المدنيين.\n\nاستهدفت فصائل الثوار بقذائف المدفعية والهاون مواقع قوات الأسد في قرية حنتوتين بالريف الجنوبي ومحور بلدة داديخ بالريف الشرقي.\n\nحمص::فقدت قوات الأسد التواصل مع مجموعة مكونة من 13 عنصر في بادية السخنة بالريف الشرقي، يعتقد أن تنظيم الدولة تمكن من قتلهم أو أسرهم.\n\nحماة::استهدف فصائل الثوار بصاروخ محلي الصنع وقذائف المدفعية مواقع قوات الأسد في قرية العمقية والبحصة بمنطقة سهل الغاب بالريف الغربي.\n\nقصف مدفعي من قبل قوات الأسد في محيط قرية القرقور بالريف الغربي.\n\nاللاذقية::استهدفت فصائل الثوار بقذائف المدفعية والهاون مواقع قوات الأسد في تلة البركان بجبل الأكراد بالريف الشمالي.\n\nدرعا::انفجرت عبوة ناسفة بدورية عسكرية روسية وأسدية على أوتوستراد \"دمشق-درعا\" بالقرب من جسر خربة غزالة شمال درعا، ولم يتم تسجيل أي إصابات.\n\nعُثر على جثة شخص متهم بالتعامل مع المخابرات الجوية بالقرب من دوار بلدة تل شهاب بالريف الغربي.\n\nانسحبت قوات الأسد من محيط مدينة طفس غربي درعا وذلك لتنفيذ اتفاق سابق تم بين وجهاء المدينة والنظام.\n\nالحسكة::شنت طائرة تركية مسيرة غارة جوية استهدفت نقطة عسكرية تابعة لميليشيات قسد في قرية شموكة غرب الحسكة، أوقعت عدد من القتلى الجرحى.\n\nقصفت مدفعية الجيش التركي مواقع ميلشيات قسد في محيط قريتي قرمانية وجتله غربي مدينة الدرباسية بالريف الشمالي."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:56:46+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:56:46+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260118202557id_/https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alkhmys-18-08-2022"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260118202557id_/https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alkhmys-18-08-2022",
   "incident_ids": [
     "airwars-84671"
   ],
@@ -85,10 +109,10 @@
     "https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alkhmys-18-08-2022"
   ],
   "original_url": "https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alkhmys-18-08-2022",
-  "page_title": "",
+  "page_title": "حصاد الأحداث الميدانية ليوم الخميس 18-08-2022 | شبكة شام الإخبارية حصاد الأحداث الميدانية ليوم الخميس 18-08-2022 حصاد الأحداث الميدانية ليوم الخميس 18-08-2022",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys148-august-18-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:56:46+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2f51850f21afa58e420863bf",
   "source_type": "other_web_page",
   "stable_id_basis": "https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-alkhmys-18-08-2022",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "حصاد الأحداث الميدانية ليوم الخميس 18-08-2022\n\nحصاد الأحداث الميدانية ليوم الخميس 18-08-2022\n\nحلب::قصف مدفعي من قبل ميلشيات قسد استهدف مدينة مارع شمال حلب ادى لسقوط شهيد وعدد من الجرحى بين المدنيين.\n\nقصف مدفعي من قبل قوات الأسد على محيط قرية بحفيس بالريف الغربي.\n\nادلب::قصف مدفعي من قبل قوات الأسد استهدف بلدات وقرى البارة ودير سنبل ورويحة والفطيرة وكنصفرة ومنطف بالريف الجنوبي ما تسبب بسقوط جرحى في صفوف المدنيين.\n\nاستهدفت فصائل الثوار بقذائف المدفعية والهاون مواقع قوات الأسد في قرية حنتوتين بالريف الجنوبي ومحور بلدة داديخ بالريف الشرقي.\n\nحمص::فقدت قوات الأسد التواصل مع مجموعة مكونة من 13 عنصر في بادية السخنة بالريف الشرقي، يعتقد أن تنظيم الدولة تمكن من قتلهم أو أسرهم.\n\nحماة::استهدف فصائل الثوار بصاروخ محلي الصنع وقذائف المدفعية مواقع قوات الأسد في قرية العمقية والبحصة بمنطقة سهل الغاب بالريف الغربي.\n\nقصف مدفعي من قبل قوات الأسد في محيط قرية القرقور بالريف الغربي.\n\nاللاذقية::استهدفت فصائل الثوار بقذائف المدفعية والهاون مواقع قوات الأسد في تلة البركان بجبل الأكراد بالريف الشمالي.\n\nدرعا::انفجرت عبوة ناسفة بدورية عسكرية روسية وأسدية على أوتوستراد \"دمشق-درعا\" بالقرب من جسر خربة غزالة شمال درعا، ولم يتم تسجيل أي إصابات.\n\nعُثر على جثة شخص متهم بالتعامل مع المخابرات الجوية بالقرب من دوار بلدة تل شهاب بالريف الغربي.\n\nانسحبت قوات الأسد من محيط مدينة طفس غربي درعا وذلك لتنفيذ اتفاق سابق تم بين وجهاء المدينة والنظام.\n\nالحسكة::شنت طائرة تركية مسيرة غارة جوية استهدفت نقطة عسكرية تابعة لميليشيات قسد في قرية شموكة غرب الحسكة، أوقعت عدد من القتلى الجرحى.\n\nقصفت مدفعية الجيش التركي مواقع ميلشيات قسد في محيط قريتي قرمانية وجتله غربي مدينة الدرباسية بالريف الشمالي.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

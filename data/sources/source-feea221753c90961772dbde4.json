@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/eyutQ"
+    "https://archive.md/eyutQ",
+    "https://web.archive.org/web/20240525021007id_/https://www.facebook.com/SyriaCivilDefense/posts/2094730524016025"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Civil Defense",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ff471143d9ab49b17bd913fabf8624109fda68510468d87d0ee4ce0c39cddd20",
+  "content_variants": [
+    {
+      "bytes": 636,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:25:55+00:00",
+      "sha256": "ff471143d9ab49b17bd913fabf8624109fda68510468d87d0ee4ce0c39cddd20",
+      "source_url": "https://web.archive.org/web/20240525021007id_/https://www.facebook.com/SyriaCivilDefense/posts/2094730524016025",
+      "text": "إصابة مدني بجروح، اليوم الاثنين 6 كانون الأول، بقصف مدفعي لقوات النظام وروسيا استهدفت بلدة #البارة جنوبي #إدلب، كما تعرضت أطراف البلدة لغارات جوية من...\n\nإصابة مدني بجروح، اليوم الاثنين 6 كانون الأول، بقصف مدفعي لقوات النظام وروسيا استهدفت بلدة #البارة جنوبي #إدلب، كما تعرضت أطراف البلدة لغارات جوية من الطائرات الحربية الروسية، فرقنا تفقدت المواقع..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:25:54+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:25:55+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525021007id_/https://www.facebook.com/SyriaCivilDefense/posts/2094730524016025"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525021007id_/https://www.facebook.com/SyriaCivilDefense/posts/2094730524016025",
   "incident_ids": [
     "airwars-80625"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/SyriaCivilDefense/posts/2094730524016025"
   ],
   "original_url": "https://www.facebook.com/SyriaCivilDefense/posts/2094730524016025",
-  "page_title": "",
+  "page_title": "الدفاع المدني السوري الدفاع المدني السوري إصابة مدني بجروح، اليوم الاثنين 6... - الدفاع المدني السوري",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4677-december-6-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:25:55+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-feea221753c90961772dbde4",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SyriaCivilDefense/posts/2094730524016025",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة مدني بجروح، اليوم الاثنين 6 كانون الأول، بقصف مدفعي لقوات النظام وروسيا استهدفت بلدة #البارة جنوبي #إدلب، كما تعرضت أطراف البلدة لغارات جوية من...\n\nإصابة مدني بجروح، اليوم الاثنين 6 كانون الأول، بقصف مدفعي لقوات النظام وروسيا استهدفت بلدة #البارة جنوبي #إدلب، كما تعرضت أطراف البلدة لغارات جوية من الطائرات الحربية الروسية، فرقنا تفقدت المواقع...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

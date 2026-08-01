@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20240705100752id_/https://www.youtube.com/watch?v=F-puLWAwWOM"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Syria TV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "fe3e856a41f91da4883dc6fa42718b6bc90e58f9f04ebb5aefcc97728324f500",
+  "content_variants": [
+    {
+      "bytes": 269,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:23:07+00:00",
+      "sha256": "fe3e856a41f91da4883dc6fa42718b6bc90e58f9f04ebb5aefcc97728324f500",
+      "source_url": "https://web.archive.org/web/20240705100752id_/https://www.youtube.com/watch?v=F-puLWAwWOM",
+      "text": "قتيلان بقصف مدفعي من قبل قوات الأسد على بلدة آفس جنوبي إدلب - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2024 Google LLC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:23:05+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:23:07+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240705100752id_/https://www.youtube.com/watch?v=F-puLWAwWOM"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240705100752id_/https://www.youtube.com/watch?v=F-puLWAwWOM",
   "incident_ids": [
     "airwars-82357"
   ],
@@ -55,10 +80,10 @@
     "https://www.youtube.com/watch?v=F-puLWAwWOM"
   ],
   "original_url": "https://www.youtube.com/watch?v=F-puLWAwWOM",
-  "page_title": "",
+  "page_title": "قتيلان بقصف مدفعي من قبل قوات الأسد على بلدة آفس جنوبي إدلب - YouTube قتيلان بقصف مدفعي من قبل قوات الأسد على بلدة آفس جنوبي إدلب قتيلان بقصف مدفعي من قبل قوات الأسد على بلدة آفس جنوبي إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4695-february-27-2022/",
@@ -78,16 +103,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:23:07+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e7df66ae6f4d475bbd5987ae",
   "source_type": "youtube_page",
   "stable_id_basis": "https://www.youtube.com/watch?v=F-puLWAwWOM",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "قتيلان بقصف مدفعي من قبل قوات الأسد على بلدة آفس جنوبي إدلب - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2024 Google LLC",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

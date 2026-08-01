@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/OtKlL"
+    "https://archive.md/OtKlL",
+    "https://web.archive.org/web/20231205224420id_/https://eldorar.com/node/171147"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "El Dorar News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a6dd5cef6e6481675ad2703ecc5cfe5fc0f1bd4f90df8bdb53a0f123183b9325",
+  "content_variants": [
+    {
+      "bytes": 1597,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:25:34+00:00",
+      "sha256": "a6dd5cef6e6481675ad2703ecc5cfe5fc0f1bd4f90df8bdb53a0f123183b9325",
+      "source_url": "https://web.archive.org/web/20231205224420id_/https://eldorar.com/node/171147",
+      "text": "اعترفت وزارة الدفاع الأمريكية بإصابة أهداف مدنية، خلال غارة جوية نفذتها إحدى طائراتها المسيرة في إدلب، يوم أمس الجمعة.\n\nوأكدت القيادة المركزية الوسطى، في بيان صدر اليوم السبت، أن طائرة مسيرة أمريكية استهدفت يوم أمس، قياديًا في القاعدة، بريف إدلب، وأصابت حين ذاك عددًا من المدنيين، بحسب موقع \"الخليج الجديد\".\n\nوأضاف البيان أن الجيش الأمريكي باشر التحقيق في الحادثة، مؤكدًا أن قيادة الجيش ستعمل على نشر نتائج التحقيق بعد الانتهاء منه.\n\nوكانت مصادر محلية أكدت أمس قيام طائرة مسيرة أمريكية باستهداف دراجة نارية بين بلدة المسطومة ومدينة أريحا، جنوبي إدلب، ماتسبب بمقتل شخص، لم تعرف هويته.\n\nوتصادف استهداف الدراجة مع مرور سيارة تقل عائلةً بأكملها، ما تسبب بإصابة عدد منهم بجروح متفاوتة، بعضها خطرة.\n\nوكثيرًا ما تخطئ طائرات التحالف الدولي أهدافها في سوريا وتصيب المدنيين العزل، إذ لا زالت قضية مقتل سبعين مدنيًا في بلدة الباغوز بريف دير الزور، بطائرات أمريكية، قبل عامين، قيد التحقيق."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:25:33+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:25:34+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231205224420id_/https://eldorar.com/node/171147"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231205224420id_/https://eldorar.com/node/171147",
   "incident_ids": [
     "airwars-80506"
   ],
@@ -85,10 +109,10 @@
     "https://eldorar.com/node/171147"
   ],
   "original_url": "https://eldorar.com/node/171147",
-  "page_title": "",
+  "page_title": "واشنطن تعترف بإصابة أهداف مدنية خلال غارة نفذتها طائراتها المسيرة في إدلب واشنطن تعترف بإصابة أهداف مدنية خلال غارة نفذتها طائراتها المسيرة في واشنطن تعترف بإصابة أهداف مدنية خلال غارة نفذتها طائراتها المسيرة في إدلب | الدرر الشامية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1973-december-3-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:25:34+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-fbcbd40dcce7804b6ead0bd6",
   "source_type": "news_article",
   "stable_id_basis": "https://eldorar.com/node/171147",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "اعترفت وزارة الدفاع الأمريكية بإصابة أهداف مدنية، خلال غارة جوية نفذتها إحدى طائراتها المسيرة في إدلب، يوم أمس الجمعة.\n\nوأكدت القيادة المركزية الوسطى، في بيان صدر اليوم السبت، أن طائرة مسيرة أمريكية استهدفت يوم أمس، قياديًا في القاعدة، بريف إدلب، وأصابت حين ذاك عددًا من المدنيين، بحسب موقع \"الخليج الجديد\".\n\nوأضاف البيان أن الجيش الأمريكي باشر التحقيق في الحادثة، مؤكدًا أن قيادة الجيش ستعمل على نشر نتائج التحقيق بعد الانتهاء منه.\n\nوكانت مصادر محلية أكدت أمس قيام طائرة مسيرة أمريكية باستهداف دراجة نارية بين بلدة المسطومة ومدينة أريحا، جنوبي إدلب، ماتسبب بمقتل شخص، لم تعرف هويته.\n\nوتصادف استهداف الدراجة مع مرور سيارة تقل عائلةً بأكملها، ما تسبب بإصابة عدد منهم بجروح متفاوتة، بعضها خطرة.\n\nوكثيرًا ما تخطئ طائرات التحالف الدولي أهدافها في سوريا وتصيب المدنيين العزل، إذ لا زالت قضية مقتل سبعين مدنيًا في بلدة الباغوز بريف دير الزور، بطائرات أمريكية، قبل عامين، قيد التحقيق.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

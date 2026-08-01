@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/29KS4"
+    "https://archive.is/29KS4",
+    "https://web.archive.org/web/20230206163722id_/https://www.syriahr.com/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A7%D8%B1%D8%AA%D9%83%D8%A8%D8%AA%D9%87%D8%A7-%D8%A3%D9%85%D8%B3-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7/468230/?fbclid=IwAR0gF2iUiAYGKGPx1Mwx2l0jgkRMLuSpKU8V6uizX9n1Z08imLXR2r30Vo0"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "e4379ad47ff8ca442cdfd6f5bbf29082f1f2319f89fe58f5c0c1e00cd7a9b26e",
+  "content_variants": [
+    {
+      "bytes": 2614,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:51:38+00:00",
+      "sha256": "e4379ad47ff8ca442cdfd6f5bbf29082f1f2319f89fe58f5c0c1e00cd7a9b26e",
+      "source_url": "https://web.archive.org/web/20230206163722id_/https://www.syriahr.com/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A7%D8%B1%D8%AA%D9%83%D8%A8%D8%AA%D9%87%D8%A7-%D8%A3%D9%85%D8%B3-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7/468230/?fbclid=IwAR0gF2iUiAYGKGPx1Mwx2l0jgkRMLuSpKU8V6uizX9n1Z08imLXR2r30Vo0",
+      "text": "بعد المجزرة التي ارتكبتها أمس.. القوات التركية تعاود قصف ناحية عين عيسى متسببة بسقوط جرحى بصفوف المدنيين\n\nمحافظة الرقة: رصد نشطاء المرصد السوري لحقوق الإنسان قصف صاروخي مكثف تنفذه القوات التركية منذ ساعات الصباح الأولى على محيط ناحية عين عيسى شمالي الرقة، حيث طال القصف قرية عليمات بالريف الغربي، مما أدى إلى إصابة 4 مدنيين بينهم اثنين بحالة خطيرة.\nوكان المرصد السوري لحقوق الإنسان قد وثّق يوم أمس، مجزرة نفذتها القوات التركية والفصائل الموالية لها بقصفها لقرية حدريات الواقعة شرقي ناحية عين عيسى بريف الرقة الشمالي، حيث استشهد 5 مدنيين وأصيب 4 آخرين بالقصف البري، تزامن ذلك مع قصف صاروخي متبادل بين قوات سوريا الديمقراطية من جهة والقوات التركية والفصائل الموالية لها من جهة أخرى في محيط طريق الـ M4 “حلب – اللاذقية” الدولي من الجهة الشرقية لعين عيسى في ظل استمرار المواجهات بين الطرفين على محاور قريتي المشيرفة وجهبل في محاولة من قِبل الفصائل الموالية لتركيا التقدم وسط تمهيد من المدافع وراجمات الصواريخ التركية.\n\nالسابق\n\nتزامنًا مع هجمات التنظيم في الحسكة.. حملة إعلامية شعواء من قِبل إعلام النظام والمعارضة الموالية لتركيا عبر أخبار مضللة وتداول فيديوهات قديمة\n\nالتالي\n\nبينهم حالات خطرة.. 10 جرحى مدنيين بقصف لقوات النظام على ريف درعا الشرقي\n\nمدير المرصد السوري: ارتفعت حصيلة ضحايا الزلزال في جميع المناطق إلى نحو 900 مواطن..\n\nسياسيون يناشدون المجتمع الدولي لتقديم يد العون للسوريين المنكوبين في الشمال\n\nأثناء جمع “الكمأة”.. جـ ـريـ ـح بـ ـانـ ـفـ ـجـ ـار لـ ـغـ ـم أرضي في…\n\nفي حصيلة غير نهائية.. نحو 900 مواطن ضـ ـحـ ـايـ ـا الزلزال في سورية"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:51:38+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:51:38+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230206163722id_/https://www.syriahr.com/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A7%D8%B1%D8%AA%D9%83%D8%A8%D8%AA%D9%87%D8%A7-%D8%A3%D9%85%D8%B3-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7/468230/?fbclid=IwAR0gF2iUiAYGKGPx1Mwx2l0jgkRMLuSpKU8V6uizX9n1Z08imLXR2r30Vo0"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230206163722id_/https://www.syriahr.com/%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A7%D8%B1%D8%AA%D9%83%D8%A8%D8%AA%D9%87%D8%A7-%D8%A3%D9%85%D8%B3-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7/468230/?fbclid=IwAR0gF2iUiAYGKGPx1Mwx2l0jgkRMLuSpKU8V6uizX9n1Z08imLXR2r30Vo0",
   "incident_ids": [
     "airwars-81356"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d8%ac%d8%b2%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%8a-%d8%a7%d8%b1%d8%aa%d9%83%d8%a8%d8%aa%d9%87%d8%a7-%d8%a3%d9%85%d8%b3-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7/468230/?fbclid=IwAR0gF2iUiAYGKGPx1Mwx2l0jgkRMLuSpKU8V6uizX9n1Z08imLXR2r30Vo0"
   ],
   "original_url": "https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d8%ac%d8%b2%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%8a-%d8%a7%d8%b1%d8%aa%d9%83%d8%a8%d8%aa%d9%87%d8%a7-%d8%a3%d9%85%d8%b3-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7/468230/?fbclid=IwAR0gF2iUiAYGKGPx1Mwx2l0jgkRMLuSpKU8V6uizX9n1Z08imLXR2r30Vo0",
-  "page_title": "",
+  "page_title": "بعد المجزرة التي ارتكبتها أمس.. القوات التركية تعاود قصف ناحية عين عيسى متسببة بسقوط جرحى بصفوف المدنيين - المرصد السوري لحقوق الإنسان بعد المجزرة التي ارتكبتها أمس.. القوات التركية تعاود قصف ناحية عين عيسى متسببة بسقوط جرحى بصفوف المدنيين - المرصد السوري لحقوق الإنسان",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts486-january-23-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:51:38+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-07781bc637f06f3c6422a121",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d9%85%d8%ac%d8%b2%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%8a-%d8%a7%d8%b1%d8%aa%d9%83%d8%a8%d8%aa%d9%87%d8%a7-%d8%a3%d9%85%d8%b3-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7/468230/?fbclid=IwAR0gF2iUiAYGKGPx1Mwx2l0jgkRMLuSpKU8V6uizX9n1Z08imLXR2r30Vo0",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "بعد المجزرة التي ارتكبتها أمس.. القوات التركية تعاود قصف ناحية عين عيسى متسببة بسقوط جرحى بصفوف المدنيين\n\nمحافظة الرقة: رصد نشطاء المرصد السوري لحقوق الإنسان قصف صاروخي مكثف تنفذه القوات التركية منذ ساعات الصباح الأولى على محيط ناحية عين عيسى شمالي الرقة، حيث طال القصف قرية عليمات بالريف الغربي، مما أدى إلى إصابة 4 مدنيين بينهم اثنين بحالة خطيرة.\nوكان المرصد السوري لحقوق الإنسان قد وثّق يوم أمس، مجزرة نفذتها القوات التركية والفصائل الموالية لها بقصفها لقرية حدريات الواقعة شرقي ناحية عين عيسى بريف الرقة الشمالي، حيث استشهد 5 مدنيين وأصيب 4 آخرين بالقصف البري، تزامن ذلك مع قصف صاروخي متبادل بين قوات سوريا الديمقراطية من جهة والقوات التركية والفصائل الموالية لها من جهة أخرى في محيط طريق الـ M4 “حلب – اللاذقية” الدولي من الجهة الشرقية لعين عيسى في ظل استمرار المواجهات بين الطرفين على محاور قريتي المشيرفة وجهبل في محاولة من قِبل الفصائل الموالية لتركيا التقدم وسط تمهيد من المدافع وراجمات الصواريخ التركية.\n\nالسابق\n\nتزامنًا مع هجمات التنظيم في الحسكة.. حملة إعلامية شعواء من قِبل إعلام النظام والمعارضة الموالية لتركيا عبر أخبار مضللة وتداول فيديوهات قديمة\n\nالتالي\n\nبينهم حالات خطرة.. 10 جرحى مدنيين بقصف لقوات النظام على ريف درعا الشرقي\n\nمدير المرصد السوري: ارتفعت حصيلة ضحايا الزلزال في جميع المناطق إلى نحو 900 مواطن..\n\nسياسيون يناشدون المجتمع الدولي لتقديم يد العون للسوريين المنكوبين في الشمال\n\nأثناء جمع “الكمأة”.. جـ ـريـ ـح بـ ـانـ ـفـ ـجـ ـار لـ ـغـ ـم أرضي في…\n\nفي حصيلة غير نهائية.. نحو 900 مواطن ضـ ـحـ ـايـ ـا الزلزال في سورية",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

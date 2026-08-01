@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/BHYTX"
+    "https://archive.ph/BHYTX",
+    "https://web.archive.org/web/20221122210123id_/https://www.trtarabi.com/now/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D9%8A-ypgpkk-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-11024881"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Trtarbai",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "e7f38f12ed4202e7a35b9dee32484814eed6a215f0ea74b2bbcaec289d93ec52",
+  "content_variants": [
+    {
+      "bytes": 1839,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:55:40+00:00",
+      "sha256": "e7f38f12ed4202e7a35b9dee32484814eed6a215f0ea74b2bbcaec289d93ec52",
+      "source_url": "https://web.archive.org/web/20221122210123id_/https://www.trtarabi.com/now/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D9%8A-ypgpkk-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-11024881",
+      "text": "الآن\n\nسوريا.. مقتل 3 مدنيين في قصف لإرهابيّي YPG/PKK على أعزاز\n\nمقتل 3 مدنيين في قصف لإرهابيي YPG على أعزاز السورية / صورة: AA\n(AA)\n\nقتل 3 مدنيين وأصيب 8 آخرون الثلاثاء في قصف صاروخي لتنظيم YPG/PKK الإرهابي على مدينة أعزاز الخاضعة للمعارضة السورية بريف محافظة حلب.\n\nوأفاد مراسل وكالة الأناضول بأن التنظيم الإرهابي شن الهجوم انطلاقاً من منطقة تل رفعت التي يواصل احتلالها، شمالي محافظة حلب، والتي كان ينبغي أن ينسحب منها بموجب التفاهم المبرم بين تركيا وروسيا في 22 أكتوبر/تشرين الأول 2019.\n\nوأسفر القصف الصاروخي على مدينة أعزاز عن مقتل 3 مدنيين وإصابة 8 آخرين بعضهم حالتهم خطيرة، وفق معلومات أولية.\n\nونُقِل المصابون إلى مستشفيات قريبة في المنطقة.\n\nويواصل تنظيم YPG الإرهابي (ذراع PKK الإرهابي في سوريا)، الذي طُرِد من منطقة عفرين بريف حلب عبر عملية \"غصن الزيتون\"، احتلاله لمدينة تل رفعت.\n\nوانطلاقاً من منطقة تل رفعت يشن التنظيم الإرهابي هجمات بين الفينة والأخرى على التجمعات السكنية في جرابلس وعفرين واعزاز ومواقع الجيش الوطني السوري على خطوط التماس.\n\nسوريا\n\nتركيا\n\nتنظيمات إرهابية\n\nحلب\n\nأعزاز\n\nأخبار ذات صلة\n\nأخبار تهمك\n\nماذا تريد أن تعرف أكثر؟"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:55:39+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:55:40+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20221122210123id_/https://www.trtarabi.com/now/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D9%8A-ypgpkk-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-11024881"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20221122210123id_/https://www.trtarabi.com/now/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D9%8A-ypgpkk-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-11024881",
   "incident_ids": [
     "airwars-85906"
   ],
@@ -85,10 +109,10 @@
     "https://www.trtarabi.com/now/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D9%8A-ypgpkk-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-11024881"
   ],
   "original_url": "https://www.trtarabi.com/now/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D9%8A-ypgpkk-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-11024881",
-  "page_title": "",
+  "page_title": "سوريا.. مقتل 3 مدنيين في قصف لإرهابيّي YPG/PKK على أعزاز سوريا.. مقتل 3 مدنيين في قصف لإرهابيّي YPG/PKK على أعزاز",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys159-november-15-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:55:40+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2b6caf0acc7532801c7b0259",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.trtarabi.com/now/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D9%8A-ypgpkk-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-11024881",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "الآن\n\nسوريا.. مقتل 3 مدنيين في قصف لإرهابيّي YPG/PKK على أعزاز\n\nمقتل 3 مدنيين في قصف لإرهابيي YPG على أعزاز السورية / صورة: AA\n(AA)\n\nقتل 3 مدنيين وأصيب 8 آخرون الثلاثاء في قصف صاروخي لتنظيم YPG/PKK الإرهابي على مدينة أعزاز الخاضعة للمعارضة السورية بريف محافظة حلب.\n\nوأفاد مراسل وكالة الأناضول بأن التنظيم الإرهابي شن الهجوم انطلاقاً من منطقة تل رفعت التي يواصل احتلالها، شمالي محافظة حلب، والتي كان ينبغي أن ينسحب منها بموجب التفاهم المبرم بين تركيا وروسيا في 22 أكتوبر/تشرين الأول 2019.\n\nوأسفر القصف الصاروخي على مدينة أعزاز عن مقتل 3 مدنيين وإصابة 8 آخرين بعضهم حالتهم خطيرة، وفق معلومات أولية.\n\nونُقِل المصابون إلى مستشفيات قريبة في المنطقة.\n\nويواصل تنظيم YPG الإرهابي (ذراع PKK الإرهابي في سوريا)، الذي طُرِد من منطقة عفرين بريف حلب عبر عملية \"غصن الزيتون\"، احتلاله لمدينة تل رفعت.\n\nوانطلاقاً من منطقة تل رفعت يشن التنظيم الإرهابي هجمات بين الفينة والأخرى على التجمعات السكنية في جرابلس وعفرين واعزاز ومواقع الجيش الوطني السوري على خطوط التماس.\n\nسوريا\n\nتركيا\n\nتنظيمات إرهابية\n\nحلب\n\nأعزاز\n\nأخبار ذات صلة\n\nأخبار تهمك\n\nماذا تريد أن تعرف أكثر؟",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/7rZiy"
+    "https://archive.is/7rZiy",
+    "https://web.archive.org/web/20241023084328id_/https://www.shrc.org/?p=39126"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Human Rights Committee",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1d1c3c23dbbf72e03957601baf151229cbb62f21f27de5d8f95d039ead5ffab2",
+  "content_variants": [
+    {
+      "bytes": 1568,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:17:10+00:00",
+      "sha256": "1d1c3c23dbbf72e03957601baf151229cbb62f21f27de5d8f95d039ead5ffab2",
+      "source_url": "https://web.archive.org/web/20241023084328id_/https://www.shrc.org/?p=39126",
+      "text": "استهدفت قوات الأسد اليوم الثلاثاء 4 تموز/يوليو 2023 بقذائف المدفعية الثقيلة الأحياء السكنية في مدينة دارة عزة غربي حلب، ما أدى لإصابة أربعة أطفال من عائلة واحدة – حالة اثنين منهما خطرة – حيث قامت فرق الدفاع المدني السوري بنقل المصابين إلى المشفى.\n\nكما استهدفت بلدة البارة في ريف إدلب الجنوبي بقصف مدفعي، ما أدى لإصابة امرأة ورجل بجروح، واستهدفت بقذائف الدبابات الأحياء السكنية في بلدة كفرتعال في ريف حلب الغربي دون وقوع إصابات.\n\nطفلة مصابة اليوم في دارة عزة بقصف قوات الأسد 4/7/2023\n\nاللجنة السورية لحقوق الإنسان تدين هذه الاعتداءات التي تشكل خرقا واضحا لقواعد القانون الدولي الإنساني الخاصة بالتمييز بين المدنيين والعسكريين، ولقرارات مجلس الأمن وبالأخص القرارين رقم 2139 و2254 القاضيين بوقف الهجمات العشوائية، وتحمل المجتمع الدولي مسؤولية دماء الشعب السوري التي يسفكها نظام الأسد وحلفاؤه، بسبب تغاضيه ووقوفه مكتوف اليدين عن محاولة إيقاف تلك الجرائم ومحاسبة مرتكبيها"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:17:09+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:17:10+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241023084328id_/https://www.shrc.org/?p=39126"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241023084328id_/https://www.shrc.org/?p=39126",
   "incident_ids": [
     "airwars-91929",
     "airwars-89768"
@@ -87,10 +111,10 @@
     "https://www.shrc.org/?p=39126"
   ],
   "original_url": "https://www.shrc.org/?p=39126",
-  "page_title": "",
+  "page_title": "ست إصابات بينهم أربعة أطفال بقصف مدفعي لقوات الأسد على دارة عزة بريف حلب الغربي و البارة بريف إدلب الجنوبي",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4779-july-4-2023/",
@@ -118,15 +142,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:17:10+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-c601d1a925253aa48771ccf5",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.shrc.org/?p=39126",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "استهدفت قوات الأسد اليوم الثلاثاء 4 تموز/يوليو 2023 بقذائف المدفعية الثقيلة الأحياء السكنية في مدينة دارة عزة غربي حلب، ما أدى لإصابة أربعة أطفال من عائلة واحدة – حالة اثنين منهما خطرة – حيث قامت فرق الدفاع المدني السوري بنقل المصابين إلى المشفى.\n\nكما استهدفت بلدة البارة في ريف إدلب الجنوبي بقصف مدفعي، ما أدى لإصابة امرأة ورجل بجروح، واستهدفت بقذائف الدبابات الأحياء السكنية في بلدة كفرتعال في ريف حلب الغربي دون وقوع إصابات.\n\nطفلة مصابة اليوم في دارة عزة بقصف قوات الأسد 4/7/2023\n\nاللجنة السورية لحقوق الإنسان تدين هذه الاعتداءات التي تشكل خرقا واضحا لقواعد القانون الدولي الإنساني الخاصة بالتمييز بين المدنيين والعسكريين، ولقرارات مجلس الأمن وبالأخص القرارين رقم 2139 و2254 القاضيين بوقف الهجمات العشوائية، وتحمل المجتمع الدولي مسؤولية دماء الشعب السوري التي يسفكها نظام الأسد وحلفاؤه، بسبب تغاضيه ووقوفه مكتوف اليدين عن محاولة إيقاف تلك الجرائم ومحاسبة مرتكبيها",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/MI1RY"
+    "https://archive.is/MI1RY",
+    "https://web.archive.org/web/20250807005401id_/https://baladi-news.com/ar/articles/76792"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Baladi News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "99b973409d1cb599fb9ee647e53431ac994fc934f889fd9bc4395edcef522946",
+  "content_variants": [
+    {
+      "bytes": 1959,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:16:16+00:00",
+      "sha256": "99b973409d1cb599fb9ee647e53431ac994fc934f889fd9bc4395edcef522946",
+      "source_url": "https://web.archive.org/web/20250807005401id_/https://baladi-news.com/ar/articles/76792",
+      "text": "وزير الدفاع التركي: لا نطمع بأراضي دول الجوار وهدفنا مكافحة الإرهاب\n\nبلدي نيوز\n\nقال وزير الدفاع التركي \"خلوصي أكار\" اليوم الاثنين، إن هدف بلاده من العمليات العسكرية خارج حدود تركيا، هو مكافحة التنظيمات الإرهابية فقط، وأن أنقرة لا تطمع في أراضي دول الجوار.\n\nجاء ذلك في حديث أدلى به خلال استضافته في الاجتماع التحريري للأناضول بمقر الوكالة في العاصمة أنقرة.\n\nوأوضح أكار أن قوات بلاده حيدت ألفين و226 إرهابيا منذ مطلع العام الحالي في إطار مكافحة التنظيمات الإرهابية.\n\nوأضاف، أن تركيا تحترم سيادة دول الجوار ووحدة أراضيها، مبينا أن كفاح أنقرة ضد التنظيمات الإرهابية النشطة في سوريا العراق، يعود بالنفع أيضا للبلدين المذكورين.\n\nوشدد على أن تركيا تولي أهمية كبيرة حيال عدم إلحاق أي ضرر بالمدنيين الأبرياء والبيئة والتراث التاريخي والديني والثقافي خلال عمليات مكافحة الإرهابيين.\n\nوتابع قائلا: \"الأتراك والأكراد والعرب والسنة والعلويون إخوة، تركيا لا تستهدف أيا من هذه الشرائح، أنقرة تسعى فقط للقضاء على التنظيمات الإرهابية، على الجميع أن يدرك ذلك\".\n\nولفت إلى أن الاستراتيجية الجديدة التي تتبعها تركيا في مكافحة الإرهاب، هي ضرب الإرهابيين في المكان الذي يتواجدون فيه.\n\nآخر ما نشر من القسم"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:16:15+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:16:16+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250807005401id_/https://baladi-news.com/ar/articles/76792"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250807005401id_/https://baladi-news.com/ar/articles/76792",
   "incident_ids": [
     "airwars-77690"
   ],
@@ -85,10 +109,10 @@
     "https://baladi-news.com/ar/articles/76792"
   ],
   "original_url": "https://baladi-news.com/ar/articles/76792",
-  "page_title": "",
+  "page_title": "الصفحة الرئيسية وزير الدفاع التركي: لا نطمع بأراضي دول الجوار وهدفنا مكافحة الإرهاب - شبكة بلدي الإعلامية وزير الدفاع التركي: لا نطمع بأراضي دول الجوار وهدفنا مكافحة الإرهاب - شبكة بلدي الإعلامية وزير الدفاع التركي: لا نطمع بأراضي دول الجوار وهدفنا مكافحة الإرهاب - شبكة بلدي الإعلامية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4630-august-20-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:16:16+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-bd0212953326f5de25c8f6f1",
   "source_type": "news_article",
   "stable_id_basis": "https://baladi-news.com/ar/articles/76792",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "وزير الدفاع التركي: لا نطمع بأراضي دول الجوار وهدفنا مكافحة الإرهاب\n\nبلدي نيوز\n\nقال وزير الدفاع التركي \"خلوصي أكار\" اليوم الاثنين، إن هدف بلاده من العمليات العسكرية خارج حدود تركيا، هو مكافحة التنظيمات الإرهابية فقط، وأن أنقرة لا تطمع في أراضي دول الجوار.\n\nجاء ذلك في حديث أدلى به خلال استضافته في الاجتماع التحريري للأناضول بمقر الوكالة في العاصمة أنقرة.\n\nوأوضح أكار أن قوات بلاده حيدت ألفين و226 إرهابيا منذ مطلع العام الحالي في إطار مكافحة التنظيمات الإرهابية.\n\nوأضاف، أن تركيا تحترم سيادة دول الجوار ووحدة أراضيها، مبينا أن كفاح أنقرة ضد التنظيمات الإرهابية النشطة في سوريا العراق، يعود بالنفع أيضا للبلدين المذكورين.\n\nوشدد على أن تركيا تولي أهمية كبيرة حيال عدم إلحاق أي ضرر بالمدنيين الأبرياء والبيئة والتراث التاريخي والديني والثقافي خلال عمليات مكافحة الإرهابيين.\n\nوتابع قائلا: \"الأتراك والأكراد والعرب والسنة والعلويون إخوة، تركيا لا تستهدف أيا من هذه الشرائح، أنقرة تسعى فقط للقضاء على التنظيمات الإرهابية، على الجميع أن يدرك ذلك\".\n\nولفت إلى أن الاستراتيجية الجديدة التي تتبعها تركيا في مكافحة الإرهاب، هي ضرب الإرهابيين في المكان الذي يتواجدون فيه.\n\nآخر ما نشر من القسم",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/E1lUf"
+    "https://archive.md/E1lUf",
+    "https://web.archive.org/web/20240515201307id_/https://www.facebook.com/SYRMMC/posts/1239109986555623"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "MMC (2)",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "6173d4d199336fc638e05bf51810434513d6c74c62db7040c5c978df724a484c",
+  "content_variants": [
+    {
+      "bytes": 636,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:11:19+00:00",
+      "sha256": "6173d4d199336fc638e05bf51810434513d6c74c62db7040c5c978df724a484c",
+      "source_url": "https://web.archive.org/web/20240515201307id_/https://www.facebook.com/SYRMMC/posts/1239109986555623",
+      "text": "عاجل| 10 شهداء بينهم أطفال ونساء، و 40 جريحاً جراء قصف قوات النظام بالمدفعية الثقيلة على مدينة أريحا جنوب #إدلب.\n\nمن بين الشهداء الأطفال طلاب مدارس، قضوا...\n\nعاجل| 10 شهداء بينهم أطفال ونساء، و 40 جريحاً جراء قصف قوات النظام بالمدفعية الثقيلة على مدينة أريحا جنوب #إدلب.\n\nمن بين الشهداء الأطفال طلاب مدارس، قضوا أثناء توجههم صباحاً إلى مدارسهم في مدينة أريحا."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:11:17+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:11:19+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515201307id_/https://www.facebook.com/SYRMMC/posts/1239109986555623"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515201307id_/https://www.facebook.com/SYRMMC/posts/1239109986555623",
   "incident_ids": [
     "airwars-79588"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/SYRMMC/posts/1239109986555623"
   ],
   "original_url": "https://www.facebook.com/SYRMMC/posts/1239109986555623",
-  "page_title": "",
+  "page_title": "المركز الإعلامي العام MMC المركز الإعلامي العام MMC عاجل| 10 شهداء بينهم أطفال... - المركز الإعلامي العام MMC",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4659-october-20-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:11:19+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-806c93aee41df77edb09911c",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SYRMMC/posts/1239109986555623",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "عاجل| 10 شهداء بينهم أطفال ونساء، و 40 جريحاً جراء قصف قوات النظام بالمدفعية الثقيلة على مدينة أريحا جنوب #إدلب.\n\nمن بين الشهداء الأطفال طلاب مدارس، قضوا...\n\nعاجل| 10 شهداء بينهم أطفال ونساء، و 40 جريحاً جراء قصف قوات النظام بالمدفعية الثقيلة على مدينة أريحا جنوب #إدلب.\n\nمن بين الشهداء الأطفال طلاب مدارس، قضوا أثناء توجههم صباحاً إلى مدارسهم في مدينة أريحا.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

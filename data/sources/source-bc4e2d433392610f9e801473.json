@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/i2vOf"
+    "https://archive.md/i2vOf",
+    "https://web.archive.org/web/20240515201235id_/https://www.facebook.com/ArihaToday/posts/1362548040814497"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Ariha Today",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "5b4ffbb5dbdce12e710cfc386bb1f967bdc1b19e5ee732e854f215448a9bd29e",
+  "content_variants": [
+    {
+      "bytes": 185,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:16:28+00:00",
+      "sha256": "5b4ffbb5dbdce12e710cfc386bb1f967bdc1b19e5ee732e854f215448a9bd29e",
+      "source_url": "https://web.archive.org/web/20240515201235id_/https://www.facebook.com/ArihaToday/posts/1362548040814497",
+      "text": "قصف مدفعي يستهدف سوق مدينة أريحا، أوقع عدداً من الشهداء و الجرحى بينهم أطفال أثناء توجههم إلى المدارس"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:16:27+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:16:28+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515201235id_/https://www.facebook.com/ArihaToday/posts/1362548040814497"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515201235id_/https://www.facebook.com/ArihaToday/posts/1362548040814497",
   "incident_ids": [
     "airwars-79588"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/ArihaToday/posts/1362548040814497"
   ],
   "original_url": "https://www.facebook.com/ArihaToday/posts/1362548040814497",
-  "page_title": "",
+  "page_title": "أريحا اليوم Ariha Today أريحا اليوم Ariha Today قصف مدفعي يستهدف سوق مدينة... - أريحا اليوم Ariha Today",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4659-october-20-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:16:28+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-bc4e2d433392610f9e801473",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/ArihaToday/posts/1362548040814497",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قصف مدفعي يستهدف سوق مدينة أريحا، أوقع عدداً من الشهداء و الجرحى بينهم أطفال أثناء توجههم إلى المدارس",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

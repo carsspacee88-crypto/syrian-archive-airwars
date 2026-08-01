@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/H9NlK"
+    "https://archive.is/H9NlK",
+    "https://web.archive.org/web/20240515204406id_/https://www.radioalkul.com/p412692/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Radio Al Kul",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "161786e45f43ceb20a52049e5d695d8467606d9260246327a156adbf817d8aec",
+  "content_variants": [
+    {
+      "bytes": 451,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:14:12+00:00",
+      "sha256": "161786e45f43ceb20a52049e5d695d8467606d9260246327a156adbf817d8aec",
+      "source_url": "https://web.archive.org/web/20240515204406id_/https://www.radioalkul.com/p412692/",
+      "text": "مقالات ذات صلة\n\nملف اليوم: مؤامرة تقودها إيران لتنفيذ أعمال تخريبية في الأردن\n\nنشرة أخبار التاسعة مساءً من راديو وتلفزيون الكل | الأربعاء 15-05-2024\n\nسكان بلدة النيرب شرقي إدلب يشتكون من ارتفاع رسوم جباية المياه الشهرية\n\nالنصف الممتلئ: التنمر آفة مجتمعية"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:14:12+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:14:12+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515204406id_/https://www.radioalkul.com/p412692/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515204406id_/https://www.radioalkul.com/p412692/",
   "incident_ids": [
     "airwars-79385"
   ],
@@ -85,10 +109,10 @@
     "https://www.radioalkul.com/p412692/"
   ],
   "original_url": "https://www.radioalkul.com/p412692/",
-  "page_title": "",
+  "page_title": "إصابة 3 مدنيين بقصف مدفعي للنظام على بلدة معارة النعسان شرقي إدلب – Radio Alkul إصابة 3 مدنيين بقصف مدفعي للنظام على بلدة معارة النعسان شرقي إدلب إصابة 3 مدنيين بقصف مدفعي للنظام على بلدة معارة النعسان شرقي إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4653-october-8-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:14:12+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-a36107508011045626188267",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.radioalkul.com/p412692/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مقالات ذات صلة\n\nملف اليوم: مؤامرة تقودها إيران لتنفيذ أعمال تخريبية في الأردن\n\nنشرة أخبار التاسعة مساءً من راديو وتلفزيون الكل | الأربعاء 15-05-2024\n\nسكان بلدة النيرب شرقي إدلب يشتكون من ارتفاع رسوم جباية المياه الشهرية\n\nالنصف الممتلئ: التنمر آفة مجتمعية",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

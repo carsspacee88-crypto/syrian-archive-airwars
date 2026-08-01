@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/RgykX"
+    "https://archive.is/RgykX",
+    "https://web.archive.org/web/20220724092823id_/https://twitter.com/thiqanewsagency/status/1551108735455617025"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@thiqanewsagency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "57a8b486664964b5e2bfa31c135bf2dd3d978222adc8438217ca32d80132761f",
+  "content_variants": [
+    {
+      "bytes": 315,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:25:57+00:00",
+      "sha256": "57a8b486664964b5e2bfa31c135bf2dd3d978222adc8438217ca32d80132761f",
+      "source_url": "https://web.archive.org/web/20220724092823id_/https://twitter.com/thiqanewsagency/status/1551108735455617025",
+      "text": "Conversationوكالة ثقة@thiqanewsagency⚡مراسلنا: شهداء وجرحى بقصف صاروخي لقوات \"قسد\" استهدف مخيم \"كويت الرحمة\" على أطراف مدينة عفرين شمالي حلب.\n#وكالة_ثقة0:10120 views7:35 AM · Jul 24, 2022·Twitter for Android3 Likes"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:25:56+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:25:57+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220724092823id_/https://twitter.com/thiqanewsagency/status/1551108735455617025"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220724092823id_/https://twitter.com/thiqanewsagency/status/1551108735455617025",
   "incident_ids": [
     "airwars-84183"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/thiqanewsagency/status/1551108735455617025"
   ],
   "original_url": "https://twitter.com/thiqanewsagency/status/1551108735455617025",
-  "page_title": "",
+  "page_title": "وكالة ثقة on Twitter وكالة ثقة on Twitter: \"⚡مراسلنا: شهداء وجرحى بقصف صاروخي لقوات \"قسد\" استهدف مخيم \"كويت الرحمة\" على أطراف مدينة عفرين شمالي حلب.\n#وكالة_ثقة https://t.co/R01n8bs5nT\" / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys141-july-24-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:25:57+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-fe92618cb0a2bf6fa34a5815",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/thiqanewsagency/status/1551108735455617025",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Conversationوكالة ثقة@thiqanewsagency⚡مراسلنا: شهداء وجرحى بقصف صاروخي لقوات \"قسد\" استهدف مخيم \"كويت الرحمة\" على أطراف مدينة عفرين شمالي حلب.\n#وكالة_ثقة0:10120 views7:35 AM · Jul 24, 2022·Twitter for Android3 Likes",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

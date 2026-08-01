@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/nOPSp"
+    "https://archive.is/nOPSp",
+    "https://web.archive.org/web/20241225180716id_/https://www.syria.tv/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D9%83%D9%81%D8%B1%D8%AF%D8%B1%D9%8A%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syria TV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8726df040587a101c9dfa73e09c0f98270fc3c47a9d48f7e4e8da4a9965808c4",
+  "content_variants": [
+    {
+      "bytes": 1682,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:59:44+00:00",
+      "sha256": "8726df040587a101c9dfa73e09c0f98270fc3c47a9d48f7e4e8da4a9965808c4",
+      "source_url": "https://web.archive.org/web/20241225180716id_/https://www.syria.tv/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D9%83%D9%81%D8%B1%D8%AF%D8%B1%D9%8A%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+      "text": "ضحايا بقصف جوي روسي على بلدة كفردريان شمالي إدلب | فيديو\n\nقضى وأصيب عدد من المدنيين، اليوم الجمعة، من جراء قصف جوي روسي استهدف بلدة كفردريان شمالي إدلب.\n\nوأفاد مراسل تلفزيون سوريا أن شخصين قُتلا وأصيب آخرون من جراء قصف جوي نفّذته طائرة حربية روسية استهدف مدجنة على أطراف البلدة.\n\nوأضاف أن عدداً من المدنيين لا يزالون تحت أنقاض المبنى الذي دُمر بفعل القصف، من دون الإشارة إلى أعدادهم.\n\nوتزامن القصف على كفردريان مع غارات روسية استهدفت قريتي البارة وبليون جنوبي إدلب.\n\nوصعّدت روسيا من هجماتها على مدن وبلدات شمال غربي سوريا بعد انتهاء الجولة الأخيرة الـ 17 من أستانا.\n\nوشنت الطائرات الروسية 4 غارات جوية يوم أمس الخميس، استهدفت منطقة جبل الشيخ بركات في مدينة دارة عزة غربي حلب، ومدجنة على أطراف قرية كفردريان شمالي إدلب.\n\nوقتل مدني وأصيب 5 آخرون، الإثنين الماضي، إثر قصف مدفعي بقذائف \"كراسنبول\" لقوات النظام على قريتي معربليت ومنطف في جبل الزاوية جنوبي إدلب.\n\nضحايا مدنيون بغارات روسيّة وقصف للنظام على ريف إدلب\n\nاخترنا لك\n\nالأكثر قراءة"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:59:43+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:59:44+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241225180716id_/https://www.syria.tv/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D9%83%D9%81%D8%B1%D8%AF%D8%B1%D9%8A%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241225180716id_/https://www.syria.tv/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D9%83%D9%81%D8%B1%D8%AF%D8%B1%D9%8A%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
   "incident_ids": [
     "airwars-80886"
   ],
@@ -85,10 +109,10 @@
     "https://www.syria.tv/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D9%83%D9%81%D8%B1%D8%AF%D8%B1%D9%8A%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88"
   ],
   "original_url": "https://www.syria.tv/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D9%83%D9%81%D8%B1%D8%AF%D8%B1%D9%8A%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
-  "page_title": "",
+  "page_title": "ضحايا بقصف جوي روسي على بلدة كفردريان شمالي إدلب | فيديو ضحايا بقصف جوي روسي على بلدة كفردريان شمالي إدلب | فيديو ضحايا بقصف جوي روسي على بلدة كفردريان شمالي إدلب | فيديو",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4684-december-31-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:59:44+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4af63bb740aac7483f97acc9",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.syria.tv/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A9-%D9%83%D9%81%D8%B1%D8%AF%D8%B1%D9%8A%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ضحايا بقصف جوي روسي على بلدة كفردريان شمالي إدلب | فيديو\n\nقضى وأصيب عدد من المدنيين، اليوم الجمعة، من جراء قصف جوي روسي استهدف بلدة كفردريان شمالي إدلب.\n\nوأفاد مراسل تلفزيون سوريا أن شخصين قُتلا وأصيب آخرون من جراء قصف جوي نفّذته طائرة حربية روسية استهدف مدجنة على أطراف البلدة.\n\nوأضاف أن عدداً من المدنيين لا يزالون تحت أنقاض المبنى الذي دُمر بفعل القصف، من دون الإشارة إلى أعدادهم.\n\nوتزامن القصف على كفردريان مع غارات روسية استهدفت قريتي البارة وبليون جنوبي إدلب.\n\nوصعّدت روسيا من هجماتها على مدن وبلدات شمال غربي سوريا بعد انتهاء الجولة الأخيرة الـ 17 من أستانا.\n\nوشنت الطائرات الروسية 4 غارات جوية يوم أمس الخميس، استهدفت منطقة جبل الشيخ بركات في مدينة دارة عزة غربي حلب، ومدجنة على أطراف قرية كفردريان شمالي إدلب.\n\nوقتل مدني وأصيب 5 آخرون، الإثنين الماضي، إثر قصف مدفعي بقذائف \"كراسنبول\" لقوات النظام على قريتي معربليت ومنطف في جبل الزاوية جنوبي إدلب.\n\nضحايا مدنيون بغارات روسيّة وقصف للنظام على ريف إدلب\n\nاخترنا لك\n\nالأكثر قراءة",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

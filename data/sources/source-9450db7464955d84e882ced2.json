@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/cgQZo"
+    "https://archive.ph/cgQZo",
+    "https://web.archive.org/web/20230130183730id_/https://hawarnews.com/en/haber/3-civilians-injured-in-a-turkish-drone-attack-in-kobani-h27257.html"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Hawar News Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b9139cfe6ca008a50f6eca246f59b5e458569873b2b9948acafbdb9db52ee2de",
+  "content_variants": [
+    {
+      "bytes": 817,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:13:54+00:00",
+      "sha256": "b9139cfe6ca008a50f6eca246f59b5e458569873b2b9948acafbdb9db52ee2de",
+      "source_url": "https://web.archive.org/web/20230130183730id_/https://hawarnews.com/en/haber/3-civilians-injured-in-a-turkish-drone-attack-in-kobani-h27257.html",
+      "text": "ANHA correspondents reported that a Turkish occupation drone bombed today, Wednesday, 15:30, a civilian car in the city of Kobani, as a result of which 3 civilians were injured and were taken to Kobani hospitals for treatment, in addition to causing material damage to the place of the bombing.\n\nThe correspondents obtained the names of the injured, who are: \"the child Ali Shukri Lutfi Muhammad, aged 16, Bakr Jarada, the 49-year-old co-chair of the Justice Commission in the Euphrates region, and Ali Rashad Mistou, 19.\"\n\nA\n\nANHA\n\nOther news\n\nTurkish occupation mercenaries steal 24 sheep in occupied Afrin\n\nMercenaries of Turkish occupation cut down more than (256) trees in occupied Afrin\n\n​​​​​​​Women's Office in TEV-DEM calls for escalation of struggle until the physical freedom of leader Ocalan"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:13:52+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:13:54+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230130183730id_/https://hawarnews.com/en/haber/3-civilians-injured-in-a-turkish-drone-attack-in-kobani-h27257.html"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230130183730id_/https://hawarnews.com/en/haber/3-civilians-injured-in-a-turkish-drone-attack-in-kobani-h27257.html",
   "incident_ids": [
     "airwars-79799"
   ],
@@ -85,10 +109,10 @@
     "https://hawarnews.com/en/haber/3-civilians-injured-in-a-turkish-drone-attack-in-kobani-h27257.html"
   ],
   "original_url": "https://hawarnews.com/en/haber/3-civilians-injured-in-a-turkish-drone-attack-in-kobani-h27257.html",
-  "page_title": "",
+  "page_title": "3 civilians injured in a Turkish drone attack in Kobani - ANHA | HAWARNEWS | English 3 civilians injured in a Turkish drone attack in Kobani - ANHA | HAWARNEWS | English 3 civilians injured in a Turkish drone attack in Kobani - ANHA | HAWARNEWS | English",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts476-october-20-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:13:54+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9450db7464955d84e882ced2",
   "source_type": "news_article",
   "stable_id_basis": "https://hawarnews.com/en/haber/3-civilians-injured-in-a-turkish-drone-attack-in-kobani-h27257.html",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ANHA correspondents reported that a Turkish occupation drone bombed today, Wednesday, 15:30, a civilian car in the city of Kobani, as a result of which 3 civilians were injured and were taken to Kobani hospitals for treatment, in addition to causing material damage to the place of the bombing.\n\nThe correspondents obtained the names of the injured, who are: \"the child Ali Shukri Lutfi Muhammad, aged 16, Bakr Jarada, the 49-year-old co-chair of the Justice Commission in the Euphrates region, and Ali Rashad Mistou, 19.\"\n\nA\n\nANHA\n\nOther news\n\nTurkish occupation mercenaries steal 24 sheep in occupied Afrin\n\nMercenaries of Turkish occupation cut down more than (256) trees in occupied Afrin\n\n​​​​​​​Women's Office in TEV-DEM calls for escalation of struggle until the physical freedom of leader Ocalan",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

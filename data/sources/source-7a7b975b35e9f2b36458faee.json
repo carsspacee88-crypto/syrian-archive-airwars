@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/amZMR"
+    "https://archive.is/amZMR",
+    "https://web.archive.org/web/20240721021545id_/https://24.ae/article/767264/%D9%85%D9%82%D8%AA%D9%84-%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%81%D8%B5%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "24.ae",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c7ba495dbc99044ef66e9a16b5d4497683b36042068c511909591754565333e1",
+  "content_variants": [
+    {
+      "bytes": 118,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:08:55+00:00",
+      "sha256": "c7ba495dbc99044ef66e9a16b5d4497683b36042068c511909591754565333e1",
+      "source_url": "https://web.archive.org/web/20240721021545id_/https://24.ae/article/767264/%D9%85%D9%82%D8%AA%D9%84-%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%81%D8%B5%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "text": "قتل 4 سوريين، بينهم أم وطفلتان، في قصف لبلدة أورم الكبرى بريف حلب."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:08:54+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:08:55+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240721021545id_/https://24.ae/article/767264/%D9%85%D9%82%D8%AA%D9%84-%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%81%D8%B5%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240721021545id_/https://24.ae/article/767264/%D9%85%D9%82%D8%AA%D9%84-%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D8%A8%D8%B9%D8%AF-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%81%D8%B5%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
   "incident_ids": [
     "airwars-89761"
   ],
@@ -85,10 +109,10 @@
     "https://24.ae/article/767264/مقتل-عائلة-كاملة-بعد-قصف-الفصائل-المسلحة-في-سوريا"
   ],
   "original_url": "https://24.ae/article/767264/مقتل-عائلة-كاملة-بعد-قصف-الفصائل-المسلحة-في-سوريا",
-  "page_title": "",
+  "page_title": "مقتل عائلة كاملة بعد قصف الفصائل المسلحة في سوريا - موقع 24\nمقتل عائلة كاملة بعد قصف الفصائل المسلحة في سوريا مقتل عائلة كاملة بعد قصف الفصائل المسلحة في سوريا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts607-july-4-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:08:55+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7a7b975b35e9f2b36458faee",
   "source_type": "other_web_page",
   "stable_id_basis": "https://24.ae/article/767264/مقتل-عائلة-كاملة-بعد-قصف-الفصائل-المسلحة-في-سوريا",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قتل 4 سوريين، بينهم أم وطفلتان، في قصف لبلدة أورم الكبرى بريف حلب.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

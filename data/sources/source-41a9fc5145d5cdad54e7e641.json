@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/77Y1T"
+    "https://archive.is/77Y1T",
+    "https://web.archive.org/web/20240524231222id_/https://www.facebook.com/ShaamNetwork.Arabic/posts/5240419999341865"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c5b399934d670f2ae2c8bb5430a00497bddbaa81b8d08d5a7f7deea89b4365aa",
+  "content_variants": [
+    {
+      "bytes": 165,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:58:33+00:00",
+      "sha256": "c5b399934d670f2ae2c8bb5430a00497bddbaa81b8d08d5a7f7deea89b4365aa",
+      "source_url": "https://web.archive.org/web/20240524231222id_/https://www.facebook.com/ShaamNetwork.Arabic/posts/5240419999341865",
+      "text": "#شام | شهداء أطفال بقصف مدفعي للقوات النظام في ثالث أيام رمضان على بلدة #معارة_النعسان بإدلب"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:58:32+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:58:33+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524231222id_/https://www.facebook.com/ShaamNetwork.Arabic/posts/5240419999341865"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524231222id_/https://www.facebook.com/ShaamNetwork.Arabic/posts/5240419999341865",
   "incident_ids": [
     "airwars-82563"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/ShaamNetwork.Arabic/posts/5240419999341865"
   ],
   "original_url": "https://www.facebook.com/ShaamNetwork.Arabic/posts/5240419999341865",
-  "page_title": "",
+  "page_title": "S.N.N | شبكة شام S.N.N | شبكة شام #شام | شهداء أطفال بقصف مدفعي للقوات... - S.N.N | شبكة شام",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4698-april-4-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:58:33+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-41a9fc5145d5cdad54e7e641",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/ShaamNetwork.Arabic/posts/5240419999341865",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#شام | شهداء أطفال بقصف مدفعي للقوات النظام في ثالث أيام رمضان على بلدة #معارة_النعسان بإدلب",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

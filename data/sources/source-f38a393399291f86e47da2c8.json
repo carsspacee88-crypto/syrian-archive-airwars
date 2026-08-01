@@ -2,7 +2,8 @@
   "airwars_source_ids": [],
   "archived_urls": [
     "https://archive.is/jkpoR",
-    "https://archive.is/zQIzp"
+    "https://archive.is/zQIzp",
+    "https://web.archive.org/web/20240515213200id_/https://www.facebook.com/ArihaToday/posts/1335205526882082"
   ],
   "attempt_history": [
     {
@@ -93,12 +94,35 @@
   "author": "'@ArihaToday",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8f8661c56ae680c4b34a148e06db14def95b638d6f3292ac5e50ea3cc923ad24",
+  "content_variants": [
+    {
+      "bytes": 561,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:23:35+00:00",
+      "sha256": "8f8661c56ae680c4b34a148e06db14def95b638d6f3292ac5e50ea3cc923ad24",
+      "source_url": "https://web.archive.org/web/20240515213200id_/https://www.facebook.com/ArihaToday/posts/1335205526882082",
+      "text": "أسماء المصابين حتى هذه اللحظة جراء القصف على مدينة أريحا\n\n١- اسماعيل محمد عريان\n٢- عبدالله كشتان ابن مصطفى\n٣- عبد القادر المنى ابن محمد\n٤- نورس...\n\nأسماء المصابين حتى هذه اللحظة جراء القصف على مدينة أريحا\n\n١- اسماعيل محمد عريان\n٢- عبدالله كشتان ابن مصطفى\n٣- عبد القادر المنى ابن محمد\n٤- نورس النائب\n٥- وصال صبحي مليشو"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:23:34+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:23:35+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515213200id_/https://www.facebook.com/ArihaToday/posts/1335205526882082"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515213200id_/https://www.facebook.com/ArihaToday/posts/1335205526882082",
   "incident_ids": [
     "airwars-78216"
   ],
@@ -114,10 +138,10 @@
     "https://www.facebook.com/ArihaToday/posts/1335205526882082"
   ],
   "original_url": "https://www.facebook.com/ArihaToday/posts/1335205526882082",
-  "page_title": "",
+  "page_title": "أريحا اليوم Ariha Today أريحا اليوم Ariha Today أسماء المصابين حتى هذه اللحظة... - أريحا اليوم Ariha Today",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4642-september-8-2021/",
@@ -137,15 +161,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:23:35+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f38a393399291f86e47da2c8",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/ArihaToday/posts/1335205526882082",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "أسماء المصابين حتى هذه اللحظة جراء القصف على مدينة أريحا\n\n١- اسماعيل محمد عريان\n٢- عبدالله كشتان ابن مصطفى\n٣- عبد القادر المنى ابن محمد\n٤- نورس...\n\nأسماء المصابين حتى هذه اللحظة جراء القصف على مدينة أريحا\n\n١- اسماعيل محمد عريان\n٢- عبدالله كشتان ابن مصطفى\n٣- عبد القادر المنى ابن محمد\n٤- نورس النائب\n٥- وصال صبحي مليشو",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

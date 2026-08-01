@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/PhS7B"
+    "https://archive.is/PhS7B",
+    "https://web.archive.org/web/20250113012124id_/https://eyeofeuphrates.com/ar/news/2022/10/29/6671"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Euphrates eye",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "33e86bffb3f15e216001cc31f3100faa34431e6aa45fcc636fd325b6e68ff1d6",
+  "content_variants": [
+    {
+      "bytes": 535,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:25:24+00:00",
+      "sha256": "33e86bffb3f15e216001cc31f3100faa34431e6aa45fcc636fd325b6e68ff1d6",
+      "source_url": "https://web.archive.org/web/20250113012124id_/https://eyeofeuphrates.com/ar/news/2022/10/29/6671",
+      "text": "سقط ضحايا مدنيون جرّاء قصف استهدف مخيماً للنازحين في منطقة عفرين شمالي حلب. وقال الدفاع المدني السوري، إن امرأة قتلت وأصيب أحد أطفالها وزوجها بجروح، وتعرض اثنان من أطفالها لصدمة نفسية، إثر قصف صاروخي من مناطق سيطرة قوات النظام وقسد استهدف مخيم كويت الرحمة. وأضاف أن المخيم شهد حالة ذعر ونزوح لع"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:25:23+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:25:24+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250113012124id_/https://eyeofeuphrates.com/ar/news/2022/10/29/6671"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250113012124id_/https://eyeofeuphrates.com/ar/news/2022/10/29/6671",
   "incident_ids": [
     "airwars-85228"
   ],
@@ -85,10 +109,10 @@
     "https://eyeofeuphrates.com/ar/news/2022/10/29/6671"
   ],
   "original_url": "https://eyeofeuphrates.com/ar/news/2022/10/29/6671",
-  "page_title": "",
+  "page_title": "ضحايا مدنيون بقصف على مخيم للنازحين في منطقة عفرين شمالي حلب | شبكة عين الفرات شبكة عين الفرات | ضحايا مدنيون بقصف على مخيم للنازحين في منطقة عفرين شمالي حلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys155-october-29-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:25:24+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f8e23a1b3dcafd493157a56e",
   "source_type": "other_web_page",
   "stable_id_basis": "https://eyeofeuphrates.com/ar/news/2022/10/29/6671",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "سقط ضحايا مدنيون جرّاء قصف استهدف مخيماً للنازحين في منطقة عفرين شمالي حلب. وقال الدفاع المدني السوري، إن امرأة قتلت وأصيب أحد أطفالها وزوجها بجروح، وتعرض اثنان من أطفالها لصدمة نفسية، إثر قصف صاروخي من مناطق سيطرة قوات النظام وقسد استهدف مخيم كويت الرحمة. وأضاف أن المخيم شهد حالة ذعر ونزوح لع",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

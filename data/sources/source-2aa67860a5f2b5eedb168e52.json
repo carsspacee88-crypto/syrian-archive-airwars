@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/HkAbB"
+    "https://archive.is/HkAbB",
+    "https://web.archive.org/web/20250322221137id_/https://www.zamanalwsl.net/news/article/144947"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaman Al Wasl",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "03a4d761ff0ed92b6a90431f2be77c906459d87e7579bef1a31b17a2efabfc37",
+  "content_variants": [
+    {
+      "bytes": 254,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:55:35+00:00",
+      "sha256": "03a4d761ff0ed92b6a90431f2be77c906459d87e7579bef1a31b17a2efabfc37",
+      "source_url": "https://web.archive.org/web/20250322221137id_/https://www.zamanalwsl.net/news/article/144947",
+      "text": "04 نيسان 2022\n\nالمقاومة السورية ترد على مقتل تلاميذ شمال إدلب\n\n0\n\nالتعليقات\n\nمحافظة\n\nإدلب\n\nالنظام\n\nقوات\n\nاليوم\n\nحلب\n\nإثر\n\nمقرات\n\nتعليقات حول الموضوع"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:55:35+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:55:35+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250322221137id_/https://www.zamanalwsl.net/news/article/144947"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250322221137id_/https://www.zamanalwsl.net/news/article/144947",
   "incident_ids": [
     "airwars-82563"
   ],
@@ -85,10 +109,10 @@
     "https://www.zamanalwsl.net/news/article/144947/"
   ],
   "original_url": "https://www.zamanalwsl.net/news/article/144947/",
-  "page_title": "",
+  "page_title": "المقاومة السورية ترد على مقتل تلاميذ شمال إدلب | زمان الوصل المقاومة السورية ترد على مقتل تلاميذ شمال إدلب المقاومة السورية ترد على مقتل تلاميذ شمال إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4698-april-4-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:55:35+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2aa67860a5f2b5eedb168e52",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.zamanalwsl.net/news/article/144947/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "04 نيسان 2022\n\nالمقاومة السورية ترد على مقتل تلاميذ شمال إدلب\n\n0\n\nالتعليقات\n\nمحافظة\n\nإدلب\n\nالنظام\n\nقوات\n\nاليوم\n\nحلب\n\nإثر\n\nمقرات\n\nتعليقات حول الموضوع",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

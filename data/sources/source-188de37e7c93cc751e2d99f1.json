@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/IR5ZI"
+    "https://archive.is/IR5ZI",
+    "https://web.archive.org/web/20240421171709id_/https://adelhr.org/portal/23600?fbclid=IwAR1zVIu74MRZ4BBAyKKK1zl4mRsPinUzLWZkgOJ0r11gli6WaCLk7qWuLLc"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Adel HR News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "4a2150fd82cdd4fcd5ca47c69a61eee458b90d287730b1884d30aefcd91f28a3",
+  "content_variants": [
+    {
+      "bytes": 2774,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:54:02+00:00",
+      "sha256": "4a2150fd82cdd4fcd5ca47c69a61eee458b90d287730b1884d30aefcd91f28a3",
+      "source_url": "https://web.archive.org/web/20240421171709id_/https://adelhr.org/portal/23600?fbclid=IwAR1zVIu74MRZ4BBAyKKK1zl4mRsPinUzLWZkgOJ0r11gli6WaCLk7qWuLLc",
+      "text": "في عملية إنزال جوي.. جنود “التحالف الدولي” يقتلون مواطنا استضاف قيادي في “داعش” بريف الرقة\n\nمتابعة مركز عدل لحقوق الإنسان\n\nقُتل شخص برصاص عشوائي أطلقه جنود “التحالف الدولي”، في عملية إنزال جوي لهم استهدفوا قياديا في “داعش” استضافه المقتول، بقرية “مطب البوراشد” شرق الرقة.ووفقا للمصادر فإن قوات “التحالف الدولي” نفذت عملية إنزال جوي، فجر اليوم الجمعة ٤ آب/أغسطس ٢٠٢٣، استهدفت خلالها عنصر في “داعش” وهو نازح من دير الزور، في حين تمكن من الهروب والاختفاء بمنزل جاره الذي استضافه، قبل أن يهرب المطلوب من جديد إلى جهة مجهولة.وعلى إثر ذلك، داهمت قوات التحالف المنزل وقتلت المواطن ومنعت المواطنين من الاقتراب، لحين مغادرة المكان، حيث ترك جنود التحالف الجثة داخل منزله.ونفذت وحدات تابعة لقوات سوريا الديمقراطية وبمساندة الطيران المروحي التابع لقوات “التحالف الدولي”، في ٣١ تموز/يوليو الفائت، عملية أمنية في منطقة العزبة بريف ديرالزور الشمالي، بحثا عن خلايا تنظيم “داعش”، أسفرت العملية عن اعتقال مسؤول التسليح لـ “داعش” سابقا بديرالزور.ووفق المرصد السوري في ٢١ تموز/يوليو ٢٠٢٣ إلى أن وحدات تابعة لقوات سوريا الديمقراطية، وقوات “التحالف الدولي”، نفذوا عملية إنزال جوي مشترك، استهدفت منزل أحد مستثمري آبار النفطية في بلدة “جديد عكيدات” بريف دير الزور الشرقي، أسفرت العملية عن اعتقال شخصين من بينهم المستثمر، لقيامهما بدفع زكاة لخلايا تنظيم “داعش” في المنطقة، والتخابر لصالح “النظام”، حيث جرى اقتيادهما إلى المراكز الأمنية التابعة لـ “قسد”، دون معرفة مصيرهما.\n\nالمصدر: المرصد السوري لحقوق الإنسان\n\nشارك هذا الموضوع:\n\nمشاركة\n\nانقر للمشاركة على WhatsApp (فتح في نافذة جديدة)\n\nانقر للمشاركة على فيسبوك (فتح في نافذة جديدة)"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:54:01+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:54:02+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240421171709id_/https://adelhr.org/portal/23600?fbclid=IwAR1zVIu74MRZ4BBAyKKK1zl4mRsPinUzLWZkgOJ0r11gli6WaCLk7qWuLLc"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240421171709id_/https://adelhr.org/portal/23600?fbclid=IwAR1zVIu74MRZ4BBAyKKK1zl4mRsPinUzLWZkgOJ0r11gli6WaCLk7qWuLLc",
   "incident_ids": [
     "airwars-92725"
   ],
@@ -85,10 +109,10 @@
     "https://adelhr.org/portal/23600?fbclid=IwAR1zVIu74MRZ4BBAyKKK1zl4mRsPinUzLWZkgOJ0r11gli6WaCLk7qWuLLc"
   ],
   "original_url": "https://adelhr.org/portal/23600?fbclid=IwAR1zVIu74MRZ4BBAyKKK1zl4mRsPinUzLWZkgOJ0r11gli6WaCLk7qWuLLc",
-  "page_title": "",
+  "page_title": "في عملية إنزال جوي.. جنود “التحالف الدولي” يقتلون مواطنا استضاف قيادي في “داعش” بريف الرقة – مركز عدل لحقوق الانسان في عملية إنزال جوي.. جنود “التحالف الدولي” يقتلون مواطنا استضاف قيادي في “داعش” بريف الرقة",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1996-august-4-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:54:02+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-188de37e7c93cc751e2d99f1",
   "source_type": "news_article",
   "stable_id_basis": "https://adelhr.org/portal/23600?fbclid=IwAR1zVIu74MRZ4BBAyKKK1zl4mRsPinUzLWZkgOJ0r11gli6WaCLk7qWuLLc",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "في عملية إنزال جوي.. جنود “التحالف الدولي” يقتلون مواطنا استضاف قيادي في “داعش” بريف الرقة\n\nمتابعة مركز عدل لحقوق الإنسان\n\nقُتل شخص برصاص عشوائي أطلقه جنود “التحالف الدولي”، في عملية إنزال جوي لهم استهدفوا قياديا في “داعش” استضافه المقتول، بقرية “مطب البوراشد” شرق الرقة.ووفقا للمصادر فإن قوات “التحالف الدولي” نفذت عملية إنزال جوي، فجر اليوم الجمعة ٤ آب/أغسطس ٢٠٢٣، استهدفت خلالها عنصر في “داعش” وهو نازح من دير الزور، في حين تمكن من الهروب والاختفاء بمنزل جاره الذي استضافه، قبل أن يهرب المطلوب من جديد إلى جهة مجهولة.وعلى إثر ذلك، داهمت قوات التحالف المنزل وقتلت المواطن ومنعت المواطنين من الاقتراب، لحين مغادرة المكان، حيث ترك جنود التحالف الجثة داخل منزله.ونفذت وحدات تابعة لقوات سوريا الديمقراطية وبمساندة الطيران المروحي التابع لقوات “التحالف الدولي”، في ٣١ تموز/يوليو الفائت، عملية أمنية في منطقة العزبة بريف ديرالزور الشمالي، بحثا عن خلايا تنظيم “داعش”، أسفرت العملية عن اعتقال مسؤول التسليح لـ “داعش” سابقا بديرالزور.ووفق المرصد السوري في ٢١ تموز/يوليو ٢٠٢٣ إلى أن وحدات تابعة لقوات سوريا الديمقراطية، وقوات “التحالف الدولي”، نفذوا عملية إنزال جوي مشترك، استهدفت منزل أحد مستثمري آبار النفطية في بلدة “جديد عكيدات” بريف دير الزور الشرقي، أسفرت العملية عن اعتقال شخصين من بينهم المستثمر، لقيامهما بدفع زكاة لخلايا تنظيم “داعش” في المنطقة، والتخابر لصالح “النظام”، حيث جرى اقتيادهما إلى المراكز الأمنية التابعة لـ “قسد”، دون معرفة مصيرهما.\n\nالمصدر: المرصد السوري لحقوق الإنسان\n\nشارك هذا الموضوع:\n\nمشاركة\n\nانقر للمشاركة على WhatsApp (فتح في نافذة جديدة)\n\nانقر للمشاركة على فيسبوك (فتح في نافذة جديدة)",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

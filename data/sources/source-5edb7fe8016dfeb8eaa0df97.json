@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/9JB7Y#selection-1031.0-1049.106"
+    "https://archive.is/9JB7Y#selection-1031.0-1049.106",
+    "https://web.archive.org/web/20250620203835id_/https://npasyria.com/en/100635/?fbclid=IwAR3RYirwi0apMLOJTxt2AzDMLIo94iWvjObo3SGZtmjt47Cunhj4eDvA2_M"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d69a1aec9369cc1e6f5b1fd6c68331801355f0f27a89a5eaf6cd6de41e8ecb75",
+  "content_variants": [
+    {
+      "bytes": 889,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:04:43+00:00",
+      "sha256": "d69a1aec9369cc1e6f5b1fd6c68331801355f0f27a89a5eaf6cd6de41e8ecb75",
+      "source_url": "https://web.archive.org/web/20250620203835id_/https://npasyria.com/en/100635/?fbclid=IwAR3RYirwi0apMLOJTxt2AzDMLIo94iWvjObo3SGZtmjt47Cunhj4eDvA2_M",
+      "text": "Medical staff injured in Turkish shelling on Kobani\n\nKobani Hospital in the city of Kobani, northern Syria – North Press\n\nKOBANI, Syria (North Press) – Two members of a medical staff were injured in Turkish shelling against the outskirts of the city of Kobani, northern Syria.\n\nEarlier today, Turkish forces targeted with mortar shells a village at Mashta al-Nour Hill and a paint factory in southern Kobani.\n\nTwo ambulances rushed to the scenes, but they were targeted by Turkish forces, injuring two members of the medical staff.\n\nA medical source from Kobani Hospital told North Press, “Sozdar Othman, 30, and Muslim Nabi Usso, 25, both members of the medical staff, sustained shrapnel wounds in their legs as a result of the Turkish shelling.”\n\nThe source described their condition as stable, adding they are still receiving treatment at the hospital.\n\nReporting by Fattah Issa"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:04:42+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:04:43+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250620203835id_/https://npasyria.com/en/100635/?fbclid=IwAR3RYirwi0apMLOJTxt2AzDMLIo94iWvjObo3SGZtmjt47Cunhj4eDvA2_M"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250620203835id_/https://npasyria.com/en/100635/?fbclid=IwAR3RYirwi0apMLOJTxt2AzDMLIo94iWvjObo3SGZtmjt47Cunhj4eDvA2_M",
   "incident_ids": [
     "airwars-91699"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/100635/?fbclid=IwAR3RYirwi0apMLOJTxt2AzDMLIo94iWvjObo3SGZtmjt47Cunhj4eDvA2_M"
   ],
   "original_url": "https://npasyria.com/en/100635/?fbclid=IwAR3RYirwi0apMLOJTxt2AzDMLIo94iWvjObo3SGZtmjt47Cunhj4eDvA2_M",
-  "page_title": "",
+  "page_title": "Medical staff injured in Turkish shelling on Kobani Medical staff injured in Turkish shelling on Kobani Medical staff injured in Turkish shelling on Kobani Medical staff injured in Turkish shelling on Kobani - North press agency Medical staff injured in Turkish shelling on Kobani - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts609-july-5-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:04:43+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5edb7fe8016dfeb8eaa0df97",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/100635/?fbclid=IwAR3RYirwi0apMLOJTxt2AzDMLIo94iWvjObo3SGZtmjt47Cunhj4eDvA2_M",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Medical staff injured in Turkish shelling on Kobani\n\nKobani Hospital in the city of Kobani, northern Syria – North Press\n\nKOBANI, Syria (North Press) – Two members of a medical staff were injured in Turkish shelling against the outskirts of the city of Kobani, northern Syria.\n\nEarlier today, Turkish forces targeted with mortar shells a village at Mashta al-Nour Hill and a paint factory in southern Kobani.\n\nTwo ambulances rushed to the scenes, but they were targeted by Turkish forces, injuring two members of the medical staff.\n\nA medical source from Kobani Hospital told North Press, “Sozdar Othman, 30, and Muslim Nabi Usso, 25, both members of the medical staff, sustained shrapnel wounds in their legs as a result of the Turkish shelling.”\n\nThe source described their condition as stable, adding they are still receiving treatment at the hospital.\n\nReporting by Fattah Issa",
   "text_original_language": "en",
   "translation": {
     "chunks": [],
