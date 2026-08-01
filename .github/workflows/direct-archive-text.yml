@@ -21,8 +21,9 @@ jobs:
     timeout-minutes: 330
     strategy:
       fail-fast: false
+      max-parallel: 8
       matrix:
-        shard: [0, 1, 2, 3, 4, 5, 6, 7]
+        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]
     steps:
       - uses: actions/checkout@v6
         with:
@@ -38,9 +39,9 @@ jobs:
             --first-sequence 263 \
             --last-sequence 1000 \
             --shard-index ${{ matrix.shard }} \
-            --shard-count 8 \
+            --shard-count 32 \
             --workers 8 \
-            --timeout 30
+            --timeout 15
       - name: تجهيز الملفات التي تغيرت في هذه الدفعة فقط
         run: |
           mkdir -p artifact/data/sources artifact/data/reports
@@ -54,6 +55,31 @@ jobs:
           path: artifact
           retention-days: 3
           compression-level: 6
+
+      - name: حفظ هذه المجموعة فورًا في main
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          report=$(printf 'data/reports/direct-archive-text-0263-1000-shard-%02d-of-32.json' '${{ matrix.shard }}')
+          git add data/sources "$report"
+          git diff --cached --check
+          if git diff --cached --quiet; then
+            echo "لا توجد نتيجة جديدة في المجموعة ${{ matrix.shard }}"
+            exit 0
+          fi
+          git commit -m "data: archived texts group ${{ matrix.shard }} of 32"
+          for attempt in $(seq 1 12); do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep $((attempt * 2))
+          done
+          echo "تعذر حفظ المجموعة بعد 12 محاولة" >&2
+          exit 1
 
   combine:
     needs: extract
@@ -92,7 +118,7 @@ jobs:
               json.dump(summary, handle, ensure_ascii=False, indent=2, sort_keys=True)
               handle.write('\n')
           print(json.dumps(summary, ensure_ascii=False, indent=2))
-          if summary['shards'] != 8 or summary['completed'] == 0:
+          if summary['shards'] != 32 or summary['completed'] == 0:
               raise SystemExit('incomplete archive extraction artifacts')
           PY
       - name: حفظ النصوص في main
