@@ -3,87 +3,194 @@ name: جمع بيانات Airwars
 on:
   workflow_dispatch:
     inputs:
-      sequences:
-        description: "تسلسلات محددة مثل 4771,480-481 (اتركها فارغة للدفعة التالية)"
-        required: false
-        type: string
-      limit:
-        description: "الحد الأقصى لعدد الحوادث"
+      operation:
+        description: "العملية"
         required: true
-        default: "25"
+        default: collect
+        type: choice
+        options:
+          - collect
+          - recover
+      first_sequence:
+        description: "أول حادثة في النطاق"
+        required: true
+        default: "151"
+        type: string
+      last_sequence:
+        description: "آخر حادثة في النطاق"
+        required: true
+        default: "250"
+        type: string
+      workers:
+        description: "عدد عمال الشبكة العالميين (V4)"
+        required: true
+        default: "64"
+        type: string
+      per_host_workers:
+        description: "الحد المتوازي لكل مضيف"
+        required: true
+        default: "1"
         type: string
       delay:
-        description: "الفاصل الأدنى بين الطلبات بالثواني"
+        description: "الفاصل الأدنى لكل مضيف بالثواني"
         required: true
-        default: "1.5"
+        default: "0.75"
         type: string
-      force:
-        description: "إعادة محاولة السجلات المكتملة المحددة"
+      source_batch_size:
+        description: "حجم دفعة المصادر المحفوظة"
         required: true
-        default: false
-        type: boolean
+        default: "1000"
+        type: string
+      recovery_limit:
+        description: "أقصى عناصر الاسترداد في التشغيل"
+        required: true
+        default: "500"
+        type: string
 
 permissions:
   contents: write
 
 concurrency:
-  group: airwars-collector
+  group: airwars-v4-collector
   cancel-in-progress: false
 
 jobs:
-  collect:
+  collect-build-validate:
     runs-on: ubuntu-latest
     timeout-minutes: 350
+    env:
+      PYTHONUNBUFFERED: "1"
+      TRANSLATION_PROVIDER: disabled
+
     steps:
-      - uses: actions/checkout@v6
+      - name: جلب مشروع الأرشيف السوري
+        uses: actions/checkout@v6
         with:
           ref: main
-      - uses: actions/setup-python@v6
+          fetch-depth: 0
+
+      - name: إعداد Python
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
-      - run: python -m pip install -r requirements.txt
-      - name: تكوين لقطة الهجرة للتحقق والمفاتيح الأولية
+
+      - name: تثبيت المحرك وأدوات التحقق
+        run: python -m pip install -r requirements-vps.txt
+
+      - name: فحص V4 وبقية الأرشيف قبل الجمع
+        run: python -m unittest discover -s tests -v
+
+      - name: تكوين لقطة الهجرة التاريخية
         shell: bash
         run: |
           set -euo pipefail
           cat site-package/part-* > /tmp/syrian-archive-site.zip
           echo "9f35a90d92f9fb0334cb61ffd8434aac03fd0ee61622908a11923dac40da35f3  /tmp/syrian-archive-site.zip" | sha256sum --check
-      - name: تشغيل الجامع القابل للاستئناف
+
+      - name: تشغيل الجمع أو استرداد المتعذر بمحرك V4
+        id: collector
+        uses: ./.github/actions/v4-collector
+        with:
+          operation: ${{ inputs.operation }}
+          first_sequence: ${{ inputs.first_sequence }}
+          last_sequence: ${{ inputs.last_sequence }}
+          workers: ${{ inputs.workers }}
+          per_host_workers: ${{ inputs.per_host_workers }}
+          delay: ${{ inputs.delay }}
+          source_batch_size: ${{ inputs.source_batch_size }}
+          recovery_limit: ${{ inputs.recovery_limit }}
+          legacy_zip: /tmp/syrian-archive-site.zip
+
+      - name: عرض ملخص التشغيل
         shell: bash
         env:
-          INPUT_SEQUENCES: ${{ inputs.sequences }}
-          INPUT_LIMIT: ${{ inputs.limit }}
-          INPUT_DELAY: ${{ inputs.delay }}
-          INPUT_FORCE: ${{ inputs.force }}
+          SUMMARY_PATH: ${{ steps.collector.outputs.summary_markdown }}
         run: |
-          set -u
-          args=(--legacy-zip /tmp/syrian-archive-site.zip --output-root . --limit "$INPUT_LIMIT" --delay "$INPUT_DELAY")
-          if [[ -n "$INPUT_SEQUENCES" ]]; then args+=(--sequences "$INPUT_SEQUENCES"); fi
-          if [[ "$INPUT_FORCE" == "true" ]]; then args+=(--force); fi
-          python scripts/collect_incidents.py "${args[@]}" || echo "سُجلت إخفاقات فردية؛ حُفظت نقطة الاستئناف والتقارير."
-      - name: تحديث التقارير والاختبارات
-        run: |
-          python scripts/generate_reports.py --legacy-zip /tmp/syrian-archive-site.zip --output-root .
-          python -m unittest discover -s tests -v
-      - name: التحقق من JSON الموحّد وسياسة الوسائط عبر بناء كامل
+          set -euo pipefail
+          test -s "$SUMMARY_PATH"
+          cat "$SUMMARY_PATH" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: تحديث التقارير وبناء الموقع
         shell: bash
         run: |
           set -euo pipefail
+          python scripts/generate_reports.py \
+            --legacy-zip /tmp/syrian-archive-site.zip \
+            --output-root .
           mkdir -p _site
           unzip -q /tmp/syrian-archive-site.zip -d _site
           python scripts/build_site.py --site-root _site --project-root .
-          python scripts/validate_site.py --site-root _site --project-root . --legacy-zip /tmp/syrian-archive-site.zip --report-root data/reports
-      - name: حفظ التقدم في main
+
+      - name: التحقق الكامل من البيانات والموقع
         shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/validate_site.py \
+            --site-root _site \
+            --project-root . \
+            --legacy-zip /tmp/syrian-archive-site.zip \
+            --report-root _site/data/reports
+          python scripts/write_checksums.py --site-root _site
+          test -f _site/index.html
+          test -f _site/cases/0001/index.html
+          test -f _site/cases/8114/index.html
+          test "$(find data -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.gif' -o -iname '*.webp' -o -iname '*.mp4' -o -iname '*.mp3' \) | wc -l)" -eq 0
+
+      - name: حفظ الحالة وربطها بالمشروع المنشور
+        shell: bash
+        env:
+          V4_OPERATION: ${{ inputs.operation }}
+          V4_FIRST: ${{ inputs.first_sequence }}
+          V4_LAST: ${{ inputs.last_sequence }}
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data
+          git diff --cached --check
           if git diff --cached --quiet; then
-            echo "لا توجد تغييرات جديدة."
+            echo "لا توجد بيانات جديدة للحفظ."
             exit 0
           fi
-          git commit -m "data: continue resumable Airwars collection"
+          git commit -m "data: publish V4 ${V4_OPERATION} ${V4_FIRST}-${V4_LAST}"
+          git fetch origin main
+          git rebase origin/main
           git push origin HEAD:main
+
+      - name: حفظ نقطة الاستئناف عند فشل لاحق
+        if: failure()
+        continue-on-error: true
+        shell: bash
+        env:
+          V4_FIRST: ${{ inputs.first_sequence }}
+          V4_LAST: ${{ inputs.last_sequence }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "data: checkpoint V4 failed run ${V4_FIRST}-${V4_LAST}"
+          fi
+          git fetch origin main
+          if test "$(git rev-list --count origin/main..HEAD)" -eq 0; then
+            exit 0
+          fi
+          git rebase origin/main
+          git push origin HEAD:main
+
+      - name: رفع تقارير التشغيل
+        if: always()
+        uses: actions/upload-artifact@v6
+        with:
+          name: v4-${{ inputs.operation }}-${{ inputs.first_sequence }}-${{ inputs.last_sequence }}
+          path: |
+            data/reports/v4-action-*.json
+            data/reports/v4-action-*.md
+            data/reports/speed-pilot-*.json
+            data/recovery/v4-*.json
+            data/pilot/speed-pilot-*-progress.json
+          if-no-files-found: ignore
+          retention-days: 14

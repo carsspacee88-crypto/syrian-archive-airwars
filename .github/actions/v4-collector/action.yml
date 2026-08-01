@@ -1,0 +1,76 @@
+name: "Syrian Archive Collector V4"
+description: "Run the resumable V4 collector and its durable recovery queue"
+
+inputs:
+  operation:
+    description: "collect or recover"
+    required: true
+  first_sequence:
+    description: "First archive sequence"
+    required: true
+  last_sequence:
+    description: "Last archive sequence"
+    required: true
+  workers:
+    description: "Global asynchronous workers"
+    required: false
+    default: "64"
+  per_host_workers:
+    description: "Maximum concurrent requests per host"
+    required: false
+    default: "1"
+  delay:
+    description: "Minimum delay between requests to the same host"
+    required: false
+    default: "0.75"
+  source_batch_size:
+    description: "Sources processed per durable batch"
+    required: false
+    default: "1000"
+  recovery_limit:
+    description: "Deferred sources retried in one recovery run"
+    required: false
+    default: "500"
+  legacy_zip:
+    description: "Reconstructed historical site archive"
+    required: true
+
+outputs:
+  summary_markdown:
+    description: "Path to the generated action summary"
+    value: ${{ steps.run.outputs.summary_markdown }}
+
+runs:
+  using: composite
+  steps:
+    - id: run
+      name: تشغيل محرك V4
+      shell: bash
+      env:
+        V4_OPERATION: ${{ inputs.operation }}
+        V4_FIRST: ${{ inputs.first_sequence }}
+        V4_LAST: ${{ inputs.last_sequence }}
+        V4_WORKERS: ${{ inputs.workers }}
+        V4_PER_HOST: ${{ inputs.per_host_workers }}
+        V4_DELAY: ${{ inputs.delay }}
+        V4_SOURCE_BATCH: ${{ inputs.source_batch_size }}
+        V4_RECOVERY_LIMIT: ${{ inputs.recovery_limit }}
+        V4_LEGACY_ZIP: ${{ inputs.legacy_zip }}
+      run: |
+        set -euo pipefail
+        python scripts/run_v4_action.py \
+          --legacy-zip "$V4_LEGACY_ZIP" \
+          --output-root . \
+          --operation "$V4_OPERATION" \
+          --first-sequence "$V4_FIRST" \
+          --last-sequence "$V4_LAST" \
+          --workers "$V4_WORKERS" \
+          --per-host-workers "$V4_PER_HOST" \
+          --delay "$V4_DELAY" \
+          --source-batch-size "$V4_SOURCE_BATCH" \
+          --recovery-limit "$V4_RECOVERY_LIMIT"
+        first=$((10#$V4_FIRST))
+        last=$((10#$V4_LAST))
+        summary="data/reports/v4-action-$(printf '%04d-%04d' "$first" "$last").md"
+        test -s "$summary"
+        printf 'summary_markdown=%s\n' "$summary" >> "$GITHUB_OUTPUT"
