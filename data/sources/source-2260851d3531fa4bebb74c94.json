@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/Heq5b"
+    "https://archive.md/Heq5b",
+    "https://web.archive.org/web/20211107145848id_/https://twitter.com/HalabTodayTV/status/1457359374272303113"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@HalabTodayTV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8c53da97286d406ff93541c09051bf1396b9fcb93aaedb2f3309d4efde0c82ec",
+  "content_variants": [
+    {
+      "bytes": 426,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:59:32+00:00",
+      "sha256": "8c53da97286d406ff93541c09051bf1396b9fcb93aaedb2f3309d4efde0c82ec",
+      "source_url": "https://web.archive.org/web/20211107145848id_/https://twitter.com/HalabTodayTV/status/1457359374272303113",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nمراسل حلب اليوم: مقتل شخص وإصابة اثنين آخرين بقصف لطيران مسير مجهول على مدينة جرابلس شمالي حلبpic.twitter.com/ijiEzBkYJn\n\n1 Retweet\n\n6 Likes\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:59:31+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:59:31+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211107145848id_/https://twitter.com/HalabTodayTV/status/1457359374272303113"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211107145848id_/https://twitter.com/HalabTodayTV/status/1457359374272303113",
   "incident_ids": [
     "airwars-79890"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/HalabTodayTV/status/1457359374272303113"
   ],
   "original_url": "https://twitter.com/HalabTodayTV/status/1457359374272303113",
-  "page_title": "",
+  "page_title": "Halab Today TV قناة حلب اليوم on Twitter: \"مراسل حلب اليوم: مقتل شخص وإصابة اثنين آخرين بقصف لطيران مسير مجهول على مدينة جرابلس شمالي حلب… \" Halab Today TV قناة حلب اليوم on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1969-november-7-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:59:32+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2260851d3531fa4bebb74c94",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/HalabTodayTV/status/1457359374272303113",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nمراسل حلب اليوم: مقتل شخص وإصابة اثنين آخرين بقصف لطيران مسير مجهول على مدينة جرابلس شمالي حلبpic.twitter.com/ijiEzBkYJn\n\n1 Retweet\n\n6 Likes\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

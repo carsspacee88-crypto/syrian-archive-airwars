@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/62yL6"
+    "https://archive.ph/62yL6",
+    "https://web.archive.org/web/20240828172911id_/https://rojnews.news/ar/?p=193956"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Roj news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1cf3377510cdeced7a9632c951855dcc0725be48b887a5327a900f01a7f2fce3",
+  "content_variants": [
+    {
+      "bytes": 1764,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:26:51+00:00",
+      "sha256": "1cf3377510cdeced7a9632c951855dcc0725be48b887a5327a900f01a7f2fce3",
+      "source_url": "https://web.archive.org/web/20240828172911id_/https://rojnews.news/ar/?p=193956",
+      "text": "استشهاد أم وابنها في الاستهداف التركي لقامشلو\n\nمركز الأخبار\n\nأسفر استهداف مسيّرة لدولة الاحتلال التركي لسيارة في قامشلو بإقليم شمال وشرق سوريا قبل قليل، عن استشهاد أم وابنها.\n\nاستهدفت طائرة مسيّرة تابعة لدولة الاحتلال التركي اليوم، سيارة بالقرب من مركز البريد والاتصالات وكراج الحافلات في حي العنترية الواقع شرق مدينة قامشلو.\n\nوأسفر القصف عن استشهاد خالدة محمد شريف (45 عاماً) وابنها هجار عدنان سليمان (24 عاماً) بحسب ما أفادت به وكالة أنباء هاوار.\n\nاستهداف سيارة في قامشلو بإقليم شمال وشرق سوريا\n\nاستهداف سيارة في قامشلو بإقليم شمال وشرق سوريا\n\nمواطنون عراقيون ينددون بجريمة استهداف الصحفيين ويدعون لوقف الجرائم التركية\n\nاستهداف سيارة في قامشلو بإقليم شمال وشرق سوريا\n\nبدعم من الديمقراطي الكردستاني.. قوات الاحتلال التركي تتمركز في سد ديرلوك\n\nالمفوضية العليا للانتخابات تؤكد التزامها بمعايير خصوصية الناخبين\n\nاحتجاجات مستمرة في السليمانية ضد اغتيال الصحفيتين وتنديد دولي بالممارسات التركية\n\nالأحزاب السياسية في إقليم كردستان تدعو الحكومة العراقية لاتخاذ موقف حاسم ضد…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:26:50+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:26:51+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240828172911id_/https://rojnews.news/ar/?p=193956"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240828172911id_/https://rojnews.news/ar/?p=193956",
   "incident_ids": [
     "airwars-126249"
   ],
@@ -85,10 +109,10 @@
     "https://rojnews.news/ar/?p=193956"
   ],
   "original_url": "https://rojnews.news/ar/?p=193956",
-  "page_title": "",
+  "page_title": "استشهاد أم وابنها في الاستهداف التركي لقامشلو - العربية - Rojnews.news استشهاد أم وابنها في الاستهداف التركي لقامشلو - العربية - Rojnews.news",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts707-august-28-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:26:51+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ba1715cae98703085ab3a559",
   "source_type": "news_article",
   "stable_id_basis": "https://rojnews.news/ar/?p=193956",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "استشهاد أم وابنها في الاستهداف التركي لقامشلو\n\nمركز الأخبار\n\nأسفر استهداف مسيّرة لدولة الاحتلال التركي لسيارة في قامشلو بإقليم شمال وشرق سوريا قبل قليل، عن استشهاد أم وابنها.\n\nاستهدفت طائرة مسيّرة تابعة لدولة الاحتلال التركي اليوم، سيارة بالقرب من مركز البريد والاتصالات وكراج الحافلات في حي العنترية الواقع شرق مدينة قامشلو.\n\nوأسفر القصف عن استشهاد خالدة محمد شريف (45 عاماً) وابنها هجار عدنان سليمان (24 عاماً) بحسب ما أفادت به وكالة أنباء هاوار.\n\nاستهداف سيارة في قامشلو بإقليم شمال وشرق سوريا\n\nاستهداف سيارة في قامشلو بإقليم شمال وشرق سوريا\n\nمواطنون عراقيون ينددون بجريمة استهداف الصحفيين ويدعون لوقف الجرائم التركية\n\nاستهداف سيارة في قامشلو بإقليم شمال وشرق سوريا\n\nبدعم من الديمقراطي الكردستاني.. قوات الاحتلال التركي تتمركز في سد ديرلوك\n\nالمفوضية العليا للانتخابات تؤكد التزامها بمعايير خصوصية الناخبين\n\nاحتجاجات مستمرة في السليمانية ضد اغتيال الصحفيتين وتنديد دولي بالممارسات التركية\n\nالأحزاب السياسية في إقليم كردستان تدعو الحكومة العراقية لاتخاذ موقف حاسم ضد…",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

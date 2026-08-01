@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/jlAiQ"
+    "https://archive.ph/jlAiQ",
+    "https://web.archive.org/web/20240525010257id_/https://www.facebook.com/snhr/posts/pfbid0RYfQvNbpMM7TgMxMPLd8JxB3v86XthxAdP2kN7tmrf1QCRu3KY8bznZycQm34qvyl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Network for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "79aa60b3860916b40787c536b4986be72c5e5a2bf1490713c2ddb4452958d819",
+  "content_variants": [
+    {
+      "bytes": 353,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:59:41+00:00",
+      "sha256": "79aa60b3860916b40787c536b4986be72c5e5a2bf1490713c2ddb4452958d819",
+      "source_url": "https://web.archive.org/web/20240525010257id_/https://www.facebook.com/snhr/posts/pfbid0RYfQvNbpMM7TgMxMPLd8JxB3v86XthxAdP2kN7tmrf1QCRu3KY8bznZycQm34qvyl",
+      "text": "Two civilians were killed by the explosion of a mine in southern #Idlib:\nMuhammad Omar Khalil and Saddam Dani were killed by the explosion of a landmine...\n\nTwo civilians were killed by the explosion of a mine in southern #Idlib:\nMuhammad Omar Khalil and Saddam Dani were killed by the explosion of a landmine left by an unknown party while they were..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:59:39+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:59:41+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525010257id_/https://www.facebook.com/snhr/posts/pfbid0RYfQvNbpMM7TgMxMPLd8JxB3v86XthxAdP2kN7tmrf1QCRu3KY8bznZycQm34qvyl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525010257id_/https://www.facebook.com/snhr/posts/pfbid0RYfQvNbpMM7TgMxMPLd8JxB3v86XthxAdP2kN7tmrf1QCRu3KY8bznZycQm34qvyl",
   "incident_ids": [
     "airwars-84608"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/snhr/posts/pfbid0RYfQvNbpMM7TgMxMPLd8JxB3v86XthxAdP2kN7tmrf1QCRu3KY8bznZycQm34qvyl"
   ],
   "original_url": "https://www.facebook.com/snhr/posts/pfbid0RYfQvNbpMM7TgMxMPLd8JxB3v86XthxAdP2kN7tmrf1QCRu3KY8bznZycQm34qvyl",
-  "page_title": "",
+  "page_title": "Syrian Network for Human Rights - SNHR Syrian Network for Human Rights - SNHR Two civilians... - Syrian Network for Human Rights - SNHR",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4714-august-16-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:59:41+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-216f456ed69604e25a377e96",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/snhr/posts/pfbid0RYfQvNbpMM7TgMxMPLd8JxB3v86XthxAdP2kN7tmrf1QCRu3KY8bznZycQm34qvyl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Two civilians were killed by the explosion of a mine in southern #Idlib:\nMuhammad Omar Khalil and Saddam Dani were killed by the explosion of a landmine...\n\nTwo civilians were killed by the explosion of a mine in southern #Idlib:\nMuhammad Omar Khalil and Saddam Dani were killed by the explosion of a landmine left by an unknown party while they were...",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/x4fSN"
+    "https://archive.ph/x4fSN",
+    "https://web.archive.org/web/20240525021235id_/https://www.facebook.com/SyriaCivilDefense/posts/pfbid02tZHHDf1nDrvDtB3YaX6CzEvBfwVnhMc8x1zxEm8wDnTzGVqLsKqgukMr9Bk2ARdhl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Civil Defense",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "457159d13b4a001da6e7c2357ea7f924b3b2315524f688c34c940706e94f0549",
+  "content_variants": [
+    {
+      "bytes": 641,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:26:29+00:00",
+      "sha256": "457159d13b4a001da6e7c2357ea7f924b3b2315524f688c34c940706e94f0549",
+      "source_url": "https://web.archive.org/web/20240525021235id_/https://www.facebook.com/SyriaCivilDefense/posts/pfbid02tZHHDf1nDrvDtB3YaX6CzEvBfwVnhMc8x1zxEm8wDnTzGVqLsKqgukMr9Bk2ARdhl",
+      "text": "إصابة مدنيين اثنين يعملان بقطاف التين بجروح جراء قصف مدفعي لقوات النظام وروسيا استهدف مزرعة بالقرب من قرية كدورة جنوبي #إدلب، اليوم الخميس 18 آب.\nهجمات...\n\nإصابة مدنيين اثنين يعملان بقطاف التين بجروح جراء قصف مدفعي لقوات النظام وروسيا استهدف مزرعة بالقرب من قرية كدورة جنوبي #إدلب، اليوم الخميس 18 آب.\nهجمات مستمرة لقوات النظام وروسيا، تهدد حياة المدنيين..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:26:28+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:26:29+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525021235id_/https://www.facebook.com/SyriaCivilDefense/posts/pfbid02tZHHDf1nDrvDtB3YaX6CzEvBfwVnhMc8x1zxEm8wDnTzGVqLsKqgukMr9Bk2ARdhl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525021235id_/https://www.facebook.com/SyriaCivilDefense/posts/pfbid02tZHHDf1nDrvDtB3YaX6CzEvBfwVnhMc8x1zxEm8wDnTzGVqLsKqgukMr9Bk2ARdhl",
   "incident_ids": [
     "airwars-84587"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/SyriaCivilDefense/posts/pfbid02tZHHDf1nDrvDtB3YaX6CzEvBfwVnhMc8x1zxEm8wDnTzGVqLsKqgukMr9Bk2ARdhl"
   ],
   "original_url": "https://www.facebook.com/SyriaCivilDefense/posts/pfbid02tZHHDf1nDrvDtB3YaX6CzEvBfwVnhMc8x1zxEm8wDnTzGVqLsKqgukMr9Bk2ARdhl",
-  "page_title": "",
+  "page_title": "الدفاع المدني السوري الدفاع المدني السوري إصابة مدنيين اثنين يعملان بقطاف... - الدفاع المدني السوري",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4715-august-18-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:26:29+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-abf1f16913834c489025d5cc",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SyriaCivilDefense/posts/pfbid02tZHHDf1nDrvDtB3YaX6CzEvBfwVnhMc8x1zxEm8wDnTzGVqLsKqgukMr9Bk2ARdhl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة مدنيين اثنين يعملان بقطاف التين بجروح جراء قصف مدفعي لقوات النظام وروسيا استهدف مزرعة بالقرب من قرية كدورة جنوبي #إدلب، اليوم الخميس 18 آب.\nهجمات...\n\nإصابة مدنيين اثنين يعملان بقطاف التين بجروح جراء قصف مدفعي لقوات النظام وروسيا استهدف مزرعة بالقرب من قرية كدورة جنوبي #إدلب، اليوم الخميس 18 آب.\nهجمات مستمرة لقوات النظام وروسيا، تهدد حياة المدنيين...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

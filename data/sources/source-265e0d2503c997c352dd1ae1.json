@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/NDJPz"
+    "https://archive.is/NDJPz",
+    "https://web.archive.org/web/20230131111257id_/https://hawarnews.com/ar/haber/isabh-mwatnyn-fy-qsf-alahtlal-altrky-lqra-fy-shyrawa-h74100.html"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Hawarnews",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "08fd1dbf0dbe88bfdacd454aa68f9b0fd823c0621fc5db86dcf263d2222183b2",
+  "content_variants": [
+    {
+      "bytes": 844,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:59:45+00:00",
+      "sha256": "08fd1dbf0dbe88bfdacd454aa68f9b0fd823c0621fc5db86dcf263d2222183b2",
+      "source_url": "https://web.archive.org/web/20230131111257id_/https://hawarnews.com/ar/haber/isabh-mwatnyn-fy-qsf-alahtlal-altrky-lqra-fy-shyrawa-h74100.html",
+      "text": "ووفق المعلومات التي وردت وكالتنا، فإن قرى بينه وصوغناكي ومياسة الواقعة في ناحية شيراوا في ريف عفرين المحتلة، تتعرض في هذه الأثناء لقصف مدفعي من قبل جيش الاحتلال التركي.\n\nهذا ونتيجة القصف العنيف لقرية صوغناكي أصيب مواطنان بجروح، في حين لم تحصل وكالتنا على معلومات بشأن إصابتهما بعد.\n\n(سـ)\n\nANHA\n\nإقرأ أيضاً\n\nحملة النظافة الواسعة في الحسكة تنطلق من الحارة العسكرية\n\nأهالي الحسكة يشيّعون جثمان مقاتل قسد آمد روجدم\n\nالاحتلال التركي ومرتزقته يقصفون قرية بريف تل تمر الشمالي"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:59:44+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:59:45+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230131111257id_/https://hawarnews.com/ar/haber/isabh-mwatnyn-fy-qsf-alahtlal-altrky-lqra-fy-shyrawa-h74100.html"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230131111257id_/https://hawarnews.com/ar/haber/isabh-mwatnyn-fy-qsf-alahtlal-altrky-lqra-fy-shyrawa-h74100.html",
   "incident_ids": [
     "airwars-85707"
   ],
@@ -85,10 +109,10 @@
     "https://hawarnews.com/ar/haber/isabh-mwatnyn-fy-qsf-alahtlal-altrky-lqra-fy-shyrawa-h74100.html"
   ],
   "original_url": "https://hawarnews.com/ar/haber/isabh-mwatnyn-fy-qsf-alahtlal-altrky-lqra-fy-shyrawa-h74100.html",
-  "page_title": "",
+  "page_title": "إصابة مواطنين في قصف الاحتلال التركي لقرى في شيراوا - وكالة أنباء هاوار إصابة مواطنين في قصف الاحتلال التركي لقرى في شيراوا - وكالة أنباء هاوار إصابة مواطنين في قصف الاحتلال التركي لقرى في شيراوا - وكالة أنباء هاوار",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts575-november-29-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:59:45+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-265e0d2503c997c352dd1ae1",
   "source_type": "news_article",
   "stable_id_basis": "https://hawarnews.com/ar/haber/isabh-mwatnyn-fy-qsf-alahtlal-altrky-lqra-fy-shyrawa-h74100.html",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ووفق المعلومات التي وردت وكالتنا، فإن قرى بينه وصوغناكي ومياسة الواقعة في ناحية شيراوا في ريف عفرين المحتلة، تتعرض في هذه الأثناء لقصف مدفعي من قبل جيش الاحتلال التركي.\n\nهذا ونتيجة القصف العنيف لقرية صوغناكي أصيب مواطنان بجروح، في حين لم تحصل وكالتنا على معلومات بشأن إصابتهما بعد.\n\n(سـ)\n\nANHA\n\nإقرأ أيضاً\n\nحملة النظافة الواسعة في الحسكة تنطلق من الحارة العسكرية\n\nأهالي الحسكة يشيّعون جثمان مقاتل قسد آمد روجدم\n\nالاحتلال التركي ومرتزقته يقصفون قرية بريف تل تمر الشمالي",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

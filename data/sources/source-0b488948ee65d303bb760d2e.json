@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/dxRKe"
+    "https://archive.ph/dxRKe",
+    "https://web.archive.org/web/20250125062325id_/https://www.alkhabour.com/ar/news/single/2133?fbclid=IwAR2cE3eCkwhehpDVMA_d-KLe3m0oTiHzYjey5K0990h6dRnFT9nwATuohq4"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Alkhabour",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "87781cf376f28fcf0023b543f76a9cc573bf230f6834377a7d26ca147a1ad328",
+  "content_variants": [
+    {
+      "bytes": 1825,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:54:47+00:00",
+      "sha256": "87781cf376f28fcf0023b543f76a9cc573bf230f6834377a7d26ca147a1ad328",
+      "source_url": "https://web.archive.org/web/20250125062325id_/https://www.alkhabour.com/ar/news/single/2133?fbclid=IwAR2cE3eCkwhehpDVMA_d-KLe3m0oTiHzYjey5K0990h6dRnFT9nwATuohq4",
+      "text": "عشرات الشهـداء والجـرحـى بقـصف مشترك للنظام و \"ب ي د\" على \"الباب\"\n\nالجمعة 19 آب 2022\n\nالخابور- نوار الرهاوي\n\nاستشهد 13 مدني في حصيلة أولية وأصيب العشرات بجروح، صباح اليوم الجمعة، جرّاء قصف صاروخي من قوات النظام وميليشيا حزب الاتحاد الديمقراطي \"ب ي د\" استهدف مدينة الباب بريف حلب الشرقي.\n\nوقال مصدر من الجيش الوطني السور لشبكة الخابور، إن القصف على \"الباب\" جاء من قرية الشعالة التي تتمركز فيها قوات النظام وميليشيا \"ب ي د\" واستهدف بالصواريخ محيط السوق الشعبي لمدينة الباب شرقي حلب صباح اليوم.\n\nووفقا لمصادر طبية من المدينة، أسفر القصف عن استشهاد ثلا عشر من المدنيين في حصيلة أوليّة وإصابة 30 جريحاً بينهم حالات خطرة.\n\nوطالبت المصادر، من السكان في الباب بالتوجه إلى المشافي للتبرع بكافة زمر الدم بسبب كثرة وخطورة الإصابات.\n\nالتاغات:\n\nسوريا\n\nقسد\n\nنظام الأسد\n\nب ي د\n\nب ك ك\n\nحلب\n\nالباب\n\nمشاركة:\n\n‏الخابور‏\n\nالأكثر شعبية\n\nنقاط تمركز\n\nمنازل المهجرين\n\nمقرات عسكرية\n\nقياديتين\n\nمصادرة\n\nمليون ليرة\n\nعقود زواج\n\nوفاة سيدتين\n\nمكب نفايات\n\nروائح كريهة\n\nإصابة زوجته\n\nمقتل مدني\n\nدراجات نارية\n\nجرعة زائدة\n\nحشيش\n\nYPJ\n\nرطلة\n\nاختطاف طفلة\n\nمعتقلة\n\nمسروقات"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:54:45+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:54:47+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250125062325id_/https://www.alkhabour.com/ar/news/single/2133?fbclid=IwAR2cE3eCkwhehpDVMA_d-KLe3m0oTiHzYjey5K0990h6dRnFT9nwATuohq4"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250125062325id_/https://www.alkhabour.com/ar/news/single/2133?fbclid=IwAR2cE3eCkwhehpDVMA_d-KLe3m0oTiHzYjey5K0990h6dRnFT9nwATuohq4",
   "incident_ids": [
     "airwars-84682"
   ],
@@ -85,10 +109,10 @@
     "https://www.alkhabour.com/ar/news/single/2133?fbclid=IwAR2cE3eCkwhehpDVMA_d-KLe3m0oTiHzYjey5K0990h6dRnFT9nwATuohq4"
   ],
   "original_url": "https://www.alkhabour.com/ar/news/single/2133?fbclid=IwAR2cE3eCkwhehpDVMA_d-KLe3m0oTiHzYjey5K0990h6dRnFT9nwATuohq4",
-  "page_title": "",
+  "page_title": "الخابور | عشرات الشهـداء والجـرحـى بقـصف مشترك للنظام و \"ب ي د\" على \"الباب\" عشرات الشهـداء والجـرحـى بقـصف مشترك للنظام و \"ب ي د\" على \"الباب\" - الخابور عشرات الشهـداء والجـرحـى بقـصف مشترك للنظام و \"ب ي د\" على \"الباب\"",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys149-august-19-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:54:47+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0b488948ee65d303bb760d2e",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.alkhabour.com/ar/news/single/2133?fbclid=IwAR2cE3eCkwhehpDVMA_d-KLe3m0oTiHzYjey5K0990h6dRnFT9nwATuohq4",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "عشرات الشهـداء والجـرحـى بقـصف مشترك للنظام و \"ب ي د\" على \"الباب\"\n\nالجمعة 19 آب 2022\n\nالخابور- نوار الرهاوي\n\nاستشهد 13 مدني في حصيلة أولية وأصيب العشرات بجروح، صباح اليوم الجمعة، جرّاء قصف صاروخي من قوات النظام وميليشيا حزب الاتحاد الديمقراطي \"ب ي د\" استهدف مدينة الباب بريف حلب الشرقي.\n\nوقال مصدر من الجيش الوطني السور لشبكة الخابور، إن القصف على \"الباب\" جاء من قرية الشعالة التي تتمركز فيها قوات النظام وميليشيا \"ب ي د\" واستهدف بالصواريخ محيط السوق الشعبي لمدينة الباب شرقي حلب صباح اليوم.\n\nووفقا لمصادر طبية من المدينة، أسفر القصف عن استشهاد ثلا عشر من المدنيين في حصيلة أوليّة وإصابة 30 جريحاً بينهم حالات خطرة.\n\nوطالبت المصادر، من السكان في الباب بالتوجه إلى المشافي للتبرع بكافة زمر الدم بسبب كثرة وخطورة الإصابات.\n\nالتاغات:\n\nسوريا\n\nقسد\n\nنظام الأسد\n\nب ي د\n\nب ك ك\n\nحلب\n\nالباب\n\nمشاركة:\n\n‏الخابور‏\n\nالأكثر شعبية\n\nنقاط تمركز\n\nمنازل المهجرين\n\nمقرات عسكرية\n\nقياديتين\n\nمصادرة\n\nمليون ليرة\n\nعقود زواج\n\nوفاة سيدتين\n\nمكب نفايات\n\nروائح كريهة\n\nإصابة زوجته\n\nمقتل مدني\n\nدراجات نارية\n\nجرعة زائدة\n\nحشيش\n\nYPJ\n\nرطلة\n\nاختطاف طفلة\n\nمعتقلة\n\nمسروقات",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

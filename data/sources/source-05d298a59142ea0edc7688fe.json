@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/GYXmr"
+    "https://archive.is/GYXmr",
+    "https://web.archive.org/web/20230705052539id_/https://eldorar.com/node/180621"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "El Dorar",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "e98c106f83af9678827a33d279f435ff3207db558608597c01f7037bee180e99",
+  "content_variants": [
+    {
+      "bytes": 1425,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:54:51+00:00",
+      "sha256": "e98c106f83af9678827a33d279f435ff3207db558608597c01f7037bee180e99",
+      "source_url": "https://web.archive.org/web/20230705052539id_/https://eldorar.com/node/180621",
+      "text": "استهدفت قوات نظام الأسد، المتمركزة بمحيط الفوج 46، صباح اليوم الثلاثاء، عدة مدن وبلدات في ريف حلب الغربي، بقذائف الهاون والمدفعية الثقيلة، ما أدى لوقوع ضحايا وجرحى في صفوف المدنيين.\n\nوأسفر القصف عن ارتقاء شخص في بلدة كفرنوران، متأثراً بجراحه، وأصيب آخرون بينهم 4 أطفال في مدينة دارة عزة، تم نقلهم إلى النقاط الطبية القريبة.\n\nكما قصفت قوات الأسد بالمدفعية والرشاشات الثقيلة أطراف مدينة الأتارب، وقرى العصوص و کفر تعال و كفر عمة وتقاد ما أدى لوقوع أضرار مادية كبيرة في ممتلكات أهالي تلك المناطق.\n\nويأتي قصف قوات الأسد بالتزامن مع تحليق مكثف ويومي لطائرات الاستطلاع الروسية وخاصة طائرة الاستطلاع من نوع \"البجعة\" في سماء المنطقة.\n\nويشار إلى أن قوات نظام الأسد قصفت في وقت سابق قريتي كفرنوران وكتيان غرب حلب بقذائف الهاون والمدفعية الثقيلة ما أسفر عن استشهاد 4 مدنيين بينهم طفل وإصابة 6 آخرين."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:54:49+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:54:51+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230705052539id_/https://eldorar.com/node/180621"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230705052539id_/https://eldorar.com/node/180621",
   "incident_ids": [
     "airwars-91936"
   ],
@@ -85,10 +109,10 @@
     "https://eldorar.com/node/180621"
   ],
   "original_url": "https://eldorar.com/node/180621",
-  "page_title": "",
+  "page_title": "قوات الأسد تصعِّد قصفها على مناطق ريف حلب شمال سوريا قوات الأسد تصعِّد قصفها على مناطق ريف حلب شمال سوريا قوات الأسد تصعِّد قصفها على مناطق ريف حلب شمال سوريا | الدرر الشامية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4780-july-4-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:54:51+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-05d298a59142ea0edc7688fe",
   "source_type": "other_web_page",
   "stable_id_basis": "https://eldorar.com/node/180621",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "استهدفت قوات نظام الأسد، المتمركزة بمحيط الفوج 46، صباح اليوم الثلاثاء، عدة مدن وبلدات في ريف حلب الغربي، بقذائف الهاون والمدفعية الثقيلة، ما أدى لوقوع ضحايا وجرحى في صفوف المدنيين.\n\nوأسفر القصف عن ارتقاء شخص في بلدة كفرنوران، متأثراً بجراحه، وأصيب آخرون بينهم 4 أطفال في مدينة دارة عزة، تم نقلهم إلى النقاط الطبية القريبة.\n\nكما قصفت قوات الأسد بالمدفعية والرشاشات الثقيلة أطراف مدينة الأتارب، وقرى العصوص و کفر تعال و كفر عمة وتقاد ما أدى لوقوع أضرار مادية كبيرة في ممتلكات أهالي تلك المناطق.\n\nويأتي قصف قوات الأسد بالتزامن مع تحليق مكثف ويومي لطائرات الاستطلاع الروسية وخاصة طائرة الاستطلاع من نوع \"البجعة\" في سماء المنطقة.\n\nويشار إلى أن قوات نظام الأسد قصفت في وقت سابق قريتي كفرنوران وكتيان غرب حلب بقذائف الهاون والمدفعية الثقيلة ما أسفر عن استشهاد 4 مدنيين بينهم طفل وإصابة 6 آخرين.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

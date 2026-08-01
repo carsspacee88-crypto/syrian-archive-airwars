@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/kjTJ4"
+    "https://archive.is/kjTJ4",
+    "https://web.archive.org/web/20240524195616id_/https://www.facebook.com/idlebcriminaloffice/posts/5417910324891228"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Idlebcriminaloffice",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "285237eed2e6e2b1201bd5e12c9c815167ddff59d7af5087909f3217cb13e829",
+  "content_variants": [
+    {
+      "bytes": 622,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:08:21+00:00",
+      "sha256": "285237eed2e6e2b1201bd5e12c9c815167ddff59d7af5087909f3217cb13e829",
+      "source_url": "https://web.archive.org/web/20240524195616id_/https://www.facebook.com/idlebcriminaloffice/posts/5417910324891228",
+      "text": "غارتين جويتين من الطيران الروسي تستهدف منطقة النهر الأبيض بريف جسرالشغور غربي إدلب فجر اليوم\n\n▪️الشهداء :\n1. السيدة فاطمة حسين الويسي 28 سنة\n2. نسرين...\n\nغارتين جويتين من الطيران الروسي تستهدف منطقة النهر الأبيض بريف جسرالشغور غربي إدلب فجر اليوم\n\n▪️الشهداء :\n1. السيدة فاطمة حسين الويسي 28 سنة\n2. نسرين نعسان النعسان 2 سنة ( ابنة فاطمة )\n3. مريم باسل..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:08:19+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:08:21+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524195616id_/https://www.facebook.com/idlebcriminaloffice/posts/5417910324891228"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524195616id_/https://www.facebook.com/idlebcriminaloffice/posts/5417910324891228",
   "incident_ids": [
     "airwars-80902"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/idlebcriminaloffice/posts/5417910324891228"
   ],
   "original_url": "https://www.facebook.com/idlebcriminaloffice/posts/5417910324891228",
-  "page_title": "",
+  "page_title": "مكتب توثيق الجرائم في محافظة ادلب مكتب توثيق الجرائم في محافظة ادلب غارتين جويتين من... - مكتب توثيق الجرائم في محافظة ادلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4685-january-1-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:08:21+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5bea5e7753c26a71c2f0fecc",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/idlebcriminaloffice/posts/5417910324891228",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "غارتين جويتين من الطيران الروسي تستهدف منطقة النهر الأبيض بريف جسرالشغور غربي إدلب فجر اليوم\n\n▪️الشهداء :\n1. السيدة فاطمة حسين الويسي 28 سنة\n2. نسرين...\n\nغارتين جويتين من الطيران الروسي تستهدف منطقة النهر الأبيض بريف جسرالشغور غربي إدلب فجر اليوم\n\n▪️الشهداء :\n1. السيدة فاطمة حسين الويسي 28 سنة\n2. نسرين نعسان النعسان 2 سنة ( ابنة فاطمة )\n3. مريم باسل...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

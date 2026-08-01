@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/sxYVb"
+    "https://archive.is/sxYVb",
+    "https://web.archive.org/web/20240525040810id_/https://news.snhr.org/2023/10/04/girl-named-layla-al-masri-killed-in-a-ground-regime-attack-on-eastern-idlib-governorate-october-4-2023/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SNHR news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "84c7cc3b221aca96e65e4cabd774e16663f2d0299d4b87b0e685e4219843ab39",
+  "content_variants": [
+    {
+      "bytes": 1826,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:08:44+00:00",
+      "sha256": "84c7cc3b221aca96e65e4cabd774e16663f2d0299d4b87b0e685e4219843ab39",
+      "source_url": "https://web.archive.org/web/20240525040810id_/https://news.snhr.org/2023/10/04/girl-named-layla-al-masri-killed-in-a-ground-regime-attack-on-eastern-idlib-governorate-october-4-2023/",
+      "text": "Date:\n\nGirl named Layla al-Masri killed in a ground regime attack on eastern Idlib governorate, October 4, 2023\n\nRelated News\n\nSNHR Condemns Syrian Regime for Killing Doctor Majd Kamalmaz Under Torture After Eight Years of Enforced Disappearance\n\nMan named Manhal al-Akla shot dead by unidentified gunmen in S. Aleppo, May 17, 2024\n\nMan named Abdul Karim al-Anzi killed, his son injured, by unidentified gunmen in E. Daraa, May 18, 2024\n\nA girl, identified as Layla Ahmad al-Masri, was killed on October 4, 2023, in a rocket attack by Syrian regime forces on her home city of Sarmin in eastern rural Idlib governorate. One of the rockets landed in al-Shamali neighborhood in the city, killing Layla and injuring six others (three girls, including a baby, two women, and one man).\n\nThe area is under the control of armed opposition factions and Hay’at Tahrir al-Sham (HTS). The Syrian Network for Human Rights (SNHR) notes that, through this attack, Syrian regime forces have again unequivocally violated UN Security Council resolutions 2139 & 2254, both of which categorically prohibit indiscriminate attacks, as well as violating the rules of international humanitarian law on distinguishing between civilians and fighters. Such attacks aim solely to spread fear and panic among civilians, to drive them from their lands, homes and places of refuge, and to forcibly displace them, often repeatedly. It is estimated that 6.5 million people are currently internally displaced in Syria.\n\nThe international community must put pressure on the Syrian regime and its allies to support a process of political transition. Pressure should be applied on all parties to compel them to launch such a transition within a period of no more than six months, so that millions of displaced people can safely and stably return to their homes."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:08:41+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:08:44+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525040810id_/https://news.snhr.org/2023/10/04/girl-named-layla-al-masri-killed-in-a-ground-regime-attack-on-eastern-idlib-governorate-october-4-2023/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525040810id_/https://news.snhr.org/2023/10/04/girl-named-layla-al-masri-killed-in-a-ground-regime-attack-on-eastern-idlib-governorate-october-4-2023/",
   "incident_ids": [
     "airwars-103853"
   ],
@@ -85,10 +109,10 @@
     "https://news.snhr.org/2023/10/04/girl-named-layla-al-masri-killed-in-a-ground-regime-attack-on-eastern-idlib-governorate-october-4-2023/"
   ],
   "original_url": "https://news.snhr.org/2023/10/04/girl-named-layla-al-masri-killed-in-a-ground-regime-attack-on-eastern-idlib-governorate-october-4-2023/",
-  "page_title": "",
+  "page_title": "Girl named Layla al-Masri killed in a ground regime attack on eastern Idlib governorate, October 4, 2023 Girl named Layla al-Masri killed in a ground regime attack on eastern Idlib governorate, October 4, 2023 Girl named Layla al-Masri killed in a ground regime attack on eastern Idlib governorate, October 4, 2023",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4815-october-4-2023/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:08:44+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5b9b3e88e38b0f7de96acf89",
   "source_type": "news_article",
   "stable_id_basis": "https://news.snhr.org/2023/10/04/girl-named-layla-al-masri-killed-in-a-ground-regime-attack-on-eastern-idlib-governorate-october-4-2023/",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Date:\n\nGirl named Layla al-Masri killed in a ground regime attack on eastern Idlib governorate, October 4, 2023\n\nRelated News\n\nSNHR Condemns Syrian Regime for Killing Doctor Majd Kamalmaz Under Torture After Eight Years of Enforced Disappearance\n\nMan named Manhal al-Akla shot dead by unidentified gunmen in S. Aleppo, May 17, 2024\n\nMan named Abdul Karim al-Anzi killed, his son injured, by unidentified gunmen in E. Daraa, May 18, 2024\n\nA girl, identified as Layla Ahmad al-Masri, was killed on October 4, 2023, in a rocket attack by Syrian regime forces on her home city of Sarmin in eastern rural Idlib governorate. One of the rockets landed in al-Shamali neighborhood in the city, killing Layla and injuring six others (three girls, including a baby, two women, and one man).\n\nThe area is under the control of armed opposition factions and Hay’at Tahrir al-Sham (HTS). The Syrian Network for Human Rights (SNHR) notes that, through this attack, Syrian regime forces have again unequivocally violated UN Security Council resolutions 2139 & 2254, both of which categorically prohibit indiscriminate attacks, as well as violating the rules of international humanitarian law on distinguishing between civilians and fighters. Such attacks aim solely to spread fear and panic among civilians, to drive them from their lands, homes and places of refuge, and to forcibly displace them, often repeatedly. It is estimated that 6.5 million people are currently internally displaced in Syria.\n\nThe international community must put pressure on the Syrian regime and its allies to support a process of political transition. Pressure should be applied on all parties to compel them to launch such a transition within a period of no more than six months, so that millions of displaced people can safely and stably return to their homes.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

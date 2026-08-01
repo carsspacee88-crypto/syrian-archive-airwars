@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/mLAfJ"
+    "https://archive.ph/mLAfJ",
+    "https://web.archive.org/web/20260124002723id_/https://www.aa.com.tr/tr/gundem/mit-teror-orgutu-pkk-ypgnin-sozde-eyalet-yoneticisini-etkisiz-hale-getirdi/2661957"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Anadolu Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2ecc6c27abd4b55532304a3b555ca8c08dc19cf3545449f8348fd85c6fe92188",
+  "content_variants": [
+    {
+      "bytes": 1357,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:54:21+00:00",
+      "sha256": "2ecc6c27abd4b55532304a3b555ca8c08dc19cf3545449f8348fd85c6fe92188",
+      "source_url": "https://web.archive.org/web/20260124002723id_/https://www.aa.com.tr/tr/gundem/mit-teror-orgutu-pkk-ypgnin-sozde-eyalet-yoneticisini-etkisiz-hale-getirdi/2661957",
+      "text": "MİT, terör örgütü PKK/YPG'nin sözde eyalet yöneticisini etkisiz hale getirdi\n\nGüvenlik kaynaklarından edinilen bilgiye göre, güvenlik güçlerine yönelik sınır hattındaki çok sayıda terör eyleminin planlayıcısı ve uygulayıcısı olduğu belirtilen Yağan'ın, Kamışlı'da olduğu belirlendi.\n\nBunun üzerine bölgeye operasyon düzenleyen MİT, terörist Yağan'ı etkisiz hale getirdi.\n\nTerör örgütü PKK'ya 1990'da katılmıştı\n\nTerör örgütü PKK'ya 1990'li yıllarda katılan terörist Yağan, Şırnak kırsalındaki terörist faaliyetinin ardından Irak'ın Kandil, Zap, Gara, Metina ve Mahmur'un yanı sıra İran'ın Kelareş bölgesinde sözde sorumlu düzeyinde faaliyette bulundu.\n\nSon olarak 2020 yılında örgüt elebaşlarından Murat Karayılan'ın talimatıyla Suriye'nin Kamışlı bölgesine gönderilen Yağan, burada sözde Kamışlı eyaleti yöneticisi olarak görev yürütüyordu.\n\nTerör örgütünün sözde üst düzey sorumlularına yönelik operasyonlarını hızlandıran MİT, son olarak 6 Ağustos'ta Suriye Kamışlı'da örgütün Amude-Derbesiye eyaleti genel sorumlusu İran asıllı \"Rezan Cavit\" kod adlı Yusif Mehmud Rebani'yi etkisiz hale getirmişti.\n\nBenzer haberler\n\nWitkoff'tan, Gazze'de ateşkese katkıları için Dışişleri Bakanı Fidan ve MİT Başkanı Kalın'a teşekkür"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:54:20+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:54:21+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260124002723id_/https://www.aa.com.tr/tr/gundem/mit-teror-orgutu-pkk-ypgnin-sozde-eyalet-yoneticisini-etkisiz-hale-getirdi/2661957"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260124002723id_/https://www.aa.com.tr/tr/gundem/mit-teror-orgutu-pkk-ypgnin-sozde-eyalet-yoneticisini-etkisiz-hale-getirdi/2661957",
   "incident_ids": [
     "airwars-84424"
   ],
@@ -85,10 +109,10 @@
     "https://www.aa.com.tr/tr/gundem/mit-teror-orgutu-pkk-ypgnin-sozde-eyalet-yoneticisini-etkisiz-hale-getirdi/2661957"
   ],
   "original_url": "https://www.aa.com.tr/tr/gundem/mit-teror-orgutu-pkk-ypgnin-sozde-eyalet-yoneticisini-etkisiz-hale-getirdi/2661957",
-  "page_title": "",
+  "page_title": "MİT, terör örgütü PKK/YPG'nin sözde eyalet yöneticisini etkisiz hale getirdi MİT, terör örgütü PKK/YPG'nin sözde eyalet yöneticisini etkisiz hale getirdi MİT, terör örgütü PKK/YPG'nin sözde eyalet yöneticisini etkisiz hale getirdi",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts545-august-10-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:54:21+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-01c2eafa2cc47234080ffe58",
   "source_type": "news_article",
   "stable_id_basis": "https://www.aa.com.tr/tr/gundem/mit-teror-orgutu-pkk-ypgnin-sozde-eyalet-yoneticisini-etkisiz-hale-getirdi/2661957",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "tr",
+  "text_original": "MİT, terör örgütü PKK/YPG'nin sözde eyalet yöneticisini etkisiz hale getirdi\n\nGüvenlik kaynaklarından edinilen bilgiye göre, güvenlik güçlerine yönelik sınır hattındaki çok sayıda terör eyleminin planlayıcısı ve uygulayıcısı olduğu belirtilen Yağan'ın, Kamışlı'da olduğu belirlendi.\n\nBunun üzerine bölgeye operasyon düzenleyen MİT, terörist Yağan'ı etkisiz hale getirdi.\n\nTerör örgütü PKK'ya 1990'da katılmıştı\n\nTerör örgütü PKK'ya 1990'li yıllarda katılan terörist Yağan, Şırnak kırsalındaki terörist faaliyetinin ardından Irak'ın Kandil, Zap, Gara, Metina ve Mahmur'un yanı sıra İran'ın Kelareş bölgesinde sözde sorumlu düzeyinde faaliyette bulundu.\n\nSon olarak 2020 yılında örgüt elebaşlarından Murat Karayılan'ın talimatıyla Suriye'nin Kamışlı bölgesine gönderilen Yağan, burada sözde Kamışlı eyaleti yöneticisi olarak görev yürütüyordu.\n\nTerör örgütünün sözde üst düzey sorumlularına yönelik operasyonlarını hızlandıran MİT, son olarak 6 Ağustos'ta Suriye Kamışlı'da örgütün Amude-Derbesiye eyaleti genel sorumlusu İran asıllı \"Rezan Cavit\" kod adlı Yusif Mehmud Rebani'yi etkisiz hale getirmişti.\n\nBenzer haberler\n\nWitkoff'tan, Gazze'de ateşkese katkıları için Dışişleri Bakanı Fidan ve MİT Başkanı Kalın'a teşekkür",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,
