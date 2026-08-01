@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/gXelk"
+    "https://archive.ph/gXelk",
+    "https://web.archive.org/web/20251005004832id_/https://hawarnews.com/ar/7-%D8%AC%D8%B1%D8%AD%D9%89-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%B4%D9%85%D8%A7%D9%84-%D9%85%D9%86%D8%A8%D8%AC"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Anha news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "04a3bafcd3a7753a1ae2c6fe19abaeb4abb414742de06daf17e47b46e09b3547",
+  "content_variants": [
+    {
+      "bytes": 1454,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:26:50+00:00",
+      "sha256": "04a3bafcd3a7753a1ae2c6fe19abaeb4abb414742de06daf17e47b46e09b3547",
+      "source_url": "https://web.archive.org/web/20251005004832id_/https://hawarnews.com/ar/7-%D8%AC%D8%B1%D8%AD%D9%89-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%B4%D9%85%D8%A7%D9%84-%D9%85%D9%86%D8%A8%D8%AC",
+      "text": "الأحد 5 تشرين الأول, 2025\n\nأهالي: قسد قوة وطنية تمثل جميع مكونات سوريا وطوائفها\n\nالحوار الوطني ممر إلزامي نحو التوافق السوري\n\nمخطط وكالة أنباء هاوار 5-10-2025\n\nدورية إسرائيلية تتوغل في قرية بريف القنيطرة\n\nقتلى وإصابات في هجوم على سجن تبنته \"حركة الشباب\" في الصومال\n\nنتنياهو يعلّق على موقف حماس من مقترح ترامب\n\nرسالة القائد عبد الله أوجلان إلى المشاركات في مسيرة \"نسير بالأمل نحو الحرية\"\n\nقوباد طالباني: خطوات إيجابية في مفاوضات تشكيل الحكومة\n\nاستذكار الشهيدة ناكهان آكارسال في ديرك\n\nبمناسبة عيد المعلم العالمي.. إيقاد الشموع على أضرحة الشهداء\n\nتخريب معهد الموسيقا في ثانوية جودت الهاشمي وسط دمشق\n\nترامب يحذّر حماس: لن أتسامح معكم وعليكم الإسراع\n\nاشتباكات في ريف دمشق بعد محاولة اقتحام حفل زفاف\n\nاحتجاجات في السويداء تطالب بحق تقرير المصير ومحاسبة الجناة\n\nاللغة/Language\n\nعربي\nKURDÎ\n\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nENGLISH\n\nSPANISH\n\nRUSSIAN"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:26:49+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:26:50+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251005004832id_/https://hawarnews.com/ar/7-%D8%AC%D8%B1%D8%AD%D9%89-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%B4%D9%85%D8%A7%D9%84-%D9%85%D9%86%D8%A8%D8%AC"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251005004832id_/https://hawarnews.com/ar/7-%D8%AC%D8%B1%D8%AD%D9%89-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%B4%D9%85%D8%A7%D9%84-%D9%85%D9%86%D8%A8%D8%AC",
   "incident_ids": [
     "airwars-103526"
   ],
@@ -85,10 +109,10 @@
     "https://hawarnews.com/ar/7-جرحى-في-قصف-للاحتلال-التركي-شمال-منبج"
   ],
   "original_url": "https://hawarnews.com/ar/7-جرحى-في-قصف-للاحتلال-التركي-شمال-منبج",
-  "page_title": "",
+  "page_title": "7 جرحى في قصف للاحتلال التركي شمال منبج -ANHA 7 جرحى في قصف للاحتلال التركي شمال منبج 7 جرحى في قصف للاحتلال التركي شمال منبج",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts658-november-20-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:26:50+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4eb0703d0843e19bca2a90e4",
   "source_type": "news_article",
   "stable_id_basis": "https://hawarnews.com/ar/7-جرحى-في-قصف-للاحتلال-التركي-شمال-منبج",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "الأحد 5 تشرين الأول, 2025\n\nأهالي: قسد قوة وطنية تمثل جميع مكونات سوريا وطوائفها\n\nالحوار الوطني ممر إلزامي نحو التوافق السوري\n\nمخطط وكالة أنباء هاوار 5-10-2025\n\nدورية إسرائيلية تتوغل في قرية بريف القنيطرة\n\nقتلى وإصابات في هجوم على سجن تبنته \"حركة الشباب\" في الصومال\n\nنتنياهو يعلّق على موقف حماس من مقترح ترامب\n\nرسالة القائد عبد الله أوجلان إلى المشاركات في مسيرة \"نسير بالأمل نحو الحرية\"\n\nقوباد طالباني: خطوات إيجابية في مفاوضات تشكيل الحكومة\n\nاستذكار الشهيدة ناكهان آكارسال في ديرك\n\nبمناسبة عيد المعلم العالمي.. إيقاد الشموع على أضرحة الشهداء\n\nتخريب معهد الموسيقا في ثانوية جودت الهاشمي وسط دمشق\n\nترامب يحذّر حماس: لن أتسامح معكم وعليكم الإسراع\n\nاشتباكات في ريف دمشق بعد محاولة اقتحام حفل زفاف\n\nاحتجاجات في السويداء تطالب بحق تقرير المصير ومحاسبة الجناة\n\nاللغة/Language\n\nعربي\nKURDÎ\n\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nENGLISH\n\nSPANISH\n\nRUSSIAN",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

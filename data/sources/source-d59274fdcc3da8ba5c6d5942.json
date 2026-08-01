@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/M6GtI"
+    "https://archive.is/M6GtI",
+    "https://web.archive.org/web/20230602214046id_/https://stepagency-sy.net/2022/02/03/429657/?fbclid=IwAR1F2z912VbV9XLTz3m8Xkx8cTP4CPq5s9tqbGWfNRe3-0pYOZ9XkXPCPMg"
   ],
   "attempt_history": [
     {
@@ -67,12 +68,35 @@
   "author": "Step",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "56216f383b0ac1028fc324c7c180276a4c721ee46e050111139c854953959503",
+  "content_variants": [
+    {
+      "bytes": 2432,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:46:51+00:00",
+      "sha256": "56216f383b0ac1028fc324c7c180276a4c721ee46e050111139c854953959503",
+      "source_url": "https://web.archive.org/web/20230602214046id_/https://stepagency-sy.net/2022/02/03/429657/?fbclid=IwAR1F2z912VbV9XLTz3m8Xkx8cTP4CPq5s9tqbGWfNRe3-0pYOZ9XkXPCPMg",
+      "text": "نفذت قوات التحالف الدولي عملية إنزال فجر اليوم الخميس بالقرب من منطقة أطمة على الحدود التركية شمال إدلب\n\nفيما سمعت أصوات قصف بالرشاشات من الطائرات المروحية على أهداف لا تزال مجهولة في منطقة دير بلوط.\n\nوبحسب مصادر ميدانية فإن أصوات عناصر يعتقد أنها جنود التحالف نادوا بمكبرات الصوت بعد حصارهم لمنزل بين أطمة وديربلوط وطالبوا بإخلائه من النساء والأطفال لأنهم سيقتحمون المنزل\n\nوفي التفاصيل ذكر مراسل وكالة ستيب نيوز بأن 7 مروحيات بإسناد من مقاتلات جوية دخلت الأجواء السورية لمناطق ريف حلب الشمالي قادمة من قواعد التحالف بالحسكة\nفيما لم يتبين حتى الآن ما هو الهدف من هذا الإنزال ومن المستهدف منه\n\nأقرأ التالي\n\n“هدم مساجد” يشعل مواجهات بين محتجين والسُلطات في إثيوبيا.. ما قصة المشروع المثير للجدل؟\n\nرونالدو وميسي سيتواجهان في مباراة كرة قدم قريباً.. إليك التفاصيل\n\n“هدم مساجد” يشعل مواجهات بين محتجين والسُلطات في إثيوبيا.. ما قصة المشروع المثير للجدل؟\n\nرونالدو وميسي سيتواجهان في مباراة كرة قدم قريباً.. إليك التفاصيل\n\nأهم أخبار اليوم في الوطن العربي والعالم- الأربعاء 02/02/2022\n\nأسعار الذهب والعملات للدول العربية وتركيا اليوم الخميس الموافق 03 شباط 2022\n\nمقالات ذات صلة\n\nأمريكا تكشف عن تحرك نووي صيني وخطوات اتخذها بوتين.. وتقدم لموسكو وبكين عرضاً\n\nشاهد|| نتائج الانتخابات التركية لحظة بلحظة في بث مباشر\n\nالجيش الإسرائيلي يعلن إسقاط طائرة مسيرة قادمة من لبنان\n\nالكشف عن بنود الاتفاق بين أوميت أوزداغ وكليجدار أوغلو.. والأخير يوجه رسالة للشعب التركي"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:46:50+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:46:51+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230602214046id_/https://stepagency-sy.net/2022/02/03/429657/?fbclid=IwAR1F2z912VbV9XLTz3m8Xkx8cTP4CPq5s9tqbGWfNRe3-0pYOZ9XkXPCPMg"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230602214046id_/https://stepagency-sy.net/2022/02/03/429657/?fbclid=IwAR1F2z912VbV9XLTz3m8Xkx8cTP4CPq5s9tqbGWfNRe3-0pYOZ9XkXPCPMg",
   "incident_ids": [
     "airwars-81560"
   ],
@@ -88,10 +112,10 @@
     "https://stepagency-sy.net/2022/02/03/429657/?fbclid=IwAR1F2z912VbV9XLTz3m8Xkx8cTP4CPq5s9tqbGWfNRe3-0pYOZ9XkXPCPMg"
   ],
   "original_url": "https://stepagency-sy.net/2022/02/03/429657/?fbclid=IwAR1F2z912VbV9XLTz3m8Xkx8cTP4CPq5s9tqbGWfNRe3-0pYOZ9XkXPCPMg",
-  "page_title": "",
+  "page_title": "بالفيديو| عملية إنزال جوي أمريكي على منزل بريف ادلب شمال سوريا | وكالة ستيب الإخبارية بالفيديو| عملية إنزال جوي أمريكي على منزل بريف ادلب شمال سوريا | وكالة ستيب الإخبارية بالفيديو| عملية إنزال جوي أمريكي على منزل بريف ادلب شمال سوريا | وكالة ستيب الإخبارية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1977-february-3-2022/",
@@ -111,15 +135,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:46:51+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d59274fdcc3da8ba5c6d5942",
   "source_type": "news_article",
   "stable_id_basis": "https://stepagency-sy.net/2022/02/03/429657/?fbclid=IwAR1F2z912VbV9XLTz3m8Xkx8cTP4CPq5s9tqbGWfNRe3-0pYOZ9XkXPCPMg",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "نفذت قوات التحالف الدولي عملية إنزال فجر اليوم الخميس بالقرب من منطقة أطمة على الحدود التركية شمال إدلب\n\nفيما سمعت أصوات قصف بالرشاشات من الطائرات المروحية على أهداف لا تزال مجهولة في منطقة دير بلوط.\n\nوبحسب مصادر ميدانية فإن أصوات عناصر يعتقد أنها جنود التحالف نادوا بمكبرات الصوت بعد حصارهم لمنزل بين أطمة وديربلوط وطالبوا بإخلائه من النساء والأطفال لأنهم سيقتحمون المنزل\n\nوفي التفاصيل ذكر مراسل وكالة ستيب نيوز بأن 7 مروحيات بإسناد من مقاتلات جوية دخلت الأجواء السورية لمناطق ريف حلب الشمالي قادمة من قواعد التحالف بالحسكة\nفيما لم يتبين حتى الآن ما هو الهدف من هذا الإنزال ومن المستهدف منه\n\nأقرأ التالي\n\n“هدم مساجد” يشعل مواجهات بين محتجين والسُلطات في إثيوبيا.. ما قصة المشروع المثير للجدل؟\n\nرونالدو وميسي سيتواجهان في مباراة كرة قدم قريباً.. إليك التفاصيل\n\n“هدم مساجد” يشعل مواجهات بين محتجين والسُلطات في إثيوبيا.. ما قصة المشروع المثير للجدل؟\n\nرونالدو وميسي سيتواجهان في مباراة كرة قدم قريباً.. إليك التفاصيل\n\nأهم أخبار اليوم في الوطن العربي والعالم- الأربعاء 02/02/2022\n\nأسعار الذهب والعملات للدول العربية وتركيا اليوم الخميس الموافق 03 شباط 2022\n\nمقالات ذات صلة\n\nأمريكا تكشف عن تحرك نووي صيني وخطوات اتخذها بوتين.. وتقدم لموسكو وبكين عرضاً\n\nشاهد|| نتائج الانتخابات التركية لحظة بلحظة في بث مباشر\n\nالجيش الإسرائيلي يعلن إسقاط طائرة مسيرة قادمة من لبنان\n\nالكشف عن بنود الاتفاق بين أوميت أوزداغ وكليجدار أوغلو.. والأخير يوجه رسالة للشعب التركي",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

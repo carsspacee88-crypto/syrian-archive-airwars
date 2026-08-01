@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/eCtHP"
+    "https://archive.is/eCtHP",
+    "https://web.archive.org/web/20231201084215id_/https://resalapost.com/2022/02/02/%d9%82%d8%b3%d8%af-%d8%aa%d8%b1%d8%aa%d9%83%d8%a8-%d9%85%d8%ac%d8%b2%d8%b1%d8%a9-%d9%85%d8%b1%d9%88%d8%b9%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%a7%d8%a8-%d8%a8%d8%b1%d9%8a%d9%81-%d8%ad%d9%84/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Resala Post",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "18788f8606a2b817742fa027a58321f7795c91753c1ed8207e642bbcaf4c73cc",
+  "content_variants": [
+    {
+      "bytes": 1987,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:33:48+00:00",
+      "sha256": "18788f8606a2b817742fa027a58321f7795c91753c1ed8207e642bbcaf4c73cc",
+      "source_url": "https://web.archive.org/web/20231201084215id_/https://resalapost.com/2022/02/02/%d9%82%d8%b3%d8%af-%d8%aa%d8%b1%d8%aa%d9%83%d8%a8-%d9%85%d8%ac%d8%b2%d8%b1%d8%a9-%d9%85%d8%b1%d9%88%d8%b9%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%a7%d8%a8-%d8%a8%d8%b1%d9%8a%d9%81-%d8%ad%d9%84/",
+      "text": "فريق التحرير\n\nارتقى 9 مدنيين وسقط عشرات الجرحى، ظهر اليوم الأربعاء، نتيجة قصف صاروخي لميليشيا قسد على مدينة الباب بريف حلب الشرقي.\n\nووفق مراسل رسالة بوست، إن 9 مدنيين ارتقوا في حصيلة غير نهائية، وأصيب أكثر من 25 آخرين، بعد الاستهداف الوحشي الذي ضرب الأحياء السكنية في مدينة الباب.\n\nمضيفاً، أن الراجمات استهدفت إلى جانب الأحياء السكنية مشفى الأطراف والمشفى الميداني والسوق الشعبي.\n\nوأشارت مصادر أهلية، أن القصف انطلق من نقاط تمركز ميليشيات قسد بالقرب من رادار الشعالة غرب مدينة الباب.\n\nالجديد بالذكر، أن الاستهداف خلّف أضرارا مادية جسيمة في الممتلكات، مسببًا حالة من الذعر والرعب بين صفوف المدنيين، فيما ماتزال فرق الإنقاذ والدفاع المدني تنتشل القتلى وتسعف الجرحى.\n\nمقالات ذات صلة\n\nالهند تستبعد نحو مليوني شخص من خانة المواطنة بولاية آسام\n\nماذا تنشىء إيران غربي الفرات..؟\n\nتدهور الوضع الصحي لمعارض إيراني مضرب عن الطعام\n\nالشرق الأوسط: خمس قضايا خلافية بين ميليشيا قسد والأسد\n\nتعليق واحد\n\nيجب سحق قسد الفسد وعدم إظهار الرحمة لهم\n\nرد\n\nيجب سحق قسد الفسد وعدم إظهار الرحمة لهم\n\nاترك تعليقاً إلغاء الرد\n\nهذا الموقع يستخدم Akismet للحدّ من التعليقات المزعجة والغير مرغوبة. تعرّف على كيفية معالجة بيانات تعليقك."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:33:48+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:33:48+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231201084215id_/https://resalapost.com/2022/02/02/%d9%82%d8%b3%d8%af-%d8%aa%d8%b1%d8%aa%d9%83%d8%a8-%d9%85%d8%ac%d8%b2%d8%b1%d8%a9-%d9%85%d8%b1%d9%88%d8%b9%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%a7%d8%a8-%d8%a8%d8%b1%d9%8a%d9%81-%d8%ad%d9%84/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231201084215id_/https://resalapost.com/2022/02/02/%d9%82%d8%b3%d8%af-%d8%aa%d8%b1%d8%aa%d9%83%d8%a8-%d9%85%d8%ac%d8%b2%d8%b1%d8%a9-%d9%85%d8%b1%d9%88%d8%b9%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a8%d8%a7%d8%a8-%d8%a8%d8%b1%d9%8a%d9%81-%d8%ad%d9%84/",
   "incident_ids": [
     "airwars-81727"
   ],
@@ -85,10 +109,10 @@
     "https://resalapost.com/2022/02/02/%D9%82%D8%B3%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%A8-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%85%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84/"
   ],
   "original_url": "https://resalapost.com/2022/02/02/%D9%82%D8%B3%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%A8-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%85%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84/",
-  "page_title": "",
+  "page_title": "“قسد” ترتكب مجزرة مروعة في الباب بريف حلب – رسالة بوست \"قسد\" ترتكب مجزرة مروعة في الباب بريف حلب \"قسد\" ترتكب مجزرة مروعة في الباب بريف حلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys123-february-2-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:33:48+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-6d03d925e1e583b6aab56c49",
   "source_type": "other_web_page",
   "stable_id_basis": "https://resalapost.com/2022/02/02/%D9%82%D8%B3%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%A8-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D9%85%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8-%D8%A8%D8%B1%D9%8A%D9%81-%D8%AD%D9%84/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "فريق التحرير\n\nارتقى 9 مدنيين وسقط عشرات الجرحى، ظهر اليوم الأربعاء، نتيجة قصف صاروخي لميليشيا قسد على مدينة الباب بريف حلب الشرقي.\n\nووفق مراسل رسالة بوست، إن 9 مدنيين ارتقوا في حصيلة غير نهائية، وأصيب أكثر من 25 آخرين، بعد الاستهداف الوحشي الذي ضرب الأحياء السكنية في مدينة الباب.\n\nمضيفاً، أن الراجمات استهدفت إلى جانب الأحياء السكنية مشفى الأطراف والمشفى الميداني والسوق الشعبي.\n\nوأشارت مصادر أهلية، أن القصف انطلق من نقاط تمركز ميليشيات قسد بالقرب من رادار الشعالة غرب مدينة الباب.\n\nالجديد بالذكر، أن الاستهداف خلّف أضرارا مادية جسيمة في الممتلكات، مسببًا حالة من الذعر والرعب بين صفوف المدنيين، فيما ماتزال فرق الإنقاذ والدفاع المدني تنتشل القتلى وتسعف الجرحى.\n\nمقالات ذات صلة\n\nالهند تستبعد نحو مليوني شخص من خانة المواطنة بولاية آسام\n\nماذا تنشىء إيران غربي الفرات..؟\n\nتدهور الوضع الصحي لمعارض إيراني مضرب عن الطعام\n\nالشرق الأوسط: خمس قضايا خلافية بين ميليشيا قسد والأسد\n\nتعليق واحد\n\nيجب سحق قسد الفسد وعدم إظهار الرحمة لهم\n\nرد\n\nيجب سحق قسد الفسد وعدم إظهار الرحمة لهم\n\nاترك تعليقاً إلغاء الرد\n\nهذا الموقع يستخدم Akismet للحدّ من التعليقات المزعجة والغير مرغوبة. تعرّف على كيفية معالجة بيانات تعليقك.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/KDBsB"
+    "https://archive.is/KDBsB",
+    "https://web.archive.org/web/20231201072617id_/https://www.syriahr.com/en/223005/?fbclid=IwAR2khhcXF33rM22Um0qKYZOHYtp72cHOKy1EVXaaFbIsAofJZpyFJCj22pk&__cf_chl_jschl_tk__=pmd_gADaVs8JsRfW1aRt_v.n4Cc8aZctkauQckfRe91GfRA-1631861560-0-gqNtZGzNAjujcnBszQk9"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "cd8c1bbe34f9bb643413c29554318dd248e70dfab83a97bf20daa65591236760",
+  "content_variants": [
+    {
+      "bytes": 2276,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:23:21+00:00",
+      "sha256": "cd8c1bbe34f9bb643413c29554318dd248e70dfab83a97bf20daa65591236760",
+      "source_url": "https://web.archive.org/web/20231201072617id_/https://www.syriahr.com/en/223005/?fbclid=IwAR2khhcXF33rM22Um0qKYZOHYtp72cHOKy1EVXaaFbIsAofJZpyFJCj22pk&__cf_chl_jschl_tk__=pmd_gADaVs8JsRfW1aRt_v.n4Cc8aZctkauQckfRe91GfRA-1631861560-0-gqNtZGzNAjujcnBszQk9",
+      "text": "Air strikes near displaced camp | Turkistan child killed in Russian air strikes on Idlib countryside\n\nSOHR activists have reported the death of a child from Turkistan of wounds he sustained in Russian air strikes on Wednesday on areas near a camp of displaced people in north Jas al-Shour countryside in west Idlib.\n\nYesterday, SOHR activists reported that several civilians had been wounded by Russian warplanes near Widow Camp for displaced in north Jas al-Shour countryside in west Idlib and have also targeted poultry farm that the Turkistan people were taken as a center for tem near Zazour town.\n\nSOHR activists have also reported that Russian warplanes were hovering over the Syrian border with Liwaa Eskandaron while its strikes hit another areas ten km far from the border.\n\nAccordingly number of Russian air raids on Putin-Erodoghan areas have been up to 129 since he beginning of Sept.\n\nYesterday, SOHR activists documented fire exchange of four Russian warplanes at the vicinity of al-Hamah and Zarzour villages near Darkoush at the Syrian borders with Eskandron in west Idlib countryside amid reports about targeting widows camp at the outskirts of Zarour town. The attack coincided with Russian aircrafts flying over the de-escalation areas.\n\nThe Russian escalations on Putin-Erdoghan areas targeted the region for fifteen times during the current month via tens of strikes that caused material and physical losses.\n\nA day earlier, SOHR activists reported renewing Russian air strikes on Aleppo countryside for the third day in a row where the Russian aircrafts hit in the early hours of Tuesday the vicinity of Darah Azah in west Aleppo within the de-escalation areas.\n\nPrev Post\n\nDaraa deal |Above 240 persons struck reconciliation in west Daraa amid ongoing search by regime forces and Russian police\n\nNext Post\n\nSyrians migration | Unprecedented wave of migration to Egypt and more attempts for reaching Europe from Turkey\n\nFollowing death of suspects | Local gunmen attack centres of Asayish Forces and…\n\nOngoing security chaos in “Euphrates Shield” area | Tribal infighting leaves two…\n\nAmid clashes with light and medium weapons | Two regime agents killed by security…\n\nDeteriorating security situation | Civilian shot dead in eastern Deir Ezzor"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:23:20+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:23:21+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231201072617id_/https://www.syriahr.com/en/223005/?fbclid=IwAR2khhcXF33rM22Um0qKYZOHYtp72cHOKy1EVXaaFbIsAofJZpyFJCj22pk&__cf_chl_jschl_tk__=pmd_gADaVs8JsRfW1aRt_v.n4Cc8aZctkauQckfRe91GfRA-1631861560-0-gqNtZGzNAjujcnBszQk9"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231201072617id_/https://www.syriahr.com/en/223005/?fbclid=IwAR2khhcXF33rM22Um0qKYZOHYtp72cHOKy1EVXaaFbIsAofJZpyFJCj22pk&__cf_chl_jschl_tk__=pmd_gADaVs8JsRfW1aRt_v.n4Cc8aZctkauQckfRe91GfRA-1631861560-0-gqNtZGzNAjujcnBszQk9",
   "incident_ids": [
     "airwars-78559"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/223005/?fbclid=IwAR2khhcXF33rM22Um0qKYZOHYtp72cHOKy1EVXaaFbIsAofJZpyFJCj22pk&__cf_chl_jschl_tk__=pmd_gADaVs8JsRfW1aRt_v.n4Cc8aZctkauQckfRe91GfRA-1631861560-0-gqNtZGzNAjujcnBszQk9"
   ],
   "original_url": "https://www.syriahr.com/en/223005/?fbclid=IwAR2khhcXF33rM22Um0qKYZOHYtp72cHOKy1EVXaaFbIsAofJZpyFJCj22pk&__cf_chl_jschl_tk__=pmd_gADaVs8JsRfW1aRt_v.n4Cc8aZctkauQckfRe91GfRA-1631861560-0-gqNtZGzNAjujcnBszQk9",
-  "page_title": "",
+  "page_title": "Air strikes near displaced camp | Turkistan child killed in Russian air strikes on Idlib countryside - The Syrian Observatory For Human Rights Air strikes near displaced camp | Turkistan child killed in Russian air strikes on Idlib countryside - The Syrian Observatory For Human Rights Air strikes near displaced camp | Turkistan child killed in Russian air strikes on Idlib countryside - The Syrian Observatory For Human Rights Air strikes near displaced camp | Turkistan child killed in Russian air strikes on Idlib countryside Air strikes near displaced camp | Turkistan child killed in Russian air strikes on Idlib countryside",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4644-september-15-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:23:21+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-344fe09588d31e083beed69e",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/223005/?fbclid=IwAR2khhcXF33rM22Um0qKYZOHYtp72cHOKy1EVXaaFbIsAofJZpyFJCj22pk&__cf_chl_jschl_tk__=pmd_gADaVs8JsRfW1aRt_v.n4Cc8aZctkauQckfRe91GfRA-1631861560-0-gqNtZGzNAjujcnBszQk9",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Air strikes near displaced camp | Turkistan child killed in Russian air strikes on Idlib countryside\n\nSOHR activists have reported the death of a child from Turkistan of wounds he sustained in Russian air strikes on Wednesday on areas near a camp of displaced people in north Jas al-Shour countryside in west Idlib.\n\nYesterday, SOHR activists reported that several civilians had been wounded by Russian warplanes near Widow Camp for displaced in north Jas al-Shour countryside in west Idlib and have also targeted poultry farm that the Turkistan people were taken as a center for tem near Zazour town.\n\nSOHR activists have also reported that Russian warplanes were hovering over the Syrian border with Liwaa Eskandaron while its strikes hit another areas ten km far from the border.\n\nAccordingly number of Russian air raids on Putin-Erodoghan areas have been up to 129 since he beginning of Sept.\n\nYesterday, SOHR activists documented fire exchange of four Russian warplanes at the vicinity of al-Hamah and Zarzour villages near Darkoush at the Syrian borders with Eskandron in west Idlib countryside amid reports about targeting widows camp at the outskirts of Zarour town. The attack coincided with Russian aircrafts flying over the de-escalation areas.\n\nThe Russian escalations on Putin-Erdoghan areas targeted the region for fifteen times during the current month via tens of strikes that caused material and physical losses.\n\nA day earlier, SOHR activists reported renewing Russian air strikes on Aleppo countryside for the third day in a row where the Russian aircrafts hit in the early hours of Tuesday the vicinity of Darah Azah in west Aleppo within the de-escalation areas.\n\nPrev Post\n\nDaraa deal |Above 240 persons struck reconciliation in west Daraa amid ongoing search by regime forces and Russian police\n\nNext Post\n\nSyrians migration | Unprecedented wave of migration to Egypt and more attempts for reaching Europe from Turkey\n\nFollowing death of suspects | Local gunmen attack centres of Asayish Forces and…\n\nOngoing security chaos in “Euphrates Shield” area | Tribal infighting leaves two…\n\nAmid clashes with light and medium weapons | Two regime agents killed by security…\n\nDeteriorating security situation | Civilian shot dead in eastern Deir Ezzor",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

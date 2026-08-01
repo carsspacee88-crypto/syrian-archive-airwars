@@ -67,8 +67,22 @@
   "content_hash": null,
   "content_variants": [],
   "descriptions": [],
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:20:40+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:20:40+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515174911id_/https://twitter.com/HadiAlabdallah/status/1477069452852224010?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1477069452852224010%7Ctwgr%5Ehb_1_7%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.alquds.co.uk%2Fd985d8b9-d8a7d984d8b9d8a7d985-d8a7d984d8acd8afd98ad8af-d982d8b5d981-d8b1d988d8b3d98a-d8b9d984d989-d8a5d8afd984d8a8-d98ad988d8afd98a%2F"
+    }
+  ],
   "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
+  "failure_reason": "capture_without_text",
   "final_redirected_url": "",
   "incident_ids": [
     "airwars-80902"
@@ -108,7 +122,7 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
+  "retrieval_status": "capture_without_text",
   "retrieved_at": null,
   "review_flags": [],
   "schema_version": "1.0.0",

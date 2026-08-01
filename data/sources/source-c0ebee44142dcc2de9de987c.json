@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/U1jAr"
+    "https://archive.ph/U1jAr",
+    "https://web.archive.org/web/20240526020900id_/https://anfarabic.com/akhr-l-khbr/asabt-mwatn-jra-qsf-llahtlal-altrky-ly-yn-ysy-95858"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "92d1f037c6745aba3d3bbea2b496b5eecaf06af68763217a5b22cb8190faad77",
+  "content_variants": [
+    {
+      "bytes": 335,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:44:43+00:00",
+      "sha256": "92d1f037c6745aba3d3bbea2b496b5eecaf06af68763217a5b22cb8190faad77",
+      "source_url": "https://web.archive.org/web/20240526020900id_/https://anfarabic.com/akhr-l-khbr/asabt-mwatn-jra-qsf-llahtlal-altrky-ly-yn-ysy-95858",
+      "text": "ANF\n\nمركز الاخبار\n\nالأربعاء, ٢٠ سبتمبر ٢٠٢٣, ١٤:٥٦\n\nأفاد مراسلنا بإصابة المواطن ماجد إبراهيم علي بجروح خطيرة جراء قصف الاحتلال التركي لقرية أبو نيتونا غرب ناحية عين عيسى بالأسلحة الثقيلة."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:44:42+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:44:43+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240526020900id_/https://anfarabic.com/akhr-l-khbr/asabt-mwatn-jra-qsf-llahtlal-altrky-ly-yn-ysy-95858"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240526020900id_/https://anfarabic.com/akhr-l-khbr/asabt-mwatn-jra-qsf-llahtlal-altrky-ly-yn-ysy-95858",
   "incident_ids": [
     "airwars-93200"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/akhr-l-khbr/asabt-mwatn-jra-qsf-llahtlal-altrky-ly-yn-ysy-95858"
   ],
   "original_url": "https://anfarabic.com/akhr-l-khbr/asabt-mwatn-jra-qsf-llahtlal-altrky-ly-yn-ysy-95858",
-  "page_title": "",
+  "page_title": "ANF |\nإصابة مواطن جراء قصف للاحتلال التركي على عين عيسى إصابة مواطن جراء قصف للاحتلال التركي على عين عيسى إصابة مواطن جراء قصف للاحتلال التركي على عين عيسى",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts630-september-20-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:44:43+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-c0ebee44142dcc2de9de987c",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfarabic.com/akhr-l-khbr/asabt-mwatn-jra-qsf-llahtlal-altrky-ly-yn-ysy-95858",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ANF\n\nمركز الاخبار\n\nالأربعاء, ٢٠ سبتمبر ٢٠٢٣, ١٤:٥٦\n\nأفاد مراسلنا بإصابة المواطن ماجد إبراهيم علي بجروح خطيرة جراء قصف الاحتلال التركي لقرية أبو نيتونا غرب ناحية عين عيسى بالأسلحة الثقيلة.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

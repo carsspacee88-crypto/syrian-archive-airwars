@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/tEn0T"
+    "https://archive.is/tEn0T",
+    "https://web.archive.org/web/20241209164205id_/https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%85%D8%A7%D8%B1%D8%B9-%D9%85%D8%B5%D8%AF%D8%B1%D9%87-%D9%82%D8%B3%D8%AF-%D9%8A%D9%88%D9%82%D8%B9-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syria TV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "52f233dccc0d3dfbd70a59872b18eff3f89ac12f440d794c3f5da5ae58080e56",
+  "content_variants": [
+    {
+      "bytes": 1208,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:28:02+00:00",
+      "sha256": "52f233dccc0d3dfbd70a59872b18eff3f89ac12f440d794c3f5da5ae58080e56",
+      "source_url": "https://web.archive.org/web/20241209164205id_/https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%85%D8%A7%D8%B1%D8%B9-%D9%85%D8%B5%D8%AF%D8%B1%D9%87-%D9%82%D8%B3%D8%AF-%D9%8A%D9%88%D9%82%D8%B9-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7",
+      "text": "قصف على مدينة مارع مصدره \"قسد\" يوقع ضحايا\n\nأصيب 6 مدنيين بجروح بعضها بالغة نتيجة قصف استهدف مدينة مارع بريف حلب.\n\nمصادر محلية قالت إن القصف مصدره قرية الشيخ عيسى التي تسيطر عليها \"قوات سوريا الديمقراطية\" (قسد).\n\nوهذا الاستهداف هو الثالث الذي تتعرض له مدينة مارع خلال شهر نيسان الحالي.\n\n\"قسد\" تنفي مسؤوليتها عن مقتل جندي تركي بقصف على مارع بريف حلب\n\nويوم الجمعة الماضي، أصيب مدنيون بجروح إثر سقوط قذائف صاروخية أطلقتها \"قسد\" على المنطقة الصناعية في مارع انطلاقاً من مدينة تل رفعت الواقعة تحت سيطرة \"قسد\" شمالي مدينة حلب.\n\nوتشهد مناطق سيطرة الجيش الوطني عمليات قصف مستمرة مصدرها مناطق سيطرة نظام الأسد و\"قسد\" في ريف حلب، وتودي هذه العمليات بحياة مدنيين.\n\nاخترنا لك\n\nالأكثر قراءة"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:28:00+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:28:02+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241209164205id_/https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%85%D8%A7%D8%B1%D8%B9-%D9%85%D8%B5%D8%AF%D8%B1%D9%87-%D9%82%D8%B3%D8%AF-%D9%8A%D9%88%D9%82%D8%B9-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241209164205id_/https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%85%D8%A7%D8%B1%D8%B9-%D9%85%D8%B5%D8%AF%D8%B1%D9%87-%D9%82%D8%B3%D8%AF-%D9%8A%D9%88%D9%82%D8%B9-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7",
   "incident_ids": [
     "airwars-82741"
   ],
@@ -85,10 +109,10 @@
     "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%85%D8%A7%D8%B1%D8%B9-%D9%85%D8%B5%D8%AF%D8%B1%D9%87-%D9%82%D8%B3%D8%AF-%D9%8A%D9%88%D9%82%D8%B9-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7"
   ],
   "original_url": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%85%D8%A7%D8%B1%D8%B9-%D9%85%D8%B5%D8%AF%D8%B1%D9%87-%D9%82%D8%B3%D8%AF-%D9%8A%D9%88%D9%82%D8%B9-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7",
-  "page_title": "",
+  "page_title": "قصف على مدينة مارع مصدره \"قسد\" يوقع ضحايا قصف على مدينة مارع مصدره \"قسد\" يوقع ضحايا قصف على مدينة مارع مصدره \"قسد\" يوقع ضحايا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys131-april-26-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:28:02+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-584f780627f442ac2c1f3d51",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.syria.tv/%D9%82%D8%B5%D9%81-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%85%D8%A7%D8%B1%D8%B9-%D9%85%D8%B5%D8%AF%D8%B1%D9%87-%D9%82%D8%B3%D8%AF-%D9%8A%D9%88%D9%82%D8%B9-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قصف على مدينة مارع مصدره \"قسد\" يوقع ضحايا\n\nأصيب 6 مدنيين بجروح بعضها بالغة نتيجة قصف استهدف مدينة مارع بريف حلب.\n\nمصادر محلية قالت إن القصف مصدره قرية الشيخ عيسى التي تسيطر عليها \"قوات سوريا الديمقراطية\" (قسد).\n\nوهذا الاستهداف هو الثالث الذي تتعرض له مدينة مارع خلال شهر نيسان الحالي.\n\n\"قسد\" تنفي مسؤوليتها عن مقتل جندي تركي بقصف على مارع بريف حلب\n\nويوم الجمعة الماضي، أصيب مدنيون بجروح إثر سقوط قذائف صاروخية أطلقتها \"قسد\" على المنطقة الصناعية في مارع انطلاقاً من مدينة تل رفعت الواقعة تحت سيطرة \"قسد\" شمالي مدينة حلب.\n\nوتشهد مناطق سيطرة الجيش الوطني عمليات قصف مستمرة مصدرها مناطق سيطرة نظام الأسد و\"قسد\" في ريف حلب، وتودي هذه العمليات بحياة مدنيين.\n\nاخترنا لك\n\nالأكثر قراءة",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

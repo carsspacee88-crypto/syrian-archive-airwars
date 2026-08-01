@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/Mvhzn"
+    "https://archive.is/Mvhzn",
+    "https://web.archive.org/web/20240524222008id_/https://www.facebook.com/qais.tribe2021/posts/141430478210194"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Qais.tribe2021",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f9e9c374df5b13cd1a6defdbe8654681de39e393d191327256ca58dc5b3fc63d",
+  "content_variants": [
+    {
+      "bytes": 659,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:24:07+00:00",
+      "sha256": "f9e9c374df5b13cd1a6defdbe8654681de39e393d191327256ca58dc5b3fc63d",
+      "source_url": "https://web.archive.org/web/20240524222008id_/https://www.facebook.com/qais.tribe2021/posts/141430478210194",
+      "text": "بسم الله الرحمن الرحيم\n“يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ * ارْجِعِي إِلَى رَبِّكِ رَاضِيَةً مَرْضِيَّةً * فَادْخُلِي فِي عِبَادِي * وَادْخُلِي...\n\nبسم الله الرحمن الرحيم\n“يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ * ارْجِعِي إِلَى رَبِّكِ رَاضِيَةً مَرْضِيَّةً * فَادْخُلِي فِي عِبَادِي * وَادْخُلِي جَنَّتِي” ،\nبعيون دامعة وقلوب خاشعة راضية بقضاء..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:24:06+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:24:07+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524222008id_/https://www.facebook.com/qais.tribe2021/posts/141430478210194"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524222008id_/https://www.facebook.com/qais.tribe2021/posts/141430478210194",
   "incident_ids": [
     "airwars-79515"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/qais.tribe2021/posts/141430478210194"
   ],
   "original_url": "https://www.facebook.com/qais.tribe2021/posts/141430478210194",
-  "page_title": "",
+  "page_title": "مجلس شورى قبيلة قيس في المناطق المحررة مجلس شورى قبيلة قيس في المناطق المحررة بسم الله الرحمن... - مجلس شورى قبيلة قيس في المناطق المحررة",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4656-october-16-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:24:07+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-3b70f3d9f3acf4603eacf6e3",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/qais.tribe2021/posts/141430478210194",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "بسم الله الرحمن الرحيم\n“يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ * ارْجِعِي إِلَى رَبِّكِ رَاضِيَةً مَرْضِيَّةً * فَادْخُلِي فِي عِبَادِي * وَادْخُلِي...\n\nبسم الله الرحمن الرحيم\n“يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ * ارْجِعِي إِلَى رَبِّكِ رَاضِيَةً مَرْضِيَّةً * فَادْخُلِي فِي عِبَادِي * وَادْخُلِي جَنَّتِي” ،\nبعيون دامعة وقلوب خاشعة راضية بقضاء...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

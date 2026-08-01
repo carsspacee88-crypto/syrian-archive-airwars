@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/xzfDx"
+    "https://archive.is/xzfDx",
+    "https://web.archive.org/web/20220120132007id_/https://twitter.com/EyeEuphrates/status/1484152450256936968"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "EyeEuphrates",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "3d1972cea5b160d7efff39cbcc49529a5392399055ab46084ffc3697feb9925d",
+  "content_variants": [
+    {
+      "bytes": 438,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:20:40+00:00",
+      "sha256": "3d1972cea5b160d7efff39cbcc49529a5392399055ab46084ffc3697feb9925d",
+      "source_url": "https://web.archive.org/web/20220120132007id_/https://twitter.com/EyeEuphrates/status/1484152450256936968",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nعاجل|| قتلى وجرحى بقصف صاروخي لـ\"قسد\" على وسط مدينة عفرين شمالي حلب، ولا حصيلة واضحة لحجم الخسائر بعد.\n#عين_الفراتpic.twitter.com/VibDqlpbHu\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:20:39+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:20:40+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220120132007id_/https://twitter.com/EyeEuphrates/status/1484152450256936968"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220120132007id_/https://twitter.com/EyeEuphrates/status/1484152450256936968",
   "incident_ids": [
     "airwars-81349"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/EyeEuphrates/status/1484152450256936968"
   ],
   "original_url": "https://twitter.com/EyeEuphrates/status/1484152450256936968",
-  "page_title": "",
+  "page_title": "عين الفرات - Eye of the Euphrates on Twitter: \"عاجل|| قتلى وجرحى بقصف صاروخي لـ\"قسد\" على وسط مدينة عفرين شمالي حلب، ولا حصيلة واضحة لحجم الخسائر بعد.\n#عين_الفرات… \" عين الفرات - Eye of the Euphrates on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys122-january-20-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:20:40+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-243d303da9e2cfbbd3308d8c",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/EyeEuphrates/status/1484152450256936968",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nعاجل|| قتلى وجرحى بقصف صاروخي لـ\"قسد\" على وسط مدينة عفرين شمالي حلب، ولا حصيلة واضحة لحجم الخسائر بعد.\n#عين_الفراتpic.twitter.com/VibDqlpbHu\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "und",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

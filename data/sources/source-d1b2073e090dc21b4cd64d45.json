@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/cNSqV"
+    "https://archive.is/cNSqV",
+    "https://web.archive.org/web/20241006205732id_/https://www.syriahr.com/en/260773/?fbclid=IwAR2kVpu2wtR7Y22vkXE9x-OB-RcXyn8JKr3nsdYDV3AEIVihz26jojW0XVg"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0de4e249dbd8d1a03933e976ce9acec89dbe0b9fd84a2794c603b6f9d941f009",
+  "content_variants": [
+    {
+      "bytes": 1754,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:46:51+00:00",
+      "sha256": "0de4e249dbd8d1a03933e976ce9acec89dbe0b9fd84a2794c603b6f9d941f009",
+      "source_url": "https://web.archive.org/web/20241006205732id_/https://www.syriahr.com/en/260773/?fbclid=IwAR2kVpu2wtR7Y22vkXE9x-OB-RcXyn8JKr3nsdYDV3AEIVihz26jojW0XVg",
+      "text": "Intensive bombardment | Turkish forces shell positions in Al-Hasakah countryside, leaving nearly ten casualties\n\nAl-Hasakah province: SOHR sources have reported violent artillery and rocket fire by Turkish forces and their proxy factions since early morning, which targeted villages and towns along frontlines in the area from Abu Rasin (Zarkan) to Tel Tamr countryside in north-western Al-Hasakah. The intensive bombardment was concentrated in the centre of Zarkan district and the villages of, Asadiyah, Mujbayrah, Tel Amir, the Assyrian village of Tel Shenan, Al-Dardarah, the perimeter of the Russian base in north Tel Tamr, Sukkar Al-Ohaymer, Tel Jimaa, Tel Taweel, Al-Ghabish, Al-Tawilah, Al-Dishishah and Qasr Touma Yalda.\n\nAccording to SOHR sources, the bombardment left a civilian dead in Mujbayrah village, while over eight others, including a woman and two children, in different areas sustained various injuries. In addition, a regime soldier was killed and others were injured in the bombardment on Zarkan. Moreover, the region experienced mass exodus, where civilians fled from the violent bombardment on their houses to safer areas.\n\nPrev Post\n\nMedia environment in SDF-controlled areas | Strict and complex measures undermine journalists and media practitioners\n\nNext Post\n\nCeasefire violation | Regime forces and “Al-Fath Al-Mubin” factions trade fire in Jabal Al-Akrad and Idlib countryside\n\nConsecutive explosions | Israeli attack takes place on three military positions in…\n\nTribal infighting | Four people kil*led and injured including a member of “National…\n\nNew attack | Israeli strikes target warehouse storing weapons in military positions…\n\nOngoing reinforcements | Two members of H*T*S kil*led in Aleppo and Latakia"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:46:51+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:46:51+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241006205732id_/https://www.syriahr.com/en/260773/?fbclid=IwAR2kVpu2wtR7Y22vkXE9x-OB-RcXyn8JKr3nsdYDV3AEIVihz26jojW0XVg"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241006205732id_/https://www.syriahr.com/en/260773/?fbclid=IwAR2kVpu2wtR7Y22vkXE9x-OB-RcXyn8JKr3nsdYDV3AEIVihz26jojW0XVg",
   "incident_ids": [
     "airwars-84225",
     "airwars-84158"
@@ -87,10 +111,10 @@
     "https://www.syriahr.com/en/260773/?fbclid=IwAR2kVpu2wtR7Y22vkXE9x-OB-RcXyn8JKr3nsdYDV3AEIVihz26jojW0XVg"
   ],
   "original_url": "https://www.syriahr.com/en/260773/?fbclid=IwAR2kVpu2wtR7Y22vkXE9x-OB-RcXyn8JKr3nsdYDV3AEIVihz26jojW0XVg",
-  "page_title": "",
+  "page_title": "Intensive bombardment | Turkish forces shell positions in Al-Hasakah countryside, leaving nearly ten casualties - The Syrian Observatory For Human Rights Intensive bombardment | Turkish forces shell positions in Al-Hasakah countryside, leaving nearly ten casualties - The Syrian Observatory For Human Rights Intensive bombardment | Turkish forces shell positions in Al-Hasakah countryside, leaving nearly ten casualties - The Syrian Observatory For Human Rights Intensive bombardment | Turkish forces shell positions in Al-Hasakah countryside, leaving nearly ten casualties Intensive bombardment | Turkish forces shell positions in Al-Hasakah countryside, leaving nearly ten casualties",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts530-july-24-2022/",
@@ -118,15 +142,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:46:51+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d1b2073e090dc21b4cd64d45",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/260773/?fbclid=IwAR2kVpu2wtR7Y22vkXE9x-OB-RcXyn8JKr3nsdYDV3AEIVihz26jojW0XVg",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Intensive bombardment | Turkish forces shell positions in Al-Hasakah countryside, leaving nearly ten casualties\n\nAl-Hasakah province: SOHR sources have reported violent artillery and rocket fire by Turkish forces and their proxy factions since early morning, which targeted villages and towns along frontlines in the area from Abu Rasin (Zarkan) to Tel Tamr countryside in north-western Al-Hasakah. The intensive bombardment was concentrated in the centre of Zarkan district and the villages of, Asadiyah, Mujbayrah, Tel Amir, the Assyrian village of Tel Shenan, Al-Dardarah, the perimeter of the Russian base in north Tel Tamr, Sukkar Al-Ohaymer, Tel Jimaa, Tel Taweel, Al-Ghabish, Al-Tawilah, Al-Dishishah and Qasr Touma Yalda.\n\nAccording to SOHR sources, the bombardment left a civilian dead in Mujbayrah village, while over eight others, including a woman and two children, in different areas sustained various injuries. In addition, a regime soldier was killed and others were injured in the bombardment on Zarkan. Moreover, the region experienced mass exodus, where civilians fled from the violent bombardment on their houses to safer areas.\n\nPrev Post\n\nMedia environment in SDF-controlled areas | Strict and complex measures undermine journalists and media practitioners\n\nNext Post\n\nCeasefire violation | Regime forces and “Al-Fath Al-Mubin” factions trade fire in Jabal Al-Akrad and Idlib countryside\n\nConsecutive explosions | Israeli attack takes place on three military positions in…\n\nTribal infighting | Four people kil*led and injured including a member of “National…\n\nNew attack | Israeli strikes target warehouse storing weapons in military positions…\n\nOngoing reinforcements | Two members of H*T*S kil*led in Aleppo and Latakia",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

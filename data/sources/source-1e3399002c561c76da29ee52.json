@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/qjOYW"
+    "https://archive.is/qjOYW",
+    "https://web.archive.org/web/20210819091939id_/https://twitter.com/YusufAd76532779/status/1428204545818206211"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@YusufAd76532779",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a9e9fc7368459e6d005e570f4971f56e5a286701e97227edc8e03bad829c6269",
+  "content_variants": [
+    {
+      "bytes": 665,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:20:36+00:00",
+      "sha256": "a9e9fc7368459e6d005e570f4971f56e5a286701e97227edc8e03bad829c6269",
+      "source_url": "https://web.archive.org/web/20210819091939id_/https://twitter.com/YusufAd76532779/status/1428204545818206211",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\n#عاجــــــل\n\nإشتباكات عنيفة في قرية #الكريدي و #الحمرا شرقي مدينة #بزاعة بريف #حلب الشرقي بين الجيش الوطني وميليشيات PYD_PKK وسقوط قذيفة في قرية #الكريدية من قبل الميليشيات أدت لارتقاء طفلة وعدة إصابات من عائلة واحدة وجلهم أطفال\n\n#مراسل_الشرقية_الرسمي\n\n3 Likes\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:20:34+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:20:36+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20210819091939id_/https://twitter.com/YusufAd76532779/status/1428204545818206211"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20210819091939id_/https://twitter.com/YusufAd76532779/status/1428204545818206211",
   "incident_ids": [
     "airwars-77476"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/YusufAd76532779/status/1428204545818206211"
   ],
   "original_url": "https://twitter.com/YusufAd76532779/status/1428204545818206211",
-  "page_title": "",
+  "page_title": "مراسل الشرقية on Twitter: \"#عاجــــــل\n\nإشتباكات عنيفة في قرية #الكريدي و #الحمرا شرقي مدينة #بزاعة بريف #حلب الشرقي بين الجيش الوطني وميليشيات PYD_PKK وسقوط قذيفة في قرية #الكريدية من قبل الميليشيات أدت لارتقاء طفلة وعدة إصابات من عائلة واحدة وجلهم أطفال\n\n#مراسل_الشرقية_الرسمي ✅\" مراسل الشرقية on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys114-august-18-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:20:36+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-1e3399002c561c76da29ee52",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/YusufAd76532779/status/1428204545818206211",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\n#عاجــــــل\n\nإشتباكات عنيفة في قرية #الكريدي و #الحمرا شرقي مدينة #بزاعة بريف #حلب الشرقي بين الجيش الوطني وميليشيات PYD_PKK وسقوط قذيفة في قرية #الكريدية من قبل الميليشيات أدت لارتقاء طفلة وعدة إصابات من عائلة واحدة وجلهم أطفال\n\n#مراسل_الشرقية_الرسمي\n\n3 Likes\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

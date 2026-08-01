@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/EFoA2"
+    "https://archive.is/EFoA2",
+    "https://web.archive.org/web/20220924034032id_/https://www.syriahr.com/en/238699/?fbclid=IwAR02dd3yvvAC5i6y_sIb-jumiw4q3j9wXQ4jueFJ-ri3Dntcsw4w1Qu9YZE"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0f148d3f30fd4e08a17d65a98e2112ec3e13ce791ba65d35214bb2af7b14e7c3",
+  "content_variants": [
+    {
+      "bytes": 1581,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:25:07+00:00",
+      "sha256": "0f148d3f30fd4e08a17d65a98e2112ec3e13ce791ba65d35214bb2af7b14e7c3",
+      "source_url": "https://web.archive.org/web/20220924034032id_/https://www.syriahr.com/en/238699/?fbclid=IwAR02dd3yvvAC5i6y_sIb-jumiw4q3j9wXQ4jueFJ-ri3Dntcsw4w1Qu9YZE",
+      "text": "Clashes with SDF | Child killed in security campaign backed by Coalition Forces\n\nDeir Ezzor province: SOHR reliable sources have reported that military forces of Syrian Democratic Forces (SDF)و supported by a Coalition helicopter, have stormed, in the early hours of Wednesday, Al-Busirah city in east Deir Ezzor countryside in order to arrest a person working in the river crossing used for smuggling goods into regime-held areas.\n\nDuring the raid, the SDF’s members have exchanged fire with the father who rejected to hand in his son. The gunfire caused the death of a child under the age of 18, who is the brother of the wanted person and engaged in today’s clashes with SDF. Meanwhile, a Coalition helicopter was flying over the region.\n\nOn January 30, SOHR reported that forces of the Deir Ezzor Military Council stormed crossings used for smuggling connecting the Syrian democratic Forces (SDF) areas and the Iranian-backed factions on the opposite bank of the Euphrates river in Abu Hamam town in east Deir Ezzor countryside and set fire to diesel tanks.\n\nPrev Post\n\nTurkish offensive | Intensive rocket fire hits areas in NW Al-Hasakah\n\nNext Post\n\nOngoing violations in Afrin | Military police arrest three civilians in Maabatli district\n\nDaily death toll | Nine persons killed on September 23 across Syria\n\nSneak operation by Al-Fath Al-Mubin | Three regime soldiers killed in Aleppo…\n\nISIS attack on SDF patrol | SDF brings military reinforcements to western Deir Ezzor…\n\n96th month of Coalition operations in Syria | Ongoing reinforcements…continuous chase…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:25:06+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:25:07+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220924034032id_/https://www.syriahr.com/en/238699/?fbclid=IwAR02dd3yvvAC5i6y_sIb-jumiw4q3j9wXQ4jueFJ-ri3Dntcsw4w1Qu9YZE"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220924034032id_/https://www.syriahr.com/en/238699/?fbclid=IwAR02dd3yvvAC5i6y_sIb-jumiw4q3j9wXQ4jueFJ-ri3Dntcsw4w1Qu9YZE",
   "incident_ids": [
     "airwars-81854"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/238699/?fbclid=IwAR02dd3yvvAC5i6y_sIb-jumiw4q3j9wXQ4jueFJ-ri3Dntcsw4w1Qu9YZE"
   ],
   "original_url": "https://www.syriahr.com/en/238699/?fbclid=IwAR02dd3yvvAC5i6y_sIb-jumiw4q3j9wXQ4jueFJ-ri3Dntcsw4w1Qu9YZE",
-  "page_title": "",
+  "page_title": "Clashes with SDF | Child killed in security campaign backed by Coalition Forces • The Syrian Observatory For Human Rights Clashes with SDF | Child killed in security campaign backed by Coalition Forces • The Syrian Observatory For Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1978-february-8-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:25:07+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-45e940704126d9b169c8e255",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/238699/?fbclid=IwAR02dd3yvvAC5i6y_sIb-jumiw4q3j9wXQ4jueFJ-ri3Dntcsw4w1Qu9YZE",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Clashes with SDF | Child killed in security campaign backed by Coalition Forces\n\nDeir Ezzor province: SOHR reliable sources have reported that military forces of Syrian Democratic Forces (SDF)و supported by a Coalition helicopter, have stormed, in the early hours of Wednesday, Al-Busirah city in east Deir Ezzor countryside in order to arrest a person working in the river crossing used for smuggling goods into regime-held areas.\n\nDuring the raid, the SDF’s members have exchanged fire with the father who rejected to hand in his son. The gunfire caused the death of a child under the age of 18, who is the brother of the wanted person and engaged in today’s clashes with SDF. Meanwhile, a Coalition helicopter was flying over the region.\n\nOn January 30, SOHR reported that forces of the Deir Ezzor Military Council stormed crossings used for smuggling connecting the Syrian democratic Forces (SDF) areas and the Iranian-backed factions on the opposite bank of the Euphrates river in Abu Hamam town in east Deir Ezzor countryside and set fire to diesel tanks.\n\nPrev Post\n\nTurkish offensive | Intensive rocket fire hits areas in NW Al-Hasakah\n\nNext Post\n\nOngoing violations in Afrin | Military police arrest three civilians in Maabatli district\n\nDaily death toll | Nine persons killed on September 23 across Syria\n\nSneak operation by Al-Fath Al-Mubin | Three regime soldiers killed in Aleppo…\n\nISIS attack on SDF patrol | SDF brings military reinforcements to western Deir Ezzor…\n\n96th month of Coalition operations in Syria | Ongoing reinforcements…continuous chase…",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

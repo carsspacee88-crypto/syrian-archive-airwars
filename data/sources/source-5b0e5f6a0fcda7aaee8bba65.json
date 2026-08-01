@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/vphRS"
+    "https://archive.ph/vphRS",
+    "https://web.archive.org/web/20250524063635id_/https://npasyria.com/171731/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "093ee4c3d78fe38c71d535ef56b24a771d5ef7386a9d801ef00b84ab3b83f64c",
+  "content_variants": [
+    {
+      "bytes": 1725,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:28:42+00:00",
+      "sha256": "093ee4c3d78fe38c71d535ef56b24a771d5ef7386a9d801ef00b84ab3b83f64c",
+      "source_url": "https://web.archive.org/web/20250524063635id_/https://npasyria.com/171731/",
+      "text": "مسيرة تركية تقصف ريف منبج\n\nقصف تركي سابق على إحدى قرى مدينة منبج - نورث برس\n\nمنبج – نورث برس\n\nأعلن مجلس منبج العسكري، الاثنين، أن القوات التركية استهدفت قرية التوخار بريف منبج الشمالي بطائرة مسيرة، مما أدى إلى إصابة أحد السكان بجروح.\n\nوتتعرض مدينة منبج ومدن شمالي سوريا الحدودية مع تركيا لقصف تركي مستمر يستهدف البنى التحتية والمنشآت الحيوية وقرى آهلة بالسكان وغالباً ما ينجم عن هذا القصف ضحايا من المدنيين وخسائر بممتلكات السكان.\n\nوقال مجلس منبج العسكري في بيان له، إن “مسيرة صغيرة تابعة للاحتلال التركي استهدفت قرية التوخار الواقعة في الريف الشمالي لمدينة منبج”.\n\nوأضاف أن هذا الاستهداف جاء بالتزامن مع قصف مدفعي على قرية عون الدادات في الريف الشمالي للمدينة، موضحاً أن القرى التي تعرضت للقصف آهلة بالسكان مما تسبب بإصابة أحد السكان بجروح جراء استهداف المسيرة.\n\nوأفاد مراسل نورث برس في منبج، أن مدنياً يدعى صالح الجاسم (40 عاماً) قد أُصيب نتيجة استهداف القوات التركية لقرية التوخار بريف منبج بطائرة مسيرة”.\n\nإعداد: قيس العبدالله – تحرير: سعد اليازجي"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:28:41+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:28:42+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250524063635id_/https://npasyria.com/171731/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250524063635id_/https://npasyria.com/171731/",
   "incident_ids": [
     "airwars-103520"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/171731/"
   ],
   "original_url": "https://npasyria.com/171731/",
-  "page_title": "",
+  "page_title": "مسيرة تركية تقصف ريف منبج مسيرة تركية تقصف ريف منبج",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts656-october-30-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:28:42+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5b0e5f6a0fcda7aaee8bba65",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/171731/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مسيرة تركية تقصف ريف منبج\n\nقصف تركي سابق على إحدى قرى مدينة منبج - نورث برس\n\nمنبج – نورث برس\n\nأعلن مجلس منبج العسكري، الاثنين، أن القوات التركية استهدفت قرية التوخار بريف منبج الشمالي بطائرة مسيرة، مما أدى إلى إصابة أحد السكان بجروح.\n\nوتتعرض مدينة منبج ومدن شمالي سوريا الحدودية مع تركيا لقصف تركي مستمر يستهدف البنى التحتية والمنشآت الحيوية وقرى آهلة بالسكان وغالباً ما ينجم عن هذا القصف ضحايا من المدنيين وخسائر بممتلكات السكان.\n\nوقال مجلس منبج العسكري في بيان له، إن “مسيرة صغيرة تابعة للاحتلال التركي استهدفت قرية التوخار الواقعة في الريف الشمالي لمدينة منبج”.\n\nوأضاف أن هذا الاستهداف جاء بالتزامن مع قصف مدفعي على قرية عون الدادات في الريف الشمالي للمدينة، موضحاً أن القرى التي تعرضت للقصف آهلة بالسكان مما تسبب بإصابة أحد السكان بجروح جراء استهداف المسيرة.\n\nوأفاد مراسل نورث برس في منبج، أن مدنياً يدعى صالح الجاسم (40 عاماً) قد أُصيب نتيجة استهداف القوات التركية لقرية التوخار بريف منبج بطائرة مسيرة”.\n\nإعداد: قيس العبدالله – تحرير: سعد اليازجي",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

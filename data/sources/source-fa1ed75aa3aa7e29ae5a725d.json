@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/C9Grz"
+    "https://archive.is/C9Grz",
+    "https://web.archive.org/web/20240808102630id_/https://halabtodaytv.net/archives/223838"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Halab Today TV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d1a08bd205ead894138d43a959a52adc09300e60d39f17ac2df20e31da43aecd",
+  "content_variants": [
+    {
+      "bytes": 490,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:51:38+00:00",
+      "sha256": "d1a08bd205ead894138d43a959a52adc09300e60d39f17ac2df20e31da43aecd",
+      "source_url": "https://web.archive.org/web/20240808102630id_/https://halabtodaytv.net/archives/223838",
+      "text": "استهدفت قوات سوريا الديمقراطية \"قسد\" مخيماً للنازحين بريف مدينة عفرين شمال حلب، اليوم اﻷحد، ما أدى لوقوع ضحايا، وسط حالة\n\nاستهدفت قوات سوريا الديمقراطية \"قسد\" مخيماً للنازحين بريف مدينة عفرين شمال حلب، اليوم اﻷحد، ما أدى لوقوع ضحايا، وسط حالة من الهلع في صفوف المدنيين."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:51:37+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:51:38+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240808102630id_/https://halabtodaytv.net/archives/223838"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240808102630id_/https://halabtodaytv.net/archives/223838",
   "incident_ids": [
     "airwars-84183"
   ],
@@ -85,10 +109,10 @@
     "https://halabtodaytv.net/archives/223838"
   ],
   "original_url": "https://halabtodaytv.net/archives/223838",
-  "page_title": "",
+  "page_title": "قسد تقصف بالصواريخ مخيماً للنازحين قرب عفرين قسد تقصف بالصواريخ مخيماً للنازحين قرب عفرين قسد تقصف بالصواريخ مخيماً للنازحين قرب عفرين قسد تقصف بالصواريخ مخيماً للنازحين قرب عفرين قسد تقصف بالصواريخ مخيماً للنازحين قرب عفرين",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys141-july-24-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:51:38+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-fa1ed75aa3aa7e29ae5a725d",
   "source_type": "other_web_page",
   "stable_id_basis": "https://halabtodaytv.net/archives/223838",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "استهدفت قوات سوريا الديمقراطية \"قسد\" مخيماً للنازحين بريف مدينة عفرين شمال حلب، اليوم اﻷحد، ما أدى لوقوع ضحايا، وسط حالة\n\nاستهدفت قوات سوريا الديمقراطية \"قسد\" مخيماً للنازحين بريف مدينة عفرين شمال حلب، اليوم اﻷحد، ما أدى لوقوع ضحايا، وسط حالة من الهلع في صفوف المدنيين.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

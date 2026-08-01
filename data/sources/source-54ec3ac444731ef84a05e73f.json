@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/4iPri"
+    "https://archive.is/4iPri",
+    "https://web.archive.org/web/20240714051615id_/https://www.syriahr.com/en/313688/?doing_wp_cron=1697183121.8716230392456054687500"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SOHR news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "cfceb0aaf8a10dfa8f579740c7f3ce6a8352b1dbdc22714888d07471f19ffab8",
+  "content_variants": [
+    {
+      "bytes": 2217,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:27:28+00:00",
+      "sha256": "cfceb0aaf8a10dfa8f579740c7f3ce6a8352b1dbdc22714888d07471f19ffab8",
+      "source_url": "https://web.archive.org/web/20240714051615id_/https://www.syriahr.com/en/313688/?doing_wp_cron=1697183121.8716230392456054687500",
+      "text": "Military escalation | Civilian kil*led in artillery shelling by regime forces on Aleppo\n\nA civilian was killed in the artillery shelling by regime forces on Kafr Amma Town in western Aleppo countryside, where the artillery shells also hit Ma’arablit Village in southern Idlib countryside.\n\nYesterday, two civilians were injured, one of which in Shinan Town and the other in Kafr Haya due to extensive artillery shelling by regime forces on Kafr Haya, Mara’ayan, Shinan and Al-Maghara and their outskirts in southern Idlib countryside within “Putin-Erdogan” area.\nSince early 2023, SOHR has documented 311 operations in the “de-escalation zone,” including attacks, gunfire by snipers and bombardment, which left 487 combatants and civilians dead. In addition, these operations left over 225 combatants and 153 civilians, including 15 women and 37 children, injured.\nThe fatalities can be distributed as follows:\n• 78 civilians, including ten women, 29 children and a civil defence member, were killed by regime forces.\n• 317 members of regime forces, including 19 officers.\n• An Afghan militiaman of “Liwaa Fatemiyoun.”\n• A member of the Syrian Hezbollah.\n• 69 members of Hayyaat Tahrir Al-Sham, including a French jihadist.\n• 13 members of the jihadist faction of “Ansar Al-Tawhid.”\n• One member of “Ahrar Al-Sham” movement.\n• Two members of “Al-Sham Corps.”\n• One member of “Hurras Al-Din” organisation.\n• The Commander-in-chief of Russian Special Tasks Forces.\n• A militiaman of the Iranian-backed “Liwaa Al-Baqer.”\n• A member of “Soqour Al-Sham.”\n• A member of the “National Liberation Front.”\n\nPrev Post\n\n“SOHR camera” captures the civil institutions in areas of the “Autonomous Administration” paving the road between Al-Hasakah and Al-Qamishly Cities\n\nNext Post\n\nOngoing escalation | Wa*rplanes of H*T*S attack Aleppo City\n\nDaily death toll | 11 people killed on July 13 across Syria\n\nSecurity chaos | Civilian kil*led and another injured in a village in Aleppo\n\nIn presence of military commanders | Iran-backed militia conduct military exercises…\n\nIn less than two weeks | 17 civilians kil*led including six women in 16 mur*der…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:27:26+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:27:28+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240714051615id_/https://www.syriahr.com/en/313688/?doing_wp_cron=1697183121.8716230392456054687500"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240714051615id_/https://www.syriahr.com/en/313688/?doing_wp_cron=1697183121.8716230392456054687500",
   "incident_ids": [
     "airwars-108345"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/313688/?doing_wp_cron=1697183121.8716230392456054687500"
   ],
   "original_url": "https://www.syriahr.com/en/313688/?doing_wp_cron=1697183121.8716230392456054687500",
-  "page_title": "",
+  "page_title": "Military escalation | Civilian kil*led in artillery shelling by regime forces on Aleppo - The Syrian Observatory For Human Rights Military escalation | Civilian kil*led in artillery shelling by regime forces on Aleppo - The Syrian Observatory For Human Rights Military escalation | Civilian kil*led in artillery shelling by regime forces on Aleppo - The Syrian Observatory For Human Rights Military escalation | Civilian kil*led in artillery shelling by regime forces on Aleppo Military escalation | Civilian kil*led in artillery shelling by regime forces on Aleppo",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4846-october-12-2023/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:27:28+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-54ec3ac444731ef84a05e73f",
   "source_type": "news_article",
   "stable_id_basis": "https://www.syriahr.com/en/313688/?doing_wp_cron=1697183121.8716230392456054687500",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Military escalation | Civilian kil*led in artillery shelling by regime forces on Aleppo\n\nA civilian was killed in the artillery shelling by regime forces on Kafr Amma Town in western Aleppo countryside, where the artillery shells also hit Ma’arablit Village in southern Idlib countryside.\n\nYesterday, two civilians were injured, one of which in Shinan Town and the other in Kafr Haya due to extensive artillery shelling by regime forces on Kafr Haya, Mara’ayan, Shinan and Al-Maghara and their outskirts in southern Idlib countryside within “Putin-Erdogan” area.\nSince early 2023, SOHR has documented 311 operations in the “de-escalation zone,” including attacks, gunfire by snipers and bombardment, which left 487 combatants and civilians dead. In addition, these operations left over 225 combatants and 153 civilians, including 15 women and 37 children, injured.\nThe fatalities can be distributed as follows:\n• 78 civilians, including ten women, 29 children and a civil defence member, were killed by regime forces.\n• 317 members of regime forces, including 19 officers.\n• An Afghan militiaman of “Liwaa Fatemiyoun.”\n• A member of the Syrian Hezbollah.\n• 69 members of Hayyaat Tahrir Al-Sham, including a French jihadist.\n• 13 members of the jihadist faction of “Ansar Al-Tawhid.”\n• One member of “Ahrar Al-Sham” movement.\n• Two members of “Al-Sham Corps.”\n• One member of “Hurras Al-Din” organisation.\n• The Commander-in-chief of Russian Special Tasks Forces.\n• A militiaman of the Iranian-backed “Liwaa Al-Baqer.”\n• A member of “Soqour Al-Sham.”\n• A member of the “National Liberation Front.”\n\nPrev Post\n\n“SOHR camera” captures the civil institutions in areas of the “Autonomous Administration” paving the road between Al-Hasakah and Al-Qamishly Cities\n\nNext Post\n\nOngoing escalation | Wa*rplanes of H*T*S attack Aleppo City\n\nDaily death toll | 11 people killed on July 13 across Syria\n\nSecurity chaos | Civilian kil*led and another injured in a village in Aleppo\n\nIn presence of military commanders | Iran-backed militia conduct military exercises…\n\nIn less than two weeks | 17 civilians kil*led including six women in 16 mur*der…",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

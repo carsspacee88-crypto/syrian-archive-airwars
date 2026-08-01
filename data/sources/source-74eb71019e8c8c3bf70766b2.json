@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/VP5KY"
+    "https://archive.is/VP5KY",
+    "https://web.archive.org/web/20240524170412id_/https://www.facebook.com/AsharqNewsSYR/posts/pfbid02oE4HB8TDYfenGNgkWw37Xnh2G71FnX8zt8ZV8g9gHZpt8GzZyzdXdcQsBoe3qe2wl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Alsharq syria",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "3b6ea0797f1e38acac26af2b12140c8237619486f2acbe17301d0e3a320768d8",
+  "content_variants": [
+    {
+      "bytes": 642,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:34:16+00:00",
+      "sha256": "3b6ea0797f1e38acac26af2b12140c8237619486f2acbe17301d0e3a320768d8",
+      "source_url": "https://web.archive.org/web/20240524170412id_/https://www.facebook.com/AsharqNewsSYR/posts/pfbid02oE4HB8TDYfenGNgkWw37Xnh2G71FnX8zt8ZV8g9gHZpt8GzZyzdXdcQsBoe3qe2wl",
+      "text": "قتل خمسة مدنيين من عائلة واحدة، بينهم امرأة مسنة مقعدة وأبناؤها الأربعة (شابان وامرأتان)، وأصيبت امرأة أخرى، بعد منتصف الليلة الماضية، جراء قصف صاروخي...\n\nقتل خمسة مدنيين من عائلة واحدة، بينهم امرأة مسنة مقعدة وأبناؤها الأربعة (شابان وامرأتان)، وأصيبت امرأة أخرى، بعد منتصف الليلة الماضية، جراء قصف صاروخي لقوات حكومة #دمشق، استهدف منزلاً سكنياً شمالي..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:34:16+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:34:16+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524170412id_/https://www.facebook.com/AsharqNewsSYR/posts/pfbid02oE4HB8TDYfenGNgkWw37Xnh2G71FnX8zt8ZV8g9gHZpt8GzZyzdXdcQsBoe3qe2wl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524170412id_/https://www.facebook.com/AsharqNewsSYR/posts/pfbid02oE4HB8TDYfenGNgkWw37Xnh2G71FnX8zt8ZV8g9gHZpt8GzZyzdXdcQsBoe3qe2wl",
   "incident_ids": [
     "airwars-103889"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/AsharqNewsSYR/posts/pfbid02oE4HB8TDYfenGNgkWw37Xnh2G71FnX8zt8ZV8g9gHZpt8GzZyzdXdcQsBoe3qe2wl"
   ],
   "original_url": "https://www.facebook.com/AsharqNewsSYR/posts/pfbid02oE4HB8TDYfenGNgkWw37Xnh2G71FnX8zt8ZV8g9gHZpt8GzZyzdXdcQsBoe3qe2wl",
-  "page_title": "",
+  "page_title": "الشرق للأخبار - سوريا الشرق للأخبار - سوريا قتل خمسة مدنيين من عائلة واحدة،... - الشرق للأخبار - سوريا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4816-october-4-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:34:16+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-74eb71019e8c8c3bf70766b2",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/AsharqNewsSYR/posts/pfbid02oE4HB8TDYfenGNgkWw37Xnh2G71FnX8zt8ZV8g9gHZpt8GzZyzdXdcQsBoe3qe2wl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قتل خمسة مدنيين من عائلة واحدة، بينهم امرأة مسنة مقعدة وأبناؤها الأربعة (شابان وامرأتان)، وأصيبت امرأة أخرى، بعد منتصف الليلة الماضية، جراء قصف صاروخي...\n\nقتل خمسة مدنيين من عائلة واحدة، بينهم امرأة مسنة مقعدة وأبناؤها الأربعة (شابان وامرأتان)، وأصيبت امرأة أخرى، بعد منتصف الليلة الماضية، جراء قصف صاروخي لقوات حكومة #دمشق، استهدف منزلاً سكنياً شمالي...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

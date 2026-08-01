@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/dcSAT"
+    "https://archive.md/dcSAT",
+    "https://web.archive.org/web/20211108101757id_/https://twitter.com/khalediskef/status/1457653542735466496"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@khalediskef",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ddb81991dec68914856fe9793214b53c7d6698215c0d95b2fcec122a3ad6f54b",
+  "content_variants": [
+    {
+      "bytes": 499,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:28:28+00:00",
+      "sha256": "ddb81991dec68914856fe9793214b53c7d6698215c0d95b2fcec122a3ad6f54b",
+      "source_url": "https://web.archive.org/web/20211108101757id_/https://twitter.com/khalediskef/status/1457653542735466496",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nمقتل الشاب \"عبود النهار\" برصاص قوات الاحتلال #الأمريكي و #قسد، واعتقال أخويه \"فهد وسليمان النهار\" خلال عملية مداهمة لمنزل في بلدة #الصبحة شرقي #ديرالزور مساء أمس.\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:28:26+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:28:28+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211108101757id_/https://twitter.com/khalediskef/status/1457653542735466496"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211108101757id_/https://twitter.com/khalediskef/status/1457653542735466496",
   "incident_ids": [
     "airwars-79929"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/khalediskef/status/1457653542735466496"
   ],
   "original_url": "https://twitter.com/khalediskef/status/1457653542735466496",
-  "page_title": "",
+  "page_title": "خالد اسكيف on Twitter: \"مقتل الشاب \"عبود النهار\" برصاص قوات الاحتلال #الأمريكي و #قسد، واعتقال أخويه \"فهد وسليمان النهار\" خلال عملية مداهمة لمنزل في بلدة #الصبحة شرقي #ديرالزور مساء أمس.\" خالد اسكيف on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1970-november-8-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:28:28+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-56605d2b556b5f4dbbd9f202",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/khalediskef/status/1457653542735466496",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nمقتل الشاب \"عبود النهار\" برصاص قوات الاحتلال #الأمريكي و #قسد، واعتقال أخويه \"فهد وسليمان النهار\" خلال عملية مداهمة لمنزل في بلدة #الصبحة شرقي #ديرالزور مساء أمس.\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

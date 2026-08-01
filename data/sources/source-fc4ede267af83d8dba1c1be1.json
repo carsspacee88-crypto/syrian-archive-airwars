@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/zLIgf"
+    "https://archive.is/zLIgf",
+    "https://web.archive.org/web/20220319025036id_/https://twitter.com/OrientNews/status/1493603847985668097"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@OrientNews",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "9b19d5eac42ddd26c8cf99323cafc308bc023aa8f4506788344f130ab318ae21",
+  "content_variants": [
+    {
+      "bytes": 264,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:51:43+00:00",
+      "sha256": "9b19d5eac42ddd26c8cf99323cafc308bc023aa8f4506788344f130ab318ae21",
+      "source_url": "https://web.archive.org/web/20220319025036id_/https://twitter.com/OrientNews/status/1493603847985668097",
+      "text": "ConversationOrient أورينت@OrientNewsمراسل #أورينت ينقل اللحظات الأولى بعد قصف ميليشيا #قسد مدينة #إعزاز شمال #حلب\n#Orient1:33890 views3:11 PM · Feb 15, 2022·Twitter Media Studio3 Retweets12 Likes"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:51:43+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:51:43+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220319025036id_/https://twitter.com/OrientNews/status/1493603847985668097"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220319025036id_/https://twitter.com/OrientNews/status/1493603847985668097",
   "incident_ids": [
     "airwars-81952"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/OrientNews/status/1493603847985668097"
   ],
   "original_url": "https://twitter.com/OrientNews/status/1493603847985668097",
-  "page_title": "",
+  "page_title": "Orient أورينت on Twitter Orient أورينت on Twitter: \"مراسل #أورينت ينقل اللحظات الأولى بعد قصف ميليشيا #قسد مدينة #إعزاز شمال #حلب\n#Orient https://t.co/GYTc9ROVLE\" / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys125-february-15-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:51:43+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-fc4ede267af83d8dba1c1be1",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/OrientNews/status/1493603847985668097",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ConversationOrient أورينت@OrientNewsمراسل #أورينت ينقل اللحظات الأولى بعد قصف ميليشيا #قسد مدينة #إعزاز شمال #حلب\n#Orient1:33890 views3:11 PM · Feb 15, 2022·Twitter Media Studio3 Retweets12 Likes",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

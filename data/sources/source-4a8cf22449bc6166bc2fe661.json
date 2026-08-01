@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/LjySS"
+    "https://archive.ph/LjySS",
+    "https://web.archive.org/web/20250523112326id_/https://npasyria.com/en/82358/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "4a4862c7aba6a1c92a6f425c265161d5cd25868ae93a5c7f7ffb46faadd6b80a",
+  "content_variants": [
+    {
+      "bytes": 3644,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:26:42+00:00",
+      "sha256": "4a4862c7aba6a1c92a6f425c265161d5cd25868ae93a5c7f7ffb46faadd6b80a",
+      "source_url": "https://web.archive.org/web/20250523112326id_/https://npasyria.com/en/82358/",
+      "text": "AANES reveals details of Turkish strike killed 4 girls in NE Syria\n\nQAMISHLI, Syria (North Press) – Education Board of the Autonomous Administration of North and East Syria (AANES) revealed on Saturday the details of a Turkish drone strike that killed four girls in a UN-affiliated education center two days ago in the city of Hasakah, northeast Syria.\n\nOn August 18, a drone targeted a UN center in a village on the road between the city of Hasakah and the town of Tel Tamr in northeast Syria. A day later, the AANES said that the attack was conducted by a Turkish drone.\n\nEyewitnesses said then that ambulances transferred the injured to Hasakah hospitals.\n\nThe village of Shamoka, home to the UN center, lies some 50 km from the Turkish border, making it the first target attacked by Turkey outside its planned 30-km safe zone in northern Syria.\n\nThe Turkish safe zone is an area 30-35 km (19-22 miles) deep into Syrian territory that Turkey started establishing in 2019 to house Syrian refugees in an area along its border with Syria, as well as to keep it free from the Syrian Democratic Forces (SDF), which it regards as terrorists.\n\nShamoka is some kilometers from largest bases of the US-led Global Coalition to Defeat ISIS, as well as being a home to radar systems and US officers.\n\nTurkish escalation and US-Syria condemnation\n\n“Turkey escalated its military operations against the AANES-held areas after the recent talks Turkey’s President held with regional and global parties,” according to the AANES statement.\n\nThe attack is not the first of its kind, as the “Turkish drones” hover freely in the Syrian airspace, striking from time to time targets that Ankara claims are “a threat to its national security.”\n\nA security source told North Press that a patrol of the Coalition was conducted in the spot of the attack earlier.\n\nThe US-led Coalition did not mention the perpetrator or rather averted being named, as local believe.\n\nMaj. Gen. John Brennan, the commander of Combined Joint Task Force – Operation Inherent Resolve (CJTF-OIR), said in a statement on August 18, “An armed unmanned aerial system struck a group of teenaged girls playing volleyball who were active in a United Nations educational outreach program in Hasakah.”\n\nThe major general condemned the attack and called for an “immediate de-escalation from all parties and an end to activities that put at risk the significant battlefield gains the coalition has made against ISIS.”\n\nOn Wednesday, the UN Resident and Humanitarian Coordinator for Syria Imran Riza expressed his concern for the recent spike in military escalation in northern Syria which resulted in civilian casualties.\n\nThe Education Board, in its Saturday’s statement, revealed the identities of those killed in the strike on the UN-affiliated center.\n\nAccording to the AANES statement, each of “Rania Atta, Zozan Zidane, Dilan Ezzadin, and Diana Alo” lost their lives in the assault.\n\nThe Education Board of the AANES said that the center was formed according to an official document signed between the UN and the SDF, which obligated the latter to remove minors from its ranks.\n\nPrior to entering the center, the girls were serving in the Women’s Protection Units (YPJ) – affiliated with the SDF – but after the UN-SDF agreement, they were excluded from the YPJ and sent to the center which worked to rehabilitate them and reintegrate them into society, the Board added.\n\nThe Education Board attached a video with the statement, in which one of the girls appears wearing a karate uniform, while another appears planting a tree.\n\nReporting by Hosheng Hassan"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:26:42+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:26:42+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250523112326id_/https://npasyria.com/en/82358/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250523112326id_/https://npasyria.com/en/82358/",
   "incident_ids": [
     "airwars-84467"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/82358/"
   ],
   "original_url": "https://npasyria.com/en/82358/",
-  "page_title": "",
+  "page_title": "AANES reveals details of Turkish strike killed 4 girls in NE Syria - North press agency AANES reveals details of Turkish strike killed 4 girls in NE Syria - North press agency AANES reveals details of Turkish strike killed 4 girls in NE Syria - North press agency AANES reveals details of Turkish strike killed 4 girls in NE Syria - North press agency AANES reveals details of Turkish strike killed 4 girls in NE Syria - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts550-august-19-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:26:42+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4a8cf22449bc6166bc2fe661",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/82358/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "AANES reveals details of Turkish strike killed 4 girls in NE Syria\n\nQAMISHLI, Syria (North Press) – Education Board of the Autonomous Administration of North and East Syria (AANES) revealed on Saturday the details of a Turkish drone strike that killed four girls in a UN-affiliated education center two days ago in the city of Hasakah, northeast Syria.\n\nOn August 18, a drone targeted a UN center in a village on the road between the city of Hasakah and the town of Tel Tamr in northeast Syria. A day later, the AANES said that the attack was conducted by a Turkish drone.\n\nEyewitnesses said then that ambulances transferred the injured to Hasakah hospitals.\n\nThe village of Shamoka, home to the UN center, lies some 50 km from the Turkish border, making it the first target attacked by Turkey outside its planned 30-km safe zone in northern Syria.\n\nThe Turkish safe zone is an area 30-35 km (19-22 miles) deep into Syrian territory that Turkey started establishing in 2019 to house Syrian refugees in an area along its border with Syria, as well as to keep it free from the Syrian Democratic Forces (SDF), which it regards as terrorists.\n\nShamoka is some kilometers from largest bases of the US-led Global Coalition to Defeat ISIS, as well as being a home to radar systems and US officers.\n\nTurkish escalation and US-Syria condemnation\n\n“Turkey escalated its military operations against the AANES-held areas after the recent talks Turkey’s President held with regional and global parties,” according to the AANES statement.\n\nThe attack is not the first of its kind, as the “Turkish drones” hover freely in the Syrian airspace, striking from time to time targets that Ankara claims are “a threat to its national security.”\n\nA security source told North Press that a patrol of the Coalition was conducted in the spot of the attack earlier.\n\nThe US-led Coalition did not mention the perpetrator or rather averted being named, as local believe.\n\nMaj. Gen. John Brennan, the commander of Combined Joint Task Force – Operation Inherent Resolve (CJTF-OIR), said in a statement on August 18, “An armed unmanned aerial system struck a group of teenaged girls playing volleyball who were active in a United Nations educational outreach program in Hasakah.”\n\nThe major general condemned the attack and called for an “immediate de-escalation from all parties and an end to activities that put at risk the significant battlefield gains the coalition has made against ISIS.”\n\nOn Wednesday, the UN Resident and Humanitarian Coordinator for Syria Imran Riza expressed his concern for the recent spike in military escalation in northern Syria which resulted in civilian casualties.\n\nThe Education Board, in its Saturday’s statement, revealed the identities of those killed in the strike on the UN-affiliated center.\n\nAccording to the AANES statement, each of “Rania Atta, Zozan Zidane, Dilan Ezzadin, and Diana Alo” lost their lives in the assault.\n\nThe Education Board of the AANES said that the center was formed according to an official document signed between the UN and the SDF, which obligated the latter to remove minors from its ranks.\n\nPrior to entering the center, the girls were serving in the Women’s Protection Units (YPJ) – affiliated with the SDF – but after the UN-SDF agreement, they were excluded from the YPJ and sent to the center which worked to rehabilitate them and reintegrate them into society, the Board added.\n\nThe Education Board attached a video with the statement, in which one of the girls appears wearing a karate uniform, while another appears planting a tree.\n\nReporting by Hosheng Hassan",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/cKxvV"
+    "https://archive.is/cKxvV",
+    "https://web.archive.org/web/20211128112726id_/https://almohrarmedia.net/2021/08/26/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1%D9%8F-%D8%A8%D9%82%D8%B5%D9%81%D9%90-%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7%D8%AA%D9%90-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF%D9%90-%D8%B9%D9%84%D9%89-%D8%B7%D9%81%D8%B3/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Al Moharar Media",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0917932d075b7378dc04adeee4e136a2c9517436878101e975c45e11622d12b9",
+  "content_variants": [
+    {
+      "bytes": 1906,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:48:24+00:00",
+      "sha256": "0917932d075b7378dc04adeee4e136a2c9517436878101e975c45e11622d12b9",
+      "source_url": "https://web.archive.org/web/20211128112726id_/https://almohrarmedia.net/2021/08/26/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1%D9%8F-%D8%A8%D9%82%D8%B5%D9%81%D9%90-%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7%D8%AA%D9%90-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF%D9%90-%D8%B9%D9%84%D9%89-%D8%B7%D9%81%D8%B3/",
+      "text": "استُشهدت امرأتان وأصيب عددٌ من المدنيين جرّاءَ قصفٍ صاروخي ومدفعي مصدرُه ميليشيات الفرقة الرابعة، استهدف أحياءَ مدينة طفس بريف درعا الغربي.\n\nفي حيث أظهرت مقاطع فيديو نشرها ناشطون شدّة القصف الذي تعرّضت له أحياء مدينة طفس ، لترتقي شهيدتان، وأكثر من خمسة جرحى.\n\nفي حين يحذّر ناشطون من تكرار سيناريو” درعا البلد” في مدينة طفس، إذ تعتبرها ميليشيات الأسد هدفاً ثانياً لها، لا سيما أنَّ ميليشيات النظام لم تدخلها منذ أنْ سيطرت على المحافظة عام 2018، نظراً لوجود مقاتلين من أبناء المدينة يرفضون دخولَ أيِّ قوات أو ميليشيات عسكرية تابعة للنظام، بحسب تقرير لشبكة شام\n\nيُذكر أنَّ قوات الأسد استقدمت تعزيزات عسكرية ضخمة خلال الثلاثة أيام الماضية إلى ريف درعا الغربي، ومحيط مدينة طفس، في ظلِّ مخاوفَ من تكرار سيناريو درعا البلد.\n\nمقالات ذات صلة\n\nحقوقيونَ يحذّرونَ عائلاتِ المعتقلينَ بسجونِ نظامِ الأسدِ من الوقوعِ ضحيّةَ الاحتيالِ والابتزازِ\n\nالجيشُ الوطني يصدُّ محاولةَ تقدّمٍ لـ”قسدٍ” بريفِ الحسكةِ\n\nقتلى وجرحى باشتباكاتٍ بينَ قواتِ الأسدِ والميليشياتِ الإيرانيةِ في ريفِ حلبَ\n\nالجيشُ الوطنيُّ يطالبُ عناصرَ “قسد” برمي السلاحِ\n\nاترك تعليقاً إلغاء الرد"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:48:23+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:48:24+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211128112726id_/https://almohrarmedia.net/2021/08/26/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1%D9%8F-%D8%A8%D9%82%D8%B5%D9%81%D9%90-%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7%D8%AA%D9%90-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF%D9%90-%D8%B9%D9%84%D9%89-%D8%B7%D9%81%D8%B3/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211128112726id_/https://almohrarmedia.net/2021/08/26/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1%D9%8F-%D8%A8%D9%82%D8%B5%D9%81%D9%90-%D9%85%D9%8A%D9%84%D9%8A%D8%B4%D9%8A%D8%A7%D8%AA%D9%90-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF%D9%90-%D8%B9%D9%84%D9%89-%D8%B7%D9%81%D8%B3/",
   "incident_ids": [
     "airwars-77765"
   ],
@@ -85,10 +109,10 @@
     "https://almohrarmedia.net/2021/08/26/%d8%b4%d9%87%d8%af%d8%a7%d8%a1%d9%8f-%d8%a8%d9%82%d8%b5%d9%81%d9%90-%d9%85%d9%8a%d9%84%d9%8a%d8%b4%d9%8a%d8%a7%d8%aa%d9%90-%d8%a7%d9%84%d8%a3%d8%b3%d8%af%d9%90-%d8%b9%d9%84%d9%89-%d8%b7%d9%81%d8%b3/"
   ],
   "original_url": "https://almohrarmedia.net/2021/08/26/%d8%b4%d9%87%d8%af%d8%a7%d8%a1%d9%8f-%d8%a8%d9%82%d8%b5%d9%81%d9%90-%d9%85%d9%8a%d9%84%d9%8a%d8%b4%d9%8a%d8%a7%d8%aa%d9%90-%d8%a7%d9%84%d8%a3%d8%b3%d8%af%d9%90-%d8%b9%d9%84%d9%89-%d8%b7%d9%81%d8%b3/",
-  "page_title": "",
+  "page_title": "شهداءُ بقصفِ ميليشياتِ الأسدِ على طفس بريفِ درعا شهداءُ بقصفِ ميليشياتِ الأسدِ على طفس بريفِ درعا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4634-august-26-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:48:24+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e65064a180358575de0aa163",
   "source_type": "news_article",
   "stable_id_basis": "https://almohrarmedia.net/2021/08/26/%d8%b4%d9%87%d8%af%d8%a7%d8%a1%d9%8f-%d8%a8%d9%82%d8%b5%d9%81%d9%90-%d9%85%d9%8a%d9%84%d9%8a%d8%b4%d9%8a%d8%a7%d8%aa%d9%90-%d8%a7%d9%84%d8%a3%d8%b3%d8%af%d9%90-%d8%b9%d9%84%d9%89-%d8%b7%d9%81%d8%b3/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "استُشهدت امرأتان وأصيب عددٌ من المدنيين جرّاءَ قصفٍ صاروخي ومدفعي مصدرُه ميليشيات الفرقة الرابعة، استهدف أحياءَ مدينة طفس بريف درعا الغربي.\n\nفي حيث أظهرت مقاطع فيديو نشرها ناشطون شدّة القصف الذي تعرّضت له أحياء مدينة طفس ، لترتقي شهيدتان، وأكثر من خمسة جرحى.\n\nفي حين يحذّر ناشطون من تكرار سيناريو” درعا البلد” في مدينة طفس، إذ تعتبرها ميليشيات الأسد هدفاً ثانياً لها، لا سيما أنَّ ميليشيات النظام لم تدخلها منذ أنْ سيطرت على المحافظة عام 2018، نظراً لوجود مقاتلين من أبناء المدينة يرفضون دخولَ أيِّ قوات أو ميليشيات عسكرية تابعة للنظام، بحسب تقرير لشبكة شام\n\nيُذكر أنَّ قوات الأسد استقدمت تعزيزات عسكرية ضخمة خلال الثلاثة أيام الماضية إلى ريف درعا الغربي، ومحيط مدينة طفس، في ظلِّ مخاوفَ من تكرار سيناريو درعا البلد.\n\nمقالات ذات صلة\n\nحقوقيونَ يحذّرونَ عائلاتِ المعتقلينَ بسجونِ نظامِ الأسدِ من الوقوعِ ضحيّةَ الاحتيالِ والابتزازِ\n\nالجيشُ الوطني يصدُّ محاولةَ تقدّمٍ لـ”قسدٍ” بريفِ الحسكةِ\n\nقتلى وجرحى باشتباكاتٍ بينَ قواتِ الأسدِ والميليشياتِ الإيرانيةِ في ريفِ حلبَ\n\nالجيشُ الوطنيُّ يطالبُ عناصرَ “قسد” برمي السلاحِ\n\nاترك تعليقاً إلغاء الرد",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

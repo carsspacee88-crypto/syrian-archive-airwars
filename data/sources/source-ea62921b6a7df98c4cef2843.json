@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/wB7Iu"
+    "https://archive.is/wB7Iu",
+    "https://web.archive.org/web/20240524165634id_/https://www.facebook.com/anasalabe9dd/posts/pfbid05JPk5Wf9LRFYy6HE9RGWwrzLLkXjG4GDWrHGvVEM5QEFfyriAGUtKFH9Dqf7fAHul"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Anas Al-Abd",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2fbc28b82af25e5c5789a749fde05a4dbbeffb240fe18bc498f8b8b0c47868ef",
+  "content_variants": [
+    {
+      "bytes": 261,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:50:20+00:00",
+      "sha256": "2fbc28b82af25e5c5789a749fde05a4dbbeffb240fe18bc498f8b8b0c47868ef",
+      "source_url": "https://web.archive.org/web/20240524165634id_/https://www.facebook.com/anasalabe9dd/posts/pfbid05JPk5Wf9LRFYy6HE9RGWwrzLLkXjG4GDWrHGvVEM5QEFfyriAGUtKFH9Dqf7fAHul",
+      "text": "آثار الدمار الذي خلفته الغارات الجوية الروسية على قرية جفتلك حج حمود في ريف إدلب الغربي، والذي أدى لاستشهاد طفل وإصابة طفلين شقيقين بجروح خطرة."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:50:18+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:50:20+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524165634id_/https://www.facebook.com/anasalabe9dd/posts/pfbid05JPk5Wf9LRFYy6HE9RGWwrzLLkXjG4GDWrHGvVEM5QEFfyriAGUtKFH9Dqf7fAHul"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524165634id_/https://www.facebook.com/anasalabe9dd/posts/pfbid05JPk5Wf9LRFYy6HE9RGWwrzLLkXjG4GDWrHGvVEM5QEFfyriAGUtKFH9Dqf7fAHul",
   "incident_ids": [
     "airwars-105906"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/anasalabe9dd/posts/pfbid05JPk5Wf9LRFYy6HE9RGWwrzLLkXjG4GDWrHGvVEM5QEFfyriAGUtKFH9Dqf7fAHul"
   ],
   "original_url": "https://www.facebook.com/anasalabe9dd/posts/pfbid05JPk5Wf9LRFYy6HE9RGWwrzLLkXjG4GDWrHGvVEM5QEFfyriAGUtKFH9Dqf7fAHul",
-  "page_title": "",
+  "page_title": "أنس العبد - Anas Al Abed أنس العبد - Anas Al Abed آثار الدمار الذي خلفته الغارات... - أنس العبد - Anas Al Abed",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4829-october-6-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:50:20+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ea62921b6a7df98c4cef2843",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/anasalabe9dd/posts/pfbid05JPk5Wf9LRFYy6HE9RGWwrzLLkXjG4GDWrHGvVEM5QEFfyriAGUtKFH9Dqf7fAHul",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "آثار الدمار الذي خلفته الغارات الجوية الروسية على قرية جفتلك حج حمود في ريف إدلب الغربي، والذي أدى لاستشهاد طفل وإصابة طفلين شقيقين بجروح خطرة.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

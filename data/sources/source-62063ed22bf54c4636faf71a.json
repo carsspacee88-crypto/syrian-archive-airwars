@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/93K7z"
+    "https://archive.ph/93K7z",
+    "https://web.archive.org/web/20231205063335id_/https://www.syriahr.com/en/303511/?fbclid=IwAR2g3_r-m31qJxvPufzGzCVGKhD2nPHPHx4QWyDoUHqaZB7tceANNkecpio"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "43d831dcbf15af54f802753b12b92b45a05c6007b27cef20a8581367b7ab1bc8",
+  "content_variants": [
+    {
+      "bytes": 2509,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:30:45+00:00",
+      "sha256": "43d831dcbf15af54f802753b12b92b45a05c6007b27cef20a8581367b7ab1bc8",
+      "source_url": "https://web.archive.org/web/20231205063335id_/https://www.syriahr.com/en/303511/?fbclid=IwAR2g3_r-m31qJxvPufzGzCVGKhD2nPHPHx4QWyDoUHqaZB7tceANNkecpio",
+      "text": "Dea*th toll update | Two children and three members of Turkish-backed police kil*led in factional cla*shes\n\nAl-Hasakah province: An 11 years-old child died affected by the wounds he sustained during factional clashes in Ras Al-Ain City in Al-Hasakah countryside within “Peace Spring” areas.\n\nSOHR sources have documented that a spike in the member of casualties due to armed clashes erupted between members of military police and members of “Al-Sultan Murad” near Al-Qaws checkpoint at the entrance of Ras Al-Ain city within “Peace Spring” area northwestern of Al-Hasakah. According to the SOHR sources, two children and a three members of military police including a minor were killed, and seven others injured including a woman, some seriously, which may raise the number of fatalities.\n\nSOHR sources reported today, that clashes with heavy and medium weapons erupted today, between civil police and “Al-Sultan Murad” faction at Al-Qaws checkpoint at the entrance of Ras Al-Ain city within “Peace Spring” area northwest of Al-Hasakah, due to a quarrel on the checkpoint and preventing members of the faction to cross, insisting on searching them and preventing the crossing of “smuggling” passengers with the same faction into Ras Al-Ain city.\nAccording to SOHR sources, a 9-years-old child was killed, and his mother, another child and three civilians were severely injured, while they were near the place of the clash. Clashes also resulted in the injury of two members of “Al-Sultan Murad” faction, where the injured people were taken to the Turkish hospitals due to their critical situation.\nOn July 2, SOHR reported that a civilian and a member of “Al-Hamzah” Division were injured due to an attack carried out by members of “Al-Hanzah” Division on farmers while they were watering their farms in Ain Al-Hesan suburb in Ras Al-Ain countryside in north-western Al-Hasakah within “Peace Spring” area.\n\nPrev Post\n\nMilitary mobilization | Jaish Al-Sharqiyah gathers in Al-Bab demanding the release of dr*ug dea*lers\n\nNext Post\n\nRenewal of vendetta | Tribal infi*ghting erupts leaving one person kil*led in Al-Qamishly\n\nTo reinforce military bases | Second US cargo plane lands in Kharab Al-Jeir Base…\n\nIS*IS ambush | Six members of Iran-backed militias kil*led on road between Palmyra…\n\nAl-Hasakah | “International Coalition” forces conduct routine patrol in countryside\n\n“Putin-Erdogan” area | Two members of regime forces kil*led on frontlines of Idlib"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:30:45+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:30:45+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231205063335id_/https://www.syriahr.com/en/303511/?fbclid=IwAR2g3_r-m31qJxvPufzGzCVGKhD2nPHPHx4QWyDoUHqaZB7tceANNkecpio"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231205063335id_/https://www.syriahr.com/en/303511/?fbclid=IwAR2g3_r-m31qJxvPufzGzCVGKhD2nPHPHx4QWyDoUHqaZB7tceANNkecpio",
   "incident_ids": [
     "airwars-91696"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/303511/?fbclid=IwAR2g3_r-m31qJxvPufzGzCVGKhD2nPHPHx4QWyDoUHqaZB7tceANNkecpio"
   ],
   "original_url": "https://www.syriahr.com/en/303511/?fbclid=IwAR2g3_r-m31qJxvPufzGzCVGKhD2nPHPHx4QWyDoUHqaZB7tceANNkecpio",
-  "page_title": "",
+  "page_title": "Dea*th toll update | Two children and three members of Turkish-backed police kil*led in factional cla*shes - The Syrian Observatory For Human Rights Dea*th toll update | Two children and three members of Turkish-backed police kil*led in factional cla*shes - The Syrian Observatory For Human Rights Dea*th toll update | Two children and three members of Turkish-backed police kil*led in factional cla*shes - The Syrian Observatory For Human Rights Dea*th toll update | Two children and three members of Turkish-backed police kil*led in factional cla*shes Dea*th toll update | Two children and three members of Turkish-backed police kil*led in factional cla*shes",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts608-july-5-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:30:45+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-62063ed22bf54c4636faf71a",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/303511/?fbclid=IwAR2g3_r-m31qJxvPufzGzCVGKhD2nPHPHx4QWyDoUHqaZB7tceANNkecpio",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Dea*th toll update | Two children and three members of Turkish-backed police kil*led in factional cla*shes\n\nAl-Hasakah province: An 11 years-old child died affected by the wounds he sustained during factional clashes in Ras Al-Ain City in Al-Hasakah countryside within “Peace Spring” areas.\n\nSOHR sources have documented that a spike in the member of casualties due to armed clashes erupted between members of military police and members of “Al-Sultan Murad” near Al-Qaws checkpoint at the entrance of Ras Al-Ain city within “Peace Spring” area northwestern of Al-Hasakah. According to the SOHR sources, two children and a three members of military police including a minor were killed, and seven others injured including a woman, some seriously, which may raise the number of fatalities.\n\nSOHR sources reported today, that clashes with heavy and medium weapons erupted today, between civil police and “Al-Sultan Murad” faction at Al-Qaws checkpoint at the entrance of Ras Al-Ain city within “Peace Spring” area northwest of Al-Hasakah, due to a quarrel on the checkpoint and preventing members of the faction to cross, insisting on searching them and preventing the crossing of “smuggling” passengers with the same faction into Ras Al-Ain city.\nAccording to SOHR sources, a 9-years-old child was killed, and his mother, another child and three civilians were severely injured, while they were near the place of the clash. Clashes also resulted in the injury of two members of “Al-Sultan Murad” faction, where the injured people were taken to the Turkish hospitals due to their critical situation.\nOn July 2, SOHR reported that a civilian and a member of “Al-Hamzah” Division were injured due to an attack carried out by members of “Al-Hanzah” Division on farmers while they were watering their farms in Ain Al-Hesan suburb in Ras Al-Ain countryside in north-western Al-Hasakah within “Peace Spring” area.\n\nPrev Post\n\nMilitary mobilization | Jaish Al-Sharqiyah gathers in Al-Bab demanding the release of dr*ug dea*lers\n\nNext Post\n\nRenewal of vendetta | Tribal infi*ghting erupts leaving one person kil*led in Al-Qamishly\n\nTo reinforce military bases | Second US cargo plane lands in Kharab Al-Jeir Base…\n\nIS*IS ambush | Six members of Iran-backed militias kil*led on road between Palmyra…\n\nAl-Hasakah | “International Coalition” forces conduct routine patrol in countryside\n\n“Putin-Erdogan” area | Two members of regime forces kil*led on frontlines of Idlib",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/9TvQQ"
+    "https://archive.ph/9TvQQ",
+    "https://web.archive.org/web/20231205055051id_/https://www.syriahr.com/en/303492/?fbclid=IwAR1MLCR2iW8V-fZ6eAR-bwDJ-oXck-9biZwiJvO-11TgA1EP2B7gcv2HqJ8"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b96bf09c91000c57eccfab81fb8c298e0ba76fd629f3e5cf61a3727c93bee434",
+  "content_variants": [
+    {
+      "bytes": 1399,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:48:08+00:00",
+      "sha256": "b96bf09c91000c57eccfab81fb8c298e0ba76fd629f3e5cf61a3727c93bee434",
+      "source_url": "https://web.archive.org/web/20231205055051id_/https://www.syriahr.com/en/303492/?fbclid=IwAR1MLCR2iW8V-fZ6eAR-bwDJ-oXck-9biZwiJvO-11TgA1EP2B7gcv2HqJ8",
+      "text": "Ain Al-Arab (Kobani) | Civilians inj*ured in Turkish ground shel*ling on villages in Aleppo\n\nAleppo province: Two civilians were injured by Turkish shelling with mortar shells on Nawroz Square in south eastern of Ain Al-Arab (Kobani) City within SDF-held areas, where the injured people were taken to medical centres.\n\nMeanwhile, three shells were fired on Mamid Village southern of Ain Al-Arab (Kobani).\n\nEarlier today, Turkish forces and their proxies renewed their bombardment of SDF-held areas, weeks after cautious calm, where the bombardment concentrated on Kherbat Shaeir, Qabr Qarajnah and Sheikh Ali villages in Tel Tamer countryside northwest of Al-Hasakah. No causalities were reported.\n\nPrev Post\n\n“SOHR camera” captures the deterioration of the value of the Syrian Lira against the USD that is valued at 9,400 Syrian Lira for one USD, causing a rise in prices and paralysis in movement of the markets of Al-Raqqa\n\nNext Post\n\nPlanted by Iranian Cultural Centre | Over ten young men tasked with “spying missions” in Deir Ezzor city\n\nTo reinforce military bases | Second US cargo plane lands in Kharab Al-Jeir Base…\n\nIS*IS ambush | Six members of Iran-backed militias kil*led on road between Palmyra…\n\nAl-Hasakah | “International Coalition” forces conduct routine patrol in countryside\n\n“Putin-Erdogan” area | Two members of regime forces kil*led on frontlines of Idlib"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:48:07+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:48:08+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231205055051id_/https://www.syriahr.com/en/303492/?fbclid=IwAR1MLCR2iW8V-fZ6eAR-bwDJ-oXck-9biZwiJvO-11TgA1EP2B7gcv2HqJ8"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231205055051id_/https://www.syriahr.com/en/303492/?fbclid=IwAR1MLCR2iW8V-fZ6eAR-bwDJ-oXck-9biZwiJvO-11TgA1EP2B7gcv2HqJ8",
   "incident_ids": [
     "airwars-91699"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/303492/?fbclid=IwAR1MLCR2iW8V-fZ6eAR-bwDJ-oXck-9biZwiJvO-11TgA1EP2B7gcv2HqJ8"
   ],
   "original_url": "https://www.syriahr.com/en/303492/?fbclid=IwAR1MLCR2iW8V-fZ6eAR-bwDJ-oXck-9biZwiJvO-11TgA1EP2B7gcv2HqJ8",
-  "page_title": "",
+  "page_title": "Ain Al-Arab (Kobani) | Civilians inj*ured in Turkish ground shel*ling on villages in Aleppo - The Syrian Observatory For Human Rights Ain Al-Arab (Kobani) | Civilians inj*ured in Turkish ground shel*ling on villages in Aleppo - The Syrian Observatory For Human Rights Ain Al-Arab (Kobani) | Civilians inj*ured in Turkish ground shel*ling on villages in Aleppo - The Syrian Observatory For Human Rights Ain Al-Arab (Kobani) | Civilians inj*ured in Turkish ground shel*ling on villages in Aleppo Ain Al-Arab (Kobani) | Civilians inj*ured in Turkish ground shel*ling on villages in Aleppo",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts609-july-5-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:48:08+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e270116723801d3dfa4f419b",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/303492/?fbclid=IwAR1MLCR2iW8V-fZ6eAR-bwDJ-oXck-9biZwiJvO-11TgA1EP2B7gcv2HqJ8",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Ain Al-Arab (Kobani) | Civilians inj*ured in Turkish ground shel*ling on villages in Aleppo\n\nAleppo province: Two civilians were injured by Turkish shelling with mortar shells on Nawroz Square in south eastern of Ain Al-Arab (Kobani) City within SDF-held areas, where the injured people were taken to medical centres.\n\nMeanwhile, three shells were fired on Mamid Village southern of Ain Al-Arab (Kobani).\n\nEarlier today, Turkish forces and their proxies renewed their bombardment of SDF-held areas, weeks after cautious calm, where the bombardment concentrated on Kherbat Shaeir, Qabr Qarajnah and Sheikh Ali villages in Tel Tamer countryside northwest of Al-Hasakah. No causalities were reported.\n\nPrev Post\n\n“SOHR camera” captures the deterioration of the value of the Syrian Lira against the USD that is valued at 9,400 Syrian Lira for one USD, causing a rise in prices and paralysis in movement of the markets of Al-Raqqa\n\nNext Post\n\nPlanted by Iranian Cultural Centre | Over ten young men tasked with “spying missions” in Deir Ezzor city\n\nTo reinforce military bases | Second US cargo plane lands in Kharab Al-Jeir Base…\n\nIS*IS ambush | Six members of Iran-backed militias kil*led on road between Palmyra…\n\nAl-Hasakah | “International Coalition” forces conduct routine patrol in countryside\n\n“Putin-Erdogan” area | Two members of regime forces kil*led on frontlines of Idlib",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

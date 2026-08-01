@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/lQrRO"
+    "https://archive.is/lQrRO",
+    "https://web.archive.org/web/20210819031332id_/https://twitter.com/syrianews453/status/1428181759057924099"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@syrianews453",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "7c249780ffff3dcbcca62d28fc8ec2b529f364fead3d900d337cf8e4689e8d96",
+  "content_variants": [
+    {
+      "bytes": 542,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:24:55+00:00",
+      "sha256": "7c249780ffff3dcbcca62d28fc8ec2b529f364fead3d900d337cf8e4689e8d96",
+      "source_url": "https://web.archive.org/web/20210819031332id_/https://twitter.com/syrianews453/status/1428181759057924099",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nاستشهاد طفلة وإصابة عدد من المدنيين جراء قصف مدفعي متبادل بين مليشيا #قسد والمجموعات الارهابية المدعومة #تركياً على محور قرية #الكريدية بريف منطقة #الباب شمال شرق #حلب\n#المصدر\n#رصد\n\n1 Like\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:24:54+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:24:55+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20210819031332id_/https://twitter.com/syrianews453/status/1428181759057924099"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20210819031332id_/https://twitter.com/syrianews453/status/1428181759057924099",
   "incident_ids": [
     "airwars-77476"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/syrianews453/status/1428181759057924099"
   ],
   "original_url": "https://twitter.com/syrianews453/status/1428181759057924099",
-  "page_title": "",
+  "page_title": "سوريا للانباء on Twitter: \"استشهاد طفلة وإصابة عدد من المدنيين جراء قصف مدفعي متبادل بين مليشيا #قسد والمجموعات الارهابية المدعومة #تركياً على محور قرية #الكريدية بريف منطقة #الباب شمال شرق #حلب\n#المصدر\n#رصد\" سوريا للانباء on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys114-august-18-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:24:55+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-451abcf893e65a9c209b2cb1",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/syrianews453/status/1428181759057924099",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nاستشهاد طفلة وإصابة عدد من المدنيين جراء قصف مدفعي متبادل بين مليشيا #قسد والمجموعات الارهابية المدعومة #تركياً على محور قرية #الكريدية بريف منطقة #الباب شمال شرق #حلب\n#المصدر\n#رصد\n\n1 Like\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

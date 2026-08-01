@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/v2KwP"
+    "https://archive.ph/v2KwP",
+    "https://web.archive.org/web/20240524203346id_/https://www.facebook.com/Marblet.lens/posts/pfbid0Lb4TV9ZbthQ6zNbQuU7E9N3ZySKvXWL6rvSMgr3uT1kKKB2nbRac1qtHLrdFXyJKl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Marblet.lens",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0f1bd26001f7d734b1ed1bc0cf1e752844c19a01eacf7ca8d406655765544df6",
+  "content_variants": [
+    {
+      "bytes": 134,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:47:37+00:00",
+      "sha256": "0f1bd26001f7d734b1ed1bc0cf1e752844c19a01eacf7ca8d406655765544df6",
+      "source_url": "https://web.archive.org/web/20240524203346id_/https://www.facebook.com/Marblet.lens/posts/pfbid0Lb4TV9ZbthQ6zNbQuU7E9N3ZySKvXWL6rvSMgr3uT1kKKB2nbRac1qtHLrdFXyJKl",
+      "text": "ياسر محمد الشيخ حسين\nالعمر35 سنة\n\nاصابة بقصف ع اطراف قرية معربليت شرق أريحا"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:47:36+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:47:37+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524203346id_/https://www.facebook.com/Marblet.lens/posts/pfbid0Lb4TV9ZbthQ6zNbQuU7E9N3ZySKvXWL6rvSMgr3uT1kKKB2nbRac1qtHLrdFXyJKl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524203346id_/https://www.facebook.com/Marblet.lens/posts/pfbid0Lb4TV9ZbthQ6zNbQuU7E9N3ZySKvXWL6rvSMgr3uT1kKKB2nbRac1qtHLrdFXyJKl",
   "incident_ids": [
     "airwars-85563"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/Marblet.lens/posts/pfbid0Lb4TV9ZbthQ6zNbQuU7E9N3ZySKvXWL6rvSMgr3uT1kKKB2nbRac1qtHLrdFXyJKl"
   ],
   "original_url": "https://www.facebook.com/Marblet.lens/posts/pfbid0Lb4TV9ZbthQ6zNbQuU7E9N3ZySKvXWL6rvSMgr3uT1kKKB2nbRac1qtHLrdFXyJKl",
-  "page_title": "",
+  "page_title": "عدسة معربليت اليوم Marblet lens today عدسة معربليت اليوم Marblet lens today ياسر محمد الشيخ... - عدسة معربليت اليوم Marblet lens today",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4745-november-21-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:47:37+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-dde0c9268dedb5a67de0174e",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/Marblet.lens/posts/pfbid0Lb4TV9ZbthQ6zNbQuU7E9N3ZySKvXWL6rvSMgr3uT1kKKB2nbRac1qtHLrdFXyJKl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ياسر محمد الشيخ حسين\nالعمر35 سنة\n\nاصابة بقصف ع اطراف قرية معربليت شرق أريحا",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
