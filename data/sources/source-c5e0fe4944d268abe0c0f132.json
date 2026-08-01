@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/qJ0rL"
+    "https://archive.ph/qJ0rL",
+    "https://web.archive.org/web/20250113175608id_/https://anfarabic.com/akhr-l-khbr/b-97482"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "6fec40816acb8ef63519467034e3f2a4ee1cde4db544ec47d39509dac282ed00",
+  "content_variants": [
+    {
+      "bytes": 652,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:16:03+00:00",
+      "sha256": "6fec40816acb8ef63519467034e3f2a4ee1cde4db544ec47d39509dac282ed00",
+      "source_url": "https://web.archive.org/web/20250113175608id_/https://anfarabic.com/akhr-l-khbr/b-97482",
+      "text": "وكالة فرات\n\nالشهباء\n\nالاثنين, ٢٣ أكتوبر ٢٠٢٣, ٢٣:٢٩\n\nواكدت مراسلتنا من المنطقة بأن قصف الاحتلال التركي ومرتزقته لقرية الشيخ عيسى التابعة لناحية تل رفعت في مقاطعة عفرين والشهباء، تسبب بإصابة المواطنة سميرة خالد عيسى والحق إضراراً مادية بمنازل وممتلكات أهل القرية.\n\nهذا وقد تم نقل المواطنة سميرة خالد عيسى الى مشفى تل رفعت لتلقي العلاج. وسط استمرار عمليات القصف."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:16:03+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:16:03+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250113175608id_/https://anfarabic.com/akhr-l-khbr/b-97482"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250113175608id_/https://anfarabic.com/akhr-l-khbr/b-97482",
   "incident_ids": [
     "airwars-103491"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/akhr-l-khbr/b-97482"
   ],
   "original_url": "https://anfarabic.com/akhr-l-khbr/b-97482",
-  "page_title": "",
+  "page_title": "ANF |\nاصابة مواطنة جراء استهدف جيش الاحتلال التركي لقرية الشيخ عيسى في الشهباء اصابة مواطنة جراء استهدف جيش الاحتلال التركي لقرية الشيخ عيسى في الشهباء اصابة مواطنة جراء استهدف جيش الاحتلال التركي لقرية الشيخ عيسى في الشهباء",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts652-october-22-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:16:03+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-c5e0fe4944d268abe0c0f132",
   "source_type": "news_article",
   "stable_id_basis": "https://anfarabic.com/akhr-l-khbr/b-97482",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "وكالة فرات\n\nالشهباء\n\nالاثنين, ٢٣ أكتوبر ٢٠٢٣, ٢٣:٢٩\n\nواكدت مراسلتنا من المنطقة بأن قصف الاحتلال التركي ومرتزقته لقرية الشيخ عيسى التابعة لناحية تل رفعت في مقاطعة عفرين والشهباء، تسبب بإصابة المواطنة سميرة خالد عيسى والحق إضراراً مادية بمنازل وممتلكات أهل القرية.\n\nهذا وقد تم نقل المواطنة سميرة خالد عيسى الى مشفى تل رفعت لتلقي العلاج. وسط استمرار عمليات القصف.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

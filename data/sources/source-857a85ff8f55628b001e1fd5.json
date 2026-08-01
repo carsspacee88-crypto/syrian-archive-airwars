@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/h8spV"
+    "https://archive.is/h8spV",
+    "https://web.archive.org/web/20241013113020id_/https://npasyria.com/en/79947/?fbclid=IwAR2DKbpbhRPrnpfT4ckWqa1oGARg6dKeDwwjKO1fVJMg9-TSpJnlN8cC3hs"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "51f09ab64e13c6ba23d6469dc6662153a6cfbdf1f57ec44ed41fe709db03445e",
+  "content_variants": [
+    {
+      "bytes": 1895,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:04:41+00:00",
+      "sha256": "51f09ab64e13c6ba23d6469dc6662153a6cfbdf1f57ec44ed41fe709db03445e",
+      "source_url": "https://web.archive.org/web/20241013113020id_/https://npasyria.com/en/79947/?fbclid=IwAR2DKbpbhRPrnpfT4ckWqa1oGARg6dKeDwwjKO1fVJMg9-TSpJnlN8cC3hs",
+      "text": "Turkish shelling of Syria’s Raqqa countryside kills two people, injures two others\n\nAin Issa town, north of Raqqa - North Press\n\nQAMISHLI, Syria (North Press) – Turkish Forces and their affiliated opposition SNA factions shelled on Monday the village of Hoshan, northwest of Ain Issa town, north Syria, killing two people and injuring two others.\n\nThe media center of the Syrian Democratic Forces (SDF) said that the village of Hoshan in the western countryside of Ain Issa district, was hit with artillery shelling by the Turkish forces and the SNA.\n\nThe shelling killed two people and injured two others. The injured were transported to a hospital in the city of Ain Issa for treatment, the SDF media center added.\n\nAin Issa and its countryside as well as villages in the western countryside of Tel Abyad and other areas in northeastern Syria have been witnessing successive shelling by the Turkish forces and the affiliated SNA factions since 2019 following the so-called Peace Spring against Sere Kaniye (Ras al-Ain) and Tel Abyad.\n\nFollowing the Turkish “Peace Spring” military operation in October 2019, which resulted in the occupation of the two cities of Tel Abyad, north of Raqqa, and Sere Kaniye (Ras al-Ain), north of Hasakah, Turkey signed two ceasefire agreements, one with Russia and the other with the US.\n\nThe agreements stipulate halt of all hostilities there and the withdrawal of the SDF 30 km in depth away from the Turkish border in addition to conducting Turkish-Russian joint patrols in order to monitor the implementation of the agreements.\n\nOn June 2, a person lost his life and others were wounded by the bombing of a Turkish drone targeting the road between the town of Tel al-Saman and Ain Issa, north of Raqqa, northern Syria\n\nThe town of Ain Issa is a link among the areas of Jazira, Deir ez-Zor, Raqqa, Kobani, Manbij, and Aleppo.\n\nReporting by Adnan Hamo"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:04:39+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:04:41+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241013113020id_/https://npasyria.com/en/79947/?fbclid=IwAR2DKbpbhRPrnpfT4ckWqa1oGARg6dKeDwwjKO1fVJMg9-TSpJnlN8cC3hs"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241013113020id_/https://npasyria.com/en/79947/?fbclid=IwAR2DKbpbhRPrnpfT4ckWqa1oGARg6dKeDwwjKO1fVJMg9-TSpJnlN8cC3hs",
   "incident_ids": [
     "airwars-83955"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/79947/?fbclid=IwAR2DKbpbhRPrnpfT4ckWqa1oGARg6dKeDwwjKO1fVJMg9-TSpJnlN8cC3hs"
   ],
   "original_url": "https://npasyria.com/en/79947/?fbclid=IwAR2DKbpbhRPrnpfT4ckWqa1oGARg6dKeDwwjKO1fVJMg9-TSpJnlN8cC3hs",
-  "page_title": "",
+  "page_title": "Turkish shelling of Syria’s Raqqa countryside kills two people, injures two others - North press agency Turkish shelling of Syria’s Raqqa countryside kills two people, injures two others - North press agency Turkish shelling of Syria’s Raqqa countryside kills two people, injures two others - North press agency Turkish shelling of Syria’s Raqqa countryside kills two people, injures two others - North press agency Turkish shelling of Syria’s Raqqa countryside kills two people, injures two others - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts524-issy025-july-4-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:04:41+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-857a85ff8f55628b001e1fd5",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/79947/?fbclid=IwAR2DKbpbhRPrnpfT4ckWqa1oGARg6dKeDwwjKO1fVJMg9-TSpJnlN8cC3hs",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish shelling of Syria’s Raqqa countryside kills two people, injures two others\n\nAin Issa town, north of Raqqa - North Press\n\nQAMISHLI, Syria (North Press) – Turkish Forces and their affiliated opposition SNA factions shelled on Monday the village of Hoshan, northwest of Ain Issa town, north Syria, killing two people and injuring two others.\n\nThe media center of the Syrian Democratic Forces (SDF) said that the village of Hoshan in the western countryside of Ain Issa district, was hit with artillery shelling by the Turkish forces and the SNA.\n\nThe shelling killed two people and injured two others. The injured were transported to a hospital in the city of Ain Issa for treatment, the SDF media center added.\n\nAin Issa and its countryside as well as villages in the western countryside of Tel Abyad and other areas in northeastern Syria have been witnessing successive shelling by the Turkish forces and the affiliated SNA factions since 2019 following the so-called Peace Spring against Sere Kaniye (Ras al-Ain) and Tel Abyad.\n\nFollowing the Turkish “Peace Spring” military operation in October 2019, which resulted in the occupation of the two cities of Tel Abyad, north of Raqqa, and Sere Kaniye (Ras al-Ain), north of Hasakah, Turkey signed two ceasefire agreements, one with Russia and the other with the US.\n\nThe agreements stipulate halt of all hostilities there and the withdrawal of the SDF 30 km in depth away from the Turkish border in addition to conducting Turkish-Russian joint patrols in order to monitor the implementation of the agreements.\n\nOn June 2, a person lost his life and others were wounded by the bombing of a Turkish drone targeting the road between the town of Tel al-Saman and Ain Issa, north of Raqqa, northern Syria\n\nThe town of Ain Issa is a link among the areas of Jazira, Deir ez-Zor, Raqqa, Kobani, Manbij, and Aleppo.\n\nReporting by Adnan Hamo",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/1jARe"
+    "https://archive.is/1jARe",
+    "https://web.archive.org/web/20241208174535id_/https://www.alkhabour.com/ar/news/single/2322?fbclid=IwAR0j7OotWNedsJoxnZ7Oywn4riNYnb8YZLcRizJJvW-2po-1qNSR-udru3c"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Al Khabour",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "81e787f3b43c74acb19b0b0425f36db2ccb80029cbf1793ec9d23bc3552190e7",
+  "content_variants": [
+    {
+      "bytes": 2612,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:22:05+00:00",
+      "sha256": "81e787f3b43c74acb19b0b0425f36db2ccb80029cbf1793ec9d23bc3552190e7",
+      "source_url": "https://web.archive.org/web/20241208174535id_/https://www.alkhabour.com/ar/news/single/2322?fbclid=IwAR0j7OotWNedsJoxnZ7Oywn4riNYnb8YZLcRizJJvW-2po-1qNSR-udru3c",
+      "text": "الجيش الأميركي : مقتل اثنين من قياديي \"داعـش\" بغارة شمال سوريا\n\nالجمعة 7 تشرين الاول 2022\n\nالخابور - متابعات\n\nقالت القيادة المركزية الأميركية، أمس الخميس، إنها شنت غارة ناجحة استهدفت قياديين في تنظيم \"داعش\" شمالي سوريا.\n\nوفي بيان، أوضحت القيادة إن الغارة نفذت حوالي الساعة 6:32 مساء بالتوقيت المحلي في سوريا، ما أسفر عن مقتل كل من أبو هشم العماوي، نائب والي سوريا، ومسؤول كبير آخر في داعش مرتبط به.\n\nوتشير التقييمات الأولية إلى أنه لم يقتل أو يجرح أي مدني خلال هذه العملية، بحسب البيان.\n\nوتابع البيان \"لم تصب أو تقتل أي قوات أميركية ولم تكن هناك خسائر أو أضرار في المعدات الأميركية في تنفيذ هذه العملية.\n\nوأوضحت القيادة \"هذه الضربة ستقلل من قدرة داعش على زعزعة استقرار المنطقة وضرب قواتنا وشركائنا\".\n\nوقال الجنرال مايكل \"إريك\" كوريلا، قائد القيادة المركزية الأميركية. قواتنا تبقى في المنطقة لضمان الهزيمة الدائمة لداعش\".\n\nوفجر الخميس، نفذت القوات الأمريكية إنزال جوي في قرية ملوك سراي بريف القامشلي، أدت إلى مقتل شخص واعتقال اثنين بينهم قائد مجموعة في ميليشيا \"أنصار الأمن العسكري\" التابعة للنظام.\n\nوشنت الولايات المتحدة غارات سابقة في سوريا لاستهداف أعضاء في تنظيم \"داعش\" لكن عملية الخميس، هي أول عملية معروفة في منطقة تسيطر قوات النظام.\n\nالتاغات:\n\nسوريا\n\nالقامشلي\n\nالحسكة\n\nداعش\n\nالقوات الامريكية\n\nقيادي في داعش\n\nمشاركة:\n\n‏الخابور‏\n\nالأكثر شعبية\n\nنقاط تمركز\n\nمنازل المهجرين\n\nمقرات عسكرية\n\nقياديتين\n\nمصادرة\n\nمليون ليرة\n\nعقود زواج\n\nوفاة سيدتين\n\nمكب نفايات\n\nروائح كريهة\n\nإصابة زوجته\n\nمقتل مدني\n\nدراجات نارية\n\nجرعة زائدة\n\nحشيش\n\nYPJ\n\nرطلة\n\nاختطاف طفلة\n\nمعتقلة\n\nمسروقات"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:22:04+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:22:05+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241208174535id_/https://www.alkhabour.com/ar/news/single/2322?fbclid=IwAR0j7OotWNedsJoxnZ7Oywn4riNYnb8YZLcRizJJvW-2po-1qNSR-udru3c"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241208174535id_/https://www.alkhabour.com/ar/news/single/2322?fbclid=IwAR0j7OotWNedsJoxnZ7Oywn4riNYnb8YZLcRizJJvW-2po-1qNSR-udru3c",
   "incident_ids": [
     "airwars-85098"
   ],
@@ -85,10 +109,10 @@
     "https://www.alkhabour.com/ar/news/single/2322?fbclid=IwAR0j7OotWNedsJoxnZ7Oywn4riNYnb8YZLcRizJJvW-2po-1qNSR-udru3c"
   ],
   "original_url": "https://www.alkhabour.com/ar/news/single/2322?fbclid=IwAR0j7OotWNedsJoxnZ7Oywn4riNYnb8YZLcRizJJvW-2po-1qNSR-udru3c",
-  "page_title": "",
+  "page_title": "الخابور | الجيش الأميركي : مقتل اثنين من قياديي \"داعـش\" بغارة شمال سوريا الجيش الأميركي : مقتل اثنين من قياديي \"داعـش\" بغارة شمال سوريا - الخابور الجيش الأميركي : مقتل اثنين من قياديي \"داعـش\" بغارة شمال سوريا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1984-october-6-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:22:05+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e98dfaf8f9ed53c400a8f386",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.alkhabour.com/ar/news/single/2322?fbclid=IwAR0j7OotWNedsJoxnZ7Oywn4riNYnb8YZLcRizJJvW-2po-1qNSR-udru3c",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "en",
+  "text_original": "الجيش الأميركي : مقتل اثنين من قياديي \"داعـش\" بغارة شمال سوريا\n\nالجمعة 7 تشرين الاول 2022\n\nالخابور - متابعات\n\nقالت القيادة المركزية الأميركية، أمس الخميس، إنها شنت غارة ناجحة استهدفت قياديين في تنظيم \"داعش\" شمالي سوريا.\n\nوفي بيان، أوضحت القيادة إن الغارة نفذت حوالي الساعة 6:32 مساء بالتوقيت المحلي في سوريا، ما أسفر عن مقتل كل من أبو هشم العماوي، نائب والي سوريا، ومسؤول كبير آخر في داعش مرتبط به.\n\nوتشير التقييمات الأولية إلى أنه لم يقتل أو يجرح أي مدني خلال هذه العملية، بحسب البيان.\n\nوتابع البيان \"لم تصب أو تقتل أي قوات أميركية ولم تكن هناك خسائر أو أضرار في المعدات الأميركية في تنفيذ هذه العملية.\n\nوأوضحت القيادة \"هذه الضربة ستقلل من قدرة داعش على زعزعة استقرار المنطقة وضرب قواتنا وشركائنا\".\n\nوقال الجنرال مايكل \"إريك\" كوريلا، قائد القيادة المركزية الأميركية. قواتنا تبقى في المنطقة لضمان الهزيمة الدائمة لداعش\".\n\nوفجر الخميس، نفذت القوات الأمريكية إنزال جوي في قرية ملوك سراي بريف القامشلي، أدت إلى مقتل شخص واعتقال اثنين بينهم قائد مجموعة في ميليشيا \"أنصار الأمن العسكري\" التابعة للنظام.\n\nوشنت الولايات المتحدة غارات سابقة في سوريا لاستهداف أعضاء في تنظيم \"داعش\" لكن عملية الخميس، هي أول عملية معروفة في منطقة تسيطر قوات النظام.\n\nالتاغات:\n\nسوريا\n\nالقامشلي\n\nالحسكة\n\nداعش\n\nالقوات الامريكية\n\nقيادي في داعش\n\nمشاركة:\n\n‏الخابور‏\n\nالأكثر شعبية\n\nنقاط تمركز\n\nمنازل المهجرين\n\nمقرات عسكرية\n\nقياديتين\n\nمصادرة\n\nمليون ليرة\n\nعقود زواج\n\nوفاة سيدتين\n\nمكب نفايات\n\nروائح كريهة\n\nإصابة زوجته\n\nمقتل مدني\n\nدراجات نارية\n\nجرعة زائدة\n\nحشيش\n\nYPJ\n\nرطلة\n\nاختطاف طفلة\n\nمعتقلة\n\nمسروقات",
+  "text_original_language": "ar",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

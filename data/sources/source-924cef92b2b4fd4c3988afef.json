@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/pv2tU"
+    "https://archive.ph/pv2tU",
+    "https://web.archive.org/web/20240414103715id_/https://anfarabic.com/akhr-l-khbr/sh-102558"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ba98ffa986e54e85997ca226389d66807203f487decc59c318af1a376e24a017",
+  "content_variants": [
+    {
+      "bytes": 807,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:07:23+00:00",
+      "sha256": "ba98ffa986e54e85997ca226389d66807203f487decc59c318af1a376e24a017",
+      "source_url": "https://web.archive.org/web/20240414103715id_/https://anfarabic.com/akhr-l-khbr/sh-102558",
+      "text": "وكالة فرات للأنباء\n\nالشهباء\n\nالخميس, ٢٩ فبراير ٢٠٢٤, ١٩:١٥\n\nاستهدف جيش الاحتلال التركي، قبل قليل، قرية صوغاناكه التابعة لناحية شيراوا بمقاطعة عفرين المحتلة بالقذائف المدفعية مما ادى إلى اصابة فتاة تدعى أمينة حكمت محمد /١٩/ عام بشظايا متفرقة، حيث تم اسعافها الى المشفى.\n\nهذا وقد أدى قصف الاحتلال التركي على المنطقة منذ ساعات الصباح الى إصابة اثنين من المدنيين واستشهاد آخر. كما فقد عنصر من قوات دمشق حياته وإصيب آخر في القصف الذي استهدف قرى شيراوا."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:07:23+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:07:23+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240414103715id_/https://anfarabic.com/akhr-l-khbr/sh-102558"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240414103715id_/https://anfarabic.com/akhr-l-khbr/sh-102558",
   "incident_ids": [
     "airwars-115160"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/akhr-l-khbr/sh-102558"
   ],
   "original_url": "https://anfarabic.com/akhr-l-khbr/sh-102558",
-  "page_title": "",
+  "page_title": "ANF |\nإصابة فتاة جراء قصف الاحتلال التركي لقرية صوغاناكه إصابة فتاة جراء قصف الاحتلال التركي لقرية صوغاناكه إصابة فتاة جراء قصف الاحتلال التركي لقرية صوغاناكه",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts686-february-29-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:07:23+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-924cef92b2b4fd4c3988afef",
   "source_type": "news_article",
   "stable_id_basis": "https://anfarabic.com/akhr-l-khbr/sh-102558",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "وكالة فرات للأنباء\n\nالشهباء\n\nالخميس, ٢٩ فبراير ٢٠٢٤, ١٩:١٥\n\nاستهدف جيش الاحتلال التركي، قبل قليل، قرية صوغاناكه التابعة لناحية شيراوا بمقاطعة عفرين المحتلة بالقذائف المدفعية مما ادى إلى اصابة فتاة تدعى أمينة حكمت محمد /١٩/ عام بشظايا متفرقة، حيث تم اسعافها الى المشفى.\n\nهذا وقد أدى قصف الاحتلال التركي على المنطقة منذ ساعات الصباح الى إصابة اثنين من المدنيين واستشهاد آخر. كما فقد عنصر من قوات دمشق حياته وإصيب آخر في القصف الذي استهدف قرى شيراوا.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

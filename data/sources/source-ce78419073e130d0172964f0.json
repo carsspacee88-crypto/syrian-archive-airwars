@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/ArUW7"
+    "https://archive.ph/ArUW7",
+    "https://web.archive.org/web/20250625082811id_/https://alyaumtv.net/%D9%81%D9%82%D8%AF%D8%A7%D9%86-%D9%85%D8%AF%D9%86%D9%8A-%D9%84%D8%AD%D9%8A%D8%A7%D8%AA%D9%87-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A2%D8%AE%D8%B1-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD-4/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Alyaum TV news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b831a3a4030fd23d8d31c05fd3153dbb1ac409b87827960e7953ece091fbc848",
+  "content_variants": [
+    {
+      "bytes": 1634,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:18:39+00:00",
+      "sha256": "b831a3a4030fd23d8d31c05fd3153dbb1ac409b87827960e7953ece091fbc848",
+      "source_url": "https://web.archive.org/web/20250625082811id_/https://alyaumtv.net/%D9%81%D9%82%D8%AF%D8%A7%D9%86-%D9%85%D8%AF%D9%86%D9%8A-%D9%84%D8%AD%D9%8A%D8%A7%D8%AA%D9%87-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A2%D8%AE%D8%B1-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD-4/",
+      "text": "فقدان مدني لحياته وإصابة آخر بقصف للاحتلال التركي على ريف حلب\n\nفقد مدنيٌّ حياته وأُصيب آخرُ يوم الأحد بقصفٍ للاحتلال التركي على ريف حلب شمال سوريا.\nوأفادت مصادر محلية أنّ مسيرةً للاحتلال التركي استهدفت مدنيّين اثنين على طريق قرية بيلونية بريف حلب الشمالي ما أدّى لفقدان أحدهما لحياته وإصابة الآخر.\n\nوأضافت المصادر أنّ الاحتلال التركي قصف أيضاً قرى الكاتولية وخربة شمسة وكوندى مزن دون ورود معلوماتٍ عن الأضرار الناجمة عن القصف.\n\nهذا وتتعرّض المناطق الآهلة بالسكان المدنيين في الشمال السوري لهجماتٍ متواصلة من قبل الاحتلال التركي باستخدام مختلف أنواع الأسلحة، ما يسفر عن وقوع ضحايا مدنيين وخسائرَ ماديةٍ كبيرة في الممتلكات.\n\nمقتل 3 عناصر من الفصائل الإرهابية بعلميات لقوات تحرير عفرين بريف حلب\n\nتوتر أمني بين الاحتلال التركي وفصائله الإرهابية في عدة مناطق شمال السوري\n\nفقدان مدني لحياته وإصابة آخر بقصف للاحتلال التركي بريف منبج شمالي سوريا\n\nالاحتلال التركي يستهدف بالأسلحة الثقيلة ريف حلب الشمالي"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:18:38+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:18:39+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250625082811id_/https://alyaumtv.net/%D9%81%D9%82%D8%AF%D8%A7%D9%86-%D9%85%D8%AF%D9%86%D9%8A-%D9%84%D8%AD%D9%8A%D8%A7%D8%AA%D9%87-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A2%D8%AE%D8%B1-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD-4/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250625082811id_/https://alyaumtv.net/%D9%81%D9%82%D8%AF%D8%A7%D9%86-%D9%85%D8%AF%D9%86%D9%8A-%D9%84%D8%AD%D9%8A%D8%A7%D8%AA%D9%87-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A2%D8%AE%D8%B1-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%A7%D8%AD-4/",
   "incident_ids": [
     "airwars-115964"
   ],
@@ -85,10 +109,10 @@
     "https://alyaumtv.net/فقدان-مدني-لحياته-وإصابة-آخر-بقصف-للاح-4/"
   ],
   "original_url": "https://alyaumtv.net/فقدان-مدني-لحياته-وإصابة-آخر-بقصف-للاح-4/",
-  "page_title": "",
+  "page_title": "فقدان مدني لحياته وإصابة آخر بقصف للاحتلال التركي على ريف حلب – قناة اليوم فقدان مدني لحياته وإصابة آخر بقصف للاحتلال التركي على ريف حلب فقدان مدني لحياته وإصابة آخر بقصف للاحتلال التركي على ريف حلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts689-march-17-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:18:39+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ce78419073e130d0172964f0",
   "source_type": "news_article",
   "stable_id_basis": "https://alyaumtv.net/فقدان-مدني-لحياته-وإصابة-آخر-بقصف-للاح-4/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "فقدان مدني لحياته وإصابة آخر بقصف للاحتلال التركي على ريف حلب\n\nفقد مدنيٌّ حياته وأُصيب آخرُ يوم الأحد بقصفٍ للاحتلال التركي على ريف حلب شمال سوريا.\nوأفادت مصادر محلية أنّ مسيرةً للاحتلال التركي استهدفت مدنيّين اثنين على طريق قرية بيلونية بريف حلب الشمالي ما أدّى لفقدان أحدهما لحياته وإصابة الآخر.\n\nوأضافت المصادر أنّ الاحتلال التركي قصف أيضاً قرى الكاتولية وخربة شمسة وكوندى مزن دون ورود معلوماتٍ عن الأضرار الناجمة عن القصف.\n\nهذا وتتعرّض المناطق الآهلة بالسكان المدنيين في الشمال السوري لهجماتٍ متواصلة من قبل الاحتلال التركي باستخدام مختلف أنواع الأسلحة، ما يسفر عن وقوع ضحايا مدنيين وخسائرَ ماديةٍ كبيرة في الممتلكات.\n\nمقتل 3 عناصر من الفصائل الإرهابية بعلميات لقوات تحرير عفرين بريف حلب\n\nتوتر أمني بين الاحتلال التركي وفصائله الإرهابية في عدة مناطق شمال السوري\n\nفقدان مدني لحياته وإصابة آخر بقصف للاحتلال التركي بريف منبج شمالي سوريا\n\nالاحتلال التركي يستهدف بالأسلحة الثقيلة ريف حلب الشمالي",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

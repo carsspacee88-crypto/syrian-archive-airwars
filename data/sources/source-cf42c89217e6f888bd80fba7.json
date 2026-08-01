@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/IYZr4"
+    "https://archive.md/IYZr4",
+    "https://web.archive.org/web/20240623234914id_/https://www.syriahr.com/en/229899/?fbclid=IwAR0uH48IttKKHjcZuFN__Vxv72z2HCnTGkNn5Px3X5ssmXjkYys8qWdeTfc"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c92bff44260323662ffb8c12e19ef2d27d00da9457628dced8cccd811b3cbfc3",
+  "content_variants": [
+    {
+      "bytes": 1564,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:18:48+00:00",
+      "sha256": "c92bff44260323662ffb8c12e19ef2d27d00da9457628dced8cccd811b3cbfc3",
+      "source_url": "https://web.archive.org/web/20240623234914id_/https://www.syriahr.com/en/229899/?fbclid=IwAR0uH48IttKKHjcZuFN__Vxv72z2HCnTGkNn5Px3X5ssmXjkYys8qWdeTfc",
+      "text": "Drone attack | Coalition missiles hit motorcycle and car in Idlib, leaving many casualties\n\nIdlib province: SOHR sources have reported that a drone of the International Coalition targeted an unidentified man on a motorcycle on the road to al-Mastuma in Idlib countryside with three missiles, killing him immediately. Meanwhile, a family of six, including women and children, sustained various injuries, as the car they were traveling in was passing near the site of the drone attack. The injured people were taken to field clinics in the region.\n\nA few hours ago, SOHR sources reported that a car was attacked this morning on the road to al-Mastuma in Idlib province. However, uncertainty surrounded the circumstances and nature of the attack, as it is not known yet if the attack was carried out by drones or by explosion of an IED or a landmine. It is worth noting that reconnaissance drones of the International Coalition and others of Iranian-backed militias were seen flying over that region since early morning.\n\nPrev Post\n\nSOHR: 10 Oil Workers Killed in Attack on Bus in Syria\n\nNext Post\n\nSecond campaign on Bedouin tents in a few days | A child among three people arrested by regime in Daraa countryside\n\nMilitary escalation | “SDF” and the regime forces exchange shelling near Euphrates…\n\nRegime forces stipulate | Local factions in Al-Suwaydaa insist on removing the new…\n\nSecurity chaos | One kil*led and another injured in clashes in a neighbourhood in…\n\nFor refusing to remove military checkpoint | Clashes erupt between local gu*nmen and…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:18:47+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:18:48+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240623234914id_/https://www.syriahr.com/en/229899/?fbclid=IwAR0uH48IttKKHjcZuFN__Vxv72z2HCnTGkNn5Px3X5ssmXjkYys8qWdeTfc"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240623234914id_/https://www.syriahr.com/en/229899/?fbclid=IwAR0uH48IttKKHjcZuFN__Vxv72z2HCnTGkNn5Px3X5ssmXjkYys8qWdeTfc",
   "incident_ids": [
     "airwars-80506"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/229899/?fbclid=IwAR0uH48IttKKHjcZuFN__Vxv72z2HCnTGkNn5Px3X5ssmXjkYys8qWdeTfc"
   ],
   "original_url": "https://www.syriahr.com/en/229899/?fbclid=IwAR0uH48IttKKHjcZuFN__Vxv72z2HCnTGkNn5Px3X5ssmXjkYys8qWdeTfc",
-  "page_title": "",
+  "page_title": "Drone attack | Coalition missiles hit motorcycle and car in Idlib, leaving many casualties - The Syrian Observatory For Human Rights Drone attack | Coalition missiles hit motorcycle and car in Idlib, leaving many casualties - The Syrian Observatory For Human Rights Drone attack | Coalition missiles hit motorcycle and car in Idlib, leaving many casualties - The Syrian Observatory For Human Rights Drone attack | Coalition missiles hit motorcycle and car in Idlib, leaving many casualties Drone attack | Coalition missiles hit motorcycle and car in Idlib, leaving many casualties",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1973-december-3-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:18:48+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-cf42c89217e6f888bd80fba7",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/229899/?fbclid=IwAR0uH48IttKKHjcZuFN__Vxv72z2HCnTGkNn5Px3X5ssmXjkYys8qWdeTfc",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Drone attack | Coalition missiles hit motorcycle and car in Idlib, leaving many casualties\n\nIdlib province: SOHR sources have reported that a drone of the International Coalition targeted an unidentified man on a motorcycle on the road to al-Mastuma in Idlib countryside with three missiles, killing him immediately. Meanwhile, a family of six, including women and children, sustained various injuries, as the car they were traveling in was passing near the site of the drone attack. The injured people were taken to field clinics in the region.\n\nA few hours ago, SOHR sources reported that a car was attacked this morning on the road to al-Mastuma in Idlib province. However, uncertainty surrounded the circumstances and nature of the attack, as it is not known yet if the attack was carried out by drones or by explosion of an IED or a landmine. It is worth noting that reconnaissance drones of the International Coalition and others of Iranian-backed militias were seen flying over that region since early morning.\n\nPrev Post\n\nSOHR: 10 Oil Workers Killed in Attack on Bus in Syria\n\nNext Post\n\nSecond campaign on Bedouin tents in a few days | A child among three people arrested by regime in Daraa countryside\n\nMilitary escalation | “SDF” and the regime forces exchange shelling near Euphrates…\n\nRegime forces stipulate | Local factions in Al-Suwaydaa insist on removing the new…\n\nSecurity chaos | One kil*led and another injured in clashes in a neighbourhood in…\n\nFor refusing to remove military checkpoint | Clashes erupt between local gu*nmen and…",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

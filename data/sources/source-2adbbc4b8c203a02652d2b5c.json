@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20240515205841id_/https://www.youtube.com/watch?v=6GlryKrYoqQ"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Al Tareek Media",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "bfe9b97ba74e04a66de79230639ba17c79d6cc505e2d93c82ea95c800e272f25",
+  "content_variants": [
+    {
+      "bytes": 285,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:54:18+00:00",
+      "sha256": "bfe9b97ba74e04a66de79230639ba17c79d6cc505e2d93c82ea95c800e272f25",
+      "source_url": "https://web.archive.org/web/20240515205841id_/https://www.youtube.com/watch?v=6GlryKrYoqQ",
+      "text": "غارات جوية روسية على محيط بلدة كنصفرة بجبل الزاوية جنوب محافظة إدلب - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2024 Google LLC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:54:17+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:54:18+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515205841id_/https://www.youtube.com/watch?v=6GlryKrYoqQ"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515205841id_/https://www.youtube.com/watch?v=6GlryKrYoqQ",
   "incident_ids": [
     "airwars-78840"
   ],
@@ -55,10 +80,10 @@
     "https://www.youtube.com/watch?v=6GlryKrYoqQ"
   ],
   "original_url": "https://www.youtube.com/watch?v=6GlryKrYoqQ",
-  "page_title": "",
+  "page_title": "غارات جوية روسية على محيط بلدة كنصفرة بجبل الزاوية جنوب محافظة إدلب - YouTube غارات جوية روسية على محيط بلدة كنصفرة بجبل الزاوية جنوب محافظة إدلب غارات جوية روسية على محيط بلدة كنصفرة بجبل الزاوية جنوب محافظة إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4647-september-22-2021/",
@@ -78,16 +103,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:54:18+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2adbbc4b8c203a02652d2b5c",
   "source_type": "youtube_page",
   "stable_id_basis": "https://www.youtube.com/watch?v=6GlryKrYoqQ",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "غارات جوية روسية على محيط بلدة كنصفرة بجبل الزاوية جنوب محافظة إدلب - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2024 Google LLC",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

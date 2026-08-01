@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/Dxn3n"
+    "https://archive.is/Dxn3n",
+    "https://web.archive.org/web/20241216033143id_/https://npasyria.com/132396/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "49a7179394e421bfa772cf805bf486c306253a9ce2fdf1c8ddf7feba4f4f7956",
+  "content_variants": [
+    {
+      "bytes": 1327,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:03:31+00:00",
+      "sha256": "49a7179394e421bfa772cf805bf486c306253a9ce2fdf1c8ddf7feba4f4f7956",
+      "source_url": "https://web.archive.org/web/20241216033143id_/https://npasyria.com/132396/",
+      "text": "إصابة أربعة أطفال جراء انفجار قذيفة تركية شمالي الحسكة\n\nمشفى \"الشهيدة ليكرين\" بتل تمر شمالي الحسكة - نورث برس/ أرشيفية\n\nالحسكة – نورث برس\n\nأصيب أربعة أطفال، السبت، بانفجار قذيفة تركية نزلت في وقت سابق على قرية المجيبرة بريف بلدة تل تمر شمالي الحسكة.\n\nوقالت مصادر محلية لنورث برس، إن الأطفال المصابين نُقلوا إلى مشفى “الشهيدة ليكرين” في البلدة لتلقي العلاج.\n\nفي حين قالت مصادر طبية إن حالتهم الصحية مستقرة.\n\nووفقاً للمصادر فإن كل من سليمان نصر شلو (١١ عاماً)، بدران نصر شلو (١٥ عاماً)، علي محمود شلو (١١عاماً) وخالد محمود شلو (13 عاماً)، أصيبوا في الانفجار.\n\nإلى ذلك قالت مصادر عسكرية، إن القوات التركية وفصائل المعارضة الموالية لها، قصفت قرية الكوزلية جنوب غربي تل تمر، دون ورود معلومات عن نتائج القصف.\n\nإعداد: دلسوز يوسف – تحرير: عكيد مشمش"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:03:30+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:03:31+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241216033143id_/https://npasyria.com/132396/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241216033143id_/https://npasyria.com/132396/",
   "incident_ids": [
     "airwars-85629"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/132396/"
   ],
   "original_url": "https://npasyria.com/132396/",
-  "page_title": "",
+  "page_title": "إصابة أربعة أطفال جراء انفجار قذيفة تركية شمالي الحسكة إصابة أربعة أطفال جراء انفجار قذيفة تركية شمالي الحسكة",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts576-december-3-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:03:31+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-71b86f6da0ce85cbf17c37a0",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/132396/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة أربعة أطفال جراء انفجار قذيفة تركية شمالي الحسكة\n\nمشفى \"الشهيدة ليكرين\" بتل تمر شمالي الحسكة - نورث برس/ أرشيفية\n\nالحسكة – نورث برس\n\nأصيب أربعة أطفال، السبت، بانفجار قذيفة تركية نزلت في وقت سابق على قرية المجيبرة بريف بلدة تل تمر شمالي الحسكة.\n\nوقالت مصادر محلية لنورث برس، إن الأطفال المصابين نُقلوا إلى مشفى “الشهيدة ليكرين” في البلدة لتلقي العلاج.\n\nفي حين قالت مصادر طبية إن حالتهم الصحية مستقرة.\n\nووفقاً للمصادر فإن كل من سليمان نصر شلو (١١ عاماً)، بدران نصر شلو (١٥ عاماً)، علي محمود شلو (١١عاماً) وخالد محمود شلو (13 عاماً)، أصيبوا في الانفجار.\n\nإلى ذلك قالت مصادر عسكرية، إن القوات التركية وفصائل المعارضة الموالية لها، قصفت قرية الكوزلية جنوب غربي تل تمر، دون ورود معلومات عن نتائج القصف.\n\nإعداد: دلسوز يوسف – تحرير: عكيد مشمش",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

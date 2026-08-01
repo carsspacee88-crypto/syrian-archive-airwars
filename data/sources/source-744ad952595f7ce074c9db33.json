@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/pGUDN"
+    "https://archive.is/pGUDN",
+    "https://web.archive.org/web/20220818153353id_/https://twitter.com/MMCSYR/status/1560211459812085761"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@MMCSYR",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "020f1ab9355790504f4bb3e166d065ef970ceaf07d5482172e85a520828cb795",
+  "content_variants": [
+    {
+      "bytes": 266,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:03:39+00:00",
+      "sha256": "020f1ab9355790504f4bb3e166d065ef970ceaf07d5482172e85a520828cb795",
+      "source_url": "https://web.archive.org/web/20220818153353id_/https://twitter.com/MMCSYR/status/1560211459812085761",
+      "text": "Conversationالمركز الإعلامي العام MMC@MMCSYR#عاجل_MMC استشهاد الشاب محمد ضياء العمر بالقصف الصاروخي الذي استهدف أطراف مدينة مارع.10:26 AM · Aug 18, 2022·Twitter for iPhone8 Likes"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:03:38+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:03:39+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220818153353id_/https://twitter.com/MMCSYR/status/1560211459812085761"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220818153353id_/https://twitter.com/MMCSYR/status/1560211459812085761",
   "incident_ids": [
     "airwars-84671"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/MMCSYR/status/1560211459812085761"
   ],
   "original_url": "https://twitter.com/MMCSYR/status/1560211459812085761",
-  "page_title": "",
+  "page_title": "المركز الإعلامي العام MMC on Twitter المركز الإعلامي العام MMC on Twitter: \"#عاجل_MMC استشهاد الشاب محمد ضياء العمر بالقصف الصاروخي الذي استهدف أطراف مدينة مارع. https://t.co/geh7Dl2WB5\" / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys148-august-18-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:03:39+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-744ad952595f7ce074c9db33",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/MMCSYR/status/1560211459812085761",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Conversationالمركز الإعلامي العام MMC@MMCSYR#عاجل_MMC استشهاد الشاب محمد ضياء العمر بالقصف الصاروخي الذي استهدف أطراف مدينة مارع.10:26 AM · Aug 18, 2022·Twitter for iPhone8 Likes",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

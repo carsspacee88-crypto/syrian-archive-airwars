@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/cuTUz"
+    "https://archive.is/cuTUz",
+    "https://web.archive.org/web/20220702043839id_/https://twitter.com/SAMSyria0/status/1543091321925140483"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@SAMSyria0",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "9f920af7bdb1e0c41d09db977aef2469f6cc20f0d7c0ca62bcf78ff97afc9509",
+  "content_variants": [
+    {
+      "bytes": 585,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:54:19+00:00",
+      "sha256": "9f920af7bdb1e0c41d09db977aef2469f6cc20f0d7c0ca62bcf78ff97afc9509",
+      "source_url": "https://web.archive.org/web/20220702043839id_/https://twitter.com/SAMSyria0/status/1543091321925140483",
+      "text": "ConversationSAM @SAMSyria0·47mقبل قليل حوالي الساعة السادسة والنصف صباح اليوم اليوم سلسلة انفجارات قوية هزت جنوب محافظة طرطوس.4429SAM @SAMSyria0·37mجنوب طرطوس بالقرب من صافيتا منذ قليل، عدة انفجارات ضخمة دوت ولا تفاصيل أكثر، احتمال استهداف من العـ.ـ.ـدو \"الإسـ.ـ.ـرائيلي\".5928SAM @SAMSyria0من مكان الاستهداف في منطقة سهل عكار.4:36 AM · Jul 2, 2022·Twitter for Android1 Like"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:54:18+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:54:19+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220702043839id_/https://twitter.com/SAMSyria0/status/1543091321925140483"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220702043839id_/https://twitter.com/SAMSyria0/status/1543091321925140483",
   "incident_ids": [
     "airwars-83969"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/SAMSyria0/status/1543091321925140483"
   ],
   "original_url": "https://twitter.com/SAMSyria0/status/1543091321925140483",
-  "page_title": "",
+  "page_title": "SAM 🇸🇾 on Twitter SAM 🇸🇾 on Twitter: \"من مكان الاستهداف في منطقة سهل عكار. https://t.co/xKrVfCVaSX\" / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy024-july-1-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:54:19+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-346aab58cb70a9a94ff6fec0",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/SAMSyria0/status/1543091321925140483",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ConversationSAM @SAMSyria0·47mقبل قليل حوالي الساعة السادسة والنصف صباح اليوم اليوم سلسلة انفجارات قوية هزت جنوب محافظة طرطوس.4429SAM @SAMSyria0·37mجنوب طرطوس بالقرب من صافيتا منذ قليل، عدة انفجارات ضخمة دوت ولا تفاصيل أكثر، احتمال استهداف من العـ.ـ.ـدو \"الإسـ.ـ.ـرائيلي\".5928SAM @SAMSyria0من مكان الاستهداف في منطقة سهل عكار.4:36 AM · Jul 2, 2022·Twitter for Android1 Like",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

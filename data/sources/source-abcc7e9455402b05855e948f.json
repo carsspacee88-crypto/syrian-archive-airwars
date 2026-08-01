@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/yad6A"
+    "https://archive.is/yad6A",
+    "https://web.archive.org/web/20240525021129id_/https://www.facebook.com/SyriaCivilDefense/posts/2150296625126081"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Civil Defense",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "5e6ddb053e8a302493ab6f5a5969ba67e6de2b08df4a6c7cd0814ade23abeb8a",
+  "content_variants": [
+    {
+      "bytes": 599,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:11:43+00:00",
+      "sha256": "5e6ddb053e8a302493ab6f5a5969ba67e6de2b08df4a6c7cd0814ade23abeb8a",
+      "source_url": "https://web.archive.org/web/20240525021129id_/https://www.facebook.com/SyriaCivilDefense/posts/2150296625126081",
+      "text": "لحظات لالتقاط الأنفاس بعد عمل متواصل لأربع ساعات في إخماد حريق سببه قصف مدفعي للنظام وروسيا استهدف سوق المحروقات قرب ترمانين شمالي #إدلب اليوم الأربعاء...\n\nلحظات لالتقاط الأنفاس بعد عمل متواصل لأربع ساعات في إخماد حريق سببه قصف مدفعي للنظام وروسيا استهدف سوق المحروقات قرب ترمانين شمالي #إدلب اليوم الأربعاء 16 شباط.\n#الخوذ_البيضاء"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:11:43+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:11:43+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525021129id_/https://www.facebook.com/SyriaCivilDefense/posts/2150296625126081"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525021129id_/https://www.facebook.com/SyriaCivilDefense/posts/2150296625126081",
   "incident_ids": [
     "airwars-82010"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/SyriaCivilDefense/posts/2150296625126081"
   ],
   "original_url": "https://www.facebook.com/SyriaCivilDefense/posts/2150296625126081",
-  "page_title": "",
+  "page_title": "الدفاع المدني السوري الدفاع المدني السوري لحظات لالتقاط الأنفاس بعد عمل... - الدفاع المدني السوري",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4690-february-16-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:11:43+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-abcc7e9455402b05855e948f",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SyriaCivilDefense/posts/2150296625126081",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "لحظات لالتقاط الأنفاس بعد عمل متواصل لأربع ساعات في إخماد حريق سببه قصف مدفعي للنظام وروسيا استهدف سوق المحروقات قرب ترمانين شمالي #إدلب اليوم الأربعاء...\n\nلحظات لالتقاط الأنفاس بعد عمل متواصل لأربع ساعات في إخماد حريق سببه قصف مدفعي للنظام وروسيا استهدف سوق المحروقات قرب ترمانين شمالي #إدلب اليوم الأربعاء 16 شباط.\n#الخوذ_البيضاء",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/eDVSn"
+    "https://archive.md/eDVSn",
+    "https://web.archive.org/web/20250721120805id_/https://thedefensepost.com/2021/11/24/four-killed-israel-strikes/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "AFP",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "dc7c7f061b4b6a948c1fe74639d4f2290f552539ef7413f778671eb0218725a1",
+  "content_variants": [
+    {
+      "bytes": 2722,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:15:21+00:00",
+      "sha256": "dc7c7f061b4b6a948c1fe74639d4f2290f552539ef7413f778671eb0218725a1",
+      "source_url": "https://web.archive.org/web/20250721120805id_/https://thedefensepost.com/2021/11/24/four-killed-israel-strikes/",
+      "text": "Two civilians were among four people killed by Israeli strikes on Wednesday that targeted a part of Syria where fighters loyal to Lebanon’s Hezbollah are based, a monitor said.\n\nThe Syrian Observatory for Human Rights, a Britain-based group that relies on sources on the ground, said the Israeli missiles struck an area near three villages in the west of Homs province.\n\nThe raid killed four people, including two civilians, said the war monitor, although it was unable to determine whether the other two deaths were civilians or soldiers.\n\nThe official Syrian news agency SANA, citing a military official, said two civilians had been killed and seven people wounded in the strikes that were conducted at dawn.\n\n“The (Israeli) aggression resulted in the death of two civilians and injured six soldiers and one civilian,” the military official was quoted as saying.\n\nThe strikes targeted positions in the central part of the country, it said, without giving further details on the location.\n\nSyria’s air defenses “repelled the aggression and shot down most” of the missiles, SANA said, quoting the same source.\n\nThe Israeli military, which rarely acknowledges individual strikes on Syria, declined to comment on “reports in the foreign media.”\n\nIsrael has said repeatedly it will not allow neighboring Syria to become a launchpad for its arch-foe Iran.\n\nSince civil war broke out in Syria in 2011, Israel has carried out hundreds of air strikes on Syrian territory, targeting government positions as well as allied Iran-backed forces and Hezbollah fighters.\n\nSimilar strikes on November 3 hit positions held by the Syrian government and its pro-Iranian allies near Damascus, said the Observatory.\n\nOn October 30, five pro-Iranian militiamen were killed in an Israeli strike that destroyed Hezbollah and Iranian weapons and ammunition near the Syrian capital, the monitor said.\n\nAn Israeli strike in mid-October killed nine pro-government fighters near the T4 airbase east of Palmyra in central Syria, according to the same source.\n\nSubscribe to our mailing list\n\nRelated Articles\n\nIran Says Replaced Air Defense Systems Damaged During Israel War\n\nCalm Returns to South Syria After Violence That Killed Over 1,100: Monitor\n\nGaza Civil Defense Says Israeli Fire Kills 93 Aid Seekers\n\nIsrael Orders Civilians Out of Central Gaza Ahead of New Campaign\n\nIsraeli Strikes Kill 2 in South Lebanon\n\nGaza Civil Defense Says Israeli Attacks Kill 26 Near Two Aid Centers\n\nUS Announces Syria-Israel Truce as New Clashes Rock Druze Heartland\n\nRomania Poised to Become First European User of Israel’s Iron Dome\n\nUS Lets Staff Return to Iraq Weeks After Iran Strike\n\nGaza Civil Defence Agency Says Israeli Strikes Kill 14"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:15:21+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:15:21+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250721120805id_/https://thedefensepost.com/2021/11/24/four-killed-israel-strikes/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250721120805id_/https://thedefensepost.com/2021/11/24/four-killed-israel-strikes/",
   "incident_ids": [
     "airwars-80293"
   ],
@@ -85,10 +109,10 @@
     "https://www.thedefensepost.com/2021/11/24/four-killed-israel-strikes/"
   ],
   "original_url": "https://www.thedefensepost.com/2021/11/24/four-killed-israel-strikes/",
-  "page_title": "",
+  "page_title": "Four Killed in Israel Strikes on Syria: War Monitor – The Defense Post",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy020-november-24-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:15:21+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-bebb7ef27f79723ba0383eeb",
   "source_type": "government_or_military_statement",
   "stable_id_basis": "https://www.thedefensepost.com/2021/11/24/four-killed-israel-strikes/",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Two civilians were among four people killed by Israeli strikes on Wednesday that targeted a part of Syria where fighters loyal to Lebanon’s Hezbollah are based, a monitor said.\n\nThe Syrian Observatory for Human Rights, a Britain-based group that relies on sources on the ground, said the Israeli missiles struck an area near three villages in the west of Homs province.\n\nThe raid killed four people, including two civilians, said the war monitor, although it was unable to determine whether the other two deaths were civilians or soldiers.\n\nThe official Syrian news agency SANA, citing a military official, said two civilians had been killed and seven people wounded in the strikes that were conducted at dawn.\n\n“The (Israeli) aggression resulted in the death of two civilians and injured six soldiers and one civilian,” the military official was quoted as saying.\n\nThe strikes targeted positions in the central part of the country, it said, without giving further details on the location.\n\nSyria’s air defenses “repelled the aggression and shot down most” of the missiles, SANA said, quoting the same source.\n\nThe Israeli military, which rarely acknowledges individual strikes on Syria, declined to comment on “reports in the foreign media.”\n\nIsrael has said repeatedly it will not allow neighboring Syria to become a launchpad for its arch-foe Iran.\n\nSince civil war broke out in Syria in 2011, Israel has carried out hundreds of air strikes on Syrian territory, targeting government positions as well as allied Iran-backed forces and Hezbollah fighters.\n\nSimilar strikes on November 3 hit positions held by the Syrian government and its pro-Iranian allies near Damascus, said the Observatory.\n\nOn October 30, five pro-Iranian militiamen were killed in an Israeli strike that destroyed Hezbollah and Iranian weapons and ammunition near the Syrian capital, the monitor said.\n\nAn Israeli strike in mid-October killed nine pro-government fighters near the T4 airbase east of Palmyra in central Syria, according to the same source.\n\nSubscribe to our mailing list\n\nRelated Articles\n\nIran Says Replaced Air Defense Systems Damaged During Israel War\n\nCalm Returns to South Syria After Violence That Killed Over 1,100: Monitor\n\nGaza Civil Defense Says Israeli Fire Kills 93 Aid Seekers\n\nIsrael Orders Civilians Out of Central Gaza Ahead of New Campaign\n\nIsraeli Strikes Kill 2 in South Lebanon\n\nGaza Civil Defense Says Israeli Attacks Kill 26 Near Two Aid Centers\n\nUS Announces Syria-Israel Truce as New Clashes Rock Druze Heartland\n\nRomania Poised to Become First European User of Israel’s Iron Dome\n\nUS Lets Staff Return to Iraq Weeks After Iran Strike\n\nGaza Civil Defence Agency Says Israeli Strikes Kill 14",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,
