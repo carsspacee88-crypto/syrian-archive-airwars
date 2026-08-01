@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/ra8hF"
+    "https://archive.md/ra8hF",
+    "https://web.archive.org/web/20240525020911id_/https://www.facebook.com/SyriaCivilDefense/posts/2066430270179384"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Civil Defense",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "434a5adbe759dfff2f54949bef0d443f04131748e8b27d7ad08a66eb43fa8bb7",
+  "content_variants": [
+    {
+      "bytes": 636,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:35:12+00:00",
+      "sha256": "434a5adbe759dfff2f54949bef0d443f04131748e8b27d7ad08a66eb43fa8bb7",
+      "source_url": "https://web.archive.org/web/20240525020911id_/https://www.facebook.com/SyriaCivilDefense/posts/2066430270179384",
+      "text": "إصابة شاب بجروح بليغة جراء قصف مدفعي لقوات النظام وروسيا استهدف عمال أثناء جني محصول الزيتون على أطراف بلدة #كنصفرة جنوبي #إدلب، اليوم الاثنين 1 تشرين...\n\nإصابة شاب بجروح بليغة جراء قصف مدفعي لقوات النظام وروسيا استهدف عمال أثناء جني محصول الزيتون على أطراف بلدة #كنصفرة جنوبي #إدلب، اليوم الاثنين 1 تشرين الثاني، فرقنا استجابت للمكان المستهدف وأسعفت..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:35:11+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:35:12+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525020911id_/https://www.facebook.com/SyriaCivilDefense/posts/2066430270179384"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525020911id_/https://www.facebook.com/SyriaCivilDefense/posts/2066430270179384",
   "incident_ids": [
     "airwars-79827"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/SyriaCivilDefense/posts/2066430270179384"
   ],
   "original_url": "https://www.facebook.com/SyriaCivilDefense/posts/2066430270179384",
-  "page_title": "",
+  "page_title": "الدفاع المدني السوري الدفاع المدني السوري إصابة شاب بجروح بليغة جراء قصف... - الدفاع المدني السوري",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4664-november-1-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:35:12+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-36be68adf057419c9e34c8ec",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SyriaCivilDefense/posts/2066430270179384",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة شاب بجروح بليغة جراء قصف مدفعي لقوات النظام وروسيا استهدف عمال أثناء جني محصول الزيتون على أطراف بلدة #كنصفرة جنوبي #إدلب، اليوم الاثنين 1 تشرين...\n\nإصابة شاب بجروح بليغة جراء قصف مدفعي لقوات النظام وروسيا استهدف عمال أثناء جني محصول الزيتون على أطراف بلدة #كنصفرة جنوبي #إدلب، اليوم الاثنين 1 تشرين الثاني، فرقنا استجابت للمكان المستهدف وأسعفت...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

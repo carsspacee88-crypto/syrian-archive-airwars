@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20220523155645id_/https://nedaa-post.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D9%82%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8/"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Nedaa Post",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "56cece414be525a9f3f8f0eed41b4b317632de3cd52a7554905c1fe4f75c9730",
+  "content_variants": [
+    {
+      "bytes": 818,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:06:55+00:00",
+      "sha256": "56cece414be525a9f3f8f0eed41b4b317632de3cd52a7554905c1fe4f75c9730",
+      "source_url": "https://web.archive.org/web/20220523155645id_/https://nedaa-post.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D9%82%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8/",
+      "text": "استهدفت قوات \"قسد\" بقذائف المدفعية قرية الشيخ ناصر قرب مدينة الباب بريف حلب الشرقي اليوم الثلاثاء. وقال مراسل \"نداء بوست\":\n\nاستهدفت قوات \"قسد\" بقذائف المدفعية قرية الشيخ ناصر قرب مدينة الباب بريف حلب الشرقي اليوم الثلاثاء. وقال مراسل \"نداء بوست\": إن مدنياً أُصيب جراء القصف، ونفق عدد من المواشي إضافة إلى أضرار مادية في ممتلكات المدنيين نتيجة الاستهداف. كما قامت فِرَق الدفاع المدني السوري في منطقة الباب بريف حلب بإسعاف المصاب وتأمين المكان بعد توقف […]"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:06:54+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:06:55+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220523155645id_/https://nedaa-post.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D9%82%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220523155645id_/https://nedaa-post.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D9%82%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8/",
   "incident_ids": [
     "airwars-78049"
   ],
@@ -55,10 +80,10 @@
     "https://nedaa-post.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D9%82%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8"
   ],
   "original_url": "https://nedaa-post.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D9%82%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8",
-  "page_title": "",
+  "page_title": "إصابة مدني في قصف لقوات “قسد” على ريف الباب إصابة مدني في قصف لقوات “قسد” على ريف الباب إصابة مدني في قصف لقوات \"قسد\" على ريف الباب - نداء بوست إصابة مدني في قصف لقوات \"قسد\" على ريف الباب - نداء بوست",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys116-september-7-2021/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:06:55+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ef81efbedd540ded42ed86d8",
   "source_type": "other_web_page",
   "stable_id_basis": "https://nedaa-post.com/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D9%82%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "استهدفت قوات \"قسد\" بقذائف المدفعية قرية الشيخ ناصر قرب مدينة الباب بريف حلب الشرقي اليوم الثلاثاء. وقال مراسل \"نداء بوست\":\n\nاستهدفت قوات \"قسد\" بقذائف المدفعية قرية الشيخ ناصر قرب مدينة الباب بريف حلب الشرقي اليوم الثلاثاء. وقال مراسل \"نداء بوست\": إن مدنياً أُصيب جراء القصف، ونفق عدد من المواشي إضافة إلى أضرار مادية في ممتلكات المدنيين نتيجة الاستهداف. كما قامت فِرَق الدفاع المدني السوري في منطقة الباب بريف حلب بإسعاف المصاب وتأمين المكان بعد توقف […]",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/HvoGr"
+    "https://archive.md/HvoGr",
+    "https://web.archive.org/web/20211107145020id_/https://twitter.com/Almohrar1/status/1457357088519303176"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@Almohrar1",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "26210ab57020a0bc68f83329595c241f0cccca5100e91d8526695793cbf21116",
+  "content_variants": [
+    {
+      "bytes": 389,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:02:51+00:00",
+      "sha256": "26210ab57020a0bc68f83329595c241f0cccca5100e91d8526695793cbf21116",
+      "source_url": "https://web.archive.org/web/20211107145020id_/https://twitter.com/Almohrar1/status/1457357088519303176",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\n#جرابلس\nاحد المستهدفين من الطيران المسير في مدينة #جرابلس وأنباء تقول إنهم دواعشpic.twitter.com/NZz1xocRiA\n\n1 Like\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:02:50+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:02:51+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211107145020id_/https://twitter.com/Almohrar1/status/1457357088519303176"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211107145020id_/https://twitter.com/Almohrar1/status/1457357088519303176",
   "incident_ids": [
     "airwars-79890"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/Almohrar1/status/1457357088519303176"
   ],
   "original_url": "https://twitter.com/Almohrar1/status/1457357088519303176",
-  "page_title": "",
+  "page_title": "المحرر لحظة بلحظة on Twitter: \"#جرابلس\nاحد المستهدفين من الطيران المسير في مدينة #جرابلس وأنباء تقول إنهم دواعش… \" المحرر لحظة بلحظة on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1969-november-7-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:02:51+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-cc57ae3e2eaf973fbc09437f",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/Almohrar1/status/1457357088519303176",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\n#جرابلس\nاحد المستهدفين من الطيران المسير في مدينة #جرابلس وأنباء تقول إنهم دواعشpic.twitter.com/NZz1xocRiA\n\n1 Like\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

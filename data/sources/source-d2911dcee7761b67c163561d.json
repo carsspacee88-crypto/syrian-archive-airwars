@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.fo/vv9ig"
+    "https://archive.fo/vv9ig",
+    "https://web.archive.org/web/20220201130831id_/https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=28054&LangID=E"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "United Nations Human Rights, Office of the High Commissioner",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "872e7f900c4db93649e8ea63abb946d9757b7b3f2fe6733f3e63b355fce2aad2",
+  "content_variants": [
+    {
+      "bytes": 94,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:03:36+00:00",
+      "sha256": "872e7f900c4db93649e8ea63abb946d9757b7b3f2fe6733f3e63b355fce2aad2",
+      "source_url": "https://web.archive.org/web/20220201130831id_/https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=28054&LangID=E",
+      "text": "OHCHR | Syria: UN expert urges States to ‘save their boys’ caught up in ISIL prison attack"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:03:35+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:03:36+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220201130831id_/https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=28054&LangID=E"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220201130831id_/https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=28054&LangID=E",
   "incident_ids": [
     "airwars-81424"
   ],
@@ -85,10 +109,10 @@
     "https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=28054&LangID=E"
   ],
   "original_url": "https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=28054&LangID=E",
-  "page_title": "",
+  "page_title": "OHCHR | Syria: UN expert urges States to ‘save their boys’ caught up in ISIL prison attack",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1976-january-20-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:03:36+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d2911dcee7761b67c163561d",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=28054&LangID=E",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "OHCHR | Syria: UN expert urges States to ‘save their boys’ caught up in ISIL prison attack",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

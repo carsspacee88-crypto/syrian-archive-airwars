@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/IKqLt"
+    "https://archive.is/IKqLt",
+    "https://web.archive.org/web/20211011120835id_/https://twitter.com/abo_aljod84/status/1447534566739169285"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@abo_aljod84",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2563b73874ac4e350ae171cd494e2152ca1680c04993679286508c8a0775cf8b",
+  "content_variants": [
+    {
+      "bytes": 668,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:39:18+00:00",
+      "sha256": "2563b73874ac4e350ae171cd494e2152ca1680c04993679286508c8a0775cf8b",
+      "source_url": "https://web.archive.org/web/20211011120835id_/https://twitter.com/abo_aljod84/status/1447534566739169285",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nمقتل رجل وامرأة وإصابة 6 مدنيين، بينهم طفل وامرأتان اليوم الاثنين 11 تشرين الأول بانفجار مجهول المصدر داخل منزلهم في قرية الدابس في منطقة جرابلس شرقي حلب فرقنا استجابت للمكان وعملت على تأمينه وانتشلت الجثث ومازالت عملية البحث مستمرة لوجود امرأة مفقودة.\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:39:17+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:39:18+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211011120835id_/https://twitter.com/abo_aljod84/status/1447534566739169285"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211011120835id_/https://twitter.com/abo_aljod84/status/1447534566739169285",
   "incident_ids": [
     "airwars-79409"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/abo_aljod84/status/1447534566739169285"
   ],
   "original_url": "https://twitter.com/abo_aljod84/status/1447534566739169285",
-  "page_title": "",
+  "page_title": "إياد أبوالجود on Twitter: \"مقتل رجل وامرأة وإصابة 6 مدنيين، بينهم طفل وامرأتان اليوم الاثنين 11 تشرين الأول بانفجار مجهول المصدر داخل منزلهم في قرية الدابس في منطقة جرابلس شرقي حلب فرقنا استجابت للمكان وعملت على تأمينه وانتشلت الجثث ومازالت عملية البحث مستمرة لوجود امرأة مفقودة.\" إياد أبوالجود on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys118-october-11-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:39:18+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4d5566f74165e000af2badd9",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/abo_aljod84/status/1447534566739169285",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nمقتل رجل وامرأة وإصابة 6 مدنيين، بينهم طفل وامرأتان اليوم الاثنين 11 تشرين الأول بانفجار مجهول المصدر داخل منزلهم في قرية الدابس في منطقة جرابلس شرقي حلب فرقنا استجابت للمكان وعملت على تأمينه وانتشلت الجثث ومازالت عملية البحث مستمرة لوجود امرأة مفقودة.\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

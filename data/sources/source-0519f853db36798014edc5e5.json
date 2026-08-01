@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/bSXUJ"
+    "https://archive.md/bSXUJ",
+    "https://web.archive.org/web/20220525221945id_/https://www.hawarnews.com/en/haber/an-isis-leader-killed-in-drone-attack-in-turkey-occupied-jarabulus-h27529.html"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Hawar News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d1e4182efdb702290b7eb955186277cd94793d6444a19c38d3514caee1d00c90",
+  "content_variants": [
+    {
+      "bytes": 1328,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:32:05+00:00",
+      "sha256": "d1e4182efdb702290b7eb955186277cd94793d6444a19c38d3514caee1d00c90",
+      "source_url": "https://web.archive.org/web/20220525221945id_/https://www.hawarnews.com/en/haber/an-isis-leader-killed-in-drone-attack-in-turkey-occupied-jarabulus-h27529.html",
+      "text": "Day after day, the fact that the Syrian areas occupied by Turkey have become safe areas for ISIS and its leaders is disclosed, as the GC has recently targeted these leaders via drones. According to the Coalition, in the city of Jarabulus in the northeastern countryside of Aleppo, which led to the death of one person and the serious injury of another, believed to be ISIS leaders.\n\nIt is noteworthy that the sources of the Syrian Observatory for Human Rights had reported, on November 3, that helicopters belonging to the GC forces led by the United States of America flew on November 2 over the areas occupied by Turkey and its mercenaries and carried out an airdrop operation in the Hawarna neighborhood in the occupied city of Serêkaniyê. And adjacent to the border, in addition to a landing in the occupied village of Alouk, and according to the sources of the Syrian Observatory, the GC forces arrested 6 ISIS leaders, three of whom are “a Saudi and an Australian, and the third is a Syrian from Raqqa,” while three others were arrested in the village of Alouk. North of the city, ISIS leaders returned to the area after Turkey occupied Serêkaniyê.\n\nA\n\nANHA\n\nOther news\n\nRural Manbij under Turkish and mercenary shelling\n\nUnknown war planes hover North eastern Syria\n\nTurkish occupation UAVs hover Shahba and Afrin"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:32:03+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:32:05+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220525221945id_/https://www.hawarnews.com/en/haber/an-isis-leader-killed-in-drone-attack-in-turkey-occupied-jarabulus-h27529.html"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220525221945id_/https://www.hawarnews.com/en/haber/an-isis-leader-killed-in-drone-attack-in-turkey-occupied-jarabulus-h27529.html",
   "incident_ids": [
     "airwars-79890"
   ],
@@ -85,10 +109,10 @@
     "https://www.hawarnews.com/en/haber/an-isis-leader-killed-in-drone-attack-in-turkey-occupied-jarabulus-h27529.html"
   ],
   "original_url": "https://www.hawarnews.com/en/haber/an-isis-leader-killed-in-drone-attack-in-turkey-occupied-jarabulus-h27529.html",
-  "page_title": "",
+  "page_title": "​​​​​​​An ISIS leader killed in drone attack in Turkey-occupied Jarabulus - ANHA | HAWARNEWS | English ​​​​​​​An ISIS leader killed in drone attack in Turkey-occupied Jarabulus - ANHA | HAWARNEWS | English ​​​​​​​An ISIS leader killed in drone attack in Turkey-occupied Jarabulus - ANHA | HAWARNEWS | English",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1969-november-7-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:32:05+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0519f853db36798014edc5e5",
   "source_type": "news_article",
   "stable_id_basis": "https://www.hawarnews.com/en/haber/an-isis-leader-killed-in-drone-attack-in-turkey-occupied-jarabulus-h27529.html",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Day after day, the fact that the Syrian areas occupied by Turkey have become safe areas for ISIS and its leaders is disclosed, as the GC has recently targeted these leaders via drones. According to the Coalition, in the city of Jarabulus in the northeastern countryside of Aleppo, which led to the death of one person and the serious injury of another, believed to be ISIS leaders.\n\nIt is noteworthy that the sources of the Syrian Observatory for Human Rights had reported, on November 3, that helicopters belonging to the GC forces led by the United States of America flew on November 2 over the areas occupied by Turkey and its mercenaries and carried out an airdrop operation in the Hawarna neighborhood in the occupied city of Serêkaniyê. And adjacent to the border, in addition to a landing in the occupied village of Alouk, and according to the sources of the Syrian Observatory, the GC forces arrested 6 ISIS leaders, three of whom are “a Saudi and an Australian, and the third is a Syrian from Raqqa,” while three others were arrested in the village of Alouk. North of the city, ISIS leaders returned to the area after Turkey occupied Serêkaniyê.\n\nA\n\nANHA\n\nOther news\n\nRural Manbij under Turkish and mercenary shelling\n\nUnknown war planes hover North eastern Syria\n\nTurkish occupation UAVs hover Shahba and Afrin",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/uz7T8"
+    "https://archive.ph/uz7T8",
+    "https://web.archive.org/web/20230206170224id_/https://www.syriahr.com/en/260614/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "797e1afb482937cb6ceb09d7fee30a720214e09f1aa9ec4579e8fea1db4583a7",
+  "content_variants": [
+    {
+      "bytes": 2650,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:04:08+00:00",
+      "sha256": "797e1afb482937cb6ceb09d7fee30a720214e09f1aa9ec4579e8fea1db4583a7",
+      "source_url": "https://web.archive.org/web/20230206170224id_/https://www.syriahr.com/en/260614/",
+      "text": "Second attack today and fourth in 48 hours | Turkish drone targets vehicle on road linking Al-Qamishly and Al-Malkiyah (Direk)\n\nSOHR activists have reported that a Turkish drone targeted a car on the road linking Al-Qamishly and Al-Malkiyah (Direk) in areas of the “Autonomous Administration” in Al-Hasakah, leaving casualties.\n\nIt is worth noting that this is the second aerial shelling today and the fourth in 48 hours.\n\nEarlier today, SOHR sources reported that a Turkish drone fired two missiles on the surrounding areas of a regime military post in Zor Maghar village in the western countryside of Ain Al-Arab (Kobani), east of Aleppo in the early hours of Friday morning. However, no casualties were reported.\n\nYesterday, a Turkish drone hit SDF military vehicle in Kaira village, about 40 kilometres from Syria-Turkey border, south-west of Al-Qamishli city, leaving SDF fighters wounded, according to Syrian Observatory sources.\n\nMeanwhile, two SDF members died of wounds sustained in an attack by a Turkish drone at the entrance to a tunnel within a tree reserve near “SDF” academy, in the countryside of Ain Al-Arab (Kobani) east of Aleppo\n\nAccordingly, the number of attacks carried out by Turkish drones on areas controlled by the “Autonomous Administration in northern and north-eastern Syria, AANES” since early 2022 has reached 38. These attacks left 24 people dead, including two children and six women, and over 74 others injured. Here is a monthly distribution of attacks by Turkish drones in 2022:\n\n• January: Three attacks left three people dead and 13 others injured.\n\n• February: Ten attacks killed eight people, including two children and a young female fighter, and injured 21 others.\n\n• March: Two attacks injured two people.\n\n• April: 11 attacks left six people dead, including three women, and 19 others injured.\n\n• May: Four attacks left three people dead, including a woman, and seven others injured.\n\n• June: Three attacks left a combatant dead and five others injured.\n\n• July: Five attacks left three SDF members dead and seven others injured.\n\nPrev Post\n\nWith over 180 shells | Factions shell 25 positions in regime areas in Aleppo, Idlib, Hama and Lattakia\n\nNext Post\n\nMilitary escalation | Factions fire missiles on regime position in Hama killing woman and young man\n\nSyria earthquake | nearly 900 people ki*lled so far\n\n“SOHR camera” captures efforts by residents and rescue teams to recover bodies and…\n\n“SOHR camera” captures efforts by residents and rescue teams to recover bodies and…\n\n“SOHR camera” in Al-Hasakah city captures residents staying in streets, fearing…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:04:06+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:04:08+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230206170224id_/https://www.syriahr.com/en/260614/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230206170224id_/https://www.syriahr.com/en/260614/",
   "incident_ids": [
     "airwars-84137"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/260614/"
   ],
   "original_url": "https://www.syriahr.com/en/260614/",
-  "page_title": "",
+  "page_title": "Second attack today and fourth in 48 hours | Turkish drone targets vehicle on road linking Al-Qamishly and Al-Malkiyah (Direk) • The Syrian Observatory For Human Rights Second attack today and fourth in 48 hours | Turkish drone targets vehicle on road linking Al-Qamishly and Al-Malkiyah (Direk) • The Syrian Observatory For Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts528-july-22-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:04:08+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d7873c780e870be82d0e2584",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/260614/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Second attack today and fourth in 48 hours | Turkish drone targets vehicle on road linking Al-Qamishly and Al-Malkiyah (Direk)\n\nSOHR activists have reported that a Turkish drone targeted a car on the road linking Al-Qamishly and Al-Malkiyah (Direk) in areas of the “Autonomous Administration” in Al-Hasakah, leaving casualties.\n\nIt is worth noting that this is the second aerial shelling today and the fourth in 48 hours.\n\nEarlier today, SOHR sources reported that a Turkish drone fired two missiles on the surrounding areas of a regime military post in Zor Maghar village in the western countryside of Ain Al-Arab (Kobani), east of Aleppo in the early hours of Friday morning. However, no casualties were reported.\n\nYesterday, a Turkish drone hit SDF military vehicle in Kaira village, about 40 kilometres from Syria-Turkey border, south-west of Al-Qamishli city, leaving SDF fighters wounded, according to Syrian Observatory sources.\n\nMeanwhile, two SDF members died of wounds sustained in an attack by a Turkish drone at the entrance to a tunnel within a tree reserve near “SDF” academy, in the countryside of Ain Al-Arab (Kobani) east of Aleppo\n\nAccordingly, the number of attacks carried out by Turkish drones on areas controlled by the “Autonomous Administration in northern and north-eastern Syria, AANES” since early 2022 has reached 38. These attacks left 24 people dead, including two children and six women, and over 74 others injured. Here is a monthly distribution of attacks by Turkish drones in 2022:\n\n• January: Three attacks left three people dead and 13 others injured.\n\n• February: Ten attacks killed eight people, including two children and a young female fighter, and injured 21 others.\n\n• March: Two attacks injured two people.\n\n• April: 11 attacks left six people dead, including three women, and 19 others injured.\n\n• May: Four attacks left three people dead, including a woman, and seven others injured.\n\n• June: Three attacks left a combatant dead and five others injured.\n\n• July: Five attacks left three SDF members dead and seven others injured.\n\nPrev Post\n\nWith over 180 shells | Factions shell 25 positions in regime areas in Aleppo, Idlib, Hama and Lattakia\n\nNext Post\n\nMilitary escalation | Factions fire missiles on regime position in Hama killing woman and young man\n\nSyria earthquake | nearly 900 people ki*lled so far\n\n“SOHR camera” captures efforts by residents and rescue teams to recover bodies and…\n\n“SOHR camera” captures efforts by residents and rescue teams to recover bodies and…\n\n“SOHR camera” in Al-Hasakah city captures residents staying in streets, fearing…",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

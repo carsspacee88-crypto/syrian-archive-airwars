@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/ijSXw"
+    "https://archive.is/ijSXw",
+    "https://web.archive.org/web/20231128222558id_/https://news.snhr.org/2022/11/15/two-civilians-killed-in-an-ied-explosion-ineastern-aleppo-november-15/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Network for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c7dd064401a3802f41a41072937d7579f05d7611ec0dccd73a4c6ce8a3232dae",
+  "content_variants": [
+    {
+      "bytes": 1247,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:34:42+00:00",
+      "sha256": "c7dd064401a3802f41a41072937d7579f05d7611ec0dccd73a4c6ce8a3232dae",
+      "source_url": "https://web.archive.org/web/20231128222558id_/https://news.snhr.org/2022/11/15/two-civilians-killed-in-an-ied-explosion-ineastern-aleppo-november-15/",
+      "text": "Date:\n\nTwo civilians killed in an IED explosion ineastern Aleppo, November 15\n\nRelated News\n\nMan named Abdul Karim al-Harith by the SDF in W. Deir Ez-Zour governorate, November 26, 2023\n\nMan named Hassan al-Hussein killed in motorbike explosion of unidentified source, E. Aleppo, November 25, 2023\n\nThe daily death toll of civilian victims in Syria on November 26, 2023\n\nOn November 15, 2022, two civilians, 37-year-old Jamal al-Attaya from al-Alloush village, administratively affiliated with Manbej city in eastern Aleppo governorate and another civilian we have yet to identify, were killed by an IED whose source we have been unable to identify as of yet near a public road in al-Alloush village, which is under the control of Syrian Democratic Forces (SDF).\n\nThe Syrian Network for Human Rights (SNHR) is still trying to locate eyewitnesses to obtain more information about the incident.\n\nSNHR condemns all bombings targeting civilians. We call on the controlling party to uphold their responsibilities in protecting civilians in their areas, investigate the incident, and make its details known to the public. Syria will never have true stability without a true political transition process to implement democracy under a concrete timetable."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:34:41+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:34:42+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231128222558id_/https://news.snhr.org/2022/11/15/two-civilians-killed-in-an-ied-explosion-ineastern-aleppo-november-15/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231128222558id_/https://news.snhr.org/2022/11/15/two-civilians-killed-in-an-ied-explosion-ineastern-aleppo-november-15/",
   "incident_ids": [
     "airwars-85391"
   ],
@@ -85,10 +109,10 @@
     "https://news.snhr.org/2022/11/15/two-civilians-killed-in-an-ied-explosion-ineastern-aleppo-november-15/"
   ],
   "original_url": "https://news.snhr.org/2022/11/15/two-civilians-killed-in-an-ied-explosion-ineastern-aleppo-november-15/",
-  "page_title": "",
+  "page_title": "Two civilians killed in an IED explosion ineastern Aleppo, November 15 Two civilians killed in an IED explosion ineastern Aleppo, November 15 Two civilians killed in an IED explosion ineastern Aleppo, November 15",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys157-november-15-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:34:42+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-281f4b50a4dcd8ceefab118b",
   "source_type": "news_article",
   "stable_id_basis": "https://news.snhr.org/2022/11/15/two-civilians-killed-in-an-ied-explosion-ineastern-aleppo-november-15/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Date:\n\nTwo civilians killed in an IED explosion ineastern Aleppo, November 15\n\nRelated News\n\nMan named Abdul Karim al-Harith by the SDF in W. Deir Ez-Zour governorate, November 26, 2023\n\nMan named Hassan al-Hussein killed in motorbike explosion of unidentified source, E. Aleppo, November 25, 2023\n\nThe daily death toll of civilian victims in Syria on November 26, 2023\n\nOn November 15, 2022, two civilians, 37-year-old Jamal al-Attaya from al-Alloush village, administratively affiliated with Manbej city in eastern Aleppo governorate and another civilian we have yet to identify, were killed by an IED whose source we have been unable to identify as of yet near a public road in al-Alloush village, which is under the control of Syrian Democratic Forces (SDF).\n\nThe Syrian Network for Human Rights (SNHR) is still trying to locate eyewitnesses to obtain more information about the incident.\n\nSNHR condemns all bombings targeting civilians. We call on the controlling party to uphold their responsibilities in protecting civilians in their areas, investigate the incident, and make its details known to the public. Syria will never have true stability without a true political transition process to implement democracy under a concrete timetable.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -67,8 +67,20 @@
   "content_hash": null,
   "content_variants": [],
   "descriptions": [],
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:51:04+00:00",
+      "provider": "wayback",
+      "status": null
+    },
+    {
+      "at": "2026-08-01T13:51:21+00:00",
+      "provider": "arquivo",
+      "status": 200
+    }
+  ],
   "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
+  "failure_reason": "no_capture",
   "final_redirected_url": "",
   "incident_ids": [
     "airwars-102815"
@@ -108,7 +120,7 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
+  "retrieval_status": "no_capture",
   "retrieved_at": null,
   "review_flags": [],
   "schema_version": "1.0.0",

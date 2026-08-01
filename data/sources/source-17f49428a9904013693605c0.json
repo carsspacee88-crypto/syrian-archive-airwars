@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/Ugrwa"
+    "https://archive.is/Ugrwa",
+    "https://web.archive.org/web/20240524200238id_/https://www.facebook.com/Jisr.Media.Center/posts/pfbid03UzfEHzDJxgrNRiKtQyBVFfATmExmRCk5YrxyqRSpDF7izSfNRBt879YJ4a9yFmql"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Jisr al-Shughour",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "4af2ca783c1e4df1f0f0f88de61400af757f5e3b9184a47b8079e80ec2b4a895",
+  "content_variants": [
+    {
+      "bytes": 624,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:32:31+00:00",
+      "sha256": "4af2ca783c1e4df1f0f0f88de61400af757f5e3b9184a47b8079e80ec2b4a895",
+      "source_url": "https://web.archive.org/web/20240524200238id_/https://www.facebook.com/Jisr.Media.Center/posts/pfbid03UzfEHzDJxgrNRiKtQyBVFfATmExmRCk5YrxyqRSpDF7izSfNRBt879YJ4a9yFmql",
+      "text": "عدة اصابات وتضرر سيارة لنقل المياه نتيجة القصف المدفعي الذي استهدف مدينة #جسرالشغور غرب #إدلب قبل قليل، مصدر القصف قوات النظام المتمركزة في معسكر جورين...\n\nعدة اصابات وتضرر سيارة لنقل المياه نتيجة القصف المدفعي الذي استهدف مدينة #جسرالشغور غرب #إدلب قبل قليل، مصدر القصف قوات النظام المتمركزة في معسكر جورين بسهل الغاب.\n#مركز_جسرالشغور_الإعلامي"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:32:30+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:32:31+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524200238id_/https://www.facebook.com/Jisr.Media.Center/posts/pfbid03UzfEHzDJxgrNRiKtQyBVFfATmExmRCk5YrxyqRSpDF7izSfNRBt879YJ4a9yFmql"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524200238id_/https://www.facebook.com/Jisr.Media.Center/posts/pfbid03UzfEHzDJxgrNRiKtQyBVFfATmExmRCk5YrxyqRSpDF7izSfNRBt879YJ4a9yFmql",
   "incident_ids": [
     "airwars-103771"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/Jisr.Media.Center/posts/pfbid03UzfEHzDJxgrNRiKtQyBVFfATmExmRCk5YrxyqRSpDF7izSfNRBt879YJ4a9yFmql"
   ],
   "original_url": "https://www.facebook.com/Jisr.Media.Center/posts/pfbid03UzfEHzDJxgrNRiKtQyBVFfATmExmRCk5YrxyqRSpDF7izSfNRBt879YJ4a9yFmql",
-  "page_title": "",
+  "page_title": "مركز جسر الشغور الإعلامي Jmc مركز جسر الشغور الإعلامي Jmc عدة اصابات وتضرر سيارة... - مركز جسر الشغور الإعلامي Jmc",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4813-september-25-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:32:31+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-17f49428a9904013693605c0",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/Jisr.Media.Center/posts/pfbid03UzfEHzDJxgrNRiKtQyBVFfATmExmRCk5YrxyqRSpDF7izSfNRBt879YJ4a9yFmql",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "عدة اصابات وتضرر سيارة لنقل المياه نتيجة القصف المدفعي الذي استهدف مدينة #جسرالشغور غرب #إدلب قبل قليل، مصدر القصف قوات النظام المتمركزة في معسكر جورين...\n\nعدة اصابات وتضرر سيارة لنقل المياه نتيجة القصف المدفعي الذي استهدف مدينة #جسرالشغور غرب #إدلب قبل قليل، مصدر القصف قوات النظام المتمركزة في معسكر جورين بسهل الغاب.\n#مركز_جسرالشغور_الإعلامي",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

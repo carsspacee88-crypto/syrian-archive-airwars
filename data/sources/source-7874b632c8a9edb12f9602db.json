@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/LM691"
+    "https://archive.is/LM691",
+    "https://web.archive.org/web/20240130053640id_/https://twitter.com/SyriaCivilDefe/status/1739425077521776684"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@SyriaCivilDefe",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f12ef95341240ff5dc806290c1df15a22340c915b7b11012aed9168f8033f9ec",
+  "content_variants": [
+    {
+      "bytes": 480,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:44:27+00:00",
+      "sha256": "f12ef95341240ff5dc806290c1df15a22340c915b7b11012aed9168f8033f9ec",
+      "source_url": "https://web.archive.org/web/20240130053640id_/https://twitter.com/SyriaCivilDefe/status/1739425077521776684",
+      "text": "\"عم يتنفس بصعوبة… خلونا نعمله إسعافات\"\nلحظات تحبس الأنفاس على أمل إنقاذ أحد الأطفال من ضحايا المجزرة التي ارتكبتها الطائرات الروسية وراح ضحيتها عائلة كاملة (رجل وزوجته و3 من أطفالهم ونجا طفل واحد أصيب بجراح) في ريف #إدلب، مساء الاثنين 25 كانون الأول.\n#الخوذ_البيضاء…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:44:26+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:44:27+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240130053640id_/https://twitter.com/SyriaCivilDefe/status/1739425077521776684"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240130053640id_/https://twitter.com/SyriaCivilDefe/status/1739425077521776684",
   "incident_ids": [
     "airwars-113807"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/SyriaCivilDefe/status/1739425077521776684"
   ],
   "original_url": "https://twitter.com/SyriaCivilDefe/status/1739425077521776684",
-  "page_title": "",
+  "page_title": "الدفاع المدني السوري (@SyriaCivilDefe) on X",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4878-december-26-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:44:27+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7874b632c8a9edb12f9602db",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/SyriaCivilDefe/status/1739425077521776684",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "\"عم يتنفس بصعوبة… خلونا نعمله إسعافات\"\nلحظات تحبس الأنفاس على أمل إنقاذ أحد الأطفال من ضحايا المجزرة التي ارتكبتها الطائرات الروسية وراح ضحيتها عائلة كاملة (رجل وزوجته و3 من أطفالهم ونجا طفل واحد أصيب بجراح) في ريف #إدلب، مساء الاثنين 25 كانون الأول.\n#الخوذ_البيضاء…",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

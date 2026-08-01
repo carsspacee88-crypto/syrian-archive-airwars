@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/e1qBw"
+    "https://archive.md/e1qBw",
+    "https://web.archive.org/web/20240515184633id_/https://www.facebook.com/HalabTodayTV/posts/5407553832595344"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "HalabTodayTV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "28a6c30ea10c8e370f8b4f214ce24b1ac2be8a04e841a657becf5ce109d8c874",
+  "content_variants": [
+    {
+      "bytes": 167,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:37:56+00:00",
+      "sha256": "28a6c30ea10c8e370f8b4f214ce24b1ac2be8a04e841a657becf5ce109d8c874",
+      "source_url": "https://web.archive.org/web/20240515184633id_/https://www.facebook.com/HalabTodayTV/posts/5407553832595344",
+      "text": "عاجل | مراسلنا: مقتل مدنيين اثنين فـي غارة جوية روسية على منطقة جبل السماق بريف #إدلب الشمالي"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:37:55+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:37:56+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515184633id_/https://www.facebook.com/HalabTodayTV/posts/5407553832595344"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515184633id_/https://www.facebook.com/HalabTodayTV/posts/5407553832595344",
   "incident_ids": [
     "airwars-80172"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/HalabTodayTV/posts/5407553832595344"
   ],
   "original_url": "https://www.facebook.com/HalabTodayTV/posts/5407553832595344",
-  "page_title": "",
+  "page_title": "Halab Today TV قناة حلب اليوم Halab Today TV قناة حلب اليوم عاجل | مراسلنا: مقتل... - Halab Today TV قناة حلب اليوم",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4669-november-22-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:37:56+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-42e4c2ef50bbf4a3b2e709d9",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/HalabTodayTV/posts/5407553832595344",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "عاجل | مراسلنا: مقتل مدنيين اثنين فـي غارة جوية روسية على منطقة جبل السماق بريف #إدلب الشمالي",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

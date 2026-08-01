@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/6HT8G"
+    "https://archive.ph/6HT8G",
+    "https://web.archive.org/web/20250519013832id_/https://www.adarpress.com/?p=29112&fbclid=IwAR2DcB3ClayGkSkGu69hnni4j72dmg3Y3snvbVedo20O5CoJ2Jn4vYnpptQ"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Adar press news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "bcd323ceed2a6e7f4376e7bc504f6d33ac2c59477ad831b7afd9d079ea7bdaa1",
+  "content_variants": [
+    {
+      "bytes": 1784,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:06:38+00:00",
+      "sha256": "bcd323ceed2a6e7f4376e7bc504f6d33ac2c59477ad831b7afd9d079ea7bdaa1",
+      "source_url": "https://web.archive.org/web/20250519013832id_/https://www.adarpress.com/?p=29112&fbclid=IwAR2DcB3ClayGkSkGu69hnni4j72dmg3Y3snvbVedo20O5CoJ2Jn4vYnpptQ",
+      "text": "أعلن مجلس منبج العسكري، الاثنين، أن القوات التركية استهدفت قرية التوخار بريف منبج الشمالي بطائرة مسيرة، مما أدى إلى إصابة أحد السكان بجروح.\n\nوتتعرض مدينة منبج ومدن شمالي سوريا الحدودية مع تركيا لقصف تركي مستمر يستهدف البنى التحتية والمنشآت الحيوية وقرى آهلة بالسكان وغالباً ما ينجم عن هذا القصف ضحايا من المدنيين وخسائر بممتلكات السكان.\n\nوقال مجلس منبج العسكري في بيان له، إن “مسيرة صغيرة تابعة للاحتلال التركي استهدفت قرية التوخار الواقعة في الريف الشمالي لمدينة منبج”.\n\nوأضاف أن هذا الاستهداف جاء بالتزامن مع قصف مدفعي على قرية عون الدادات في الريف الشمالي للمدينة، موضحاً أن القرى التي تعرضت للقصف آهلة بالسكان مما تسبب بإصابة أحد السكان بجروح جراء استهداف المسيرة.\n\nمقالات ذات صلة\n\nلجمعية العامة للأمم المتحدة تصوت على إنشاء مؤسسة لكشف مصـ ـير المفـ ـقودين بسوريا\n\nإسرائيل تلوح بضربة كبرى وإيران تهدد برد حاسم\n\nالقوات الأميركية تشن غـ ـارة جوية على منشأة إيرانية في البوكمال السورية\n\nقتـ ـلى وجـ ـرحى باستـ ـهدافات متبادلة بين قـ ـوات حكومة دمشق “والنصـ ـرة” بريفي حلب وإدلب"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:06:37+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:06:38+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250519013832id_/https://www.adarpress.com/?p=29112&fbclid=IwAR2DcB3ClayGkSkGu69hnni4j72dmg3Y3snvbVedo20O5CoJ2Jn4vYnpptQ"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250519013832id_/https://www.adarpress.com/?p=29112&fbclid=IwAR2DcB3ClayGkSkGu69hnni4j72dmg3Y3snvbVedo20O5CoJ2Jn4vYnpptQ",
   "incident_ids": [
     "airwars-103520"
   ],
@@ -85,10 +109,10 @@
     "https://www.adarpress.com/?p=29112&fbclid=IwAR2DcB3ClayGkSkGu69hnni4j72dmg3Y3snvbVedo20O5CoJ2Jn4vYnpptQ"
   ],
   "original_url": "https://www.adarpress.com/?p=29112&fbclid=IwAR2DcB3ClayGkSkGu69hnni4j72dmg3Y3snvbVedo20O5CoJ2Jn4vYnpptQ",
-  "page_title": "",
+  "page_title": "طائرة مسـ ـيرة تركية تسـ ـتهدف ريف منبج - Adar Press طائرة مسـ ـيرة تركية تسـ ـتهدف ريف منبج - Adar Press",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts656-october-30-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:06:38+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ef915cea2423e02c70a9f752",
   "source_type": "news_article",
   "stable_id_basis": "https://www.adarpress.com/?p=29112&fbclid=IwAR2DcB3ClayGkSkGu69hnni4j72dmg3Y3snvbVedo20O5CoJ2Jn4vYnpptQ",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "أعلن مجلس منبج العسكري، الاثنين، أن القوات التركية استهدفت قرية التوخار بريف منبج الشمالي بطائرة مسيرة، مما أدى إلى إصابة أحد السكان بجروح.\n\nوتتعرض مدينة منبج ومدن شمالي سوريا الحدودية مع تركيا لقصف تركي مستمر يستهدف البنى التحتية والمنشآت الحيوية وقرى آهلة بالسكان وغالباً ما ينجم عن هذا القصف ضحايا من المدنيين وخسائر بممتلكات السكان.\n\nوقال مجلس منبج العسكري في بيان له، إن “مسيرة صغيرة تابعة للاحتلال التركي استهدفت قرية التوخار الواقعة في الريف الشمالي لمدينة منبج”.\n\nوأضاف أن هذا الاستهداف جاء بالتزامن مع قصف مدفعي على قرية عون الدادات في الريف الشمالي للمدينة، موضحاً أن القرى التي تعرضت للقصف آهلة بالسكان مما تسبب بإصابة أحد السكان بجروح جراء استهداف المسيرة.\n\nمقالات ذات صلة\n\nلجمعية العامة للأمم المتحدة تصوت على إنشاء مؤسسة لكشف مصـ ـير المفـ ـقودين بسوريا\n\nإسرائيل تلوح بضربة كبرى وإيران تهدد برد حاسم\n\nالقوات الأميركية تشن غـ ـارة جوية على منشأة إيرانية في البوكمال السورية\n\nقتـ ـلى وجـ ـرحى باستـ ـهدافات متبادلة بين قـ ـوات حكومة دمشق “والنصـ ـرة” بريفي حلب وإدلب",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

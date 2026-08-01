@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/LHS7E"
+    "https://archive.md/LHS7E",
+    "https://web.archive.org/web/20211114200956id_/https://nedaa-post.com/article/Art8478Z7eyBtMb"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Nedaa post",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "4cd5712ba57ec7f6860af6327419df2704fa85d39793ed35374070bc21bf7af2",
+  "content_variants": [
+    {
+      "bytes": 1702,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:32:21+00:00",
+      "sha256": "4cd5712ba57ec7f6860af6327419df2704fa85d39793ed35374070bc21bf7af2",
+      "source_url": "https://web.archive.org/web/20211114200956id_/https://nedaa-post.com/article/Art8478Z7eyBtMb",
+      "text": "قوات النظام تستهدف \"تفتناز\" بريف إدلب الشرقي\n\nادلب\n\nنداء بوست\n\n2021/11/14\n\nنداء بوست- أسعد الأسعد- إدلب\n\nاستأنفت قوات النظام السوري قصفها لقرى وبلدات ريف إدلب الشرقي مساء اليوم الأحد.\n\nوأفاد مراسل \"نداء بوست\" بأن قوات النظام المتمركزة بمدينة \"سراقب\" قصفت الأطراف الجنوبية للمدينة بعدد من القذائف الليزرية \"كراسنوبول\".\n\nوأكد المراسل وقوع إصابتين في صفوف المدنيين جراء الاستهداف، أسعفتهما فِرَق الدفاع المدني، ونقلتهما إلى مشافي المنطقة.\n\nوتستمر قوات النظام باستهداف مناطق متفرقة وعديدة من ريف محافظة إدلب شمال غرب سورية.\n\nالوسوم المشهورة:\n\nسراقب\n\nالنظام السوري\n\nقصف\n\nمن الممكن أن يعجبك\n\nالدفاع المدني يخمد عدة حرائق شمال غرب سورية\n\n2021/11/14\n\n\"مُصالَحة وطنية\" في دير الزور من طرف واحد\n\n2021/11/14\n\nدورية عسكرية أمريكية تتجول شرق الحسكة\n\n2021/11/14\n\nمراحل الثورات وحياة الدول… دورة عكسية جديرة بالتأمُّل والأمل\n\n2021/11/14\n\nنداء بوست\n\nموقع نداء بوست منصّة إخبارية سياسية ثقافية اجتماعية اقتصادية منوّعة\n\n2021/11/14\n\nنداء بوست\n\n2021/11/14\n\nنداء بوست\n\n2021/11/14\n\nنداء بوست\n\n2021/11/14\n\nنداء بوست"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:32:20+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:32:21+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211114200956id_/https://nedaa-post.com/article/Art8478Z7eyBtMb"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211114200956id_/https://nedaa-post.com/article/Art8478Z7eyBtMb",
   "incident_ids": [
     "airwars-80051"
   ],
@@ -85,10 +109,10 @@
     "https://nedaa-post.com/article/Art8478Z7eyBtMb"
   ],
   "original_url": "https://nedaa-post.com/article/Art8478Z7eyBtMb",
-  "page_title": "",
+  "page_title": "قوات النظام تستهدف \"تفتناز\" بريف إدلب الشرقي \"نداء بوست\" منصّة إخبارية سياسية ثقافية اجتماعية اقتصادية منوّعة \"نداء بوست\" منصّة إخبارية سياسية ثقافية اجتماعية اقتصادية منوّعة قوات النظام تستهدف \"تفتناز\" بريف إدلب الشرقي قوات النظام تستهدف \"تفتناز\" بريف إدلب الشرقي",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4667-november-14-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:32:21+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0a8a6e424a37e30d2e66e767",
   "source_type": "other_web_page",
   "stable_id_basis": "https://nedaa-post.com/article/Art8478Z7eyBtMb",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قوات النظام تستهدف \"تفتناز\" بريف إدلب الشرقي\n\nادلب\n\nنداء بوست\n\n2021/11/14\n\nنداء بوست- أسعد الأسعد- إدلب\n\nاستأنفت قوات النظام السوري قصفها لقرى وبلدات ريف إدلب الشرقي مساء اليوم الأحد.\n\nوأفاد مراسل \"نداء بوست\" بأن قوات النظام المتمركزة بمدينة \"سراقب\" قصفت الأطراف الجنوبية للمدينة بعدد من القذائف الليزرية \"كراسنوبول\".\n\nوأكد المراسل وقوع إصابتين في صفوف المدنيين جراء الاستهداف، أسعفتهما فِرَق الدفاع المدني، ونقلتهما إلى مشافي المنطقة.\n\nوتستمر قوات النظام باستهداف مناطق متفرقة وعديدة من ريف محافظة إدلب شمال غرب سورية.\n\nالوسوم المشهورة:\n\nسراقب\n\nالنظام السوري\n\nقصف\n\nمن الممكن أن يعجبك\n\nالدفاع المدني يخمد عدة حرائق شمال غرب سورية\n\n2021/11/14\n\n\"مُصالَحة وطنية\" في دير الزور من طرف واحد\n\n2021/11/14\n\nدورية عسكرية أمريكية تتجول شرق الحسكة\n\n2021/11/14\n\nمراحل الثورات وحياة الدول… دورة عكسية جديرة بالتأمُّل والأمل\n\n2021/11/14\n\nنداء بوست\n\nموقع نداء بوست منصّة إخبارية سياسية ثقافية اجتماعية اقتصادية منوّعة\n\n2021/11/14\n\nنداء بوست\n\n2021/11/14\n\nنداء بوست\n\n2021/11/14\n\nنداء بوست\n\n2021/11/14\n\nنداء بوست",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

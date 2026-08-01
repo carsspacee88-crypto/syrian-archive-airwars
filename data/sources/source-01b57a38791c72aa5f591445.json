@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20240524195516id_/https://www.facebook.com/IDLEBCITYNEWS1/posts/pfbid02fkc7jrfdQQp7PBDVKWmT3UK7ufBhfeqkYLW58xwY9BZZoCu2P1bs6nRsdx7tLgdrl"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -37,12 +39,35 @@
   "author": "Coordination of the Syrian Revolution",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "bd8301f23643508a46e22767b7c14001371225db8569af2087bba749b3d8dc24",
+  "content_variants": [
+    {
+      "bytes": 611,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:32:04+00:00",
+      "sha256": "bd8301f23643508a46e22767b7c14001371225db8569af2087bba749b3d8dc24",
+      "source_url": "https://web.archive.org/web/20240524195516id_/https://www.facebook.com/IDLEBCITYNEWS1/posts/pfbid02fkc7jrfdQQp7PBDVKWmT3UK7ufBhfeqkYLW58xwY9BZZoCu2P1bs6nRsdx7tLgdrl",
+      "text": "عاجل //مدينة #ادلب//\nقصف مدفعي وصاروخي مكثف لقوات النظام والاحتلال الروسي يستهدف بلدات #بنش #سرمين #أريحا والأطراف الشرقية الجنوبية لمدينة #ادلب.\nاللهم...\n\nعاجل //مدينة #ادلب//\nقصف مدفعي وصاروخي مكثف لقوات النظام والاحتلال الروسي يستهدف بلدات #بنش #سرمين #أريحا والأطراف الشرقية الجنوبية لمدينة #ادلب.\nاللهم برداً وسلاماً.\n\n#تنسيقية_مدينة_ادلب"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:32:03+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:32:04+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524195516id_/https://www.facebook.com/IDLEBCITYNEWS1/posts/pfbid02fkc7jrfdQQp7PBDVKWmT3UK7ufBhfeqkYLW58xwY9BZZoCu2P1bs6nRsdx7tLgdrl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524195516id_/https://www.facebook.com/IDLEBCITYNEWS1/posts/pfbid02fkc7jrfdQQp7PBDVKWmT3UK7ufBhfeqkYLW58xwY9BZZoCu2P1bs6nRsdx7tLgdrl",
   "incident_ids": [
     "airwars-101808"
   ],
@@ -58,10 +83,10 @@
     "https://www.facebook.com/IDLEBCITYNEWS1/posts/pfbid02fkc7jrfdQQp7PBDVKWmT3UK7ufBhfeqkYLW58xwY9BZZoCu2P1bs6nRsdx7tLgdrl"
   ],
   "original_url": "https://www.facebook.com/IDLEBCITYNEWS1/posts/pfbid02fkc7jrfdQQp7PBDVKWmT3UK7ufBhfeqkYLW58xwY9BZZoCu2P1bs6nRsdx7tLgdrl",
-  "page_title": "",
+  "page_title": "تنسيقية الثورة السورية في مدينة ادلب تنسيقية الثورة السورية في مدينة ادلب عاجل //مدينة... - تنسيقية الثورة السورية في مدينة ادلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4822-october-5-2023/",
@@ -81,15 +106,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:32:04+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-01b57a38791c72aa5f591445",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/IDLEBCITYNEWS1/posts/pfbid02fkc7jrfdQQp7PBDVKWmT3UK7ufBhfeqkYLW58xwY9BZZoCu2P1bs6nRsdx7tLgdrl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "عاجل //مدينة #ادلب//\nقصف مدفعي وصاروخي مكثف لقوات النظام والاحتلال الروسي يستهدف بلدات #بنش #سرمين #أريحا والأطراف الشرقية الجنوبية لمدينة #ادلب.\nاللهم...\n\nعاجل //مدينة #ادلب//\nقصف مدفعي وصاروخي مكثف لقوات النظام والاحتلال الروسي يستهدف بلدات #بنش #سرمين #أريحا والأطراف الشرقية الجنوبية لمدينة #ادلب.\nاللهم برداً وسلاماً.\n\n#تنسيقية_مدينة_ادلب",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

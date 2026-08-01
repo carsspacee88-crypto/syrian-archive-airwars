@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/odpFS"
+    "https://archive.md/odpFS",
+    "https://web.archive.org/web/20240515190137id_/https://www.facebook.com/SYRMMC/posts/1255548608245094"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@SYRMMC",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "39337e69c6daef21c960d8e4d86a03c416a5f8567be3183ce3f9dbb30048a87f",
+  "content_variants": [
+    {
+      "bytes": 184,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:46:24+00:00",
+      "sha256": "39337e69c6daef21c960d8e4d86a03c416a5f8567be3183ce3f9dbb30048a87f",
+      "source_url": "https://web.archive.org/web/20240515190137id_/https://www.facebook.com/SYRMMC/posts/1255548608245094",
+      "text": "عاجل || قوات النظام تستهدف بالمدفعية الثقيلة ( كروسنبول) بلدة تفتناز بريف إدلب ادت إلى وقوع إصابتين\n\n#MMC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:46:23+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:46:24+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515190137id_/https://www.facebook.com/SYRMMC/posts/1255548608245094"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515190137id_/https://www.facebook.com/SYRMMC/posts/1255548608245094",
   "incident_ids": [
     "airwars-80051"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/SYRMMC/posts/1255548608245094"
   ],
   "original_url": "https://www.facebook.com/SYRMMC/posts/1255548608245094",
-  "page_title": "",
+  "page_title": "المركز الإعلامي العام MMC المركز الإعلامي العام MMC عاجل || قوات النظام تستهدف... - المركز الإعلامي العام MMC",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4667-november-14-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:46:24+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-863f74a2b1e4f45e4402be13",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SYRMMC/posts/1255548608245094",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "عاجل || قوات النظام تستهدف بالمدفعية الثقيلة ( كروسنبول) بلدة تفتناز بريف إدلب ادت إلى وقوع إصابتين\n\n#MMC",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

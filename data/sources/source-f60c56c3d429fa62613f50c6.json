@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/e7OJe"
+    "https://archive.is/e7OJe",
+    "https://web.archive.org/web/20220818113304id_/https://twitter.com/Sharqya_reporte/status/1560203878779469824"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@Sharqya_reporte",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "74ad011ab701d5b829238a0e9b2b205106cf251f8869deecbd9abb3653c3c50a",
+  "content_variants": [
+    {
+      "bytes": 418,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:06:51+00:00",
+      "sha256": "74ad011ab701d5b829238a0e9b2b205106cf251f8869deecbd9abb3653c3c50a",
+      "source_url": "https://web.archive.org/web/20220818113304id_/https://twitter.com/Sharqya_reporte/status/1560203878779469824",
+      "text": "Conversationمراسل الشرقية الرسمي@Sharqya_reporte#عاجل\nمقتل الشاب \"محمد ضياء ناصر\" متأثراً بجراحه التي أصيب بها جراء القصف المدفعي لميليشيات قسد الإرهابية على أطراف مدينة \"مارع\" بريف حلب الشمالي .\n#مراسل_الشرقية_الرسمي ✅9:56 AM · Aug 18, 2022·Twitter for Android"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:06:50+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:06:51+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220818113304id_/https://twitter.com/Sharqya_reporte/status/1560203878779469824"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220818113304id_/https://twitter.com/Sharqya_reporte/status/1560203878779469824",
   "incident_ids": [
     "airwars-84671"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/Sharqya_reporte/status/1560203878779469824"
   ],
   "original_url": "https://twitter.com/Sharqya_reporte/status/1560203878779469824",
-  "page_title": "",
+  "page_title": "مراسل الشرقية الرسمي on Twitter مراسل الشرقية الرسمي on Twitter: \"#عاجل\nمقتل الشاب \"محمد ضياء ناصر\" متأثراً بجراحه التي أصيب بها جراء القصف المدفعي لميليشيات قسد الإرهابية على أطراف مدينة \"مارع\" بريف حلب الشمالي .\n#مراسل_الشرقية_الرسمي ✅\" / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys148-august-18-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:06:51+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f60c56c3d429fa62613f50c6",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/Sharqya_reporte/status/1560203878779469824",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Conversationمراسل الشرقية الرسمي@Sharqya_reporte#عاجل\nمقتل الشاب \"محمد ضياء ناصر\" متأثراً بجراحه التي أصيب بها جراء القصف المدفعي لميليشيات قسد الإرهابية على أطراف مدينة \"مارع\" بريف حلب الشمالي .\n#مراسل_الشرقية_الرسمي ✅9:56 AM · Aug 18, 2022·Twitter for Android",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

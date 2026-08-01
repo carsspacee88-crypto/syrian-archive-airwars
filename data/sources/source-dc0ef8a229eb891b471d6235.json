@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/3PsoL"
+    "https://archive.is/3PsoL",
+    "https://web.archive.org/web/20250929081159id_/https://hawarnews.com/ar/169685280085229"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Hawar News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "18ef36dd117973b1ae5dd9e87ba444f2304a5e54ea4ee337bacace3010beaf19",
+  "content_variants": [
+    {
+      "bytes": 1449,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:04:16+00:00",
+      "sha256": "18ef36dd117973b1ae5dd9e87ba444f2304a5e54ea4ee337bacace3010beaf19",
+      "source_url": "https://web.archive.org/web/20250929081159id_/https://hawarnews.com/ar/169685280085229",
+      "text": "الإثنين 29 يلول, 2025\n\nمقتل 4 أشخاص في اعتداء مسلح داخل كنيسة في أمريكا\n\nوزير الزراعة الصيني السابق يُحكم عليه بالإعدام لتلقّيه رشاوى\n\nأزمات تلاحق إيران وإسرائيل\n\nالوفد النسائي لشمال وشرق سوريا يلتقي اتحاد نساء بيث نهرين بسويسرا\n\nالجدل حول مستقبل فلسطين محور الصحف\n\nمجازر الساحل والسويداء.. تنسيق دموي يواجه الحكومة الانتقالية في سوريا\n\nسبعيني يحافظ على إرث الدراجات الهوائية في قلب الدرباسية\n\nحقوقي: العزلة المفروضة على القائد انتهاك صارخ للقوانين الدولية\n\nمخطط وكالة أنباء هاوار 29-9-2025\n\nمقتل 4 عمال برصاص مسلحين في ريف حماة\n\nقسد تكشف سجل 4 مقاتلين استشهدوا أثناء تصديهم لهجوم خلايا داعش\n\nتشييع جثمان الشهيد هلمت حلبجة بمراسم مهيبة في مسقط رأسه\n\nترامب: خطة غزة ستنهي الحرب وستدفع نحو السلام\n\nانطلاق فعاليات مهرجان \"ليالي الفرات\" في الرقة\n\nاللغة/Language\n\nعربي\nKURDÎ\nTÜRKÇE\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nTÜRKÇE\n\nENGLISH\n\nSPANISH\n\nRUSSIAN"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:04:15+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:04:16+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250929081159id_/https://hawarnews.com/ar/169685280085229"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250929081159id_/https://hawarnews.com/ar/169685280085229",
   "incident_ids": [
     "airwars-102705"
   ],
@@ -85,10 +109,10 @@
     "https://hawarnews.com/ar/169685280085229"
   ],
   "original_url": "https://hawarnews.com/ar/169685280085229",
-  "page_title": "",
+  "page_title": "​​​​​​​ما وضع العاملات اللواتي أُصبن جراء قصف الاحتلال التركي؟ -ANHA ​​​​​​​ما وضع العاملات اللواتي أُصبن جراء قصف الاحتلال التركي؟ ​​​​​​​ما وضع العاملات اللواتي أُصبن جراء قصف الاحتلال التركي؟",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts647-october-9-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:04:16+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-dc0ef8a229eb891b471d6235",
   "source_type": "news_article",
   "stable_id_basis": "https://hawarnews.com/ar/169685280085229",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "الإثنين 29 يلول, 2025\n\nمقتل 4 أشخاص في اعتداء مسلح داخل كنيسة في أمريكا\n\nوزير الزراعة الصيني السابق يُحكم عليه بالإعدام لتلقّيه رشاوى\n\nأزمات تلاحق إيران وإسرائيل\n\nالوفد النسائي لشمال وشرق سوريا يلتقي اتحاد نساء بيث نهرين بسويسرا\n\nالجدل حول مستقبل فلسطين محور الصحف\n\nمجازر الساحل والسويداء.. تنسيق دموي يواجه الحكومة الانتقالية في سوريا\n\nسبعيني يحافظ على إرث الدراجات الهوائية في قلب الدرباسية\n\nحقوقي: العزلة المفروضة على القائد انتهاك صارخ للقوانين الدولية\n\nمخطط وكالة أنباء هاوار 29-9-2025\n\nمقتل 4 عمال برصاص مسلحين في ريف حماة\n\nقسد تكشف سجل 4 مقاتلين استشهدوا أثناء تصديهم لهجوم خلايا داعش\n\nتشييع جثمان الشهيد هلمت حلبجة بمراسم مهيبة في مسقط رأسه\n\nترامب: خطة غزة ستنهي الحرب وستدفع نحو السلام\n\nانطلاق فعاليات مهرجان \"ليالي الفرات\" في الرقة\n\nاللغة/Language\n\nعربي\nKURDÎ\nTÜRKÇE\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nTÜRKÇE\n\nENGLISH\n\nSPANISH\n\nRUSSIAN",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/pzYDV"
+    "https://archive.is/pzYDV",
+    "https://web.archive.org/web/20240724092955id_/https://english.alarabiya.net/News/middle-east/2021/08/20/Israel-conducts-air-strikes-on-targets-in-Syria-through-Lebanon-s-airspace"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Al Arabiya",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2e1e0dfce4678f4f523d0feeb1395b0bf762170a21e6ee346245bd98f8c73d65",
+  "content_variants": [
+    {
+      "bytes": 2191,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:32:04+00:00",
+      "sha256": "2e1e0dfce4678f4f523d0feeb1395b0bf762170a21e6ee346245bd98f8c73d65",
+      "source_url": "https://web.archive.org/web/20240724092955id_/https://english.alarabiya.net/News/middle-east/2021/08/20/Israel-conducts-air-strikes-on-targets-in-Syria-through-Lebanon-s-airspace",
+      "text": "Israel conducts air strikes on targets in Syria through Lebanon's airspace\n\nIsrael\n\nSyria\n\nURL Copied\n\nURL Copied\n\nIsrael has conducted several airstrikes through Lebanon's airspace on targets in Syria, according to local media in Lebanon.\n\nSyrian State Media said that Syrian air defenses have confronted targets in the sky of Damascus, launched from the airspace of the Lebanese capital Beirut.\n\nFor the latest headlines, follow our Google News channel online or via the app.\n\nThe Israeli airstrikes on Syria have targeted the northern countryside of Damascus, Mezzeh's military airport, Homs, and the Qalamoun region.\n\nIsraeli aircrafts and the missilies launced have been heard across Lebanon.\n\nThe Director of the Syrian Observatory for Human Rights said that at least three Israeli missiles targeted sites and weapons depot of Lebanon’s Hezbollah in Qalamoun around Damascus’s countryside near the administrative border with Homs governorate.\n\nAccording to Intel Sky airspace tracking platform several civil flights landing in Beirut had been put on hold or delayed due to the Israeli attack from Lebanon’s airspace.\n\nMiddle East Airlines flight ME419 coming from Abu Dhabi landed safe and sound at Beirut Airport after changing its course and being delayed as a result of the Israeli airstikes on Syria.\n\nCivilian aircraft heading towards Beirut airport were affected during the Israeli Air Strike on Syria. pic.twitter.com/6c0kwHsP6H— INTELSky (@Intel_Sky) August 19, 2021\n\nCivilian aircraft heading towards Beirut airport were affected during the Israeli Air Strike on Syria. pic.twitter.com/6c0kwHsP6H\n\nRead more:\n\nIranian fuel shipments to Lebanon purchased by Lebanese Shia businessmen: Nournews\n\nUS talking to Egypt, Jordan to help Lebanon’s fuel, energy needs: Senior US diplomat\n\nLebanon\n\nIsrael\n\nIranian fuel shipments to Lebanon purchased by Lebanese Shia businessmen: Nournews\n\nIranian fuel shipments to Lebanon to help ease a crippling fuel shortage were all ...\n\nMiddle East\n\nUS talking to Egypt, Jordan to help Lebanon’s fuel, energy needs: Senior US diplomat\n\nHezbollah's Nasrallah can “try as much as he wants to pin it all on the United ...\n\nMiddle East"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:32:03+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:32:04+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240724092955id_/https://english.alarabiya.net/News/middle-east/2021/08/20/Israel-conducts-air-strikes-on-targets-in-Syria-through-Lebanon-s-airspace"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240724092955id_/https://english.alarabiya.net/News/middle-east/2021/08/20/Israel-conducts-air-strikes-on-targets-in-Syria-through-Lebanon-s-airspace",
   "incident_ids": [
     "airwars-77611"
   ],
@@ -85,10 +109,10 @@
     "https://english.alarabiya.net/News/middle-east/2021/08/20/Israel-conducts-air-strikes-on-targets-in-Syria-through-Lebanon-s-airspace"
   ],
   "original_url": "https://english.alarabiya.net/News/middle-east/2021/08/20/Israel-conducts-air-strikes-on-targets-in-Syria-through-Lebanon-s-airspace",
-  "page_title": "",
+  "page_title": "Israel conducts air strikes on targets in Syria through Lebanon's airspace Israel conducts air strikes on targets in Syria through Lebanon's airspace Israel conducts air strikes on targets in Syria through Lebanon's airspace",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy019-august-19-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:32:04+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0103a156b5b4720e7fc6a54d",
   "source_type": "other_web_page",
   "stable_id_basis": "https://english.alarabiya.net/News/middle-east/2021/08/20/Israel-conducts-air-strikes-on-targets-in-Syria-through-Lebanon-s-airspace",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Israel conducts air strikes on targets in Syria through Lebanon's airspace\n\nIsrael\n\nSyria\n\nURL Copied\n\nURL Copied\n\nIsrael has conducted several airstrikes through Lebanon's airspace on targets in Syria, according to local media in Lebanon.\n\nSyrian State Media said that Syrian air defenses have confronted targets in the sky of Damascus, launched from the airspace of the Lebanese capital Beirut.\n\nFor the latest headlines, follow our Google News channel online or via the app.\n\nThe Israeli airstrikes on Syria have targeted the northern countryside of Damascus, Mezzeh's military airport, Homs, and the Qalamoun region.\n\nIsraeli aircrafts and the missilies launced have been heard across Lebanon.\n\nThe Director of the Syrian Observatory for Human Rights said that at least three Israeli missiles targeted sites and weapons depot of Lebanon’s Hezbollah in Qalamoun around Damascus’s countryside near the administrative border with Homs governorate.\n\nAccording to Intel Sky airspace tracking platform several civil flights landing in Beirut had been put on hold or delayed due to the Israeli attack from Lebanon’s airspace.\n\nMiddle East Airlines flight ME419 coming from Abu Dhabi landed safe and sound at Beirut Airport after changing its course and being delayed as a result of the Israeli airstikes on Syria.\n\nCivilian aircraft heading towards Beirut airport were affected during the Israeli Air Strike on Syria. pic.twitter.com/6c0kwHsP6H— INTELSky (@Intel_Sky) August 19, 2021\n\nCivilian aircraft heading towards Beirut airport were affected during the Israeli Air Strike on Syria. pic.twitter.com/6c0kwHsP6H\n\nRead more:\n\nIranian fuel shipments to Lebanon purchased by Lebanese Shia businessmen: Nournews\n\nUS talking to Egypt, Jordan to help Lebanon’s fuel, energy needs: Senior US diplomat\n\nLebanon\n\nIsrael\n\nIranian fuel shipments to Lebanon purchased by Lebanese Shia businessmen: Nournews\n\nIranian fuel shipments to Lebanon to help ease a crippling fuel shortage were all ...\n\nMiddle East\n\nUS talking to Egypt, Jordan to help Lebanon’s fuel, energy needs: Senior US diplomat\n\nHezbollah's Nasrallah can “try as much as he wants to pin it all on the United ...\n\nMiddle East",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

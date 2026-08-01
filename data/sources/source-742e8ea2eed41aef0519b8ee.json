@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/29OUa"
+    "https://archive.ph/29OUa",
+    "https://web.archive.org/web/20240524162805id_/https://www.facebook.com/Alarabiya.syria/posts/pfbid02x7GM8PVEbsR8jk2VoV8puQWqxpQqYev4Bf4dhrGmFrf4WYicKkPZCvEP9V3eASyEl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Alarabiya news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0c370c575333f51af0538774a6ce4a2f519656d7d77ca6aa9b041346a83c698b",
+  "content_variants": [
+    {
+      "bytes": 645,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:43:21+00:00",
+      "sha256": "0c370c575333f51af0538774a6ce4a2f519656d7d77ca6aa9b041346a83c698b",
+      "source_url": "https://web.archive.org/web/20240524162805id_/https://www.facebook.com/Alarabiya.syria/posts/pfbid02x7GM8PVEbsR8jk2VoV8puQWqxpQqYev4Bf4dhrGmFrf4WYicKkPZCvEP9V3eASyEl",
+      "text": "قتلت طفلة وأصيبت شقيقتها بجروح، اليوم الاثنين، بقصف صاروخي ومدفعي للجيش السوري على مدينة سرمين بريف إدلب الشرقي.\nوقال مراسل \"العربية/الحدث\" في سوريا، إن...\n\nقتلت طفلة وأصيبت شقيقتها بجروح، اليوم الاثنين، بقصف صاروخي ومدفعي للجيش السوري على مدينة سرمين بريف إدلب الشرقي.\nوقال مراسل \"العربية/الحدث\" في سوريا، إن قصفا صاروخيا للجيش السوري استهدف مدينة سرمين..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:43:20+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:43:21+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524162805id_/https://www.facebook.com/Alarabiya.syria/posts/pfbid02x7GM8PVEbsR8jk2VoV8puQWqxpQqYev4Bf4dhrGmFrf4WYicKkPZCvEP9V3eASyEl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524162805id_/https://www.facebook.com/Alarabiya.syria/posts/pfbid02x7GM8PVEbsR8jk2VoV8puQWqxpQqYev4Bf4dhrGmFrf4WYicKkPZCvEP9V3eASyEl",
   "incident_ids": [
     "airwars-102749"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/Alarabiya.syria/posts/pfbid02x7GM8PVEbsR8jk2VoV8puQWqxpQqYev4Bf4dhrGmFrf4WYicKkPZCvEP9V3eASyEl"
   ],
   "original_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid02x7GM8PVEbsR8jk2VoV8puQWqxpQqYev4Bf4dhrGmFrf4WYicKkPZCvEP9V3eASyEl",
-  "page_title": "",
+  "page_title": "العربية سوريا - Al Arabiya Syria العربية سوريا - Al Arabiya Syria قتلت طفلة وأصيبت... - العربية سوريا - Al Arabiya Syria",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4807-september-4-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:43:21+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-742e8ea2eed41aef0519b8ee",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/Alarabiya.syria/posts/pfbid02x7GM8PVEbsR8jk2VoV8puQWqxpQqYev4Bf4dhrGmFrf4WYicKkPZCvEP9V3eASyEl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قتلت طفلة وأصيبت شقيقتها بجروح، اليوم الاثنين، بقصف صاروخي ومدفعي للجيش السوري على مدينة سرمين بريف إدلب الشرقي.\nوقال مراسل \"العربية/الحدث\" في سوريا، إن...\n\nقتلت طفلة وأصيبت شقيقتها بجروح، اليوم الاثنين، بقصف صاروخي ومدفعي للجيش السوري على مدينة سرمين بريف إدلب الشرقي.\nوقال مراسل \"العربية/الحدث\" في سوريا، إن قصفا صاروخيا للجيش السوري استهدف مدينة سرمين...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
