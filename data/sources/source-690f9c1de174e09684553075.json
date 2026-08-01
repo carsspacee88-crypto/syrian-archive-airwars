@@ -1,0 +1,108 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/e7j7s"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.923,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:39:28+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 877691,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "9150afad3fba53ef5ddf10e133df7d4709c4ae2e1eb97473b991fa32c76a1ae6",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.923,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/reel/882917760699442",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:39:28+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/reel/882917760699442",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "Sana",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:39:28+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/reel/882917760699442",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "exact_content_duplicate_group": "sha256-d41f5b4977ee05c6b61b3b5f",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/reel/882917760699442",
+  "incident_ids": [
+    "airwars-132353"
+  ],
+  "incident_sequences": [
+    216
+  ],
+  "normalized_url": "https://www.facebook.com/reel/882917760699442",
+  "observed_original_urls": [
+    "https://www.facebook.com/reel/882917760699442"
+  ],
+  "original_url": "https://www.facebook.com/reel/882917760699442",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4921-november-27-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132353",
+      "incident_sequence": 216,
+      "observed_original_url": "https://www.facebook.com/reel/882917760699442",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Sana",
+  "publisher_ar": "Sana",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:39:28+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-690f9c1de174e09684553075",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/reel/882917760699442",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002744
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

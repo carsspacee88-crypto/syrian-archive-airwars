@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "286936"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-euphratespost-1875147969147863146-2025-01-03-115129/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.241,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:34:56+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 78764,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "f0c5678ce7386848d12bcf7959d35cf90270c4f5e1380694c651454c80d8c64c",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.241,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/EuphratesPost/status/1875147969147863146",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:34:56+00:00",
+      "status": 200,
+      "url": "https://x.com/EuphratesPost/status/1875147969147863146",
+      "waiting_seconds": 0.746
+    }
+  ],
+  "author": "https://x.com/EuphratesPost",
+  "captions": [],
+  "content_hash": "40f07aebd7affb652f424b64b0183d7539bcac1e51fa17cd1e423bdb6d48f2ec",
+  "content_variants": [
+    {
+      "bytes": 377,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:34:56+00:00",
+      "sha256": "40f07aebd7affb652f424b64b0183d7539bcac1e51fa17cd1e423bdb6d48f2ec",
+      "source_url": "https://x.com/EuphratesPost/status/1875147969147863146",
+      "text": "Post\n\nPost\n\nفرات بوست@EuphratesPost#فرات_بوست\n#دير_الزور الريف الشرقي :\nإعتقـ.ـال كل من، مالك مناع الشكري وشقيقه أحمد، خلال عمـ.ـلية مداهـ.ـمة نفـ.ـذتها \"قسد\" بمساندة طائرة مسيرة في بلدة الحوايج فجر اليوم.11:51 AM · Jan 3, 2025228Views"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/EuphratesPost/status/1875147969147863146",
+  "incident_ids": [
+    "airwars-367986"
+  ],
+  "incident_sequences": [
+    151
+  ],
+  "normalized_url": "https://x.com/EuphratesPost/status/1875147969147863146",
+  "observed_original_urls": [
+    "https://x.com/EuphratesPost/status/1875147969147863146"
+  ],
+  "original_url": "https://x.com/EuphratesPost/status/1875147969147863146",
+  "page_title": "فرات بوست on X: \"#فرات_بوست\n#دير_الزور الريف الشرقي :\nإعتقـ.ـال كل من، مالك مناع الشكري وشقيقه أحمد، خلال عمـ.ـلية مداهـ.ـمة نفـ.ـذتها \"قسد\" بمساندة طائرة مسيرة في بلدة الحوايج فجر اليوم.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0119-january-1-2025/",
+      "airwars_source_id": "286936",
+      "incident_id": "airwars-367986",
+      "incident_sequence": 151,
+      "observed_original_url": "https://x.com/EuphratesPost/status/1875147969147863146",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-01-03T11:51:29.000Z",
+  "publisher": "EuphratesPost",
+  "publisher_ar": "EuphratesPost",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:34:56+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c123df963ff159777eaec555",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/EuphratesPost/status/1875147969147863146",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nفرات بوست@EuphratesPost#فرات_بوست\n#دير_الزور الريف الشرقي :\nإعتقـ.ـال كل من، مالك مناع الشكري وشقيقه أحمد، خلال عمـ.ـلية مداهـ.ـمة نفـ.ـذتها \"قسد\" بمساندة طائرة مسيرة في بلدة الحوايج فجر اليوم.11:51 AM · Jan 3, 2025228Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001728
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

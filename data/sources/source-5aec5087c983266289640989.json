@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/I9Iy4"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.252,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:33:11+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 92824,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "22a5dc5557688a11562c1e341f0168e3d6404e41528f9fbb658625789a1d909c",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.252,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/syr_television/status/1865430977733931198",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:33:11+00:00",
+      "status": 200,
+      "url": "https://x.com/syr_television/status/1865430977733931198",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "https://x.com/syr_television",
+  "captions": [],
+  "content_hash": "870d9858d8288daf6fae7cdd0d1e409cdb811f0564280c3a685d16e2ee81f61e",
+  "content_variants": [
+    {
+      "bytes": 424,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:33:11+00:00",
+      "sha256": "870d9858d8288daf6fae7cdd0d1e409cdb811f0564280c3a685d16e2ee81f61e",
+      "source_url": "https://x.com/syr_television/status/1865430977733931198",
+      "text": "Post\n\nPost\n\nتلفزيون سوريا@syr_televisionوقعت غارات في أثناء التصوير..\nمراسل تلفزيون سوريا يرصد أوضاع مدينة تلبيسة بعد استهدافها بطائرات النظام وروسيا\n#تلفزيون_سوريا #نيو_ميديا_سوريا #فجر_الحرية #ردع_العدوان #سوريا #حلب #حماة00:004:19 PM · Dec 7, 202414.9KViews4793"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/syr_television/status/1865430977733931198",
+  "incident_ids": [
+    "airwars-190692"
+  ],
+  "incident_sequences": [
+    167
+  ],
+  "normalized_url": "https://x.com/syr_television/status/1865430977733931198",
+  "observed_original_urls": [
+    "https://x.com/syr_television/status/1865430977733931198"
+  ],
+  "original_url": "https://x.com/syr_television/status/1865430977733931198",
+  "page_title": "تلفزيون سوريا on X: \"وقعت غارات في أثناء التصوير..\nمراسل تلفزيون سوريا يرصد أوضاع مدينة تلبيسة بعد استهدافها بطائرات النظام وروسيا\n#تلفزيون_سوريا #نيو_ميديا_سوريا #فجر_الحرية #ردع_العدوان #سوريا #حلب #حماة https://t.co/yoaDgHxw9E\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4964-december-7-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-190692",
+      "incident_sequence": 167,
+      "observed_original_url": "https://x.com/syr_television/status/1865430977733931198",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-07T16:19:37.000Z",
+  "publisher": "'@Syria tv",
+  "publisher_ar": "'@Syria tv",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:33:11+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-5aec5087c983266289640989",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/syr_television/status/1865430977733931198",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nتلفزيون سوريا@syr_televisionوقعت غارات في أثناء التصوير..\nمراسل تلفزيون سوريا يرصد أوضاع مدينة تلبيسة بعد استهدافها بطائرات النظام وروسيا\n#تلفزيون_سوريا #نيو_ميديا_سوريا #فجر_الحرية #ردع_العدوان #سوريا #حلب #حماة00:004:19 PM · Dec 7, 202414.9KViews4793",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001926
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/2sULL"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 2.012,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:36:47+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 872306,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "5f24260ddaa074f1fa27f8d58b4fa2f85dfe2d6fcd44a92c00f08df77c4d1534",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 2.012,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/AlArabiyaScreen/videos/1544246456223492/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:36:47+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=1544246456223492",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "Shasha",
+  "captions": [],
+  "content_hash": "2d59b3a0df7a5d6df26d02f25d12cc95511ece4e95a2f7b77a323e3c9dac2f48",
+  "content_variants": [
+    {
+      "bytes": 376,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:36:47+00:00",
+      "sha256": "2d59b3a0df7a5d6df26d02f25d12cc95511ece4e95a2f7b77a323e3c9dac2f48",
+      "source_url": "https://www.facebook.com/AlArabiyaScreen/videos/1544246456223492/",
+      "text": "مصادر \"العاشرة\": سقوط حلب دون مواجهات لم يكن في الحسبان.. وضباط أوكران دربوا الفصائل المسلحة المعارضة على المسيرة التي استهدفت المستشار الإيراني بـ\"جسر الشغور\"\n#قناة_العربية\n#نشرة_العاشرة\n#سوريا | شاشة العربية"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/AlArabiyaScreen/videos/1544246456223492/",
+  "incident_ids": [
+    "airwars-132543"
+  ],
+  "incident_sequences": [
+    201
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=1544246456223492",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=1544246456223492"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=1544246456223492",
+  "page_title": "مصادر \"العاشرة\": سقوط حلب دون مواجهات لم يكن في الحسبان.. وضباط أوكران دربوا الفصائل المسلحة المعارضة على المسيرة التي استهدفت المستشار الإيراني بـ\"جسر الشغور\"\n#قناة_العربية\n#نشرة_العاشرة\n#سوريا | شاشة العربية",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4936-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132543",
+      "incident_sequence": 201,
+      "observed_original_url": "https://www.facebook.com/watch/?v=1544246456223492",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Shasha",
+  "publisher_ar": "Shasha",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:36:47+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-47873ea04d3f21bbfb0358c6",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=1544246456223492",
+  "text_ar": "",
+  "text_original": "مصادر \"العاشرة\": سقوط حلب دون مواجهات لم يكن في الحسبان.. وضباط أوكران دربوا الفصائل المسلحة المعارضة على المسيرة التي استهدفت المستشار الإيراني بـ\"جسر الشغور\"\n#قناة_العربية\n#نشرة_العاشرة\n#سوريا | شاشة العربية",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003556
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

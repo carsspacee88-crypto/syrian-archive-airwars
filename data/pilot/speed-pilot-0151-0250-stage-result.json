@@ -1,0 +1,40 @@
+{
+  "completed": 1176,
+  "done": true,
+  "duplicate_records_updated": 409,
+  "exact_content_duplicate_groups": 32,
+  "processed": 176,
+  "recorded_at": "2026-08-01T08:51:24+00:00",
+  "recovery": {
+    "pending": 103,
+    "pending_by_host": {
+      "aa.com.tr": 1,
+      "aboalhodaalhoms": 1,
+      "alghad.tv": 1,
+      "alyaumtv.net": 4,
+      "anfarabic.com": 19,
+      "enabbaladi.net": 1,
+      "facebook.com": 8,
+      "fdd.org": 1,
+      "npasyria.com": 13,
+      "ronahi.tv": 8,
+      "sana.sy": 5,
+      "sdf-press.com": 1,
+      "syriahr.com": 28,
+      "vdc-nsy.com": 4,
+      "whitehelmets.org": 3,
+      "x.com": 5
+    },
+    "pending_by_status": {
+      "blocked": 19,
+      "login_required": 2,
+      "not_found": 13,
+      "successful": 2,
+      "timed_out": 63,
+      "unavailable": 4
+    },
+    "resolved": 0
+  },
+  "stage": "sources",
+  "total": 1176
+}

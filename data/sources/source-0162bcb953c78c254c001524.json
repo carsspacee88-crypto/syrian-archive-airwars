@@ -1,0 +1,100 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/9TIFJ"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.185,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-08-01T08:31:06+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 6174,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "5b9b1cfb86471a79b912230725d6846fc1733d85ff583bd15710f74566a7e089",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.185,
+      "error": "http_403",
+      "etag": "",
+      "final_url": "https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-mwatnayn-ahdhma-tfl-wasabt-6-fy-qsf-trky-ly-tl-rft-111238",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:06+00:00",
+      "status": 403,
+      "url": "https://anfarabic.com/روج آفا - سوريا/astshhad-mwatnayn-ahdhma-tfl-wasabt-6-fy-qsf-trky-ly-tl-rft-111238",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "ANF news",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_403",
+  "final_redirected_url": "https://anfarabic.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-mwatnayn-ahdhma-tfl-wasabt-6-fy-qsf-trky-ly-tl-rft-111238",
+  "incident_ids": [
+    "airwars-127074"
+  ],
+  "incident_sequences": [
+    248
+  ],
+  "normalized_url": "https://anfarabic.com/روج آفا - سوريا/astshhad-mwatnayn-ahdhma-tfl-wasabt-6-fy-qsf-trky-ly-tl-rft-111238",
+  "observed_original_urls": [
+    "https://anfarabic.com/روج آفا - سوريا/astshhad-mwatnayn-ahdhma-tfl-wasabt-6-fy-qsf-trky-ly-tl-rft-111238"
+  ],
+  "original_url": "https://anfarabic.com/روج آفا - سوريا/astshhad-mwatnayn-ahdhma-tfl-wasabt-6-fy-qsf-trky-ly-tl-rft-111238",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts721-october-23-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-127074",
+      "incident_sequence": 248,
+      "observed_original_url": "https://anfarabic.com/روج آفا - سوريا/astshhad-mwatnayn-ahdhma-tfl-wasabt-6-fy-qsf-trky-ly-tl-rft-111238",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "ANF news",
+  "publisher_ar": "ANF news",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:31:06+00:00",
+    "reason": "http_403",
+    "status": "deferred"
+  },
+  "retrieval_status": "blocked",
+  "retrieved_at": "2026-08-01T08:31:06+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-0162bcb953c78c254c001524",
+  "source_type": "news_article",
+  "stable_id_basis": "https://anfarabic.com/روج آفا - سوريا/astshhad-mwatnayn-ahdhma-tfl-wasabt-6-fy-qsf-trky-ly-tl-rft-111238",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

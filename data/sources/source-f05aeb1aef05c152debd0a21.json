@@ -1,0 +1,110 @@
+{
+  "airwars_source_ids": [
+    "297890"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d9%83%d9%88%d8%a8%d8%a7%d9%86%d9%8a-%d9%85%d8%b4%d8%aa%d9%86%d9%88%d8%b1-pfbid0fiqvfbbv9agnlmn3gchefymzsaqkgftwgsvenkca9uzk6nmotyhde9nsetydwakcl-2024-12-10-170000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.428,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:50:21+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 427346,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "0d36026a8f92327290cc75f94e5512a24c778975837b7ec5a28f445425166729",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.428,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0FiQVfbbV9AgnLmN3gcHEFymzSaqKGFTwGsveNKca9UzK6NMotYHDe9nseTyDWAKCl%26id%3D100084173610563",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:50:21+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0FiQVfbbV9AgnLmN3gcHEFymzSaqKGFTwGsveNKca9UzK6NMotYHDe9nseTyDWAKCl&id=100084173610563",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "كوباني مشتنور",
+  "captions": [],
+  "content_hash": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+  "content_variants": [
+    {
+      "bytes": 374,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:50:21+00:00",
+      "sha256": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+      "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0FiQVfbbV9AgnLmN3gcHEFymzSaqKGFTwGsveNKca9UzK6NMotYHDe9nseTyDWAKCl%26id%3D100084173610563",
+      "text": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "exact_content_duplicate_group": "sha256-ef46a150b3c242e94cddb29d",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0FiQVfbbV9AgnLmN3gcHEFymzSaqKGFTwGsveNKca9UzK6NMotYHDe9nseTyDWAKCl%26id%3D100084173610563",
+  "incident_ids": [
+    "airwars-216137"
+  ],
+  "incident_sequences": [
+    160
+  ],
+  "normalized_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0FiQVfbbV9AgnLmN3gcHEFymzSaqKGFTwGsveNKca9UzK6NMotYHDe9nseTyDWAKCl&id=100084173610563",
+  "observed_original_urls": [
+    "https://www.facebook.com/permalink.php?story_fbid=pfbid0FiQVfbbV9AgnLmN3gcHEFymzSaqKGFTwGsveNKca9UzK6NMotYHDe9nseTyDWAKCl&id=100084173610563"
+  ],
+  "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0FiQVfbbV9AgnLmN3gcHEFymzSaqKGFTwGsveNKca9UzK6NMotYHDe9nseTyDWAKCl&id=100084173610563",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts752-december-10-2024/",
+      "airwars_source_id": "297890",
+      "incident_id": "airwars-216137",
+      "incident_sequence": 160,
+      "observed_original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0FiQVfbbV9AgnLmN3gcHEFymzSaqKGFTwGsveNKca9UzK6NMotYHDe9nseTyDWAKCl&id=100084173610563",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "10 ديسمبر 2024",
+  "publisher": "Kobani Mishtanur",
+  "publisher_ar": "كوباني مشتنور",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:50:21+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-f05aeb1aef05c152debd0a21",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid0FiQVfbbV9AgnLmN3gcHEFymzSaqKGFTwGsveNKca9UzK6NMotYHDe9nseTyDWAKCl&id=100084173610563",
+  "text_ar": "",
+  "text_original": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002309
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

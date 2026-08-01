@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/gEnu9"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.256,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:33:24+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 81415,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "e393904bbe6bc9300ffef00ad52eb50b70a9a2ead9738003eb8f0ec4c4a20e38",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.256,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/HalabTodayTV/status/1862145224249581790",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:33:24+00:00",
+      "status": 200,
+      "url": "https://x.com/HalabTodayTV/status/1862145224249581790",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/HalabTodayTV",
+  "captions": [],
+  "content_hash": "a489524df332421ad1219f7580d15e4c69baa034e63e447f12bb0319df12141b",
+  "content_variants": [
+    {
+      "bytes": 350,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:33:24+00:00",
+      "sha256": "a489524df332421ad1219f7580d15e4c69baa034e63e447f12bb0319df12141b",
+      "source_url": "https://x.com/HalabTodayTV/status/1862145224249581790",
+      "text": "Post\n\nPost\n\nHalab Today TV قناة حلب اليوم@HalabTodayTVعاجل | الدفاع المدني السوري: جرحى مدنيون في حصيلة أولية لقصف بصواريخ تحمل قنابل عنقودية من قبل النظام وروسيا استهدف بلدة فيلون جنوبي إدلب2:43 PM · Nov 28, 20241.5KViews112"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/HalabTodayTV/status/1862145224249581790",
+  "incident_ids": [
+    "airwars-132431"
+  ],
+  "incident_sequences": [
+    211
+  ],
+  "normalized_url": "https://x.com/HalabTodayTV/status/1862145224249581790",
+  "observed_original_urls": [
+    "https://x.com/HalabTodayTV/status/1862145224249581790"
+  ],
+  "original_url": "https://x.com/HalabTodayTV/status/1862145224249581790",
+  "page_title": "Halab Today TV قناة حلب اليوم on X: \"عاجل | الدفاع المدني السوري: جرحى مدنيون في حصيلة أولية لقصف بصواريخ تحمل قنابل عنقودية من قبل النظام وروسيا استهدف بلدة فيلون جنوبي إدلب https://t.co/ZNCei6RYXh\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4926-november-28-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132431",
+      "incident_sequence": 211,
+      "observed_original_url": "https://x.com/HalabTodayTV/status/1862145224249581790",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-28T14:43:13.000Z",
+  "publisher": "'@HalabTodayTV",
+  "publisher_ar": "'@HalabTodayTV",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:33:24+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-67f223144b8cb933623f6ca7",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/HalabTodayTV/status/1862145224249581790",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nHalab Today TV قناة حلب اليوم@HalabTodayTVعاجل | الدفاع المدني السوري: جرحى مدنيون في حصيلة أولية لقصف بصواريخ تحمل قنابل عنقودية من قبل النظام وروسيا استهدف بلدة فيلون جنوبي إدلب2:43 PM · Nov 28, 20241.5KViews112",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00178
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

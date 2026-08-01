@@ -1,0 +1,108 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/XltGH"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.537,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:39:22+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 427251,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "ac127e7b30fb4795b8cdcb7da6372ac45893e3036f3631f73d05d37afe5a5721",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.537,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1530833211051503%2F%3Fmulti_permalinks%3D1779742809493874%26hoisted_section_header_type%3Drecently_seen",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:39:22+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/groups/1530833211051503/?multi_permalinks=1779742809493874&hoisted_section_header_type=recently_seen",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "Aros",
+  "captions": [],
+  "content_hash": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+  "content_variants": [
+    {
+      "bytes": 374,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:39:22+00:00",
+      "sha256": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+      "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1530833211051503%2F%3Fmulti_permalinks%3D1779742809493874%26hoisted_section_header_type%3Drecently_seen",
+      "text": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "exact_content_duplicate_group": "sha256-ef46a150b3c242e94cddb29d",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1530833211051503%2F%3Fmulti_permalinks%3D1779742809493874%26hoisted_section_header_type%3Drecently_seen",
+  "incident_ids": [
+    "airwars-131062"
+  ],
+  "incident_sequences": [
+    224
+  ],
+  "normalized_url": "https://www.facebook.com/groups/1530833211051503/?multi_permalinks=1779742809493874&hoisted_section_header_type=recently_seen",
+  "observed_original_urls": [
+    "https://www.facebook.com/groups/1530833211051503/?multi_permalinks=1779742809493874&hoisted_section_header_type=recently_seen"
+  ],
+  "original_url": "https://www.facebook.com/groups/1530833211051503/?multi_permalinks=1779742809493874&hoisted_section_header_type=recently_seen",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4918-november-23-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-131062",
+      "incident_sequence": 224,
+      "observed_original_url": "https://www.facebook.com/groups/1530833211051503/?multi_permalinks=1779742809493874&hoisted_section_header_type=recently_seen",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Aros",
+  "publisher_ar": "Aros",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:39:22+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-68383d56c58020b8fc789bf9",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/groups/1530833211051503/?multi_permalinks=1779742809493874&hoisted_section_header_type=recently_seen",
+  "text_ar": "",
+  "text_original": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002332
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

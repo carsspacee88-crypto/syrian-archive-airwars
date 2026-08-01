@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/Ixy4q"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.22,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:32:56+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 76538,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "9faac33023a429c12906402c99476bb4177c4c92481cbbb6e0f10d673837d5a3",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.22,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/tarek_ah7mad/status/1862783125605986439",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:32:56+00:00",
+      "status": 200,
+      "url": "https://x.com/tarek_ah7mad/status/1862783125605986439",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/tarek_ah7mad",
+  "captions": [],
+  "content_hash": "f41173bbb68b77ea70c295a8a718a9f7d57e06292d17a1853cbb4279d70cef5e",
+  "content_variants": [
+    {
+      "bytes": 175,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:32:56+00:00",
+      "sha256": "f41173bbb68b77ea70c295a8a718a9f7d57e06292d17a1853cbb4279d70cef5e",
+      "source_url": "https://x.com/tarek_ah7mad/status/1862783125605986439",
+      "text": "PostLog inSign upPostطارق أحمد@tarek_ah7madالحربي يستهدف مدينة جسر الشغور بالصواريخ الفراغية .8:58 AM · Nov 30, 202445Views"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/tarek_ah7mad/status/1862783125605986439",
+  "incident_ids": [
+    "airwars-132543"
+  ],
+  "incident_sequences": [
+    201
+  ],
+  "normalized_url": "https://x.com/tarek_ah7mad/status/1862783125605986439",
+  "observed_original_urls": [
+    "https://x.com/tarek_ah7mad/status/1862783125605986439"
+  ],
+  "original_url": "https://x.com/tarek_ah7mad/status/1862783125605986439",
+  "page_title": "طارق أحمد on X: \"الحربي يستهدف مدينة جسر الشغور بالصواريخ الفراغية . https://t.co/JU5yAQI0zt\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4936-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132543",
+      "incident_sequence": 201,
+      "observed_original_url": "https://x.com/tarek_ah7mad/status/1862783125605986439",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-30T08:58:00.000Z",
+  "publisher": "'@tarek_ah7mad",
+  "publisher_ar": "'@tarek_ah7mad",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:32:56+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-490aa5757bfb084d57dd1a92",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/tarek_ah7mad/status/1862783125605986439",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPostطارق أحمد@tarek_ah7madالحربي يستهدف مدينة جسر الشغور بالصواريخ الفراغية .8:58 AM · Nov 30, 202445Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001736
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

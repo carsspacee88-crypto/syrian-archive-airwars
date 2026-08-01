@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/4Qo6X"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.234,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:34:26+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 78196,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "1e89e7d6ebe597e3a82ff3a6982260fe57015641ced36f2d9ec9eacd550e7476",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.234,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/SyriaCivilDefe/status/1862024659098591637",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:34:26+00:00",
+      "status": 200,
+      "url": "https://x.com/SyriaCivilDefe/status/1862024659098591637",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/SyriaCivilDefe",
+  "captions": [],
+  "content_hash": "4ae2b26b0fcfeb938612a425a00871bd5946c9661f23589890464cb096a96c12",
+  "content_variants": [
+    {
+      "bytes": 344,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:34:26+00:00",
+      "sha256": "4ae2b26b0fcfeb938612a425a00871bd5946c9661f23589890464cb096a96c12",
+      "source_url": "https://x.com/SyriaCivilDefe/status/1862024659098591637",
+      "text": "Post\n\nPost\n\nالدفاع المدني السوري@SyriaCivilDefeإصابة امرأة وزوجها برمايات مدفعية وصاروخية جديدة لقوات النظام على مدينة سرمين شرقي #إدلب، اليوم الخميس 28 تشرين الثاني.\n#الخوذ_البيضاء6:44 AM · Nov 28, 20241.4KViews1137"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyriaCivilDefe/status/1862024659098591637",
+  "incident_ids": [
+    "airwars-132403"
+  ],
+  "incident_sequences": [
+    214
+  ],
+  "normalized_url": "https://x.com/SyriaCivilDefe/status/1862024659098591637",
+  "observed_original_urls": [
+    "https://x.com/SyriaCivilDefe/status/1862024659098591637"
+  ],
+  "original_url": "https://x.com/SyriaCivilDefe/status/1862024659098591637",
+  "page_title": "الدفاع المدني السوري on X: \"إصابة امرأة وزوجها برمايات مدفعية وصاروخية جديدة لقوات النظام على مدينة سرمين شرقي #إدلب، اليوم الخميس 28 تشرين الثاني.\n#الخوذ_البيضاء\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4924-november-28-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132403",
+      "incident_sequence": 214,
+      "observed_original_url": "https://x.com/SyriaCivilDefe/status/1862024659098591637",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-28T06:44:08.000Z",
+  "publisher": "'@SyriaCivilDefe",
+  "publisher_ar": "'@SyriaCivilDefe",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:34:26+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a1b896251f314bd752451bc6",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyriaCivilDefe/status/1862024659098591637",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالدفاع المدني السوري@SyriaCivilDefeإصابة امرأة وزوجها برمايات مدفعية وصاروخية جديدة لقوات النظام على مدينة سرمين شرقي #إدلب، اليوم الخميس 28 تشرين الثاني.\n#الخوذ_البيضاء6:44 AM · Nov 28, 20241.4KViews1137",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001655
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

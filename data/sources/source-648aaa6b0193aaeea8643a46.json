@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "320696"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-roya-news-%d8%b1%d8%a4%d9%8a%d8%a7-%d8%a7%d9%84%d8%a5%d8%ae%d8%a8%d8%a7%d8%b1%d9%8a-2024-10-21-110000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 2.1,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:39:03+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 979005,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "12f741a3414fc8b4b74f58da97c6c98a1acc11f6535262182562241f9f047db5",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 2.1,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/RoyaNews/videos/522518617233816/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:39:03+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=522518617233816",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "‎Roya News - رؤيا الإخباري‎",
+  "captions": [],
+  "content_hash": "db3c73c314bffe02cace7d375401dda5b9f426e1cf2785b24c6ceba1d653ee01",
+  "content_variants": [
+    {
+      "bytes": 140,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:39:03+00:00",
+      "sha256": "db3c73c314bffe02cace7d375401dda5b9f426e1cf2785b24c6ceba1d653ee01",
+      "source_url": "https://www.facebook.com/RoyaNews/videos/522518617233816/",
+      "text": "استهداف مركبة في دمشق\n#رؤيا_الاخباري #دمشق #المزة #سوريا | Roya News - رؤيا الإخباري"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/RoyaNews/videos/522518617233816/",
+  "incident_ids": [
+    "airwars-125418"
+  ],
+  "incident_sequences": [
+    249
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=522518617233816",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=522518617233816"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=522518617233816",
+  "page_title": "استهداف مركبة في دمشق\n#رؤيا_الاخباري #دمشق #المزة #سوريا | Roya News - رؤيا الإخباري",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy057-october-21-2024/",
+      "airwars_source_id": "320696",
+      "incident_id": "airwars-125418",
+      "incident_sequence": 249,
+      "observed_original_url": "https://www.facebook.com/watch/?v=522518617233816",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "21 أكتوبر 2024",
+  "publisher": "Roya News",
+  "publisher_ar": "‎Roya News - رؤيا الإخباري‎",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:39:03+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-648aaa6b0193aaeea8643a46",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=522518617233816",
+  "text_ar": "",
+  "text_original": "استهداف مركبة في دمشق\n#رؤيا_الاخباري #دمشق #المزة #سوريا | Roya News - رؤيا الإخباري",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.0039
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

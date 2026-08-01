@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/XFj5E"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.909,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:35:53+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 794356,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "ed10ddcbe455cecffb009b1a5048f7c7f8f560e318614a9052e605c76145d664",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.909,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/Morek.A.S.M.L/posts/pfbid02V37Ck4VaMwfybiwLA6AuDkJoy4fMNSnUuaxDx5GFk7XshxfbsLygHf2Z3hBwQDZDl",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:35:53+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/Morek.A.S.M.L/posts/pfbid02V37Ck4VaMwfybiwLA6AuDkJoy4fMNSnUuaxDx5GFk7XshxfbsLygHf2Z3hBwQDZDl",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "Madina mork",
+  "captions": [],
+  "content_hash": "0fe50e69d30620ab96fdd77e4d34b39734e5bad08760bebf29d935289da3df3f",
+  "content_variants": [
+    {
+      "bytes": 155,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:35:53+00:00",
+      "sha256": "0fe50e69d30620ab96fdd77e4d34b39734e5bad08760bebf29d935289da3df3f",
+      "source_url": "https://www.facebook.com/Morek.A.S.M.L/posts/pfbid02V37Ck4VaMwfybiwLA6AuDkJoy4fMNSnUuaxDx5GFk7XshxfbsLygHf2Z3hBwQDZDl",
+      "text": "مدينة مورك العز - #مورك\nحصيلة الشهداء التي وصلنا لها لهذة...\nFacebook‎مدينة مورك العز‎'s Post"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Morek.A.S.M.L/posts/pfbid02V37Ck4VaMwfybiwLA6AuDkJoy4fMNSnUuaxDx5GFk7XshxfbsLygHf2Z3hBwQDZDl",
+  "incident_ids": [
+    "airwars-135021"
+  ],
+  "incident_sequences": [
+    190
+  ],
+  "normalized_url": "https://www.facebook.com/Morek.A.S.M.L/posts/pfbid02V37Ck4VaMwfybiwLA6AuDkJoy4fMNSnUuaxDx5GFk7XshxfbsLygHf2Z3hBwQDZDl",
+  "observed_original_urls": [
+    "https://www.facebook.com/Morek.A.S.M.L/posts/pfbid02V37Ck4VaMwfybiwLA6AuDkJoy4fMNSnUuaxDx5GFk7XshxfbsLygHf2Z3hBwQDZDl"
+  ],
+  "original_url": "https://www.facebook.com/Morek.A.S.M.L/posts/pfbid02V37Ck4VaMwfybiwLA6AuDkJoy4fMNSnUuaxDx5GFk7XshxfbsLygHf2Z3hBwQDZDl",
+  "page_title": "مدينة مورك العز - #مورك\nحصيلة الشهداء التي وصلنا لها لهذة... Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4938-december-1-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-135021",
+      "incident_sequence": 190,
+      "observed_original_url": "https://www.facebook.com/Morek.A.S.M.L/posts/pfbid02V37Ck4VaMwfybiwLA6AuDkJoy4fMNSnUuaxDx5GFk7XshxfbsLygHf2Z3hBwQDZDl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Madina mork",
+  "publisher_ar": "Madina mork",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:35:53+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-3df2813b131202238cc247bc",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/Morek.A.S.M.L/posts/pfbid02V37Ck4VaMwfybiwLA6AuDkJoy4fMNSnUuaxDx5GFk7XshxfbsLygHf2Z3hBwQDZDl",
+  "text_ar": "",
+  "text_original": "مدينة مورك العز - #مورك\nحصيلة الشهداء التي وصلنا لها لهذة...\nFacebook‎مدينة مورك العز‎'s Post",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003146
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

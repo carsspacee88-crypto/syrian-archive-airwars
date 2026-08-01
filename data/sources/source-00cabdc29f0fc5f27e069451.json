@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/Z6B4k"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.239,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:09+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 81456,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "6397ffbbb7a0d191180c97731b39cf6d34c893535422f0c83629c75c605aa09c",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.239,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/syriahr/status/1863911363073945791",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:09+00:00",
+      "status": 200,
+      "url": "https://x.com/syriahr/status/1863911363073945791",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/syriahr",
+  "captions": [],
+  "content_hash": "2f8e642d27dfc07de683483c2ccb390ec8e4d48cbe6e5ceec13f71b20496a516",
+  "content_variants": [
+    {
+      "bytes": 394,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:09+00:00",
+      "sha256": "2f8e642d27dfc07de683483c2ccb390ec8e4d48cbe6e5ceec13f71b20496a516",
+      "source_url": "https://x.com/syriahr/status/1863911363073945791",
+      "text": "Post\n\nPost\n\nالمرصد السوري لحقوق الإنسان@syriahr#المرصد_السوري\nاستشهاد مدنيين اثنين بغارات جوية على مدينة #خان_شيخون.. وارتفاع حصيلة الشهداء إلى 13 إثر غارات جوية على مدينة #إدلب ومخيم للنازحين\nsyriahr.com/%d8%a7%d8%b3%d…11:41 AM · Dec 3, 20242.3KViews6"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/syriahr/status/1863911363073945791",
+  "incident_ids": [
+    "airwars-138658"
+  ],
+  "incident_sequences": [
+    181
+  ],
+  "normalized_url": "https://x.com/syriahr/status/1863911363073945791",
+  "observed_original_urls": [
+    "https://x.com/syriahr/status/1863911363073945791"
+  ],
+  "original_url": "https://x.com/syriahr/status/1863911363073945791",
+  "page_title": "المرصد السوري لحقوق الإنسان on X: \"#المرصد_السوري\nاستشهاد مدنيين اثنين بغارات جوية على مدينة #خان_شيخون.. وارتفاع حصيلة الشهداء إلى 13 إثر غارات جوية على مدينة #إدلب ومخيم للنازحين\nhttps://t.co/rhXTqld3aT\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4953-december-3-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138658",
+      "incident_sequence": 181,
+      "observed_original_url": "https://x.com/syriahr/status/1863911363073945791",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-03T11:41:13.000Z",
+  "publisher": "'@syriahr",
+  "publisher_ar": "'@syriahr",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:09+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-00cabdc29f0fc5f27e069451",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/syriahr/status/1863911363073945791",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالمرصد السوري لحقوق الإنسان@syriahr#المرصد_السوري\nاستشهاد مدنيين اثنين بغارات جوية على مدينة #خان_شيخون.. وارتفاع حصيلة الشهداء إلى 13 إثر غارات جوية على مدينة #إدلب ومخيم للنازحين\nsyriahr.com/%d8%a7%d8%b3%d…11:41 AM · Dec 3, 20242.3KViews6",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001603
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

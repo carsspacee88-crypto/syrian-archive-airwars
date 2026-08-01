@@ -1,0 +1,100 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/8v1OK"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.141,
+          "error": "http_404",
+          "result": "http_error",
+          "retrieved_at": "2026-08-01T08:32:57+00:00",
+          "status": 404
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 36865,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "d501ee2f121716cecb490fc4e076719ebc00bcbf22de0dca650dbb60f0bd9105",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.141,
+      "error": "http_404",
+      "etag": "",
+      "final_url": "https://x.com/Star2Hsyn39635/status/1863312772974494000",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:32:57+00:00",
+      "status": 404,
+      "url": "https://x.com/Star2Hsyn39635/status/1863312772974494000",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "'@Star2Hsyn39635",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_404",
+  "final_redirected_url": "https://x.com/Star2Hsyn39635/status/1863312772974494000",
+  "incident_ids": [
+    "airwars-138490"
+  ],
+  "incident_sequences": [
+    189
+  ],
+  "normalized_url": "https://x.com/Star2Hsyn39635/status/1863312772974494000",
+  "observed_original_urls": [
+    "https://x.com/Star2Hsyn39635/status/1863312772974494000"
+  ],
+  "original_url": "https://x.com/Star2Hsyn39635/status/1863312772974494000",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4947-december-1-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138490",
+      "incident_sequence": 189,
+      "observed_original_url": "https://x.com/Star2Hsyn39635/status/1863312772974494000",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "'@Star2Hsyn39635",
+  "publisher_ar": "'@Star2Hsyn39635",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:32:57+00:00",
+    "reason": "http_404",
+    "status": "deferred"
+  },
+  "retrieval_status": "not_found",
+  "retrieved_at": "2026-08-01T08:32:57+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-4dac5f8a891868bba47b3ab4",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Star2Hsyn39635/status/1863312772974494000",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

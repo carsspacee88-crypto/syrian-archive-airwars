@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/HKdiI"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.866,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:37:58+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 955774,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "d3f644619b7ed4dcc9893d844c05831403028d78136b1a8e8c16ff4b8ee0fa6f",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.866,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/ZAMANALWSL.syria/videos/570927398692513/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:37:58+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=570927398692513",
+      "waiting_seconds": 0.738
+    }
+  ],
+  "author": "Zaman",
+  "captions": [],
+  "content_hash": "357a94122d497e3ca669bc64c23e4b816d60830d3d670a701f71bae2ce3fbb27",
+  "content_variants": [
+    {
+      "bytes": 179,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:37:58+00:00",
+      "sha256": "357a94122d497e3ca669bc64c23e4b816d60830d3d670a701f71bae2ce3fbb27",
+      "source_url": "https://www.facebook.com/ZAMANALWSL.syria/videos/570927398692513/",
+      "text": "إعلام النظام\nمقتل شخصين وإصابة 3 آخرين جراء قصف إسرائيلي على حي المزة يوم الاثنين #دمشق | زمان الوصل"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/ZAMANALWSL.syria/videos/570927398692513/",
+  "incident_ids": [
+    "airwars-125418"
+  ],
+  "incident_sequences": [
+    249
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=570927398692513",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=570927398692513"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=570927398692513",
+  "page_title": "إعلام النظام\nمقتل شخصين وإصابة 3 آخرين جراء قصف إسرائيلي على حي المزة يوم الاثنين #دمشق | زمان الوصل",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy057-october-21-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125418",
+      "incident_sequence": 249,
+      "observed_original_url": "https://www.facebook.com/watch/?v=570927398692513",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Zaman",
+  "publisher_ar": "Zaman",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:37:58+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-57eadcc2e6805507ea24125b",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=570927398692513",
+  "text_ar": "",
+  "text_original": "إعلام النظام\nمقتل شخصين وإصابة 3 آخرين جراء قصف إسرائيلي على حي المزة يوم الاثنين #دمشق | زمان الوصل",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00384
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

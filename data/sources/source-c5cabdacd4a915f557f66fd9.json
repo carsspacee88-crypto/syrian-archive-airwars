@@ -1,0 +1,117 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/Fy4Si"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.276,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:35:00+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 98361,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "1ea1763e07171e3a61bcbc044811594c9192db9b431239b28eb14aa005b53655",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.276,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/Hani_Alymani_/status/1857044153214918896",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:35:00+00:00",
+      "status": 200,
+      "url": "https://x.com/Hani_Alymani_/status/1857044153214918896",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/Hani_Alymani_",
+  "captions": [],
+  "content_hash": "9fd3a533a7d482f955d8f9696ce6f21461026ea2c41b2ffee2c544d7bc781c35",
+  "content_variants": [
+    {
+      "bytes": 245,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:35:00+00:00",
+      "sha256": "9fd3a533a7d482f955d8f9696ce6f21461026ea2c41b2ffee2c544d7bc781c35",
+      "source_url": "https://x.com/Hani_Alymani_/status/1857044153214918896",
+      "text": "Post\n\nPost\n\nهاني اليماني@Hani_Alymani_الطيران الاسرائيلي يستهدف بناء في حي المزة فيلات غربية وقدسيا بدمشق..\n#دمشق #سوريا00:0000:0012:53 PM · Nov 14, 20244.6KViews38213"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Hani_Alymani_/status/1857044153214918896",
+  "incident_ids": [
+    "airwars-125499",
+    "airwars-125581"
+  ],
+  "incident_sequences": [
+    231,
+    232
+  ],
+  "normalized_url": "https://x.com/Hani_Alymani_/status/1857044153214918896",
+  "observed_original_urls": [
+    "https://x.com/Hani_Alymani_/status/1857044153214918896"
+  ],
+  "original_url": "https://x.com/Hani_Alymani_/status/1857044153214918896",
+  "page_title": "هاني اليماني on X: \"الطيران الاسرائيلي يستهدف بناء في حي المزة فيلات غربية وقدسيا بدمشق..\n#دمشق #سوريا https://t.co/hHFaXFW8GB\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy061-november-14-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125499",
+      "incident_sequence": 231,
+      "observed_original_url": "https://x.com/Hani_Alymani_/status/1857044153214918896",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy060-november-14-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125581",
+      "incident_sequence": 232,
+      "observed_original_url": "https://x.com/Hani_Alymani_/status/1857044153214918896",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-14T12:53:22.000Z",
+  "publisher": "'@Hani_Alymani_",
+  "publisher_ar": "'@Hani_Alymani_",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:35:00+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c5cabdacd4a915f557f66fd9",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Hani_Alymani_/status/1857044153214918896",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nهاني اليماني@Hani_Alymani_الطيران الاسرائيلي يستهدف بناء في حي المزة فيلات غربية وقدسيا بدمشق..\n#دمشق #سوريا00:0000:0012:53 PM · Nov 14, 20244.6KViews38213",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002011
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

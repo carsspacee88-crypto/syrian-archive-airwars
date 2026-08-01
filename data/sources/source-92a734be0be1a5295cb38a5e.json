@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/fzjO3"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.458,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:43:15+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1147706,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "4cc201ec0c56500957f71f0ee8b4e0fcda3035e71a8cf43322ee59aca39fa323",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.458,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/groups/1491027774428862/posts/2493280887536874/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:43:15+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/groups/1491027774428862/posts/2493280887536874/",
+      "waiting_seconds": 0.745
+    }
+  ],
+  "author": "Hammam Fahim",
+  "captions": [],
+  "content_hash": "17f6a44f5e80d03f8b93018f46970709d3a66114d13daa5e4b59c25e36144182",
+  "content_variants": [
+    {
+      "bytes": 120,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:43:15+00:00",
+      "sha256": "17f6a44f5e80d03f8b93018f46970709d3a66114d13daa5e4b59c25e36144182",
+      "source_url": "https://www.facebook.com/groups/1491027774428862/posts/2493280887536874/",
+      "text": "اخبار اليوم | قتلى وجرحى لميليشيات حزبالله و الميليشيات الإيرانيه"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/groups/1491027774428862/posts/2493280887536874/",
+  "incident_ids": [
+    "airwars-125524"
+  ],
+  "incident_sequences": [
+    227
+  ],
+  "normalized_url": "https://www.facebook.com/groups/1491027774428862/posts/2493280887536874/",
+  "observed_original_urls": [
+    "https://www.facebook.com/groups/1491027774428862/posts/2493280887536874/"
+  ],
+  "original_url": "https://www.facebook.com/groups/1491027774428862/posts/2493280887536874/",
+  "page_title": "اخبار اليوم | قتلى وجرحى لميليشيات حزبالله و الميليشيات الإيرانيه",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy062-november-20-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125524",
+      "incident_sequence": 227,
+      "observed_original_url": "https://www.facebook.com/groups/1491027774428862/posts/2493280887536874/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Hammam Fahim",
+  "publisher_ar": "Hammam Fahim",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:43:15+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-92a734be0be1a5295cb38a5e",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/groups/1491027774428862/posts/2493280887536874/",
+  "text_ar": "",
+  "text_original": "اخبار اليوم | قتلى وجرحى لميليشيات حزبالله و الميليشيات الإيرانيه",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.004158
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

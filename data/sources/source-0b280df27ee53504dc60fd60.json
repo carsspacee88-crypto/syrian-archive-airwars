@@ -1,0 +1,100 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/W2DHU"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.24,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-08-01T08:31:06+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 6046,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "ec8869ab467d3de47e8bafb5a80e3ea1d2f0a34cb6105cf9226a872f82fc3e92",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.24,
+      "error": "http_403",
+      "etag": "",
+      "final_url": "https://npasyria.com/196058/?fbclid=IwY2xjawGIrfxleHRuA2FlbQIxMQABHZvGrHTXrEOZnRO0eMIU9Pu6EeLlAw5GXL7NhfyjO7DxmidsxHJNWbdw6A_aem_JQDNTka3o",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:06+00:00",
+      "status": 403,
+      "url": "https://npasyria.com/196058/?fbclid=IwY2xjawGIrfxleHRuA2FlbQIxMQABHZvGrHTXrEOZnRO0eMIU9Pu6EeLlAw5GXL7NhfyjO7DxmidsxHJNWbdw6A_aem_JQDNTka3o",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "North Press Agency news",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_403",
+  "final_redirected_url": "https://npasyria.com/196058/?fbclid=IwY2xjawGIrfxleHRuA2FlbQIxMQABHZvGrHTXrEOZnRO0eMIU9Pu6EeLlAw5GXL7NhfyjO7DxmidsxHJNWbdw6A_aem_JQDNTka3o",
+  "incident_ids": [
+    "airwars-131286"
+  ],
+  "incident_sequences": [
+    243
+  ],
+  "normalized_url": "https://npasyria.com/196058/?fbclid=IwY2xjawGIrfxleHRuA2FlbQIxMQABHZvGrHTXrEOZnRO0eMIU9Pu6EeLlAw5GXL7NhfyjO7DxmidsxHJNWbdw6A_aem_JQDNTka3o",
+  "observed_original_urls": [
+    "https://npasyria.com/196058/?fbclid=IwY2xjawGIrfxleHRuA2FlbQIxMQABHZvGrHTXrEOZnRO0eMIU9Pu6EeLlAw5GXL7NhfyjO7DxmidsxHJNWbdw6A_aem_JQDNTka3o"
+  ],
+  "original_url": "https://npasyria.com/196058/?fbclid=IwY2xjawGIrfxleHRuA2FlbQIxMQABHZvGrHTXrEOZnRO0eMIU9Pu6EeLlAw5GXL7NhfyjO7DxmidsxHJNWbdw6A_aem_JQDNTka3o",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts726-october-24-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-131286",
+      "incident_sequence": 243,
+      "observed_original_url": "https://npasyria.com/196058/?fbclid=IwY2xjawGIrfxleHRuA2FlbQIxMQABHZvGrHTXrEOZnRO0eMIU9Pu6EeLlAw5GXL7NhfyjO7DxmidsxHJNWbdw6A_aem_JQDNTka3o",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "North Press Agency news",
+  "publisher_ar": "North Press Agency news",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:31:06+00:00",
+    "reason": "http_403",
+    "status": "deferred"
+  },
+  "retrieval_status": "blocked",
+  "retrieved_at": "2026-08-01T08:31:06+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-0b280df27ee53504dc60fd60",
+  "source_type": "news_article",
+  "stable_id_basis": "https://npasyria.com/196058/?fbclid=IwY2xjawGIrfxleHRuA2FlbQIxMQABHZvGrHTXrEOZnRO0eMIU9Pu6EeLlAw5GXL7NhfyjO7DxmidsxHJNWbdw6A_aem_JQDNTka3o",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

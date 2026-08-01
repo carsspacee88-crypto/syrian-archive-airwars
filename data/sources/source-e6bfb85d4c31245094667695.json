@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/XfLzV"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.273,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:48:45+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 111752,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "0b9d6dae9bce3b25c67d23f91078c9db65b6dcaff773884f76a8c0bd3d86e005",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.273,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/Qasemqt/status/1860410060137963882",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:48:45+00:00",
+      "status": 200,
+      "url": "https://x.com/Qasemqt/status/1860410060137963882",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/Qasemqt",
+  "captions": [],
+  "content_hash": "d470e0cb6229f650d10ff86b11c8134606c7c18e31898a46b58803eb447dca9c",
+  "content_variants": [
+    {
+      "bytes": 281,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:48:45+00:00",
+      "sha256": "d470e0cb6229f650d10ff86b11c8134606c7c18e31898a46b58803eb447dca9c",
+      "source_url": "https://x.com/Qasemqt/status/1860410060137963882",
+      "text": "Post\n\nPost\n\nقاسم@Qasemqtقصف مدفعي من قبل قوات الأسد على الأحياء السكينة في مدينة اريحا بريف إدلب00:007:48 PM · Nov 23, 202414.8KViews8331052\n\nAlaa Sh@AlaaShabib0Nov 23, 2024لعنة الله على الظالمين113"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Qasemqt/status/1860410060137963882",
+  "incident_ids": [
+    "airwars-131062"
+  ],
+  "incident_sequences": [
+    224
+  ],
+  "normalized_url": "https://x.com/Qasemqt/status/1860410060137963882",
+  "observed_original_urls": [
+    "https://x.com/Qasemqt/status/1860410060137963882"
+  ],
+  "original_url": "https://x.com/Qasemqt/status/1860410060137963882",
+  "page_title": "قاسم on X: \"قصف مدفعي من قبل قوات الأسد على الأحياء السكينة في مدينة اريحا بريف إدلب https://t.co/iTsVQt6rve\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4918-november-23-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-131062",
+      "incident_sequence": 224,
+      "observed_original_url": "https://x.com/Qasemqt/status/1860410060137963882",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-23T19:48:17.000Z",
+  "publisher": "'@Qasemqt",
+  "publisher_ar": "'@Qasemqt",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:48:45+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-e6bfb85d4c31245094667695",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Qasemqt/status/1860410060137963882",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nقاسم@Qasemqtقصف مدفعي من قبل قوات الأسد على الأحياء السكينة في مدينة اريحا بريف إدلب00:007:48 PM · Nov 23, 202414.8KViews8331052\n\nAlaa Sh@AlaaShabib0Nov 23, 2024لعنة الله على الظالمين113",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002161
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

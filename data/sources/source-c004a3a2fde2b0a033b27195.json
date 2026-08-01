@@ -1,0 +1,118 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/TXZZC"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.475,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:46:49+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 356462,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "d3feb62e874e428c476046a19c79c70a20bf03b5b053c0adea605f247a8cb773",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.475,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/ahmad.zydan.338/posts/pfbid02YbuTMHEkBNMMfhXaqCtJ592Bzcjp1ghdVUa92o2PcdAWmjCSoiKMwNfHGwkLo6vwl",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:46:49+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/ahmad.zydan.338/posts/pfbid02YbuTMHEkBNMMfhXaqCtJ592Bzcjp1ghdVUa92o2PcdAWmjCSoiKMwNfHGwkLo6vwl",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "Ahameed",
+  "captions": [],
+  "content_hash": "f9781cd9de5383899bd6ed7026b86d1382eacba2a604dad1c917576791a3f3bb",
+  "content_variants": [
+    {
+      "bytes": 167,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:46:49+00:00",
+      "sha256": "f9781cd9de5383899bd6ed7026b86d1382eacba2a604dad1c917576791a3f3bb",
+      "source_url": "https://www.facebook.com/ahmad.zydan.338/posts/pfbid02YbuTMHEkBNMMfhXaqCtJ592Bzcjp1ghdVUa92o2PcdAWmjCSoiKMwNfHGwkLo6vwl",
+      "text": "This page isn't available right nowThis may be because of a technical error that we're working to get fixed. Try reloading this page.Go to FeedGo backVisit Help Center"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "exact_content_duplicate_group": "sha256-f9781cd9de5383899bd6ed70",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/ahmad.zydan.338/posts/pfbid02YbuTMHEkBNMMfhXaqCtJ592Bzcjp1ghdVUa92o2PcdAWmjCSoiKMwNfHGwkLo6vwl",
+  "incident_ids": [
+    "airwars-132565",
+    "airwars-228947"
+  ],
+  "incident_sequences": [
+    203,
+    205
+  ],
+  "normalized_url": "https://www.facebook.com/ahmad.zydan.338/posts/pfbid02YbuTMHEkBNMMfhXaqCtJ592Bzcjp1ghdVUa92o2PcdAWmjCSoiKMwNfHGwkLo6vwl",
+  "observed_original_urls": [
+    "https://www.facebook.com/ahmad.zydan.338/posts/pfbid02YbuTMHEkBNMMfhXaqCtJ592Bzcjp1ghdVUa92o2PcdAWmjCSoiKMwNfHGwkLo6vwl"
+  ],
+  "original_url": "https://www.facebook.com/ahmad.zydan.338/posts/pfbid02YbuTMHEkBNMMfhXaqCtJ592Bzcjp1ghdVUa92o2PcdAWmjCSoiKMwNfHGwkLo6vwl",
+  "page_title": "Facebook Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4933-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132565",
+      "incident_sequence": 203,
+      "observed_original_url": "https://www.facebook.com/ahmad.zydan.338/posts/pfbid02YbuTMHEkBNMMfhXaqCtJ592Bzcjp1ghdVUa92o2PcdAWmjCSoiKMwNfHGwkLo6vwl",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/r4729-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-228947",
+      "incident_sequence": 205,
+      "observed_original_url": "https://www.facebook.com/ahmad.zydan.338/posts/pfbid02YbuTMHEkBNMMfhXaqCtJ592Bzcjp1ghdVUa92o2PcdAWmjCSoiKMwNfHGwkLo6vwl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Ahameed",
+  "publisher_ar": "Ahameed",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:46:49+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c004a3a2fde2b0a033b27195",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/ahmad.zydan.338/posts/pfbid02YbuTMHEkBNMMfhXaqCtJ592Bzcjp1ghdVUa92o2PcdAWmjCSoiKMwNfHGwkLo6vwl",
+  "text_ar": "",
+  "text_original": "This page isn't available right nowThis may be because of a technical error that we're working to get fixed. Try reloading this page.Go to FeedGo backVisit Help Center",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00166
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

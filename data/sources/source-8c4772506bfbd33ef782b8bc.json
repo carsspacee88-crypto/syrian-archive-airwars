@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/x7XS8"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.274,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:34:07+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 80451,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "5709326faca148a671665e94d12f492f926d19e07d04993f6ca3082d0e6e3c7b",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.274,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/SyriaCivilDefe/status/1863898860705267952",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:34:07+00:00",
+      "status": 200,
+      "url": "https://x.com/SyriaCivilDefe/status/1863898860705267952",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/SyriaCivilDefe",
+  "captions": [],
+  "content_hash": "de0c582216cb18d46c5fd3a71b0d4cab7e60bf2949ef68571302b7210a44d10e",
+  "content_variants": [
+    {
+      "bytes": 432,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:34:07+00:00",
+      "sha256": "de0c582216cb18d46c5fd3a71b0d4cab7e60bf2949ef68571302b7210a44d10e",
+      "source_url": "https://x.com/SyriaCivilDefe/status/1863898860705267952",
+      "text": "Post\n\nPost\n\nالدفاع المدني السوري@SyriaCivilDefe🔴 عاجل: مقتل مدنيين اثنين إثر غارات جوية روسية استهدفت الأحياء السكنية لمدينة خان شيخون جنوبي #إدلب، اليوم الثلاثاء 3 كانون الأول.\n#الخوذ_البيضاء #الأسد_يقتل_السوريين #العدوان_الروسي10:51 AM · Dec 3, 20243.3KViews1136"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyriaCivilDefe/status/1863898860705267952",
+  "incident_ids": [
+    "airwars-138658"
+  ],
+  "incident_sequences": [
+    181
+  ],
+  "normalized_url": "https://x.com/SyriaCivilDefe/status/1863898860705267952",
+  "observed_original_urls": [
+    "https://x.com/SyriaCivilDefe/status/1863898860705267952"
+  ],
+  "original_url": "https://x.com/SyriaCivilDefe/status/1863898860705267952",
+  "page_title": "الدفاع المدني السوري on X: \"🔴 عاجل: مقتل مدنيين اثنين إثر غارات جوية روسية استهدفت الأحياء السكنية لمدينة خان شيخون جنوبي #إدلب، اليوم الثلاثاء 3 كانون الأول.\n#الخوذ_البيضاء #الأسد_يقتل_السوريين #العدوان_الروسي\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4953-december-3-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138658",
+      "incident_sequence": 181,
+      "observed_original_url": "https://x.com/SyriaCivilDefe/status/1863898860705267952",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-03T10:51:32.000Z",
+  "publisher": "'@SyriaCivilDefe",
+  "publisher_ar": "'@SyriaCivilDefe",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:34:07+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-8c4772506bfbd33ef782b8bc",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyriaCivilDefe/status/1863898860705267952",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالدفاع المدني السوري@SyriaCivilDefe🔴 عاجل: مقتل مدنيين اثنين إثر غارات جوية روسية استهدفت الأحياء السكنية لمدينة خان شيخون جنوبي #إدلب، اليوم الثلاثاء 3 كانون الأول.\n#الخوذ_البيضاء #الأسد_يقتل_السوريين #العدوان_الروسي10:51 AM · Dec 3, 20243.3KViews1136",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002048
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

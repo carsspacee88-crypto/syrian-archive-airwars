@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/I7EhX"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.3,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:33:18+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 84449,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "3c9de5dedf74bd83f18062d5e7162fc39598fdae458bd3c4f2b59b3a2d327149",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.3,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/Qasemqt/status/1862219523929055649",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:33:18+00:00",
+      "status": 200,
+      "url": "https://x.com/Qasemqt/status/1862219523929055649",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/Qasemqt",
+  "captions": [],
+  "content_hash": "04a9cee0d8750af1f18c13d3ded4791b8abc69da1343b4a44a4cdba169259f78",
+  "content_variants": [
+    {
+      "bytes": 268,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:33:18+00:00",
+      "sha256": "04a9cee0d8750af1f18c13d3ded4791b8abc69da1343b4a44a4cdba169259f78",
+      "source_url": "https://x.com/Qasemqt/status/1862219523929055649",
+      "text": "Post\n\nPost\n\nقاسم@Qasemqtطيران الإحتلال الروسي يشن غارات جوية بالصواريخ الفراغية على منازل المدنيين في مدينة الاتارب بريف حلب الغربي00:007:38 PM · Nov 28, 20247.2KViews41261"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Qasemqt/status/1862219523929055649",
+  "incident_ids": [
+    "airwars-132466"
+  ],
+  "incident_sequences": [
+    213
+  ],
+  "normalized_url": "https://x.com/Qasemqt/status/1862219523929055649",
+  "observed_original_urls": [
+    "https://x.com/Qasemqt/status/1862219523929055649"
+  ],
+  "original_url": "https://x.com/Qasemqt/status/1862219523929055649",
+  "page_title": "قاسم on X: \"طيران الإحتلال الروسي يشن غارات جوية بالصواريخ الفراغية على منازل المدنيين في مدينة الاتارب بريف حلب الغربي https://t.co/ptvWCWXxYm\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4928-november-28-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132466",
+      "incident_sequence": 213,
+      "observed_original_url": "https://x.com/Qasemqt/status/1862219523929055649",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-28T19:38:27.000Z",
+  "publisher": "'@Qasemqt",
+  "publisher_ar": "'@Qasemqt",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:33:18+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-660fbc850a33f569af8e6a6d",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Qasemqt/status/1862219523929055649",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nقاسم@Qasemqtطيران الإحتلال الروسي يشن غارات جوية بالصواريخ الفراغية على منازل المدنيين في مدينة الاتارب بريف حلب الغربي00:007:38 PM · Nov 28, 20247.2KViews41261",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001814
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

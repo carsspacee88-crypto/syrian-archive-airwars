@@ -1,0 +1,110 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/wHtLX"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.38,
+          "error": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)",
+          "result": "network_error",
+          "retrieved_at": "2026-08-01T08:31:06+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.38,
+      "error": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)",
+      "etag": "",
+      "final_url": "https://vdc-nsy.com/archives/68937?fbclid=IwY2xjawGvw6BleHRuA2FlbQIxMQABHZzrHv_jUqFivAQBaobgFn1VuqGqIclVyN2YvOcrzM94yHluCzLYZPu-2g_aem_dYjNO6",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:06+00:00",
+      "status": null,
+      "url": "https://vdc-nsy.com/archives/68937?fbclid=IwY2xjawGvw6BleHRuA2FlbQIxMQABHZzrHv_jUqFivAQBaobgFn1VuqGqIclVyN2YvOcrzM94yHluCzLYZPu-2g_aem_dYjNO6",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "VDC",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)",
+  "final_redirected_url": "https://vdc-nsy.com/archives/68937?fbclid=IwY2xjawGvw6BleHRuA2FlbQIxMQABHZzrHv_jUqFivAQBaobgFn1VuqGqIclVyN2YvOcrzM94yHluCzLYZPu-2g_aem_dYjNO6",
+  "incident_ids": [
+    "airwars-133685",
+    "airwars-133686"
+  ],
+  "incident_sequences": [
+    229,
+    230
+  ],
+  "normalized_url": "https://vdc-nsy.com/archives/68937?fbclid=IwY2xjawGvw6BleHRuA2FlbQIxMQABHZzrHv_jUqFivAQBaobgFn1VuqGqIclVyN2YvOcrzM94yHluCzLYZPu-2g_aem_dYjNO6",
+  "observed_original_urls": [
+    "https://vdc-nsy.com/archives/68937?fbclid=IwY2xjawGvw6BleHRuA2FlbQIxMQABHZzrHv_jUqFivAQBaobgFn1VuqGqIclVyN2YvOcrzM94yHluCzLYZPu-2g_aem_dYjNO6"
+  ],
+  "original_url": "https://vdc-nsy.com/archives/68937?fbclid=IwY2xjawGvw6BleHRuA2FlbQIxMQABHZzrHv_jUqFivAQBaobgFn1VuqGqIclVyN2YvOcrzM94yHluCzLYZPu-2g_aem_dYjNO6",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts735-november-19-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-133685",
+      "incident_sequence": 229,
+      "observed_original_url": "https://vdc-nsy.com/archives/68937?fbclid=IwY2xjawGvw6BleHRuA2FlbQIxMQABHZzrHv_jUqFivAQBaobgFn1VuqGqIclVyN2YvOcrzM94yHluCzLYZPu-2g_aem_dYjNO6",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts736-november-19-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-133686",
+      "incident_sequence": 230,
+      "observed_original_url": "https://vdc-nsy.com/archives/68937?fbclid=IwY2xjawGvw6BleHRuA2FlbQIxMQABHZzrHv_jUqFivAQBaobgFn1VuqGqIclVyN2YvOcrzM94yHluCzLYZPu-2g_aem_dYjNO6",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "VDC",
+  "publisher_ar": "VDC",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:31:06+00:00",
+    "reason": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)",
+    "status": "deferred"
+  },
+  "retrieval_status": "unavailable",
+  "retrieved_at": "2026-08-01T08:31:06+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-25368615a088afb3dca7eb5c",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://vdc-nsy.com/archives/68937?fbclid=IwY2xjawGvw6BleHRuA2FlbQIxMQABHZzrHv_jUqFivAQBaobgFn1VuqGqIclVyN2YvOcrzM94yHluCzLYZPu-2g_aem_dYjNO6",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

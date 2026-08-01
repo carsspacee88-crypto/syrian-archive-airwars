@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/MJzKf"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.565,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:35:02+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 82940,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "b11beaaf1f125ecace7b1412acb548a13d337628e171a4722eb90488ed819087",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.565,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/AJSyriaNowN/status/1863495217414070560",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:35:02+00:00",
+      "status": 200,
+      "url": "https://x.com/AJA_Syria/status/1863495217414070560",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/AJSyriaNowN",
+  "captions": [],
+  "content_hash": "df42b0225e68f966b3fce36a7a01f5c49b5c5c936674648713d8c6b077b82678",
+  "content_variants": [
+    {
+      "bytes": 199,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:35:02+00:00",
+      "sha256": "df42b0225e68f966b3fce36a7a01f5c49b5c5c936674648713d8c6b077b82678",
+      "source_url": "https://x.com/AJSyriaNowN/status/1863495217414070560",
+      "text": "Post\n\nPost\n\nسوريا الآن - أخبار@AJSyriaNowNعاجل | مراسل #الجزيرة: قصف جوي على حي محطة بغداد في مدينة #حلب8:07 AM · Dec 2, 20246.2KViews1282"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AJSyriaNowN/status/1863495217414070560",
+  "incident_ids": [
+    "airwars-138496"
+  ],
+  "incident_sequences": [
+    182
+  ],
+  "normalized_url": "https://x.com/AJA_Syria/status/1863495217414070560",
+  "observed_original_urls": [
+    "https://x.com/AJA_Syria/status/1863495217414070560"
+  ],
+  "original_url": "https://x.com/AJA_Syria/status/1863495217414070560",
+  "page_title": "سوريا الآن - أخبار on X: \"عاجل | مراسل #الجزيرة: قصف جوي على حي محطة بغداد في مدينة #حلب https://t.co/CBGtSoPUhf\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4948-december-2-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138496",
+      "incident_sequence": 182,
+      "observed_original_url": "https://x.com/AJA_Syria/status/1863495217414070560",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-02T08:07:36.000Z",
+  "publisher": "'@AJA_Syria",
+  "publisher_ar": "'@AJA_Syria",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:35:02+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c88d767c2d36e95a4fbf4fdc",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AJA_Syria/status/1863495217414070560",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nسوريا الآن - أخبار@AJSyriaNowNعاجل | مراسل #الجزيرة: قصف جوي على حي محطة بغداد في مدينة #حلب8:07 AM · Dec 2, 20246.2KViews1282",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001817
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

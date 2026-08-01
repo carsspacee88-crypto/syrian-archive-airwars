@@ -1,0 +1,108 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/iOmgT",
+    "https://archive.is/lkTag"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.403,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:34:00+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 83144,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "0e06448639df22e89ae0476dbfe6d32cc7435df92f2915af30ef96d9b163f2d6",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.403,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/moradabd/status/1848378532822466620",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:34:00+00:00",
+      "status": 200,
+      "url": "https://x.com/moradabd/status/1848378532822466620",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/moradabd",
+  "captions": [],
+  "content_hash": "f6a820ed2b771644c5ec9bf158b17abae7da75a5a9f5f9527b53fd33bafd93be",
+  "content_variants": [
+    {
+      "bytes": 205,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:34:00+00:00",
+      "sha256": "f6a820ed2b771644c5ec9bf158b17abae7da75a5a9f5f9527b53fd33bafd93be",
+      "source_url": "https://x.com/moradabd/status/1848378532822466620",
+      "text": "Post\n\nPost\n\nMurad Abdul Jalil@moradabdاحتراق السيارة بالكامل جراء استهدافها بصاروخ موجه في حي #المزة في #دمشق00:002:59 PM · Oct 21, 20242.2KViews7"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/moradabd/status/1848378532822466620",
+  "incident_ids": [
+    "airwars-125418"
+  ],
+  "incident_sequences": [
+    249
+  ],
+  "normalized_url": "https://x.com/moradabd/status/1848378532822466620",
+  "observed_original_urls": [
+    "https://x.com/moradabd/status/1848378532822466620"
+  ],
+  "original_url": "https://x.com/moradabd/status/1848378532822466620",
+  "page_title": "Murad Abdul Jalil on X: \"احتراق السيارة بالكامل جراء استهدافها بصاروخ موجه في حي #المزة في #دمشق https://t.co/yLVyhRaEjZ\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy057-october-21-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125418",
+      "incident_sequence": 249,
+      "observed_original_url": "https://x.com/moradabd/status/1848378532822466620",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-10-21T14:59:18.000Z",
+  "publisher": "'@moradabd",
+  "publisher_ar": "'@moradabd",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:34:00+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-86cf9e5097ae5c8bc2c8ec2b",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/moradabd/status/1848378532822466620",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nMurad Abdul Jalil@moradabdاحتراق السيارة بالكامل جراء استهدافها بصاروخ موجه في حي #المزة في #دمشق00:002:59 PM · Oct 21, 20242.2KViews7",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001776
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

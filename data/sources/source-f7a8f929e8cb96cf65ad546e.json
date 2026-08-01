@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/Tched"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.248,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:49:08+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 81768,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "bc8a141035531fab234efebd58447429a650f1dd6f9051d059008b0760e11c78",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.248,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/snhr/status/1862868185046823048",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:49:08+00:00",
+      "status": 200,
+      "url": "https://x.com/snhr/status/1862868185046823048",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/snhr",
+  "captions": [],
+  "content_hash": "ac178e7f75ec4b7c83f0ad66afdad1669aa85b9e73489367d1d8874bd992b3ed",
+  "content_variants": [
+    {
+      "bytes": 332,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:49:08+00:00",
+      "sha256": "ac178e7f75ec4b7c83f0ad66afdad1669aa85b9e73489367d1d8874bd992b3ed",
+      "source_url": "https://x.com/snhr/status/1862868185046823048",
+      "text": "Post\n\nPost\n\nSyrian Network@snhrOn Nov 30, #SyrianRegime artillery bombed Frayka & Jisr al-Shoghour in W. #Idlib, killing a man named Ahmad al-Ali in Frayka, and injuring 3 others in Jisr al-Shoghour.\n#SNHR notes that regime forces violated UNSC resolutions prohibiting indiscriminate attacks.\n#Syria2:36 PM · Nov 30, 2024705Views36"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/snhr/status/1862868185046823048",
+  "incident_ids": [
+    "airwars-132543"
+  ],
+  "incident_sequences": [
+    201
+  ],
+  "normalized_url": "https://x.com/snhr/status/1862868185046823048",
+  "observed_original_urls": [
+    "https://x.com/snhr/status/1862868185046823048"
+  ],
+  "original_url": "https://x.com/snhr/status/1862868185046823048",
+  "page_title": "Syrian Network on X: \"On Nov 30, #SyrianRegime artillery bombed Frayka &amp; Jisr al-Shoghour in W. #Idlib, killing a man named Ahmad al-Ali in Frayka, and injuring 3 others in Jisr al-Shoghour.\n#SNHR notes that regime forces violated UNSC resolutions prohibiting indiscriminate attacks.\n#Syria https://t.co/6u28UmdqI5\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4936-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132543",
+      "incident_sequence": 201,
+      "observed_original_url": "https://x.com/snhr/status/1862868185046823048",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-30T14:36:00.000Z",
+  "publisher": "'@snhr",
+  "publisher_ar": "'@snhr",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:49:08+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-f7a8f929e8cb96cf65ad546e",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/snhr/status/1862868185046823048",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nSyrian Network@snhrOn Nov 30, #SyrianRegime artillery bombed Frayka & Jisr al-Shoghour in W. #Idlib, killing a man named Ahmad al-Ali in Frayka, and injuring 3 others in Jisr al-Shoghour.\n#SNHR notes that regime forces violated UNSC resolutions prohibiting indiscriminate attacks.\n#Syria2:36 PM · Nov 30, 2024705Views36",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001757
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

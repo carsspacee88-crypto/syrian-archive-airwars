@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297895"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/arabic-anf-news-com-6/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.163,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:09+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 35162,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "13d907f87011c3744721729afb92214eea58105262ebfa4a97768e7c4357b70c",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.163,
+      "error": null,
+      "etag": "",
+      "final_url": "https://arabic.anf-news.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/alahtlal-altrky-yrtkb-mjzrt-thanyt-fy-nahyt-yn-ysy-113090",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:09+00:00",
+      "status": 200,
+      "url": "https://arabic.anf-news.com/روج آفا - سوريا/alahtlal-altrky-yrtkb-mjzrt-thanyt-fy-nahyt-yn-ysy-113090",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": "6cc06f2ea2c34c2fe935918a36b0963202c97fdd89703577ef2552bb647f8823",
+  "content_variants": [
+    {
+      "bytes": 849,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:09+00:00",
+      "sha256": "6cc06f2ea2c34c2fe935918a36b0963202c97fdd89703577ef2552bb647f8823",
+      "source_url": "https://arabic.anf-news.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/alahtlal-altrky-yrtkb-mjzrt-thanyt-fy-nahyt-yn-ysy-113090",
+      "text": "وكالة فرات للأنباء\n\nعين عيسى\n\nالثلاثاء, ١٠ ديسمبر ٢٠٢٤, ٢٢:٠٠\n\nقامت دولة الاحتلال التركي صباح اليوم بارتكاب مجزرة في قرية صفية بناحية عين عيسى عبر طائرة مسيرة من طراز \"SÎHA\" ، راح ضحيتها 8 أشخاص من عائلة واحدة.\n\nوأسماء الشهداء الضحايا هي كما يلي: خليل سليمان، وضاح سليمان، محمد العبو، عبد الكريم العبو، دلال سليمان، نادية سليمان وأطفال هم جاسم سليمان، حسام سليمان.\n\nوكانت الاحتلال التركي قد ارتكبت بالأمس في قرية المستريحة التابعة لناحية عين عيسى مجزرة راحت ضحيتها 12 شخصاً ."
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://arabic.anf-news.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/alahtlal-altrky-yrtkb-mjzrt-thanyt-fy-nahyt-yn-ysy-113090",
+  "incident_ids": [
+    "airwars-216137"
+  ],
+  "incident_sequences": [
+    160
+  ],
+  "normalized_url": "https://arabic.anf-news.com/روج آفا - سوريا/alahtlal-altrky-yrtkb-mjzrt-thanyt-fy-nahyt-yn-ysy-113090",
+  "observed_original_urls": [
+    "https://arabic.anf-news.com/روج آفا - سوريا/alahtlal-altrky-yrtkb-mjzrt-thanyt-fy-nahyt-yn-ysy-113090"
+  ],
+  "original_url": "https://arabic.anf-news.com/روج آفا - سوريا/alahtlal-altrky-yrtkb-mjzrt-thanyt-fy-nahyt-yn-ysy-113090",
+  "page_title": "ANF |\nالاحتلال التركي يرتكب مجزرة ثانية في ناحية عين عيسى",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts752-december-10-2024/",
+      "airwars_source_id": "297895",
+      "incident_id": "airwars-216137",
+      "incident_sequence": 160,
+      "observed_original_url": "https://arabic.anf-news.com/روج آفا - سوريا/alahtlal-altrky-yrtkb-mjzrt-thanyt-fy-nahyt-yn-ysy-113090",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "anf-news.com",
+  "publisher_ar": "anf-news.com",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:09+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-63efbd2c32ad5cc1ae36eb18",
+  "source_type": "news_article",
+  "stable_id_basis": "https://arabic.anf-news.com/روج آفا - سوريا/alahtlal-altrky-yrtkb-mjzrt-thanyt-fy-nahyt-yn-ysy-113090",
+  "text_ar": "",
+  "text_original": "وكالة فرات للأنباء\n\nعين عيسى\n\nالثلاثاء, ١٠ ديسمبر ٢٠٢٤, ٢٢:٠٠\n\nقامت دولة الاحتلال التركي صباح اليوم بارتكاب مجزرة في قرية صفية بناحية عين عيسى عبر طائرة مسيرة من طراز \"SÎHA\" ، راح ضحيتها 8 أشخاص من عائلة واحدة.\n\nوأسماء الشهداء الضحايا هي كما يلي: خليل سليمان، وضاح سليمان، محمد العبو، عبد الكريم العبو، دلال سليمان، نادية سليمان وأطفال هم جاسم سليمان، حسام سليمان.\n\nوكانت الاحتلال التركي قد ارتكبت بالأمس في قرية المستريحة التابعة لناحية عين عيسى مجزرة راحت ضحيتها 12 شخصاً .",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001386
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

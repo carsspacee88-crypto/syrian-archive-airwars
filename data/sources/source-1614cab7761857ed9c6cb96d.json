@@ -1,0 +1,118 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://airwars.org/civilian-casualties/rs4941-december-1-2024/",
+    "https://archive.is/mzh8J"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.37,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:44+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 85163,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "d8ffa8a77e5c0ef0fecc8f964bcafbf025eab7f1e1a34d8c0704a16d06706dcd",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.37,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/syrianewsag/status/1863303939489231021",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:44+00:00",
+      "status": 200,
+      "url": "https://x.com/syrianewsag/status/1863303939489231021",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/syrianewsag",
+  "captions": [],
+  "content_hash": "c4aef3db5168c7e820132ea9f3fb4d617c2b246d83bef471078d59514b539868",
+  "content_variants": [
+    {
+      "bytes": 336,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:44+00:00",
+      "sha256": "c4aef3db5168c7e820132ea9f3fb4d617c2b246d83bef471078d59514b539868",
+      "source_url": "https://x.com/syrianewsag/status/1863303939489231021",
+      "text": "Post\n\nPost\n\nالوكالة السورية للأنباء - سنا@syrianewsagمشاهد الدمار والخوف وإصابات المدنيين، تملأ حي بستان غنوم بمدينة إدلب بعد غارات جوية استهدفته اليوم الأحد\n\n#وكالة_سنا #سورية00:007:27 PM · Dec 1, 2024344Views"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/syrianewsag/status/1863303939489231021",
+  "incident_ids": [
+    "airwars-138376",
+    "airwars-228947"
+  ],
+  "incident_sequences": [
+    191,
+    205
+  ],
+  "normalized_url": "https://x.com/syrianewsag/status/1863303939489231021",
+  "observed_original_urls": [
+    "https://x.com/syrianewsag/status/1863303939489231021"
+  ],
+  "original_url": "https://x.com/syrianewsag/status/1863303939489231021",
+  "page_title": "الوكالة السورية للأنباء - سنا on X: \"مشاهد الدمار والخوف وإصابات المدنيين، تملأ حي بستان غنوم بمدينة إدلب بعد غارات جوية استهدفته اليوم الأحد\n\n#وكالة_سنا #سورية https://t.co/Hgt9DK0fW9\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4941-december-1-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138376",
+      "incident_sequence": 191,
+      "observed_original_url": "https://x.com/syrianewsag/status/1863303939489231021",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/r4729-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-228947",
+      "incident_sequence": 205,
+      "observed_original_url": "https://x.com/syrianewsag/status/1863303939489231021",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-01T19:27:32.000Z",
+  "publisher": "'@syrianewsag",
+  "publisher_ar": "'@syrianewsag",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:44+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-1614cab7761857ed9c6cb96d",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/syrianewsag/status/1863303939489231021",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالوكالة السورية للأنباء - سنا@syrianewsagمشاهد الدمار والخوف وإصابات المدنيين، تملأ حي بستان غنوم بمدينة إدلب بعد غارات جوية استهدفته اليوم الأحد\n\n#وكالة_سنا #سورية00:007:27 PM · Dec 1, 2024344Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001882
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

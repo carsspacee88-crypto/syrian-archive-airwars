@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/XEFPv"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.274,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:48:58+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 83140,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "dd092a1c285c55a31c74a7a3b6611a2ddc98ea08064b1d4cc775f98a941ee3ec",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.274,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/Almohrar1/status/1862476104222593103",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:48:58+00:00",
+      "status": 200,
+      "url": "https://x.com/Almohrar1/status/1862476104222593103",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/Almohrar1",
+  "captions": [],
+  "content_hash": "e811a179ca749000b1a7c75f11dfd3ae7a679df90c5d5e5cee6b5fc4d5d3ee27",
+  "content_variants": [
+    {
+      "bytes": 226,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:48:58+00:00",
+      "sha256": "e811a179ca749000b1a7c75f11dfd3ae7a679df90c5d5e5cee6b5fc4d5d3ee27",
+      "source_url": "https://x.com/Almohrar1/status/1862476104222593103",
+      "text": "Post\n\nPost\n\nسوريا لحظة بلحظة@Almohrar1مكان الغارة الجوية قبل قليل على أطراف مدينة #بنش الشرقية تستهدف مدجنة دجاج00:0012:38 PM · Nov 29, 2024679Views17"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Almohrar1/status/1862476104222593103",
+  "incident_ids": [
+    "airwars-132520"
+  ],
+  "incident_sequences": [
+    207
+  ],
+  "normalized_url": "https://x.com/Almohrar1/status/1862476104222593103",
+  "observed_original_urls": [
+    "https://x.com/Almohrar1/status/1862476104222593103"
+  ],
+  "original_url": "https://x.com/Almohrar1/status/1862476104222593103",
+  "page_title": "سوريا لحظة بلحظة on X: \"مكان الغارة الجوية قبل قليل على أطراف مدينة #بنش الشرقية تستهدف مدجنة دجاج https://t.co/pC9cwpyXPo\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4929-november-29-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132520",
+      "incident_sequence": 207,
+      "observed_original_url": "https://x.com/Almohrar1/status/1862476104222593103",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-29T12:38:01.000Z",
+  "publisher": "'@Almohrar1",
+  "publisher_ar": "'@Almohrar1",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:48:58+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-f0f18dbbc37fd9117ebdaeae",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Almohrar1/status/1862476104222593103",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nسوريا لحظة بلحظة@Almohrar1مكان الغارة الجوية قبل قليل على أطراف مدينة #بنش الشرقية تستهدف مدجنة دجاج00:0012:38 PM · Nov 29, 2024679Views17",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001759
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

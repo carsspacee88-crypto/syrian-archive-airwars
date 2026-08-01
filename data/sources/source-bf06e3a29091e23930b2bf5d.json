@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297820"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/rojnews-news-awaz-rojnews-2024-12-09-094552/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.564,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:27+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 208308,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "7f90d507d91519403dea4ec205dce8827d452b96fa3484518884c287703c4316",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.564,
+      "error": null,
+      "etag": "",
+      "final_url": "https://rojnews.news/ar/?p=205515",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:27+00:00",
+      "status": 200,
+      "url": "https://rojnews.news/ar/?p=205515",
+      "waiting_seconds": 0.746
+    }
+  ],
+  "author": "https://www.facebook.com/RojnewsAr/ ROJNEWS",
+  "captions": [],
+  "content_hash": "ac5989616caac6a3f67bb592529df65d75cd6e4df59d3d74066b8d74321a0b8f",
+  "content_variants": [
+    {
+      "bytes": 1381,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:27+00:00",
+      "sha256": "ac5989616caac6a3f67bb592529df65d75cd6e4df59d3d74066b8d74321a0b8f",
+      "source_url": "https://rojnews.news/ar/?p=205515",
+      "text": "مسيّرات الاحتلال التركي تقصف ريف زركان وأنباء عن شهداء وجرحى\n\nمركز الأخبار\n\nاستهدفت مسيرة تابعة لجيش الاحتلال التركي قريتي حرمل ومحرملة بريف زركان ما تتسبب باستشهاد مواطن وإصابة آخر\n\nوأفادت وكالة أنباء هاوار بأن مسيّرات الاحتلال التركي استهدفت قريتي حرمل ومحرملة.\n\nوتسبب قصف الاحتلال لقرية حرمل باستشهاد مواطن وإصابة اثنين آخرين، عُرف منهما المواطن محمد حسن حسن (45) عاماً.\n\nهذا وارتكب الاحتلال التركي مساء أمس، مجزرة في قرية المستريحة غرب مدينة عين عيسى، راح ضحيتها 12 مواطناً، بينهم 6 أطفال.\n\nالجيش الكويتي: نتصدى لهجوم بطائرات مسيّرة\n\nحرب إيران.. المنطقة بانتظار “الحملة الأعنف”\n\nإسرائيل تعلن اغتيال 3 من قادة حماس بغارات على غزة\n\nوكالة بريطانية: مقذوف مجهول يصيب ناقلة نفط قبالة سواحل عُمان\n\nتحطم طائرة أف 35 أميركية في كاليفورنيا\n\nإيران: عبور هرمز أصبح غير ممكن"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://rojnews.news/ar/?p=205515",
+  "incident_ids": [
+    "airwars-216141"
+  ],
+  "incident_sequences": [
+    163
+  ],
+  "normalized_url": "https://rojnews.news/ar/?p=205515",
+  "observed_original_urls": [
+    "https://rojnews.news/ar/?p=205515"
+  ],
+  "original_url": "https://rojnews.news/ar/?p=205515",
+  "page_title": "مسيّرات الاحتلال التركي تقصف ريف زركان وأنباء عن شهداء وجرحى - العربية - Rojnews.news",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts749-december-9-2024/",
+      "airwars_source_id": "297820",
+      "incident_id": "airwars-216141",
+      "incident_sequence": 163,
+      "observed_original_url": "https://rojnews.news/ar/?p=205515",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-09T09:45:52+00:00 2024-12-09T12:45:52+03:00 2026-07-31T16:25:58+03:00 2026-07-31T11:49:38+03:00 2026-07-30T13:35:06+03:00 2026-07-30T14:34:37+03:00 2026-07-31T10:08:33+03:00 2026-08-01T11:09:18+03:00 2026-08-01T10:05:47+03:00 2026-08-01T09:43:49+03:00 2026-08-01T09:18:23+03:00 2026-08-01T09:07:41+03:00",
+  "publisher": "Awaz Rojnews",
+  "publisher_ar": "Awaz Rojnews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:27+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-bf06e3a29091e23930b2bf5d",
+  "source_type": "news_article",
+  "stable_id_basis": "https://rojnews.news/ar/?p=205515",
+  "text_ar": "",
+  "text_original": "مسيّرات الاحتلال التركي تقصف ريف زركان وأنباء عن شهداء وجرحى\n\nمركز الأخبار\n\nاستهدفت مسيرة تابعة لجيش الاحتلال التركي قريتي حرمل ومحرملة بريف زركان ما تتسبب باستشهاد مواطن وإصابة آخر\n\nوأفادت وكالة أنباء هاوار بأن مسيّرات الاحتلال التركي استهدفت قريتي حرمل ومحرملة.\n\nوتسبب قصف الاحتلال لقرية حرمل باستشهاد مواطن وإصابة اثنين آخرين، عُرف منهما المواطن محمد حسن حسن (45) عاماً.\n\nهذا وارتكب الاحتلال التركي مساء أمس، مجزرة في قرية المستريحة غرب مدينة عين عيسى، راح ضحيتها 12 مواطناً، بينهم 6 أطفال.\n\nالجيش الكويتي: نتصدى لهجوم بطائرات مسيّرة\n\nحرب إيران.. المنطقة بانتظار “الحملة الأعنف”\n\nإسرائيل تعلن اغتيال 3 من قادة حماس بغارات على غزة\n\nوكالة بريطانية: مقذوف مجهول يصيب ناقلة نفط قبالة سواحل عُمان\n\nتحطم طائرة أف 35 أميركية في كاليفورنيا\n\nإيران: عبور هرمز أصبح غير ممكن",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00294
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

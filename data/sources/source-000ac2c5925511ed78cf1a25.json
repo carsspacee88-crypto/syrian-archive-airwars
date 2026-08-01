@@ -1,0 +1,117 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/ExMSv"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.708,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:06+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 85400,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "483e75ab8dc9626770462d5a3c4f61862b56e2f86fb313656fae6a7900abf66e",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.708,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/Almohrar1/status/1862841598775644229",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:06+00:00",
+      "status": 200,
+      "url": "https://x.com/Almohrar1/status/1862841598775644229",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "https://x.com/Almohrar1",
+  "captions": [],
+  "content_hash": "9143c008ce8039b43ebd587ae1adaffe533769be41d5bbfcd08aa0cc9fd2fe5e",
+  "content_variants": [
+    {
+      "bytes": 269,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:06+00:00",
+      "sha256": "9143c008ce8039b43ebd587ae1adaffe533769be41d5bbfcd08aa0cc9fd2fe5e",
+      "source_url": "https://x.com/Almohrar1/status/1862841598775644229",
+      "text": "Post\n\nPost\n\nسوريا لحظة بلحظة@Almohrar1#عاجــــــــــــــــل\n\nمجزرة مروعة وسط #حلب المدينة دوار الباسل بطيران الإحتلال #الروسي والنظام00:0012:50 PM · Nov 30, 20243.4KViews5492"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Almohrar1/status/1862841598775644229",
+  "incident_ids": [
+    "airwars-132565",
+    "airwars-228947"
+  ],
+  "incident_sequences": [
+    203,
+    205
+  ],
+  "normalized_url": "https://x.com/Almohrar1/status/1862841598775644229",
+  "observed_original_urls": [
+    "https://x.com/Almohrar1/status/1862841598775644229"
+  ],
+  "original_url": "https://x.com/Almohrar1/status/1862841598775644229",
+  "page_title": "سوريا لحظة بلحظة on X: \"#عاجــــــــــــــــل\n\nمجزرة مروعة وسط #حلب المدينة دوار الباسل بطيران الإحتلال #الروسي والنظام https://t.co/cpMGZGlqvq\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4933-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132565",
+      "incident_sequence": 203,
+      "observed_original_url": "https://x.com/Almohrar1/status/1862841598775644229",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/r4729-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-228947",
+      "incident_sequence": 205,
+      "observed_original_url": "https://x.com/Almohrar1/status/1862841598775644229",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-30T12:50:21.000Z",
+  "publisher": "'@Almohrar1",
+  "publisher_ar": "'@Almohrar1",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:06+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-000ac2c5925511ed78cf1a25",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Almohrar1/status/1862841598775644229",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nسوريا لحظة بلحظة@Almohrar1#عاجــــــــــــــــل\n\nمجزرة مروعة وسط #حلب المدينة دوار الباسل بطيران الإحتلال #الروسي والنظام00:0012:50 PM · Nov 30, 20243.4KViews5492",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001568
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

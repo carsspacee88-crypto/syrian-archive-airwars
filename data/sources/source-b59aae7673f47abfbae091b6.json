@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/It9e3"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 2.498,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:46:01+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 974593,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "88e730308bb1bc9f8e361e5eb8d468208daeba69300d77d3c78f46f3c8116b02",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 2.498,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/AlHadathSyria/videos/878034591089007/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:46:01+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=878034591089007",
+      "waiting_seconds": 0.74
+    }
+  ],
+  "author": "Al hadath",
+  "captions": [],
+  "content_hash": "d398e55b17f26f7abb64c9f243248b04a7346d669a80dfcd496ebdd8de048904",
+  "content_variants": [
+    {
+      "bytes": 271,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:46:01+00:00",
+      "sha256": "d398e55b17f26f7abb64c9f243248b04a7346d669a80dfcd496ebdd8de048904",
+      "source_url": "https://www.facebook.com/AlHadathSyria/videos/878034591089007/",
+      "text": "بعد استهداف سيارة في حي المزة بدمشق.. الجيش الإسرائيلي يعلن مقتل مسؤول التحويلات المالية لحزب الله\n#المزة\n#دمشق\n#إسرائيل\n#الحدث | Al Hadath Syria الحدث السوري"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/AlHadathSyria/videos/878034591089007/",
+  "incident_ids": [
+    "airwars-125418"
+  ],
+  "incident_sequences": [
+    249
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=878034591089007",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=878034591089007"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=878034591089007",
+  "page_title": "بعد استهداف سيارة في حي المزة بدمشق.. الجيش الإسرائيلي يعلن مقتل مسؤول التحويلات المالية لحزب الله\n#المزة\n#دمشق\n#إسرائيل\n#الحدث | Al Hadath Syria الحدث السوري",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy057-october-21-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125418",
+      "incident_sequence": 249,
+      "observed_original_url": "https://www.facebook.com/watch/?v=878034591089007",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Al hadath",
+  "publisher_ar": "Al hadath",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:46:01+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-b59aae7673f47abfbae091b6",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=878034591089007",
+  "text_ar": "",
+  "text_original": "بعد استهداف سيارة في حي المزة بدمشق.. الجيش الإسرائيلي يعلن مقتل مسؤول التحويلات المالية لحزب الله\n#المزة\n#دمشق\n#إسرائيل\n#الحدث | Al Hadath Syria الحدث السوري",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.004275
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,117 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/Ws2N7"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.228,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:27+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 80507,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "e5fdbbf7eb8a60596b0b035844e4eaeadb7964a91bb2a683fd780d2cf574b79d",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.228,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/anwaralnahar/status/1862841582212260229",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:27+00:00",
+      "status": 200,
+      "url": "https://x.com/anwaralnahar/status/1862841582212260229",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/anwaralnahar",
+  "captions": [],
+  "content_hash": "75b9bd8a5b5c056dc2bd1c908bcf09a8b77c01849c23efa181ee50084b1f3972",
+  "content_variants": [
+    {
+      "bytes": 221,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:27+00:00",
+      "sha256": "75b9bd8a5b5c056dc2bd1c908bcf09a8b77c01849c23efa181ee50084b1f3972",
+      "source_url": "https://x.com/anwaralnahar/status/1862841582212260229",
+      "text": "Post\n\nPost\n\nأنور النهار@anwaralnaharطيران نظام الأسد ينفذ غارات جوية في مدينة #حلب\n#ردع_العدوان #فجر_الحرية #سوريا12:50 PM · Nov 30, 20241.3KViews110"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/anwaralnahar/status/1862841582212260229",
+  "incident_ids": [
+    "airwars-132565",
+    "airwars-228947"
+  ],
+  "incident_sequences": [
+    203,
+    205
+  ],
+  "normalized_url": "https://x.com/anwaralnahar/status/1862841582212260229",
+  "observed_original_urls": [
+    "https://x.com/anwaralnahar/status/1862841582212260229"
+  ],
+  "original_url": "https://x.com/anwaralnahar/status/1862841582212260229",
+  "page_title": "أنور النهار on X: \"طيران نظام الأسد ينفذ غارات جوية في مدينة #حلب\n#ردع_العدوان #فجر_الحرية #سوريا https://t.co/mLXk0NdNJT\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4933-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132565",
+      "incident_sequence": 203,
+      "observed_original_url": "https://x.com/anwaralnahar/status/1862841582212260229",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/r4729-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-228947",
+      "incident_sequence": 205,
+      "observed_original_url": "https://x.com/anwaralnahar/status/1862841582212260229",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-30T12:50:17.000Z",
+  "publisher": "'@anwaralnahar",
+  "publisher_ar": "'@anwaralnahar",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:27+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-0bae3bdfd2b6b6d7cd68c3e5",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/anwaralnahar/status/1862841582212260229",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nأنور النهار@anwaralnaharطيران نظام الأسد ينفذ غارات جوية في مدينة #حلب\n#ردع_العدوان #فجر_الحرية #سوريا12:50 PM · Nov 30, 20241.3KViews110",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001729
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

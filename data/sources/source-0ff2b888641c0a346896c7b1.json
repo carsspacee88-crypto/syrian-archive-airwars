@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "298073"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/arabic-anf-news-com-13/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.145,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:07+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 35334,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "b568f280f83d096f192090934037dad3417084625216fc448d42ee6cf576014e",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.145,
+      "error": null,
+      "etag": "",
+      "final_url": "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ysfr-n-asabt-mwatnyn-fy-altbqt-113559",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:07+00:00",
+      "status": 200,
+      "url": "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ysfr-n-asabt-mwatnyn-fy-altbqt-113559",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": "d419e1fcd4e1bff26737dbb81a13e1c44c994df9eb3f9da7f0a9e4b618550a2b",
+  "content_variants": [
+    {
+      "bytes": 1384,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:07+00:00",
+      "sha256": "d419e1fcd4e1bff26737dbb81a13e1c44c994df9eb3f9da7f0a9e4b618550a2b",
+      "source_url": "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ysfr-n-asabt-mwatnyn-fy-altbqt-113559",
+      "text": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالأحد, ٢٩ ديسمبر ٢٠٢٤, ١٤:١٥\n\nنقل مراسلو وكالة أنباء هاوار عن شهود عيان في ريف الطبقة تعرض سيارة على الطريق بين بلدة الطويحينة والمحمودلي للاستهداف، أدى لإصابة مواطنين إثنين.\n\nوعن الاستهداف، أكدت مصادر أمنية في المقاطعة عن تعرض السيارة لقصف من مسيّرة للاحتلال التركي.\n\nيقصف الاحتلال التركي من الجو منطقة جسر قرقوزاق في الريف الجنوبي لكوباني.\n\nكما يرافق القصف الجوي قصفاً مدفعياً من قبل الاحتلال التركي ومرتزقته لصوامع صرين ومحيطها.\n\nومنذ ساعات قصف الاحتلال التركي ومرتزقته عبر مدفعيتها وأسلحتها الثقيلة ريف مدينة تل تمر بمقاطعة الجزيرة، وبالتحديد قرى الدردارة العبوش، الشيخ علي، قبور الغراجنة، باب الخير قبر صغير وقبر كبير وتل اللورد في الجهة الشمالية، وقرى تل طويل الطويلة ام الكيف تل جمعة الكوزلية تل اللبن، في الجهة الغربية."
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ysfr-n-asabt-mwatnyn-fy-altbqt-113559",
+  "incident_ids": [
+    "airwars-233506"
+  ],
+  "incident_sequences": [
+    152
+  ],
+  "normalized_url": "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ysfr-n-asabt-mwatnyn-fy-altbqt-113559",
+  "observed_original_urls": [
+    "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ysfr-n-asabt-mwatnyn-fy-altbqt-113559"
+  ],
+  "original_url": "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ysfr-n-asabt-mwatnyn-fy-altbqt-113559",
+  "page_title": "ANF |\nقصف الاحتلال التركي يسفر عن إصابة مواطنين في الطبقة",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts760-december-29-2024/",
+      "airwars_source_id": "298073",
+      "incident_id": "airwars-233506",
+      "incident_sequence": 152,
+      "observed_original_url": "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ysfr-n-asabt-mwatnyn-fy-altbqt-113559",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "anf-news.com",
+  "publisher_ar": "anf-news.com",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:07+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-0ff2b888641c0a346896c7b1",
+  "source_type": "news_article",
+  "stable_id_basis": "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ysfr-n-asabt-mwatnyn-fy-altbqt-113559",
+  "text_ar": "",
+  "text_original": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالأحد, ٢٩ ديسمبر ٢٠٢٤, ١٤:١٥\n\nنقل مراسلو وكالة أنباء هاوار عن شهود عيان في ريف الطبقة تعرض سيارة على الطريق بين بلدة الطويحينة والمحمودلي للاستهداف، أدى لإصابة مواطنين إثنين.\n\nوعن الاستهداف، أكدت مصادر أمنية في المقاطعة عن تعرض السيارة لقصف من مسيّرة للاحتلال التركي.\n\nيقصف الاحتلال التركي من الجو منطقة جسر قرقوزاق في الريف الجنوبي لكوباني.\n\nكما يرافق القصف الجوي قصفاً مدفعياً من قبل الاحتلال التركي ومرتزقته لصوامع صرين ومحيطها.\n\nومنذ ساعات قصف الاحتلال التركي ومرتزقته عبر مدفعيتها وأسلحتها الثقيلة ريف مدينة تل تمر بمقاطعة الجزيرة، وبالتحديد قرى الدردارة العبوش، الشيخ علي، قبور الغراجنة، باب الخير قبر صغير وقبر كبير وتل اللورد في الجهة الشمالية، وقرى تل طويل الطويلة ام الكيف تل جمعة الكوزلية تل اللبن، في الجهة الغربية.",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001273
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

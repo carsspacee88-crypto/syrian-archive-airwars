@@ -1,0 +1,108 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/r9605"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.584,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:32:20+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 496488,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "5c22a17c1b52a120bb84e2bfeecf9d0ed188a7e6292a452f745622d02a1d1982",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.584,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/100004294427827/videos/2251445045226001/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:32:20+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/100004294427827/videos/2251445045226001/",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "Wessal",
+  "captions": [],
+  "content_hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6",
+  "content_variants": [
+    {
+      "bytes": 5,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:32:20+00:00",
+      "sha256": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6",
+      "source_url": "https://www.facebook.com/100004294427827/videos/2251445045226001/",
+      "text": "Video"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "exact_content_duplicate_group": "sha256-d534be829e32196b4d1e53b6",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/100004294427827/videos/2251445045226001/",
+  "incident_ids": [
+    "airwars-138419"
+  ],
+  "incident_sequences": [
+    197
+  ],
+  "normalized_url": "https://www.facebook.com/100004294427827/videos/2251445045226001/",
+  "observed_original_urls": [
+    "https://www.facebook.com/100004294427827/videos/2251445045226001/"
+  ],
+  "original_url": "https://www.facebook.com/100004294427827/videos/2251445045226001/",
+  "page_title": "Video",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4940-december-1-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138419",
+      "incident_sequence": 197,
+      "observed_original_url": "https://www.facebook.com/100004294427827/videos/2251445045226001/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Wessal",
+  "publisher_ar": "Wessal",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:32:20+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-108c81cb2d6731ae3c34e35d",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/100004294427827/videos/2251445045226001/",
+  "text_ar": "",
+  "text_original": "Video",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002048
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

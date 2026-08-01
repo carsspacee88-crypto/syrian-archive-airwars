@@ -1,0 +1,117 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/yxpoH"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.497,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:33:05+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 87133,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "41ce7dbeb613b64ce5bef2e8a4bfc182745f5d3b99c8aabef4667c6da614ca1e",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.497,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/moradabd/status/1857072235162308628",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:33:05+00:00",
+      "status": 200,
+      "url": "https://x.com/moradabd/status/1857072235162308628",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/moradabd",
+  "captions": [],
+  "content_hash": "29e56eba2c9519438d50831f66a12c770b658c20fe45d975dc8193b41620ef06",
+  "content_variants": [
+    {
+      "bytes": 390,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:33:05+00:00",
+      "sha256": "29e56eba2c9519438d50831f66a12c770b658c20fe45d975dc8193b41620ef06",
+      "source_url": "https://x.com/moradabd/status/1857072235162308628",
+      "text": "Post\n\nPost\n\nMurad Abdul Jalil@moradabdالجيش الإسرائيلي يعلن مهاجمة مبانٍ عسكرية ومقرا لحركة الجهاد الإسلامي في #سوريا\n\nالقصف استهدف حي المزة في #دمشق ومنطقة #قدسيا بريف دمشق ما أدى إلى مقتل 15 شخصاً وإصابة 16 آخرين00:002:44 PM · Nov 14, 2024354Views13"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/moradabd/status/1857072235162308628",
+  "incident_ids": [
+    "airwars-125499",
+    "airwars-125581"
+  ],
+  "incident_sequences": [
+    231,
+    232
+  ],
+  "normalized_url": "https://x.com/moradabd/status/1857072235162308628",
+  "observed_original_urls": [
+    "https://x.com/moradabd/status/1857072235162308628"
+  ],
+  "original_url": "https://x.com/moradabd/status/1857072235162308628",
+  "page_title": "Murad Abdul Jalil on X: \"الجيش الإسرائيلي يعلن مهاجمة مبانٍ عسكرية ومقرا لحركة الجهاد الإسلامي في #سوريا\n\nالقصف استهدف حي المزة في #دمشق ومنطقة #قدسيا بريف دمشق ما أدى إلى مقتل 15 شخصاً وإصابة 16 آخرين https://t.co/4ftVonvUbN\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy061-november-14-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125499",
+      "incident_sequence": 231,
+      "observed_original_url": "https://x.com/moradabd/status/1857072235162308628",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy060-november-14-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125581",
+      "incident_sequence": 232,
+      "observed_original_url": "https://x.com/moradabd/status/1857072235162308628",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-14T14:44:58.000Z",
+  "publisher": "'@moradabd",
+  "publisher_ar": "'@moradabd",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:33:05+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-57ab1a84d3f553ae40e1cb96",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/moradabd/status/1857072235162308628",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nMurad Abdul Jalil@moradabdالجيش الإسرائيلي يعلن مهاجمة مبانٍ عسكرية ومقرا لحركة الجهاد الإسلامي في #سوريا\n\nالقصف استهدف حي المزة في #دمشق ومنطقة #قدسيا بريف دمشق ما أدى إلى مقتل 15 شخصاً وإصابة 16 آخرين00:002:44 PM · Nov 14, 2024354Views13",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001885
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

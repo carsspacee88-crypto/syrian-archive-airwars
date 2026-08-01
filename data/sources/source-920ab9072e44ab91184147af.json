@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/PAoWu"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.255,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:34:14+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 80506,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "5d4289789e5b9302b3b842d45a098904b420c3eca46fe86077184c78d173677b",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.255,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/snhr/status/1865395844800979101",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:34:14+00:00",
+      "status": 200,
+      "url": "https://x.com/snhr/status/1865395844800979101",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/snhr",
+  "captions": [],
+  "content_hash": "d69d2b7381bec735397feb27f6a61d18b5df77a7320fbc89e1aa64cb96e350de",
+  "content_variants": [
+    {
+      "bytes": 286,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:34:14+00:00",
+      "sha256": "d69d2b7381bec735397feb27f6a61d18b5df77a7320fbc89e1aa64cb96e350de",
+      "source_url": "https://x.com/snhr/status/1865395844800979101",
+      "text": "Post\n\nPost\n\nSyrian Network@snhrOn Dec 6, Syrian-Russian alliance warplanes bombed Shezar town, W. #Hama, killing one woman named Hajar al-Alloush.\n#SNHR notes that Syrian-Russian forces violated UNSC resolutions prohibiting indiscriminate attacks.\n#Syria2:00 PM · Dec 7, 2024911Views15"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/snhr/status/1865395844800979101",
+  "incident_ids": [
+    "airwars-190663"
+  ],
+  "incident_sequences": [
+    169
+  ],
+  "normalized_url": "https://x.com/snhr/status/1865395844800979101",
+  "observed_original_urls": [
+    "https://x.com/snhr/status/1865395844800979101"
+  ],
+  "original_url": "https://x.com/snhr/status/1865395844800979101",
+  "page_title": "Syrian Network on X: \"On Dec 6, Syrian-Russian alliance warplanes bombed Shezar town, W. #Hama, killing one woman named Hajar al-Alloush.\n#SNHR notes that Syrian-Russian forces violated UNSC resolutions prohibiting indiscriminate attacks.\n#Syria https://t.co/aWGKXKPSlC\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4962-december-6-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-190663",
+      "incident_sequence": 169,
+      "observed_original_url": "https://x.com/snhr/status/1865395844800979101",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-07T14:00:01.000Z",
+  "publisher": "'@snhr",
+  "publisher_ar": "'@snhr",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:34:14+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-920ab9072e44ab91184147af",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/snhr/status/1865395844800979101",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nSyrian Network@snhrOn Dec 6, Syrian-Russian alliance warplanes bombed Shezar town, W. #Hama, killing one woman named Hajar al-Alloush.\n#SNHR notes that Syrian-Russian forces violated UNSC resolutions prohibiting indiscriminate attacks.\n#Syria2:00 PM · Dec 7, 2024911Views15",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00172
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

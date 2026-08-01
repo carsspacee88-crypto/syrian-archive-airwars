@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/EuJto"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.247,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:34:34+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 85997,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "33b1ba0fe827aa65fca3f29ef6cabc45289584d977a5a675d7c6e1169249fad5",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.247,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/HalabTodayTV/status/1862871314433704330",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:34:34+00:00",
+      "status": 200,
+      "url": "https://x.com/HalabTodayTV/status/1862871314433704330",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/HalabTodayTV",
+  "captions": [],
+  "content_hash": "c1946b60106320931aa1655eea6321be878eb41e06c3680c0942bfbbbb10fba0",
+  "content_variants": [
+    {
+      "bytes": 372,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:34:34+00:00",
+      "sha256": "c1946b60106320931aa1655eea6321be878eb41e06c3680c0942bfbbbb10fba0",
+      "source_url": "https://x.com/HalabTodayTV/status/1862871314433704330",
+      "text": "Post\n\nPost\n\nHalab Today TV قناة حلب اليوم@HalabTodayTVعاجل | الطائرات الحربية التابعة لسلطة الأسد تشن غارات جوية على حي الفرقان في مدينة حلب\n\n#عاجل #حلب_اليوم #أخبار_سوريا #حلب_الآن #ردع_العدوان #فجر_الحرية2:48 PM · Nov 30, 20243.1KViews2124"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/HalabTodayTV/status/1862871314433704330",
+  "incident_ids": [
+    "airwars-132642"
+  ],
+  "incident_sequences": [
+    204
+  ],
+  "normalized_url": "https://x.com/HalabTodayTV/status/1862871314433704330",
+  "observed_original_urls": [
+    "https://x.com/HalabTodayTV/status/1862871314433704330"
+  ],
+  "original_url": "https://x.com/HalabTodayTV/status/1862871314433704330",
+  "page_title": "Halab Today TV قناة حلب اليوم on X: \"عاجل | الطائرات الحربية التابعة لسلطة الأسد تشن غارات جوية على حي الفرقان في مدينة حلب\n\n#عاجل #حلب_اليوم #أخبار_سوريا #حلب_الآن #ردع_العدوان #فجر_الحرية https://t.co/aHQbGdq6QG\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4937-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132642",
+      "incident_sequence": 204,
+      "observed_original_url": "https://x.com/HalabTodayTV/status/1862871314433704330",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-30T14:48:26.000Z",
+  "publisher": "'@HalabTodayTV",
+  "publisher_ar": "'@HalabTodayTV",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:34:34+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-abb7618a6721e7f8568d1ec2",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/HalabTodayTV/status/1862871314433704330",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nHalab Today TV قناة حلب اليوم@HalabTodayTVعاجل | الطائرات الحربية التابعة لسلطة الأسد تشن غارات جوية على حي الفرقان في مدينة حلب\n\n#عاجل #حلب_اليوم #أخبار_سوريا #حلب_الآن #ردع_العدوان #فجر_الحرية2:48 PM · Nov 30, 20243.1KViews2124",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001825
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

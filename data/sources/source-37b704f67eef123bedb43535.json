@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297864"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/jinhaagency-com/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.75,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:06+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 22213,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "a333564c1e04a8b2d619c3015123934e1e121cc8a4710724eacf63abdad9a8ed",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.75,
+      "error": null,
+      "etag": "",
+      "final_url": "https://jinhaagency.com/ar/alywm/mqtl-tflyn-fy-qsf-llahtlal-altrky-ly-ryf-kwbany-45937",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:06+00:00",
+      "status": 200,
+      "url": "https://jinhaagency.com/ar/alywm/mqtl-tflyn-fy-qsf-llahtlal-altrky-ly-ryf-kwbany-45937",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": "f015e806ab767b17b0476ced83f4da140b8abf5dd6e7f0083c5dc954a23d3c94",
+  "content_variants": [
+    {
+      "bytes": 1688,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:06+00:00",
+      "sha256": "f015e806ab767b17b0476ced83f4da140b8abf5dd6e7f0083c5dc954a23d3c94",
+      "source_url": "https://jinhaagency.com/ar/alywm/mqtl-tflyn-fy-qsf-llahtlal-altrky-ly-ryf-kwbany-45937",
+      "text": "مقتل طفلين في قصف للاحتلال التركي على ريف كوباني\n\nيواصل الاحتلال التركي شن الهجمات على إقليم شمال وشرق سوريا، حيث ارتكبت مجزرة جديدة راح ضحيتها طفلان في مقاطعة كوباني.\n\nاليوم\n\nالإثنين, 9 ديسمبر 2024, 17:53\n\nمركز الأخبار ـ لا تزال الهجمات التي تتعرض لها مناطق مختلفة من إقليم شمال وشرق سوريا مستمرة، حيث تعرضت قرية كون عفتار جنوب غرب مقاطعة كوباني لقصف من قبل الاحتلال التركي اليوم الاثنين التاسع من كانون الأول/ديسمبر أسفرت عن مقتل طفلين.\n\nاستهدف الاحتلال التركي جسر قرقوزاق ومحيطه عبر الطائرات المسيرة، كما قصفت قرية الحنو الواقعة شمال مدينة تل تمر بقذائف الهاون، واستهدف أيضاً عدة قرى في ريف مدينة زركان في مقاطعة الجزيرة، ما أدى لمقتل وإصابة 6 أشخاص.\n\nوفي سلسلة الانتهاكات التي يرتكبها الاحتلال التركي، ارتكبت أمس مجزرة في قرية المستريحة غرب مدينة عين عيسى راح ضحيتها 12 شخصاً، معظمهم أطفال ونساء، كما شهدت قرية المستريحة غرب مدينة عين عيسى في مقاطعة الفرات أمس مجزرة مروعة، تسببت بمقتل 12شخص من عائلة واحدة لحياتهم معظمهم أطفال ونساء."
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://jinhaagency.com/ar/alywm/mqtl-tflyn-fy-qsf-llahtlal-altrky-ly-ryf-kwbany-45937",
+  "incident_ids": [
+    "airwars-226259"
+  ],
+  "incident_sequences": [
+    164
+  ],
+  "normalized_url": "https://jinhaagency.com/ar/alywm/mqtl-tflyn-fy-qsf-llahtlal-altrky-ly-ryf-kwbany-45937",
+  "observed_original_urls": [
+    "https://jinhaagency.com/ar/alywm/mqtl-tflyn-fy-qsf-llahtlal-altrky-ly-ryf-kwbany-45937"
+  ],
+  "original_url": "https://jinhaagency.com/ar/alywm/mqtl-tflyn-fy-qsf-llahtlal-altrky-ly-ryf-kwbany-45937",
+  "page_title": "JINHAGENCY | مقتل طفلين في قصف للاحتلال التركي على ريف كوباني",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts751-december-9-2024/",
+      "airwars_source_id": "297864",
+      "incident_id": "airwars-226259",
+      "incident_sequence": 164,
+      "observed_original_url": "https://jinhaagency.com/ar/alywm/mqtl-tflyn-fy-qsf-llahtlal-altrky-ly-ryf-kwbany-45937",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "jinhaagency.com",
+  "publisher_ar": "jinhaagency.com",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:06+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-37b704f67eef123bedb43535",
+  "source_type": "news_article",
+  "stable_id_basis": "https://jinhaagency.com/ar/alywm/mqtl-tflyn-fy-qsf-llahtlal-altrky-ly-ryf-kwbany-45937",
+  "text_ar": "",
+  "text_original": "مقتل طفلين في قصف للاحتلال التركي على ريف كوباني\n\nيواصل الاحتلال التركي شن الهجمات على إقليم شمال وشرق سوريا، حيث ارتكبت مجزرة جديدة راح ضحيتها طفلان في مقاطعة كوباني.\n\nاليوم\n\nالإثنين, 9 ديسمبر 2024, 17:53\n\nمركز الأخبار ـ لا تزال الهجمات التي تتعرض لها مناطق مختلفة من إقليم شمال وشرق سوريا مستمرة، حيث تعرضت قرية كون عفتار جنوب غرب مقاطعة كوباني لقصف من قبل الاحتلال التركي اليوم الاثنين التاسع من كانون الأول/ديسمبر أسفرت عن مقتل طفلين.\n\nاستهدف الاحتلال التركي جسر قرقوزاق ومحيطه عبر الطائرات المسيرة، كما قصفت قرية الحنو الواقعة شمال مدينة تل تمر بقذائف الهاون، واستهدف أيضاً عدة قرى في ريف مدينة زركان في مقاطعة الجزيرة، ما أدى لمقتل وإصابة 6 أشخاص.\n\nوفي سلسلة الانتهاكات التي يرتكبها الاحتلال التركي، ارتكبت أمس مجزرة في قرية المستريحة غرب مدينة عين عيسى راح ضحيتها 12 شخصاً، معظمهم أطفال ونساء، كما شهدت قرية المستريحة غرب مدينة عين عيسى في مقاطعة الفرات أمس مجزرة مروعة، تسببت بمقتل 12شخص من عائلة واحدة لحياتهم معظمهم أطفال ونساء.",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.0012
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

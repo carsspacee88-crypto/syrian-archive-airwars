@@ -1,0 +1,100 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/T4TJc"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.144,
+          "error": "http_404",
+          "result": "http_error",
+          "retrieved_at": "2026-08-01T08:46:21+00:00",
+          "status": 404
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 9,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.144,
+      "error": "http_404",
+      "etag": "",
+      "final_url": "https://www.facebook.com/search/posts/?q=%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AD%D8%A9%20%D8%B0%D8%A7%D9%83%D8%B1&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC0xMVxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjQtMTFcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDI0LTExLTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtMTEtMjBcXFwifVwifSJ9&epa=FILTERS",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:46:21+00:00",
+      "status": 404,
+      "url": "https://www.facebook.com/search/posts/?q= استراحة ذاكر&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC0xMVxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjQtMTFcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDI0LTExLTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtMTEtMjBcXFwifVwifSJ9&epa=FILTERS",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "Halab Today",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_404",
+  "final_redirected_url": "https://www.facebook.com/search/posts/?q=%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AD%D8%A9%20%D8%B0%D8%A7%D9%83%D8%B1&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC0xMVxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjQtMTFcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDI0LTExLTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtMTEtMjBcXFwifVwifSJ9&epa=FILTERS",
+  "incident_ids": [
+    "airwars-125524"
+  ],
+  "incident_sequences": [
+    227
+  ],
+  "normalized_url": "https://www.facebook.com/search/posts/?q= استراحة ذاكر&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC0xMVxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjQtMTFcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDI0LTExLTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtMTEtMjBcXFwifVwifSJ9&epa=FILTERS",
+  "observed_original_urls": [
+    "https://www.facebook.com/search/posts/?q= استراحة ذاكر&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC0xMVxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjQtMTFcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDI0LTExLTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtMTEtMjBcXFwifVwifSJ9&epa=FILTERS"
+  ],
+  "original_url": "https://www.facebook.com/search/posts/?q= استراحة ذاكر&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC0xMVxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjQtMTFcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDI0LTExLTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtMTEtMjBcXFwifVwifSJ9&epa=FILTERS",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy062-november-20-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125524",
+      "incident_sequence": 227,
+      "observed_original_url": "https://www.facebook.com/search/posts/?q= استراحة ذاكر&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC0xMVxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjQtMTFcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDI0LTExLTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtMTEtMjBcXFwifVwifSJ9&epa=FILTERS",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Halab Today",
+  "publisher_ar": "Halab Today",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:46:21+00:00",
+    "reason": "http_404",
+    "status": "deferred"
+  },
+  "retrieval_status": "not_found",
+  "retrieved_at": "2026-08-01T08:46:21+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-b7fe73abbddcac3833cc5a6f",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/search/posts/?q= استراحة ذاكر&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC0xMVxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjQtMTFcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDI0LTExLTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtMTEtMjBcXFwifVwifSJ9&epa=FILTERS",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

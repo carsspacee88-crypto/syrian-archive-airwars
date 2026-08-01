@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/Prknk"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.34,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:43:13+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 829341,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "b480f44ed75e48681d4fddcda2313c7770029e78b4105f0c3fd9cb3b05b9d6ca",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.34,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/RASTANSSONSOUTSIDE/videos/1768123640686369/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:43:13+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=1768123640686369",
+      "waiting_seconds": 0.74
+    }
+  ],
+  "author": "Abnaa madeena rastan",
+  "captions": [],
+  "content_hash": "f22fc3735318c48a27ebee16a78d32a023b666723b9ba1f1e27fa17a384e0ca4",
+  "content_variants": [
+    {
+      "bytes": 264,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:43:13+00:00",
+      "sha256": "f22fc3735318c48a27ebee16a78d32a023b666723b9ba1f1e27fa17a384e0ca4",
+      "source_url": "https://www.facebook.com/RASTANSSONSOUTSIDE/videos/1768123640686369/",
+      "text": "#عاجــــــــــل\n\nغارة جوية من قبل طيران الإحتلال #الروسي تستهدف بلدة #تيرمعلة المكتظة بالمدنيين في ريف #حمص الشمالي | أبناء مدينة الرستن في الغربة"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/RASTANSSONSOUTSIDE/videos/1768123640686369/",
+  "incident_ids": [
+    "airwars-190665"
+  ],
+  "incident_sequences": [
+    170
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=1768123640686369",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=1768123640686369"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=1768123640686369",
+  "page_title": "#عاجــــــــــل\n\nغارة جوية من قبل طيران الإحتلال #الروسي تستهدف بلدة #تيرمعلة المكتظة بالمدنيين في ريف #حمص الشمالي | أبناء مدينة الرستن في الغربة",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4959-december-6-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-190665",
+      "incident_sequence": 170,
+      "observed_original_url": "https://www.facebook.com/watch/?v=1768123640686369",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Abnaa madeena rastan",
+  "publisher_ar": "Abnaa madeena rastan",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:43:13+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-9249743d0deec6bfc381c17d",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=1768123640686369",
+  "text_ar": "",
+  "text_original": "#عاجــــــــــل\n\nغارة جوية من قبل طيران الإحتلال #الروسي تستهدف بلدة #تيرمعلة المكتظة بالمدنيين في ريف #حمص الشمالي | أبناء مدينة الرستن في الغربة",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003434
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

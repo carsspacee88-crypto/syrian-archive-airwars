@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/Cn1Yt"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.268,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:49:13+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 80588,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "6f2f1fb607a5e955c199a4b79c79547e7be56db6e082e8d4ba8f47bd77968432",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.268,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/HalabTodayTV/status/1851973770086412367",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:49:13+00:00",
+      "status": 200,
+      "url": "https://x.com/HalabTodayTV/status/1851973770086412367",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/HalabTodayTV",
+  "captions": [],
+  "content_hash": "358f3744c804fa0f181459760a991c27f311b4e7acda07f97ba36ee63e9ad30a",
+  "content_variants": [
+    {
+      "bytes": 310,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:49:13+00:00",
+      "sha256": "358f3744c804fa0f181459760a991c27f311b4e7acda07f97ba36ee63e9ad30a",
+      "source_url": "https://x.com/HalabTodayTV/status/1851973770086412367",
+      "text": "Post\n\nPost\n\nHalab Today TV قناة حلب اليوم@HalabTodayTVعاجل | وسائل إعلام النظام تعلن وصول 5 إصابات إلى \"مستشفى الوليد\" في حي الوعر بحمص نتيجة الغارات الإسرائيلية على القصير1:05 PM · Oct 31, 2024546Views8"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/HalabTodayTV/status/1851973770086412367",
+  "incident_ids": [
+    "airwars-125452"
+  ],
+  "incident_sequences": [
+    234
+  ],
+  "normalized_url": "https://x.com/HalabTodayTV/status/1851973770086412367",
+  "observed_original_urls": [
+    "https://x.com/HalabTodayTV/status/1851973770086412367"
+  ],
+  "original_url": "https://x.com/HalabTodayTV/status/1851973770086412367",
+  "page_title": "Halab Today TV قناة حلب اليوم on X: \"عاجل | وسائل إعلام النظام تعلن وصول 5 إصابات إلى \"مستشفى الوليد\" في حي الوعر بحمص نتيجة الغارات الإسرائيلية على القصير https://t.co/WwJMVw9ImA\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy058-october-31-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125452",
+      "incident_sequence": 234,
+      "observed_original_url": "https://x.com/HalabTodayTV/status/1851973770086412367",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-10-31T13:05:29.000Z",
+  "publisher": "'@HalabTodayTV",
+  "publisher_ar": "'@HalabTodayTV",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:49:13+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-fdce75a7342ee464872e90f3",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/HalabTodayTV/status/1851973770086412367",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nHalab Today TV قناة حلب اليوم@HalabTodayTVعاجل | وسائل إعلام النظام تعلن وصول 5 إصابات إلى \"مستشفى الوليد\" في حي الوعر بحمص نتيجة الغارات الإسرائيلية على القصير1:05 PM · Oct 31, 2024546Views8",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001797
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

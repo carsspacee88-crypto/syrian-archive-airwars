@@ -1,0 +1,108 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/YsJ5K"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.391,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:35:29+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 311339,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "fdc4a13adbb14d4f37f119162e9d62642355e9252df272ab4ba502de4e19a1e8",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.391,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/Aleppo.a1/posts/pfbid0bgc9bB8x5BFHA6E4tNwQDXkiuxgN3WDcPtHJeQF1HxV3HTUCYDt7bUJg2XgKWyYHl",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:35:29+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/Aleppo.a1/posts/pfbid0bgc9bB8x5BFHA6E4tNwQDXkiuxgN3WDcPtHJeQF1HxV3HTUCYDt7bUJg2XgKWyYHl",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "Hana halep",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:35:29+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/Aleppo.a1/posts/pfbid0bgc9bB8x5BFHA6E4tNwQDXkiuxgN3WDcPtHJeQF1HxV3HTUCYDt7bUJg2XgKWyYHl",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "exact_content_duplicate_group": "sha256-d41f5b4977ee05c6b61b3b5f",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Aleppo.a1/posts/pfbid0bgc9bB8x5BFHA6E4tNwQDXkiuxgN3WDcPtHJeQF1HxV3HTUCYDt7bUJg2XgKWyYHl",
+  "incident_ids": [
+    "airwars-138496"
+  ],
+  "incident_sequences": [
+    182
+  ],
+  "normalized_url": "https://www.facebook.com/Aleppo.a1/posts/pfbid0bgc9bB8x5BFHA6E4tNwQDXkiuxgN3WDcPtHJeQF1HxV3HTUCYDt7bUJg2XgKWyYHl",
+  "observed_original_urls": [
+    "https://www.facebook.com/Aleppo.a1/posts/pfbid0bgc9bB8x5BFHA6E4tNwQDXkiuxgN3WDcPtHJeQF1HxV3HTUCYDt7bUJg2XgKWyYHl"
+  ],
+  "original_url": "https://www.facebook.com/Aleppo.a1/posts/pfbid0bgc9bB8x5BFHA6E4tNwQDXkiuxgN3WDcPtHJeQF1HxV3HTUCYDt7bUJg2XgKWyYHl",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4948-december-2-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138496",
+      "incident_sequence": 182,
+      "observed_original_url": "https://www.facebook.com/Aleppo.a1/posts/pfbid0bgc9bB8x5BFHA6E4tNwQDXkiuxgN3WDcPtHJeQF1HxV3HTUCYDt7bUJg2XgKWyYHl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Hana halep",
+  "publisher_ar": "Hana halep",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:35:29+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-382f0cd049e02f4439d72795",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/Aleppo.a1/posts/pfbid0bgc9bB8x5BFHA6E4tNwQDXkiuxgN3WDcPtHJeQF1HxV3HTUCYDt7bUJg2XgKWyYHl",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001184
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

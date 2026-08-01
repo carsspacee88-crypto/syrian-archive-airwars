@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/8Gyj9"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.253,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:32:08+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 81689,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "ecd12efb756c7415d2c89d45c3061066affa99a57c04f244c3197e8a3ecce25c",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.253,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/snhr/status/1864580472921075774",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:32:08+00:00",
+      "status": 200,
+      "url": "https://x.com/snhr/status/1864580472921075774",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/snhr",
+  "captions": [],
+  "content_hash": "5b53449024e9254e0646d59696ad9084befb5cfa1fd57479522eb66700608d6b",
+  "content_variants": [
+    {
+      "bytes": 342,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:32:08+00:00",
+      "sha256": "5b53449024e9254e0646d59696ad9084befb5cfa1fd57479522eb66700608d6b",
+      "source_url": "https://x.com/snhr/status/1864580472921075774",
+      "text": "Post\n\nPost\n\nSyrian Network@snhrOn Dec 2, #SyrianRegime warplanes targeted a civilian car on the international highway in Khan Sheikoun city, S. #Idlib, killing a man named Abdul Latif Mahloul and a boy named Ali al-Wardi.\nRegime forces violated UNSC resolutions prohibiting indiscriminate attacks.\n#Syria #SNHR8:00 AM · Dec 5, 2024532Views22"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/snhr/status/1864580472921075774",
+  "incident_ids": [
+    "airwars-138650"
+  ],
+  "incident_sequences": [
+    187
+  ],
+  "normalized_url": "https://x.com/snhr/status/1864580472921075774",
+  "observed_original_urls": [
+    "https://x.com/snhr/status/1864580472921075774"
+  ],
+  "original_url": "https://x.com/snhr/status/1864580472921075774",
+  "page_title": "Syrian Network on X: \"On Dec 2, #SyrianRegime warplanes targeted a civilian car on the international highway in Khan Sheikoun city, S. #Idlib, killing a man named Abdul Latif Mahloul and a boy named Ali al-Wardi.\nRegime forces violated UNSC resolutions prohibiting indiscriminate attacks.\n#Syria #SNHR https://t.co/AjunwMXfkn\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4949-december-2-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138650",
+      "incident_sequence": 187,
+      "observed_original_url": "https://x.com/snhr/status/1864580472921075774",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-05T08:00:01.000Z",
+  "publisher": "'@snhr",
+  "publisher_ar": "'@snhr",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:32:08+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-23d7634029efd084424acc30",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/snhr/status/1864580472921075774",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nSyrian Network@snhrOn Dec 2, #SyrianRegime warplanes targeted a civilian car on the international highway in Khan Sheikoun city, S. #Idlib, killing a man named Abdul Latif Mahloul and a boy named Ali al-Wardi.\nRegime forces violated UNSC resolutions prohibiting indiscriminate attacks.\n#Syria #SNHR8:00 AM · Dec 5, 2024532Views22",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001761
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

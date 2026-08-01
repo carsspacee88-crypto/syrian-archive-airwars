@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/6caj9"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.236,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:53+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 76415,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "d271308dd23deb5efee25edb52fd8ec35936433155c28cf68569f554c0677b83",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.236,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/alaraby__Brk/status/1865058898496917522",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:53+00:00",
+      "status": 200,
+      "url": "https://x.com/alaraby__Brk/status/1865058898496917522",
+      "waiting_seconds": 0.745
+    }
+  ],
+  "author": "https://x.com/alaraby__Brk",
+  "captions": [],
+  "content_hash": "e51d1a73f07b7c13e9317ad70940e69dda6b018e775266fbc4b6b37f8c263dab",
+  "content_variants": [
+    {
+      "bytes": 307,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:53+00:00",
+      "sha256": "e51d1a73f07b7c13e9317ad70940e69dda6b018e775266fbc4b6b37f8c263dab",
+      "source_url": "https://x.com/alaraby__Brk/status/1865058898496917522",
+      "text": "Post\n\nPost\n\nالعربي الجديد - عاجل@alaraby__Brk#عاجل | مراسل العربي الجديد: مقتل 7 مدنيين جراء قصف صاروخي نفذته قوات النظام طاول حي جنوب الملعب في مدينة #حماة وسط #سورية3:41 PM · Dec 6, 2024256Views"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/alaraby__Brk/status/1865058898496917522",
+  "incident_ids": [
+    "airwars-190667"
+  ],
+  "incident_sequences": [
+    171
+  ],
+  "normalized_url": "https://x.com/alaraby__Brk/status/1865058898496917522",
+  "observed_original_urls": [
+    "https://x.com/alaraby__Brk/status/1865058898496917522"
+  ],
+  "original_url": "https://x.com/alaraby__Brk/status/1865058898496917522",
+  "page_title": "العربي الجديد - عاجل on X: \"#عاجل | مراسل العربي الجديد: مقتل 7 مدنيين جراء قصف صاروخي نفذته قوات النظام طاول حي جنوب الملعب في مدينة #حماة وسط #سورية\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4963-december-6-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-190667",
+      "incident_sequence": 171,
+      "observed_original_url": "https://x.com/alaraby__Brk/status/1865058898496917522",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-06T15:41:07.000Z",
+  "publisher": "'@alaraby__Brk",
+  "publisher_ar": "'@alaraby__Brk",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:53+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-1a17b13507fa824347c89204",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/alaraby__Brk/status/1865058898496917522",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالعربي الجديد - عاجل@alaraby__Brk#عاجل | مراسل العربي الجديد: مقتل 7 مدنيين جراء قصف صاروخي نفذته قوات النظام طاول حي جنوب الملعب في مدينة #حماة وسط #سورية3:41 PM · Dec 6, 2024256Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001707
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

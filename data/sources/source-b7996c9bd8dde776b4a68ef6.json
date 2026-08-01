@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/3hF2W"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.26,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:34:44+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 83700,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "dd9ba81c520e6ff3ced1062dcef300628298b9854d21e046fcf9f8ef90687108",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.26,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/creativenewssy/status/1860414345106030966",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:34:44+00:00",
+      "status": 200,
+      "url": "https://x.com/creativenewssy/status/1860414345106030966",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/creativenewssy",
+  "captions": [],
+  "content_hash": "b0f946332dd380b3bf2f8136c57b1bec5ef0cd4244a5587fc58d19c93efa1216",
+  "content_variants": [
+    {
+      "bytes": 227,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:34:44+00:00",
+      "sha256": "b0f946332dd380b3bf2f8136c57b1bec5ef0cd4244a5587fc58d19c93efa1216",
+      "source_url": "https://x.com/creativenewssy/status/1860414345106030966",
+      "text": "Post\n\nPost\n\nالمبدعون نيوز - Creative News@creativenewssyقصف مدفعي لعصابات الأسد على مدينة أريحا يسفر عن جرحى\n\n#المبدعون_نيوز00:008:05 PM · Nov 23, 202425Views1"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/creativenewssy/status/1860414345106030966",
+  "incident_ids": [
+    "airwars-131062"
+  ],
+  "incident_sequences": [
+    224
+  ],
+  "normalized_url": "https://x.com/creativenewssy/status/1860414345106030966",
+  "observed_original_urls": [
+    "https://x.com/creativenewssy/status/1860414345106030966"
+  ],
+  "original_url": "https://x.com/creativenewssy/status/1860414345106030966",
+  "page_title": "المبدعون نيوز - Creative News on X: \"قصف مدفعي لعصابات الأسد على مدينة أريحا يسفر عن جرحى\n\n#المبدعون_نيوز https://t.co/YH3AaS8bd7\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4918-november-23-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-131062",
+      "incident_sequence": 224,
+      "observed_original_url": "https://x.com/creativenewssy/status/1860414345106030966",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-23T20:05:19.000Z",
+  "publisher": "'@creativenewssy",
+  "publisher_ar": "'@creativenewssy",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:34:44+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-b7996c9bd8dde776b4a68ef6",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/creativenewssy/status/1860414345106030966",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالمبدعون نيوز - Creative News@creativenewssyقصف مدفعي لعصابات الأسد على مدينة أريحا يسفر عن جرحى\n\n#المبدعون_نيوز00:008:05 PM · Nov 23, 202425Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001785
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

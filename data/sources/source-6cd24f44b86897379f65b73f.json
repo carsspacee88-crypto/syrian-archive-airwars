@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/Bh87J"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 2.646,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:40:00+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 936697,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "b27b09c692eb6bb9f9187b0009ccc7cf376e874fee4a3c46465ba26fdf9cd827",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 2.646,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/Aleppo.syria.news/videos/4106651996270973/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:40:00+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=4106651996270973",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "Akbar",
+  "captions": [],
+  "content_hash": "55603f5175594f063fa4606d1229314bdf29620c449a307664c1c76c1d948a8d",
+  "content_variants": [
+    {
+      "bytes": 197,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:40:00+00:00",
+      "sha256": "55603f5175594f063fa4606d1229314bdf29620c449a307664c1c76c1d948a8d",
+      "source_url": "https://www.facebook.com/Aleppo.syria.news/videos/4106651996270973/",
+      "text": "هاد يلي كنا خايفين منو\n\nالطيران يقصف حي الفرقان\n\nمو هيك يا الله مو هيك .. حلب ما بتستاهل هيك يصير فيا | اخبار حلب"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Aleppo.syria.news/videos/4106651996270973/",
+  "incident_ids": [
+    "airwars-132642"
+  ],
+  "incident_sequences": [
+    204
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=4106651996270973",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=4106651996270973"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=4106651996270973",
+  "page_title": "هاد يلي كنا خايفين منو\n\nالطيران يقصف حي الفرقان\n\nمو هيك يا الله مو هيك .. حلب ما بتستاهل هيك يصير فيا | اخبار حلب",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4937-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132642",
+      "incident_sequence": 204,
+      "observed_original_url": "https://www.facebook.com/watch/?v=4106651996270973",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Akbar",
+  "publisher_ar": "Akbar",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:40:00+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-6cd24f44b86897379f65b73f",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=4106651996270973",
+  "text_ar": "",
+  "text_original": "هاد يلي كنا خايفين منو\n\nالطيران يقصف حي الفرقان\n\nمو هيك يا الله مو هيك .. حلب ما بتستاهل هيك يصير فيا | اخبار حلب",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003779
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

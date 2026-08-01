@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297853"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/arabic-anf-news-com-5/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.444,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:48:32+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 34606,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "bef97b7bda6fa1cbd4e47139e516aec809601e5a4d6eca59d962b86ee843b4eb",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.444,
+      "error": null,
+      "etag": "",
+      "final_url": "https://arabic.anf-news.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-tflyn-jra-qsf-alahtlal-altrky-wmrtzqtha-ly-qryt-kwnftar-fy-kwbany-113058",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:48:32+00:00",
+      "status": 200,
+      "url": "https://arabic.anf-news.com/روج آفا - سوريا/astshhad-tflyn-jra-qsf-alahtlal-altrky-wmrtzqtha-ly-qryt-kwnftar-fy-kwbany-113058",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": "c9ca7717ebcaee4b3b8eb185ee2eadec765ca2a69ef1132ec40a724c6e1854da",
+  "content_variants": [
+    {
+      "bytes": 388,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:48:32+00:00",
+      "sha256": "c9ca7717ebcaee4b3b8eb185ee2eadec765ca2a69ef1132ec40a724c6e1854da",
+      "source_url": "https://arabic.anf-news.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-tflyn-jra-qsf-alahtlal-altrky-wmrtzqtha-ly-qryt-kwnftar-fy-kwbany-113058",
+      "text": "وكالة فرات للأنباء\n\nكوباني\n\nالاثنين, ٩ ديسمبر ٢٠٢٤, ٢١:٠٢\n\nهاجمت دولة الاحتلال التركي الفاشي ومرتزقتها قرية كونفتار في كوباني بطائرة مُسيرة.\n\nووفق المعلومات الواردة من مصادر المحلية فقد أسفر القصف عن استشهاد طفلين ."
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://arabic.anf-news.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-tflyn-jra-qsf-alahtlal-altrky-wmrtzqtha-ly-qryt-kwnftar-fy-kwbany-113058",
+  "incident_ids": [
+    "airwars-226259"
+  ],
+  "incident_sequences": [
+    164
+  ],
+  "normalized_url": "https://arabic.anf-news.com/روج آفا - سوريا/astshhad-tflyn-jra-qsf-alahtlal-altrky-wmrtzqtha-ly-qryt-kwnftar-fy-kwbany-113058",
+  "observed_original_urls": [
+    "https://arabic.anf-news.com/روج آفا - سوريا/astshhad-tflyn-jra-qsf-alahtlal-altrky-wmrtzqtha-ly-qryt-kwnftar-fy-kwbany-113058"
+  ],
+  "original_url": "https://arabic.anf-news.com/روج آفا - سوريا/astshhad-tflyn-jra-qsf-alahtlal-altrky-wmrtzqtha-ly-qryt-kwnftar-fy-kwbany-113058",
+  "page_title": "ANF |\nاستشهاد طفلين جراء قصف الاحتلال التركي ومرتزقتها على قرية كونفتار في كوباني",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts751-december-9-2024/",
+      "airwars_source_id": "297853",
+      "incident_id": "airwars-226259",
+      "incident_sequence": 164,
+      "observed_original_url": "https://arabic.anf-news.com/روج آفا - سوريا/astshhad-tflyn-jra-qsf-alahtlal-altrky-wmrtzqtha-ly-qryt-kwnftar-fy-kwbany-113058",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "anf-news.com",
+  "publisher_ar": "anf-news.com",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:48:32+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-e5dfa7ff89629486eac72c92",
+  "source_type": "news_article",
+  "stable_id_basis": "https://arabic.anf-news.com/روج آفا - سوريا/astshhad-tflyn-jra-qsf-alahtlal-altrky-wmrtzqtha-ly-qryt-kwnftar-fy-kwbany-113058",
+  "text_ar": "",
+  "text_original": "وكالة فرات للأنباء\n\nكوباني\n\nالاثنين, ٩ ديسمبر ٢٠٢٤, ٢١:٠٢\n\nهاجمت دولة الاحتلال التركي الفاشي ومرتزقتها قرية كونفتار في كوباني بطائرة مُسيرة.\n\nووفق المعلومات الواردة من مصادر المحلية فقد أسفر القصف عن استشهاد طفلين .",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001163
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

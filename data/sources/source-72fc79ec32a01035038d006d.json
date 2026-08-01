@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297945"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/arabic-anf-news-com-9/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.144,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:11+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 34861,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "18529dff982b2ca224ef699d3bbf418904948299c0d3a8cb75e82136ffc814b1",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.144,
+      "error": null,
+      "etag": "",
+      "final_url": "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ytsbb-basabt-mwatn-fy-qryt-tl-jmt-113101",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:11+00:00",
+      "status": 200,
+      "url": "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ytsbb-basabt-mwatn-fy-qryt-tl-jmt-113101",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": "0564c4e25c654756b0cc4c10e19be4e2ca5d05a2f433bbd1d11e4d758d3bc3b2",
+  "content_variants": [
+    {
+      "bytes": 1163,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:11+00:00",
+      "sha256": "0564c4e25c654756b0cc4c10e19be4e2ca5d05a2f433bbd1d11e4d758d3bc3b2",
+      "source_url": "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ytsbb-basabt-mwatn-fy-qryt-tl-jmt-113101",
+      "text": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالأربعاء, ١١ ديسمبر ٢٠٢٤, ١٠:٤٢\n\nيواصل الاحتلال التركي هجماته على إقليم شمال وشرق سوريا، وقصفه بالمدفعية الثقيلة منذ فجر اليوم قرى \"طويلة، تل جمعة وأم الكيف\" في الريف الغربي لمدينة تل تمر بمقاطعة الجزيرة.\n\nوفي السياق، أفادت وكالة أنباء هاوار بأن قصف جيش الاحتلال التركي لقرية تل جمعة، تسبب بإصابة مواطن بجروح، حيث تم نقله إلى مشافي مدينة الحسكة لتلقي العلاج.\n\nهذا وكان جيش الاحتلال قد استهدف مساء أمس، سيارة إسعاف تابعة لمشفى كوباني، أثناء نقلها جرحى على طريق صرين - سد تشرين. وأسفر هذا القصف عن استشهاد سائق سيارة الإسعاف وأحد الجرحى، كما تعرضت ممرضة وجريح آخر لإصابات خطيرة تم نقلهما إلى المشفى لتلقي العلاج."
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ytsbb-basabt-mwatn-fy-qryt-tl-jmt-113101",
+  "incident_ids": [
+    "airwars-226271"
+  ],
+  "incident_sequences": [
+    158
+  ],
+  "normalized_url": "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ytsbb-basabt-mwatn-fy-qryt-tl-jmt-113101",
+  "observed_original_urls": [
+    "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ytsbb-basabt-mwatn-fy-qryt-tl-jmt-113101"
+  ],
+  "original_url": "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ytsbb-basabt-mwatn-fy-qryt-tl-jmt-113101",
+  "page_title": "ANF |\nقصف الاحتلال التركي يتسبب بإصابة مواطن في قرية تل جمعة",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts755-december-11-2024/",
+      "airwars_source_id": "297945",
+      "incident_id": "airwars-226271",
+      "incident_sequence": 158,
+      "observed_original_url": "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ytsbb-basabt-mwatn-fy-qryt-tl-jmt-113101",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "anf-news.com",
+  "publisher_ar": "anf-news.com",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:11+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-72fc79ec32a01035038d006d",
+  "source_type": "news_article",
+  "stable_id_basis": "https://arabic.anf-news.com/akhr-l-khbr/qsf-alahtlal-altrky-ytsbb-basabt-mwatn-fy-qryt-tl-jmt-113101",
+  "text_ar": "",
+  "text_original": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالأربعاء, ١١ ديسمبر ٢٠٢٤, ١٠:٤٢\n\nيواصل الاحتلال التركي هجماته على إقليم شمال وشرق سوريا، وقصفه بالمدفعية الثقيلة منذ فجر اليوم قرى \"طويلة، تل جمعة وأم الكيف\" في الريف الغربي لمدينة تل تمر بمقاطعة الجزيرة.\n\nوفي السياق، أفادت وكالة أنباء هاوار بأن قصف جيش الاحتلال التركي لقرية تل جمعة، تسبب بإصابة مواطن بجروح، حيث تم نقله إلى مشافي مدينة الحسكة لتلقي العلاج.\n\nهذا وكان جيش الاحتلال قد استهدف مساء أمس، سيارة إسعاف تابعة لمشفى كوباني، أثناء نقلها جرحى على طريق صرين - سد تشرين. وأسفر هذا القصف عن استشهاد سائق سيارة الإسعاف وأحد الجرحى، كما تعرضت ممرضة وجريح آخر لإصابات خطيرة تم نقلهما إلى المشفى لتلقي العلاج.",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001397
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

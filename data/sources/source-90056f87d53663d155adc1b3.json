@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://airwars.org/civilian-casualties/rs4923-november-27-2024/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.483,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:34:11+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 86398,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "392d583de50f364b359c46f9d3250f4d423894a8732af2174a613468efc261cb",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.483,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/levantnewsAR/status/1861781715695357995",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:34:11+00:00",
+      "status": 200,
+      "url": "https://x.com/theLevantNewsar/status/1861781715695357995",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/levantnewsAR",
+  "captions": [],
+  "content_hash": "3a7abfb6d5eef2133be0143742ac4ab647064b698a1ec22113cad0e1d750d73e",
+  "content_variants": [
+    {
+      "bytes": 603,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:34:11+00:00",
+      "sha256": "3a7abfb6d5eef2133be0143742ac4ab647064b698a1ec22113cad0e1d750d73e",
+      "source_url": "https://x.com/levantnewsAR/status/1861781715695357995",
+      "text": "Post\n\nPost\n\nصحيفة ليفانت نيوز@levantnewsAR#سوريا: قُتل طفل وأصيب 5 مدنيين آخرين بجروح جراء استهدافهم بقصف عنقودي طال مخيما بريف إدلب، وقال الدفاع المدني، إن القوات الحكومية والروسية، استهدفت بصواريخ تحمل قنابل عنقودية مخيم \"وادي عباس\" بالقرب من بابسقا وباب الهوى بريف إدلب ما أسفر عن مقتل طفل وإصابة 5 آخرين هم 3 أطفال وامرأتان.2:38 PM · Nov 27, 2024120Views"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/levantnewsAR/status/1861781715695357995",
+  "incident_ids": [
+    "airwars-132364"
+  ],
+  "incident_sequences": [
+    218
+  ],
+  "normalized_url": "https://x.com/theLevantNewsar/status/1861781715695357995",
+  "observed_original_urls": [
+    "https://x.com/theLevantNewsar/status/1861781715695357995"
+  ],
+  "original_url": "https://x.com/theLevantNewsar/status/1861781715695357995",
+  "page_title": "صحيفة ليفانت نيوز on X: \"#سوريا: قُتل طفل وأصيب 5 مدنيين آخرين بجروح جراء استهدافهم بقصف عنقودي طال مخيما بريف إدلب، وقال الدفاع المدني، إن القوات الحكومية والروسية، استهدفت بصواريخ تحمل قنابل عنقودية مخيم \"وادي عباس\" بالقرب من بابسقا وباب الهوى بريف إدلب ما أسفر عن مقتل طفل وإصابة 5 آخرين هم 3 أطفال وامرأتان.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4923-november-27-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132364",
+      "incident_sequence": 218,
+      "observed_original_url": "https://x.com/theLevantNewsar/status/1861781715695357995",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-27T14:38:45.000Z",
+  "publisher": "'@theLevantNewsar",
+  "publisher_ar": "'@theLevantNewsar",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:34:11+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-90056f87d53663d155adc1b3",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/theLevantNewsar/status/1861781715695357995",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nصحيفة ليفانت نيوز@levantnewsAR#سوريا: قُتل طفل وأصيب 5 مدنيين آخرين بجروح جراء استهدافهم بقصف عنقودي طال مخيما بريف إدلب، وقال الدفاع المدني، إن القوات الحكومية والروسية، استهدفت بصواريخ تحمل قنابل عنقودية مخيم \"وادي عباس\" بالقرب من بابسقا وباب الهوى بريف إدلب ما أسفر عن مقتل طفل وإصابة 5 آخرين هم 3 أطفال وامرأتان.2:38 PM · Nov 27, 2024120Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001885
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

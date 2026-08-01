@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/7hKHS"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.242,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:49:07+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 78518,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "a0434e3ff4ec75276bba2ca615ad8ad0aef37ad3893eea9ac1dc358373a4d35c",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.242,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/AlArabiya_Brk/status/1863200062706171949",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:49:07+00:00",
+      "status": 200,
+      "url": "https://x.com/AlArabiya_Brk/status/1863200062706171949",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/AlArabiya_Brk",
+  "captions": [],
+  "content_hash": "5e965da8b5b53e8192547a1d82cc7a5942e3b7231a3aed3d20c253172945c088",
+  "content_variants": [
+    {
+      "bytes": 195,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:49:07+00:00",
+      "sha256": "5e965da8b5b53e8192547a1d82cc7a5942e3b7231a3aed3d20c253172945c088",
+      "source_url": "https://x.com/AlArabiya_Brk/status/1863200062706171949",
+      "text": "Post\n\nPost\n\nالعربية عاجل@AlArabiya_Brkالطيران الروسي يستهدف حي الإذاعة في مدينة حلب #العربية_عاجل12:34 PM · Dec 1, 202432.3KViews43511"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AlArabiya_Brk/status/1863200062706171949",
+  "incident_ids": [
+    "airwars-138415"
+  ],
+  "incident_sequences": [
+    195
+  ],
+  "normalized_url": "https://x.com/AlArabiya_Brk/status/1863200062706171949",
+  "observed_original_urls": [
+    "https://x.com/AlArabiya_Brk/status/1863200062706171949"
+  ],
+  "original_url": "https://x.com/AlArabiya_Brk/status/1863200062706171949",
+  "page_title": "العربية عاجل on X: \"الطيران الروسي يستهدف حي الإذاعة في مدينة حلب #العربية_عاجل\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4945-december-1-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138415",
+      "incident_sequence": 195,
+      "observed_original_url": "https://x.com/AlArabiya_Brk/status/1863200062706171949",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-01T12:34:46.000Z",
+  "publisher": "'@AlArabiya_Brk",
+  "publisher_ar": "'@AlArabiya_Brk",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:49:07+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-f752a07a6c7d0b7756185809",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AlArabiya_Brk/status/1863200062706171949",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالعربية عاجل@AlArabiya_Brkالطيران الروسي يستهدف حي الإذاعة في مدينة حلب #العربية_عاجل12:34 PM · Dec 1, 202432.3KViews43511",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001736
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

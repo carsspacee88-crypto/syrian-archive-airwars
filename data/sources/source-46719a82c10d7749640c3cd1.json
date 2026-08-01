@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/imH0t"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.271,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:36:39+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 848058,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "704f5f286021731d4c30c8362a9368d0641309aa52e12ca3d03f0737017b1419",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.271,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/100088810995041/videos/1565472914061604/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:36:39+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=1565472914061604",
+      "waiting_seconds": 0.745
+    }
+  ],
+  "author": "Afreen",
+  "captions": [],
+  "content_hash": "b847cfe7f096ed1009e9a091d312fdd62db9e0526d42e66294b192e430ab4a34",
+  "content_variants": [
+    {
+      "bytes": 339,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:36:39+00:00",
+      "sha256": "b847cfe7f096ed1009e9a091d312fdd62db9e0526d42e66294b192e430ab4a34",
+      "source_url": "https://www.facebook.com/100088810995041/videos/1565472914061604/",
+      "text": "#عاجـــل\nالطيـ.ـران الحـ.ـربي الروسي يعاود التحليق فوق سماء أرياف إدلب و حلب و يسـ.ـتهدف بغـ.ـارات جوية بلدة داديخ بريف إدلب الجنوبي و مدينة الأتارب بريف حلب الغربي. | Efrin News 24 عفرين نيوز ٢٤"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/100088810995041/videos/1565472914061604/",
+  "incident_ids": [
+    "airwars-132466"
+  ],
+  "incident_sequences": [
+    213
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=1565472914061604",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=1565472914061604"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=1565472914061604",
+  "page_title": "#عاجـــل\nالطيـ.ـران الحـ.ـربي الروسي يعاود التحليق فوق سماء أرياف إدلب و حلب و يسـ.ـتهدف بغـ.ـارات جوية بلدة داديخ بريف إدلب الجنوبي و مدينة الأتارب بريف حلب الغربي. | Efrin News 24 عفرين نيوز ٢٤",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4928-november-28-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132466",
+      "incident_sequence": 213,
+      "observed_original_url": "https://www.facebook.com/watch/?v=1565472914061604",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Afreen",
+  "publisher_ar": "Afreen",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:36:39+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-46719a82c10d7749640c3cd1",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=1565472914061604",
+  "text_ar": "",
+  "text_original": "#عاجـــل\nالطيـ.ـران الحـ.ـربي الروسي يعاود التحليق فوق سماء أرياف إدلب و حلب و يسـ.ـتهدف بغـ.ـارات جوية بلدة داديخ بريف إدلب الجنوبي و مدينة الأتارب بريف حلب الغربي. | Efrin News 24 عفرين نيوز ٢٤",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003416
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

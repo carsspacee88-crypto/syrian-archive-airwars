@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/2YJ24"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.34,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:32:53+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 86497,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "6b5ba70211e6742d0be23e135a8b523b001de2657655286366603a3331ba5f01",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.34,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/shamalmjd1/status/1863572455517790381?t=G5qRK4gzNmjL6eLTjTH4iQ&s=08",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:32:53+00:00",
+      "status": 200,
+      "url": "https://x.com/shamalmjd1/status/1863572455517790381?t=G5qRK4gzNmjL6eLTjTH4iQ&s=08",
+      "waiting_seconds": 0.746
+    }
+  ],
+  "author": "https://x.com/shamalmjd1",
+  "captions": [],
+  "content_hash": "e6bc344a8b87388838b7955d5888801e2365a567ab7fb8eaba7a2cf91d6bd00e",
+  "content_variants": [
+    {
+      "bytes": 262,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:32:53+00:00",
+      "sha256": "e6bc344a8b87388838b7955d5888801e2365a567ab7fb8eaba7a2cf91d6bd00e",
+      "source_url": "https://x.com/shamalmjd1/status/1863572455517790381?t=G5qRK4gzNmjL6eLTjTH4iQ&s=08",
+      "text": "Post\n\nPost\n\nمطيع جلال@shamalmjd1قصف مشفى الأمومة النسائي و مشفى ابن سينا للاطفال في ادلب من قبل روسيا و عصابات الاسد .\n\n#ردعَ_العدوان #Syria00:001:14 PM · Dec 2, 2024239Views"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/shamalmjd1/status/1863572455517790381?t=G5qRK4gzNmjL6eLTjTH4iQ&s=08",
+  "incident_ids": [
+    "airwars-138577"
+  ],
+  "incident_sequences": [
+    186
+  ],
+  "normalized_url": "https://x.com/shamalmjd1/status/1863572455517790381?t=G5qRK4gzNmjL6eLTjTH4iQ&s=08",
+  "observed_original_urls": [
+    "https://x.com/shamalmjd1/status/1863572455517790381?t=G5qRK4gzNmjL6eLTjTH4iQ&s=08"
+  ],
+  "original_url": "https://x.com/shamalmjd1/status/1863572455517790381?t=G5qRK4gzNmjL6eLTjTH4iQ&s=08",
+  "page_title": "مطيع جلال on X: \"قصف مشفى الأمومة النسائي و مشفى ابن سينا للاطفال في ادلب من قبل روسيا و عصابات الاسد .\n\n#ردعَ_العدوان #Syria https://t.co/EkwF4CXQGR\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4952-december-2-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138577",
+      "incident_sequence": 186,
+      "observed_original_url": "https://x.com/shamalmjd1/status/1863572455517790381?t=G5qRK4gzNmjL6eLTjTH4iQ&s=08",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-02T13:14:31.000Z",
+  "publisher": "'@shamalmjd1",
+  "publisher_ar": "'@shamalmjd1",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:32:53+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-4768d3257e9d766919efdd00",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/shamalmjd1/status/1863572455517790381?t=G5qRK4gzNmjL6eLTjTH4iQ&s=08",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nمطيع جلال@shamalmjd1قصف مشفى الأمومة النسائي و مشفى ابن سينا للاطفال في ادلب من قبل روسيا و عصابات الاسد .\n\n#ردعَ_العدوان #Syria00:001:14 PM · Dec 2, 2024239Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001849
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

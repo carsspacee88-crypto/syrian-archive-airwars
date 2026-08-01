@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/xnAD5"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.505,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:26+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 793606,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "2785331dfcd47ffd0864c2f882b4d3ede2085359baa943b728c569c6d8fb2582",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.505,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/100059708512948/videos/8717299611702537/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:26+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/100059708512948/videos/8717299611702537/",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "Abo nasser",
+  "captions": [],
+  "content_hash": "3928ba07c0326704bd296f578767655e7722e9d217f554d5de21bcaf2177fe9f",
+  "content_variants": [
+    {
+      "bytes": 99,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:26+00:00",
+      "sha256": "3928ba07c0326704bd296f578767655e7722e9d217f554d5de21bcaf2177fe9f",
+      "source_url": "https://www.facebook.com/100059708512948/videos/8717299611702537/",
+      "text": "#حمص\nغارات عنيفة للاحتلال الروسي على تيرمعلة | ابو ناصر"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/100059708512948/videos/8717299611702537/",
+  "incident_ids": [
+    "airwars-190665"
+  ],
+  "incident_sequences": [
+    170
+  ],
+  "normalized_url": "https://www.facebook.com/100059708512948/videos/8717299611702537/",
+  "observed_original_urls": [
+    "https://www.facebook.com/100059708512948/videos/8717299611702537/"
+  ],
+  "original_url": "https://www.facebook.com/100059708512948/videos/8717299611702537/",
+  "page_title": "#حمص\nغارات عنيفة للاحتلال الروسي على تيرمعلة | ابو ناصر",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4959-december-6-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-190665",
+      "incident_sequence": 170,
+      "observed_original_url": "https://www.facebook.com/100059708512948/videos/8717299611702537/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Abo nasser",
+  "publisher_ar": "Abo nasser",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:26+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-0468247a6be1e003f30ac601",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/100059708512948/videos/8717299611702537/",
+  "text_ar": "",
+  "text_original": "#حمص\nغارات عنيفة للاحتلال الروسي على تيرمعلة | ابو ناصر",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003643
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

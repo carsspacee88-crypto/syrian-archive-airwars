@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/KsXqI"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.341,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:19+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 75181,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "a85e9ae15411198ff17d3aa526b12406f8dde791dbc317c566de07f9130a443b",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.341,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/Levant24_ar/status/1863181551351042523",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:19+00:00",
+      "status": 200,
+      "url": "https://x.com/Levant24_ar/status/1863181551351042523",
+      "waiting_seconds": 0.746
+    }
+  ],
+  "author": "https://x.com/Levant24_ar",
+  "captions": [],
+  "content_hash": "601d5da5805041d768c86a241b77e0ff4c75109c6a84ff9afcd621f50380a57b",
+  "content_variants": [
+    {
+      "bytes": 303,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:19+00:00",
+      "sha256": "601d5da5805041d768c86a241b77e0ff4c75109c6a84ff9afcd621f50380a57b",
+      "source_url": "https://x.com/Levant24_ar/status/1863181551351042523",
+      "text": "Post\n\nPost\n\nLevant24 عربي@Levant24_arالدفاع المدني السوري: قُتل رجل وأصيبت زوجته وطفلاه في غارتين جويتين روسيتين استهدفتا منزلهم في قرية الكريدية شرق حلب ليلة أمس.11:21 AM · Dec 1, 2024233Views1"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Levant24_ar/status/1863181551351042523",
+  "incident_ids": [
+    "airwars-138392"
+  ],
+  "incident_sequences": [
+    193
+  ],
+  "normalized_url": "https://x.com/Levant24_ar/status/1863181551351042523",
+  "observed_original_urls": [
+    "https://x.com/Levant24_ar/status/1863181551351042523"
+  ],
+  "original_url": "https://x.com/Levant24_ar/status/1863181551351042523",
+  "page_title": "Levant24 عربي on X: \"الدفاع المدني السوري: قُتل رجل وأصيبت زوجته وطفلاه في غارتين جويتين روسيتين استهدفتا منزلهم في قرية الكريدية شرق حلب ليلة أمس.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4943-december-1-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138392",
+      "incident_sequence": 193,
+      "observed_original_url": "https://x.com/Levant24_ar/status/1863181551351042523",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-01T11:21:12.000Z",
+  "publisher": "'@Levant24_ar",
+  "publisher_ar": "'@Levant24_ar",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:19+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-06b6836294b0f708e5daaa65",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Levant24_ar/status/1863181551351042523",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nLevant24 عربي@Levant24_arالدفاع المدني السوري: قُتل رجل وأصيبت زوجته وطفلاه في غارتين جويتين روسيتين استهدفتا منزلهم في قرية الكريدية شرق حلب ليلة أمس.11:21 AM · Dec 1, 2024233Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001681
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

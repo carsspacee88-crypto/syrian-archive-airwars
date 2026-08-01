@@ -1,0 +1,97 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/qZMhF"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "syriahr.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_403",
+      "circuit_open_status": 403,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://www.syriahr.com/استشهاد-3-أطفال-بقصف-مدفعي-تركي-على-بلدة/733447/?fbclid=IwY2xjawGCJpZleHRuA2FlbQIxMQABHXovJVBXPL2vFOJQ2ZxVn-J8A3EKWco706Yzi3n795H-g",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:08+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/استشهاد-3-أطفال-بقصف-مدفعي-تركي-على-بلدة/733447/?fbclid=IwY2xjawGCJpZleHRuA2FlbQIxMQABHXovJVBXPL2vFOJQ2ZxVn-J8A3EKWco706Yzi3n795H-g",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "SOHRnews",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "host_circuit_open_after_repeated_block_or_timeout",
+  "final_redirected_url": "https://www.syriahr.com/استشهاد-3-أطفال-بقصف-مدفعي-تركي-على-بلدة/733447/?fbclid=IwY2xjawGCJpZleHRuA2FlbQIxMQABHXovJVBXPL2vFOJQ2ZxVn-J8A3EKWco706Yzi3n795H-g",
+  "incident_ids": [
+    "airwars-127072"
+  ],
+  "incident_sequences": [
+    250
+  ],
+  "normalized_url": "https://www.syriahr.com/استشهاد-3-أطفال-بقصف-مدفعي-تركي-على-بلدة/733447/?fbclid=IwY2xjawGCJpZleHRuA2FlbQIxMQABHXovJVBXPL2vFOJQ2ZxVn-J8A3EKWco706Yzi3n795H-g",
+  "observed_original_urls": [
+    "https://www.syriahr.com/استشهاد-3-أطفال-بقصف-مدفعي-تركي-على-بلدة/733447/?fbclid=IwY2xjawGCJpZleHRuA2FlbQIxMQABHXovJVBXPL2vFOJQ2ZxVn-J8A3EKWco706Yzi3n795H-g"
+  ],
+  "original_url": "https://www.syriahr.com/استشهاد-3-أطفال-بقصف-مدفعي-تركي-على-بلدة/733447/?fbclid=IwY2xjawGCJpZleHRuA2FlbQIxMQABHXovJVBXPL2vFOJQ2ZxVn-J8A3EKWco706Yzi3n795H-g",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts720-october-20-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-127072",
+      "incident_sequence": 250,
+      "observed_original_url": "https://www.syriahr.com/استشهاد-3-أطفال-بقصف-مدفعي-تركي-على-بلدة/733447/?fbclid=IwY2xjawGCJpZleHRuA2FlbQIxMQABHXovJVBXPL2vFOJQ2ZxVn-J8A3EKWco706Yzi3n795H-g",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "SOHRnews",
+  "publisher_ar": "SOHRnews",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:31:08+00:00",
+    "reason": "host_circuit_open_after_repeated_block_or_timeout",
+    "status": "deferred"
+  },
+  "retrieval_status": "timed_out",
+  "retrieved_at": "2026-08-01T08:31:08+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-bb5b2ffde90145f76e8df8dd",
+  "source_type": "news_article",
+  "stable_id_basis": "https://www.syriahr.com/استشهاد-3-أطفال-بقصف-مدفعي-تركي-على-بلدة/733447/?fbclid=IwY2xjawGCJpZleHRuA2FlbQIxMQABHXovJVBXPL2vFOJQ2ZxVn-J8A3EKWco706Yzi3n795H-g",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

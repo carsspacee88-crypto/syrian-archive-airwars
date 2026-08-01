@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/I5v0L"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 3.029,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:40:16+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 946620,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "19378a18954e36432447bfdfb620c4692b9de655e4012c4139f6777e34da4471",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 3.029,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/Halab.Alshhda/videos/1611524213111431/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:40:16+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=1611524213111431",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "Al shaddaa",
+  "captions": [],
+  "content_hash": "c6686da6652610a20e2bf3ab82cf56a8959365b830a8768749261684621419f1",
+  "content_variants": [
+    {
+      "bytes": 212,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:40:16+00:00",
+      "sha256": "c6686da6652610a20e2bf3ab82cf56a8959365b830a8768749261684621419f1",
+      "source_url": "https://www.facebook.com/Halab.Alshhda/videos/1611524213111431/",
+      "text": "اثار القص.ف على حي الفرقان في #حلب ليلة البارحة\n\nانشالله تكون اخر ضر.بة .. لانو مابدنا حلب تخرب اكتر من هيك | حلب الشهداء"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Halab.Alshhda/videos/1611524213111431/",
+  "incident_ids": [
+    "airwars-132642"
+  ],
+  "incident_sequences": [
+    204
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=1611524213111431",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=1611524213111431"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=1611524213111431",
+  "page_title": "اثار القص.ف على حي الفرقان في #حلب ليلة البارحة\n\nانشالله تكون اخر ضر.بة .. لانو مابدنا حلب تخرب اكتر من هيك | حلب الشهداء",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4937-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132642",
+      "incident_sequence": 204,
+      "observed_original_url": "https://www.facebook.com/watch/?v=1611524213111431",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Al shaddaa",
+  "publisher_ar": "Al shaddaa",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:40:16+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-708c45c8ed15f4f16bfe1647",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=1611524213111431",
+  "text_ar": "",
+  "text_original": "اثار القص.ف على حي الفرقان في #حلب ليلة البارحة\n\nانشالله تكون اخر ضر.بة .. لانو مابدنا حلب تخرب اكتر من هيك | حلب الشهداء",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003818
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

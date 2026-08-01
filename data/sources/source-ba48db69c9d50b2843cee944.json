@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/32V4T"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.261,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:34:48+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 84983,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "18cdd1eeceb81f7c515eaeb4dde86421ebf9a31348db264a1e1c24084a197eda",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.261,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/F3502588020274/status/1864960910089175093",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:34:48+00:00",
+      "status": 200,
+      "url": "https://x.com/F3502588020274/status/1864960910089175093",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/F3502588020274",
+  "captions": [],
+  "content_hash": "9f594070d45dd66bfe940be1da02db9a72580c274b2ad54e3575bcfc83691fc2",
+  "content_variants": [
+    {
+      "bytes": 306,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:34:48+00:00",
+      "sha256": "9f594070d45dd66bfe940be1da02db9a72580c274b2ad54e3575bcfc83691fc2",
+      "source_url": "https://x.com/F3502588020274/status/1864960910089175093",
+      "text": "Post\n\nPost\n\nالجمهورية العربية السورية 🇸🇾@F3502588020274#ريف_حمص_الشمالي\nطيران الحربي روسي يستهدف قرية #تير_معلة بريف حمص الشمالي لمنع تقدم الثوار\n#ردع_العدوان00:009:11 AM · Dec 6, 2024249Views2"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/F3502588020274/status/1864960910089175093",
+  "incident_ids": [
+    "airwars-190665"
+  ],
+  "incident_sequences": [
+    170
+  ],
+  "normalized_url": "https://x.com/F3502588020274/status/1864960910089175093",
+  "observed_original_urls": [
+    "https://x.com/F3502588020274/status/1864960910089175093"
+  ],
+  "original_url": "https://x.com/F3502588020274/status/1864960910089175093",
+  "page_title": "الجمهورية العربية السورية 🇸🇾 on X: \"#ريف_حمص_الشمالي\nطيران الحربي روسي يستهدف قرية #تير_معلة بريف حمص الشمالي لمنع تقدم الثوار\n#ردع_العدوان https://t.co/9qKf3aanHl\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4959-december-6-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-190665",
+      "incident_sequence": 170,
+      "observed_original_url": "https://x.com/F3502588020274/status/1864960910089175093",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-06T09:11:44.000Z",
+  "publisher": "'@F3502588020274",
+  "publisher_ar": "'@F3502588020274",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:34:48+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-ba48db69c9d50b2843cee944",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/F3502588020274/status/1864960910089175093",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالجمهورية العربية السورية 🇸🇾@F3502588020274#ريف_حمص_الشمالي\nطيران الحربي روسي يستهدف قرية #تير_معلة بريف حمص الشمالي لمنع تقدم الثوار\n#ردع_العدوان00:009:11 AM · Dec 6, 2024249Views2",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00208
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "286939"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/x-com-derynews-1875155476624924854-2025-01-03-122118/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.199,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:34:25+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 77935,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "b6b1c16e1552cbc77d72c4b0b6bb3ce636144ebd9b4912c1137f1c396a75ccda",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.199,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/DeryNews/status/1875155476624924854",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:34:25+00:00",
+      "status": 200,
+      "url": "https://x.com/DeryNews/status/1875155476624924854",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/DeryNews",
+  "captions": [],
+  "content_hash": "bdf8e2d661fa5b96e43c200abb47beefdf09fe0470e5b150324c5a63e947adcc",
+  "content_variants": [
+    {
+      "bytes": 357,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:34:25+00:00",
+      "sha256": "bdf8e2d661fa5b96e43c200abb47beefdf09fe0470e5b150324c5a63e947adcc",
+      "source_url": "https://x.com/DeryNews/status/1875155476624924854",
+      "text": "Post\n\nPost\n\nعامر هويدي@DeryNews#دير_الزور الريف الشرقي :\nإعتقـ.ـال كل من، مالك مناع الشكري وشقيقه أحمد، خلال عمـ.ـلية مداهـ.ـمة نفـ.ـذتها \"قسد\" بمساندة طائرة مسيرة في بلدة الحوايج فجر اليوم.12:21 PM · Jan 3, 2025451Views12"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/DeryNews/status/1875155476624924854",
+  "incident_ids": [
+    "airwars-367986"
+  ],
+  "incident_sequences": [
+    151
+  ],
+  "normalized_url": "https://x.com/DeryNews/status/1875155476624924854",
+  "observed_original_urls": [
+    "https://x.com/DeryNews/status/1875155476624924854"
+  ],
+  "original_url": "https://x.com/DeryNews/status/1875155476624924854",
+  "page_title": "عامر هويدي on X: \"#دير_الزور الريف الشرقي :\nإعتقـ.ـال كل من، مالك مناع الشكري وشقيقه أحمد، خلال عمـ.ـلية مداهـ.ـمة نفـ.ـذتها \"قسد\" بمساندة طائرة مسيرة في بلدة الحوايج فجر اليوم.\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ncs0119-january-1-2025/",
+      "airwars_source_id": "286939",
+      "incident_id": "airwars-367986",
+      "incident_sequence": 151,
+      "observed_original_url": "https://x.com/DeryNews/status/1875155476624924854",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2025-01-03T12:21:18.000Z",
+  "publisher": "DeryNews",
+  "publisher_ar": "DeryNews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:34:25+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a02878cd6fd3c8eda8da693e",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/DeryNews/status/1875155476624924854",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nعامر هويدي@DeryNews#دير_الزور الريف الشرقي :\nإعتقـ.ـال كل من، مالك مناع الشكري وشقيقه أحمد، خلال عمـ.ـلية مداهـ.ـمة نفـ.ـذتها \"قسد\" بمساندة طائرة مسيرة في بلدة الحوايج فجر اليوم.12:21 PM · Jan 3, 2025451Views12",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00172
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297828"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/arabic-anf-news-com-4/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.146,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:12+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 34998,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "bcfc240ef2b6ea62f220d60bc2fd8bdd098264ef67ebef0f18f8782336dcdb10",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.146,
+      "error": null,
+      "etag": "",
+      "final_url": "https://arabic.anf-news.com/akhr-l-khbr/astshhad-mwatn-wasabt-akhryn-jra-qsf-alahtlal-altrky-lryf-mdynt-zrkan-113047",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:12+00:00",
+      "status": 200,
+      "url": "https://arabic.anf-news.com/akhr-l-khbr/astshhad-mwatn-wasabt-akhryn-jra-qsf-alahtlal-altrky-lryf-mdynt-zrkan-113047",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": "09d7f6bec8daef196e6b1dfadbf982decf79a4561b4f105213653f2e86a2798d",
+  "content_variants": [
+    {
+      "bytes": 1111,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:12+00:00",
+      "sha256": "09d7f6bec8daef196e6b1dfadbf982decf79a4561b4f105213653f2e86a2798d",
+      "source_url": "https://arabic.anf-news.com/akhr-l-khbr/astshhad-mwatn-wasabt-akhryn-jra-qsf-alahtlal-altrky-lryf-mdynt-zrkan-113047",
+      "text": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالاثنين, ٩ ديسمبر ٢٠٢٤, ١٤:٠٣\n\nفي إطار هجمات الإبادة المستمرة التي يشنها الاحتلال التركي ومرتزقته على شعوب إقليم شمال وشرق سوريا، قصفت مسيّرات الاحتلال قريتي حرمل ومحرملة في ريف مدينة زركان في مقاطعة الجزيرة.\n\nوتسبب قصف الاحتلال لقرية حرمل باستشهاد مواطن وإصابة اثنين آخرين، عُرف منهما المواطن محمد حسن حسن (45) عاماً.\n\nوأكد الأهالي أن الجريحين ينحدران من مدينة الشدادي في مقاطعة الجزيرة، وكانا يعملان في الحقول الزراعية أثناء استهدافهما.\n\nهذا ونقل المصابان في البداية إلى مدينة الدرباسية، حيث تلقيا المعالجة الأولية وجرى تحويل أحدهما إلى مدينة الحسكة نظراً لحاجته إلى المتابعة."
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://arabic.anf-news.com/akhr-l-khbr/astshhad-mwatn-wasabt-akhryn-jra-qsf-alahtlal-altrky-lryf-mdynt-zrkan-113047",
+  "incident_ids": [
+    "airwars-216141"
+  ],
+  "incident_sequences": [
+    163
+  ],
+  "normalized_url": "https://arabic.anf-news.com/akhr-l-khbr/astshhad-mwatn-wasabt-akhryn-jra-qsf-alahtlal-altrky-lryf-mdynt-zrkan-113047",
+  "observed_original_urls": [
+    "https://arabic.anf-news.com/akhr-l-khbr/astshhad-mwatn-wasabt-akhryn-jra-qsf-alahtlal-altrky-lryf-mdynt-zrkan-113047"
+  ],
+  "original_url": "https://arabic.anf-news.com/akhr-l-khbr/astshhad-mwatn-wasabt-akhryn-jra-qsf-alahtlal-altrky-lryf-mdynt-zrkan-113047",
+  "page_title": "ANF |\nإستشهاد مواطن وإصابة آخرين جراء قصف الاحتلال التركي لريف مدينة زركان",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts749-december-9-2024/",
+      "airwars_source_id": "297828",
+      "incident_id": "airwars-216141",
+      "incident_sequence": 163,
+      "observed_original_url": "https://arabic.anf-news.com/akhr-l-khbr/astshhad-mwatn-wasabt-akhryn-jra-qsf-alahtlal-altrky-lryf-mdynt-zrkan-113047",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "anf-news.com",
+  "publisher_ar": "anf-news.com",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:12+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-7cf0ab140fbf9598bd90f74c",
+  "source_type": "news_article",
+  "stable_id_basis": "https://arabic.anf-news.com/akhr-l-khbr/astshhad-mwatn-wasabt-akhryn-jra-qsf-alahtlal-altrky-lryf-mdynt-zrkan-113047",
+  "text_ar": "",
+  "text_original": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالاثنين, ٩ ديسمبر ٢٠٢٤, ١٤:٠٣\n\nفي إطار هجمات الإبادة المستمرة التي يشنها الاحتلال التركي ومرتزقته على شعوب إقليم شمال وشرق سوريا، قصفت مسيّرات الاحتلال قريتي حرمل ومحرملة في ريف مدينة زركان في مقاطعة الجزيرة.\n\nوتسبب قصف الاحتلال لقرية حرمل باستشهاد مواطن وإصابة اثنين آخرين، عُرف منهما المواطن محمد حسن حسن (45) عاماً.\n\nوأكد الأهالي أن الجريحين ينحدران من مدينة الشدادي في مقاطعة الجزيرة، وكانا يعملان في الحقول الزراعية أثناء استهدافهما.\n\nهذا ونقل المصابان في البداية إلى مدينة الدرباسية، حيث تلقيا المعالجة الأولية وجرى تحويل أحدهما إلى مدينة الحسكة نظراً لحاجته إلى المتابعة.",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001444
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

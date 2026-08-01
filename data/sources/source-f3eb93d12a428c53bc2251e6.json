@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/4YkRW"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.449,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:49:02+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 83968,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "3de70120fb0e7f95a279e7da1bae3583fad1426bbfd5408b40e7344b4ddb5992",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.449,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/syrevarch/status/1862835201845715044",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:49:02+00:00",
+      "status": 200,
+      "url": "https://x.com/syr_rev_archive/status/1862835201845715044",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/syrevarch",
+  "captions": [],
+  "content_hash": "54455d75757fd0eaaec815dcde69fbb55847e73b57e0882d7b88f95943824698",
+  "content_variants": [
+    {
+      "bytes": 415,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:49:02+00:00",
+      "sha256": "54455d75757fd0eaaec815dcde69fbb55847e73b57e0882d7b88f95943824698",
+      "source_url": "https://x.com/syrevarch/status/1862835201845715044",
+      "text": "Post\n\nPost\n\nأرشيف الثورة السورية Syrian Revolution Archive@syrevarchجرحى مدنيون في حصيلة أولية لغارة جوية من طائرة تابعة لحلف نظام الأسد وروسيا، استهدفت بلدة كنصفرة في ريف #إدلب الجنوبي، اليوم السبت 30 تشرين الثاني.\n#الخوذ_البيضاء12:24 PM · Nov 30, 20242.9KViews2229"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/syrevarch/status/1862835201845715044",
+  "incident_ids": [
+    "airwars-132556"
+  ],
+  "incident_sequences": [
+    202
+  ],
+  "normalized_url": "https://x.com/syr_rev_archive/status/1862835201845715044",
+  "observed_original_urls": [
+    "https://x.com/syr_rev_archive/status/1862835201845715044"
+  ],
+  "original_url": "https://x.com/syr_rev_archive/status/1862835201845715044",
+  "page_title": "أرشيف الثورة السورية Syrian Revolution Archive on X: \"جرحى مدنيون في حصيلة أولية لغارة جوية من طائرة تابعة لحلف نظام الأسد وروسيا، استهدفت بلدة كنصفرة في ريف #إدلب الجنوبي، اليوم السبت 30 تشرين الثاني.\n#الخوذ_البيضاء https://t.co/TyGG0udsP9\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4935-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132556",
+      "incident_sequence": 202,
+      "observed_original_url": "https://x.com/syr_rev_archive/status/1862835201845715044",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-30T12:24:56.000Z",
+  "publisher": "'@syr_rev_archive",
+  "publisher_ar": "'@syr_rev_archive",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:49:02+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-f3eb93d12a428c53bc2251e6",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/syr_rev_archive/status/1862835201845715044",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nأرشيف الثورة السورية Syrian Revolution Archive@syrevarchجرحى مدنيون في حصيلة أولية لغارة جوية من طائرة تابعة لحلف نظام الأسد وروسيا، استهدفت بلدة كنصفرة في ريف #إدلب الجنوبي، اليوم السبت 30 تشرين الثاني.\n#الخوذ_البيضاء12:24 PM · Nov 30, 20242.9KViews2229",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001825
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

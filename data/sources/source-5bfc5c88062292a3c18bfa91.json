@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/yiFIP"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 2.491,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:38:17+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 960571,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "766012951e94ba62c394ac9e22a33c047190338ba980b517592886de55954a74",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 2.491,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/Syriatvnews/videos/4024606024435852/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:38:17+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=4024606024435852",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "Akbar",
+  "captions": [],
+  "content_hash": "3fd4a51a820d0308bbf174c74ac35066509f89332cc064bbc2a7ff863ca42b28",
+  "content_variants": [
+    {
+      "bytes": 286,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:38:17+00:00",
+      "sha256": "3fd4a51a820d0308bbf174c74ac35066509f89332cc064bbc2a7ff863ca42b28",
+      "source_url": "https://www.facebook.com/Syriatvnews/videos/4024606024435852/",
+      "text": "#عاجل | نزوح الأهالي من دارة عزة وسط استمرار القصف المكثف عليها.. مع مراسلنا من المدينة إبراهيم الخطيب\n#تلفزيون_سوريا #أخبار_سوريا | Syriatvnews - أخبار تلفزيون سوريا"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Syriatvnews/videos/4024606024435852/",
+  "incident_ids": [
+    "airwars-132353"
+  ],
+  "incident_sequences": [
+    216
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=4024606024435852",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=4024606024435852"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=4024606024435852",
+  "page_title": "#عاجل | نزوح الأهالي من دارة عزة وسط استمرار القصف المكثف عليها.. مع مراسلنا من المدينة إبراهيم الخطيب\n#تلفزيون_سوريا #أخبار_سوريا | Syriatvnews - أخبار تلفزيون سوريا",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4921-november-27-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132353",
+      "incident_sequence": 216,
+      "observed_original_url": "https://www.facebook.com/watch/?v=4024606024435852",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Akbar",
+  "publisher_ar": "Akbar",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:38:17+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-5bfc5c88062292a3c18bfa91",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=4024606024435852",
+  "text_ar": "",
+  "text_original": "#عاجل | نزوح الأهالي من دارة عزة وسط استمرار القصف المكثف عليها.. مع مراسلنا من المدينة إبراهيم الخطيب\n#تلفزيون_سوريا #أخبار_سوريا | Syriatvnews - أخبار تلفزيون سوريا",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003857
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

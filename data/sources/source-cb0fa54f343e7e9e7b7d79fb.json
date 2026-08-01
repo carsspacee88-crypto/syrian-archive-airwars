@@ -1,0 +1,108 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/DlJCf"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.922,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:47:46+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 884816,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "f25d913ae7a48edd28cb5faac377aed129e1e6d1094553acc4da81666f38a975",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.922,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/reel/1092343582034422",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:47:46+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/reel/1092343582034422",
+      "waiting_seconds": 0.749
+    }
+  ],
+  "author": "Radyo",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:47:46+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/reel/1092343582034422",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "exact_content_duplicate_group": "sha256-d41f5b4977ee05c6b61b3b5f",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/reel/1092343582034422",
+  "incident_ids": [
+    "airwars-132431"
+  ],
+  "incident_sequences": [
+    211
+  ],
+  "normalized_url": "https://www.facebook.com/reel/1092343582034422",
+  "observed_original_urls": [
+    "https://www.facebook.com/reel/1092343582034422"
+  ],
+  "original_url": "https://www.facebook.com/reel/1092343582034422",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4926-november-28-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132431",
+      "incident_sequence": 211,
+      "observed_original_url": "https://www.facebook.com/reel/1092343582034422",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Radyo",
+  "publisher_ar": "Radyo",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:47:46+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-cb0fa54f343e7e9e7b7d79fb",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/reel/1092343582034422",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003098
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

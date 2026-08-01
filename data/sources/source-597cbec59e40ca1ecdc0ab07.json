@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/ANkeF"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.695,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:33:09+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 79815,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "2f179b7ef7ce3cf54bc010a851ec211a7ce7582e9b495cdd56c1f2728baa693f",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.695,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/19999DrSaLiM/status/1855733852536258884",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:33:09+00:00",
+      "status": 200,
+      "url": "https://x.com/DrSSA2025/status/1855733852536258884/photo/1",
+      "waiting_seconds": 0.745
+    }
+  ],
+  "author": "https://x.com/19999DrSaLiM",
+  "captions": [],
+  "content_hash": "2db55cb2df7300f89f6b1f120b9e09ad46a228fb0430f93aa0854afe99cf0d4d",
+  "content_variants": [
+    {
+      "bytes": 296,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:33:09+00:00",
+      "sha256": "2db55cb2df7300f89f6b1f120b9e09ad46a228fb0430f93aa0854afe99cf0d4d",
+      "source_url": "https://x.com/19999DrSaLiM/status/1855733852536258884",
+      "text": "Post\n\nPost\n\nDr.salim aldulimi@19999DrSaLiMالحمدلله..(10) من الحشد الشيعي #العراقي قتلوا في غارة السيدة زينب هذا اليوم..\nنسألكم المزيد من الحمد والشكر والثناء لله..10:06 PM · Nov 10, 20244.9KViews16271971"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/19999DrSaLiM/status/1855733852536258884",
+  "incident_ids": [
+    "airwars-125455"
+  ],
+  "incident_sequences": [
+    233
+  ],
+  "normalized_url": "https://x.com/DrSSA2025/status/1855733852536258884/photo/1",
+  "observed_original_urls": [
+    "https://x.com/DrSSA2025/status/1855733852536258884/photo/1"
+  ],
+  "original_url": "https://x.com/DrSSA2025/status/1855733852536258884/photo/1",
+  "page_title": "Dr.salim aldulimi on X: \"الحمدلله..(10) من الحشد الشيعي #العراقي قتلوا في غارة السيدة زينب هذا اليوم..\nنسألكم المزيد من الحمد والشكر والثناء لله.. https://t.co/cKjDPDyp6A\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy059-november-10-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125455",
+      "incident_sequence": 233,
+      "observed_original_url": "https://x.com/DrSSA2025/status/1855733852536258884/photo/1",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-10T22:06:42.000Z",
+  "publisher": "'@DrSSA2025",
+  "publisher_ar": "'@DrSSA2025",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:33:09+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-597cbec59e40ca1ecdc0ab07",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/DrSSA2025/status/1855733852536258884/photo/1",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nDr.salim aldulimi@19999DrSaLiMالحمدلله..(10) من الحشد الشيعي #العراقي قتلوا في غارة السيدة زينب هذا اليوم..\nنسألكم المزيد من الحمد والشكر والثناء لله..10:06 PM · Nov 10, 20244.9KViews16271971",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001735
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

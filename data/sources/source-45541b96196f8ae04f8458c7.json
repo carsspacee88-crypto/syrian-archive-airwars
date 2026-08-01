@@ -1,0 +1,110 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/UyjIW"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.218,
+          "error": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)",
+          "result": "network_error",
+          "retrieved_at": "2026-08-01T08:31:07+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.218,
+      "error": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)",
+      "etag": "",
+      "final_url": "https://vdc-nsy.com/archives/68796",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:07+00:00",
+      "status": null,
+      "url": "https://vdc-nsy.com/archives/68796",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "Violations Documentation Center news",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)",
+  "final_redirected_url": "https://vdc-nsy.com/archives/68796",
+  "incident_ids": [
+    "airwars-130253",
+    "airwars-127074"
+  ],
+  "incident_sequences": [
+    244,
+    248
+  ],
+  "normalized_url": "https://vdc-nsy.com/archives/68796",
+  "observed_original_urls": [
+    "https://vdc-nsy.com/archives/68796"
+  ],
+  "original_url": "https://vdc-nsy.com/archives/68796",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts722-october-24-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-130253",
+      "incident_sequence": 244,
+      "observed_original_url": "https://vdc-nsy.com/archives/68796",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts721-october-23-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-127074",
+      "incident_sequence": 248,
+      "observed_original_url": "https://vdc-nsy.com/archives/68796",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Violations Documentation Center news",
+  "publisher_ar": "Violations Documentation Center news",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:31:07+00:00",
+    "reason": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)",
+    "status": "deferred"
+  },
+  "retrieval_status": "unavailable",
+  "retrieved_at": "2026-08-01T08:31:07+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-45541b96196f8ae04f8458c7",
+  "source_type": "news_article",
+  "stable_id_basis": "https://vdc-nsy.com/archives/68796",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

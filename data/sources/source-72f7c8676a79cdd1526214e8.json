@@ -1,0 +1,110 @@
+{
+  "airwars_source_ids": [
+    "297918"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-%d8%ad%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9-%d8%a7%d9%84%d8%af%d9%8a%d9%85%d9%82%d8%b1%d8%a7%d8%b7%d9%8a-%d9%81%d9%8a-%d9%85%d9%82%d8%a7%d8%b7%d8%b9%d8%a9/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.542,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:40:24+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 425732,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "2c3644b075717606f4c73d51804508352965baf9282da129db98f693252d151e",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.542,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0SBWG7TojnVfTdXD4i3nzYdoL75a54p2bFB94rn9oijX6veqDfsvJSeoAPPEM8D2Jl%26id%3D100086486913066",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:40:24+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0SBWG7TojnVfTdXD4i3nzYdoL75a54p2bFB94rn9oijX6veqDfsvJSeoAPPEM8D2Jl&id=100086486913066",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "حركة المجتمع الديمقراطي في مقاطعة الفرات",
+  "captions": [],
+  "content_hash": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+  "content_variants": [
+    {
+      "bytes": 374,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:40:24+00:00",
+      "sha256": "ef46a150b3c242e94cddb29d4854eaf7ab8610ba33c7b6e8cd0d7f575b97cd5e",
+      "source_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0SBWG7TojnVfTdXD4i3nzYdoL75a54p2bFB94rn9oijX6veqDfsvJSeoAPPEM8D2Jl%26id%3D100086486913066",
+      "text": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "exact_content_duplicate_group": "sha256-ef46a150b3c242e94cddb29d",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0SBWG7TojnVfTdXD4i3nzYdoL75a54p2bFB94rn9oijX6veqDfsvJSeoAPPEM8D2Jl%26id%3D100086486913066",
+  "incident_ids": [
+    "airwars-240845"
+  ],
+  "incident_sequences": [
+    159
+  ],
+  "normalized_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0SBWG7TojnVfTdXD4i3nzYdoL75a54p2bFB94rn9oijX6veqDfsvJSeoAPPEM8D2Jl&id=100086486913066",
+  "observed_original_urls": [
+    "https://www.facebook.com/permalink.php?story_fbid=pfbid0SBWG7TojnVfTdXD4i3nzYdoL75a54p2bFB94rn9oijX6veqDfsvJSeoAPPEM8D2Jl&id=100086486913066"
+  ],
+  "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0SBWG7TojnVfTdXD4i3nzYdoL75a54p2bFB94rn9oijX6veqDfsvJSeoAPPEM8D2Jl&id=100086486913066",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts753-december-10-2024/",
+      "airwars_source_id": "297918",
+      "incident_id": "airwars-240845",
+      "incident_sequence": 159,
+      "observed_original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0SBWG7TojnVfTdXD4i3nzYdoL75a54p2bFB94rn9oijX6veqDfsvJSeoAPPEM8D2Jl&id=100086486913066",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "10 ديسمبر 2024",
+  "publisher": "Democratic Society Movement in the Euphrates Canton",
+  "publisher_ar": "حركة المجتمع الديمقراطي في مقاطعة الفرات",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:40:24+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-72f7c8676a79cdd1526214e8",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid0SBWG7TojnVfTdXD4i3nzYdoL75a54p2bFB94rn9oijX6veqDfsvJSeoAPPEM8D2Jl&id=100086486913066",
+  "text_ar": "",
+  "text_original": "English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)ItalianoMore languages…Sign UpLog InMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIInstagramThreadsPrivacy PolicyConsumer Health PrivacyPrivacy CenterAboutCreate adCreate PageDevelopersCareersCookiesAd choices TermsHelpContact Uploading & Non-UsersMeta © 2026",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002355
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

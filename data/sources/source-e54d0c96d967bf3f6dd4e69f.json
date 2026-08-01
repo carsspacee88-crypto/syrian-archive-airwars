@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/d7b9e"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.261,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:48:44+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 80659,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "ee77afd986e010531aeba74c338e52a80e221a0f625dfb8cacb5daf8f8daf477",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.261,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/snhr/status/1864693714066493753",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:48:44+00:00",
+      "status": 200,
+      "url": "https://x.com/snhr/status/1864693714066493753",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/snhr",
+  "captions": [],
+  "content_hash": "c23c1ad0e4169ed400b9cb9c406f3d879f6cb0d2930027067a90665a8072db4b",
+  "content_variants": [
+    {
+      "bytes": 313,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:48:44+00:00",
+      "sha256": "c23c1ad0e4169ed400b9cb9c406f3d879f6cb0d2930027067a90665a8072db4b",
+      "source_url": "https://x.com/snhr/status/1864693714066493753",
+      "text": "Post\n\nPost\n\nSyrian Network@snhrOn Dec 3, fixed-wing warplanes believed to be Russian bombed Khan Sheikhoun city, S. #Idlib, killing two men named Ahmad Shalat and Hassan al-Rashed.\n#SNHR notes that Russian forces violated UNSC resolutions prohibiting indiscriminate attacks.\n#Syria3:30 PM · Dec 5, 2024627Views37"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/snhr/status/1864693714066493753",
+  "incident_ids": [
+    "airwars-138658"
+  ],
+  "incident_sequences": [
+    181
+  ],
+  "normalized_url": "https://x.com/snhr/status/1864693714066493753",
+  "observed_original_urls": [
+    "https://x.com/snhr/status/1864693714066493753"
+  ],
+  "original_url": "https://x.com/snhr/status/1864693714066493753",
+  "page_title": "Syrian Network on X: \"On Dec 3, fixed-wing warplanes believed to be Russian bombed Khan Sheikhoun city, S. #Idlib, killing two men named Ahmad Shalat and Hassan al-Rashed.\n#SNHR notes that Russian forces violated UNSC resolutions prohibiting indiscriminate attacks.\n#Syria https://t.co/m0cvRZSlQP\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4953-december-3-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138658",
+      "incident_sequence": 181,
+      "observed_original_url": "https://x.com/snhr/status/1864693714066493753",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-05T15:30:00.000Z",
+  "publisher": "'@snhr",
+  "publisher_ar": "'@snhr",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:48:44+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-e54d0c96d967bf3f6dd4e69f",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/snhr/status/1864693714066493753",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nSyrian Network@snhrOn Dec 3, fixed-wing warplanes believed to be Russian bombed Khan Sheikhoun city, S. #Idlib, killing two men named Ahmad Shalat and Hassan al-Rashed.\n#SNHR notes that Russian forces violated UNSC resolutions prohibiting indiscriminate attacks.\n#Syria3:30 PM · Dec 5, 2024627Views37",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00173
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

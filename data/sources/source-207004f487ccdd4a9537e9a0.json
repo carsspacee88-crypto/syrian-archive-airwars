@@ -1,0 +1,117 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/gVxoN"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.234,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:32:03+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 97031,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "35f0fcfc62881b006e968cb9da8a65dd6b90caae964b436a2876883ebb681148",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.234,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/SyriaCivilDefe/status/1863184038959161380",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:32:03+00:00",
+      "status": 200,
+      "url": "https://x.com/SyriaCivilDefe/status/1863184038959161380",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/SyriaCivilDefe",
+  "captions": [],
+  "content_hash": "9f55c3ddbeac2075e9313860fcc633548c8610a6146f8bd9a4f117590f786841",
+  "content_variants": [
+    {
+      "bytes": 1079,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:32:03+00:00",
+      "sha256": "9f55c3ddbeac2075e9313860fcc633548c8610a6146f8bd9a4f117590f786841",
+      "source_url": "https://x.com/SyriaCivilDefe/status/1863184038959161380",
+      "text": "Post\n\nPost\n\nالدفاع المدني السوري@SyriaCivilDefeشنت طائرات حربية تابعة لقوات النظام السوري غارات جوية على مدخل مدينة #حلب، ظهر أمس السبت 30 تشرين الثاني 2024، مستهدفة أعداداً كبيرة من المدنيين في المكان، ما أدى لوقوع مجزرة كبيرة بمقتل أكثر من 15 مدنياً من الموجودين في المكان وإصابة أعداد أخرى، في جريمة غادرة للطيران الحربي الروسي بتعمده قصف المناطق المدنية والتجمعات المدنية بشكل مباشر، فرقنا انتشلت جثامين القتلى وأجلت المصابين من المكان.\nإن استمرار نظام الأسد بالهجمات الممنهجة على البيئات المدنية هو خرق صارخ للقوانين والأعراف الدولية وجريمة يجب محاسبته عليها دولياً.\n#الخوذ_البيضاء11:31 AM · Dec 1, 20241.6KViews616"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyriaCivilDefe/status/1863184038959161380",
+  "incident_ids": [
+    "airwars-132565",
+    "airwars-228947"
+  ],
+  "incident_sequences": [
+    203,
+    205
+  ],
+  "normalized_url": "https://x.com/SyriaCivilDefe/status/1863184038959161380",
+  "observed_original_urls": [
+    "https://x.com/SyriaCivilDefe/status/1863184038959161380"
+  ],
+  "original_url": "https://x.com/SyriaCivilDefe/status/1863184038959161380",
+  "page_title": "الدفاع المدني السوري on X: \"شنت طائرات حربية تابعة لقوات النظام السوري غارات جوية على مدخل مدينة #حلب، ظهر أمس السبت 30 تشرين الثاني 2024، مستهدفة أعداداً كبيرة من المدنيين في المكان، ما أدى لوقوع مجزرة كبيرة بمقتل أكثر من 15 مدنياً من الموجودين في المكان وإصابة أعداد أخرى، في جريمة غادرة للطيران الحربي الروسي بتعمده قصف المناطق المدنية والتجمعات المدنية بشكل مباشر، فرقنا انتشلت جثامين القتلى وأجلت المصابين من المكان.\nإن استمرار نظام الأسد بالهجمات الممنهجة على البيئات المدنية هو خرق صارخ للقوانين والأعراف الدولية وجريمة يجب محاسبته عليها دولياً.\n#الخوذ_البيضاء\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4933-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132565",
+      "incident_sequence": 203,
+      "observed_original_url": "https://x.com/SyriaCivilDefe/status/1863184038959161380",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/r4729-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-228947",
+      "incident_sequence": 205,
+      "observed_original_url": "https://x.com/SyriaCivilDefe/status/1863184038959161380",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-01T11:31:05.000Z",
+  "publisher": "'@SyriaCivilDefe",
+  "publisher_ar": "'@SyriaCivilDefe",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:32:03+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-207004f487ccdd4a9537e9a0",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyriaCivilDefe/status/1863184038959161380",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالدفاع المدني السوري@SyriaCivilDefeشنت طائرات حربية تابعة لقوات النظام السوري غارات جوية على مدخل مدينة #حلب، ظهر أمس السبت 30 تشرين الثاني 2024، مستهدفة أعداداً كبيرة من المدنيين في المكان، ما أدى لوقوع مجزرة كبيرة بمقتل أكثر من 15 مدنياً من الموجودين في المكان وإصابة أعداد أخرى، في جريمة غادرة للطيران الحربي الروسي بتعمده قصف المناطق المدنية والتجمعات المدنية بشكل مباشر، فرقنا انتشلت جثامين القتلى وأجلت المصابين من المكان.\nإن استمرار نظام الأسد بالهجمات الممنهجة على البيئات المدنية هو خرق صارخ للقوانين والأعراف الدولية وجريمة يجب محاسبته عليها دولياً.\n#الخوذ_البيضاء11:31 AM · Dec 1, 20241.6KViews616",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002067
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

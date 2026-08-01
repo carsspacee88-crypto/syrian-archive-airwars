@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/qLuHb"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.231,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:16+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 85719,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "fe276bfe1de04b0a1021ae14f1fb4476030ae27e16e32061bae37cc862f76050",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.231,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/Sy24ria/status/1864266398022717686",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:16+00:00",
+      "status": 200,
+      "url": "https://x.com/Sy24ria/status/1864266398022717686",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/Sy24ria",
+  "captions": [],
+  "content_hash": "bdfe3d673a9a8ab4f33198db8d6f17d0279cd5c694f6605729fc7269bcfe1362",
+  "content_variants": [
+    {
+      "bytes": 180,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:16+00:00",
+      "sha256": "bdfe3d673a9a8ab4f33198db8d6f17d0279cd5c694f6605729fc7269bcfe1362",
+      "source_url": "https://x.com/Sy24ria/status/1864266398022717686",
+      "text": "PostLog inSign upPostسوريا 24 | SY24@Sy24riaالدفاع المدني يواصل البحث عن ضحايا قصف حي الجزماتي بحلب11:12 AM · Dec 4, 202497Views"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Sy24ria/status/1864266398022717686",
+  "incident_ids": [
+    "airwars-138665"
+  ],
+  "incident_sequences": [
+    178
+  ],
+  "normalized_url": "https://x.com/Sy24ria/status/1864266398022717686",
+  "observed_original_urls": [
+    "https://x.com/Sy24ria/status/1864266398022717686"
+  ],
+  "original_url": "https://x.com/Sy24ria/status/1864266398022717686",
+  "page_title": "سوريا 24 | SY24 on X: \"الدفاع المدني يواصل البحث عن ضحايا قصف حي الجزماتي بحلب https://t.co/0VZyl1ijTf\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4956-december-4-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138665",
+      "incident_sequence": 178,
+      "observed_original_url": "https://x.com/Sy24ria/status/1864266398022717686",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-04T11:12:00.000Z",
+  "publisher": "'@Sy24ria",
+  "publisher_ar": "'@Sy24ria",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:16+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-054a52142aa1628c83d276c9",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Sy24ria/status/1864266398022717686",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPostسوريا 24 | SY24@Sy24riaالدفاع المدني يواصل البحث عن ضحايا قصف حي الجزماتي بحلب11:12 AM · Dec 4, 202497Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001889
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

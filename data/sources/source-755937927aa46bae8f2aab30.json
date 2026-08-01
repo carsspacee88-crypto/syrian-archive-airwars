@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "298063"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/rojnews-news-roj-news-2024-12-22-152426/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.589,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:25+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 208101,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "04ffbc620b60aa3abf57b459e6b2c5495693884ca15253251b99f671529fa792",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.589,
+      "error": null,
+      "etag": "",
+      "final_url": "https://rojnews.news/ar/?p=207194",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:25+00:00",
+      "status": 200,
+      "url": "https://rojnews.news/ar/?p=207194",
+      "waiting_seconds": 0.746
+    }
+  ],
+  "author": "https://www.facebook.com/RojnewsAr/ ROJNEWS",
+  "captions": [],
+  "content_hash": "98d35f387a17af1bead16e638f33eed3fb396a4b576dea7c343ef5198ee694fe",
+  "content_variants": [
+    {
+      "bytes": 1455,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:25+00:00",
+      "sha256": "98d35f387a17af1bead16e638f33eed3fb396a4b576dea7c343ef5198ee694fe",
+      "source_url": "https://rojnews.news/ar/?p=207194",
+      "text": "استشهاد امرأة وطفلتها في قصف للاحتلال التركي على قرية في كوباني\n\nمركز الأخبار\n\nاستشهدت امرأة وطفلتها في قصف مدفعي للاحتلال التركي ومرتزقته على قرية جعدة في ريف مدينة كوباني، بإقليم شمال وشرق سوريا.\n\nتعرضت قرية جعدة في ريف مدينة كوباني الجنوبي، للقصف من قبل الاحتلال التركي، ما أدى إلى استشهاد امرأة وطفلتها (12 عاماً)، في القصف المدفعي وفق ما أفادت به وكالة أنباء هاوار.\n\nوالشهداء نقلاً عن سجلات المشفى، هم الأم سوسن خلف (35 عاماً)، وابنتها نسيم خلف (12 عام).\n\nتأخر تشكيل الحكومة يخنق أسواق كردستان\n\nقصف جديد يستهدف مقر الديمقراطي الإيراني في هولير\n\nمسيّرة تستهدف معسكرا للمعارضة الكردية في هولير\n\nقفزة جديدة.. شكوى قضائية في السليمانية ضد ارتفاع أسعار الوقود\n\nالتحرر الكردستانية: لا يمكن تنفيذ القانون الإطاري دون أن يقود أوجلان العملية\n\nالعنف ضد النساء في كردستان يتصاعد.. ومحامية: شرف المرأة لا يرتبط بالرجل"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://rojnews.news/ar/?p=207194",
+  "incident_ids": [
+    "airwars-226273"
+  ],
+  "incident_sequences": [
+    154
+  ],
+  "normalized_url": "https://rojnews.news/ar/?p=207194",
+  "observed_original_urls": [
+    "https://rojnews.news/ar/?p=207194"
+  ],
+  "original_url": "https://rojnews.news/ar/?p=207194",
+  "page_title": "استشهاد امرأة وطفلتها في قصف للاحتلال التركي على قرية في كوباني - العربية - Rojnews.news",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts759-december-22-2024/",
+      "airwars_source_id": "298063",
+      "incident_id": "airwars-226273",
+      "incident_sequence": 154,
+      "observed_original_url": "https://rojnews.news/ar/?p=207194",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-22T15:24:26+00:00 2024-12-22T18:24:26+03:00 2026-07-31T16:25:58+03:00 2026-07-31T11:49:38+03:00 2026-07-30T13:35:06+03:00 2026-07-30T14:34:37+03:00 2026-07-31T10:08:33+03:00 2026-08-01T11:09:18+03:00 2026-08-01T10:05:47+03:00 2026-08-01T09:43:49+03:00 2026-08-01T09:18:23+03:00 2026-08-01T09:07:41+03:00",
+  "publisher": "oil news",
+  "publisher_ar": "oil news",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:25+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-755937927aa46bae8f2aab30",
+  "source_type": "news_article",
+  "stable_id_basis": "https://rojnews.news/ar/?p=207194",
+  "text_ar": "",
+  "text_original": "استشهاد امرأة وطفلتها في قصف للاحتلال التركي على قرية في كوباني\n\nمركز الأخبار\n\nاستشهدت امرأة وطفلتها في قصف مدفعي للاحتلال التركي ومرتزقته على قرية جعدة في ريف مدينة كوباني، بإقليم شمال وشرق سوريا.\n\nتعرضت قرية جعدة في ريف مدينة كوباني الجنوبي، للقصف من قبل الاحتلال التركي، ما أدى إلى استشهاد امرأة وطفلتها (12 عاماً)، في القصف المدفعي وفق ما أفادت به وكالة أنباء هاوار.\n\nوالشهداء نقلاً عن سجلات المشفى، هم الأم سوسن خلف (35 عاماً)، وابنتها نسيم خلف (12 عام).\n\nتأخر تشكيل الحكومة يخنق أسواق كردستان\n\nقصف جديد يستهدف مقر الديمقراطي الإيراني في هولير\n\nمسيّرة تستهدف معسكرا للمعارضة الكردية في هولير\n\nقفزة جديدة.. شكوى قضائية في السليمانية ضد ارتفاع أسعار الوقود\n\nالتحرر الكردستانية: لا يمكن تنفيذ القانون الإطاري دون أن يقود أوجلان العملية\n\nالعنف ضد النساء في كردستان يتصاعد.. ومحامية: شرف المرأة لا يرتبط بالرجل",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002917
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

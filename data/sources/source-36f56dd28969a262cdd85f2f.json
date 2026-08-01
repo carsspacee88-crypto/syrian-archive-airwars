@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/rlujo"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 3.408,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:35:23+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 979039,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "d0a2a70e63e921f5ca2d5224eae7fc8b8d0ee8cc864253d8a1e308231c293f01",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 3.408,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/videos/1646749935912722/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:35:23+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=1646749935912722",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "Idlib burial sponsor",
+  "captions": [],
+  "content_hash": "187e32e12ce20b43a8949f47aba838d6e6f18ad8eb8af2ada785d5c06584bc7e",
+  "content_variants": [
+    {
+      "bytes": 438,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:35:23+00:00",
+      "sha256": "187e32e12ce20b43a8949f47aba838d6e6f18ad8eb8af2ada785d5c06584bc7e",
+      "source_url": "https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/videos/1646749935912722/",
+      "text": "صرخات وجراح المدنيين في مخيم حي الجامعة للمهجرين في مدينة إدلب، بعد غارات جوية وحشية لطائرات النظام الحربية استهدفته، اليوم الأحد 1 كانون الأول.\n#الخوذ_البيضاء #العدوان_الروسي #الأسد_يقتل_السوريين | Civil Defense Idlib الدفاع المدني سوريا-محافظة ادلب"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/videos/1646749935912722/",
+  "incident_ids": [
+    "airwars-138390"
+  ],
+  "incident_sequences": [
+    192
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=1646749935912722",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=1646749935912722"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=1646749935912722",
+  "page_title": "صرخات وجراح المدنيين في مخيم حي الجامعة للمهجرين في مدينة إدلب، بعد غارات جوية وحشية لطائرات النظام الحربية استهدفته، اليوم الأحد 1 كانون الأول.\n#الخوذ_البيضاء #العدوان_الروسي #الأسد_يقتل_السوريين | Civil Defense Idlib الدفاع المدني سوريا-محافظة ادلب",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4942-december-1-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138390",
+      "incident_sequence": 192,
+      "observed_original_url": "https://www.facebook.com/watch/?v=1646749935912722",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Idlib burial sponsor",
+  "publisher_ar": "Idlib burial sponsor",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:35:23+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-36f56dd28969a262cdd85f2f",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=1646749935912722",
+  "text_ar": "",
+  "text_original": "صرخات وجراح المدنيين في مخيم حي الجامعة للمهجرين في مدينة إدلب، بعد غارات جوية وحشية لطائرات النظام الحربية استهدفته، اليوم الأحد 1 كانون الأول.\n#الخوذ_البيضاء #العدوان_الروسي #الأسد_يقتل_السوريين | Civil Defense Idlib الدفاع المدني سوريا-محافظة ادلب",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003863
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

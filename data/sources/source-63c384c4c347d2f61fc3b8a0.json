@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/7K4VN"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.796,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:38:56+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 867802,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "3684631e6b68cc3e3a5ae420165d9632cf6a456c484a6be3d0efe34978386702",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.796,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/groups/1141259206380195/posts/%D9%85%D9%86-%D8%B4%D9%80%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%80%D8%B9%D8%AF%D9%88%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D8%AF%D9%85%D8%B4%D9%82-%D8%A8%D8%B9%D8%AF-%D8%B8%D9%87%D8%B1-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3%D8%A7%D9%84%D8%B4%D9%80%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%86%D8%A8%D9%8A%D9%84-%D9%88%D9%8A%D8%B2%D9%86-%D9%88%D8%AC%D9%88%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%B2%D8%B9/1983824655456975/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:38:56+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/groups/1141259206380195/posts/من-شـهداء-الـعدوان-على-دمشق-بعد-ظهر-الخميسالشـهداء-الأطفال-نبيل-ويزن-وجواد-الأزع/1983824655456975/",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "Katna",
+  "captions": [],
+  "content_hash": "396fd52235c3f1fca40c277caf389e8b50ef8941686dfbe89ddb61cd7109fb29",
+  "content_variants": [
+    {
+      "bytes": 122,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:38:56+00:00",
+      "sha256": "396fd52235c3f1fca40c277caf389e8b50ef8941686dfbe89ddb61cd7109fb29",
+      "source_url": "https://www.facebook.com/groups/1141259206380195/posts/%D9%85%D9%86-%D8%B4%D9%80%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%80%D8%B9%D8%AF%D9%88%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D8%AF%D9%85%D8%B4%D9%82-%D8%A8%D8%B9%D8%AF-%D8%B8%D9%87%D8%B1-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3%D8%A7%D9%84%D8%B4%D9%80%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%86%D8%A8%D9%8A%D9%84-%D9%88%D9%8A%D8%B2%D9%86-%D9%88%D8%AC%D9%88%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%B2%D8%B9/1983824655456975/",
+      "text": "ع شو عم تدور في قطنا ؟ | من شـ.هداء الـ.عدو.ان على #دمشق بعد ظهر الخميس"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/groups/1141259206380195/posts/%D9%85%D9%86-%D8%B4%D9%80%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%80%D8%B9%D8%AF%D9%88%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D8%AF%D9%85%D8%B4%D9%82-%D8%A8%D8%B9%D8%AF-%D8%B8%D9%87%D8%B1-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3%D8%A7%D9%84%D8%B4%D9%80%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%86%D8%A8%D9%8A%D9%84-%D9%88%D9%8A%D8%B2%D9%86-%D9%88%D8%AC%D9%88%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%B2%D8%B9/1983824655456975/",
+  "incident_ids": [
+    "airwars-125581"
+  ],
+  "incident_sequences": [
+    232
+  ],
+  "normalized_url": "https://www.facebook.com/groups/1141259206380195/posts/من-شـهداء-الـعدوان-على-دمشق-بعد-ظهر-الخميسالشـهداء-الأطفال-نبيل-ويزن-وجواد-الأزع/1983824655456975/",
+  "observed_original_urls": [
+    "https://www.facebook.com/groups/1141259206380195/posts/من-شـهداء-الـعدوان-على-دمشق-بعد-ظهر-الخميسالشـهداء-الأطفال-نبيل-ويزن-وجواد-الأزع/1983824655456975/"
+  ],
+  "original_url": "https://www.facebook.com/groups/1141259206380195/posts/من-شـهداء-الـعدوان-على-دمشق-بعد-ظهر-الخميسالشـهداء-الأطفال-نبيل-ويزن-وجواد-الأزع/1983824655456975/",
+  "page_title": "ع شو عم تدور في قطنا ؟ | من شـ.هداء الـ.عدو.ان على #دمشق بعد ظهر الخميس",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy060-november-14-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125581",
+      "incident_sequence": 232,
+      "observed_original_url": "https://www.facebook.com/groups/1141259206380195/posts/من-شـهداء-الـعدوان-على-دمشق-بعد-ظهر-الخميسالشـهداء-الأطفال-نبيل-ويزن-وجواد-الأزع/1983824655456975/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Katna",
+  "publisher_ar": "Katna",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:38:56+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-63c384c4c347d2f61fc3b8a0",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/groups/1141259206380195/posts/من-شـهداء-الـعدوان-على-دمشق-بعد-ظهر-الخميسالشـهداء-الأطفال-نبيل-ويزن-وجواد-الأزع/1983824655456975/",
+  "text_ar": "",
+  "text_original": "ع شو عم تدور في قطنا ؟ | من شـ.هداء الـ.عدو.ان على #دمشق بعد ظهر الخميس",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003258
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

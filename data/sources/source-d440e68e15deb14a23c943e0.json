@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/srLF9"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.214,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:35:10+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 90414,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "dfc6a03c743c94c9cff5efb15a7bf9a8f9e3715d42f94d2d1eef35eb754210e8",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.214,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/7alpress/status/1862821379386777653",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:35:10+00:00",
+      "status": 200,
+      "url": "https://x.com/7alpress/status/1862821379386777653",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/7alpress",
+  "captions": [],
+  "content_hash": "830727f9b733af2ff0664248ac9da26c9e0f49b9cd4af8d2b22ed81370a2455d",
+  "content_variants": [
+    {
+      "bytes": 469,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:35:10+00:00",
+      "sha256": "830727f9b733af2ff0664248ac9da26c9e0f49b9cd4af8d2b22ed81370a2455d",
+      "source_url": "https://x.com/7alpress/status/1862821379386777653",
+      "text": "Post\n\nPost\n\nالحل نت@7alpressتعرّض حي الفرقان وسط مدينة حلب، لغارة جويّة شنّتها طائرات حربية يرجّح أنها سورية، تسببت بدمار في الأبنية السكنية والممتلكات، وذلك بعد أن سيطرت فصائل المعارضة على معظم أحياء المدينة.\n\n#سوريا #حي_الفرقان #حلب #ردع_العدوان00:0011:30 AM · Nov 30, 2024499Views1"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/7alpress/status/1862821379386777653",
+  "incident_ids": [
+    "airwars-132642"
+  ],
+  "incident_sequences": [
+    204
+  ],
+  "normalized_url": "https://x.com/7alpress/status/1862821379386777653",
+  "observed_original_urls": [
+    "https://x.com/7alpress/status/1862821379386777653"
+  ],
+  "original_url": "https://x.com/7alpress/status/1862821379386777653",
+  "page_title": "الحل نت on X: \"تعرّض حي الفرقان وسط مدينة حلب، لغارة جويّة شنّتها طائرات حربية يرجّح أنها سورية، تسببت بدمار في الأبنية السكنية والممتلكات، وذلك بعد أن سيطرت فصائل المعارضة على معظم أحياء المدينة.\n\n#سوريا #حي_الفرقان #حلب #ردع_العدوان https://t.co/aysM6NOHvO\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4937-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132642",
+      "incident_sequence": 204,
+      "observed_original_url": "https://x.com/7alpress/status/1862821379386777653",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-30T11:30:01.000Z",
+  "publisher": "'@7alpress",
+  "publisher_ar": "'@7alpress",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:35:10+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-d440e68e15deb14a23c943e0",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/7alpress/status/1862821379386777653",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالحل نت@7alpressتعرّض حي الفرقان وسط مدينة حلب، لغارة جويّة شنّتها طائرات حربية يرجّح أنها سورية، تسببت بدمار في الأبنية السكنية والممتلكات، وذلك بعد أن سيطرت فصائل المعارضة على معظم أحياء المدينة.\n\n#سوريا #حي_الفرقان #حلب #ردع_العدوان00:0011:30 AM · Nov 30, 2024499Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001826
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

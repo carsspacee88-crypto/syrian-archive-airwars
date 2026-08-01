@@ -1,0 +1,108 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/0Ceng"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.243,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:44:55+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 837012,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "ad712e9fc983560b7c137433a6f4d7ae1f1cece463b33de21da2fa329e1a9c5a",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.243,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/reel/2508482776014797",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:44:55+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/reel/2508482776014797",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "Bn al ammari",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:44:55+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/reel/2508482776014797",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "exact_content_duplicate_group": "sha256-d41f5b4977ee05c6b61b3b5f",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/reel/2508482776014797",
+  "incident_ids": [
+    "airwars-138570"
+  ],
+  "incident_sequences": [
+    185
+  ],
+  "normalized_url": "https://www.facebook.com/reel/2508482776014797",
+  "observed_original_urls": [
+    "https://www.facebook.com/reel/2508482776014797"
+  ],
+  "original_url": "https://www.facebook.com/reel/2508482776014797",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4951-december-2-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138570",
+      "incident_sequence": 185,
+      "observed_original_url": "https://www.facebook.com/reel/2508482776014797",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Bn al ammari",
+  "publisher_ar": "Bn al ammari",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:44:55+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a6ba5b4d051fe0f116ebf39a",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/reel/2508482776014797",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002684
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

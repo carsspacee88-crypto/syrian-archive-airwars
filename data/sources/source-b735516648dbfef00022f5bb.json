@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/DyMjE"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.916,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:46:18+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 757157,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "ac00a5464012cc3e0252411cbd200267dcc9569868a3fd9ec1e4857160cf7db7",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.916,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/dr.sepahi.alabodi/videos/1063787265541542/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:46:18+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=1063787265541542",
+      "waiting_seconds": 0.745
+    }
+  ],
+  "author": "Dr",
+  "captions": [],
+  "content_hash": "faafee08f1f428a853e85377ee418ec4c75b30be612bf11eb5a176d9106d19d9",
+  "content_variants": [
+    {
+      "bytes": 190,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:46:18+00:00",
+      "sha256": "faafee08f1f428a853e85377ee418ec4c75b30be612bf11eb5a176d9106d19d9",
+      "source_url": "https://www.facebook.com/dr.sepahi.alabodi/videos/1063787265541542/",
+      "text": "عاجل⚡️ ⚡\n\nالصواريخ الفراغية الروسية والسورية تستهدف مدينة الأتارب بريف حلب الغربي قبل قليل. | Dr-sepahi Alabodi"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/dr.sepahi.alabodi/videos/1063787265541542/",
+  "incident_ids": [
+    "airwars-132466"
+  ],
+  "incident_sequences": [
+    213
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=1063787265541542",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=1063787265541542"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=1063787265541542",
+  "page_title": "عاجل⚡️ ⚡\n\nالصواريخ الفراغية الروسية والسورية تستهدف مدينة الأتارب بريف حلب الغربي قبل قليل. | Dr-sepahi Alabodi",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4928-november-28-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132466",
+      "incident_sequence": 213,
+      "observed_original_url": "https://www.facebook.com/watch/?v=1063787265541542",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Dr",
+  "publisher_ar": "Dr",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:46:18+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-b735516648dbfef00022f5bb",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=1063787265541542",
+  "text_ar": "",
+  "text_original": "عاجل⚡️ ⚡\n\nالصواريخ الفراغية الروسية والسورية تستهدف مدينة الأتارب بريف حلب الغربي قبل قليل. | Dr-sepahi Alabodi",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003486
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

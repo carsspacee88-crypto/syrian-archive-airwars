@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/MeFfR"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 2.264,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:38:36+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 964776,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "e8c061b6c96728fb2e5993a96c853eaa630946a56f0179f2e980644708b85408",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 2.264,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/Alhurra/videos/28015071578091123/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:38:36+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=28015071578091123",
+      "waiting_seconds": 0.735
+    }
+  ],
+  "author": "Alhurra",
+  "captions": [],
+  "content_hash": "72bda5b4bd4be82220af8c37b6775dc6faa598fccc58ec01454f0f30bc69d550",
+  "content_variants": [
+    {
+      "bytes": 415,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:38:36+00:00",
+      "sha256": "72bda5b4bd4be82220af8c37b6775dc6faa598fccc58ec01454f0f30bc69d550",
+      "source_url": "https://www.facebook.com/Alhurra/videos/28015071578091123/",
+      "text": "ارتفاع حصيلة \"الضربات الإسرائيلية\" على تدمر إلى 68 قتيلا، والمرصد السوري يقول إنها \"استهدفت اجتماعا لميليشيات إيرانية مع حركة النجباء العراقية وحزب الله اللبناني\".\n\n#الحرة #الحقيقة_أولا #شاهد_الحرة #إسرائيل #سوريا #تدمر #إيران | Alhurra"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Alhurra/videos/28015071578091123/",
+  "incident_ids": [
+    "airwars-125524"
+  ],
+  "incident_sequences": [
+    227
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=28015071578091123",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=28015071578091123"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=28015071578091123",
+  "page_title": "ارتفاع حصيلة \"الضربات الإسرائيلية\" على تدمر إلى 68 قتيلا، والمرصد السوري يقول إنها \"استهدفت اجتماعا لميليشيات إيرانية مع حركة النجباء العراقية وحزب الله اللبناني\".\n\n#الحرة #الحقيقة_أولا #شاهد_الحرة #إسرائيل #سوريا #تدمر #إيران | Alhurra",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy062-november-20-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125524",
+      "incident_sequence": 227,
+      "observed_original_url": "https://www.facebook.com/watch/?v=28015071578091123",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Alhurra",
+  "publisher_ar": "Alhurra",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:38:36+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-601534087b8d6e31bc090696",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=28015071578091123",
+  "text_ar": "",
+  "text_original": "ارتفاع حصيلة \"الضربات الإسرائيلية\" على تدمر إلى 68 قتيلا، والمرصد السوري يقول إنها \"استهدفت اجتماعا لميليشيات إيرانية مع حركة النجباء العراقية وحزب الله اللبناني\".\n\n#الحرة #الحقيقة_أولا #شاهد_الحرة #إسرائيل #سوريا #تدمر #إيران | Alhurra",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003902
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

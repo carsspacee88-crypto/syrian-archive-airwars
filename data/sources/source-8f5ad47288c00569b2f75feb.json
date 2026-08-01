@@ -1,0 +1,110 @@
+{
+  "airwars_source_ids": [
+    "297777"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-ebdilselam-xoce-pfbid02tv5qg1ur7dupsjfe67ikapgyi2zqaw7t4yugz8gvzvxb2ke6thqsbev4wygwndqrl-2024-12-09-170000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.267,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:43:02+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 311343,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "a632d607a15be46424afe450eafdf9c0a4d46eecb5cf2d5ea1755f641259deb7",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.267,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/selam.xece/posts/pfbid02TV5Qg1uR7DupsjFe67iKapgYi2zqAw7T4YuGZ8gVZVxb2ke6THqSbev4WyGWnDQRl",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:43:02+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/selam.xece/posts/pfbid02TV5Qg1uR7DupsjFe67iKapgYi2zqAw7T4YuGZ8gVZVxb2ke6THqSbev4WyGWnDQRl",
+      "waiting_seconds": 0.74
+    }
+  ],
+  "author": "Ebdilselam Xoce",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:43:02+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/selam.xece/posts/pfbid02TV5Qg1uR7DupsjFe67iKapgYi2zqAw7T4YuGZ8gVZVxb2ke6THqSbev4WyGWnDQRl",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "exact_content_duplicate_group": "sha256-d41f5b4977ee05c6b61b3b5f",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/selam.xece/posts/pfbid02TV5Qg1uR7DupsjFe67iKapgYi2zqAw7T4YuGZ8gVZVxb2ke6THqSbev4WyGWnDQRl",
+  "incident_ids": [
+    "airwars-216122"
+  ],
+  "incident_sequences": [
+    165
+  ],
+  "normalized_url": "https://www.facebook.com/selam.xece/posts/pfbid02TV5Qg1uR7DupsjFe67iKapgYi2zqAw7T4YuGZ8gVZVxb2ke6THqSbev4WyGWnDQRl",
+  "observed_original_urls": [
+    "https://www.facebook.com/selam.xece/posts/pfbid02TV5Qg1uR7DupsjFe67iKapgYi2zqAw7T4YuGZ8gVZVxb2ke6THqSbev4WyGWnDQRl"
+  ],
+  "original_url": "https://www.facebook.com/selam.xece/posts/pfbid02TV5Qg1uR7DupsjFe67iKapgYi2zqAw7T4YuGZ8gVZVxb2ke6THqSbev4WyGWnDQRl",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts748-december-8-2024/",
+      "airwars_source_id": "297777",
+      "incident_id": "airwars-216122",
+      "incident_sequence": 165,
+      "observed_original_url": "https://www.facebook.com/selam.xece/posts/pfbid02TV5Qg1uR7DupsjFe67iKapgYi2zqAw7T4YuGZ8gVZVxb2ke6THqSbev4WyGWnDQRl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "9 ديسمبر 2024",
+  "publisher": "Abdulsalam Khoja",
+  "publisher_ar": "Abdulsalam Khoja",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:43:02+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-8f5ad47288c00569b2f75feb",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/selam.xece/posts/pfbid02TV5Qg1uR7DupsjFe67iKapgYi2zqAw7T4YuGZ8gVZVxb2ke6THqSbev4WyGWnDQRl",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001158
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

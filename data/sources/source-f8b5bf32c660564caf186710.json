@@ -1,0 +1,100 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/hqdrc"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.134,
+          "error": "http_404",
+          "result": "http_error",
+          "retrieved_at": "2026-08-01T08:48:33+00:00",
+          "status": 404
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 1323,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "8dd7b0404e39669f3b7c68fd9a3e43b5575c192cdbda5386c41323df661ad5a2",
+      "content_type": "text/html",
+      "elapsed_seconds": 0.134,
+      "error": "http_404",
+      "etag": "",
+      "final_url": "https://whitehelmets.org/index.php/ar/report/tqaryr-mydanyt/astmrar-altsyd-ly-adlb-whlb-whmat-hjmat-tzyd-trdy-alawda-alansanyt",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:48:33+00:00",
+      "status": 404,
+      "url": "https://whitehelmets.org/index.php/ar/report/tqaryr-mydanyt/astmrar-altsyd-ly-adlb-whlb-whmat-hjmat-tzyd-trdy-alawda-alansanyt",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "SCD news",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_404",
+  "final_redirected_url": "https://whitehelmets.org/index.php/ar/report/tqaryr-mydanyt/astmrar-altsyd-ly-adlb-whlb-whmat-hjmat-tzyd-trdy-alawda-alansanyt",
+  "incident_ids": [
+    "airwars-190643"
+  ],
+  "incident_sequences": [
+    177
+  ],
+  "normalized_url": "https://whitehelmets.org/index.php/ar/report/tqaryr-mydanyt/astmrar-altsyd-ly-adlb-whlb-whmat-hjmat-tzyd-trdy-alawda-alansanyt",
+  "observed_original_urls": [
+    "https://whitehelmets.org/index.php/ar/report/tqaryr-mydanyt/astmrar-altsyd-ly-adlb-whlb-whmat-hjmat-tzyd-trdy-alawda-alansanyt"
+  ],
+  "original_url": "https://whitehelmets.org/index.php/ar/report/tqaryr-mydanyt/astmrar-altsyd-ly-adlb-whlb-whmat-hjmat-tzyd-trdy-alawda-alansanyt",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4955-december-4-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-190643",
+      "incident_sequence": 177,
+      "observed_original_url": "https://whitehelmets.org/index.php/ar/report/tqaryr-mydanyt/astmrar-altsyd-ly-adlb-whlb-whmat-hjmat-tzyd-trdy-alawda-alansanyt",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "SCD news",
+  "publisher_ar": "SCD news",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:48:33+00:00",
+    "reason": "http_404",
+    "status": "deferred"
+  },
+  "retrieval_status": "not_found",
+  "retrieved_at": "2026-08-01T08:48:33+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-f8b5bf32c660564caf186710",
+  "source_type": "news_article",
+  "stable_id_basis": "https://whitehelmets.org/index.php/ar/report/tqaryr-mydanyt/astmrar-altsyd-ly-adlb-whlb-whmat-hjmat-tzyd-trdy-alawda-alansanyt",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

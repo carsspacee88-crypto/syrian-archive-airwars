@@ -1,0 +1,312 @@
+{
+  "collection_report": "data/reports/speed-pilot-0151-0250.json",
+  "engine_version": "4.0.0",
+  "incidents": {
+    "count": 100,
+    "mean_seconds": 0.555,
+    "status_counts": {
+      "blocked": 100
+    },
+    "wall_seconds": 55.731
+  },
+  "operation": "collect",
+  "performance": {
+    "hosts": {
+      "aa.com.tr": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 3.25
+      },
+      "aboalhodaalhoms": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.131
+      },
+      "alghad.tv": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.27
+      },
+      "alyaumtv.net": {
+        "processed": 4,
+        "throttle_seconds": 1.5,
+        "total_seconds": 5.172
+      },
+      "anfarabic.com": {
+        "processed": 19,
+        "throttle_seconds": 1.5,
+        "total_seconds": 31.684
+      },
+      "arabic.anf-news.com": {
+        "processed": 13,
+        "throttle_seconds": 8.228,
+        "total_seconds": 56.383
+      },
+      "enabbaladi.net": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.217
+      },
+      "eremnews.com": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.801
+      },
+      "euphratespost.net": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.617
+      },
+      "facebook.com": {
+        "processed": 725,
+        "throttle_seconds": 538.575,
+        "total_seconds": 331743.995
+      },
+      "fdd.org": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.222
+      },
+      "hawarnews.com": {
+        "processed": 37,
+        "throttle_seconds": 26.11,
+        "total_seconds": 466.709
+      },
+      "israel-alma.org": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 1.203
+      },
+      "jinhaagency.com": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.85
+      },
+      "nabd.com": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.877
+      },
+      "npasyria.com": {
+        "processed": 13,
+        "throttle_seconds": 1.5,
+        "total_seconds": 23.852
+      },
+      "rojnews.news": {
+        "processed": 18,
+        "throttle_seconds": 11.935,
+        "total_seconds": 207.259
+      },
+      "ronahi.tv": {
+        "processed": 8,
+        "throttle_seconds": 1.5,
+        "total_seconds": 13.337
+      },
+      "safa.ps": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 2.247
+      },
+      "sana.sy": {
+        "processed": 6,
+        "throttle_seconds": 2.247,
+        "total_seconds": 127.725
+      },
+      "sdf-press.com": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.389
+      },
+      "shaam.org": {
+        "processed": 2,
+        "throttle_seconds": 0.748,
+        "total_seconds": 3.261
+      },
+      "syria.news": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.804
+      },
+      "syria.tv": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 1.519
+      },
+      "syriahr.com": {
+        "processed": 28,
+        "throttle_seconds": 1.5,
+        "total_seconds": 44.181
+      },
+      "t.me": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.732
+      },
+      "vdc-nsy.com": {
+        "processed": 4,
+        "throttle_seconds": 1.5,
+        "total_seconds": 6.706
+      },
+      "whitehelmets.org": {
+        "processed": 3,
+        "throttle_seconds": 0.75,
+        "total_seconds": 3.037
+      },
+      "x.com": {
+        "processed": 279,
+        "throttle_seconds": 206.94,
+        "total_seconds": 30235.228
+      },
+      "xeber24.org": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 1.657
+      },
+      "yenisafak.com": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 1.404
+      }
+    },
+    "recovery_wall_seconds": 0,
+    "timings": {
+      "extraction": {
+        "p50_seconds": 0.002,
+        "p90_seconds": 0.006
+      },
+      "network": {
+        "p50_seconds": 0.571,
+        "p90_seconds": 1.329
+      },
+      "queue": {
+        "p50_seconds": 171.649,
+        "p90_seconds": 847.076
+      },
+      "sample_size": 1176,
+      "save": {
+        "p50_seconds": 0.001,
+        "p90_seconds": 0.001
+      },
+      "throttle": {
+        "p50_seconds": 0.747,
+        "p90_seconds": 0.748
+      },
+      "total": {
+        "p50_seconds": 172.788,
+        "p90_seconds": 848.663
+      }
+    }
+  },
+  "recorded_at": "2026-08-01T08:51:25+00:00",
+  "recovery": {
+    "pending": 103,
+    "pending_by_host": {
+      "aa.com.tr": 1,
+      "aboalhodaalhoms": 1,
+      "alghad.tv": 1,
+      "alyaumtv.net": 4,
+      "anfarabic.com": 19,
+      "enabbaladi.net": 1,
+      "facebook.com": 8,
+      "fdd.org": 1,
+      "npasyria.com": 13,
+      "ronahi.tv": 8,
+      "sana.sy": 5,
+      "sdf-press.com": 1,
+      "syriahr.com": 28,
+      "vdc-nsy.com": 4,
+      "whitehelmets.org": 3,
+      "x.com": 5
+    },
+    "pending_by_status": {
+      "blocked": 19,
+      "login_required": 2,
+      "not_found": 13,
+      "successful": 2,
+      "timed_out": 63,
+      "unavailable": 4
+    },
+    "resolved": 0
+  },
+  "scope": {
+    "count": 100,
+    "first_sequence": 151,
+    "last_sequence": 250
+  },
+  "sources": {
+    "cache_hits": 0,
+    "deferred_recovery": 103,
+    "mean_task_seconds": 308.661,
+    "policy_completed": 0,
+    "status_counts": {
+      "blocked": 19,
+      "login_required": 2,
+      "not_found": 13,
+      "successful": 1075,
+      "timed_out": 63,
+      "unavailable": 4
+    },
+    "text_coverage_percent": 91.2,
+    "texts_preserved": 1073,
+    "unique": 1176,
+    "wall_seconds": 1219.353
+  },
+  "stages": {
+    "incidents": {
+      "completed": 100,
+      "done": true,
+      "processed": 100,
+      "reclassified_circuit_records": 0,
+      "recorded_at": "2026-08-01T08:31:05+00:00",
+      "stage": "incidents",
+      "total": 100
+    },
+    "manifest": {
+      "done": true,
+      "recorded_at": "2026-08-01T08:30:09+00:00",
+      "stage": "manifest",
+      "total": 100
+    },
+    "sources": {
+      "completed": 1176,
+      "done": true,
+      "duplicate_records_updated": 409,
+      "exact_content_duplicate_groups": 32,
+      "processed": 176,
+      "recorded_at": "2026-08-01T08:51:24+00:00",
+      "recovery": {
+        "pending": 103,
+        "pending_by_host": {
+          "aa.com.tr": 1,
+          "aboalhodaalhoms": 1,
+          "alghad.tv": 1,
+          "alyaumtv.net": 4,
+          "anfarabic.com": 19,
+          "enabbaladi.net": 1,
+          "facebook.com": 8,
+          "fdd.org": 1,
+          "npasyria.com": 13,
+          "ronahi.tv": 8,
+          "sana.sy": 5,
+          "sdf-press.com": 1,
+          "syriahr.com": 28,
+          "vdc-nsy.com": 4,
+          "whitehelmets.org": 3,
+          "x.com": 5
+        },
+        "pending_by_status": {
+          "blocked": 19,
+          "login_required": 2,
+          "not_found": 13,
+          "successful": 2,
+          "timed_out": 63,
+          "unavailable": 4
+        },
+        "resolved": 0
+      },
+      "stage": "sources",
+      "total": 1176
+    }
+  },
+  "status": "completed_with_deferred_recovery"
+}

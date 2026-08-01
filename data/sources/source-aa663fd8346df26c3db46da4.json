@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/0yOwW"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.681,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:45:12+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 938219,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "e0099b5f1a0b76676ba6226ba4b6c2bfd836e494351c8224d8f23aea83512fdf",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.681,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/SyriaCivilDefense/videos/1097223875183024/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:45:12+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=1097223875183024",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "SCD",
+  "captions": [],
+  "content_hash": "1742dcee6119241768aeaa0ff26c78a8381d0cd3d4674a7c1a01a7fbe7964be5",
+  "content_variants": [
+    {
+      "bytes": 474,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:45:12+00:00",
+      "sha256": "1742dcee6119241768aeaa0ff26c78a8381d0cd3d4674a7c1a01a7fbe7964be5",
+      "source_url": "https://www.facebook.com/SyriaCivilDefense/videos/1097223875183024/",
+      "text": "استجابة فرقنا بنقل المصابين إلى المشافي جراء المجزرة التي ارتكبتها طائرات نظام الأسد الحربية باستهداف المشفى الجامعي في مدينة #حلب، اليوم الأحد 1 كانون الأول، وراح ضحيتها في حصيلة أولية 12 وأصيب 23 آخرون.\n#الخوذ_البيضاء #الأسد_يقتل_السوريين | الدفاع المدني السوري"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/SyriaCivilDefense/videos/1097223875183024/",
+  "incident_ids": [
+    "airwars-138419"
+  ],
+  "incident_sequences": [
+    197
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=1097223875183024",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=1097223875183024"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=1097223875183024",
+  "page_title": "استجابة فرقنا بنقل المصابين إلى المشافي جراء المجزرة التي ارتكبتها طائرات نظام الأسد الحربية باستهداف المشفى الجامعي في مدينة #حلب، اليوم الأحد 1 كانون الأول، وراح ضحيتها في حصيلة أولية 12 وأصيب 23 آخرون.\n#الخوذ_البيضاء #الأسد_يقتل_السوريين | الدفاع المدني السوري",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4940-december-1-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138419",
+      "incident_sequence": 197,
+      "observed_original_url": "https://www.facebook.com/watch/?v=1097223875183024",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "SCD",
+  "publisher_ar": "SCD",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:45:12+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-aa663fd8346df26c3db46da4",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=1097223875183024",
+  "text_ar": "",
+  "text_original": "استجابة فرقنا بنقل المصابين إلى المشافي جراء المجزرة التي ارتكبتها طائرات نظام الأسد الحربية باستهداف المشفى الجامعي في مدينة #حلب، اليوم الأحد 1 كانون الأول، وراح ضحيتها في حصيلة أولية 12 وأصيب 23 آخرون.\n#الخوذ_البيضاء #الأسد_يقتل_السوريين | الدفاع المدني السوري",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003701
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

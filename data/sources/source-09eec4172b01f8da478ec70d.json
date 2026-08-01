@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/4dw20"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.305,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:23+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 79903,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "bf74e650b541c6b7ee3f1311e0a027b29ca0382e44e055f0d0b18ab5584c2e28",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.305,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/SyriaCivilDefe/status/1861436473053941866",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:23+00:00",
+      "status": 200,
+      "url": "https://x.com/SyriaCivilDefe/status/1861436473053941866",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/SyriaCivilDefe",
+  "captions": [],
+  "content_hash": "df8c2366757154cfebc7f42506d0f02bdfa8b4b8408d2a38940ae9480ca1a5e2",
+  "content_variants": [
+    {
+      "bytes": 497,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:23+00:00",
+      "sha256": "df8c2366757154cfebc7f42506d0f02bdfa8b4b8408d2a38940ae9480ca1a5e2",
+      "source_url": "https://x.com/SyriaCivilDefe/status/1861436473053941866",
+      "text": "Post\n\nPost\n\nالدفاع المدني السوري@SyriaCivilDefe🔴 عاجل: مقتل 3 أطفال، وإصابة 14 مدنياً أغلبهم من الأطفال بجروح، في حصيلة غير نهائية لاستهداف قوات النظام بالمدفعية معهداً للعلوم الشرعية والعربية في مدينة أريحا جنوبي #إدلب، اليوم الثلاثاء 26 تشرين الثاني\n#الخوذ_البيضاء3:46 PM · Nov 26, 20241.4KViews416"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyriaCivilDefe/status/1861436473053941866",
+  "incident_ids": [
+    "airwars-130977"
+  ],
+  "incident_sequences": [
+    221
+  ],
+  "normalized_url": "https://x.com/SyriaCivilDefe/status/1861436473053941866",
+  "observed_original_urls": [
+    "https://x.com/SyriaCivilDefe/status/1861436473053941866"
+  ],
+  "original_url": "https://x.com/SyriaCivilDefe/status/1861436473053941866",
+  "page_title": "الدفاع المدني السوري on X: \"🔴 عاجل: مقتل 3 أطفال، وإصابة 14 مدنياً أغلبهم من الأطفال بجروح، في حصيلة غير نهائية لاستهداف قوات النظام بالمدفعية معهداً للعلوم الشرعية والعربية في مدينة أريحا جنوبي #إدلب، اليوم الثلاثاء 26 تشرين الثاني\n#الخوذ_البيضاء\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4919-november-26-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-130977",
+      "incident_sequence": 221,
+      "observed_original_url": "https://x.com/SyriaCivilDefe/status/1861436473053941866",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-26T15:46:53.000Z",
+  "publisher": "'@SyriaCivilDefe",
+  "publisher_ar": "'@SyriaCivilDefe",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:23+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-09eec4172b01f8da478ec70d",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyriaCivilDefe/status/1861436473053941866",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالدفاع المدني السوري@SyriaCivilDefe🔴 عاجل: مقتل 3 أطفال، وإصابة 14 مدنياً أغلبهم من الأطفال بجروح، في حصيلة غير نهائية لاستهداف قوات النظام بالمدفعية معهداً للعلوم الشرعية والعربية في مدينة أريحا جنوبي #إدلب، اليوم الثلاثاء 26 تشرين الثاني\n#الخوذ_البيضاء3:46 PM · Nov 26, 20241.4KViews416",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002029
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

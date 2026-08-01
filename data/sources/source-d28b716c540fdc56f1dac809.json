@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/IOeHc"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.379,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:48:23+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 999340,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "5c4d6f86acba1e7d1d310da6b641a5fa9093200850f792f3a385354aa867db62",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.379,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/SyriaCivilDefense/videos/593026460050101/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:48:23+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=593026460050101",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "Al deffa",
+  "captions": [],
+  "content_hash": "f7125683f994337275a8e3e96e29e8719587b13aba136722b5858ef96afa51f6",
+  "content_variants": [
+    {
+      "bytes": 389,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:48:23+00:00",
+      "sha256": "f7125683f994337275a8e3e96e29e8719587b13aba136722b5858ef96afa51f6",
+      "source_url": "https://www.facebook.com/SyriaCivilDefense/videos/593026460050101/",
+      "text": "مسنون وأطفال ونساء، مصابون بالقصف الجوي والمدفعي لقوات النظام وروسيا على مدينة سرمين شرقي #إدلب، في تصعيد عنيف اليوم الخميس 28 تشرين الثاني.\n#العدوان_الروسي #الأسد_قاتل_السوريين #الخوذ_البيضاء | الدفاع المدني السوري"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/SyriaCivilDefense/videos/593026460050101/",
+  "incident_ids": [
+    "airwars-132403"
+  ],
+  "incident_sequences": [
+    214
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=593026460050101",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=593026460050101"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=593026460050101",
+  "page_title": "مسنون وأطفال ونساء، مصابون بالقصف الجوي والمدفعي لقوات النظام وروسيا على مدينة سرمين شرقي #إدلب، في تصعيد عنيف اليوم الخميس 28 تشرين الثاني.\n#العدوان_الروسي #الأسد_قاتل_السوريين #الخوذ_البيضاء | الدفاع المدني السوري",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4924-november-28-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132403",
+      "incident_sequence": 214,
+      "observed_original_url": "https://www.facebook.com/watch/?v=593026460050101",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Al deffa",
+  "publisher_ar": "Al deffa",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:48:23+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-d28b716c540fdc56f1dac809",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=593026460050101",
+  "text_ar": "",
+  "text_original": "مسنون وأطفال ونساء، مصابون بالقصف الجوي والمدفعي لقوات النظام وروسيا على مدينة سرمين شرقي #إدلب، في تصعيد عنيف اليوم الخميس 28 تشرين الثاني.\n#العدوان_الروسي #الأسد_قاتل_السوريين #الخوذ_البيضاء | الدفاع المدني السوري",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003994
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

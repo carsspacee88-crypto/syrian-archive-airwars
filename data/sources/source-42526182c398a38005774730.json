@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/CiRSr"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.215,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:32:48+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 83364,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "c0783432db004c0efb35e00902bbe161b18972d750d584f2b617fb86f57e1593",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.215,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/SyriaCivilDefe/status/1861718616493678696",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:32:48+00:00",
+      "status": 200,
+      "url": "https://x.com/SyriaCivilDefe/status/1861718616493678696",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/SyriaCivilDefe",
+  "captions": [],
+  "content_hash": "2324af7cc07928d6523546091a0657ec232497664bca7d869d811ab094274cb9",
+  "content_variants": [
+    {
+      "bytes": 494,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:32:48+00:00",
+      "sha256": "2324af7cc07928d6523546091a0657ec232497664bca7d869d811ab094274cb9",
+      "source_url": "https://x.com/SyriaCivilDefe/status/1861718616493678696",
+      "text": "Post\n\nPost\n\nالدفاع المدني السوري@SyriaCivilDefeإصابة امرأتين تعملان بجني الزيتون بجروح، إثر قصف مدفعي لقوات النظام استهدف بالقرب من معصرة زيتون في مدينة سرمين شرقي #إدلب، اليوم الأربعاء 27 تشرين الثاني، فرقنا تفقدت المكان وتأكدت من عدم مصابين آخرين.\n#الخوذ_البيضاء10:28 AM · Nov 27, 2024845Views212"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyriaCivilDefe/status/1861718616493678696",
+  "incident_ids": [
+    "airwars-132361"
+  ],
+  "incident_sequences": [
+    217
+  ],
+  "normalized_url": "https://x.com/SyriaCivilDefe/status/1861718616493678696",
+  "observed_original_urls": [
+    "https://x.com/SyriaCivilDefe/status/1861718616493678696"
+  ],
+  "original_url": "https://x.com/SyriaCivilDefe/status/1861718616493678696",
+  "page_title": "الدفاع المدني السوري on X: \"إصابة امرأتين تعملان بجني الزيتون بجروح، إثر قصف مدفعي لقوات النظام استهدف بالقرب من معصرة زيتون في مدينة سرمين شرقي #إدلب، اليوم الأربعاء 27 تشرين الثاني، فرقنا تفقدت المكان وتأكدت من عدم مصابين آخرين.\n#الخوذ_البيضاء https://t.co/lsGIQDpTO2\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4922-november-27-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132361",
+      "incident_sequence": 217,
+      "observed_original_url": "https://x.com/SyriaCivilDefe/status/1861718616493678696",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-27T10:28:01.000Z",
+  "publisher": "'@SyriaCivilDefe",
+  "publisher_ar": "'@SyriaCivilDefe",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:32:48+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-42526182c398a38005774730",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyriaCivilDefe/status/1861718616493678696",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالدفاع المدني السوري@SyriaCivilDefeإصابة امرأتين تعملان بجني الزيتون بجروح، إثر قصف مدفعي لقوات النظام استهدف بالقرب من معصرة زيتون في مدينة سرمين شرقي #إدلب، اليوم الأربعاء 27 تشرين الثاني، فرقنا تفقدت المكان وتأكدت من عدم مصابين آخرين.\n#الخوذ_البيضاء10:28 AM · Nov 27, 2024845Views212",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001734
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

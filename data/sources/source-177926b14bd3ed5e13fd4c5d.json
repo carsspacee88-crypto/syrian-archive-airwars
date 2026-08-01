@@ -1,0 +1,102 @@
+{
+  "airwars_source_ids": [
+    "298061"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2024-12-22-195113/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.035,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-08-01T08:31:07+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 6949,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "2210c21d2f92b996c7eb2df465121e8e9d6bd11a39248c0dff3a4fe9c69184ed",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.035,
+      "error": "http_403",
+      "etag": "",
+      "final_url": "https://www.syriahr.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-7-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D9%88/741921/?fbclid=IwY2xjawHV_A9leHRuA2FlbQIxMQABHRECL81NXSDHCI2QhfD902uBUkzHTc5CpXNt8X6C8Mmt_zqzM1Z",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:07+00:00",
+      "status": 403,
+      "url": "https://www.syriahr.com/استشهاد-وإصابة-7-مدنيين-بانفجار-ألغام-و/741921/?fbclid=IwY2xjawHV_A9leHRuA2FlbQIxMQABHRECL81NXSDHCI2QhfD902uBUkzHTc5CpXNt8X6C8Mmt_zqzM1Z",
+      "waiting_seconds": 0.75
+    }
+  ],
+  "author": "المرصد السوري",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_403",
+  "final_redirected_url": "https://www.syriahr.com/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-7-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D9%88/741921/?fbclid=IwY2xjawHV_A9leHRuA2FlbQIxMQABHRECL81NXSDHCI2QhfD902uBUkzHTc5CpXNt8X6C8Mmt_zqzM1Z",
+  "incident_ids": [
+    "airwars-226273"
+  ],
+  "incident_sequences": [
+    154
+  ],
+  "normalized_url": "https://www.syriahr.com/استشهاد-وإصابة-7-مدنيين-بانفجار-ألغام-و/741921/?fbclid=IwY2xjawHV_A9leHRuA2FlbQIxMQABHRECL81NXSDHCI2QhfD902uBUkzHTc5CpXNt8X6C8Mmt_zqzM1Z",
+  "observed_original_urls": [
+    "https://www.syriahr.com/استشهاد-وإصابة-7-مدنيين-بانفجار-ألغام-و/741921/?fbclid=IwY2xjawHV_A9leHRuA2FlbQIxMQABHRECL81NXSDHCI2QhfD902uBUkzHTc5CpXNt8X6C8Mmt_zqzM1Z"
+  ],
+  "original_url": "https://www.syriahr.com/استشهاد-وإصابة-7-مدنيين-بانفجار-ألغام-و/741921/?fbclid=IwY2xjawHV_A9leHRuA2FlbQIxMQABHRECL81NXSDHCI2QhfD902uBUkzHTc5CpXNt8X6C8Mmt_zqzM1Z",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts759-december-22-2024/",
+      "airwars_source_id": "298061",
+      "incident_id": "airwars-226273",
+      "incident_sequence": 154,
+      "observed_original_url": "https://www.syriahr.com/استشهاد-وإصابة-7-مدنيين-بانفجار-ألغام-و/741921/?fbclid=IwY2xjawHV_A9leHRuA2FlbQIxMQABHRECL81NXSDHCI2QhfD902uBUkzHTc5CpXNt8X6C8Mmt_zqzM1Z",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "22 ديسمبر 2024",
+  "publisher": "Syrian Observatory",
+  "publisher_ar": "المرصد السوري",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:31:07+00:00",
+    "reason": "http_403",
+    "status": "deferred"
+  },
+  "retrieval_status": "blocked",
+  "retrieved_at": "2026-08-01T08:31:07+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-177926b14bd3ed5e13fd4c5d",
+  "source_type": "ngo_report",
+  "stable_id_basis": "https://www.syriahr.com/استشهاد-وإصابة-7-مدنيين-بانفجار-ألغام-و/741921/?fbclid=IwY2xjawHV_A9leHRuA2FlbQIxMQABHRECL81NXSDHCI2QhfD902uBUkzHTc5CpXNt8X6C8Mmt_zqzM1Z",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,108 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/JGz4b"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.422,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:41:16+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 901007,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "0eea34eab53504e07ea1442258766759a87111dccd2e37141f8286f40c0fa641",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.422,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/reel/932101998389018",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:41:16+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/reel/932101998389018",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "Al hadath",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:41:16+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/reel/932101998389018",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "exact_content_duplicate_group": "sha256-d41f5b4977ee05c6b61b3b5f",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/reel/932101998389018",
+  "incident_ids": [
+    "airwars-190684"
+  ],
+  "incident_sequences": [
+    166
+  ],
+  "normalized_url": "https://www.facebook.com/reel/932101998389018",
+  "observed_original_urls": [
+    "https://www.facebook.com/reel/932101998389018"
+  ],
+  "original_url": "https://www.facebook.com/reel/932101998389018",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4965-december-7-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-190684",
+      "incident_sequence": 166,
+      "observed_original_url": "https://www.facebook.com/reel/932101998389018",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Al hadath",
+  "publisher_ar": "Al hadath",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:41:16+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-7ace721d6597d52486eaff11",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/reel/932101998389018",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00273
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/JiwI4"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.25,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:47:52+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 766317,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "00d2e0ce9951109cc4f0a614f34ddfe19b8b3b0afc2aeebd935cc5e095b57f1c",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.25,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/AlArabiya/posts/pfbid02XnpvfE9sG7gBc7Wym9HCmjeej2Qa1caZoZgm8Jd2WZek6Z1jAdYujrxPyZL6XAtal",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:47:52+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/AlArabiya/posts/pfbid02XnpvfE9sG7gBc7Wym9HCmjeej2Qa1caZoZgm8Jd2WZek6Z1jAdYujrxPyZL6XAtal",
+      "waiting_seconds": 0.745
+    }
+  ],
+  "author": "Al Arabiya",
+  "captions": [],
+  "content_hash": "4594b1b7a2bd9782caa88cf9c8b285fbe67190005a67ea9a58eea54dbd06f58b",
+  "content_variants": [
+    {
+      "bytes": 96,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:47:52+00:00",
+      "sha256": "4594b1b7a2bd9782caa88cf9c8b285fbe67190005a67ea9a58eea54dbd06f58b",
+      "source_url": "https://www.facebook.com/AlArabiya/posts/pfbid02XnpvfE9sG7gBc7Wym9HCmjeej2Qa1caZoZgm8Jd2WZek6Z1jAdYujrxPyZL6XAtal",
+      "text": "🔴 بثت مواقع التواصل الاجتماعي... - قناة العربية Al Arabiya"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/AlArabiya/posts/pfbid02XnpvfE9sG7gBc7Wym9HCmjeej2Qa1caZoZgm8Jd2WZek6Z1jAdYujrxPyZL6XAtal",
+  "incident_ids": [
+    "airwars-125455"
+  ],
+  "incident_sequences": [
+    233
+  ],
+  "normalized_url": "https://www.facebook.com/AlArabiya/posts/pfbid02XnpvfE9sG7gBc7Wym9HCmjeej2Qa1caZoZgm8Jd2WZek6Z1jAdYujrxPyZL6XAtal",
+  "observed_original_urls": [
+    "https://www.facebook.com/AlArabiya/posts/pfbid02XnpvfE9sG7gBc7Wym9HCmjeej2Qa1caZoZgm8Jd2WZek6Z1jAdYujrxPyZL6XAtal"
+  ],
+  "original_url": "https://www.facebook.com/AlArabiya/posts/pfbid02XnpvfE9sG7gBc7Wym9HCmjeej2Qa1caZoZgm8Jd2WZek6Z1jAdYujrxPyZL6XAtal",
+  "page_title": "🔴 بثت مواقع التواصل الاجتماعي... - قناة العربية Al Arabiya",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy059-november-10-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125455",
+      "incident_sequence": 233,
+      "observed_original_url": "https://www.facebook.com/AlArabiya/posts/pfbid02XnpvfE9sG7gBc7Wym9HCmjeej2Qa1caZoZgm8Jd2WZek6Z1jAdYujrxPyZL6XAtal",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Al Arabiya",
+  "publisher_ar": "Al Arabiya",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:47:52+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-cc3ad1ee2f658563ceccf2e7",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/AlArabiya/posts/pfbid02XnpvfE9sG7gBc7Wym9HCmjeej2Qa1caZoZgm8Jd2WZek6Z1jAdYujrxPyZL6XAtal",
+  "text_ar": "",
+  "text_original": "🔴 بثت مواقع التواصل الاجتماعي... - قناة العربية Al Arabiya",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.005248
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

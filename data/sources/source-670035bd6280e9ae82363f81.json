@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/P3kWx"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.231,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:33:21+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 84979,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "2aaa987f1c8f69c7cfb4a225b8145f14a393aa0eb11dadad759504dac4ea6651",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.231,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/shimry1000/status/1862115366719430659",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:33:21+00:00",
+      "status": 200,
+      "url": "https://x.com/shimry1000/status/1862115366719430659",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/shimry1000",
+  "captions": [],
+  "content_hash": "e5e03f34ebc054e6168505142aa47275ba56bc02a95be804e7d822f0cf3921de",
+  "content_variants": [
+    {
+      "bytes": 216,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:33:21+00:00",
+      "sha256": "e5e03f34ebc054e6168505142aa47275ba56bc02a95be804e7d822f0cf3921de",
+      "source_url": "https://x.com/shimry1000/status/1862115366719430659",
+      "text": "Post\n\nPost\n\nSaad Alshammari@shimry1000غارات روسية على الاتارب و قصف السوريين بأمر من المجرم بوتن00:0012:44 PM · Nov 28, 20246.5KViews71441Only some accounts can reply."
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/shimry1000/status/1862115366719430659",
+  "incident_ids": [
+    "airwars-132432"
+  ],
+  "incident_sequences": [
+    212
+  ],
+  "normalized_url": "https://x.com/shimry1000/status/1862115366719430659",
+  "observed_original_urls": [
+    "https://x.com/shimry1000/status/1862115366719430659"
+  ],
+  "original_url": "https://x.com/shimry1000/status/1862115366719430659",
+  "page_title": "Saad Alshammari on X: \"غارات روسية على الاتارب و قصف السوريين بأمر من المجرم بوتن https://t.co/i5GE2Cvq4o\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4927-november-28-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132432",
+      "incident_sequence": 212,
+      "observed_original_url": "https://x.com/shimry1000/status/1862115366719430659",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-28T12:44:34.000Z",
+  "publisher": "'@shimry1000",
+  "publisher_ar": "'@shimry1000",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:33:21+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-670035bd6280e9ae82363f81",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/shimry1000/status/1862115366719430659",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nSaad Alshammari@shimry1000غارات روسية على الاتارب و قصف السوريين بأمر من المجرم بوتن00:0012:44 PM · Nov 28, 20246.5KViews71441Only some accounts can reply.",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001819
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

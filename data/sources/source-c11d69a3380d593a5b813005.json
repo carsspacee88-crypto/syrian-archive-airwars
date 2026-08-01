@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/226UG"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.576,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:34:55+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 112889,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "8136e5566a9824fad07cd4a099fe09bc149ad570ec693faf216d9c069abc2569",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.576,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/RoaaWarStudies/status/1865001914024300899",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:34:55+00:00",
+      "status": 200,
+      "url": "https://x.com/Roaastudies/status/1865001914024300899",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/RoaaWarStudies",
+  "captions": [],
+  "content_hash": "5f884b10e679d21d6fb921de6d99d86839a45a44bb35148f8325f7004515107b",
+  "content_variants": [
+    {
+      "bytes": 332,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:34:55+00:00",
+      "sha256": "5f884b10e679d21d6fb921de6d99d86839a45a44bb35148f8325f7004515107b",
+      "source_url": "https://x.com/RoaaWarStudies/status/1865001914024300899",
+      "text": "Post\n\nPost\n\nرؤى لدراسات الحرب@RoaaWarStudiesغارة جوية على بلدة تيرمعلة في ريف حمص الشمالي\n\nالنظام المجرم يقصف المدن بمجرد خروجه منها.00:0011:54 AM · Dec 6, 202426.7KViews5122046\n\nenadalkusa@enadalkusa23808Dec 6, 2024قريتي الحبيبه264"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/RoaaWarStudies/status/1865001914024300899",
+  "incident_ids": [
+    "airwars-190665"
+  ],
+  "incident_sequences": [
+    170
+  ],
+  "normalized_url": "https://x.com/Roaastudies/status/1865001914024300899",
+  "observed_original_urls": [
+    "https://x.com/Roaastudies/status/1865001914024300899"
+  ],
+  "original_url": "https://x.com/Roaastudies/status/1865001914024300899",
+  "page_title": "رؤى لدراسات الحرب on X: \"غارة جوية على بلدة تيرمعلة في ريف حمص الشمالي\n\nالنظام المجرم يقصف المدن بمجرد خروجه منها. https://t.co/chZKNN85SL\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4959-december-6-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-190665",
+      "incident_sequence": 170,
+      "observed_original_url": "https://x.com/Roaastudies/status/1865001914024300899",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-06T11:54:41.000Z",
+  "publisher": "'@Roaastudies",
+  "publisher_ar": "'@Roaastudies",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:34:55+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c11d69a3380d593a5b813005",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Roaastudies/status/1865001914024300899",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nرؤى لدراسات الحرب@RoaaWarStudiesغارة جوية على بلدة تيرمعلة في ريف حمص الشمالي\n\nالنظام المجرم يقصف المدن بمجرد خروجه منها.00:0011:54 AM · Dec 6, 202426.7KViews5122046\n\nenadalkusa@enadalkusa23808Dec 6, 2024قريتي الحبيبه264",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002177
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

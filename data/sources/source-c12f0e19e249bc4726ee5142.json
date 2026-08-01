@@ -1,0 +1,100 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/yzNLY"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.04,
+          "error": "ConnectError: [Errno -3] Temporary failure in name resolution",
+          "result": "network_error",
+          "retrieved_at": "2026-08-01T08:31:05+00:00",
+          "status": null
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.04,
+      "error": "ConnectError: [Errno -3] Temporary failure in name resolution",
+      "etag": "",
+      "final_url": "http://aboalhodaalhoms",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:05+00:00",
+      "status": null,
+      "url": "http://aboalhodaalhoms",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "'@aboalhodaalhoms",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "ConnectError: [Errno -3] Temporary failure in name resolution",
+  "final_redirected_url": "http://aboalhodaalhoms",
+  "incident_ids": [
+    "airwars-131062"
+  ],
+  "incident_sequences": [
+    224
+  ],
+  "normalized_url": "http://aboalhodaalhoms/",
+  "observed_original_urls": [
+    "http://aboalhodaalhoms"
+  ],
+  "original_url": "http://aboalhodaalhoms",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4918-november-23-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-131062",
+      "incident_sequence": 224,
+      "observed_original_url": "http://aboalhodaalhoms",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "'@aboalhodaalhoms",
+  "publisher_ar": "'@aboalhodaalhoms",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:31:05+00:00",
+    "reason": "ConnectError: [Errno -3] Temporary failure in name resolution",
+    "status": "deferred"
+  },
+  "retrieval_status": "unavailable",
+  "retrieved_at": "2026-08-01T08:31:05+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c12f0e19e249bc4726ee5142",
+  "source_type": "other_web_page",
+  "stable_id_basis": "http://aboalhodaalhoms/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

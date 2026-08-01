@@ -1,0 +1,102 @@
+{
+  "airwars_source_ids": [
+    "297710"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/alyaumtv-net-alyaum-2024-12-04-125946/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.193,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-08-01T08:31:06+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 6405,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "e0df32166e25108e8019f13533e04d49bbe19e8de914ff1a4a6fc404548d8e8b",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.193,
+      "error": "http_403",
+      "etag": "",
+      "final_url": "https://alyaumtv.net/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A%D8%A9-%D8%AF%D9%8A%D8%B1%D9%8A%D9%83-%D8%B4%D9%85%D8%A7/",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:06+00:00",
+      "status": 403,
+      "url": "https://alyaumtv.net/دوي-انفجار-في-مدينة-المالكية-ديريك-شما/",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "alyaum",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_403",
+  "final_redirected_url": "https://alyaumtv.net/%D8%AF%D9%88%D9%8A-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A%D8%A9-%D8%AF%D9%8A%D8%B1%D9%8A%D9%83-%D8%B4%D9%85%D8%A7/",
+  "incident_ids": [
+    "airwars-226257"
+  ],
+  "incident_sequences": [
+    180
+  ],
+  "normalized_url": "https://alyaumtv.net/دوي-انفجار-في-مدينة-المالكية-ديريك-شما/",
+  "observed_original_urls": [
+    "https://alyaumtv.net/دوي-انفجار-في-مدينة-المالكية-ديريك-شما/"
+  ],
+  "original_url": "https://alyaumtv.net/دوي-انفجار-في-مدينة-المالكية-ديريك-شما/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts745-december-4-2024/",
+      "airwars_source_id": "297710",
+      "incident_id": "airwars-226257",
+      "incident_sequence": 180,
+      "observed_original_url": "https://alyaumtv.net/دوي-انفجار-في-مدينة-المالكية-ديريك-شما/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "4 ديسمبر 2024",
+  "publisher": "alyaum",
+  "publisher_ar": "alyaum",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:31:06+00:00",
+    "reason": "http_403",
+    "status": "deferred"
+  },
+  "retrieval_status": "blocked",
+  "retrieved_at": "2026-08-01T08:31:06+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-1752bb5ddefe6252e4ddd537",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://alyaumtv.net/دوي-انفجار-في-مدينة-المالكية-ديريك-شما/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

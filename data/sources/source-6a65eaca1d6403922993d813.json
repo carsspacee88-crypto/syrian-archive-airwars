@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "298010"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/arabic-anf-news-com-12/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.148,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:10+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 34477,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "01b17f30075cd7e076e985c87558278e54a5c1cde6e53fada68a35c3ab86732b",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.148,
+      "error": null,
+      "etag": "",
+      "final_url": "https://arabic.anf-news.com/akhr-l-khbr/astshhad-3-mwatnyn-wasabt-5-akhryn-jra-asthdaf-msyrt-trkyt-lsyartyn-113377",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:10+00:00",
+      "status": 200,
+      "url": "https://arabic.anf-news.com/akhr-l-khbr/astshhad-3-mwatnyn-wasabt-5-akhryn-jra-asthdaf-msyrt-trkyt-lsyartyn-113377",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": "d9ba4a1aefe455bbe1b1fbb08a90ac38e357b873660722652d4715b9ba0a9c79",
+  "content_variants": [
+    {
+      "bytes": 603,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:10+00:00",
+      "sha256": "d9ba4a1aefe455bbe1b1fbb08a90ac38e357b873660722652d4715b9ba0a9c79",
+      "source_url": "https://arabic.anf-news.com/akhr-l-khbr/astshhad-3-mwatnyn-wasabt-5-akhryn-jra-asthdaf-msyrt-trkyt-lsyartyn-113377",
+      "text": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالسبت, ٢١ ديسمبر ٢٠٢٤, ١٤:٣١\n\nاستهدف الاحتلال التركي، صباح اليوم، عبر الطيران المسيّر، سيارتين على الطريق الذي يربط بين مدينة الحسكة وتل براك في مقاطعة الجزيرة. أسفر هذا الهجوم عن استشهاد ثلاثة مواطنين وإصابة خمسة آخرين.\n\nومن المتوقع أن تصدر قوى الأمن الداخلي بياناً رسمياً حول تفاصيل هذا الاستهداف."
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://arabic.anf-news.com/akhr-l-khbr/astshhad-3-mwatnyn-wasabt-5-akhryn-jra-asthdaf-msyrt-trkyt-lsyartyn-113377",
+  "incident_ids": [
+    "airwars-233508"
+  ],
+  "incident_sequences": [
+    155
+  ],
+  "normalized_url": "https://arabic.anf-news.com/akhr-l-khbr/astshhad-3-mwatnyn-wasabt-5-akhryn-jra-asthdaf-msyrt-trkyt-lsyartyn-113377",
+  "observed_original_urls": [
+    "https://arabic.anf-news.com/akhr-l-khbr/astshhad-3-mwatnyn-wasabt-5-akhryn-jra-asthdaf-msyrt-trkyt-lsyartyn-113377"
+  ],
+  "original_url": "https://arabic.anf-news.com/akhr-l-khbr/astshhad-3-mwatnyn-wasabt-5-akhryn-jra-asthdaf-msyrt-trkyt-lsyartyn-113377",
+  "page_title": "ANF |\nاستشهاد 3 مواطنين وإصابة 5 آخرين جراء استهداف مسيّرة تركية لسيارتين",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts758-december-21-2024/",
+      "airwars_source_id": "298010",
+      "incident_id": "airwars-233508",
+      "incident_sequence": 155,
+      "observed_original_url": "https://arabic.anf-news.com/akhr-l-khbr/astshhad-3-mwatnyn-wasabt-5-akhryn-jra-asthdaf-msyrt-trkyt-lsyartyn-113377",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "anf-news.com",
+  "publisher_ar": "anf-news.com",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:10+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-6a65eaca1d6403922993d813",
+  "source_type": "news_article",
+  "stable_id_basis": "https://arabic.anf-news.com/akhr-l-khbr/astshhad-3-mwatnyn-wasabt-5-akhryn-jra-asthdaf-msyrt-trkyt-lsyartyn-113377",
+  "text_ar": "",
+  "text_original": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالسبت, ٢١ ديسمبر ٢٠٢٤, ١٤:٣١\n\nاستهدف الاحتلال التركي، صباح اليوم، عبر الطيران المسيّر، سيارتين على الطريق الذي يربط بين مدينة الحسكة وتل براك في مقاطعة الجزيرة. أسفر هذا الهجوم عن استشهاد ثلاثة مواطنين وإصابة خمسة آخرين.\n\nومن المتوقع أن تصدر قوى الأمن الداخلي بياناً رسمياً حول تفاصيل هذا الاستهداف.",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001285
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

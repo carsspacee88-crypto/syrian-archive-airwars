@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297800"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/rojnews-news-awaz-rojnews-2024-12-09-071749/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.599,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:21+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 209861,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "d8bce5e176ac51620b054a23a400085975e1ebf4dfbe2af782ca24c999731f0d",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.599,
+      "error": null,
+      "etag": "",
+      "final_url": "https://rojnews.news/ar/?p=205495",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:21+00:00",
+      "status": 200,
+      "url": "https://rojnews.news/ar/?p=205495",
+      "waiting_seconds": 0.746
+    }
+  ],
+  "author": "https://www.facebook.com/RojnewsAr/ ROJNEWS",
+  "captions": [],
+  "content_hash": "ac7de10a212ced6ad5b538f1c678785d061792fd13043d94b31690ab444358b7",
+  "content_variants": [
+    {
+      "bytes": 1420,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:21+00:00",
+      "sha256": "ac7de10a212ced6ad5b538f1c678785d061792fd13043d94b31690ab444358b7",
+      "source_url": "https://rojnews.news/ar/?p=205495",
+      "text": "جُلّهم من الأطفال والنساء.. الاحتلال التركي يرتكب مجزرة مروّعة في عين عيسى بإقليم شمال وشرق سوريا\n\nمركز الأخبار\n\nاستشهد 12 مدنياً جُلّهم من الأطفال والنساء، في قرية المستريحة التابعة لمدينة عين عيسى، إثر هجوم شنته مسيّرة تابعة لجيش الاحتلال التركي.\n\nاستهدف جيش الاحتلال التركي في تمام الساعة الـ 11.00، مساء أمس، قرية المستريحة غرب مدينة عين عيسى. وأدى بحسب المعلومات الأولية، إلى استشهاد 12 مدنياً، جُلّهم من الأطفال والنساء.\n\nوتظهر في المشاهد التي حصلت عليها وكالتنا فظاعة المجزرة التي ارتكبها جيش الاحتلال التركي.\n\nالجيش الكويتي: نتصدى لهجوم بطائرات مسيّرة\n\nحرب إيران.. المنطقة بانتظار “الحملة الأعنف”\n\nإسرائيل تعلن اغتيال 3 من قادة حماس بغارات على غزة\n\nوكالة بريطانية: مقذوف مجهول يصيب ناقلة نفط قبالة سواحل عُمان\n\nتحطم طائرة أف 35 أميركية في كاليفورنيا\n\nإيران: عبور هرمز أصبح غير ممكن"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://rojnews.news/ar/?p=205495",
+  "incident_ids": [
+    "airwars-216122"
+  ],
+  "incident_sequences": [
+    165
+  ],
+  "normalized_url": "https://rojnews.news/ar/?p=205495",
+  "observed_original_urls": [
+    "https://rojnews.news/ar/?p=205495"
+  ],
+  "original_url": "https://rojnews.news/ar/?p=205495",
+  "page_title": "جُلّهم من الأطفال والنساء.. الاحتلال التركي يرتكب مجزرة مروّعة في عين عيسى بإقليم شمال وشرق سوريا - العربية - Rojnews.news",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts748-december-8-2024/",
+      "airwars_source_id": "297800",
+      "incident_id": "airwars-216122",
+      "incident_sequence": 165,
+      "observed_original_url": "https://rojnews.news/ar/?p=205495",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-09T07:17:49+00:00 2024-12-09T10:17:49+03:00 2026-07-31T16:25:58+03:00 2026-07-31T11:49:38+03:00 2026-07-30T13:35:06+03:00 2026-07-30T14:34:37+03:00 2026-07-31T10:08:33+03:00 2026-08-01T11:09:18+03:00 2026-08-01T10:05:47+03:00 2026-08-01T09:43:49+03:00 2026-08-01T09:18:23+03:00 2026-08-01T09:07:41+03:00",
+  "publisher": "Awaz Rojnews",
+  "publisher_ar": "Awaz Rojnews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:21+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-4d2d151505d1a7a8e91a22af",
+  "source_type": "news_article",
+  "stable_id_basis": "https://rojnews.news/ar/?p=205495",
+  "text_ar": "",
+  "text_original": "جُلّهم من الأطفال والنساء.. الاحتلال التركي يرتكب مجزرة مروّعة في عين عيسى بإقليم شمال وشرق سوريا\n\nمركز الأخبار\n\nاستشهد 12 مدنياً جُلّهم من الأطفال والنساء، في قرية المستريحة التابعة لمدينة عين عيسى، إثر هجوم شنته مسيّرة تابعة لجيش الاحتلال التركي.\n\nاستهدف جيش الاحتلال التركي في تمام الساعة الـ 11.00، مساء أمس، قرية المستريحة غرب مدينة عين عيسى. وأدى بحسب المعلومات الأولية، إلى استشهاد 12 مدنياً، جُلّهم من الأطفال والنساء.\n\nوتظهر في المشاهد التي حصلت عليها وكالتنا فظاعة المجزرة التي ارتكبها جيش الاحتلال التركي.\n\nالجيش الكويتي: نتصدى لهجوم بطائرات مسيّرة\n\nحرب إيران.. المنطقة بانتظار “الحملة الأعنف”\n\nإسرائيل تعلن اغتيال 3 من قادة حماس بغارات على غزة\n\nوكالة بريطانية: مقذوف مجهول يصيب ناقلة نفط قبالة سواحل عُمان\n\nتحطم طائرة أف 35 أميركية في كاليفورنيا\n\nإيران: عبور هرمز أصبح غير ممكن",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002823
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

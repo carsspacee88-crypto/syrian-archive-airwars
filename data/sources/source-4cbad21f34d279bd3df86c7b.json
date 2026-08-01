@@ -1,0 +1,97 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/tmjJd"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "anfarabic.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_403",
+      "circuit_open_status": 403,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://anfarabic.com/روج آفا - سوريا/asabt-4-mwatnyn-bynhm-tflt-fy-qsf-llahtlal-altrky-ly-tl-rft-112618",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:07+00:00",
+      "status": null,
+      "url": "https://anfarabic.com/روج آفا - سوريا/asabt-4-mwatnyn-bynhm-tflt-fy-qsf-llahtlal-altrky-ly-tl-rft-112618",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "ANF news",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "host_circuit_open_after_repeated_block_or_timeout",
+  "final_redirected_url": "https://anfarabic.com/روج آفا - سوريا/asabt-4-mwatnyn-bynhm-tflt-fy-qsf-llahtlal-altrky-ly-tl-rft-112618",
+  "incident_ids": [
+    "airwars-164019"
+  ],
+  "incident_sequences": [
+    223
+  ],
+  "normalized_url": "https://anfarabic.com/روج آفا - سوريا/asabt-4-mwatnyn-bynhm-tflt-fy-qsf-llahtlal-altrky-ly-tl-rft-112618",
+  "observed_original_urls": [
+    "https://anfarabic.com/روج آفا - سوريا/asabt-4-mwatnyn-bynhm-tflt-fy-qsf-llahtlal-altrky-ly-tl-rft-112618"
+  ],
+  "original_url": "https://anfarabic.com/روج آفا - سوريا/asabt-4-mwatnyn-bynhm-tflt-fy-qsf-llahtlal-altrky-ly-tl-rft-112618",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts739-november-24-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-164019",
+      "incident_sequence": 223,
+      "observed_original_url": "https://anfarabic.com/روج آفا - سوريا/asabt-4-mwatnyn-bynhm-tflt-fy-qsf-llahtlal-altrky-ly-tl-rft-112618",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "ANF news",
+  "publisher_ar": "ANF news",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:31:07+00:00",
+    "reason": "host_circuit_open_after_repeated_block_or_timeout",
+    "status": "deferred"
+  },
+  "retrieval_status": "timed_out",
+  "retrieved_at": "2026-08-01T08:31:07+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-4cbad21f34d279bd3df86c7b",
+  "source_type": "news_article",
+  "stable_id_basis": "https://anfarabic.com/روج آفا - سوريا/asabt-4-mwatnyn-bynhm-tflt-fy-qsf-llahtlal-altrky-ly-tl-rft-112618",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

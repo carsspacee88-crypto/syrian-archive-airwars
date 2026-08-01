@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/GBEaZ"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.239,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:32:07+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 80303,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "8c8a8824de14b87da86983da1bd35c54bc3405c250170dd132e76588aa28f257",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.239,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/SyriaCivilDefe/status/1862500837110448636",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:32:07+00:00",
+      "status": 200,
+      "url": "https://x.com/SyriaCivilDefe/status/1862500837110448636",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "https://x.com/SyriaCivilDefe",
+  "captions": [],
+  "content_hash": "06dacdbd69a688613616ec9e1365239448816a11fee8f15de4321e7d8b073caa",
+  "content_variants": [
+    {
+      "bytes": 420,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:32:07+00:00",
+      "sha256": "06dacdbd69a688613616ec9e1365239448816a11fee8f15de4321e7d8b073caa",
+      "source_url": "https://x.com/SyriaCivilDefe/status/1862500837110448636",
+      "text": "Post\n\nPost\n\nالدفاع المدني السوري@SyriaCivilDefeإصابة 4 مدنيين بينهم طفل إثر قصف لطائرات حلف النظام وروسيا استهدف قرية سرجة في ريف #إدلب الجنوبي، اليوم الجمعة 29 تشرين الثاني.\n#الأسد_يقتل_السوريين #العدوان_الروسي #الخوذ_البيضاء2:16 PM · Nov 29, 20241.1KViews59"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SyriaCivilDefe/status/1862500837110448636",
+  "incident_ids": [
+    "airwars-132533"
+  ],
+  "incident_sequences": [
+    208
+  ],
+  "normalized_url": "https://x.com/SyriaCivilDefe/status/1862500837110448636",
+  "observed_original_urls": [
+    "https://x.com/SyriaCivilDefe/status/1862500837110448636"
+  ],
+  "original_url": "https://x.com/SyriaCivilDefe/status/1862500837110448636",
+  "page_title": "الدفاع المدني السوري on X: \"إصابة 4 مدنيين بينهم طفل إثر قصف لطائرات حلف النظام وروسيا استهدف قرية سرجة في ريف #إدلب الجنوبي، اليوم الجمعة 29 تشرين الثاني.\n#الأسد_يقتل_السوريين #العدوان_الروسي #الخوذ_البيضاء\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4930-november-29-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132533",
+      "incident_sequence": 208,
+      "observed_original_url": "https://x.com/SyriaCivilDefe/status/1862500837110448636",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-29T14:16:17.000Z",
+  "publisher": "'@SyriaCivilDefe",
+  "publisher_ar": "'@SyriaCivilDefe",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:32:07+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-231c2206bed9efa9b2a19b19",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SyriaCivilDefe/status/1862500837110448636",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالدفاع المدني السوري@SyriaCivilDefeإصابة 4 مدنيين بينهم طفل إثر قصف لطائرات حلف النظام وروسيا استهدف قرية سرجة في ريف #إدلب الجنوبي، اليوم الجمعة 29 تشرين الثاني.\n#الأسد_يقتل_السوريين #العدوان_الروسي #الخوذ_البيضاء2:16 PM · Nov 29, 20241.1KViews59",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001724
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/d8adp"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 2.908,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:38:50+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 966619,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "9f525179c67544ee2f1ab4ba82c010e6a70ce14de5aba34a7ebf4f210f63f2dd",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 2.908,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/syrtelevision/videos/591926570010713/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:38:50+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=591926570010713",
+      "waiting_seconds": 0.745
+    }
+  ],
+  "author": "TalvezOn",
+  "captions": [],
+  "content_hash": "2d1b6c68eefbc4f1233a3fa8a912841b345f84a0abf18ddcf5c24197eb8170fe",
+  "content_variants": [
+    {
+      "bytes": 178,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:38:50+00:00",
+      "sha256": "2d1b6c68eefbc4f1233a3fa8a912841b345f84a0abf18ddcf5c24197eb8170fe",
+      "source_url": "https://www.facebook.com/syrtelevision/videos/591926570010713/",
+      "text": "كاميرا #تلفزيون_سوريا ترصد آثار الغارة على حي الفرقان بمدينة #حلب\n#ردع_العدوان | Syria TV تلفزيون سوريا"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/syrtelevision/videos/591926570010713/",
+  "incident_ids": [
+    "airwars-132642"
+  ],
+  "incident_sequences": [
+    204
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=591926570010713",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=591926570010713"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=591926570010713",
+  "page_title": "كاميرا #تلفزيون_سوريا ترصد آثار الغارة على حي الفرقان بمدينة #حلب\n#ردع_العدوان | Syria TV تلفزيون سوريا",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4937-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132642",
+      "incident_sequence": 204,
+      "observed_original_url": "https://www.facebook.com/watch/?v=591926570010713",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "TalvezOn",
+  "publisher_ar": "TalvezOn",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:38:50+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-61e7406f5cc292e5c260f420",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=591926570010713",
+  "text_ar": "",
+  "text_original": "كاميرا #تلفزيون_سوريا ترصد آثار الغارة على حي الفرقان بمدينة #حلب\n#ردع_العدوان | Syria TV تلفزيون سوريا",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003854
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

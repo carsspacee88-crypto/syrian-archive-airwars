@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/e2jGE"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.246,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:35:07+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 82208,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "b9726a7a95d956f4f5b6c59698c757784753610a3e2510e4091752c051f2cbe5",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.246,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/ghommokh/status/1862790433178275841",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:35:07+00:00",
+      "status": 200,
+      "url": "https://x.com/ghommokh/status/1862790433178275841",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/ghommokh",
+  "captions": [],
+  "content_hash": "db2ccc4fd76d988b777aa41adb55a3e3bfbb5be0021253a64b9471ad831f7a52",
+  "content_variants": [
+    {
+      "bytes": 176,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:35:07+00:00",
+      "sha256": "db2ccc4fd76d988b777aa41adb55a3e3bfbb5be0021253a64b9471ad831f7a52",
+      "source_url": "https://x.com/ghommokh/status/1862790433178275841",
+      "text": "PostLog inSign upPostمختار غمّيض@ghommokh#سوريا ا ريف #ادلب\n\nقبل قليل جسر الشغور تحت القصف..00:009:27 AM · Nov 30, 2024123Views2"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/ghommokh/status/1862790433178275841",
+  "incident_ids": [
+    "airwars-132543"
+  ],
+  "incident_sequences": [
+    201
+  ],
+  "normalized_url": "https://x.com/ghommokh/status/1862790433178275841",
+  "observed_original_urls": [
+    "https://x.com/ghommokh/status/1862790433178275841"
+  ],
+  "original_url": "https://x.com/ghommokh/status/1862790433178275841",
+  "page_title": "مختار غمّيض on X: \"#سوريا ا ريف #ادلب\n\nقبل قليل جسر الشغور تحت القصف.. https://t.co/qK1RmxKi9B\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4936-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132543",
+      "incident_sequence": 201,
+      "observed_original_url": "https://x.com/ghommokh/status/1862790433178275841",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-30T09:27:02.000Z",
+  "publisher": "'@ghommokh",
+  "publisher_ar": "'@ghommokh",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:35:07+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-cbb08d649d6b30a8adec99fd",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/ghommokh/status/1862790433178275841",
+  "text_ar": "",
+  "text_original": "PostLog inSign upPostمختار غمّيض@ghommokh#سوريا ا ريف #ادلب\n\nقبل قليل جسر الشغور تحت القصف..00:009:27 AM · Nov 30, 2024123Views2",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001747
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297704"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/rojnews-news-awaz-rojnews-2024-12-04-152309/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.579,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:12+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 208422,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "5064ca498a01e554af42236d5d1d2465c86dbef6ba69bf42a63553df529d20ff",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.579,
+      "error": null,
+      "etag": "",
+      "final_url": "https://rojnews.news/ar/?p=204819",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:12+00:00",
+      "status": 200,
+      "url": "https://rojnews.news/ar/?p=204819",
+      "waiting_seconds": 0.746
+    }
+  ],
+  "author": "https://www.facebook.com/RojnewsAr/ ROJNEWS",
+  "captions": [],
+  "content_hash": "6d94651bc6921004a035721ce580a4557722f8c5bd19e205dbbeb23a9597dd97",
+  "content_variants": [
+    {
+      "bytes": 1687,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:12+00:00",
+      "sha256": "6d94651bc6921004a035721ce580a4557722f8c5bd19e205dbbeb23a9597dd97",
+      "source_url": "https://rojnews.news/ar/?p=204819",
+      "text": "استشهاد وإصابة 4 مواطنين في استهداف مسيرة للاحتلال التركي لديرك\n\nمركز الأخبار\n\nاستشهد مواطنان وأصيب اثنان آخران في استهداف مسيّرة للاحتلال التركي مغسلة سيارات في مدينة ديرك بمقاطعة الجزيرة، في إقليم شمال وشرق سوريا.\n\nسُمع دوي انفجار قوي في مدينة ديرك بإقليم شمال وشرق سوريا.\n\nونقلت وكالة أنباء هاوار عن مصادر أمنية مختلفة، أن الانفجار ناجم عن استهداف مسيّرة للاحتلال التركي لمغسلة السيارات “آرارات” بالقرب من كراج الحافلات في المدينة، ما أدى إلى إصابة 4 مواطنين كانوا في مكان الاستهداف.\n\nواستشهد مواطنان من المصابين الأربعة متأثرين بجراحهما، فيما يتلقى الآخران الرعاية الصحية.\n\nتأخر تشكيل الحكومة يخنق أسواق كردستان\n\nقصف جديد يستهدف مقر الديمقراطي الإيراني في هولير\n\nمسيّرة تستهدف معسكرا للمعارضة الكردية في هولير\n\nقفزة جديدة.. شكوى قضائية في السليمانية ضد ارتفاع أسعار الوقود\n\nالتحرر الكردستانية: لا يمكن تنفيذ القانون الإطاري دون أن يقود أوجلان العملية\n\nالعنف ضد النساء في كردستان يتصاعد.. ومحامية: شرف المرأة لا يرتبط بالرجل"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://rojnews.news/ar/?p=204819",
+  "incident_ids": [
+    "airwars-226257"
+  ],
+  "incident_sequences": [
+    180
+  ],
+  "normalized_url": "https://rojnews.news/ar/?p=204819",
+  "observed_original_urls": [
+    "https://rojnews.news/ar/?p=204819"
+  ],
+  "original_url": "https://rojnews.news/ar/?p=204819",
+  "page_title": "استشهاد وإصابة 4 مواطنين في استهداف مسيرة للاحتلال التركي لديرك - العربية - Rojnews.news",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts745-december-4-2024/",
+      "airwars_source_id": "297704",
+      "incident_id": "airwars-226257",
+      "incident_sequence": 180,
+      "observed_original_url": "https://rojnews.news/ar/?p=204819",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-04T15:23:09+00:00 2024-12-04T18:23:09+03:00 2026-07-31T16:25:58+03:00 2026-07-31T11:49:38+03:00 2026-07-30T13:35:06+03:00 2026-07-30T14:34:37+03:00 2026-07-31T10:08:33+03:00 2026-08-01T11:09:18+03:00 2026-08-01T10:05:47+03:00 2026-08-01T09:43:49+03:00 2026-08-01T09:18:23+03:00 2026-08-01T09:07:41+03:00",
+  "publisher": "Awaz Rojnews",
+  "publisher_ar": "Awaz Rojnews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:12+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-2bb271b201bd5cd206c42845",
+  "source_type": "news_article",
+  "stable_id_basis": "https://rojnews.news/ar/?p=204819",
+  "text_ar": "",
+  "text_original": "استشهاد وإصابة 4 مواطنين في استهداف مسيرة للاحتلال التركي لديرك\n\nمركز الأخبار\n\nاستشهد مواطنان وأصيب اثنان آخران في استهداف مسيّرة للاحتلال التركي مغسلة سيارات في مدينة ديرك بمقاطعة الجزيرة، في إقليم شمال وشرق سوريا.\n\nسُمع دوي انفجار قوي في مدينة ديرك بإقليم شمال وشرق سوريا.\n\nونقلت وكالة أنباء هاوار عن مصادر أمنية مختلفة، أن الانفجار ناجم عن استهداف مسيّرة للاحتلال التركي لمغسلة السيارات “آرارات” بالقرب من كراج الحافلات في المدينة، ما أدى إلى إصابة 4 مواطنين كانوا في مكان الاستهداف.\n\nواستشهد مواطنان من المصابين الأربعة متأثرين بجراحهما، فيما يتلقى الآخران الرعاية الصحية.\n\nتأخر تشكيل الحكومة يخنق أسواق كردستان\n\nقصف جديد يستهدف مقر الديمقراطي الإيراني في هولير\n\nمسيّرة تستهدف معسكرا للمعارضة الكردية في هولير\n\nقفزة جديدة.. شكوى قضائية في السليمانية ضد ارتفاع أسعار الوقود\n\nالتحرر الكردستانية: لا يمكن تنفيذ القانون الإطاري دون أن يقود أوجلان العملية\n\nالعنف ضد النساء في كردستان يتصاعد.. ومحامية: شرف المرأة لا يرتبط بالرجل",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002943
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

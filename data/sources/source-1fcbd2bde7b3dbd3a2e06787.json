@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297967"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-fox-press-pfbid033ltv3hsxrxxurvnljdlamqxt9okcxar9rfhierwk2sp2eaxjwkwkuhktgfye21vtl-2024-12-11-170000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.611,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:33:32+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 644228,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "ad2409d82108e47b587510b26af100dd53195235050f1eb95a0b991f0100f95a",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.611,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/foxspress2021/posts/pfbid033LTV3HSxrXxUrvnLJdLaMQXT9oKCxar9RfHierWK2SP2eAXJWKwkuhkTgfYe21Vtl",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:33:32+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/foxspress2021/posts/pfbid033LTV3HSxrXxUrvnLJdLaMQXT9oKCxar9RfHierWK2SP2eAXJWKwkuhkTgfYe21Vtl",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "FOX Press",
+  "captions": [],
+  "content_hash": "394e929b87442ee07ed79ac00c7b45a695c0cc6d8d3855e026cc705ebc204357",
+  "content_variants": [
+    {
+      "bytes": 400,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:33:32+00:00",
+      "sha256": "394e929b87442ee07ed79ac00c7b45a695c0cc6d8d3855e026cc705ebc204357",
+      "source_url": "https://www.facebook.com/foxspress2021/posts/pfbid033LTV3HSxrXxUrvnLJdLaMQXT9oKCxar9RfHierWK2SP2eAXJWKwkuhkTgfYe21Vtl",
+      "text": "FOX Press - #عاجل\nفقـ ـدت امرأة مسنّة حيـ ـاتها وأصـ ـيب...\nFacebookFOX Press's Post\n\nFOX PressDecember 11, 2024 · Shared with Public#عاجلفقـ ـدت امرأة مسنّة حيـ ـاتها وأصـ ـيب حفيدها في استـ ـهداف تركي لسيارة على جسر #قرقوزاق في ريف #حلب الشمالي.All reactions:65LikeComment"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/foxspress2021/posts/pfbid033LTV3HSxrXxUrvnLJdLaMQXT9oKCxar9RfHierWK2SP2eAXJWKwkuhkTgfYe21Vtl",
+  "incident_ids": [
+    "airwars-240849"
+  ],
+  "incident_sequences": [
+    157
+  ],
+  "normalized_url": "https://www.facebook.com/foxspress2021/posts/pfbid033LTV3HSxrXxUrvnLJdLaMQXT9oKCxar9RfHierWK2SP2eAXJWKwkuhkTgfYe21Vtl",
+  "observed_original_urls": [
+    "https://www.facebook.com/foxspress2021/posts/pfbid033LTV3HSxrXxUrvnLJdLaMQXT9oKCxar9RfHierWK2SP2eAXJWKwkuhkTgfYe21Vtl"
+  ],
+  "original_url": "https://www.facebook.com/foxspress2021/posts/pfbid033LTV3HSxrXxUrvnLJdLaMQXT9oKCxar9RfHierWK2SP2eAXJWKwkuhkTgfYe21Vtl",
+  "page_title": "FOX Press - #عاجل\nفقـ ـدت امرأة مسنّة حيـ ـاتها وأصـ ـيب... Facebook Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts756-december-12-2024/",
+      "airwars_source_id": "297967",
+      "incident_id": "airwars-240849",
+      "incident_sequence": 157,
+      "observed_original_url": "https://www.facebook.com/foxspress2021/posts/pfbid033LTV3HSxrXxUrvnLJdLaMQXT9oKCxar9RfHierWK2SP2eAXJWKwkuhkTgfYe21Vtl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "11 ديسمبر 2024",
+  "publisher": "FOX Press",
+  "publisher_ar": "FOX Press",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:33:32+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-1fcbd2bde7b3dbd3a2e06787",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/foxspress2021/posts/pfbid033LTV3HSxrXxUrvnLJdLaMQXT9oKCxar9RfHierWK2SP2eAXJWKwkuhkTgfYe21Vtl",
+  "text_ar": "",
+  "text_original": "FOX Press - #عاجل\nفقـ ـدت امرأة مسنّة حيـ ـاتها وأصـ ـيب...\nFacebookFOX Press's Post\n\nFOX PressDecember 11, 2024 · Shared with Public#عاجلفقـ ـدت امرأة مسنّة حيـ ـاتها وأصـ ـيب حفيدها في استـ ـهداف تركي لسيارة على جسر #قرقوزاق في ريف #حلب الشمالي.All reactions:65LikeComment",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003245
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

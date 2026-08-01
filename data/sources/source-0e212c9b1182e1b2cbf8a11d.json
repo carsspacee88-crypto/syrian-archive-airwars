@@ -1,0 +1,100 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/sgJTQ"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.263,
+          "error": "http_404",
+          "result": "http_error",
+          "retrieved_at": "2026-08-01T08:31:32+00:00",
+          "status": 404
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 36853,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "3b58393f98746fd0e9cf4d2a7b59002115a1e8d78a684a28ac4abe3bb72bbc57",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.263,
+      "error": "http_404",
+      "etag": "",
+      "final_url": "https://x.com/ibra_him_7_5/status/1863133469825507435",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:32+00:00",
+      "status": 404,
+      "url": "https://x.com/ibra_him_7_5/status/1863133469825507435",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "'@ibra_him_7_5",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_404",
+  "final_redirected_url": "https://x.com/ibra_him_7_5/status/1863133469825507435",
+  "incident_ids": [
+    "airwars-138392"
+  ],
+  "incident_sequences": [
+    193
+  ],
+  "normalized_url": "https://x.com/ibra_him_7_5/status/1863133469825507435",
+  "observed_original_urls": [
+    "https://x.com/ibra_him_7_5/status/1863133469825507435"
+  ],
+  "original_url": "https://x.com/ibra_him_7_5/status/1863133469825507435",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4943-december-1-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138392",
+      "incident_sequence": 193,
+      "observed_original_url": "https://x.com/ibra_him_7_5/status/1863133469825507435",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "'@ibra_him_7_5",
+  "publisher_ar": "'@ibra_him_7_5",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:31:32+00:00",
+    "reason": "http_404",
+    "status": "deferred"
+  },
+  "retrieval_status": "not_found",
+  "retrieved_at": "2026-08-01T08:31:32+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-0e212c9b1182e1b2cbf8a11d",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/ibra_him_7_5/status/1863133469825507435",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

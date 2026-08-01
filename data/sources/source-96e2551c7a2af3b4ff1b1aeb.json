@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/rnptC"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.417,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:34:19+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 81116,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "4290598ed5f913216c7ad98c137576e530ff422f1d103d322ad4c3392ac0f329",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.417,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/snhr/status/1865380742509088768",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:34:19+00:00",
+      "status": 200,
+      "url": "https://x.com/snhr/status/1865380742509088768",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/snhr",
+  "captions": [],
+  "content_hash": "437d379088d864400594faccaa3cbc5b113c9c12e43a85751b1199eea97fec1d",
+  "content_variants": [
+    {
+      "bytes": 340,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:34:19+00:00",
+      "sha256": "437d379088d864400594faccaa3cbc5b113c9c12e43a85751b1199eea97fec1d",
+      "source_url": "https://x.com/snhr/status/1865380742509088768",
+      "text": "Post\n\nPost\n\nSyrian Network@snhrOn Dec 6, fixed-wing warplanes believed to be Russian bombed Helfaya city, N. #Hama, killing 3 civilians, incl. a child. A house was completely destroyed in the attack as well.\n#SNHR notes that Russian forces violated UNSC resolutions prohibiting indiscriminate attacks.\n#Syria1:00 PM · Dec 7, 2024728Views24"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/snhr/status/1865380742509088768",
+  "incident_ids": [
+    "airwars-190675"
+  ],
+  "incident_sequences": [
+    172
+  ],
+  "normalized_url": "https://x.com/snhr/status/1865380742509088768",
+  "observed_original_urls": [
+    "https://x.com/snhr/status/1865380742509088768"
+  ],
+  "original_url": "https://x.com/snhr/status/1865380742509088768",
+  "page_title": "Syrian Network on X: \"On Dec 6, fixed-wing warplanes believed to be Russian bombed Helfaya city, N. #Hama, killing 3 civilians, incl. a child. A house was completely destroyed in the attack as well.\n#SNHR notes that Russian forces violated UNSC resolutions prohibiting indiscriminate attacks.\n#Syria https://t.co/cyqZZU5LnA\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4960-december-6-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-190675",
+      "incident_sequence": 172,
+      "observed_original_url": "https://x.com/snhr/status/1865380742509088768",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-07T13:00:00.000Z",
+  "publisher": "'@snhr",
+  "publisher_ar": "'@snhr",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:34:19+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-96e2551c7a2af3b4ff1b1aeb",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/snhr/status/1865380742509088768",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nSyrian Network@snhrOn Dec 6, fixed-wing warplanes believed to be Russian bombed Helfaya city, N. #Hama, killing 3 civilians, incl. a child. A house was completely destroyed in the attack as well.\n#SNHR notes that Russian forces violated UNSC resolutions prohibiting indiscriminate attacks.\n#Syria1:00 PM · Dec 7, 2024728Views24",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001755
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

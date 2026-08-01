@@ -1,0 +1,99 @@
+{
+  "airwars_source_ids": [
+    "297860"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-syriahr-com-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-2024-12-09-160959/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "syriahr.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_403",
+      "circuit_open_status": 403,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://www.syriahr.com/بقصف-مدفعي-للقوات-التركية-استشهاد-طفل/740163/",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:07+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/بقصف-مدفعي-للقوات-التركية-استشهاد-طفل/740163/",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "المرصد السوري",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "host_circuit_open_after_repeated_block_or_timeout",
+  "final_redirected_url": "https://www.syriahr.com/بقصف-مدفعي-للقوات-التركية-استشهاد-طفل/740163/",
+  "incident_ids": [
+    "airwars-226259"
+  ],
+  "incident_sequences": [
+    164
+  ],
+  "normalized_url": "https://www.syriahr.com/بقصف-مدفعي-للقوات-التركية-استشهاد-طفل/740163/",
+  "observed_original_urls": [
+    "https://www.syriahr.com/بقصف-مدفعي-للقوات-التركية-استشهاد-طفل/740163/"
+  ],
+  "original_url": "https://www.syriahr.com/بقصف-مدفعي-للقوات-التركية-استشهاد-طفل/740163/",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts751-december-9-2024/",
+      "airwars_source_id": "297860",
+      "incident_id": "airwars-226259",
+      "incident_sequence": 164,
+      "observed_original_url": "https://www.syriahr.com/بقصف-مدفعي-للقوات-التركية-استشهاد-طفل/740163/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "9 ديسمبر 2024",
+  "publisher": "Syrian Observatory",
+  "publisher_ar": "المرصد السوري",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:31:07+00:00",
+    "reason": "host_circuit_open_after_repeated_block_or_timeout",
+    "status": "deferred"
+  },
+  "retrieval_status": "timed_out",
+  "retrieved_at": "2026-08-01T08:31:07+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-38ac7c48b065fd85f9f99eff",
+  "source_type": "ngo_report",
+  "stable_id_basis": "https://www.syriahr.com/بقصف-مدفعي-للقوات-التركية-استشهاد-طفل/740163/",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

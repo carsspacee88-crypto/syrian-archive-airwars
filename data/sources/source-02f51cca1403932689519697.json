@@ -1,0 +1,108 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/quUYO"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.173,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:19+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 311213,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "4b8db42f02dc8f7a023529c15edd9d932b4db0b2d3bd1b3c0f8718f783752b93",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.173,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/moi.syria/posts/pfbid02YzyFkGkRj3EZVok2mURtHXPRxFopug5u9oGaewtYadrVMJUkHXC4s38bHsV6SQhKl",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:19+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/moi.syria/posts/pfbid02YzyFkGkRj3EZVok2mURtHXPRxFopug5u9oGaewtYadrVMJUkHXC4s38bHsV6SQhKl",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "Hokoma",
+  "captions": [],
+  "content_hash": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+  "content_variants": [
+    {
+      "bytes": 8,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:19+00:00",
+      "sha256": "d41f5b4977ee05c6b61b3b5f054784628f5cd1cbe06a82a5484d1e6de6eefe85",
+      "source_url": "https://www.facebook.com/moi.syria/posts/pfbid02YzyFkGkRj3EZVok2mURtHXPRxFopug5u9oGaewtYadrVMJUkHXC4s38bHsV6SQhKl",
+      "text": "Facebook"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "exact_content_duplicate_group": "sha256-d41f5b4977ee05c6b61b3b5f",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/moi.syria/posts/pfbid02YzyFkGkRj3EZVok2mURtHXPRxFopug5u9oGaewtYadrVMJUkHXC4s38bHsV6SQhKl",
+  "incident_ids": [
+    "airwars-132466"
+  ],
+  "incident_sequences": [
+    213
+  ],
+  "normalized_url": "https://www.facebook.com/moi.syria/posts/pfbid02YzyFkGkRj3EZVok2mURtHXPRxFopug5u9oGaewtYadrVMJUkHXC4s38bHsV6SQhKl",
+  "observed_original_urls": [
+    "https://www.facebook.com/moi.syria/posts/pfbid02YzyFkGkRj3EZVok2mURtHXPRxFopug5u9oGaewtYadrVMJUkHXC4s38bHsV6SQhKl"
+  ],
+  "original_url": "https://www.facebook.com/moi.syria/posts/pfbid02YzyFkGkRj3EZVok2mURtHXPRxFopug5u9oGaewtYadrVMJUkHXC4s38bHsV6SQhKl",
+  "page_title": "Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4928-november-28-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132466",
+      "incident_sequence": 213,
+      "observed_original_url": "https://www.facebook.com/moi.syria/posts/pfbid02YzyFkGkRj3EZVok2mURtHXPRxFopug5u9oGaewtYadrVMJUkHXC4s38bHsV6SQhKl",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Hokoma",
+  "publisher_ar": "Hokoma",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:19+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-02f51cca1403932689519697",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/moi.syria/posts/pfbid02YzyFkGkRj3EZVok2mURtHXPRxFopug5u9oGaewtYadrVMJUkHXC4s38bHsV6SQhKl",
+  "text_ar": "",
+  "text_original": "Facebook",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001133
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

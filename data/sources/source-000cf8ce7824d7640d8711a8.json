@@ -1,0 +1,108 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/deiQh"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.208,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:07+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 43449,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "203328157708e1fb1a4b8beeeffc12418a610b70c6f0a57b19d1204e705bb149",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.208,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/OmarMuhammadAr/status/1863297462997221859",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:07+00:00",
+      "status": 200,
+      "url": "https://x.com/OmarMuhammadAr/status/1863297462997221859",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "'@OmarMuhammadAr",
+  "captions": [],
+  "content_hash": "a0e56de87a0d6d99f208353637c7090f6f0f8612238a9552aebbde35e2336b3a",
+  "content_variants": [
+    {
+      "bytes": 171,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:07+00:00",
+      "sha256": "a0e56de87a0d6d99f208353637c7090f6f0f8612238a9552aebbde35e2336b3a",
+      "source_url": "https://x.com/OmarMuhammadAr/status/1863297462997221859",
+      "text": "Post\n\nPost\n\nAge-restricted adult content. This content might not be appropriate for people under 18 years old. To view this media, you’ll need to log in to X. Learn more"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "exact_content_duplicate_group": "sha256-a0e56de87a0d6d99f2083536",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/OmarMuhammadAr/status/1863297462997221859",
+  "incident_ids": [
+    "airwars-138419"
+  ],
+  "incident_sequences": [
+    197
+  ],
+  "normalized_url": "https://x.com/OmarMuhammadAr/status/1863297462997221859",
+  "observed_original_urls": [
+    "https://x.com/OmarMuhammadAr/status/1863297462997221859"
+  ],
+  "original_url": "https://x.com/OmarMuhammadAr/status/1863297462997221859",
+  "page_title": "Post / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4940-december-1-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138419",
+      "incident_sequence": 197,
+      "observed_original_url": "https://x.com/OmarMuhammadAr/status/1863297462997221859",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "'@OmarMuhammadAr",
+  "publisher_ar": "'@OmarMuhammadAr",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:07+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-000cf8ce7824d7640d8711a8",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/OmarMuhammadAr/status/1863297462997221859",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nAge-restricted adult content. This content might not be appropriate for people under 18 years old. To view this media, you’ll need to log in to X. Learn more",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00104
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

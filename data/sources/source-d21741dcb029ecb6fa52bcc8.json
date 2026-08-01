@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/pJ40i"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.218,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:35:09+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 86149,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "a2fd029e3134cbf752583716fbd04d1b12d4c1c3cc68038c97b933c5d7961ac9",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.218,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/ShaamNetwork/status/1860439011409498548",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:35:09+00:00",
+      "status": 200,
+      "url": "https://x.com/ShaamNetwork/status/1860439011409498548",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/ShaamNetwork",
+  "captions": [],
+  "content_hash": "208cb1dc83aa87f7c7f70845998229d7ee001107a1bdbae92ee2d06ad27f7b76",
+  "content_variants": [
+    {
+      "bytes": 254,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:35:09+00:00",
+      "sha256": "208cb1dc83aa87f7c7f70845998229d7ee001107a1bdbae92ee2d06ad27f7b76",
+      "source_url": "https://x.com/ShaamNetwork/status/1860439011409498548",
+      "text": "Post\n\nPost\n\nشبكة شام الإخبارية@ShaamNetwork#شام|| شهـ ـيدة طفلة وجرحى من عائلتها بقصف مدفعي للنظام على منزلهم شرقي مدينة بنش بإدلب00:009:43 PM · Nov 23, 20242KViews1735"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/ShaamNetwork/status/1860439011409498548",
+  "incident_ids": [
+    "airwars-131084"
+  ],
+  "incident_sequences": [
+    225
+  ],
+  "normalized_url": "https://x.com/ShaamNetwork/status/1860439011409498548",
+  "observed_original_urls": [
+    "https://x.com/ShaamNetwork/status/1860439011409498548"
+  ],
+  "original_url": "https://x.com/ShaamNetwork/status/1860439011409498548",
+  "page_title": "شبكة شام الإخبارية on X: \"#شام|| شهـ ـيدة طفلة وجرحى من عائلتها بقصف مدفعي للنظام على منزلهم شرقي مدينة بنش بإدلب https://t.co/w59olSUjU8\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4917-november-23-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-131084",
+      "incident_sequence": 225,
+      "observed_original_url": "https://x.com/ShaamNetwork/status/1860439011409498548",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-23T21:43:20.000Z",
+  "publisher": "'@ShaamNetwork",
+  "publisher_ar": "'@ShaamNetwork",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:35:09+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-d21741dcb029ecb6fa52bcc8",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/ShaamNetwork/status/1860439011409498548",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nشبكة شام الإخبارية@ShaamNetwork#شام|| شهـ ـيدة طفلة وجرحى من عائلتها بقصف مدفعي للنظام على منزلهم شرقي مدينة بنش بإدلب00:009:43 PM · Nov 23, 20242KViews1735",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00183
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

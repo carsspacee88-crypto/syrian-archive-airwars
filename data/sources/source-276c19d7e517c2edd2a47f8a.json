@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/9F7UJ"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.25,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:32:20+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 89801,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "a4a3f61414cdcc57fd5cd49e00d08fbf57fa671a4d326fc4da7384b8b783441f",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.25,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/Abdulkarem_Moh9/status/1860416467260342455",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:32:20+00:00",
+      "status": 200,
+      "url": "https://x.com/Abdulkarem_Moh9/status/1860416467260342455",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/Abdulkarem_Moh9",
+  "captions": [],
+  "content_hash": "e729a70d3cec42c0a17d0c8ad19162666f1a2bc7257de7ecd7910c2c33eb4589",
+  "content_variants": [
+    {
+      "bytes": 526,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:32:20+00:00",
+      "sha256": "e729a70d3cec42c0a17d0c8ad19162666f1a2bc7257de7ecd7910c2c33eb4589",
+      "source_url": "https://x.com/Abdulkarem_Moh9/status/1860416467260342455",
+      "text": "Post\n\nPost\n\nAbdulkarem Al-Mohammad@Abdulkarem_Moh9استشهاد طفلة وإصابة ثلاثة مدنيين آخرين شرقي مدينة #بنش جراء قصف مدفي شنته قوات النظام المتمركزة في مدينة #سراقب بالتزامن مع قصف مدفعي استهدف أحياء مدينة #أريحا خلف جريحين في صفوف المدنيين.\nفي هذا الفيديو لحظة سقوط أحد الصواريخ شرقي مدينة بنش.00:008:13 PM · Nov 23, 2024745Views17"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Abdulkarem_Moh9/status/1860416467260342455",
+  "incident_ids": [
+    "airwars-131062"
+  ],
+  "incident_sequences": [
+    224
+  ],
+  "normalized_url": "https://x.com/Abdulkarem_Moh9/status/1860416467260342455",
+  "observed_original_urls": [
+    "https://x.com/Abdulkarem_Moh9/status/1860416467260342455"
+  ],
+  "original_url": "https://x.com/Abdulkarem_Moh9/status/1860416467260342455",
+  "page_title": "Abdulkarem Al-Mohammad on X: \"استشهاد طفلة وإصابة ثلاثة مدنيين آخرين شرقي مدينة #بنش جراء قصف مدفي شنته قوات النظام المتمركزة في مدينة #سراقب بالتزامن مع قصف مدفعي استهدف أحياء مدينة #أريحا خلف جريحين في صفوف المدنيين.\nفي هذا الفيديو لحظة سقوط أحد الصواريخ شرقي مدينة بنش. https://t.co/7ZOEQSQSh4\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4918-november-23-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-131062",
+      "incident_sequence": 224,
+      "observed_original_url": "https://x.com/Abdulkarem_Moh9/status/1860416467260342455",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-23T20:13:45.000Z",
+  "publisher": "'@Abdulkarem_Moh9",
+  "publisher_ar": "'@Abdulkarem_Moh9",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:32:20+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-276c19d7e517c2edd2a47f8a",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Abdulkarem_Moh9/status/1860416467260342455",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nAbdulkarem Al-Mohammad@Abdulkarem_Moh9استشهاد طفلة وإصابة ثلاثة مدنيين آخرين شرقي مدينة #بنش جراء قصف مدفي شنته قوات النظام المتمركزة في مدينة #سراقب بالتزامن مع قصف مدفعي استهدف أحياء مدينة #أريحا خلف جريحين في صفوف المدنيين.\nفي هذا الفيديو لحظة سقوط أحد الصواريخ شرقي مدينة بنش.00:008:13 PM · Nov 23, 2024745Views17",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001858
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

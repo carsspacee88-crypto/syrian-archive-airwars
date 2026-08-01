@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297955"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/rojnews-news-awaz-rojnews-2024-12-11-075349/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.588,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:24+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 207968,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "f9f249cecc2e64f9e3eb1b17cf8c3ae2a2a825fa2a0fe732890ef30266f30489",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.588,
+      "error": null,
+      "etag": "",
+      "final_url": "https://rojnews.news/ar/?p=205789",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:24+00:00",
+      "status": 200,
+      "url": "https://rojnews.news/ar/?p=205789",
+      "waiting_seconds": 0.746
+    }
+  ],
+  "author": "https://www.facebook.com/RojnewsAr/ ROJNEWS",
+  "captions": [],
+  "content_hash": "d3bfc7f570399be7b278e04ec08c5ba2110b805c6903b13dcd43f935f618dd78",
+  "content_variants": [
+    {
+      "bytes": 1642,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:24+00:00",
+      "sha256": "d3bfc7f570399be7b278e04ec08c5ba2110b805c6903b13dcd43f935f618dd78",
+      "source_url": "https://rojnews.news/ar/?p=205789",
+      "text": "إصابة مواطن في قصف للاحتلال على تل تمر بمقاطعة الجزيرة\n\nمركز الأخبار\n\nأصيب مواطن في قصف الاحتلال التركي صباح اليوم على قرية تل جمعة في ريف تل تمر بمقاطعة الجزيرة.\n\nأفاد وكالة أنباء هاوار من مدينة تل تمر، بأن قصف الاحتلال لقرية تل جمعة، تسبب بإصابة مواطن بجروح، حيث تم نقله إلى مشافي مدينة الحسكة لتلقي العلاج.\n\nوكان جيش الاحتلال قد استهدف مساء أمس، سيارة إسعاف تابعة لمشفى كوباني، أثناء نقلها جرحى على طريق صرين – سد تشرين. وأسفر هذا القصف عن استشهاد سائق سيارة الإسعاف وأحد الجرحى، كما تعرضت ممرضة وجريح آخر لإصابات خطيرة تم نقلهما إلى المشفى لتلقي العلاج.\n\nتأخر تشكيل الحكومة يخنق أسواق كردستان\n\nقصف جديد يستهدف مقر الديمقراطي الإيراني في هولير\n\nمسيّرة تستهدف معسكرا للمعارضة الكردية في هولير\n\nقفزة جديدة.. شكوى قضائية في السليمانية ضد ارتفاع أسعار الوقود\n\nالتحرر الكردستانية: لا يمكن تنفيذ القانون الإطاري دون أن يقود أوجلان العملية\n\nالعنف ضد النساء في كردستان يتصاعد.. ومحامية: شرف المرأة لا يرتبط بالرجل"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://rojnews.news/ar/?p=205789",
+  "incident_ids": [
+    "airwars-226271"
+  ],
+  "incident_sequences": [
+    158
+  ],
+  "normalized_url": "https://rojnews.news/ar/?p=205789",
+  "observed_original_urls": [
+    "https://rojnews.news/ar/?p=205789"
+  ],
+  "original_url": "https://rojnews.news/ar/?p=205789",
+  "page_title": "إصابة مواطن في قصف للاحتلال على تل تمر بمقاطعة الجزيرة - العربية - Rojnews.news",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts755-december-11-2024/",
+      "airwars_source_id": "297955",
+      "incident_id": "airwars-226271",
+      "incident_sequence": 158,
+      "observed_original_url": "https://rojnews.news/ar/?p=205789",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-11T07:53:49+00:00 2024-12-11T10:53:49+03:00 2026-07-31T16:25:58+03:00 2026-07-31T11:49:38+03:00 2026-07-30T13:35:06+03:00 2026-07-30T14:34:37+03:00 2026-07-31T10:08:33+03:00 2026-08-01T11:09:18+03:00 2026-08-01T10:05:47+03:00 2026-08-01T09:43:49+03:00 2026-08-01T09:18:23+03:00 2026-08-01T09:07:41+03:00",
+  "publisher": "Awaz Rojnews",
+  "publisher_ar": "Awaz Rojnews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:24+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-68331c627f931afcdce9e941",
+  "source_type": "news_article",
+  "stable_id_basis": "https://rojnews.news/ar/?p=205789",
+  "text_ar": "",
+  "text_original": "إصابة مواطن في قصف للاحتلال على تل تمر بمقاطعة الجزيرة\n\nمركز الأخبار\n\nأصيب مواطن في قصف الاحتلال التركي صباح اليوم على قرية تل جمعة في ريف تل تمر بمقاطعة الجزيرة.\n\nأفاد وكالة أنباء هاوار من مدينة تل تمر، بأن قصف الاحتلال لقرية تل جمعة، تسبب بإصابة مواطن بجروح، حيث تم نقله إلى مشافي مدينة الحسكة لتلقي العلاج.\n\nوكان جيش الاحتلال قد استهدف مساء أمس، سيارة إسعاف تابعة لمشفى كوباني، أثناء نقلها جرحى على طريق صرين – سد تشرين. وأسفر هذا القصف عن استشهاد سائق سيارة الإسعاف وأحد الجرحى، كما تعرضت ممرضة وجريح آخر لإصابات خطيرة تم نقلهما إلى المشفى لتلقي العلاج.\n\nتأخر تشكيل الحكومة يخنق أسواق كردستان\n\nقصف جديد يستهدف مقر الديمقراطي الإيراني في هولير\n\nمسيّرة تستهدف معسكرا للمعارضة الكردية في هولير\n\nقفزة جديدة.. شكوى قضائية في السليمانية ضد ارتفاع أسعار الوقود\n\nالتحرر الكردستانية: لا يمكن تنفيذ القانون الإطاري دون أن يقود أوجلان العملية\n\nالعنف ضد النساء في كردستان يتصاعد.. ومحامية: شرف المرأة لا يرتبط بالرجل",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002939
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

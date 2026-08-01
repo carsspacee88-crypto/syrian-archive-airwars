@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297784"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/arabic-anf-news-com-3/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.339,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:06+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 35088,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "c1e11cc466c3015aa02b5972f6eb8baba354d3cd186cb34e52675d3be6f99c6f",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.339,
+      "error": null,
+      "etag": "",
+      "final_url": "https://arabic.anf-news.com/akhr-l-khbr/a-113040",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:06+00:00",
+      "status": 200,
+      "url": "https://arabic.anf-news.com/akhr-l-khbr/a-113040",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": "8f913d4a1555e2b1ad2318acdc85318ab360ad938d2133b5da7fca85cc61ea95",
+  "content_variants": [
+    {
+      "bytes": 1028,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:06+00:00",
+      "sha256": "8f913d4a1555e2b1ad2318acdc85318ab360ad938d2133b5da7fca85cc61ea95",
+      "source_url": "https://arabic.anf-news.com/akhr-l-khbr/a-113040",
+      "text": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالاثنين, ٩ ديسمبر ٢٠٢٤, ١١:١٠\n\nاستهدف جيش الاحتلال التركي في تمام الساعة الـ 11.00، مساء أمس الإثنين، قرية المستريحة غرب مدينة عين عيسى. وأدى بحسب المعلومات الأولية، إلى استشهاد 12 مدنياً، جُلّهم من الأطفال والنساء.\n\nوتظهر في المشاهد التي حصلت عليها وكالتنا فظاعة المجزرة التي ارتكبها جيش الاحتلال التركي.\n\nوبحسب المصادر وردت أسماء الأشخاص الذين قتلوا:\n\nمصطفى محمد إبراهيم عدو\n\nاثنتين من بنات مصطفى محمد إبراهيم وزوجته\n\nإبنة أبو فادي\n\nإبنة أحمد فنش\n\nإسماعيل إبن أبو فادي\n\nمحمود محمد إبراهيم (أبو فادي)\n\nإضافة إلى 5 أطفال لم تعرف أسمائهم بعد ؟"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://arabic.anf-news.com/akhr-l-khbr/a-113040",
+  "incident_ids": [
+    "airwars-216122"
+  ],
+  "incident_sequences": [
+    165
+  ],
+  "normalized_url": "https://arabic.anf-news.com/akhr-l-khbr/a-113040",
+  "observed_original_urls": [
+    "https://arabic.anf-news.com/akhr-l-khbr/a-113040"
+  ],
+  "original_url": "https://arabic.anf-news.com/akhr-l-khbr/a-113040",
+  "page_title": "ANF |\nجيش الاحتلال التركي يرتكب مجزرة بحق الأطفال والنساء في في قرية المستريحة لمدينة عين عيسى - محدث",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts748-december-8-2024/",
+      "airwars_source_id": "297784",
+      "incident_id": "airwars-216122",
+      "incident_sequence": 165,
+      "observed_original_url": "https://arabic.anf-news.com/akhr-l-khbr/a-113040",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "anf-news.com",
+  "publisher_ar": "anf-news.com",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:06+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-04fca7fa97ad93738cd98da9",
+  "source_type": "news_article",
+  "stable_id_basis": "https://arabic.anf-news.com/akhr-l-khbr/a-113040",
+  "text_ar": "",
+  "text_original": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالاثنين, ٩ ديسمبر ٢٠٢٤, ١١:١٠\n\nاستهدف جيش الاحتلال التركي في تمام الساعة الـ 11.00، مساء أمس الإثنين، قرية المستريحة غرب مدينة عين عيسى. وأدى بحسب المعلومات الأولية، إلى استشهاد 12 مدنياً، جُلّهم من الأطفال والنساء.\n\nوتظهر في المشاهد التي حصلت عليها وكالتنا فظاعة المجزرة التي ارتكبها جيش الاحتلال التركي.\n\nوبحسب المصادر وردت أسماء الأشخاص الذين قتلوا:\n\nمصطفى محمد إبراهيم عدو\n\nاثنتين من بنات مصطفى محمد إبراهيم وزوجته\n\nإبنة أبو فادي\n\nإبنة أحمد فنش\n\nإسماعيل إبن أبو فادي\n\nمحمود محمد إبراهيم (أبو فادي)\n\nإضافة إلى 5 أطفال لم تعرف أسمائهم بعد ؟",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001457
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/DIH2z"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.237,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:34:52+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 85967,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "e6747e64cf31b12b64e1c53812bc66cbc4c88f8df4e2c5267a1acbdeb01b1714",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.237,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/ibnqasuoon/status/1864422202352837092",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:34:52+00:00",
+      "status": 200,
+      "url": "https://x.com/ibnqasuoon/status/1864422202352837092",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/ibnqasuoon",
+  "captions": [],
+  "content_hash": "01380460c2696981b56201f131b64c7fb02599aeb6c74e7971c57ab281c7438f",
+  "content_variants": [
+    {
+      "bytes": 226,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:34:52+00:00",
+      "sha256": "01380460c2696981b56201f131b64c7fb02599aeb6c74e7971c57ab281c7438f",
+      "source_url": "https://x.com/ibnqasuoon/status/1864422202352837092",
+      "text": "Post\n\nPost\n\nابن قاسيون@ibnqasuoonلحظة استشهاد الإعلامي أنس خربطلي بغارة جوية روسية على مدينة #مورك بريف #حماة00:009:31 PM · Dec 4, 202411.8KViews112228725"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/ibnqasuoon/status/1864422202352837092",
+  "incident_ids": [
+    "airwars-138689"
+  ],
+  "incident_sequences": [
+    179
+  ],
+  "normalized_url": "https://x.com/ibnqasuoon/status/1864422202352837092",
+  "observed_original_urls": [
+    "https://x.com/ibnqasuoon/status/1864422202352837092"
+  ],
+  "original_url": "https://x.com/ibnqasuoon/status/1864422202352837092",
+  "page_title": "ابن قاسيون on X: \"لحظة استشهاد الإعلامي أنس خربطلي بغارة جوية روسية على مدينة #مورك بريف #حماة https://t.co/8fWDpyJ19O\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4957-december-4-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138689",
+      "incident_sequence": 179,
+      "observed_original_url": "https://x.com/ibnqasuoon/status/1864422202352837092",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-04T21:31:06.000Z",
+  "publisher": "'@ibnqasuoon",
+  "publisher_ar": "'@ibnqasuoon",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:34:52+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-bcdb0e34ca4fc3b67989fd3d",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/ibnqasuoon/status/1864422202352837092",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nابن قاسيون@ibnqasuoonلحظة استشهاد الإعلامي أنس خربطلي بغارة جوية روسية على مدينة #مورك بريف #حماة00:009:31 PM · Dec 4, 202411.8KViews112228725",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001804
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

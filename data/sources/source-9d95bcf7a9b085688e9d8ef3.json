@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/P2y5Z"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.237,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:34:23+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 82420,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "e22bffd0d12f7e1bd8319d4f920b1f387e4ef4448452a95f586dbae7d88b945d",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.237,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/galyarahal/status/1864276458857791838",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:34:23+00:00",
+      "status": 200,
+      "url": "https://x.com/galyarahal/status/1864276458857791838",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "https://x.com/galyarahal",
+  "captions": [],
+  "content_hash": "65f113bb7d00fa6847664abb4571091e856f2476ed34ecc306c385f4809c4b65",
+  "content_variants": [
+    {
+      "bytes": 525,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:34:23+00:00",
+      "sha256": "65f113bb7d00fa6847664abb4571091e856f2476ed34ecc306c385f4809c4b65",
+      "source_url": "https://x.com/galyarahal/status/1864276458857791838",
+      "text": "Post\n\nPost\n\nغالية الرحال@galyarahalالموت لا يُنصف الحقيقة\nحين يستشهد إعلاميّ في ميادين الصراع، تُطوى صفحة ناطقة بالحياة، ويُغتال صوتٌ كان يقف في وجه الظلم\nاستشهاد الإعلامي أنس خربوطلي جراء الغارات الجوية على مدينة - مورك منذ قليل بريف حماة الشمالي.\nرحمة الله عليك\nوالصبر لقلب أمك11:51 AM · Dec 4, 20241.9KViews111"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/galyarahal/status/1864276458857791838",
+  "incident_ids": [
+    "airwars-138689"
+  ],
+  "incident_sequences": [
+    179
+  ],
+  "normalized_url": "https://x.com/galyarahal/status/1864276458857791838",
+  "observed_original_urls": [
+    "https://x.com/galyarahal/status/1864276458857791838"
+  ],
+  "original_url": "https://x.com/galyarahal/status/1864276458857791838",
+  "page_title": "غالية الرحال on X: \"الموت لا يُنصف الحقيقة\nحين يستشهد إعلاميّ في ميادين الصراع، تُطوى صفحة ناطقة بالحياة، ويُغتال صوتٌ كان يقف في وجه الظلم\nاستشهاد الإعلامي أنس خربوطلي جراء الغارات الجوية على مدينة - مورك منذ قليل بريف حماة الشمالي.\nرحمة الله عليك\nوالصبر لقلب أمك https://t.co/rwbfmlIaUJ\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4957-december-4-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138689",
+      "incident_sequence": 179,
+      "observed_original_url": "https://x.com/galyarahal/status/1864276458857791838",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-04T11:51:59.000Z",
+  "publisher": "'@galyarahal",
+  "publisher_ar": "'@galyarahal",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:34:23+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-9d95bcf7a9b085688e9d8ef3",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/galyarahal/status/1864276458857791838",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nغالية الرحال@galyarahalالموت لا يُنصف الحقيقة\nحين يستشهد إعلاميّ في ميادين الصراع، تُطوى صفحة ناطقة بالحياة، ويُغتال صوتٌ كان يقف في وجه الظلم\nاستشهاد الإعلامي أنس خربوطلي جراء الغارات الجوية على مدينة - مورك منذ قليل بريف حماة الشمالي.\nرحمة الله عليك\nوالصبر لقلب أمك11:51 AM · Dec 4, 20241.9KViews111",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001805
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

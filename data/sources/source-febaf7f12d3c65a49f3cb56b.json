@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/Izkxw"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.278,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:49:14+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 86074,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "0ad3faffaf6cee47a4f410d1273d521a5127bc0658e82f349c7de90be0ae15a1",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.278,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/AlHadath/status/1862871452002771401",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:49:14+00:00",
+      "status": 200,
+      "url": "https://x.com/AlHadath/status/1862871452002771401",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/AlHadath",
+  "captions": [],
+  "content_hash": "230b43d56d8051c67861e8adb0440c0e0563c0949e850bb16bf8571309b81be4",
+  "content_variants": [
+    {
+      "bytes": 186,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:49:14+00:00",
+      "sha256": "230b43d56d8051c67861e8adb0440c0e0563c0949e850bb16bf8571309b81be4",
+      "source_url": "https://x.com/AlHadath/status/1862871452002771401",
+      "text": "Post\n\nPost\n\nا لـحـدث@AlHadathمشاهد لغارة على جسر الشغور بريف إدلب\n#سوريا\n#الحدث\n#قناة_الحدث00:002:48 PM · Nov 30, 20247.9KViews12"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AlHadath/status/1862871452002771401",
+  "incident_ids": [
+    "airwars-132543"
+  ],
+  "incident_sequences": [
+    201
+  ],
+  "normalized_url": "https://x.com/AlHadath/status/1862871452002771401",
+  "observed_original_urls": [
+    "https://x.com/AlHadath/status/1862871452002771401"
+  ],
+  "original_url": "https://x.com/AlHadath/status/1862871452002771401",
+  "page_title": "ا لـحـدث on X: \"مشاهد لغارة على جسر الشغور بريف إدلب\n#سوريا\n#الحدث\n#قناة_الحدث https://t.co/YDiRVEfQaT\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4936-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132543",
+      "incident_sequence": 201,
+      "observed_original_url": "https://x.com/AlHadath/status/1862871452002771401",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-30T14:48:59.000Z",
+  "publisher": "'@AlHadath",
+  "publisher_ar": "'@AlHadath",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:49:14+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-febaf7f12d3c65a49f3cb56b",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AlHadath/status/1862871452002771401",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nا لـحـدث@AlHadathمشاهد لغارة على جسر الشغور بريف إدلب\n#سوريا\n#الحدث\n#قناة_الحدث00:002:48 PM · Nov 30, 20247.9KViews12",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001846
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

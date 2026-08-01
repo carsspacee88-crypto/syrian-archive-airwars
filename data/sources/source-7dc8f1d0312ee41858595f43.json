@@ -1,0 +1,100 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://airwars.org/source/www-fdd-org-david-daoud-2025-04-21-141343/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.124,
+          "error": "http_403",
+          "result": "http_error",
+          "retrieved_at": "2026-08-01T08:31:06+00:00",
+          "status": 403
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 6120,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "147c706b2ddd2b35ce24653f07beb613ce7ae6c9828f9286a7674582c65f5f84",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.124,
+      "error": "http_403",
+      "etag": "",
+      "final_url": "https://www.fdd.org/analysis/op_eds/2025/04/21/israel-kills-hezbollah-unit-4400-deputy-commander-amid-allegations-of-continued-smuggling",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:06+00:00",
+      "status": 403,
+      "url": "https://www.fdd.org/analysis/op_eds/2025/04/21/israel-kills-hezbollah-unit-4400-deputy-commander-amid-allegations-of-continued-smuggling",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "fdd.org",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "http_403",
+  "final_redirected_url": "https://www.fdd.org/analysis/op_eds/2025/04/21/israel-kills-hezbollah-unit-4400-deputy-commander-amid-allegations-of-continued-smuggling",
+  "incident_ids": [
+    "airwars-125418"
+  ],
+  "incident_sequences": [
+    249
+  ],
+  "normalized_url": "https://www.fdd.org/analysis/op_eds/2025/04/21/israel-kills-hezbollah-unit-4400-deputy-commander-amid-allegations-of-continued-smuggling",
+  "observed_original_urls": [
+    "https://www.fdd.org/analysis/op_eds/2025/04/21/israel-kills-hezbollah-unit-4400-deputy-commander-amid-allegations-of-continued-smuggling"
+  ],
+  "original_url": "https://www.fdd.org/analysis/op_eds/2025/04/21/israel-kills-hezbollah-unit-4400-deputy-commander-amid-allegations-of-continued-smuggling",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy057-october-21-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125418",
+      "incident_sequence": 249,
+      "observed_original_url": "https://www.fdd.org/analysis/op_eds/2025/04/21/israel-kills-hezbollah-unit-4400-deputy-commander-amid-allegations-of-continued-smuggling",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "fdd.org",
+  "publisher_ar": "fdd.org",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:31:06+00:00",
+    "reason": "http_403",
+    "status": "deferred"
+  },
+  "retrieval_status": "blocked",
+  "retrieved_at": "2026-08-01T08:31:06+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-7dc8f1d0312ee41858595f43",
+  "source_type": "other_web_page",
+  "stable_id_basis": "https://www.fdd.org/analysis/op_eds/2025/04/21/israel-kills-hezbollah-unit-4400-deputy-commander-amid-allegations-of-continued-smuggling",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "en",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

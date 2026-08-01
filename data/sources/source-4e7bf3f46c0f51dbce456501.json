@@ -1,0 +1,108 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/lDrF3"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.58,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:37:12+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 352795,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "4430d03333974a3da3844f1a0be3c58f1dfd4d490fc246e5f5529183f464c850",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 0.58,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/tamer.turkmane/posts/pfbid07a4wZBFRE5E11APBcHEHH7UNjseoK24YP6xp4GwTKP852aCTnfju6tUwNyrZsEiml",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:37:12+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/tamer.turkmane/posts/pfbid07a4wZBFRE5E11APBcHEHH7UNjseoK24YP6xp4GwTKP852aCTnfju6tUwNyrZsEiml",
+      "waiting_seconds": 0.745
+    }
+  ],
+  "author": "Tamer Turkmane",
+  "captions": [],
+  "content_hash": "f9781cd9de5383899bd6ed7026b86d1382eacba2a604dad1c917576791a3f3bb",
+  "content_variants": [
+    {
+      "bytes": 167,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:37:12+00:00",
+      "sha256": "f9781cd9de5383899bd6ed7026b86d1382eacba2a604dad1c917576791a3f3bb",
+      "source_url": "https://www.facebook.com/tamer.turkmane/posts/pfbid07a4wZBFRE5E11APBcHEHH7UNjseoK24YP6xp4GwTKP852aCTnfju6tUwNyrZsEiml",
+      "text": "This page isn't available right nowThis may be because of a technical error that we're working to get fixed. Try reloading this page.Go to FeedGo backVisit Help Center"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "exact_content_duplicate_group": "sha256-f9781cd9de5383899bd6ed70",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/tamer.turkmane/posts/pfbid07a4wZBFRE5E11APBcHEHH7UNjseoK24YP6xp4GwTKP852aCTnfju6tUwNyrZsEiml",
+  "incident_ids": [
+    "airwars-132367"
+  ],
+  "incident_sequences": [
+    219
+  ],
+  "normalized_url": "https://www.facebook.com/tamer.turkmane/posts/pfbid07a4wZBFRE5E11APBcHEHH7UNjseoK24YP6xp4GwTKP852aCTnfju6tUwNyrZsEiml",
+  "observed_original_urls": [
+    "https://www.facebook.com/tamer.turkmane/posts/pfbid07a4wZBFRE5E11APBcHEHH7UNjseoK24YP6xp4GwTKP852aCTnfju6tUwNyrZsEiml"
+  ],
+  "original_url": "https://www.facebook.com/tamer.turkmane/posts/pfbid07a4wZBFRE5E11APBcHEHH7UNjseoK24YP6xp4GwTKP852aCTnfju6tUwNyrZsEiml",
+  "page_title": "Facebook Facebook",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4920-november-27-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132367",
+      "incident_sequence": 219,
+      "observed_original_url": "https://www.facebook.com/tamer.turkmane/posts/pfbid07a4wZBFRE5E11APBcHEHH7UNjseoK24YP6xp4GwTKP852aCTnfju6tUwNyrZsEiml",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Tamer Turkmane",
+  "publisher_ar": "Tamer Turkmane",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:37:12+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-4e7bf3f46c0f51dbce456501",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/tamer.turkmane/posts/pfbid07a4wZBFRE5E11APBcHEHH7UNjseoK24YP6xp4GwTKP852aCTnfju6tUwNyrZsEiml",
+  "text_ar": "",
+  "text_original": "This page isn't available right nowThis may be because of a technical error that we're working to get fixed. Try reloading this page.Go to FeedGo backVisit Help Center",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00161
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

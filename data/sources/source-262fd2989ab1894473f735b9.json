@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297898"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/arabic-anf-news-com-7/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.145,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:09+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 34425,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "1eb1bd916d9524c26e7d3d8fd4858c725d057240a676dc8c4bdbecf1f0e75f2e",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.145,
+      "error": null,
+      "etag": "",
+      "final_url": "https://arabic.anf-news.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-mdnyyn-jra-qsf-alahtlal-altrky-wmrtzqth-ly-kwbany-113093",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:09+00:00",
+      "status": 200,
+      "url": "https://arabic.anf-news.com/روج آفا - سوريا/astshhad-mdnyyn-jra-qsf-alahtlal-altrky-wmrtzqth-ly-kwbany-113093",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": "4b0c5c4d46ca2fa4370b2fc1d2f2946c5b1a29110172df2699697613020c077e",
+  "content_variants": [
+    {
+      "bytes": 598,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:09+00:00",
+      "sha256": "4b0c5c4d46ca2fa4370b2fc1d2f2946c5b1a29110172df2699697613020c077e",
+      "source_url": "https://arabic.anf-news.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-mdnyyn-jra-qsf-alahtlal-altrky-wmrtzqth-ly-kwbany-113093",
+      "text": "وكالة فرات للأنبااء\n\nكوباني\n\nالثلاثاء, ١٠ ديسمبر ٢٠٢٤, ٢٢:٥٤\n\nقصفت دولة الاحتلال التركية الفاشية ومرتزقتها، في ساعات المساء، قرية جعدة الكبيرة جنوب غرب كوباني وأسفر القصف عن استشهاد الطفلة شهد محمود شيخ علي 12 عاماً وعبد الله محمود شيخ علي 25 عاماً وإصابة الطفلين عمر محمود شيخ علي 10 أعوام ومحمود محمود شيخ علي 8 أعوام من عائلة واحدة."
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://arabic.anf-news.com/%D8%B1%D9%88%D8%AC%20%D8%A2%D9%81%D8%A7%20-%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/astshhad-mdnyyn-jra-qsf-alahtlal-altrky-wmrtzqth-ly-kwbany-113093",
+  "incident_ids": [
+    "airwars-240845"
+  ],
+  "incident_sequences": [
+    159
+  ],
+  "normalized_url": "https://arabic.anf-news.com/روج آفا - سوريا/astshhad-mdnyyn-jra-qsf-alahtlal-altrky-wmrtzqth-ly-kwbany-113093",
+  "observed_original_urls": [
+    "https://arabic.anf-news.com/روج آفا - سوريا/astshhad-mdnyyn-jra-qsf-alahtlal-altrky-wmrtzqth-ly-kwbany-113093"
+  ],
+  "original_url": "https://arabic.anf-news.com/روج آفا - سوريا/astshhad-mdnyyn-jra-qsf-alahtlal-altrky-wmrtzqth-ly-kwbany-113093",
+  "page_title": "ANF |\nاستشهاد مدنيين جراء قصف الاحتلال التركي ومرتزقته على كوباني",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts753-december-10-2024/",
+      "airwars_source_id": "297898",
+      "incident_id": "airwars-240845",
+      "incident_sequence": 159,
+      "observed_original_url": "https://arabic.anf-news.com/روج آفا - سوريا/astshhad-mdnyyn-jra-qsf-alahtlal-altrky-wmrtzqth-ly-kwbany-113093",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "anf-news.com",
+  "publisher_ar": "anf-news.com",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:09+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-262fd2989ab1894473f735b9",
+  "source_type": "news_article",
+  "stable_id_basis": "https://arabic.anf-news.com/روج آفا - سوريا/astshhad-mdnyyn-jra-qsf-alahtlal-altrky-wmrtzqth-ly-kwbany-113093",
+  "text_ar": "",
+  "text_original": "وكالة فرات للأنبااء\n\nكوباني\n\nالثلاثاء, ١٠ ديسمبر ٢٠٢٤, ٢٢:٥٤\n\nقصفت دولة الاحتلال التركية الفاشية ومرتزقتها، في ساعات المساء، قرية جعدة الكبيرة جنوب غرب كوباني وأسفر القصف عن استشهاد الطفلة شهد محمود شيخ علي 12 عاماً وعبد الله محمود شيخ علي 25 عاماً وإصابة الطفلين عمر محمود شيخ علي 10 أعوام ومحمود محمود شيخ علي 8 أعوام من عائلة واحدة.",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001272
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

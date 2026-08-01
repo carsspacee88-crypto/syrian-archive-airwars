@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297961"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/rojnews-news-awaz-rojnews-2024-12-11-110006/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.565,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:17+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 209052,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "bacffa2a4175cf291ad9d9067f6f864329ff2e740abfa57ec7320b0b06468e32",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.565,
+      "error": null,
+      "etag": "",
+      "final_url": "https://rojnews.news/ar/?p=205821",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:17+00:00",
+      "status": 200,
+      "url": "https://rojnews.news/ar/?p=205821",
+      "waiting_seconds": 0.745
+    }
+  ],
+  "author": "https://www.facebook.com/RojnewsAr/ ROJNEWS",
+  "captions": [],
+  "content_hash": "aea8eacc130f72c9326f64399fa7a0e110d9ed94c3ac7378cea669c7cebc966f",
+  "content_variants": [
+    {
+      "bytes": 1343,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:17+00:00",
+      "sha256": "aea8eacc130f72c9326f64399fa7a0e110d9ed94c3ac7378cea669c7cebc966f",
+      "source_url": "https://rojnews.news/ar/?p=205821",
+      "text": "استشهاد مسنّة وإصابة حفيدها في استهداف تركي لسيارة على جسر قرقوزاق الواصل بين مقاطعتي منبج والفرات\n\nمركز الأخبار\n\nاستشهدت امرأة مسنّة وأصيب حفيدها في استهداف مرتزقة الاحتلال التركي لسيارة تقلّ أحد عشر شخصاً على جسر قرقوزاق.ؤ\n\nتعرضت سيارة تقلّ أحد عشر شخصاً للاستهداف من قبل مرتزقة الاحتلال التركي، على جسر قرقوزاق، ما أدى إلى استشهاد المسنة زاهدة كوسي (60 عاماً) وإصابة حفيدها جوان (8 أعوام).\n\nتأخر تشكيل الحكومة يخنق أسواق كردستان\n\nقصف جديد يستهدف مقر الديمقراطي الإيراني في هولير\n\nمسيّرة تستهدف معسكرا للمعارضة الكردية في هولير\n\nقفزة جديدة.. شكوى قضائية في السليمانية ضد ارتفاع أسعار الوقود\n\nالتحرر الكردستانية: لا يمكن تنفيذ القانون الإطاري دون أن يقود أوجلان العملية\n\nالعنف ضد النساء في كردستان يتصاعد.. ومحامية: شرف المرأة لا يرتبط بالرجل"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://rojnews.news/ar/?p=205821",
+  "incident_ids": [
+    "airwars-240849"
+  ],
+  "incident_sequences": [
+    157
+  ],
+  "normalized_url": "https://rojnews.news/ar/?p=205821",
+  "observed_original_urls": [
+    "https://rojnews.news/ar/?p=205821"
+  ],
+  "original_url": "https://rojnews.news/ar/?p=205821",
+  "page_title": "استشهاد مسنّة وإصابة حفيدها في استهداف تركي لسيارة على جسر قرقوزاق الواصل بين مقاطعتي منبج والفرات - العربية - Rojnews.news",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts756-december-12-2024/",
+      "airwars_source_id": "297961",
+      "incident_id": "airwars-240849",
+      "incident_sequence": 157,
+      "observed_original_url": "https://rojnews.news/ar/?p=205821",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-11T11:00:06+00:00 2024-12-11T14:00:06+03:00 2026-07-31T16:25:58+03:00 2026-07-31T11:49:38+03:00 2026-07-30T13:35:06+03:00 2026-07-30T14:34:37+03:00 2026-07-31T10:08:33+03:00 2026-08-01T11:09:18+03:00 2026-08-01T10:05:47+03:00 2026-08-01T09:43:49+03:00 2026-08-01T09:18:23+03:00 2026-08-01T09:07:41+03:00",
+  "publisher": "Awaz Rojnews",
+  "publisher_ar": "Awaz Rojnews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:17+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-350417fab0dbabe03e9790ed",
+  "source_type": "news_article",
+  "stable_id_basis": "https://rojnews.news/ar/?p=205821",
+  "text_ar": "",
+  "text_original": "استشهاد مسنّة وإصابة حفيدها في استهداف تركي لسيارة على جسر قرقوزاق الواصل بين مقاطعتي منبج والفرات\n\nمركز الأخبار\n\nاستشهدت امرأة مسنّة وأصيب حفيدها في استهداف مرتزقة الاحتلال التركي لسيارة تقلّ أحد عشر شخصاً على جسر قرقوزاق.ؤ\n\nتعرضت سيارة تقلّ أحد عشر شخصاً للاستهداف من قبل مرتزقة الاحتلال التركي، على جسر قرقوزاق، ما أدى إلى استشهاد المسنة زاهدة كوسي (60 عاماً) وإصابة حفيدها جوان (8 أعوام).\n\nتأخر تشكيل الحكومة يخنق أسواق كردستان\n\nقصف جديد يستهدف مقر الديمقراطي الإيراني في هولير\n\nمسيّرة تستهدف معسكرا للمعارضة الكردية في هولير\n\nقفزة جديدة.. شكوى قضائية في السليمانية ضد ارتفاع أسعار الوقود\n\nالتحرر الكردستانية: لا يمكن تنفيذ القانون الإطاري دون أن يقود أوجلان العملية\n\nالعنف ضد النساء في كردستان يتصاعد.. ومحامية: شرف المرأة لا يرتبط بالرجل",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003014
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

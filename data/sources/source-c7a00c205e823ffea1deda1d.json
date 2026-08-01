@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297736"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/arabic-anf-news-com/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.146,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:14+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 34319,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "079100983dccc3af0e728dd3fbe673e4effb409f85ab3e89491275b9f91bc4f7",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.146,
+      "error": null,
+      "etag": "",
+      "final_url": "https://arabic.anf-news.com/akhr-l-khbr/ss-112952",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:14+00:00",
+      "status": 200,
+      "url": "https://arabic.anf-news.com/akhr-l-khbr/ss-112952",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": "eba83d6fe7dff39f81d4b63e07bd48c8c46639d715ab2944efd7ab5a20428d1f",
+  "content_variants": [
+    {
+      "bytes": 588,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:14+00:00",
+      "sha256": "eba83d6fe7dff39f81d4b63e07bd48c8c46639d715ab2944efd7ab5a20428d1f",
+      "source_url": "https://arabic.anf-news.com/akhr-l-khbr/ss-112952",
+      "text": "وكالة فرات للانباء\n\nمركز الأخبار\n\nالخميس, ٥ ديسمبر ٢٠٢٤, ١٤:١٢\n\nتتعرض قرى الريف الغربي (تل تورين والفارات) لمقاطعة منبج لقصف الاحتلال التركي بقذائف الهاون، ما أدى إلى\n\nاستشهاد المواطنة نديمة الحسين الحمود (45 عاماً)، في قرية الفارات، وإصابة المواطنة سعدة الفرج (45 عاماً) بجروح بليغة، نقلت على إثرها لأحد مشافي منبج لتلقي العلاج."
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://arabic.anf-news.com/akhr-l-khbr/ss-112952",
+  "incident_ids": [
+    "airwars-216118"
+  ],
+  "incident_sequences": [
+    174
+  ],
+  "normalized_url": "https://arabic.anf-news.com/akhr-l-khbr/ss-112952",
+  "observed_original_urls": [
+    "https://arabic.anf-news.com/akhr-l-khbr/ss-112952"
+  ],
+  "original_url": "https://arabic.anf-news.com/akhr-l-khbr/ss-112952",
+  "page_title": "ANF |\nاستشهاد مواطنة وإصابة أخرى من أهالي قرية الفارات في مقاطعة منبج",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts746-december-5-2024/",
+      "airwars_source_id": "297736",
+      "incident_id": "airwars-216118",
+      "incident_sequence": 174,
+      "observed_original_url": "https://arabic.anf-news.com/akhr-l-khbr/ss-112952",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "anf-news.com",
+  "publisher_ar": "anf-news.com",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:14+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c7a00c205e823ffea1deda1d",
+  "source_type": "news_article",
+  "stable_id_basis": "https://arabic.anf-news.com/akhr-l-khbr/ss-112952",
+  "text_ar": "",
+  "text_original": "وكالة فرات للانباء\n\nمركز الأخبار\n\nالخميس, ٥ ديسمبر ٢٠٢٤, ١٤:١٢\n\nتتعرض قرى الريف الغربي (تل تورين والفارات) لمقاطعة منبج لقصف الاحتلال التركي بقذائف الهاون، ما أدى إلى\n\nاستشهاد المواطنة نديمة الحسين الحمود (45 عاماً)، في قرية الفارات، وإصابة المواطنة سعدة الفرج (45 عاماً) بجروح بليغة، نقلت على إثرها لأحد مشافي منبج لتلقي العلاج.",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001379
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/87drC"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.291,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:32:05+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 87469,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "d3ff9bcd899fa6fb093cf8c8098b28911ee837f03af8e63e3f216641c753c016",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.291,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/SN4HR/status/1862873469811360164",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:32:05+00:00",
+      "status": 200,
+      "url": "https://x.com/SN4HR/status/1862873469811360164",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/SN4HR",
+  "captions": [],
+  "content_hash": "4f1ac5de93973ac140a4ace1fd3a2908434231f6c0db78c0654e52dc7bd995b9",
+  "content_variants": [
+    {
+      "bytes": 499,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:32:05+00:00",
+      "sha256": "4f1ac5de93973ac140a4ace1fd3a2908434231f6c0db78c0654e52dc7bd995b9",
+      "source_url": "https://x.com/SN4HR/status/1862873469811360164",
+      "text": "Post\n\nPost\n\nالشبكة السورية@SN4HRمحمد المصطفى، قُتل إثر إطلاق مدفعية تابعة لقوات #النظام_السوري عدة قذائف على قرية كنصفرة في منطقة جبل الزاوية جنوب محافظة #إدلب، في 30-11-2024.\nتشير #الشبكة_السورية إلى خرق النظام قراري مجلس الأمن القاضيين بوقف الهجمات العشوائية.\n#سورياGIF2:57 PM · Nov 30, 2024372Views2"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SN4HR/status/1862873469811360164",
+  "incident_ids": [
+    "airwars-132556"
+  ],
+  "incident_sequences": [
+    202
+  ],
+  "normalized_url": "https://x.com/SN4HR/status/1862873469811360164",
+  "observed_original_urls": [
+    "https://x.com/SN4HR/status/1862873469811360164"
+  ],
+  "original_url": "https://x.com/SN4HR/status/1862873469811360164",
+  "page_title": "الشبكة السورية on X: \"محمد المصطفى، قُتل إثر إطلاق مدفعية تابعة لقوات #النظام_السوري عدة قذائف على قرية كنصفرة في منطقة جبل الزاوية جنوب محافظة #إدلب، في 30-11-2024.\nتشير #الشبكة_السورية إلى خرق النظام قراري مجلس الأمن القاضيين بوقف الهجمات العشوائية.\n#سوريا https://t.co/ia98W6Ui5S\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4935-november-30-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132556",
+      "incident_sequence": 202,
+      "observed_original_url": "https://x.com/SN4HR/status/1862873469811360164",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-30T14:57:00.000Z",
+  "publisher": "'@SN4HR",
+  "publisher_ar": "'@SN4HR",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:32:05+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-21f89cebf7e2ba31a37f141b",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SN4HR/status/1862873469811360164",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالشبكة السورية@SN4HRمحمد المصطفى، قُتل إثر إطلاق مدفعية تابعة لقوات #النظام_السوري عدة قذائف على قرية كنصفرة في منطقة جبل الزاوية جنوب محافظة #إدلب، في 30-11-2024.\nتشير #الشبكة_السورية إلى خرق النظام قراري مجلس الأمن القاضيين بوقف الهجمات العشوائية.\n#سورياGIF2:57 PM · Nov 30, 2024372Views2",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001865
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297740"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/rojnews-news-awaz-rojnews-2024-12-05-113931/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.569,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:20+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 208449,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "99ace9df24c1845c5b167c0d8c576804efe20494f5b974f942264c5a66a4e525",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.569,
+      "error": null,
+      "etag": "",
+      "final_url": "https://rojnews.news/ar/?p=204913",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:20+00:00",
+      "status": 200,
+      "url": "https://rojnews.news/ar/?p=204913",
+      "waiting_seconds": 0.746
+    }
+  ],
+  "author": "https://www.facebook.com/RojnewsAr/ ROJNEWS",
+  "captions": [],
+  "content_hash": "e4a5344dfe3b64fb32abe70be105fba542b6da21ebc6a3daf991bbbd8dadfe4a",
+  "content_variants": [
+    {
+      "bytes": 1423,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:20+00:00",
+      "sha256": "e4a5344dfe3b64fb32abe70be105fba542b6da21ebc6a3daf991bbbd8dadfe4a",
+      "source_url": "https://rojnews.news/ar/?p=204913",
+      "text": "استشهاد وإصابة 3 نساء بقصف للاحتلال التركي على منبج بإقليم شمال وشرق سوريا\n\nمركز الأخبار\n\nاستشهدت مواطنة من أهالي قرية الفارات في مقاطعة منبج، وأًصيبت اثنتين أخريتين، نتيجة قصف الاحتلال التركي على ريف المقاطعة.\n\nتتعرض قرى الريف الغربي والشمالي (تل تورين والفارات وعرب حسن) في مقاطعة منبج لقصف مدفعي من قبل الاحتلال التركي ، ما أدى إلى استشهاد المواطنة نديمة الحسين الحمود (45 عاماً)، في قرية الفارات، وإصابة المواطنتين سعدة الفرج (45 عاماً) من القرية ذاتها وسارا حاج حسين (30 عاماً) ن أهالي قرية عرب حسن في الريف الشمالي.\n\nالجيش الكويتي: نتصدى لهجوم بطائرات مسيّرة\n\nحرب إيران.. المنطقة بانتظار “الحملة الأعنف”\n\nإسرائيل تعلن اغتيال 3 من قادة حماس بغارات على غزة\n\nوكالة بريطانية: مقذوف مجهول يصيب ناقلة نفط قبالة سواحل عُمان\n\nتحطم طائرة أف 35 أميركية في كاليفورنيا\n\nإيران: عبور هرمز أصبح غير ممكن"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://rojnews.news/ar/?p=204913",
+  "incident_ids": [
+    "airwars-216118"
+  ],
+  "incident_sequences": [
+    174
+  ],
+  "normalized_url": "https://rojnews.news/ar/?p=204913",
+  "observed_original_urls": [
+    "https://rojnews.news/ar/?p=204913"
+  ],
+  "original_url": "https://rojnews.news/ar/?p=204913",
+  "page_title": "استشهاد وإصابة 3 نساء بقصف للاحتلال التركي على منبج بإقليم شمال وشرق سوريا - العربية - Rojnews.news",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts746-december-5-2024/",
+      "airwars_source_id": "297740",
+      "incident_id": "airwars-216118",
+      "incident_sequence": 174,
+      "observed_original_url": "https://rojnews.news/ar/?p=204913",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-05T11:39:31+00:00 2024-12-05T14:39:31+03:00 2026-07-31T16:25:58+03:00 2026-07-31T11:49:38+03:00 2026-07-30T13:35:06+03:00 2026-07-30T14:34:37+03:00 2026-07-31T10:08:33+03:00 2026-08-01T11:09:18+03:00 2026-08-01T10:05:47+03:00 2026-08-01T09:43:49+03:00 2026-08-01T09:18:23+03:00 2026-08-01T09:07:41+03:00",
+  "publisher": "Awaz Rojnews",
+  "publisher_ar": "Awaz Rojnews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:20+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-49b1ba59d9a15b7eb0427a67",
+  "source_type": "news_article",
+  "stable_id_basis": "https://rojnews.news/ar/?p=204913",
+  "text_ar": "",
+  "text_original": "استشهاد وإصابة 3 نساء بقصف للاحتلال التركي على منبج بإقليم شمال وشرق سوريا\n\nمركز الأخبار\n\nاستشهدت مواطنة من أهالي قرية الفارات في مقاطعة منبج، وأًصيبت اثنتين أخريتين، نتيجة قصف الاحتلال التركي على ريف المقاطعة.\n\nتتعرض قرى الريف الغربي والشمالي (تل تورين والفارات وعرب حسن) في مقاطعة منبج لقصف مدفعي من قبل الاحتلال التركي ، ما أدى إلى استشهاد المواطنة نديمة الحسين الحمود (45 عاماً)، في قرية الفارات، وإصابة المواطنتين سعدة الفرج (45 عاماً) من القرية ذاتها وسارا حاج حسين (30 عاماً) ن أهالي قرية عرب حسن في الريف الشمالي.\n\nالجيش الكويتي: نتصدى لهجوم بطائرات مسيّرة\n\nحرب إيران.. المنطقة بانتظار “الحملة الأعنف”\n\nإسرائيل تعلن اغتيال 3 من قادة حماس بغارات على غزة\n\nوكالة بريطانية: مقذوف مجهول يصيب ناقلة نفط قبالة سواحل عُمان\n\nتحطم طائرة أف 35 أميركية في كاليفورنيا\n\nإيران: عبور هرمز أصبح غير ممكن",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002953
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

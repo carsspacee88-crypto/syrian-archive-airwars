@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/iOmgT"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.289,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:32:34+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 85576,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "547482f56a09fec608f9405493a130c16f85f99f4643e069ff764eddb503a0d5",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.289,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/k7ybnd99/status/1848399481550843949",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:32:34+00:00",
+      "status": 200,
+      "url": "https://x.com/k7ybnd99/status/1848399481550843949",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/k7ybnd99",
+  "captions": [],
+  "content_hash": "aa8081bd9c7eb34db78250a6d970982bb9927d7fbc769554b8a7c08f5d0235e0",
+  "content_variants": [
+    {
+      "bytes": 292,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:32:34+00:00",
+      "sha256": "aa8081bd9c7eb34db78250a6d970982bb9927d7fbc769554b8a7c08f5d0235e0",
+      "source_url": "https://x.com/k7ybnd99/status/1848399481550843949",
+      "text": "Post\n\nPost\n\nقتيبة ياسين@k7ybnd99السيارة التي قصفها الاحتلال الإسرائيلي اليوم في حي المزة بدمشق وقتل بداخلها شخص\nترى من يكون هذا الشخص المستهدف؟00:004:22 PM · Oct 21, 202414.7KViews16162653"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/k7ybnd99/status/1848399481550843949",
+  "incident_ids": [
+    "airwars-125418"
+  ],
+  "incident_sequences": [
+    249
+  ],
+  "normalized_url": "https://x.com/k7ybnd99/status/1848399481550843949",
+  "observed_original_urls": [
+    "https://x.com/k7ybnd99/status/1848399481550843949"
+  ],
+  "original_url": "https://x.com/k7ybnd99/status/1848399481550843949",
+  "page_title": "قتيبة ياسين on X: \"السيارة التي قصفها الاحتلال الإسرائيلي اليوم في حي المزة بدمشق وقتل بداخلها شخص\nترى من يكون هذا الشخص المستهدف؟ https://t.co/NWzcFcjMAQ\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy057-october-21-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125418",
+      "incident_sequence": 249,
+      "observed_original_url": "https://x.com/k7ybnd99/status/1848399481550843949",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-10-21T16:22:32.000Z",
+  "publisher": "'@k7ybnd99",
+  "publisher_ar": "'@k7ybnd99",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:32:34+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-2ed22157785172f4c74ed9a7",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/k7ybnd99/status/1848399481550843949",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nقتيبة ياسين@k7ybnd99السيارة التي قصفها الاحتلال الإسرائيلي اليوم في حي المزة بدمشق وقتل بداخلها شخص\nترى من يكون هذا الشخص المستهدف؟00:004:22 PM · Oct 21, 202414.7KViews16162653",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001854
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

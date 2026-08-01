@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297963"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/arabic-anf-news-com-10/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.144,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:13+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 34767,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "b035ca3036ebaa7f138eb4a091a4113448d686921f8f31e832db240815041673",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.144,
+      "error": null,
+      "etag": "",
+      "final_url": "https://arabic.anf-news.com/akhr-l-khbr/artqa-amrat-msnt-wasabt-tfl-fy-asthdaf-trky-lsyart-ly-jsr-qrqwzaq-113110",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:13+00:00",
+      "status": 200,
+      "url": "https://arabic.anf-news.com/akhr-l-khbr/artqa-amrat-msnt-wasabt-tfl-fy-asthdaf-trky-lsyart-ly-jsr-qrqwzaq-113110",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": "cb643f4045621f765af59e7876becebfaa671bf3bfdb655261dd1c6b3b27692a",
+  "content_variants": [
+    {
+      "bytes": 425,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:13+00:00",
+      "sha256": "cb643f4045621f765af59e7876becebfaa671bf3bfdb655261dd1c6b3b27692a",
+      "source_url": "https://arabic.anf-news.com/akhr-l-khbr/artqa-amrat-msnt-wasabt-tfl-fy-asthdaf-trky-lsyart-ly-jsr-qrqwzaq-113110",
+      "text": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالأربعاء, ١١ ديسمبر ٢٠٢٤, ١٤:٢٨\n\nتعرضت سيارة تقلّ أحد عشر شخصاً للاستهداف من قبل مرتزقة الاحتلال التركي، على جسر قرقوزاق، ما أدى إلى استشهاد المسنّة زاهدة كوسي (60 عاماً) وإصابة حفيدها جوان بركل (8 أعوام)."
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://arabic.anf-news.com/akhr-l-khbr/artqa-amrat-msnt-wasabt-tfl-fy-asthdaf-trky-lsyart-ly-jsr-qrqwzaq-113110",
+  "incident_ids": [
+    "airwars-240849"
+  ],
+  "incident_sequences": [
+    157
+  ],
+  "normalized_url": "https://arabic.anf-news.com/akhr-l-khbr/artqa-amrat-msnt-wasabt-tfl-fy-asthdaf-trky-lsyart-ly-jsr-qrqwzaq-113110",
+  "observed_original_urls": [
+    "https://arabic.anf-news.com/akhr-l-khbr/artqa-amrat-msnt-wasabt-tfl-fy-asthdaf-trky-lsyart-ly-jsr-qrqwzaq-113110"
+  ],
+  "original_url": "https://arabic.anf-news.com/akhr-l-khbr/artqa-amrat-msnt-wasabt-tfl-fy-asthdaf-trky-lsyart-ly-jsr-qrqwzaq-113110",
+  "page_title": "ANF |\nارتقاء امرأة مسنّة وإصابة طفل في استهداف تركي لسيارة على جسر قرقوزاق",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts756-december-12-2024/",
+      "airwars_source_id": "297963",
+      "incident_id": "airwars-240849",
+      "incident_sequence": 157,
+      "observed_original_url": "https://arabic.anf-news.com/akhr-l-khbr/artqa-amrat-msnt-wasabt-tfl-fy-asthdaf-trky-lsyart-ly-jsr-qrqwzaq-113110",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "anf-news.com",
+  "publisher_ar": "anf-news.com",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:13+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-8d1f4a0c95bd3dd8459ca532",
+  "source_type": "news_article",
+  "stable_id_basis": "https://arabic.anf-news.com/akhr-l-khbr/artqa-amrat-msnt-wasabt-tfl-fy-asthdaf-trky-lsyart-ly-jsr-qrqwzaq-113110",
+  "text_ar": "",
+  "text_original": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالأربعاء, ١١ ديسمبر ٢٠٢٤, ١٤:٢٨\n\nتعرضت سيارة تقلّ أحد عشر شخصاً للاستهداف من قبل مرتزقة الاحتلال التركي، على جسر قرقوزاق، ما أدى إلى استشهاد المسنّة زاهدة كوسي (60 عاماً) وإصابة حفيدها جوان بركل (8 أعوام).",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001336
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/Qj53X"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 2.636,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:33:40+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 840604,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "963b1e9abf550a7083aacd779d51f71783b02f80a499f3f7c3da7c69bfa32f31",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 2.636,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/fiffufuufd/videos/3817986311777093/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:33:40+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=3817986311777093",
+      "waiting_seconds": 0.743
+    }
+  ],
+  "author": "Abd allateef al hamdi",
+  "captions": [],
+  "content_hash": "fc3feccbe9b0cecb269dab7542f7c0b157874b39a538dfba07ed1881a9b29f40",
+  "content_variants": [
+    {
+      "bytes": 92,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:33:40+00:00",
+      "sha256": "fc3feccbe9b0cecb269dab7542f7c0b157874b39a538dfba07ed1881a9b29f40",
+      "source_url": "https://www.facebook.com/fiffufuufd/videos/3817986311777093/",
+      "text": "تنفيذ الحربي شارع الجلاء بآدلب | عبداللطيف الحمادي"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/fiffufuufd/videos/3817986311777093/",
+  "incident_ids": [
+    "airwars-138570"
+  ],
+  "incident_sequences": [
+    185
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=3817986311777093",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=3817986311777093"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=3817986311777093",
+  "page_title": "تنفيذ الحربي شارع الجلاء بآدلب | عبداللطيف الحمادي",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4951-december-2-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138570",
+      "incident_sequence": 185,
+      "observed_original_url": "https://www.facebook.com/watch/?v=3817986311777093",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Abd allateef al hamdi",
+  "publisher_ar": "Abd allateef al hamdi",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:33:40+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-2105b696f0e758600540d24b",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=3817986311777093",
+  "text_ar": "",
+  "text_original": "تنفيذ الحربي شارع الجلاء بآدلب | عبداللطيف الحمادي",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003167
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

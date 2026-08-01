@@ -1,0 +1,629 @@
+{
+  "comparison": {
+    "actual_collection_wall_seconds": 1275.084,
+    "baseline": "first-100 serial collector normalized to this incident and source count",
+    "baseline_equivalent_seconds": 3419.86,
+    "speedup_factor": 2.682,
+    "time_saved_seconds": 2144.776
+  },
+  "configuration": {
+    "global_workers": 64,
+    "passes": [
+      "live_primary",
+      "durable_recovery_on_later_action_run"
+    ],
+    "per_host_delay_seconds": 0.75,
+    "per_host_workers": 1,
+    "retries": 1,
+    "scheduler": "fair_host_round_robin",
+    "timeout_seconds": 10.0
+  },
+  "engine_version": "4.0.0",
+  "fetching": {
+    "incident": {
+      "circuit_skips": 292,
+      "circuit_state": {
+        "airwars.org": {
+          "consecutive_failures": 3,
+          "last_checked_at": "2026-08-01T08:30:16+00:00",
+          "last_result": "suppressed",
+          "open_reason": "http_403",
+          "open_status": 403,
+          "opened_at_epoch": 1785573016.4869769,
+          "opens": 1,
+          "suppressed_requests": 197
+        },
+        "web.archive.org": {
+          "consecutive_failures": 3,
+          "last_checked_at": "2026-08-01T08:31:04+00:00",
+          "last_result": "suppressed",
+          "open_reason": "URLError: <urlopen error timed out>",
+          "open_status": null,
+          "opened_at_epoch": 1785573064.8802505,
+          "opens": 1,
+          "suppressed_requests": 95
+        }
+      },
+      "requests": 9,
+      "retries": 0,
+      "waiting_seconds": 5.934
+    },
+    "source": {
+      "circuit_skips": 59,
+      "circuit_state": {
+        "aa.com.tr": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:48:35+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "aboalhodaalhoms": {
+          "consecutive_failures": 1,
+          "last_checked_at": "2026-08-01T08:31:05+00:00",
+          "last_result": "ConnectError: [Errno -3] Temporary failure in name resolution",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "alghad.tv": {
+          "consecutive_failures": 1,
+          "last_checked_at": "2026-08-01T08:31:06+00:00",
+          "last_result": "http_403",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "alyaumtv.net": {
+          "consecutive_failures": 3,
+          "last_checked_at": "2026-08-01T08:31:07+00:00",
+          "last_result": "suppressed",
+          "open_reason": "http_403",
+          "open_status": 403,
+          "opened_at_epoch": 1785573067.73384,
+          "opens": 1,
+          "suppressed_requests": 1
+        },
+        "anfarabic.com": {
+          "consecutive_failures": 3,
+          "last_checked_at": "2026-08-01T08:31:07+00:00",
+          "last_result": "suppressed",
+          "open_reason": "http_403",
+          "open_status": 403,
+          "opened_at_epoch": 1785573067.6939325,
+          "opens": 1,
+          "suppressed_requests": 16
+        },
+        "arabic.anf-news.com": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:48:33+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "enabbaladi.net": {
+          "consecutive_failures": 1,
+          "last_checked_at": "2026-08-01T08:31:06+00:00",
+          "last_result": "http_403",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "eremnews.com": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:31:06+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "euphratespost.net": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:31:06+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "facebook.com": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:51:24+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "fdd.org": {
+          "consecutive_failures": 1,
+          "last_checked_at": "2026-08-01T08:31:06+00:00",
+          "last_result": "http_403",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "hawarnews.com": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:48:43+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "israel-alma.org": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:31:07+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "jinhaagency.com": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:31:06+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "nabd.com": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:31:06+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "npasyria.com": {
+          "consecutive_failures": 3,
+          "last_checked_at": "2026-08-01T08:31:07+00:00",
+          "last_result": "suppressed",
+          "open_reason": "http_403",
+          "open_status": 403,
+          "opened_at_epoch": 1785573067.847127,
+          "opens": 1,
+          "suppressed_requests": 10
+        },
+        "rojnews.news": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:48:33+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "ronahi.tv": {
+          "consecutive_failures": 3,
+          "last_checked_at": "2026-08-01T08:31:07+00:00",
+          "last_result": "suppressed",
+          "open_reason": "http_403",
+          "open_status": 403,
+          "opened_at_epoch": 1785573067.813056,
+          "opens": 1,
+          "suppressed_requests": 5
+        },
+        "safa.ps": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:31:08+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "sana.sy": {
+          "consecutive_failures": 3,
+          "last_checked_at": "2026-08-01T08:48:44+00:00",
+          "last_result": "suppressed",
+          "open_reason": "ReadTimeout: ",
+          "open_status": null,
+          "opened_at_epoch": 1785574124.772444,
+          "opens": 1,
+          "suppressed_requests": 1
+        },
+        "sdf-press.com": {
+          "consecutive_failures": 1,
+          "last_checked_at": "2026-08-01T08:31:06+00:00",
+          "last_result": "http_403",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "shaam.org": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:31:08+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "syria.news": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:31:06+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "syria.tv": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:31:07+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "syriahr.com": {
+          "consecutive_failures": 3,
+          "last_checked_at": "2026-08-01T08:31:07+00:00",
+          "last_result": "suppressed",
+          "open_reason": "http_403",
+          "open_status": 403,
+          "opened_at_epoch": 1785573067.9509063,
+          "opens": 1,
+          "suppressed_requests": 25
+        },
+        "t.me": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:48:33+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "vdc-nsy.com": {
+          "consecutive_failures": 3,
+          "last_checked_at": "2026-08-01T08:31:08+00:00",
+          "last_result": "suppressed",
+          "open_reason": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)",
+          "open_status": null,
+          "opened_at_epoch": 1785573068.2219572,
+          "opens": 1,
+          "suppressed_requests": 1
+        },
+        "whitehelmets.org": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:48:33+00:00",
+          "last_result": "not_found",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "x.com": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:49:14+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "xeber24.org": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:31:07+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        },
+        "yenisafak.com": {
+          "consecutive_failures": 0,
+          "last_checked_at": "2026-08-01T08:31:07+00:00",
+          "last_result": "successful_content_response",
+          "open_reason": null,
+          "open_status": null,
+          "opened_at_epoch": null,
+          "opens": 0,
+          "suppressed_requests": 0
+        }
+      },
+      "requests": 1117,
+      "retries": 0,
+      "waiting_seconds": 804.553
+    }
+  },
+  "generated_at": "2026-08-01T08:51:25+00:00",
+  "incidents": {
+    "count": 100,
+    "mean_seconds": 0.555,
+    "status_counts": {
+      "blocked": 100
+    },
+    "wall_seconds": 55.731
+  },
+  "media_binaries_downloaded": 0,
+  "performance": {
+    "hosts": {
+      "aa.com.tr": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 3.25
+      },
+      "aboalhodaalhoms": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.131
+      },
+      "alghad.tv": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.27
+      },
+      "alyaumtv.net": {
+        "processed": 4,
+        "throttle_seconds": 1.5,
+        "total_seconds": 5.172
+      },
+      "anfarabic.com": {
+        "processed": 19,
+        "throttle_seconds": 1.5,
+        "total_seconds": 31.684
+      },
+      "arabic.anf-news.com": {
+        "processed": 13,
+        "throttle_seconds": 8.228,
+        "total_seconds": 56.383
+      },
+      "enabbaladi.net": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.217
+      },
+      "eremnews.com": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.801
+      },
+      "euphratespost.net": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.617
+      },
+      "facebook.com": {
+        "processed": 725,
+        "throttle_seconds": 538.575,
+        "total_seconds": 331743.995
+      },
+      "fdd.org": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.222
+      },
+      "hawarnews.com": {
+        "processed": 37,
+        "throttle_seconds": 26.11,
+        "total_seconds": 466.709
+      },
+      "israel-alma.org": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 1.203
+      },
+      "jinhaagency.com": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.85
+      },
+      "nabd.com": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.877
+      },
+      "npasyria.com": {
+        "processed": 13,
+        "throttle_seconds": 1.5,
+        "total_seconds": 23.852
+      },
+      "rojnews.news": {
+        "processed": 18,
+        "throttle_seconds": 11.935,
+        "total_seconds": 207.259
+      },
+      "ronahi.tv": {
+        "processed": 8,
+        "throttle_seconds": 1.5,
+        "total_seconds": 13.337
+      },
+      "safa.ps": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 2.247
+      },
+      "sana.sy": {
+        "processed": 6,
+        "throttle_seconds": 2.247,
+        "total_seconds": 127.725
+      },
+      "sdf-press.com": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.389
+      },
+      "shaam.org": {
+        "processed": 2,
+        "throttle_seconds": 0.748,
+        "total_seconds": 3.261
+      },
+      "syria.news": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.804
+      },
+      "syria.tv": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 1.519
+      },
+      "syriahr.com": {
+        "processed": 28,
+        "throttle_seconds": 1.5,
+        "total_seconds": 44.181
+      },
+      "t.me": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 0.732
+      },
+      "vdc-nsy.com": {
+        "processed": 4,
+        "throttle_seconds": 1.5,
+        "total_seconds": 6.706
+      },
+      "whitehelmets.org": {
+        "processed": 3,
+        "throttle_seconds": 0.75,
+        "total_seconds": 3.037
+      },
+      "x.com": {
+        "processed": 279,
+        "throttle_seconds": 206.94,
+        "total_seconds": 30235.228
+      },
+      "xeber24.org": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 1.657
+      },
+      "yenisafak.com": {
+        "processed": 1,
+        "throttle_seconds": 0.0,
+        "total_seconds": 1.404
+      }
+    },
+    "recovery_wall_seconds": 0,
+    "timings": {
+      "extraction": {
+        "p50_seconds": 0.002,
+        "p90_seconds": 0.006
+      },
+      "network": {
+        "p50_seconds": 0.571,
+        "p90_seconds": 1.329
+      },
+      "queue": {
+        "p50_seconds": 171.649,
+        "p90_seconds": 847.076
+      },
+      "sample_size": 1176,
+      "save": {
+        "p50_seconds": 0.001,
+        "p90_seconds": 0.001
+      },
+      "throttle": {
+        "p50_seconds": 0.747,
+        "p90_seconds": 0.748
+      },
+      "total": {
+        "p50_seconds": 172.788,
+        "p90_seconds": 848.663
+      }
+    }
+  },
+  "recovery": {
+    "pending": 103,
+    "pending_by_host": {
+      "aa.com.tr": 1,
+      "aboalhodaalhoms": 1,
+      "alghad.tv": 1,
+      "alyaumtv.net": 4,
+      "anfarabic.com": 19,
+      "enabbaladi.net": 1,
+      "facebook.com": 8,
+      "fdd.org": 1,
+      "npasyria.com": 13,
+      "ronahi.tv": 8,
+      "sana.sy": 5,
+      "sdf-press.com": 1,
+      "syriahr.com": 28,
+      "vdc-nsy.com": 4,
+      "whitehelmets.org": 3,
+      "x.com": 5
+    },
+    "pending_by_status": {
+      "blocked": 19,
+      "login_required": 2,
+      "not_found": 13,
+      "successful": 2,
+      "timed_out": 63,
+      "unavailable": 4
+    },
+    "resolved": 0
+  },
+  "scope": {
+    "count": 100,
+    "first_sequence": 151,
+    "last_sequence": 250
+  },
+  "sources": {
+    "cache_hits": 0,
+    "deferred_recovery": 103,
+    "mean_task_seconds": 308.661,
+    "policy_completed": 0,
+    "status_counts": {
+      "blocked": 19,
+      "login_required": 2,
+      "not_found": 13,
+      "successful": 1075,
+      "timed_out": 63,
+      "unavailable": 4
+    },
+    "text_coverage_percent": 91.2,
+    "texts_preserved": 1073,
+    "unique": 1176,
+    "wall_seconds": 1219.353
+  },
+  "status": "completed_with_deferred_recovery",
+  "translation_policy": "disabled_by_user",
+  "validation": {
+    "all_scope_incidents_present": true,
+    "all_sources_present": true,
+    "generated_translations": 0,
+    "media_binary_bytes": 0,
+    "outside_scope_sequences_processed": []
+  }
+}

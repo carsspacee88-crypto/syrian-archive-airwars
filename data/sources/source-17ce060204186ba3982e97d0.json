@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "298008"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/rojnews-news-awaz-rojnews-2024-12-21-113720/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.823,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:08+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 208847,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "4e19836a95d6e5e743ebe4d4e35bab6d0995dcf79a59ff82e1477740bb10f08d",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.823,
+      "error": null,
+      "etag": "",
+      "final_url": "https://rojnews.news/ar/?p=207043",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:08+00:00",
+      "status": 200,
+      "url": "https://rojnews.news/ar/?p=207043",
+      "waiting_seconds": 0.746
+    }
+  ],
+  "author": "https://www.facebook.com/RojnewsAr/ ROJNEWS",
+  "captions": [],
+  "content_hash": "032add8a1f859231f34696378bf159d904174f1a8f2f417bde0a7d9fb9a96a49",
+  "content_variants": [
+    {
+      "bytes": 1340,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:08+00:00",
+      "sha256": "032add8a1f859231f34696378bf159d904174f1a8f2f417bde0a7d9fb9a96a49",
+      "source_url": "https://rojnews.news/ar/?p=207043",
+      "text": "استشهاد 3 مواطنين وإصابة 5 آخرين باستهداف مسيّرة تركية في ريف الحسكة شمال وشرق سوريا\n\nمركز الأخبار\n\nاستشهد 3 مواطنين وأصيب 5 آخرين، في استهداف مسيّرة للاحتلال التركي لسيارتين على طريق الحسكة تل براك.\n\nاستهدف الاحتلال التركي، صباح اليوم، عبر الطيران المسيّر، سيارتين على الطريق الذي يربط بين مدينة الحسكة وتل براك في مقاطعة الجزيرة. أسفر هذا الهجوم عن استشهاد ثلاثة مواطنين وإصابة خمسة آخرين.\n\nومن المتوقع أن تصدر قوى الأمن الداخلي بياناً رسمياً حول تفاصيل هذا الاستهداف.\n\nالجيش الكويتي: نتصدى لهجوم بطائرات مسيّرة\n\nحرب إيران.. المنطقة بانتظار “الحملة الأعنف”\n\nإسرائيل تعلن اغتيال 3 من قادة حماس بغارات على غزة\n\nوكالة بريطانية: مقذوف مجهول يصيب ناقلة نفط قبالة سواحل عُمان\n\nتحطم طائرة أف 35 أميركية في كاليفورنيا\n\nإيران: عبور هرمز أصبح غير ممكن"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://rojnews.news/ar/?p=207043",
+  "incident_ids": [
+    "airwars-233508"
+  ],
+  "incident_sequences": [
+    155
+  ],
+  "normalized_url": "https://rojnews.news/ar/?p=207043",
+  "observed_original_urls": [
+    "https://rojnews.news/ar/?p=207043"
+  ],
+  "original_url": "https://rojnews.news/ar/?p=207043",
+  "page_title": "استشهاد 3 مواطنين وإصابة 5 آخرين باستهداف مسيّرة تركية في ريف الحسكة شمال وشرق سوريا - العربية - Rojnews.news",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts758-december-21-2024/",
+      "airwars_source_id": "298008",
+      "incident_id": "airwars-233508",
+      "incident_sequence": 155,
+      "observed_original_url": "https://rojnews.news/ar/?p=207043",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-21T11:37:20+00:00 2024-12-21T14:37:20+03:00 2026-07-31T16:25:58+03:00 2026-07-31T11:49:38+03:00 2026-07-30T13:35:06+03:00 2026-07-30T14:34:37+03:00 2026-07-31T10:08:33+03:00 2026-08-01T11:09:18+03:00 2026-08-01T10:05:47+03:00 2026-08-01T09:43:49+03:00 2026-08-01T09:18:23+03:00 2026-08-01T09:07:41+03:00",
+  "publisher": "Awaz Rojnews",
+  "publisher_ar": "Awaz Rojnews",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:08+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-17ce060204186ba3982e97d0",
+  "source_type": "news_article",
+  "stable_id_basis": "https://rojnews.news/ar/?p=207043",
+  "text_ar": "",
+  "text_original": "استشهاد 3 مواطنين وإصابة 5 آخرين باستهداف مسيّرة تركية في ريف الحسكة شمال وشرق سوريا\n\nمركز الأخبار\n\nاستشهد 3 مواطنين وأصيب 5 آخرين، في استهداف مسيّرة للاحتلال التركي لسيارتين على طريق الحسكة تل براك.\n\nاستهدف الاحتلال التركي، صباح اليوم، عبر الطيران المسيّر، سيارتين على الطريق الذي يربط بين مدينة الحسكة وتل براك في مقاطعة الجزيرة. أسفر هذا الهجوم عن استشهاد ثلاثة مواطنين وإصابة خمسة آخرين.\n\nومن المتوقع أن تصدر قوى الأمن الداخلي بياناً رسمياً حول تفاصيل هذا الاستهداف.\n\nالجيش الكويتي: نتصدى لهجوم بطائرات مسيّرة\n\nحرب إيران.. المنطقة بانتظار “الحملة الأعنف”\n\nإسرائيل تعلن اغتيال 3 من قادة حماس بغارات على غزة\n\nوكالة بريطانية: مقذوف مجهول يصيب ناقلة نفط قبالة سواحل عُمان\n\nتحطم طائرة أف 35 أميركية في كاليفورنيا\n\nإيران: عبور هرمز أصبح غير ممكن",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002806
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

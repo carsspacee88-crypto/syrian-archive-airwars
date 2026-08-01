@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/GqR9L"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "syriahr.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_403",
+      "circuit_open_status": 403,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://www.syriahr.com/بينهم-3-أطفال-10-جرحى-من-المدنيين-بقصف-للف/737753/?fbclid=IwY2xjawGxBuxleHRuA2FlbQIxMQABHVC3R3k05LcARbo-EQsgauxoQzCzeatlRmZQV_ilS88f8",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:07+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/بينهم-3-أطفال-10-جرحى-من-المدنيين-بقصف-للف/737753/?fbclid=IwY2xjawGxBuxleHRuA2FlbQIxMQABHVC3R3k05LcARbo-EQsgauxoQzCzeatlRmZQV_ilS88f8",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "SOHR news",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "host_circuit_open_after_repeated_block_or_timeout",
+  "final_redirected_url": "https://www.syriahr.com/بينهم-3-أطفال-10-جرحى-من-المدنيين-بقصف-للف/737753/?fbclid=IwY2xjawGxBuxleHRuA2FlbQIxMQABHVC3R3k05LcARbo-EQsgauxoQzCzeatlRmZQV_ilS88f8",
+  "incident_ids": [
+    "airwars-164015",
+    "airwars-164019"
+  ],
+  "incident_sequences": [
+    222,
+    223
+  ],
+  "normalized_url": "https://www.syriahr.com/بينهم-3-أطفال-10-جرحى-من-المدنيين-بقصف-للف/737753/?fbclid=IwY2xjawGxBuxleHRuA2FlbQIxMQABHVC3R3k05LcARbo-EQsgauxoQzCzeatlRmZQV_ilS88f8",
+  "observed_original_urls": [
+    "https://www.syriahr.com/بينهم-3-أطفال-10-جرحى-من-المدنيين-بقصف-للف/737753/?fbclid=IwY2xjawGxBuxleHRuA2FlbQIxMQABHVC3R3k05LcARbo-EQsgauxoQzCzeatlRmZQV_ilS88f8"
+  ],
+  "original_url": "https://www.syriahr.com/بينهم-3-أطفال-10-جرحى-من-المدنيين-بقصف-للف/737753/?fbclid=IwY2xjawGxBuxleHRuA2FlbQIxMQABHVC3R3k05LcARbo-EQsgauxoQzCzeatlRmZQV_ilS88f8",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts738-november-24-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-164015",
+      "incident_sequence": 222,
+      "observed_original_url": "https://www.syriahr.com/بينهم-3-أطفال-10-جرحى-من-المدنيين-بقصف-للف/737753/?fbclid=IwY2xjawGxBuxleHRuA2FlbQIxMQABHVC3R3k05LcARbo-EQsgauxoQzCzeatlRmZQV_ilS88f8",
+      "source_type": "legacy_import"
+    },
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts739-november-24-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-164019",
+      "incident_sequence": 223,
+      "observed_original_url": "https://www.syriahr.com/بينهم-3-أطفال-10-جرحى-من-المدنيين-بقصف-للف/737753/?fbclid=IwY2xjawGxBuxleHRuA2FlbQIxMQABHVC3R3k05LcARbo-EQsgauxoQzCzeatlRmZQV_ilS88f8",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "SOHR news",
+  "publisher_ar": "SOHR news",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:31:07+00:00",
+    "reason": "host_circuit_open_after_repeated_block_or_timeout",
+    "status": "deferred"
+  },
+  "retrieval_status": "timed_out",
+  "retrieved_at": "2026-08-01T08:31:07+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-4c6b98787d890a97294f71a9",
+  "source_type": "news_article",
+  "stable_id_basis": "https://www.syriahr.com/بينهم-3-أطفال-10-جرحى-من-المدنيين-بقصف-للف/737753/?fbclid=IwY2xjawGxBuxleHRuA2FlbQIxMQABHVC3R3k05LcARbo-EQsgauxoQzCzeatlRmZQV_ilS88f8",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

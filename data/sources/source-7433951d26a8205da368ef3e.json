@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/ilUCv"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.317,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:33:34+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 86505,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "fca87780731726d2a7172c94abe780ae2998a20d16ff310e05acb49fd87ba5ce",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.317,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/AlArabiya/status/1863542537077633329",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:33:34+00:00",
+      "status": 200,
+      "url": "https://x.com/AlArabiya/status/1863542537077633329",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/AlArabiya",
+  "captions": [],
+  "content_hash": "0a7257dd70644edcaa2032f86bed5e604817271eb543455b8c1991d7c124f64f",
+  "content_variants": [
+    {
+      "bytes": 250,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:33:34+00:00",
+      "sha256": "0a7257dd70644edcaa2032f86bed5e604817271eb543455b8c1991d7c124f64f",
+      "source_url": "https://x.com/AlArabiya/status/1863542537077633329",
+      "text": "Post\n\nPost\n\nالعربية@AlArabiyaكاميرا العربية ترصد لحظة وقوع غارة جوية على \"حي محطة بغداد\" في مدينة حلب\n#سوريا\n#حلب\n#قناة_العربية00:0011:15 AM · Dec 2, 20249.9KViews211"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/AlArabiya/status/1863542537077633329",
+  "incident_ids": [
+    "airwars-138496"
+  ],
+  "incident_sequences": [
+    182
+  ],
+  "normalized_url": "https://x.com/AlArabiya/status/1863542537077633329",
+  "observed_original_urls": [
+    "https://x.com/AlArabiya/status/1863542537077633329"
+  ],
+  "original_url": "https://x.com/AlArabiya/status/1863542537077633329",
+  "page_title": "العربية on X: \"كاميرا العربية ترصد لحظة وقوع غارة جوية على \"حي محطة بغداد\" في مدينة حلب\n#سوريا\n#حلب\n#قناة_العربية https://t.co/RaxXG6ZjyG\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4948-december-2-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138496",
+      "incident_sequence": 182,
+      "observed_original_url": "https://x.com/AlArabiya/status/1863542537077633329",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-02T11:15:38.000Z",
+  "publisher": "'@AlArabiya",
+  "publisher_ar": "'@AlArabiya",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:33:34+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-7433951d26a8205da368ef3e",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/AlArabiya/status/1863542537077633329",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالعربية@AlArabiyaكاميرا العربية ترصد لحظة وقوع غارة جوية على \"حي محطة بغداد\" في مدينة حلب\n#سوريا\n#حلب\n#قناة_العربية00:0011:15 AM · Dec 2, 20249.9KViews211",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001885
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

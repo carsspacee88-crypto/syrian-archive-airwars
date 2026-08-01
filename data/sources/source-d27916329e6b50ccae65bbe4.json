@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297879"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/rojnews-news-rojnews-2024-12-10-140622/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.573,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:28+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 209251,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "5155e86080f4ed16e1bfd0ea5caf1b28a7548a2769727e7b9d23c5fa288fcbbc",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.573,
+      "error": null,
+      "etag": "",
+      "final_url": "https://rojnews.news/ar/?p=205678",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:28+00:00",
+      "status": 200,
+      "url": "https://rojnews.news/ar/?p=205678",
+      "waiting_seconds": 0.746
+    }
+  ],
+  "author": "https://www.facebook.com/RojnewsAr/ ROJNEWS",
+  "captions": [],
+  "content_hash": "8c58e358a79b98389a67efe6db1ccc5197d1598f0cf83e03f19077fe1fb19fde",
+  "content_variants": [
+    {
+      "bytes": 1989,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:28+00:00",
+      "sha256": "8c58e358a79b98389a67efe6db1ccc5197d1598f0cf83e03f19077fe1fb19fde",
+      "source_url": "https://rojnews.news/ar/?p=205678",
+      "text": "مجزرة جديدة للاحتلال التركي في عين عيسى تودي بحياة 8 مدنيين من عائلة واحدة\n\nمركز الأخبار\n\nاستشهد 8 مدنيين، اليوم الثلاثاء، في مجزرة جديدة ارتكبها جيش الاحتلال التركي بحق عائلة في قرية صفيا التابعة لريف عين عيسى في شمال وشرق سوريا.\n\nحيث استهدفت المسيّرات التركية منزل العائلة، مما أسفر عن مقتل 8 أفراد من نفس العائلة في هجوم دموي.\n\nوأظهرت الصور التي حصلت عليها وكالة أنباء هاوار جثث الضحايا الذين كانوا يتواجدون في المنزل خلال القصف.\n\nوكان أسماء الشهداء كالتالي: خليل سليمان، وضاح سليمان، محمد العابو، عبد الكريم العابو، دلال سليمان، نادية سليمان، والطفلان جاسم سليمان وحسام سليمان.\n\nهذا الهجوم يأتي بعد يوم من مجزرة مماثلة نفذها جيش الاحتلال التركي في قرية المستريحة التابعة لناحية عين عيسى، حيث استشهد 12 مدنياً، معظمهم من الأطفال.\n\nوتستمر القوات التركية في شن هجماتها على المناطق السكنية، ما يزيد من معاناة المدنيين في المنطقة.\n\nالجيش الكويتي: نتصدى لهجوم بطائرات مسيّرة\n\nحرب إيران.. المنطقة بانتظار “الحملة الأعنف”\n\nإسرائيل تعلن اغتيال 3 من قادة حماس بغارات على غزة\n\nوكالة بريطانية: مقذوف مجهول يصيب ناقلة نفط قبالة سواحل عُمان\n\nتحطم طائرة أف 35 أميركية في كاليفورنيا\n\nإيران: عبور هرمز أصبح غير ممكن"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://rojnews.news/ar/?p=205678",
+  "incident_ids": [
+    "airwars-216137"
+  ],
+  "incident_sequences": [
+    160
+  ],
+  "normalized_url": "https://rojnews.news/ar/?p=205678",
+  "observed_original_urls": [
+    "https://rojnews.news/ar/?p=205678"
+  ],
+  "original_url": "https://rojnews.news/ar/?p=205678",
+  "page_title": "مجزرة جديدة للاحتلال التركي في عين عيسى تودي بحياة 8 مدنيين من عائلة واحدة - العربية - Rojnews.news",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts752-december-10-2024/",
+      "airwars_source_id": "297879",
+      "incident_id": "airwars-216137",
+      "incident_sequence": 160,
+      "observed_original_url": "https://rojnews.news/ar/?p=205678",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-10T14:06:22+00:00 2024-12-10T17:06:22+03:00 2026-07-31T16:25:58+03:00 2026-07-31T11:49:38+03:00 2026-07-30T13:35:06+03:00 2026-07-30T14:34:37+03:00 2026-07-31T10:08:33+03:00 2026-08-01T11:09:18+03:00 2026-08-01T10:05:47+03:00 2026-08-01T09:43:49+03:00 2026-08-01T09:18:23+03:00 2026-08-01T09:07:41+03:00",
+  "publisher": "NEWS",
+  "publisher_ar": "NEWS",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:28+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-d27916329e6b50ccae65bbe4",
+  "source_type": "news_article",
+  "stable_id_basis": "https://rojnews.news/ar/?p=205678",
+  "text_ar": "",
+  "text_original": "مجزرة جديدة للاحتلال التركي في عين عيسى تودي بحياة 8 مدنيين من عائلة واحدة\n\nمركز الأخبار\n\nاستشهد 8 مدنيين، اليوم الثلاثاء، في مجزرة جديدة ارتكبها جيش الاحتلال التركي بحق عائلة في قرية صفيا التابعة لريف عين عيسى في شمال وشرق سوريا.\n\nحيث استهدفت المسيّرات التركية منزل العائلة، مما أسفر عن مقتل 8 أفراد من نفس العائلة في هجوم دموي.\n\nوأظهرت الصور التي حصلت عليها وكالة أنباء هاوار جثث الضحايا الذين كانوا يتواجدون في المنزل خلال القصف.\n\nوكان أسماء الشهداء كالتالي: خليل سليمان، وضاح سليمان، محمد العابو، عبد الكريم العابو، دلال سليمان، نادية سليمان، والطفلان جاسم سليمان وحسام سليمان.\n\nهذا الهجوم يأتي بعد يوم من مجزرة مماثلة نفذها جيش الاحتلال التركي في قرية المستريحة التابعة لناحية عين عيسى، حيث استشهد 12 مدنياً، معظمهم من الأطفال.\n\nوتستمر القوات التركية في شن هجماتها على المناطق السكنية، ما يزيد من معاناة المدنيين في المنطقة.\n\nالجيش الكويتي: نتصدى لهجوم بطائرات مسيّرة\n\nحرب إيران.. المنطقة بانتظار “الحملة الأعنف”\n\nإسرائيل تعلن اغتيال 3 من قادة حماس بغارات على غزة\n\nوكالة بريطانية: مقذوف مجهول يصيب ناقلة نفط قبالة سواحل عُمان\n\nتحطم طائرة أف 35 أميركية في كاليفورنيا\n\nإيران: عبور هرمز أصبح غير ممكن",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003016
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

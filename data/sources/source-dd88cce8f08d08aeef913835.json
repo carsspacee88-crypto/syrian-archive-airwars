@@ -1,0 +1,104 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/EcZSZ"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 3.219,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:48:35+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 364545,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "b8ef9daf29a339d6af5da4b77bdaa5cc149e632d71ff6a4c632da7f565e9779e",
+      "content_type": "text/html; charset=utf-8",
+      "elapsed_seconds": 3.219,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-4-%D8%B7%D9%84%D8%A7%D8%A8-%D9%8A%D9%87%D8%AC%D9%88%D9%85-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%B3%D9%83%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D9%8A-%D8%A8%D8%AD%D9%84%D8%A8/3408415",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:48:35+00:00",
+      "status": 200,
+      "url": "https://www.aa.com.tr/ar/الدول-العربية/سوريا-مقتل-4-طلاب-يهجوم-لقوات-النظام-على-سكن-جامعي-بحلب/3408415",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Anadolu Agency news",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "parsing_failed",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-4-%D8%B7%D9%84%D8%A7%D8%A8-%D9%8A%D9%87%D8%AC%D9%88%D9%85-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%B3%D9%83%D9%86-%D8%AC%D8%A7%D9%85%D8%B9%D9%8A-%D8%A8%D8%AD%D9%84%D8%A8/3408415",
+  "incident_ids": [
+    "airwars-164023"
+  ],
+  "incident_sequences": [
+    210
+  ],
+  "normalized_url": "https://www.aa.com.tr/ar/الدول-العربية/سوريا-مقتل-4-طلاب-يهجوم-لقوات-النظام-على-سكن-جامعي-بحلب/3408415",
+  "observed_original_urls": [
+    "https://www.aa.com.tr/ar/الدول-العربية/سوريا-مقتل-4-طلاب-يهجوم-لقوات-النظام-على-سكن-جامعي-بحلب/3408415"
+  ],
+  "original_url": "https://www.aa.com.tr/ar/الدول-العربية/سوريا-مقتل-4-طلاب-يهجوم-لقوات-النظام-على-سكن-جامعي-بحلب/3408415",
+  "page_title": "سوريا.. مقتل 4 طلاب يهجوم لقوات النظام على سكن جامعي بحلب",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts741-november-29-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-164023",
+      "incident_sequence": 210,
+      "observed_original_url": "https://www.aa.com.tr/ar/الدول-العربية/سوريا-مقتل-4-طلاب-يهجوم-لقوات-النظام-على-سكن-جامعي-بحلب/3408415",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Anadolu Agency news",
+  "publisher_ar": "Anadolu Agency news",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:48:35+00:00",
+    "reason": "successful",
+    "status": "deferred"
+  },
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:48:35+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-dd88cce8f08d08aeef913835",
+  "source_type": "news_article",
+  "stable_id_basis": "https://www.aa.com.tr/ar/الدول-العربية/سوريا-مقتل-4-طلاب-يهجوم-لقوات-النظام-على-سكن-جامعي-بحلب/3408415",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003515
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

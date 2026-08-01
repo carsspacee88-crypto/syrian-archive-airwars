@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/PSjPg"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.292,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:32:01+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 79832,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "b3fa83e725ab2c2766bafb8c54947b01464ab7e7601945437d63a14f77809f28",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.292,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/Omar_Madaniah/status/1864263228764586043",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:32:01+00:00",
+      "status": 200,
+      "url": "https://x.com/Omar_Madaniah/status/1864263228764586043",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/Omar_Madaniah",
+  "captions": [],
+  "content_hash": "5efa825dfa659c3e3586a7692efd74511bdbbd2bd0ff1c08bd49bccc1d99a2e0",
+  "content_variants": [
+    {
+      "bytes": 248,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:32:01+00:00",
+      "sha256": "5efa825dfa659c3e3586a7692efd74511bdbbd2bd0ff1c08bd49bccc1d99a2e0",
+      "source_url": "https://x.com/Omar_Madaniah/status/1864263228764586043",
+      "text": "Post\n\nPost\n\nعمر مدنيه@Omar_Madaniahتشييع الزميل أنس خربوطلي الصحفي الذي استشهد بغارة جوية روسية استهدفت مدينة مورك بريف حماة10:59 AM · Dec 4, 202440.1KViews51436189"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Omar_Madaniah/status/1864263228764586043",
+  "incident_ids": [
+    "airwars-138689"
+  ],
+  "incident_sequences": [
+    179
+  ],
+  "normalized_url": "https://x.com/Omar_Madaniah/status/1864263228764586043",
+  "observed_original_urls": [
+    "https://x.com/Omar_Madaniah/status/1864263228764586043"
+  ],
+  "original_url": "https://x.com/Omar_Madaniah/status/1864263228764586043",
+  "page_title": "عمر مدنيه on X: \"تشييع الزميل أنس خربوطلي الصحفي الذي استشهد بغارة جوية روسية استهدفت مدينة مورك بريف حماة https://t.co/QL72JbMR4U\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4957-december-4-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138689",
+      "incident_sequence": 179,
+      "observed_original_url": "https://x.com/Omar_Madaniah/status/1864263228764586043",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-04T10:59:24.000Z",
+  "publisher": "'@Omar_Madaniah",
+  "publisher_ar": "'@Omar_Madaniah",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:32:01+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-1f67405e3dbb3360d96772b3",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Omar_Madaniah/status/1864263228764586043",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nعمر مدنيه@Omar_Madaniahتشييع الزميل أنس خربوطلي الصحفي الذي استشهد بغارة جوية روسية استهدفت مدينة مورك بريف حماة10:59 AM · Dec 4, 202440.1KViews51436189",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001773
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

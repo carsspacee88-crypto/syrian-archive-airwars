@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/iluvf"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.577,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:19+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 209082,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "d3a06594ec09c6f750e5dfcfbddd41e700a0b1c7d4e389b16d79f8ae143bf5cd",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.577,
+      "error": null,
+      "etag": "",
+      "final_url": "https://rojnews.news/ar/?p=200146",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:19+00:00",
+      "status": 200,
+      "url": "https://rojnews.news/ar/?p=200146",
+      "waiting_seconds": 0.746
+    }
+  ],
+  "author": "https://www.facebook.com/RojnewsAr/ ROJNEWS",
+  "captions": [],
+  "content_hash": "2a75143da8ad30d186fff11bc60e1a9bf4d15b3a562ceddf55aa9dbce8736da4",
+  "content_variants": [
+    {
+      "bytes": 2339,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:19+00:00",
+      "sha256": "2a75143da8ad30d186fff11bc60e1a9bf4d15b3a562ceddf55aa9dbce8736da4",
+      "source_url": "https://rojnews.news/ar/?p=200146",
+      "text": "إصابة طفلة في قصف للاحتلال التركي على كوباني – تم التحديث\n\nمركز الأخبار\n\nأصيب طفلة “3 سنوات” في قصف الاحتلال التركي على مركز مدينة كوباني.\n\nتتعرض مدينة كوباني منذ ساعات الصباح الباكر لقصف جوي عنيف بالمسيّرات التابعة لجيش الاحتلال التركي، ونتيجة قصف الذي تعرضت له المدينة قبل قليل، أصيبت الطفلة نادية مصطفى (3 سنوات)، وهي تتلقى العلاج الآن في مشفى كوباني.\n\nويشن جيش الاحتلال التركي منذ ليلة أمس قصفاً جوياً وبرياً على مناطق متفرقة بمقاطعة الفرات بالأسلحة الثقيلة والمسيّرات. حيث تم استهداف حاجز لقوات الأمن الداخلي عند المدخل الجنوبي لمدينة كوباني، بالإضافة إلى استهداف الفرن الآلي في المدينة، ومحطة الكهرباء التي تمد المدينة بالكهرباء، ومركز المدينة ومداخلها.\n\nكما تم استهداف قرى مدينة كري سبي الغربية والقرى الواقعة على الطريق الدولي في مدينة عين عيسى. وأسفر القصف الذي تعرضت له مقاطعة الفرات عن إلحاق أضرار مادية بالبنية التحتية والمراكز الخدمية، وإصابة ثلاثة من أعضاء قوى الأمن الداخلي بإصابات بليغة، يتلقون العلاج في مشافي كوباني.\n\nتأخر تشكيل الحكومة يخنق أسواق كردستان\n\nقصف جديد يستهدف مقر الديمقراطي الإيراني في هولير\n\nمسيّرة تستهدف معسكرا للمعارضة الكردية في هولير\n\nقفزة جديدة.. شكوى قضائية في السليمانية ضد ارتفاع أسعار الوقود\n\nالتحرر الكردستانية: لا يمكن تنفيذ القانون الإطاري دون أن يقود أوجلان العملية\n\nالعنف ضد النساء في كردستان يتصاعد.. ومحامية: شرف المرأة لا يرتبط بالرجل"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://rojnews.news/ar/?p=200146",
+  "incident_ids": [
+    "airwars-130254"
+  ],
+  "incident_sequences": [
+    245
+  ],
+  "normalized_url": "https://rojnews.news/ar/?p=200146",
+  "observed_original_urls": [
+    "https://rojnews.news/ar/?p=200146"
+  ],
+  "original_url": "https://rojnews.news/ar/?p=200146",
+  "page_title": "إصابة طفلة في قصف للاحتلال التركي على كوباني - تم التحديث - العربية - Rojnews.news",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts723-october-24-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-130254",
+      "incident_sequence": 245,
+      "observed_original_url": "https://rojnews.news/ar/?p=200146",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-10-24T07:01:45+00:00 2024-10-24T10:01:45+03:00 2026-07-31T16:25:58+03:00 2026-07-31T11:49:38+03:00 2026-07-30T13:35:06+03:00 2026-07-30T14:34:37+03:00 2026-07-31T10:08:33+03:00 2026-08-01T11:09:18+03:00 2026-08-01T10:05:47+03:00 2026-08-01T09:43:49+03:00 2026-08-01T09:18:23+03:00 2026-08-01T09:07:41+03:00",
+  "publisher": "Roj news",
+  "publisher_ar": "Roj news",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:19+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-3ded4d1660197d3e70681106",
+  "source_type": "news_article",
+  "stable_id_basis": "https://rojnews.news/ar/?p=200146",
+  "text_ar": "",
+  "text_original": "إصابة طفلة في قصف للاحتلال التركي على كوباني – تم التحديث\n\nمركز الأخبار\n\nأصيب طفلة “3 سنوات” في قصف الاحتلال التركي على مركز مدينة كوباني.\n\nتتعرض مدينة كوباني منذ ساعات الصباح الباكر لقصف جوي عنيف بالمسيّرات التابعة لجيش الاحتلال التركي، ونتيجة قصف الذي تعرضت له المدينة قبل قليل، أصيبت الطفلة نادية مصطفى (3 سنوات)، وهي تتلقى العلاج الآن في مشفى كوباني.\n\nويشن جيش الاحتلال التركي منذ ليلة أمس قصفاً جوياً وبرياً على مناطق متفرقة بمقاطعة الفرات بالأسلحة الثقيلة والمسيّرات. حيث تم استهداف حاجز لقوات الأمن الداخلي عند المدخل الجنوبي لمدينة كوباني، بالإضافة إلى استهداف الفرن الآلي في المدينة، ومحطة الكهرباء التي تمد المدينة بالكهرباء، ومركز المدينة ومداخلها.\n\nكما تم استهداف قرى مدينة كري سبي الغربية والقرى الواقعة على الطريق الدولي في مدينة عين عيسى. وأسفر القصف الذي تعرضت له مقاطعة الفرات عن إلحاق أضرار مادية بالبنية التحتية والمراكز الخدمية، وإصابة ثلاثة من أعضاء قوى الأمن الداخلي بإصابات بليغة، يتلقون العلاج في مشافي كوباني.\n\nتأخر تشكيل الحكومة يخنق أسواق كردستان\n\nقصف جديد يستهدف مقر الديمقراطي الإيراني في هولير\n\nمسيّرة تستهدف معسكرا للمعارضة الكردية في هولير\n\nقفزة جديدة.. شكوى قضائية في السليمانية ضد ارتفاع أسعار الوقود\n\nالتحرر الكردستانية: لا يمكن تنفيذ القانون الإطاري دون أن يقود أوجلان العملية\n\nالعنف ضد النساء في كردستان يتصاعد.. ومحامية: شرف المرأة لا يرتبط بالرجل",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002847
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

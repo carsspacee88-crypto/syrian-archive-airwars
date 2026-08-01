@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/KslQB"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.326,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:45:04+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 728457,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "c3cd194c0e026e83d394e717fb69046b8c80428d174a398e24bcb081d566bf84",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.326,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/Elmohrar/videos/859878249550506/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:45:04+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=859878249550506",
+      "waiting_seconds": 0.744
+    }
+  ],
+  "author": "al moharer",
+  "captions": [],
+  "content_hash": "2bda793513016a9f1e455db521b771a0c25e3907347745f0aaea5f1fec8c1314",
+  "content_variants": [
+    {
+      "bytes": 338,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:45:04+00:00",
+      "sha256": "2bda793513016a9f1e455db521b771a0c25e3907347745f0aaea5f1fec8c1314",
+      "source_url": "https://www.facebook.com/Elmohrar/videos/859878249550506/",
+      "text": "#عاجــــــــــل\n\nاللحظات الأولى من الغارات الجوية الذي نفذها طيران الإحتلال #الروسي على مدينة #سرمين ومنطقة السوق الشعبي فيها شرقي #إدلب، دون وقوع إصابات بين المدنيين | المحرر لحظة بلحظة"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Elmohrar/videos/859878249550506/",
+  "incident_ids": [
+    "airwars-132403"
+  ],
+  "incident_sequences": [
+    214
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=859878249550506",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=859878249550506"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=859878249550506",
+  "page_title": "#عاجــــــــــل\n\nاللحظات الأولى من الغارات الجوية الذي نفذها طيران الإحتلال #الروسي على مدينة #سرمين ومنطقة السوق الشعبي فيها شرقي #إدلب، دون وقوع إصابات بين المدنيين | المحرر لحظة بلحظة",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4924-november-28-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132403",
+      "incident_sequence": 214,
+      "observed_original_url": "https://www.facebook.com/watch/?v=859878249550506",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "al moharer",
+  "publisher_ar": "al moharer",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:45:04+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-a888cc5389d4324037552452",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=859878249550506",
+  "text_ar": "",
+  "text_original": "#عاجــــــــــل\n\nاللحظات الأولى من الغارات الجوية الذي نفذها طيران الإحتلال #الروسي على مدينة #سرمين ومنطقة السوق الشعبي فيها شرقي #إدلب، دون وقوع إصابات بين المدنيين | المحرر لحظة بلحظة",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003049
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

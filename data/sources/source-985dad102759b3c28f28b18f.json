@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/pVxyS"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.697,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:06+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 38065,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "e7e2252db0db817317e450c0d6784aca23ed3a980ef4a27b2686e8dcacaffe2c",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.697,
+      "error": null,
+      "etag": "",
+      "final_url": "https://syria.news/646d57c1-02122412.html",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:06+00:00",
+      "status": 200,
+      "url": "https://syria.news/646d57c1-02122412.html",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Syria-news news",
+  "captions": [],
+  "content_hash": "371d2a5736acafc362f0e51a0fbe194f2c6c4f3d5b98f95502612b2370cd8e72",
+  "content_variants": [
+    {
+      "bytes": 509,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:06+00:00",
+      "sha256": "371d2a5736acafc362f0e51a0fbe194f2c6c4f3d5b98f95502612b2370cd8e72",
+      "source_url": "https://syria.news/646d57c1-02122412.html",
+      "text": "الشرع للجزيرة: نحو اتفاق أمني مع إسرائيل دون المساس بحق سوريا في الجولان.. ولا تدخل في لبنان\nأكد الرئيس الانتقالي أحمد الشرع أن دمشق تخوض محادثات للتوصل إلى ترتيبات أمنيّة مع إسرائيل بمشاركة دولية، مشدداً في الوقت ذاته على ثبات الموقف السوري إزاء الحقوق الوطنية في الجولان المحتل."
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://syria.news/646d57c1-02122412.html",
+  "incident_ids": [
+    "airwars-164029"
+  ],
+  "incident_sequences": [
+    183
+  ],
+  "normalized_url": "https://syria.news/646d57c1-02122412.html",
+  "observed_original_urls": [
+    "https://syria.news/646d57c1-02122412.html"
+  ],
+  "original_url": "https://syria.news/646d57c1-02122412.html",
+  "page_title": "ضحايا جراء سقوط قذائف في حي البعث بحماه",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts744-december-2-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-164029",
+      "incident_sequence": 183,
+      "observed_original_url": "https://syria.news/646d57c1-02122412.html",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Syria-news news",
+  "publisher_ar": "Syria-news news",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:06+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-985dad102759b3c28f28b18f",
+  "source_type": "news_article",
+  "stable_id_basis": "https://syria.news/646d57c1-02122412.html",
+  "text_ar": "",
+  "text_original": "الشرع للجزيرة: نحو اتفاق أمني مع إسرائيل دون المساس بحق سوريا في الجولان.. ولا تدخل في لبنان\nأكد الرئيس الانتقالي أحمد الشرع أن دمشق تخوض محادثات للتوصل إلى ترتيبات أمنيّة مع إسرائيل بمشاركة دولية، مشدداً في الوقت ذاته على ثبات الموقف السوري إزاء الحقوق الوطنية في الجولان المحتل.",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001434
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

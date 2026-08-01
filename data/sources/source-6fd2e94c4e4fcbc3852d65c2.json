@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/Bg50A"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 2.814,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:40:12+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 843493,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "9648f4a10317b3e83c23d936d71ff439af80072d445b591671aa531e85a337a3",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 2.814,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/abwalhsn.alknany.265798/videos/1091730758770419/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:40:12+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=1091730758770419",
+      "waiting_seconds": 0.742
+    }
+  ],
+  "author": "Abo al hasan",
+  "captions": [],
+  "content_hash": "a4fd702e7fa3590503ebd58ef9cd11c1f8d45627ec2f3b2a784386c3e72de1e6",
+  "content_variants": [
+    {
+      "bytes": 187,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:40:12+00:00",
+      "sha256": "a4fd702e7fa3590503ebd58ef9cd11c1f8d45627ec2f3b2a784386c3e72de1e6",
+      "source_url": "https://www.facebook.com/abwalhsn.alknany.265798/videos/1091730758770419/",
+      "text": "الصـ.ـواريخ الفراغـ.ـية الروسـ.ـية والسورية تستهـ.ـدف مدينة الأتارب بريف حلب الغربي | ابوالحسن الكناني"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/abwalhsn.alknany.265798/videos/1091730758770419/",
+  "incident_ids": [
+    "airwars-132466"
+  ],
+  "incident_sequences": [
+    213
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=1091730758770419",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=1091730758770419"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=1091730758770419",
+  "page_title": "الصـ.ـواريخ الفراغـ.ـية الروسـ.ـية والسورية تستهـ.ـدف مدينة الأتارب بريف حلب الغربي | ابوالحسن الكناني",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4928-november-28-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132466",
+      "incident_sequence": 213,
+      "observed_original_url": "https://www.facebook.com/watch/?v=1091730758770419",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Abo al hasan",
+  "publisher_ar": "Abo al hasan",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:40:12+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-6fd2e94c4e4fcbc3852d65c2",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=1091730758770419",
+  "text_ar": "",
+  "text_original": "الصـ.ـواريخ الفراغـ.ـية الروسـ.ـية والسورية تستهـ.ـدف مدينة الأتارب بريف حلب الغربي | ابوالحسن الكناني",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003767
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

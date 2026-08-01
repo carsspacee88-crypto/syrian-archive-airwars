@@ -1,0 +1,97 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/g5F0m"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "syriahr.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_403",
+      "circuit_open_status": 403,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://www.syriahr.com/بينهم-73-عنصراً-من-الجنسية-السورية-108-قتـ/737816/?fbclid=IwY2xjawGzK6ZleHRuA2FlbQIxMQABHWxB9nTXeBuQMAMW9AlxAS2j06ynTs3GvdvBgYB5klc7ErUXphyki5xfiw_aem_-cNtf4MnMEsKN1owcaDRFA",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:48:32+00:00",
+      "status": null,
+      "url": "https://www.syriahr.com/بينهم-73-عنصراً-من-الجنسية-السورية-108-قتـ/737816/?fbclid=IwY2xjawGzK6ZleHRuA2FlbQIxMQABHWxB9nTXeBuQMAMW9AlxAS2j06ynTs3GvdvBgYB5klc7ErUXphyki5xfiw_aem_-cNtf4MnMEsKN1owcaDRFA",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "Syriahr News",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "host_circuit_open_after_repeated_block_or_timeout",
+  "final_redirected_url": "https://www.syriahr.com/بينهم-73-عنصراً-من-الجنسية-السورية-108-قتـ/737816/?fbclid=IwY2xjawGzK6ZleHRuA2FlbQIxMQABHWxB9nTXeBuQMAMW9AlxAS2j06ynTs3GvdvBgYB5klc7ErUXphyki5xfiw_aem_-cNtf4MnMEsKN1owcaDRFA",
+  "incident_ids": [
+    "airwars-125524"
+  ],
+  "incident_sequences": [
+    227
+  ],
+  "normalized_url": "https://www.syriahr.com/بينهم-73-عنصراً-من-الجنسية-السورية-108-قتـ/737816/?fbclid=IwY2xjawGzK6ZleHRuA2FlbQIxMQABHWxB9nTXeBuQMAMW9AlxAS2j06ynTs3GvdvBgYB5klc7ErUXphyki5xfiw_aem_-cNtf4MnMEsKN1owcaDRFA",
+  "observed_original_urls": [
+    "https://www.syriahr.com/بينهم-73-عنصراً-من-الجنسية-السورية-108-قتـ/737816/?fbclid=IwY2xjawGzK6ZleHRuA2FlbQIxMQABHWxB9nTXeBuQMAMW9AlxAS2j06ynTs3GvdvBgYB5klc7ErUXphyki5xfiw_aem_-cNtf4MnMEsKN1owcaDRFA"
+  ],
+  "original_url": "https://www.syriahr.com/بينهم-73-عنصراً-من-الجنسية-السورية-108-قتـ/737816/?fbclid=IwY2xjawGzK6ZleHRuA2FlbQIxMQABHWxB9nTXeBuQMAMW9AlxAS2j06ynTs3GvdvBgYB5klc7ErUXphyki5xfiw_aem_-cNtf4MnMEsKN1owcaDRFA",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy062-november-20-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125524",
+      "incident_sequence": 227,
+      "observed_original_url": "https://www.syriahr.com/بينهم-73-عنصراً-من-الجنسية-السورية-108-قتـ/737816/?fbclid=IwY2xjawGzK6ZleHRuA2FlbQIxMQABHWxB9nTXeBuQMAMW9AlxAS2j06ynTs3GvdvBgYB5klc7ErUXphyki5xfiw_aem_-cNtf4MnMEsKN1owcaDRFA",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Syriahr News",
+  "publisher_ar": "Syriahr News",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:48:32+00:00",
+    "reason": "host_circuit_open_after_repeated_block_or_timeout",
+    "status": "deferred"
+  },
+  "retrieval_status": "timed_out",
+  "retrieved_at": "2026-08-01T08:48:32+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-feb9acd7105a6d1c54d014a0",
+  "source_type": "news_article",
+  "stable_id_basis": "https://www.syriahr.com/بينهم-73-عنصراً-من-الجنسية-السورية-108-قتـ/737816/?fbclid=IwY2xjawGzK6ZleHRuA2FlbQIxMQABHWxB9nTXeBuQMAMW9AlxAS2j06ynTs3GvdvBgYB5klc7ErUXphyki5xfiw_aem_-cNtf4MnMEsKN1owcaDRFA",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

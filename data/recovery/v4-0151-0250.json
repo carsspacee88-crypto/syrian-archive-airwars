@@ -1,0 +1,1795 @@
+{
+  "created_at": "2026-08-01T08:30:09+00:00",
+  "engine_version": "4.0.0",
+  "pending": {
+    "source-0162bcb953c78c254c001524": {
+      "first_deferred_at": "2026-08-01T08:31:06+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-127074"
+      ],
+      "incident_sequences": [
+        248
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:06+00:00",
+      "last_status": "blocked",
+      "original_url": "https://anfarabic.com/روج آفا - سوريا/astshhad-mwatnayn-ahdhma-tfl-wasabt-6-fy-qsf-trky-ly-tl-rft-111238",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-0162bcb953c78c254c001524"
+    },
+    "source-0251891fd56e62e4c40aed9c": {
+      "first_deferred_at": "2026-08-01T08:31:06+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-125524"
+      ],
+      "incident_sequences": [
+        227
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:06+00:00",
+      "last_status": "blocked",
+      "original_url": "https://www.syriahr.com/بعد-مقتلهم-جراء-الغارات-الإسرائيلية-ع/737468/?fbclid=IwY2xjawGzJuJleHRuA2FlbQIxMQABHWnv54PNTLSwYSo5HqD0k7-K2vcMGkDEIWpLxSz_PY-1iJsoLYO1msUSMg_aem_PZkaPpogi2Tm_XWyiq7nPw",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-0251891fd56e62e4c40aed9c"
+    },
+    "source-0b280df27ee53504dc60fd60": {
+      "first_deferred_at": "2026-08-01T08:31:06+00:00",
+      "host": "npasyria.com",
+      "incident_ids": [
+        "airwars-131286"
+      ],
+      "incident_sequences": [
+        243
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:06+00:00",
+      "last_status": "blocked",
+      "original_url": "https://npasyria.com/196058/?fbclid=IwY2xjawGIrfxleHRuA2FlbQIxMQABHZvGrHTXrEOZnRO0eMIU9Pu6EeLlAw5GXL7NhfyjO7DxmidsxHJNWbdw6A_aem_JQDNTka3o",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-0b280df27ee53504dc60fd60"
+    },
+    "source-0b68f03f494f5b5a3e3cd5eb": {
+      "first_deferred_at": "2026-08-01T08:31:06+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-164015"
+      ],
+      "incident_sequences": [
+        222
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:06+00:00",
+      "last_status": "blocked",
+      "original_url": "https://anfarabic.com/akhr-l-khbr/astshhad-altflt-rwsyl-mhmd-khlf-mtathrt-bjrahha-athr-qsf-llahtlal-altrky-112797",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-0b68f03f494f5b5a3e3cd5eb"
+    },
+    "source-0e212c9b1182e1b2cbf8a11d": {
+      "first_deferred_at": "2026-08-01T08:31:32+00:00",
+      "host": "x.com",
+      "incident_ids": [
+        "airwars-138392"
+      ],
+      "incident_sequences": [
+        193
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:32+00:00",
+      "last_status": "not_found",
+      "original_url": "https://x.com/ibra_him_7_5/status/1863133469825507435",
+      "reason": "http_404",
+      "recovery_attempts": 0,
+      "source_id": "source-0e212c9b1182e1b2cbf8a11d"
+    },
+    "source-131771b575ed45fe14c72635": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-164027"
+      ],
+      "incident_sequences": [
+        199
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "blocked",
+      "original_url": "https://anfarabic.com/روج آفا - سوريا/asabt-tflt-fy-hjmat-dwlt-alahtlal-altrky-wmrtzqtha-112852",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-131771b575ed45fe14c72635"
+    },
+    "source-16739ecbf2cfa6e8d98422dc": {
+      "first_deferred_at": "2026-08-01T08:31:06+00:00",
+      "host": "npasyria.com",
+      "incident_ids": [
+        "airwars-130253"
+      ],
+      "incident_sequences": [
+        244
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:06+00:00",
+      "last_status": "blocked",
+      "original_url": "https://npasyria.com/196004/?fbclid=IwY2xjawGHW6dleHRuA2FlbQIxMAABHSoxMKFFNpkrJmG0YcweEudp0Jlu-tse7aw2Xtq3LktpUGu8AqeuE3HZIQ_aem_NGs2F6Zpu",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-16739ecbf2cfa6e8d98422dc"
+    },
+    "source-16795e4aec52bc2bd8250f7b": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "npasyria.com",
+      "incident_ids": [
+        "airwars-130256"
+      ],
+      "incident_sequences": [
+        247
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "blocked",
+      "original_url": "https://npasyria.com/196051/?fbclid=IwY2xjawGIr8ZleHRuA2FlbQIxMAABHZbERgfI3uTyUEfhZX5usYvywV-v-A0EhnBiEcqnKRkcjZr7O5tddf7juw_aem_QYPOD97aw-znxL",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-16795e4aec52bc2bd8250f7b"
+    },
+    "source-16a1f2bca6918f9b583e4868": {
+      "first_deferred_at": "2026-08-01T08:31:44+00:00",
+      "host": "x.com",
+      "incident_ids": [
+        "airwars-132413"
+      ],
+      "incident_sequences": [
+        215
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:44+00:00",
+      "last_status": "successful",
+      "original_url": "https://x.com/SyriaCivilDefe/status/1862057983296815599\\",
+      "reason": "successful",
+      "recovery_attempts": 0,
+      "source_id": "source-16a1f2bca6918f9b583e4868"
+    },
+    "source-1752bb5ddefe6252e4ddd537": {
+      "first_deferred_at": "2026-08-01T08:31:06+00:00",
+      "host": "alyaumtv.net",
+      "incident_ids": [
+        "airwars-226257"
+      ],
+      "incident_sequences": [
+        180
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:06+00:00",
+      "last_status": "blocked",
+      "original_url": "https://alyaumtv.net/دوي-انفجار-في-مدينة-المالكية-ديريك-شما/",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-1752bb5ddefe6252e4ddd537"
+    },
+    "source-177926b14bd3ed5e13fd4c5d": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-226273"
+      ],
+      "incident_sequences": [
+        154
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "blocked",
+      "original_url": "https://www.syriahr.com/استشهاد-وإصابة-7-مدنيين-بانفجار-ألغام-و/741921/?fbclid=IwY2xjawHV_A9leHRuA2FlbQIxMQABHRECL81NXSDHCI2QhfD902uBUkzHTc5CpXNt8X6C8Mmt_zqzM1Z",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-177926b14bd3ed5e13fd4c5d"
+    },
+    "source-18868cbc20bfc6ee47689c7c": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-131308",
+        "airwars-131431"
+      ],
+      "incident_sequences": [
+        241,
+        242
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://anfarabic.com/akhr-l-khbr/asabt-tflyn-jra-qsf-alahtlal-altrky-lmbr-wn-aldadat-111400",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-18868cbc20bfc6ee47689c7c"
+    },
+    "source-1ab157e16485580f69324510": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-164015"
+      ],
+      "incident_sequences": [
+        222
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://anfarabic.com/akhr-l-khbr/-112606",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-1ab157e16485580f69324510"
+    },
+    "source-1ca2886603df27c96748b231": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-226257"
+      ],
+      "incident_sequences": [
+        180
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "blocked",
+      "original_url": "https://www.syriahr.com/استمرارا-للهـ-ـجـ-ـمات-التركية-استشها/739163/?fbclid=IwY2xjawG9Y5NleHRuA2FlbQIxMQABHQ9pGa-5qFQUyupL6J2ewj3h80xjKZZq1WZfflxpOXiHl7p2-JE_NSOi",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-1ca2886603df27c96748b231"
+    },
+    "source-231c68f63e389d454d16b6e8": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "npasyria.com",
+      "incident_ids": [
+        "airwars-216118"
+      ],
+      "incident_sequences": [
+        174
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://npasyria.com/199327/?fbclid=IwY2xjawG-fp9leHRuA2FlbQIxMAABHcsB71vHvoJ10Zbiq_azwxHYee7WprVXFfxxoIx0Lkzt2oLde-plsoG5TA_aem_DOAowqDpbTNS",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-231c68f63e389d454d16b6e8"
+    },
+    "source-2439739184207692eb6bf87c": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-133685"
+      ],
+      "incident_sequences": [
+        229
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://anfarabic.com/روج آفا - سوريا/astshhad-mwatn-mtathraa-bjrahh-fy-qsf-alahtlal-altrky-112436",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-2439739184207692eb6bf87c"
+    },
+    "source-25306511dd27c5215241f13a": {
+      "first_deferred_at": "2026-08-01T08:32:14+00:00",
+      "host": "x.com",
+      "incident_ids": [
+        "airwars-190633"
+      ],
+      "incident_sequences": [
+        176
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:32:14+00:00",
+      "last_status": "not_found",
+      "original_url": "https://x.com/ibra_him_7_5/status/1864210775541235985",
+      "reason": "http_404",
+      "recovery_attempts": 0,
+      "source_id": "source-25306511dd27c5215241f13a"
+    },
+    "source-25368615a088afb3dca7eb5c": {
+      "first_deferred_at": "2026-08-01T08:31:06+00:00",
+      "host": "vdc-nsy.com",
+      "incident_ids": [
+        "airwars-133685",
+        "airwars-133686"
+      ],
+      "incident_sequences": [
+        229,
+        230
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:06+00:00",
+      "last_status": "unavailable",
+      "original_url": "https://vdc-nsy.com/archives/68937?fbclid=IwY2xjawGvw6BleHRuA2FlbQIxMQABHZzrHv_jUqFivAQBaobgFn1VuqGqIclVyN2YvOcrzM94yHluCzLYZPu-2g_aem_dYjNO6",
+      "reason": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)",
+      "recovery_attempts": 0,
+      "source_id": "source-25368615a088afb3dca7eb5c"
+    },
+    "source-25b60e820289d1de9d8bfa93": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "npasyria.com",
+      "incident_ids": [
+        "airwars-240845",
+        "airwars-216137"
+      ],
+      "incident_sequences": [
+        159,
+        160
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://npasyria.com/199994/",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-25b60e820289d1de9d8bfa93"
+    },
+    "source-2644054b254cfed657577c84": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "npasyria.com",
+      "incident_ids": [
+        "airwars-240845"
+      ],
+      "incident_sequences": [
+        159
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://npasyria.com/200031/?fbclid=IwY2xjawHGhWJleHRuA2FlbQIxMAABHfDvh7sSwh0tE4ghCROBDGI5i_kt0ZsQ3_VAIyDMDguBnEoEBhrcGPT7Tg_aem_LIAezhMr_yH",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-2644054b254cfed657577c84"
+    },
+    "source-2c4f4fff0f7f30d331972b94": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "npasyria.com",
+      "incident_ids": [
+        "airwars-226273"
+      ],
+      "incident_sequences": [
+        154
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://npasyria.com/201071/",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-2c4f4fff0f7f30d331972b94"
+    },
+    "source-2e6705f2acff73d6e0b4cf67": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-138390"
+      ],
+      "incident_sequences": [
+        192
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/تصعيد-روسي-5-غارات-جوية-تستهدف-الأحياء/738571/?fbclid=IwY2xjawIDgBFleHRuA2FlbQIxMQABHaIMxwZBPmaCGrt1UCYf8-9tFA9sE7eEoPzJEVFHwcVnPbSPsX8y2kjY-A_aem_bM6h2YxKKqyDx9pSySzZYw",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-2e6705f2acff73d6e0b4cf67"
+    },
+    "source-31907760069b94c42f9d856f": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-131286",
+        "airwars-130255",
+        "airwars-130256",
+        "airwars-127074"
+      ],
+      "incident_sequences": [
+        243,
+        246,
+        247,
+        248
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://anfarabic.com/akhr-l-khbr/qsf-trky-ly-mnatq-shmal-wshrq-swrya-ysfr-n-astshhad-wasabt-54-mwatnaa-111338",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-31907760069b94c42f9d856f"
+    },
+    "source-36ff8780bc8c114266a112af": {
+      "first_deferred_at": "2026-08-01T08:31:06+00:00",
+      "host": "ronahi.tv",
+      "incident_ids": [
+        "airwars-164026",
+        "airwars-164027"
+      ],
+      "incident_sequences": [
+        198,
+        199
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:06+00:00",
+      "last_status": "blocked",
+      "original_url": "https://ronahi.tv/ar/إصابة-طفلة-ومواطن-بقصف-للاحتلال-الترك/",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-36ff8780bc8c114266a112af"
+    },
+    "source-38ac7c48b065fd85f9f99eff": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-226259"
+      ],
+      "incident_sequences": [
+        164
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/بقصف-مدفعي-للقوات-التركية-استشهاد-طفل/740163/",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-38ac7c48b065fd85f9f99eff"
+    },
+    "source-39afad753f867ef305ff2ab6": {
+      "first_deferred_at": "2026-08-01T08:35:38+00:00",
+      "host": "facebook.com",
+      "incident_ids": [
+        "airwars-125524"
+      ],
+      "incident_sequences": [
+        227
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:35:38+00:00",
+      "last_status": "not_found",
+      "original_url": "https://www.facebook.com/search/posts/?q=تدمر &filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC0xMVxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjQtMTFcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDI0LTExLTIyXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtMTEtMjJcXFwifVwifSJ9&epa=FILTERS",
+      "reason": "http_404",
+      "recovery_attempts": 0,
+      "source_id": "source-39afad753f867ef305ff2ab6"
+    },
+    "source-3b947b42b577a76dbcec17a7": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "npasyria.com",
+      "incident_ids": [
+        "airwars-130253",
+        "airwars-127074"
+      ],
+      "incident_sequences": [
+        244,
+        248
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://npasyria.com/195943/?fbclid=IwY2xjawGG3h9leHRuA2FlbQIxMAABHUVQH8ftgQERI2lX4jPtU9itRpOa7X9iV0jum5mivY4KGrDwELwzU1gn2Q_aem_kNsFpHlDgH",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-3b947b42b577a76dbcec17a7"
+    },
+    "source-4056699f705b1871bad07997": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "npasyria.com",
+      "incident_ids": [
+        "airwars-216139"
+      ],
+      "incident_sequences": [
+        162
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://npasyria.com/199745/?fbclid=IwY2xjawHDuBZleHRuA2FlbQIxMAABHV9oFVMYloG5ie9ZAMZ-2WE2uz5Fd5kmjLUQ3QkrVlPmxSewlrgcu7FyIA_aem_ugg1BPlkQ",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-4056699f705b1871bad07997"
+    },
+    "source-41e3c979e192753dd940a090": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-127072"
+      ],
+      "incident_sequences": [
+        250
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://anfarabic.com/akhr-l-khbr/l-111119",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-41e3c979e192753dd940a090"
+    },
+    "source-4356e2dc1b8ce26b5f411e81": {
+      "first_deferred_at": "2026-08-01T08:31:17+00:00",
+      "host": "sana.sy",
+      "incident_ids": [
+        "airwars-125499",
+        "airwars-125581"
+      ],
+      "incident_sequences": [
+        231,
+        232
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:17+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://sana.sy/?p=2166349",
+      "reason": "ReadTimeout: ",
+      "recovery_attempts": 0,
+      "source_id": "source-4356e2dc1b8ce26b5f411e81"
+    },
+    "source-43cf7e3f0ef2ee85e8a6f4ce": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "npasyria.com",
+      "incident_ids": [
+        "airwars-240849"
+      ],
+      "incident_sequences": [
+        157
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://npasyria.com/200053/?fbclid=IwY2xjawHGhCdleHRuA2FlbQIxMAABHVpV3-rKVUlbRRPt1U0ddZjdup_tK1tkwrGtiYc8EkQq1YxIZGjryH8jfw_aem_jezEqKhNsE-v-o",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-43cf7e3f0ef2ee85e8a6f4ce"
+    },
+    "source-45541b96196f8ae04f8458c7": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "vdc-nsy.com",
+      "incident_ids": [
+        "airwars-130253",
+        "airwars-127074"
+      ],
+      "incident_sequences": [
+        244,
+        248
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "unavailable",
+      "original_url": "https://vdc-nsy.com/archives/68796",
+      "reason": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)",
+      "recovery_attempts": 0,
+      "source_id": "source-45541b96196f8ae04f8458c7"
+    },
+    "source-45a9f572d22480a67ae8344a": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-164021"
+      ],
+      "incident_sequences": [
+        220
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/المدفعية-التركية-تقصف-5-قرى-في-ريف-منبج/738095/?fbclid=IwY2xjawG08etleHRuA2FlbQIxMQABHVnOp3rFb8lSP_TrdByNAla16OgdG99KEGiciJUqrl0D",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-45a9f572d22480a67ae8344a"
+    },
+    "source-46ae8fd56e51a55e2211b4ee": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-138419"
+      ],
+      "incident_sequences": [
+        197
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/مقـ-ـتل-واستشهاد-وإصابة-35-شخصا-الطيران/738625/?fbclid=IwY2xjawG9SKlleHRuA2FlbQIxMQABHa4LZLBAALHEsAqERowHUwFGInt9KBvo2o87gIruJJgKhFQQ6ubwnvK3Yw_aem_3wbD8tMdrIB5VEh-R1HMVg",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-46ae8fd56e51a55e2211b4ee"
+    },
+    "source-4b1d0634f7c22eb7ecf491b2": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-133687"
+      ],
+      "incident_sequences": [
+        238
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://anfarabic.com/akhr-l-khbr/asabt-7-ashkhas-bynhm-3-nasr-mn-qwy-alamn-aldakhly-111429",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-4b1d0634f7c22eb7ecf491b2"
+    },
+    "source-4b7b3a9213ed341762065d01": {
+      "first_deferred_at": "2026-08-01T08:31:06+00:00",
+      "host": "alyaumtv.net",
+      "incident_ids": [
+        "airwars-131316"
+      ],
+      "incident_sequences": [
+        237
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:06+00:00",
+      "last_status": "blocked",
+      "original_url": "https://alyaumtv.net/إصابة-طفل-جراء-قصف-للاحتلال-التركي-على/",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-4b7b3a9213ed341762065d01"
+    },
+    "source-4c6b98787d890a97294f71a9": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-164015",
+        "airwars-164019"
+      ],
+      "incident_sequences": [
+        222,
+        223
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/بينهم-3-أطفال-10-جرحى-من-المدنيين-بقصف-للف/737753/?fbclid=IwY2xjawGxBuxleHRuA2FlbQIxMQABHVC3R3k05LcARbo-EQsgauxoQzCzeatlRmZQV_ilS88f8",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-4c6b98787d890a97294f71a9"
+    },
+    "source-4cbad21f34d279bd3df86c7b": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-164019"
+      ],
+      "incident_sequences": [
+        223
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://anfarabic.com/روج آفا - سوريا/asabt-4-mwatnyn-bynhm-tflt-fy-qsf-llahtlal-altrky-ly-tl-rft-112618",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-4cbad21f34d279bd3df86c7b"
+    },
+    "source-4dac5f8a891868bba47b3ab4": {
+      "first_deferred_at": "2026-08-01T08:32:57+00:00",
+      "host": "x.com",
+      "incident_ids": [
+        "airwars-138490"
+      ],
+      "incident_sequences": [
+        189
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:32:57+00:00",
+      "last_status": "not_found",
+      "original_url": "https://x.com/Star2Hsyn39635/status/1863312772974494000",
+      "reason": "http_404",
+      "recovery_attempts": 0,
+      "source_id": "source-4dac5f8a891868bba47b3ab4"
+    },
+    "source-4e89a28b81ce0d15befe4bdc": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-164029"
+      ],
+      "incident_sequences": [
+        183
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/استشهاد-8-مواطنين-بينهم-طفل-بقصف-على-مدي/738830/?fbclid=IwY2xjawG7elZleHRuA2FlbQIxMQABHaReFL0Qv8W7ywtOlLnkXZ_5OD1xhHjtPIk5fF4rcCor1v8",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-4e89a28b81ce0d15befe4bdc"
+    },
+    "source-540bd304e1f002d4b0e5043c": {
+      "first_deferred_at": "2026-08-01T08:31:06+00:00",
+      "host": "enabbaladi.net",
+      "incident_ids": [
+        "airwars-125524"
+      ],
+      "incident_sequences": [
+        227
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:06+00:00",
+      "last_status": "blocked",
+      "original_url": "https://www.enabbaladi.net/725577/?fbclid=IwY2xjawGzK55leHRuA2FlbQIxMQABHTEqUk4pzgbPDHZ-kR-tyt28JRLV92sTURTop1CqyI6mb2UZEd_FVZecEQ_aem_ITrKjXHiwtHZyxKOBI-pWQ",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-540bd304e1f002d4b0e5043c"
+    },
+    "source-55d5677c63ba06a30fdb0276": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-190684",
+        "airwars-190692"
+      ],
+      "incident_sequences": [
+        166,
+        167
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/تعزيزات-عسكرية-للفصائل-في-محيط-مدينة-ح/739696/?fbclid=IwY2xjawHE_Q1leHRuA2FlbQIxMQABHYlpxiWgNysuX8wDuTZ93y6s0OkIcHkVHcckPllLHivRq75xSybr8en6GQ_aem_WUiGIS38IAij7EFmxiZLow",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-55d5677c63ba06a30fdb0276"
+    },
+    "source-56b868832a42a7316ad37299": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-164021"
+      ],
+      "incident_sequences": [
+        220
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://anfarabic.com/روج آفا - سوريا/asabt-tfl-fy-qsf-alahtlal-altrky-wmrtzqth-lryf-mnbj-112744",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-56b868832a42a7316ad37299"
+    },
+    "source-5b02c3d61219945bf8ff9373": {
+      "first_deferred_at": "2026-08-01T08:31:06+00:00",
+      "host": "whitehelmets.org",
+      "incident_ids": [
+        "airwars-138390"
+      ],
+      "incident_sequences": [
+        192
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:06+00:00",
+      "last_status": "not_found",
+      "original_url": "https://whitehelmets.org/index.php/ar/report/tqaryr-mydanyt/hlb-wadlb-tht-alnarshrat-aldhaya-bgharat-jwyt-lnzam-alasd-ly-almdyntyn",
+      "reason": "http_404",
+      "recovery_attempts": 0,
+      "source_id": "source-5b02c3d61219945bf8ff9373"
+    },
+    "source-5f3f1bc09630e2f84888f241": {
+      "first_deferred_at": "2026-08-01T08:38:28+00:00",
+      "host": "facebook.com",
+      "incident_ids": [
+        "airwars-125524"
+      ],
+      "incident_sequences": [
+        227
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:38:28+00:00",
+      "last_status": "not_found",
+      "original_url": "https://www.facebook.com/search/posts/?q=تدمر&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC0xMVxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjQtMTFcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDI0LTExLTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtMTEtMjBcXFwifVwifSJ9&epa=FILTERS",
+      "reason": "http_404",
+      "recovery_attempts": 0,
+      "source_id": "source-5f3f1bc09630e2f84888f241"
+    },
+    "source-6097da2ee9c7275b927eef65": {
+      "first_deferred_at": "2026-08-01T08:38:37+00:00",
+      "host": "facebook.com",
+      "incident_ids": [
+        "airwars-138419"
+      ],
+      "incident_sequences": [
+        197
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:38:37+00:00",
+      "last_status": "not_found",
+      "original_url": "https://www.facebook.com/search/posts/?q=جعفر حوري الصغير&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC0xMlxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjQtMTJcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDI0LTEyLTJcXFwiLFxcXCJlbmRfZGF5XFxcIjpcXFwiMjAyNC0xMi0yXFxcIn1cIn0ifQ==&epa=FILTERS",
+      "reason": "http_404",
+      "recovery_attempts": 0,
+      "source_id": "source-6097da2ee9c7275b927eef65"
+    },
+    "source-65c725b3fbd3d3073b34cc02": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "alyaumtv.net",
+      "incident_ids": [
+        "airwars-233506"
+      ],
+      "incident_sequences": [
+        152
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "blocked",
+      "original_url": "https://alyaumtv.net/إصابة-مدنيين-اثنين-باستهداف-مسيرة-للا-2/",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-65c725b3fbd3d3073b34cc02"
+    },
+    "source-68feb7d9c11155586ee14fd4": {
+      "first_deferred_at": "2026-08-01T08:31:06+00:00",
+      "host": "ronahi.tv",
+      "incident_ids": [
+        "airwars-164021"
+      ],
+      "incident_sequences": [
+        220
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:06+00:00",
+      "last_status": "blocked",
+      "original_url": "https://ronahi.tv/ar/إصابة-طفل-بقصف-للاحتلال-التركي-على-الر/",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-68feb7d9c11155586ee14fd4"
+    },
+    "source-6954bf97adb2159a76547333": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "alyaumtv.net",
+      "incident_ids": [
+        "airwars-164014"
+      ],
+      "incident_sequences": [
+        226
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://alyaumtv.net/الاحتلال-التركي-يقصف-ريف-تل-أبيض-كري-س/",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-6954bf97adb2159a76547333"
+    },
+    "source-6a167a75c50fad62e71ed1ad": {
+      "first_deferred_at": "2026-08-01T08:31:08+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-240854"
+      ],
+      "incident_sequences": [
+        161
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:08+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/استشهاد-وإصابة-3-من-الكوادر-الطبية-باسـ/740368/",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-6a167a75c50fad62e71ed1ad"
+    },
+    "source-6f2c605ef398a742d7dd472c": {
+      "first_deferred_at": "2026-08-01T08:31:08+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-125524"
+      ],
+      "incident_sequences": [
+        227
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:08+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/معظمهم-من-السوريين-ارتفاع-حصيلة-قتـ-ـل/737676/",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-6f2c605ef398a742d7dd472c"
+    },
+    "source-6ff4b3e70193864fcd43b9ff": {
+      "first_deferred_at": "2026-08-01T08:31:08+00:00",
+      "host": "vdc-nsy.com",
+      "incident_ids": [
+        "airwars-240843"
+      ],
+      "incident_sequences": [
+        156
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:08+00:00",
+      "last_status": "unavailable",
+      "original_url": "https://vdc-nsy.com/archives/69151?fbclid=IwY2xjawHSAO5leHRuA2FlbQIxMQABHRxm26AAAsNye5ytsAHLqGDCf12EFJLGWJpVeAie_eK9WzqfMWKlVEMEyQ_aem_O2QCFETySrV5-jCNRCJseQ#google_vignette",
+      "reason": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)",
+      "recovery_attempts": 0,
+      "source_id": "source-6ff4b3e70193864fcd43b9ff"
+    },
+    "source-71298841e31af30dfa15d3bd": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-131291"
+      ],
+      "incident_sequences": [
+        239
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://anfarabic.com/روج آفا - سوريا/asabt-mwatn-jra-qsf-llahtlal-altrky-ly-ryf-tl-tmr-111365",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-71298841e31af30dfa15d3bd"
+    },
+    "source-72b685f35a7702e932345f0d": {
+      "first_deferred_at": "2026-08-01T08:31:08+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-125524"
+      ],
+      "incident_sequences": [
+        227
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:08+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/في-الهجوم-الإسرائيلي-الأكثر-دموية-على/737378/?fbclid=IwY2xjawGyuORleHRuA2FlbQIxMQABHU_rywMlatIlG6mnLAB2gTKV5sh10MBU8Jeg_FcJ-fd4SVAp_GRFPU4UnA_aem_pU3uCUeiK0NOu0o9KhoS6w",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-72b685f35a7702e932345f0d"
+    },
+    "source-72b784def63e7071306a9045": {
+      "first_deferred_at": "2026-08-01T08:31:08+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-240845"
+      ],
+      "incident_sequences": [
+        159
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:08+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/بضربات-من-المسيرات-التركية-استشهاد-وإ/740306/?fbclid=IwY2xjawHGFPBleHRuA2FlbQIxMQABHegboUwJxceUP6dohxs92omh_MOd8zuHpXp8igmvJQHiwB",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-72b784def63e7071306a9045"
+    },
+    "source-76ea1041a6f6497cf6a57d06": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "ronahi.tv",
+      "incident_ids": [
+        "airwars-233508"
+      ],
+      "incident_sequences": [
+        155
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "blocked",
+      "original_url": "https://ronahi.tv/ar/archives/262222",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-76ea1041a6f6497cf6a57d06"
+    },
+    "source-7c56bd039be1fef0c8a637a7": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-130253"
+      ],
+      "incident_sequences": [
+        244
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://anfarabic.com/akhr-l-khbr/y-111253",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-7c56bd039be1fef0c8a637a7"
+    },
+    "source-7dc8f1d0312ee41858595f43": {
+      "first_deferred_at": "2026-08-01T08:31:06+00:00",
+      "host": "fdd.org",
+      "incident_ids": [
+        "airwars-125418"
+      ],
+      "incident_sequences": [
+        249
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:06+00:00",
+      "last_status": "blocked",
+      "original_url": "https://www.fdd.org/analysis/op_eds/2025/04/21/israel-kills-hezbollah-unit-4400-deputy-commander-amid-allegations-of-continued-smuggling",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-7dc8f1d0312ee41858595f43"
+    },
+    "source-7f66f5dc2882e4227ad30e7f": {
+      "first_deferred_at": "2026-08-01T08:41:39+00:00",
+      "host": "facebook.com",
+      "incident_ids": [
+        "airwars-131312"
+      ],
+      "incident_sequences": [
+        236
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:41:39+00:00",
+      "last_status": "login_required",
+      "original_url": "https://www.facebook.com/groups/300708263842747/user/100059662001676/?__cft__[0]=AZUdB_Nk1wiPv3AwYID6zHYkkkwesR9xqxlDNDuWinXn-awuf__jghxx5n5UYDCPoNtmjxiRRH9Lk1HL-KB81JxY4Go6B_ztsYRtwjE5rfbWFC0_Q4qsopgfcEV-gUUS9MiI4QnIyCIGBEtUOPhZ5QllsT32fO0nJ3cemlAsFUMH_kQ9BmfIWo3R9QnYAY6-hX05h7-JcejF9oMC4UiJVI-7&__tn__=,P-R",
+      "reason": "login_required",
+      "recovery_attempts": 0,
+      "source_id": "source-7f66f5dc2882e4227ad30e7f"
+    },
+    "source-81f51eb6ec018a087c8c77ec": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "ronahi.tv",
+      "incident_ids": [
+        "airwars-240843"
+      ],
+      "incident_sequences": [
+        156
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://ronahi.tv/ar/archives/261955",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-81f51eb6ec018a087c8c77ec"
+    },
+    "source-83feb01e99408cfeac760443": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-131316"
+      ],
+      "incident_sequences": [
+        237
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://anfarabic.com/akhr-l-khbr/asabt-tfl-jra-qsf-trky-ly-qryt-fy-mqatt-mnbj-111433",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-83feb01e99408cfeac760443"
+    },
+    "source-8546c00dad3463a2acc14f41": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "ronahi.tv",
+      "incident_ids": [
+        "airwars-233506"
+      ],
+      "incident_sequences": [
+        152
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://ronahi.tv/ar/archives/263497",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-8546c00dad3463a2acc14f41"
+    },
+    "source-88b8e867951793eebfe03850": {
+      "first_deferred_at": "2026-08-01T08:31:08+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-233508"
+      ],
+      "incident_sequences": [
+        155
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:08+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/وسط-تصعيد-تركي-بالطيران-المسيّر-ارتفا/741741/?fbclid=IwY2xjawHTzElleHRuA2FlbQIxMQABHY7XhCSbHClmPMVLol6vysLbPlwf74KuV8N6jjmgvvDEp5_13W",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-88b8e867951793eebfe03850"
+    },
+    "source-8ad3177b45ea1051f5c0f4d2": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-133687"
+      ],
+      "incident_sequences": [
+        238
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://anfarabic.com/akhr-l-khbr/alqsf-altrky-ysfr-n-asabt-8-mwatnyn-fy-amwda-111422",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-8ad3177b45ea1051f5c0f4d2"
+    },
+    "source-8f6a18d2e5293b59b169026e": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "npasyria.com",
+      "incident_ids": [
+        "airwars-216122"
+      ],
+      "incident_sequences": [
+        165
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://npasyria.com/199751/?fbclid=IwY2xjawHEx9hleHRuA2FlbQIxMAABHXncIGV3RMRNpjTJBKQdU0dD9L_-URoJ2jdn0Jv0X-71C3jMvYBmS1Kh7A_aem_2pofd6UqDp",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-8f6a18d2e5293b59b169026e"
+    },
+    "source-916128131aea67c7ab3b4341": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "ronahi.tv",
+      "incident_ids": [
+        "airwars-127072"
+      ],
+      "incident_sequences": [
+        250
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://ronahi.tv/ar/استشهاد-3-أطفال-في-قصف-الاحتلال-التركي-ع/",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-916128131aea67c7ab3b4341"
+    },
+    "source-95436c584c77d3f9bcb677d4": {
+      "first_deferred_at": "2026-08-01T08:31:08+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-127074"
+      ],
+      "incident_sequences": [
+        248
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:08+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/بقصف-تركي-على-منزل-سكني-استشهاد-رجل-وط/733838/?fbclid=IwY2xjawGGxOlleHRuA2FlbQIxMQABHaMt1IaRIY_59bemvruBiw14ItFm1t7TcR0uwW7u5PPFx",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-95436c584c77d3f9bcb677d4"
+    },
+    "source-976c5819a49d0ee57619a595": {
+      "first_deferred_at": "2026-08-01T08:43:41+00:00",
+      "host": "facebook.com",
+      "incident_ids": [
+        "airwars-138419"
+      ],
+      "incident_sequences": [
+        197
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:43:41+00:00",
+      "last_status": "not_found",
+      "original_url": "https://www.facebook.com/search/posts/?q=آصف صبرة &filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC0xMlxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjQtMTJcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDI0LTEyLTJcXFwiLFxcXCJlbmRfZGF5XFxcIjpcXFwiMjAyNC0xMi0yXFxcIn1cIn0ifQ==&epa=FILTERS",
+      "reason": "http_404",
+      "recovery_attempts": 0,
+      "source_id": "source-976c5819a49d0ee57619a595"
+    },
+    "source-9c0e0c1b9fbe21c0876d11d9": {
+      "first_deferred_at": "2026-08-01T08:31:08+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-130256"
+      ],
+      "incident_sequences": [
+        247
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:08+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/بقصف-مدفعي-للقوات-التركية-استشهاد-وإص/734025/?fbclid=IwY2xjawGIHmJleHRuA2FlbQIxMQABHb5wNChlQE8vVHwaDElW2_mVSeDQtxjSglcIETHpGoS4Y",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-9c0e0c1b9fbe21c0876d11d9"
+    },
+    "source-a34d63ab81363f9fb3bc07ff": {
+      "first_deferred_at": "2026-08-01T08:31:08+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-134828"
+      ],
+      "incident_sequences": [
+        153
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:08+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/مقـ-ـتل-وإصابة-3-من-تجار-السلاح-باسـ-ـتـ/742089/?fbclid=IwY2xjawH7IJdleHRuA2FlbQIxMQABHUMO7F9e1jp6svrSSJhM9dZKBluWuycOKB1fFv6KcFKtNpVZjM05ufJueA_aem_3C85ZnNr0_h3eY5mt65wyA",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-a34d63ab81363f9fb3bc07ff"
+    },
+    "source-a56b2805eb90af68778e6d6e": {
+      "first_deferred_at": "2026-08-01T08:31:06+00:00",
+      "host": "alghad.tv",
+      "incident_ids": [
+        "airwars-216122"
+      ],
+      "incident_sequences": [
+        165
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:06+00:00",
+      "last_status": "blocked",
+      "original_url": "https://www.alghad.tv/أخبار-الغد/news/المرصد-السوري-مقتل-11-مدنيا-جراء-استهداف-مسيرة-تركية-منزلا-في-الرقة",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-a56b2805eb90af68778e6d6e"
+    },
+    "source-ac538eda8370f8dc1a1ba21d": {
+      "first_deferred_at": "2026-08-01T08:45:20+00:00",
+      "host": "facebook.com",
+      "incident_ids": [
+        "airwars-132367"
+      ],
+      "incident_sequences": [
+        219
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:45:20+00:00",
+      "last_status": "not_found",
+      "original_url": "https://www.facebook.com/search/posts/?q=الأتارب عنقودية &filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC0xMVxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjQtMTFcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDI0LTExLTI3XFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtMTEtMjdcXFwifVwifSJ9&epa=FILTERS",
+      "reason": "http_404",
+      "recovery_attempts": 0,
+      "source_id": "source-ac538eda8370f8dc1a1ba21d"
+    },
+    "source-b03874b1b5522029a4f42ca7": {
+      "first_deferred_at": "2026-08-01T08:31:36+00:00",
+      "host": "sana.sy",
+      "incident_ids": [
+        "airwars-125524"
+      ],
+      "incident_sequences": [
+        227
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:36+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://sana.sy/en/?p=341991",
+      "reason": "ReadTimeout: ",
+      "recovery_attempts": 0,
+      "source_id": "source-b03874b1b5522029a4f42ca7"
+    },
+    "source-b0e07916e4b8f06aaab73b10": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-164026"
+      ],
+      "incident_sequences": [
+        198
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://anfarabic.com/روج آفا - سوريا/qsf-alahtlal-altrky-ly-ryf-fryn-walshhba-ytsbb-basabt-ahd-almwatnyn-112843",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-b0e07916e4b8f06aaab73b10"
+    },
+    "source-b0ea56b38bcdad35826fc3bd": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "npasyria.com",
+      "incident_ids": [
+        "airwars-216122"
+      ],
+      "incident_sequences": [
+        165
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://npasyria.com/199727/?fbclid=IwY2xjawHDlOhleHRuA2FlbQIxMAABHcSAC42o72qKMUUGOk_f-zbj6PF8r0lMIoLdr5yIPxCxAbzLyBcUssSr9A_aem_Y5HO_UjGNvI1",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-b0ea56b38bcdad35826fc3bd"
+    },
+    "source-b0ef175202820b175e5f1f52": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "ronahi.tv",
+      "incident_ids": [
+        "airwars-133687"
+      ],
+      "incident_sequences": [
+        238
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://ronahi.tv/ar/قوى-الأمن-الداخلي-إصابة-7-أشخاص-بينهم-3-ع/",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-b0ef175202820b175e5f1f52"
+    },
+    "source-b4c7f458d35dc450fa1af962": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-133688"
+      ],
+      "incident_sequences": [
+        235
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://anfarabic.com/روج آفا - سوريا/wfat-mwatn-mn-fryn-fy-hadtht-dhs-bsyart-llmrtzqt-111620",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-b4c7f458d35dc450fa1af962"
+    },
+    "source-b6aa8e2011ff5856fab0eb46": {
+      "first_deferred_at": "2026-08-01T08:31:08+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-164023"
+      ],
+      "incident_sequences": [
+        210
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:08+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/استشهاد-وإصابة-6-طلاب-جامعيين-في-قصف-صار/738214/",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-b6aa8e2011ff5856fab0eb46"
+    },
+    "source-b7fe73abbddcac3833cc5a6f": {
+      "first_deferred_at": "2026-08-01T08:46:21+00:00",
+      "host": "facebook.com",
+      "incident_ids": [
+        "airwars-125524"
+      ],
+      "incident_sequences": [
+        227
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:46:21+00:00",
+      "last_status": "not_found",
+      "original_url": "https://www.facebook.com/search/posts/?q= استراحة ذاكر&filters=eyJycF9jcmVhdGlvbl90aW1lIjoie1wibmFtZVwiOlwiY3JlYXRpb25fdGltZVwiLFwiYXJnc1wiOlwie1xcXCJzdGFydF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcInN0YXJ0X21vbnRoXFxcIjpcXFwiMjAyNC0xMVxcXCIsXFxcImVuZF95ZWFyXFxcIjpcXFwiMjAyNFxcXCIsXFxcImVuZF9tb250aFxcXCI6XFxcIjIwMjQtMTFcXFwiLFxcXCJzdGFydF9kYXlcXFwiOlxcXCIyMDI0LTExLTIwXFxcIixcXFwiZW5kX2RheVxcXCI6XFxcIjIwMjQtMTEtMjBcXFwifVwifSJ9&epa=FILTERS",
+      "reason": "http_404",
+      "recovery_attempts": 0,
+      "source_id": "source-b7fe73abbddcac3833cc5a6f"
+    },
+    "source-bb5b2ffde90145f76e8df8dd": {
+      "first_deferred_at": "2026-08-01T08:31:08+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-127072"
+      ],
+      "incident_sequences": [
+        250
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:08+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/استشهاد-3-أطفال-بقصف-مدفعي-تركي-على-بلدة/733447/?fbclid=IwY2xjawGCJpZleHRuA2FlbQIxMQABHXovJVBXPL2vFOJQ2ZxVn-J8A3EKWco706Yzi3n795H-g",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-bb5b2ffde90145f76e8df8dd"
+    },
+    "source-bc73757902b05e31b291223d": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-133686"
+      ],
+      "incident_sequences": [
+        230
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://anfarabic.com/روج آفا - سوريا/asabt-mdny-fy-qsf-mrtzqt-alahtlal-altrky-lqry-alshhba-112440",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-bc73757902b05e31b291223d"
+    },
+    "source-bd8b6ac6f631195032cfdfd9": {
+      "first_deferred_at": "2026-08-01T08:31:06+00:00",
+      "host": "sdf-press.com",
+      "incident_ids": [
+        "airwars-130253",
+        "airwars-127074"
+      ],
+      "incident_sequences": [
+        244,
+        248
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:06+00:00",
+      "last_status": "blocked",
+      "original_url": "https://sdf-press.com/en/2024/10/statement-12-civilians-martyred-due-to-turkish-aggressions/",
+      "reason": "http_403",
+      "recovery_attempts": 0,
+      "source_id": "source-bd8b6ac6f631195032cfdfd9"
+    },
+    "source-c12f0e19e249bc4726ee5142": {
+      "first_deferred_at": "2026-08-01T08:31:05+00:00",
+      "host": "aboalhodaalhoms",
+      "incident_ids": [
+        "airwars-131062"
+      ],
+      "incident_sequences": [
+        224
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:05+00:00",
+      "last_status": "unavailable",
+      "original_url": "http://aboalhodaalhoms",
+      "reason": "ConnectError: [Errno -3] Temporary failure in name resolution",
+      "recovery_attempts": 0,
+      "source_id": "source-c12f0e19e249bc4726ee5142"
+    },
+    "source-c154800bb514eb96a2099627": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "ronahi.tv",
+      "incident_ids": [
+        "airwars-226273"
+      ],
+      "incident_sequences": [
+        154
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://ronahi.tv/ar/archives/262409",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-c154800bb514eb96a2099627"
+    },
+    "source-c1ab9b868a141b35e07dd161": {
+      "first_deferred_at": "2026-08-01T08:31:08+00:00",
+      "host": "vdc-nsy.com",
+      "incident_ids": [
+        "airwars-226259"
+      ],
+      "incident_sequences": [
+        164
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:08+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://vdc-nsy.com/archives/69076?fbclid=IwY2xjawHEy8pleHRuA2FlbQIxMQABHXVi9tktNBk_zj1xouXCv8pQ0-JgmWPXetEv5dtqZYq5TwUkWWAhsJ2Abg_aem_re_HRi",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-c1ab9b868a141b35e07dd161"
+    },
+    "source-c1bfa873cd2a2129188e655a": {
+      "first_deferred_at": "2026-08-01T08:34:57+00:00",
+      "host": "x.com",
+      "incident_ids": [
+        "airwars-138496"
+      ],
+      "incident_sequences": [
+        182
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:34:57+00:00",
+      "last_status": "not_found",
+      "original_url": "https://x.com/ah1982sy/status/1863498561196843323",
+      "reason": "http_404",
+      "recovery_attempts": 0,
+      "source_id": "source-c1bfa873cd2a2129188e655a"
+    },
+    "source-c90219b4f6b5c8b1dcb72676": {
+      "first_deferred_at": "2026-08-01T08:31:08+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-131291"
+      ],
+      "incident_sequences": [
+        239
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:08+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/إصابة-رجل-وطفلة-بقصف-مدفعي-تركي-على-ريف/734075/?fbclid=IwZXh0bgNhZW0CMTEAAR0qlAoC_0o20DCHQRzpCMs5W-UHDTt_5ZR0fVi35p6iReTknCWuyswabVU_aem_kDseIRM1JJkN6BhEQ8Waug",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-c90219b4f6b5c8b1dcb72676"
+    },
+    "source-caf04efa4c9be86345f6d3e4": {
+      "first_deferred_at": "2026-08-01T08:47:44+00:00",
+      "host": "facebook.com",
+      "incident_ids": [
+        "airwars-131286"
+      ],
+      "incident_sequences": [
+        243
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:47:44+00:00",
+      "last_status": "login_required",
+      "original_url": "https://www.facebook.com/groups/438013553717849/user/100007643835376/?__cft__[0]=AZUJkIOyGVSiJ6zXM4rKAvH2dCLmk0PSF0ds_IlU4NiUMq7Jd4BBLlOAMd3BY95l0XoSn92QXrn7fO72P0eq4E_pqnFSWXjXpFxnMAycGyEhiT7AOIeSQW-wk1paaGmeUL8H-9clxL9IlDf6vSiReaz0xBrgV9F8hkGv6Yy6QGZJMSJ4nzI2jxAUgxsWz4qOrCZcOW9hILtH_r5KXBZ8IEL6&__tn__=,P-R",
+      "reason": "login_required",
+      "recovery_attempts": 0,
+      "source_id": "source-caf04efa4c9be86345f6d3e4"
+    },
+    "source-d217e3e1779b975f1ed483d4": {
+      "first_deferred_at": "2026-08-01T08:31:07+00:00",
+      "host": "npasyria.com",
+      "incident_ids": [
+        "airwars-216141"
+      ],
+      "incident_sequences": [
+        163
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:07+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://npasyria.com/199739/?fbclid=IwY2xjawHDuJFleHRuA2FlbQIxMAABHapkzPgy0kTtV8mWZtfxfPRYD8QMwtIqZOWutBgOlPOh5irCJCGZdMPjBA_aem_Pc0LqK9xD",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-d217e3e1779b975f1ed483d4"
+    },
+    "source-d239a83a62415fb69f160bf6": {
+      "first_deferred_at": "2026-08-01T08:31:47+00:00",
+      "host": "sana.sy",
+      "incident_ids": [
+        "airwars-125452"
+      ],
+      "incident_sequences": [
+        234
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:31:47+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://sana.sy/?p=2159790",
+      "reason": "ReadTimeout: ",
+      "recovery_attempts": 0,
+      "source_id": "source-d239a83a62415fb69f160bf6"
+    },
+    "source-d985ab75d99c1727c8a172c3": {
+      "first_deferred_at": "2026-08-01T08:48:44+00:00",
+      "host": "sana.sy",
+      "incident_ids": [
+        "airwars-125455"
+      ],
+      "incident_sequences": [
+        233
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:48:44+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://sana.sy/?p=2164415",
+      "reason": "ReadTimeout: ",
+      "recovery_attempts": 0,
+      "source_id": "source-d985ab75d99c1727c8a172c3"
+    },
+    "source-da8c0b2d953eb09fde339e3c": {
+      "first_deferred_at": "2026-08-01T08:48:32+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-216122"
+      ],
+      "incident_sequences": [
+        165
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:48:32+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/مجـ-ـز-ر-ة-مروعة-مسيّرة-تركية-تقـ-ـتل-11-مد/740030/?fbclid=IwY2xjawHDjgxleHRuA2FlbQIxMQABHTT8TGyxr8_t0j2FgnvqM7nO_ngTIY7_iDGvcXELE1UOaJnx0F",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-da8c0b2d953eb09fde339e3c"
+    },
+    "source-dd88cce8f08d08aeef913835": {
+      "first_deferred_at": "2026-08-01T08:48:35+00:00",
+      "host": "aa.com.tr",
+      "incident_ids": [
+        "airwars-164023"
+      ],
+      "incident_sequences": [
+        210
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:48:35+00:00",
+      "last_status": "successful",
+      "original_url": "https://www.aa.com.tr/ar/الدول-العربية/سوريا-مقتل-4-طلاب-يهجوم-لقوات-النظام-على-سكن-جامعي-بحلب/3408415",
+      "reason": "successful",
+      "recovery_attempts": 0,
+      "source_id": "source-dd88cce8f08d08aeef913835"
+    },
+    "source-df4451cf77247bca7bf95f86": {
+      "first_deferred_at": "2026-08-01T08:48:32+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-216137"
+      ],
+      "incident_sequences": [
+        160
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:48:32+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/استشهاد-8-مدنيين-مسيرة-تركية-ترتكب-مجز/740276/",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-df4451cf77247bca7bf95f86"
+    },
+    "source-e284f4cff3bb7edf8e7aca2c": {
+      "first_deferred_at": "2026-08-01T08:48:44+00:00",
+      "host": "sana.sy",
+      "incident_ids": [
+        "airwars-125577"
+      ],
+      "incident_sequences": [
+        228
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:48:44+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://sana.sy/?p=2172225",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-e284f4cff3bb7edf8e7aca2c"
+    },
+    "source-e5447431dca70402e4a33780": {
+      "first_deferred_at": "2026-08-01T08:48:32+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-240843"
+      ],
+      "incident_sequences": [
+        156
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:48:32+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/في-استهداف-مسيّرة-تركية-استشهاد-صحفيي/741588/?fbclid=IwY2xjawHR8sVleHRuA2FlbQIxMQABHQckqUC-OKaSp5gu0r3pN9QRvZ4HuQMNZ1jV-F714i3WV",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-e5447431dca70402e4a33780"
+    },
+    "source-e6c6decc32677a5688289049": {
+      "first_deferred_at": "2026-08-01T08:48:32+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-190665"
+      ],
+      "incident_sequences": [
+        170
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:48:32+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/في-اليوم-الأول-لمعركة-ضواحي-حمص-قوات-ا/739586/?fbclid=IwY2xjawHE_atleHRuA2FlbQIxMQABHUzox0GOKpRh3MC3TbaIOnWcrK3o_D5ZPkoUzTSAkGJVwlSFwgVOe7dGog_aem_apwsfaVRZpwa6xJtoaO0Ag",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-e6c6decc32677a5688289049"
+    },
+    "source-e91c1249a487f016c1760057": {
+      "first_deferred_at": "2026-08-01T08:48:32+00:00",
+      "host": "whitehelmets.org",
+      "incident_ids": [
+        "airwars-138566",
+        "airwars-138570",
+        "airwars-138577"
+      ],
+      "incident_sequences": [
+        184,
+        185,
+        186
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:48:32+00:00",
+      "last_status": "not_found",
+      "original_url": "https://whitehelmets.org/index.php/ar/report/tqaryr-mydanyt/mjzrtan-fy-adlbwgharat-jwyt-rwsyt-tsthdf-mjmaan-tbyaan",
+      "reason": "http_404",
+      "recovery_attempts": 0,
+      "source_id": "source-e91c1249a487f016c1760057"
+    },
+    "source-f35a8c80ccfc0c952aa13e86": {
+      "first_deferred_at": "2026-08-01T08:48:32+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-130253"
+      ],
+      "incident_sequences": [
+        244
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:48:32+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/استشهاد-وإصابة-27-مدنياً-جراء-التصعيد-ال/733853/?fbclid=IwY2xjawGG27ZleHRuA2FlbQIxMQABHUJekLPnAYdrH89z81UC3XRu0XKrxB2PzCmQcjGUz9-wO",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-f35a8c80ccfc0c952aa13e86"
+    },
+    "source-f4ca804825d8677529934a83": {
+      "first_deferred_at": "2026-08-01T08:48:32+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-164014"
+      ],
+      "incident_sequences": [
+        226
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:48:32+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/متأثرة-بجراحها-طفلة-تفارق-الحياة-جراء/737648/?fbclid=IwY2xjawGvv4BleHRuA2FlbQIxMQABHWnjgGp-TqDeShh0TBx16n_RCgwqABIbAILhPdHFjXqlXlWcqw",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-f4ca804825d8677529934a83"
+    },
+    "source-f8b5bf32c660564caf186710": {
+      "first_deferred_at": "2026-08-01T08:48:33+00:00",
+      "host": "whitehelmets.org",
+      "incident_ids": [
+        "airwars-190643"
+      ],
+      "incident_sequences": [
+        177
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:48:33+00:00",
+      "last_status": "not_found",
+      "original_url": "https://whitehelmets.org/index.php/ar/report/tqaryr-mydanyt/astmrar-altsyd-ly-adlb-whlb-whmat-hjmat-tzyd-trdy-alawda-alansanyt",
+      "reason": "http_404",
+      "recovery_attempts": 0,
+      "source_id": "source-f8b5bf32c660564caf186710"
+    },
+    "source-f9075bc9f2bb64115fd5beae": {
+      "first_deferred_at": "2026-08-01T08:48:32+00:00",
+      "host": "anfarabic.com",
+      "incident_ids": [
+        "airwars-131308"
+      ],
+      "incident_sequences": [
+        241
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:48:32+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://anfarabic.com/akhr-l-khbr/t-111399",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-f9075bc9f2bb64115fd5beae"
+    },
+    "source-feb9acd7105a6d1c54d014a0": {
+      "first_deferred_at": "2026-08-01T08:48:32+00:00",
+      "host": "syriahr.com",
+      "incident_ids": [
+        "airwars-125524"
+      ],
+      "incident_sequences": [
+        227
+      ],
+      "last_attempt_at": null,
+      "last_deferred_at": "2026-08-01T08:48:32+00:00",
+      "last_status": "timed_out",
+      "original_url": "https://www.syriahr.com/بينهم-73-عنصراً-من-الجنسية-السورية-108-قتـ/737816/?fbclid=IwY2xjawGzK6ZleHRuA2FlbQIxMQABHWxB9nTXeBuQMAMW9AlxAS2j06ynTs3GvdvBgYB5klc7ErUXphyki5xfiw_aem_-cNtf4MnMEsKN1owcaDRFA",
+      "reason": "host_circuit_open_after_repeated_block_or_timeout",
+      "recovery_attempts": 0,
+      "source_id": "source-feb9acd7105a6d1c54d014a0"
+    }
+  },
+  "resolved": {},
+  "schema_version": "4.0.0",
+  "scope": {
+    "count": 100,
+    "first_sequence": 151,
+    "last_sequence": 250
+  },
+  "updated_at": "2026-08-01T08:48:44+00:00"
+}

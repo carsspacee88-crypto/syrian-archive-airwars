@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/rsT4C"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.349,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:49:09+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 94550,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "a1da37fd0a22a9e7c7d71bb06485b62b5f7d59ad348db9b4c60f4c8223554ba1",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.349,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/alrshyed_m/status/1855725150018138468",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:49:09+00:00",
+      "status": 200,
+      "url": "https://x.com/alrshyed_m/status/1855725150018138468",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/alrshyed_m",
+  "captions": [],
+  "content_hash": "12d003cf54596433a0b4262f88416d34a0563a63c729fc45df0370fb23602bf8",
+  "content_variants": [
+    {
+      "bytes": 552,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:49:09+00:00",
+      "sha256": "12d003cf54596433a0b4262f88416d34a0563a63c729fc45df0370fb23602bf8",
+      "source_url": "https://x.com/alrshyed_m/status/1855725150018138468",
+      "text": "Post\n\nPost\n\nM@alrshyed_mمقتل القيادي بحزب الله #سليم_عياش في منطقة #السيده_زينب في دمشق ،المتهم بجريمة اغتيال الرئيس اللبناني السابق #رفيق_الحريري ،هوا اول من ابلغ حسن نصرالله بان عمليه التفجير تمت بنجاح التي وقعت بالقرب من فندق سانت جورج في العاصمة اللبنانية #بيروت 14 فبراير 2005\n#لبنان\n#الجنوب00:009:32 PM · Nov 10, 202416.3KViews5194"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/alrshyed_m/status/1855725150018138468",
+  "incident_ids": [
+    "airwars-125455"
+  ],
+  "incident_sequences": [
+    233
+  ],
+  "normalized_url": "https://x.com/alrshyed_m/status/1855725150018138468",
+  "observed_original_urls": [
+    "https://x.com/alrshyed_m/status/1855725150018138468"
+  ],
+  "original_url": "https://x.com/alrshyed_m/status/1855725150018138468",
+  "page_title": "M on X: \"مقتل القيادي بحزب الله #سليم_عياش في منطقة #السيده_زينب في دمشق ،المتهم بجريمة اغتيال الرئيس اللبناني السابق #رفيق_الحريري ،هوا اول من ابلغ حسن نصرالله بان عمليه التفجير تمت بنجاح التي وقعت بالقرب من فندق سانت جورج في العاصمة اللبنانية #بيروت 14 فبراير 2005\n#لبنان\n#الجنوب https://t.co/brX31HWtX4\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy059-november-10-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125455",
+      "incident_sequence": 233,
+      "observed_original_url": "https://x.com/alrshyed_m/status/1855725150018138468",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-10T21:32:08.000Z",
+  "publisher": "'@alrshyed_m",
+  "publisher_ar": "'@alrshyed_m",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:49:09+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-f89c86e41560739710e9ed1e",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/alrshyed_m/status/1855725150018138468",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nM@alrshyed_mمقتل القيادي بحزب الله #سليم_عياش في منطقة #السيده_زينب في دمشق ،المتهم بجريمة اغتيال الرئيس اللبناني السابق #رفيق_الحريري ،هوا اول من ابلغ حسن نصرالله بان عمليه التفجير تمت بنجاح التي وقعت بالقرب من فندق سانت جورج في العاصمة اللبنانية #بيروت 14 فبراير 2005\n#لبنان\n#الجنوب00:009:32 PM · Nov 10, 202416.3KViews5194",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001973
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

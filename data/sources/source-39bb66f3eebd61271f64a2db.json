@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/JnVYY"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.282,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:32:42+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 83711,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "72b9aee397b3383f874ff59e6d9b29a0bd8db27c06bbc2d0e20eeed0f3a370d1",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.282,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/Qasemqt/status/1852039196627878395",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:32:42+00:00",
+      "status": 200,
+      "url": "https://x.com/Qasemqt/status/1852039196627878395",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/Qasemqt",
+  "captions": [],
+  "content_hash": "212569b5ae6e1390ff73e1692412bc914f1bd62723b382f85167a663932c019b",
+  "content_variants": [
+    {
+      "bytes": 224,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:32:42+00:00",
+      "sha256": "212569b5ae6e1390ff73e1692412bc914f1bd62723b382f85167a663932c019b",
+      "source_url": "https://x.com/Qasemqt/status/1852039196627878395",
+      "text": "Post\n\nPost\n\nقاسم@Qasemqtغارات إسرائيلية جديدة على القصير في ريف حمص على مخازن للسلاح تتبع لميليشيا حزب الله00:005:25 PM · Oct 31, 20249.6KViews8222051"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Qasemqt/status/1852039196627878395",
+  "incident_ids": [
+    "airwars-125452"
+  ],
+  "incident_sequences": [
+    234
+  ],
+  "normalized_url": "https://x.com/Qasemqt/status/1852039196627878395",
+  "observed_original_urls": [
+    "https://x.com/Qasemqt/status/1852039196627878395"
+  ],
+  "original_url": "https://x.com/Qasemqt/status/1852039196627878395",
+  "page_title": "قاسم on X: \"غارات إسرائيلية جديدة على القصير في ريف حمص على مخازن للسلاح تتبع لميليشيا حزب الله https://t.co/tSQt2ZCbTX\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy058-october-31-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125452",
+      "incident_sequence": 234,
+      "observed_original_url": "https://x.com/Qasemqt/status/1852039196627878395",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-10-31T17:25:28.000Z",
+  "publisher": "#Qasemqt",
+  "publisher_ar": "#Qasemqt",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:32:42+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-39bb66f3eebd61271f64a2db",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Qasemqt/status/1852039196627878395",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nقاسم@Qasemqtغارات إسرائيلية جديدة على القصير في ريف حمص على مخازن للسلاح تتبع لميليشيا حزب الله00:005:25 PM · Oct 31, 20249.6KViews8222051",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001797
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

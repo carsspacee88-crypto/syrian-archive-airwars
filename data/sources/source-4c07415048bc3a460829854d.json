@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/fMFkt"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.029,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:37:05+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 778995,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "b912e99beb59f98082586f1fa4909ed3d1ffa0e65bb02d9e0ecef7a79d41dcec",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.029,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid02AUpcKUsnyu4nyiKV93GLYbSuosyQYBCRmV4LZGn5AEG5krVD8Z7pVsGxb7UR1Zz3l",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:37:05+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid02AUpcKUsnyu4nyiKV93GLYbSuosyQYBCRmV4LZGn5AEG5krVD8Z7pVsGxb7UR1Zz3l",
+      "waiting_seconds": 0.745
+    }
+  ],
+  "author": "Al arabiya",
+  "captions": [],
+  "content_hash": "27a9801dfcece0be6b360c4f21db67d75315ef7ac5f98219ec16294c06e44a13",
+  "content_variants": [
+    {
+      "bytes": 1547,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:37:05+00:00",
+      "sha256": "27a9801dfcece0be6b360c4f21db67d75315ef7ac5f98219ec16294c06e44a13",
+      "source_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid02AUpcKUsnyu4nyiKV93GLYbSuosyQYBCRmV4LZGn5AEG5krVD8Z7pVsGxb7UR1Zz3l",
+      "text": "أصيب 7 مدنيين غالبيتهم... - العربية سوريا - Al Arabiya Syria\nFacebook‎العربية سوريا - Al Arabiya Syria‎'s Post\n\nالعربية سوريا - Al Arabiya Syria Verified accountNovember 29, 2024 · Shared with Publicأصيب 7 مدنيين غالبيتهم من الأطفال مساء الجمعة، بغارات جوية روسية على قرية فريكا بريف إدلب.وقال الدفاع المدني السوري، إن قصفا جويا روسيا استهدف قرية فريكا بريف إدلب الجنوبي، وأسفر عن إصابة 7 مدنيين، بينهم 6 أطفال، وجميعهم من عائلة واحدة. عملت فرقه على نقلهم وتفقد الموقع المستهدف.#العربية #سورياAll reactions:1168 comments1 shareLikeCommentMost relevant﻿Aylol Syمين اللي شعلهااا1yبراهيم عبد المالكعلى الجيش السوري المدعوم روسيا و إيرانيا ، تنقية سوربا من دنس و وسخ كلاب الصهيوأمريكي ..1yKhalil Abrahimسبحان الله دائما مايموت بادلب الا الاطفال والمدنيه ما هي منبع الارهاب1yعهد المشهدانيجبروتهم وقوتهم فقط على الأطفال والمدنيين حسبنا الله ونعم الوكيل عليكم.1yAhmed Al-Khazrajiجذب ماكو هيج حجي هذوله جرذان وتم اصطيادهم1yMost relevant is selected, so some comments may have been filtered out."
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid02AUpcKUsnyu4nyiKV93GLYbSuosyQYBCRmV4LZGn5AEG5krVD8Z7pVsGxb7UR1Zz3l",
+  "incident_ids": [
+    "airwars-132536"
+  ],
+  "incident_sequences": [
+    209
+  ],
+  "normalized_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid02AUpcKUsnyu4nyiKV93GLYbSuosyQYBCRmV4LZGn5AEG5krVD8Z7pVsGxb7UR1Zz3l",
+  "observed_original_urls": [
+    "https://www.facebook.com/Alarabiya.syria/posts/pfbid02AUpcKUsnyu4nyiKV93GLYbSuosyQYBCRmV4LZGn5AEG5krVD8Z7pVsGxb7UR1Zz3l"
+  ],
+  "original_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid02AUpcKUsnyu4nyiKV93GLYbSuosyQYBCRmV4LZGn5AEG5krVD8Z7pVsGxb7UR1Zz3l",
+  "page_title": "أصيب 7 مدنيين غالبيتهم... - العربية سوريا - Al Arabiya Syria Facebook Verified account Shared with Public",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4932-november-29-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-132536",
+      "incident_sequence": 209,
+      "observed_original_url": "https://www.facebook.com/Alarabiya.syria/posts/pfbid02AUpcKUsnyu4nyiKV93GLYbSuosyQYBCRmV4LZGn5AEG5krVD8Z7pVsGxb7UR1Zz3l",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Al arabiya",
+  "publisher_ar": "Al arabiya",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:37:05+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-4c07415048bc3a460829854d",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/Alarabiya.syria/posts/pfbid02AUpcKUsnyu4nyiKV93GLYbSuosyQYBCRmV4LZGn5AEG5krVD8Z7pVsGxb7UR1Zz3l",
+  "text_ar": "",
+  "text_original": "أصيب 7 مدنيين غالبيتهم... - العربية سوريا - Al Arabiya Syria\nFacebook‎العربية سوريا - Al Arabiya Syria‎'s Post\n\nالعربية سوريا - Al Arabiya Syria Verified accountNovember 29, 2024 · Shared with Publicأصيب 7 مدنيين غالبيتهم من الأطفال مساء الجمعة، بغارات جوية روسية على قرية فريكا بريف إدلب.وقال الدفاع المدني السوري، إن قصفا جويا روسيا استهدف قرية فريكا بريف إدلب الجنوبي، وأسفر عن إصابة 7 مدنيين، بينهم 6 أطفال، وجميعهم من عائلة واحدة. عملت فرقه على نقلهم وتفقد الموقع المستهدف.#العربية #سورياAll reactions:1168 comments1 shareLikeCommentMost relevant﻿Aylol Syمين اللي شعلهااا1yبراهيم عبد المالكعلى الجيش السوري المدعوم روسيا و إيرانيا ، تنقية سوربا من دنس و وسخ كلاب الصهيوأمريكي ..1yKhalil Abrahimسبحان الله دائما مايموت بادلب الا الاطفال والمدنيه ما هي منبع الارهاب1yعهد المشهدانيجبروتهم وقوتهم فقط على الأطفال والمدنيين حسبنا الله ونعم الوكيل عليكم.1yAhmed Al-Khazrajiجذب ماكو هيج حجي هذوله جرذان وتم اصطيادهم1yMost relevant is selected, so some comments may have been filtered out.",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.00416
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

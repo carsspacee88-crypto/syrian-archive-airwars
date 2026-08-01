@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/emB2r"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.026,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:39:54+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 713321,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "a473457fa54f30fdce18631eda4ae8c41a1d0c12d0469fa4bf3da6f6aad1bd9e",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.026,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/100013625284712/videos/1507128353310390/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:39:54+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/100013625284712/videos/1507128353310390/",
+      "waiting_seconds": 0.745
+    }
+  ],
+  "author": "Abd alkader",
+  "captions": [],
+  "content_hash": "b6d40c4dfc6a203ec4b3843f6f6dbe51433b5e126c1597d4560f9ebe7333a221",
+  "content_variants": [
+    {
+      "bytes": 335,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:39:54+00:00",
+      "sha256": "b6d40c4dfc6a203ec4b3843f6f6dbe51433b5e126c1597d4560f9ebe7333a221",
+      "source_url": "https://www.facebook.com/100013625284712/videos/1507128353310390/",
+      "text": "#تلبيسة\nاثار القصف الهمجي على مدينة تلبيسة\nحسبنا الله ونعم الوكيل فيكون ياخنازير\nاللهم احفظ تلبيسة يارب\nالله سلم أهلها ومن فيها يارب العالمين\nطالعو حقدون كلو ولسع مااكتفو | عبود القدور"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/100013625284712/videos/1507128353310390/",
+  "incident_ids": [
+    "airwars-190692"
+  ],
+  "incident_sequences": [
+    167
+  ],
+  "normalized_url": "https://www.facebook.com/100013625284712/videos/1507128353310390/",
+  "observed_original_urls": [
+    "https://www.facebook.com/100013625284712/videos/1507128353310390/"
+  ],
+  "original_url": "https://www.facebook.com/100013625284712/videos/1507128353310390/",
+  "page_title": "#تلبيسة\nاثار القصف الهمجي على مدينة تلبيسة\nحسبنا الله ونعم الوكيل فيكون ياخنازير\nاللهم احفظ تلبيسة يارب\nالله سلم أهلها ومن فيها يارب العالمين\nطالعو حقدون كلو ولسع مااكتفو | عبود القدور",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4964-december-7-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-190692",
+      "incident_sequence": 167,
+      "observed_original_url": "https://www.facebook.com/100013625284712/videos/1507128353310390/",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Abd alkader",
+  "publisher_ar": "Abd alkader",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:39:54+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-6c427c4b27cffd7d50b8a4fa",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/100013625284712/videos/1507128353310390/",
+  "text_ar": "",
+  "text_original": "#تلبيسة\nاثار القصف الهمجي على مدينة تلبيسة\nحسبنا الله ونعم الوكيل فيكون ياخنازير\nاللهم احفظ تلبيسة يارب\nالله سلم أهلها ومن فيها يارب العالمين\nطالعو حقدون كلو ولسع مااكتفو | عبود القدور",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.003481
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

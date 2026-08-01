@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/UnF2T"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 2.402,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:33:35+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 942440,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "81a9d58f87ffc682398701411c827665d49ea44d62600f3f0b17bccf3c1ec435",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 2.402,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/TV.ldilb/videos/1313685373083863/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:33:35+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=1313685373083863",
+      "waiting_seconds": 0.745
+    }
+  ],
+  "author": "Idlib",
+  "captions": [],
+  "content_hash": "175d2ac895b5a88bfa9abb688f4b3f39098651bee32b4cf1315679c3e625a835",
+  "content_variants": [
+    {
+      "bytes": 252,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:33:35+00:00",
+      "sha256": "175d2ac895b5a88bfa9abb688f4b3f39098651bee32b4cf1315679c3e625a835",
+      "source_url": "https://www.facebook.com/TV.ldilb/videos/1313685373083863/",
+      "text": "نجاة مراسلنا محمد عبيد من غارة جوية في مدينة #مورك بريف #حماة الشمالي أثناء التغطية الإعلامية\n\nتلفزيون_إدلب\n#عين_الحقيقة | تلفزيون إدلب Idlib TV"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/TV.ldilb/videos/1313685373083863/",
+  "incident_ids": [
+    "airwars-135021"
+  ],
+  "incident_sequences": [
+    190
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=1313685373083863",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=1313685373083863"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=1313685373083863",
+  "page_title": "نجاة مراسلنا محمد عبيد من غارة جوية في مدينة #مورك بريف #حماة الشمالي أثناء التغطية الإعلامية\n\nتلفزيون_إدلب\n#عين_الحقيقة | تلفزيون إدلب Idlib TV",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4938-december-1-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-135021",
+      "incident_sequence": 190,
+      "observed_original_url": "https://www.facebook.com/watch/?v=1313685373083863",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "Idlib",
+  "publisher_ar": "Idlib",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:33:35+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-207319d119bf3b26d7e50d48",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=1313685373083863",
+  "text_ar": "",
+  "text_original": "نجاة مراسلنا محمد عبيد من غارة جوية في مدينة #مورك بريف #حماة الشمالي أثناء التغطية الإعلامية\n\nتلفزيون_إدلب\n#عين_الحقيقة | تلفزيون إدلب Idlib TV",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.004033
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

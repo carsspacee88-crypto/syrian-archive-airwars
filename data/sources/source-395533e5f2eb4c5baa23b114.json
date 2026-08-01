@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/FSb1X"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.419,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:32:41+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 76954,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "4ad2778260de1c6a2ac65ad111cba1b66ee7f5ec39faeef2732a0fdb5343234f",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.419,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/Al1ameri/status/1865335289410982003",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:32:41+00:00",
+      "status": 200,
+      "url": "https://x.com/alaamari99/status/1865335289410982003",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/Al1ameri",
+  "captions": [],
+  "content_hash": "eced7dad4ed35a9c68f5c04f57169f3da18b3ee99fd64ee79f390c63260f0aa9",
+  "content_variants": [
+    {
+      "bytes": 289,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:32:41+00:00",
+      "sha256": "eced7dad4ed35a9c68f5c04f57169f3da18b3ee99fd64ee79f390c63260f0aa9",
+      "source_url": "https://x.com/Al1ameri/status/1865335289410982003",
+      "text": "Post\n\nPost\n\nٱلْمُسْلِمُ✨@Al1ameri#عاجـــــــــــــــــــــــل\n\nاستشهاد عائلة كاملة جراء استهداف طيران الاحتلال الروسي قرية الغنطو بريف حمص الشمالي .9:59 AM · Dec 7, 2024127Views"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Al1ameri/status/1865335289410982003",
+  "incident_ids": [
+    "airwars-190684"
+  ],
+  "incident_sequences": [
+    166
+  ],
+  "normalized_url": "https://x.com/alaamari99/status/1865335289410982003",
+  "observed_original_urls": [
+    "https://x.com/alaamari99/status/1865335289410982003"
+  ],
+  "original_url": "https://x.com/alaamari99/status/1865335289410982003",
+  "page_title": "ٱلْمُسْلِمُ✨ on X: \"#عاجـــــــــــــــــــــــل\n\nاستشهاد عائلة كاملة جراء استهداف طيران الاحتلال الروسي قرية الغنطو بريف حمص الشمالي .\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4965-december-7-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-190684",
+      "incident_sequence": 166,
+      "observed_original_url": "https://x.com/alaamari99/status/1865335289410982003",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-07T09:59:23.000Z",
+  "publisher": "'@alaamari99",
+  "publisher_ar": "'@alaamari99",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:32:41+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-395533e5f2eb4c5baa23b114",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/alaamari99/status/1865335289410982003",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nٱلْمُسْلِمُ✨@Al1ameri#عاجـــــــــــــــــــــــل\n\nاستشهاد عائلة كاملة جراء استهداف طيران الاحتلال الروسي قرية الغنطو بريف حمص الشمالي .9:59 AM · Dec 7, 2024127Views",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001764
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

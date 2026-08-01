@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/NszBv"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.361,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:34:59+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 90275,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "869296af2266b3252c5f2ccb375090ae68da4b005524b0fe2089c058101639a8",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.361,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/syrianewsag/status/1864279471890567656",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:34:59+00:00",
+      "status": 200,
+      "url": "https://x.com/syrianewsag/status/1864279471890567656",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/syrianewsag",
+  "captions": [],
+  "content_hash": "1b5111f9f1ea1a653c7be5d56f239ec3cfa98b581efe5a8e91c77a6b02b5ca92",
+  "content_variants": [
+    {
+      "bytes": 381,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:34:59+00:00",
+      "sha256": "1b5111f9f1ea1a653c7be5d56f239ec3cfa98b581efe5a8e91c77a6b02b5ca92",
+      "source_url": "https://x.com/syrianewsag/status/1864279471890567656",
+      "text": "Post\n\nPost\n\nالوكالة السورية للأنباء - سنا@syrianewsagمراسم دفن الشهيد المصور الصحفي \"أنس خربوطلي\" الذي استشهد بقصف جوي في مدينة مورك المحررة حديثاً من قوات الأسد شمال حماة.\n\n#وكالة_سنا #سورية #شهيد_الحقيقة12:03 PM · Dec 4, 2024641Views4"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/syrianewsag/status/1864279471890567656",
+  "incident_ids": [
+    "airwars-138689"
+  ],
+  "incident_sequences": [
+    179
+  ],
+  "normalized_url": "https://x.com/syrianewsag/status/1864279471890567656",
+  "observed_original_urls": [
+    "https://x.com/syrianewsag/status/1864279471890567656"
+  ],
+  "original_url": "https://x.com/syrianewsag/status/1864279471890567656",
+  "page_title": "الوكالة السورية للأنباء - سنا on X: \"مراسم دفن الشهيد المصور الصحفي \"أنس خربوطلي\" الذي استشهد بقصف جوي في مدينة مورك المحررة حديثاً من قوات الأسد شمال حماة.\n\n#وكالة_سنا #سورية #شهيد_الحقيقة https://t.co/aI3UNKmFvv\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4957-december-4-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-138689",
+      "incident_sequence": 179,
+      "observed_original_url": "https://x.com/syrianewsag/status/1864279471890567656",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-04T12:03:57.000Z",
+  "publisher": "'@syrianewsag",
+  "publisher_ar": "'@syrianewsag",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:34:59+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-c5b911403cc077de7f311b05",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/syrianewsag/status/1864279471890567656",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nالوكالة السورية للأنباء - سنا@syrianewsagمراسم دفن الشهيد المصور الصحفي \"أنس خربوطلي\" الذي استشهد بقصف جوي في مدينة مورك المحررة حديثاً من قوات الأسد شمال حماة.\n\n#وكالة_سنا #سورية #شهيد_الحقيقة12:03 PM · Dec 4, 2024641Views4",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001895
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

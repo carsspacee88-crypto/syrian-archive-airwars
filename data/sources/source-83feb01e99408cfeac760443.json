@@ -1,0 +1,97 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.ph/wip/6GmoK"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 0,
+          "host": "anfarabic.com",
+          "result": "host_circuit_open"
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 0,
+      "body_decoded_from": null,
+      "bytes": 0,
+      "circuit_open_reason": "http_403",
+      "circuit_open_status": 403,
+      "content_hash": null,
+      "content_type": "",
+      "elapsed_seconds": 0.0,
+      "error": "host_circuit_open_after_repeated_block_or_timeout",
+      "etag": "",
+      "final_url": "https://anfarabic.com/akhr-l-khbr/asabt-tfl-jra-qsf-trky-ly-qryt-fy-mqatt-mnbj-111433",
+      "last_modified": "",
+      "ok": false,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:07+00:00",
+      "status": null,
+      "url": "https://anfarabic.com/akhr-l-khbr/asabt-tfl-jra-qsf-trky-ly-qryt-fy-mqatt-mnbj-111433",
+      "waiting_seconds": 0.0
+    }
+  ],
+  "author": "ANF news",
+  "captions": [],
+  "content_hash": null,
+  "content_variants": [],
+  "descriptions": [],
+  "extraction_status": "pending",
+  "failure_reason": "host_circuit_open_after_repeated_block_or_timeout",
+  "final_redirected_url": "https://anfarabic.com/akhr-l-khbr/asabt-tfl-jra-qsf-trky-ly-qryt-fy-mqatt-mnbj-111433",
+  "incident_ids": [
+    "airwars-131316"
+  ],
+  "incident_sequences": [
+    237
+  ],
+  "normalized_url": "https://anfarabic.com/akhr-l-khbr/asabt-tfl-jra-qsf-trky-ly-qryt-fy-mqatt-mnbj-111433",
+  "observed_original_urls": [
+    "https://anfarabic.com/akhr-l-khbr/asabt-tfl-jra-qsf-trky-ly-qryt-fy-mqatt-mnbj-111433"
+  ],
+  "original_url": "https://anfarabic.com/akhr-l-khbr/asabt-tfl-jra-qsf-trky-ly-qryt-fy-mqatt-mnbj-111433",
+  "page_title": "",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "metadata_only",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts732-october-26-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-131316",
+      "incident_sequence": 237,
+      "observed_original_url": "https://anfarabic.com/akhr-l-khbr/asabt-tfl-jra-qsf-trky-ly-qryt-fy-mqatt-mnbj-111433",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "ANF news",
+  "publisher_ar": "ANF news",
+  "recovery": {
+    "queue": "data/recovery/v4-0151-0250.json",
+    "queued_at": "2026-08-01T08:31:07+00:00",
+    "reason": "host_circuit_open_after_repeated_block_or_timeout",
+    "status": "deferred"
+  },
+  "retrieval_status": "timed_out",
+  "retrieved_at": "2026-08-01T08:31:07+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-83feb01e99408cfeac760443",
+  "source_type": "news_article",
+  "stable_id_basis": "https://anfarabic.com/akhr-l-khbr/asabt-tfl-jra-qsf-trky-ly-qryt-fy-mqatt-mnbj-111433",
+  "text_ar": "",
+  "text_original": "",
+  "text_original_language": "ar",
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

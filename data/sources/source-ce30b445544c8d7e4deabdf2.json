@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297997"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/arabic-anf-news-com-11/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.154,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:15+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 34897,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "c4b38c85de777d8f43bd9dae9ff5cf05a41873e9f52c76931e17844ef864f1ed",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.154,
+      "error": null,
+      "etag": "",
+      "final_url": "https://arabic.anf-news.com/akhr-l-khbr/b-113334",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:15+00:00",
+      "status": 200,
+      "url": "https://arabic.anf-news.com/akhr-l-khbr/b-113334",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "",
+  "captions": [],
+  "content_hash": "999971e7d287e8f1ded593fb247b4aeeeeafec889b681c58b5ab561a686c9bb9",
+  "content_variants": [
+    {
+      "bytes": 1159,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:15+00:00",
+      "sha256": "999971e7d287e8f1ded593fb247b4aeeeeafec889b681c58b5ab561a686c9bb9",
+      "source_url": "https://arabic.anf-news.com/akhr-l-khbr/b-113334",
+      "text": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالجمعة, ٢٠ ديسمبر ٢٠٢٤, ٠٨:٣٥\n\nتعرضت مراسلة وكالة أنباء هاوار جيهان بلكين والصحفي ناظم دشتان لاستهداف طائرات الاحتلال التركي.\n\nوكانت مراسلة وكالة هاوار جيهان بلكين تتابع برفقة الصحفي ناظم دشتان، هجمات الاحتلال التركي ومرتزقته، على سد تشرين وجسر قرقوزاق، منذ 8 كانون الأول الجاري.\n\nوتعرضت مراسلة وكالة أنباء هاوار، جيهان بلكين، والصحفي ناظم دشتان لهجوم يوم أمس (19 كانون الأول 2024) أثناء تأديتهما لعملهما الصحفي، حيث استهدفت طائرة مسيّرة تابعة للاحتلال التركي مركبة كانت تقلّهما عند الساعة 15:20 عصراً على الطريق الرابط بين سد تشرين وبلدة صرين، ما أسفر عن استشهادهما وإصابة سائق المركبة، عزيز حج بوظان، بجروح."
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://arabic.anf-news.com/akhr-l-khbr/b-113334",
+  "incident_ids": [
+    "airwars-240843"
+  ],
+  "incident_sequences": [
+    156
+  ],
+  "normalized_url": "https://arabic.anf-news.com/akhr-l-khbr/b-113334",
+  "observed_original_urls": [
+    "https://arabic.anf-news.com/akhr-l-khbr/b-113334"
+  ],
+  "original_url": "https://arabic.anf-news.com/akhr-l-khbr/b-113334",
+  "page_title": "ANF |\nاستشهاد صحفيين في قصف للاحتلال التركي على كوباني",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts757-december-19-2024/",
+      "airwars_source_id": "297997",
+      "incident_id": "airwars-240843",
+      "incident_sequence": 156,
+      "observed_original_url": "https://arabic.anf-news.com/akhr-l-khbr/b-113334",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "",
+  "publisher": "anf-news.com",
+  "publisher_ar": "anf-news.com",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:15+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-ce30b445544c8d7e4deabdf2",
+  "source_type": "news_article",
+  "stable_id_basis": "https://arabic.anf-news.com/akhr-l-khbr/b-113334",
+  "text_ar": "",
+  "text_original": "وكالة فرات للأنباء\n\nمركز الأخبار\n\nالجمعة, ٢٠ ديسمبر ٢٠٢٤, ٠٨:٣٥\n\nتعرضت مراسلة وكالة أنباء هاوار جيهان بلكين والصحفي ناظم دشتان لاستهداف طائرات الاحتلال التركي.\n\nوكانت مراسلة وكالة هاوار جيهان بلكين تتابع برفقة الصحفي ناظم دشتان، هجمات الاحتلال التركي ومرتزقته، على سد تشرين وجسر قرقوزاق، منذ 8 كانون الأول الجاري.\n\nوتعرضت مراسلة وكالة أنباء هاوار، جيهان بلكين، والصحفي ناظم دشتان لهجوم يوم أمس (19 كانون الأول 2024) أثناء تأديتهما لعملهما الصحفي، حيث استهدفت طائرة مسيّرة تابعة للاحتلال التركي مركبة كانت تقلّهما عند الساعة 15:20 عصراً على الطريق الرابط بين سد تشرين وبلدة صرين، ما أسفر عن استشهادهما وإصابة سائق المركبة، عزيز حج بوظان، بجروح.",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001251
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

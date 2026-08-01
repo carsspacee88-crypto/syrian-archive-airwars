@@ -1,0 +1,109 @@
+{
+  "airwars_source_ids": [
+    "297733"
+  ],
+  "archived_urls": [
+    "https://airwars.org/source/www-facebook-com-anha-%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-2024-12-05-170000/"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 1.809,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:34:04+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 831471,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "08603ab4a44cc745e199f11ca61240ea9c60dab08d102c20a2706790e2380d96",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "elapsed_seconds": 1.809,
+      "error": null,
+      "etag": "",
+      "final_url": "https://www.facebook.com/hawarnews/videos/978786680950488/",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:34:04+00:00",
+      "status": 200,
+      "url": "https://www.facebook.com/watch/?v=978786680950488",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "ANHA عربية",
+  "captions": [],
+  "content_hash": "275b639f65b6ec973d774d148b491b883bdedfe0957e7f5d1e7628c62df6db72",
+  "content_variants": [
+    {
+      "bytes": 467,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:34:04+00:00",
+      "sha256": "275b639f65b6ec973d774d148b491b883bdedfe0957e7f5d1e7628c62df6db72",
+      "source_url": "https://www.facebook.com/hawarnews/videos/978786680950488/",
+      "text": "🔴استشهاد مواطنة وإصابة أخرى في القصف التركي على منبج\n\n🔴استشهدت مواطنة من أهالي قرية الفارات في مقاطعة منبج، وأًصيبت أخرى، نتيجة القصف التركي.\n\n🌐عرض المزيد https://2u.pw/e7VlnRg3\n\n🔔 وكالة أنباء هاوار #ANHA\n\n📱 لحظة بلحظة عبر الواتس اب https://2u.pw/5hZ6pmW7\n\nt.me/HawarNews ✅ | ANHA عربية"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://www.facebook.com/hawarnews/videos/978786680950488/",
+  "incident_ids": [
+    "airwars-216118"
+  ],
+  "incident_sequences": [
+    174
+  ],
+  "normalized_url": "https://www.facebook.com/watch/?v=978786680950488",
+  "observed_original_urls": [
+    "https://www.facebook.com/watch/?v=978786680950488"
+  ],
+  "original_url": "https://www.facebook.com/watch/?v=978786680950488",
+  "page_title": "🔴استشهاد مواطنة وإصابة أخرى في القصف التركي على منبج\n\n🔴استشهدت مواطنة من أهالي قرية الفارات في مقاطعة منبج، وأًصيبت أخرى، نتيجة القصف التركي.\n\n🌐عرض المزيد https://2u.pw/e7VlnRg3\n\n🔔 وكالة أنباء هاوار #ANHA\n\n📱 لحظة بلحظة عبر الواتس اب https://2u.pw/5hZ6pmW7\n\nt.me/HawarNews ✅ | ANHA عربية",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/ts746-december-5-2024/",
+      "airwars_source_id": "297733",
+      "incident_id": "airwars-216118",
+      "incident_sequence": 174,
+      "observed_original_url": "https://www.facebook.com/watch/?v=978786680950488",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "5 ديسمبر 2024",
+  "publisher": "ANHA Arabic",
+  "publisher_ar": "ANHA عربية",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:34:04+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-27b20dfa74dfa298f6df8123",
+  "source_type": "public_facebook_post",
+  "stable_id_basis": "https://www.facebook.com/watch/?v=978786680950488",
+  "text_ar": "",
+  "text_original": "🔴استشهاد مواطنة وإصابة أخرى في القصف التركي على منبج\n\n🔴استشهدت مواطنة من أهالي قرية الفارات في مقاطعة منبج، وأًصيبت أخرى، نتيجة القصف التركي.\n\n🌐عرض المزيد https://2u.pw/e7VlnRg3\n\n🔔 وكالة أنباء هاوار #ANHA\n\n📱 لحظة بلحظة عبر الواتس اب https://2u.pw/5hZ6pmW7\n\nt.me/HawarNews ✅ | ANHA عربية",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.006112
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

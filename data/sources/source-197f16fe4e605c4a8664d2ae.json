@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/AZkYu"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.252,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:31:50+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 83960,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "f49a15dfa36fabe3a937fd65337db7fed07a7d1f6b96697d2fe6aa9d90fb95fc",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.252,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/SulaimanALFAHD1/status/1855621722952573401",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:31:50+00:00",
+      "status": 200,
+      "url": "https://x.com/SulaimanALFAHD1/status/1855621722952573401",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/SulaimanALFAHD1",
+  "captions": [],
+  "content_hash": "ce53a716909e476b22d90d894dd6d8759bc77a920e9d6c41ac3870dd9d303b79",
+  "content_variants": [
+    {
+      "bytes": 199,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:31:50+00:00",
+      "sha256": "ce53a716909e476b22d90d894dd6d8759bc77a920e9d6c41ac3870dd9d303b79",
+      "source_url": "https://x.com/SulaimanALFAHD1/status/1855621722952573401",
+      "text": "Post\n\nPost\n\nسليمان الفهد@SulaimanALFAHD1مشاهد من العدوان الصهيوني على محيط منطقة السيدة زينب بريف دمشق.2:41 PM · Nov 10, 2024264Views29"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/SulaimanALFAHD1/status/1855621722952573401",
+  "incident_ids": [
+    "airwars-125455"
+  ],
+  "incident_sequences": [
+    233
+  ],
+  "normalized_url": "https://x.com/SulaimanALFAHD1/status/1855621722952573401",
+  "observed_original_urls": [
+    "https://x.com/SulaimanALFAHD1/status/1855621722952573401"
+  ],
+  "original_url": "https://x.com/SulaimanALFAHD1/status/1855621722952573401",
+  "page_title": "سليمان الفهد on X: \"مشاهد من العدوان الصهيوني على محيط منطقة السيدة زينب بريف دمشق. https://t.co/Ly6tjiYnB6\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy059-november-10-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125455",
+      "incident_sequence": 233,
+      "observed_original_url": "https://x.com/SulaimanALFAHD1/status/1855621722952573401",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-10T14:41:09.000Z",
+  "publisher": "'@SulaimanALFAHD1",
+  "publisher_ar": "'@SulaimanALFAHD1",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:31:50+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-197f16fe4e605c4a8664d2ae",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/SulaimanALFAHD1/status/1855621722952573401",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nسليمان الفهد@SulaimanALFAHD1مشاهد من العدوان الصهيوني على محيط منطقة السيدة زينب بريف دمشق.2:41 PM · Nov 10, 2024264Views29",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001846
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

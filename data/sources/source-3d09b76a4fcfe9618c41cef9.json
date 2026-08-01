@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/egdoi"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.533,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:32:45+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 78399,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "315c447fee206cd5db350aeb7700c53a5c8c9c581e44645b1a0de97dca25a6d5",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.533,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/INFOBEIJ/status/1855618165327212668",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:32:45+00:00",
+      "status": 200,
+      "url": "https://x.com/ahkbaralhrob/status/1855618165327212668",
+      "waiting_seconds": 0.747
+    }
+  ],
+  "author": "https://x.com/INFOBEIJ",
+  "captions": [],
+  "content_hash": "0942e7ba9a347ef7fd2f07e39ce9cf1d0ce7018dd49b80dd0ebfc51cef340a26",
+  "content_variants": [
+    {
+      "bytes": 240,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:32:45+00:00",
+      "sha256": "0942e7ba9a347ef7fd2f07e39ce9cf1d0ce7018dd49b80dd0ebfc51cef340a26",
+      "source_url": "https://x.com/INFOBEIJ/status/1855618165327212668",
+      "text": "Post\n\nPost\n\nبكيــن بالعربية@INFOBEIJمصادر سورية :\n3 شهداء وعدد من الجرحى نتيجة قصف مبنى سكني في منطقة السيدة زينب جنوب دمشق..2:27 PM · Nov 10, 2024282Views24"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/INFOBEIJ/status/1855618165327212668",
+  "incident_ids": [
+    "airwars-125455"
+  ],
+  "incident_sequences": [
+    233
+  ],
+  "normalized_url": "https://x.com/ahkbaralhrob/status/1855618165327212668",
+  "observed_original_urls": [
+    "https://x.com/ahkbaralhrob/status/1855618165327212668"
+  ],
+  "original_url": "https://x.com/ahkbaralhrob/status/1855618165327212668",
+  "page_title": "بكيــن بالعربية on X: \"مصادر سورية :\n3 شهداء وعدد من الجرحى نتيجة قصف مبنى سكني في منطقة السيدة زينب جنوب دمشق.. https://t.co/xaR44uFQrC\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/issy059-november-10-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-125455",
+      "incident_sequence": 233,
+      "observed_original_url": "https://x.com/ahkbaralhrob/status/1855618165327212668",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-11-10T14:27:00.000Z",
+  "publisher": "'@ahkbaralhrob",
+  "publisher_ar": "'@ahkbaralhrob",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:32:45+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-3d09b76a4fcfe9618c41cef9",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/ahkbaralhrob/status/1855618165327212668",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\nبكيــن بالعربية@INFOBEIJمصادر سورية :\n3 شهداء وعدد من الجرحى نتيجة قصف مبنى سكني في منطقة السيدة زينب جنوب دمشق..2:27 PM · Nov 10, 2024282Views24",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.001766
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}

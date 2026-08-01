@@ -1,0 +1,107 @@
+{
+  "airwars_source_ids": [],
+  "archived_urls": [
+    "https://archive.is/vSMM0"
+  ],
+  "attempt_history": [
+    {
+      "attempt_history": [
+        {
+          "attempt": 1,
+          "elapsed_seconds": 0.239,
+          "error": null,
+          "result": "successful",
+          "retrieved_at": "2026-08-01T08:33:43+00:00",
+          "status": 200
+        }
+      ],
+      "attempt_role": "live_source",
+      "attempts": 1,
+      "body_decoded_from": null,
+      "bytes": 82682,
+      "circuit_open_reason": "",
+      "circuit_open_status": null,
+      "content_hash": "ba7aee7d01fd55de508e96d48650eb305bd25c73bc275f504fbca5e3ef0b978f",
+      "content_type": "text/html; charset=UTF-8",
+      "elapsed_seconds": 0.239,
+      "error": null,
+      "etag": "",
+      "final_url": "https://x.com/Al_Baz_Syrie/status/1865324959268000236",
+      "last_modified": "",
+      "ok": true,
+      "response_content_encoding": "",
+      "retrieved_at": "2026-08-01T08:33:43+00:00",
+      "status": 200,
+      "url": "https://x.com/Al_Baz_Syrie/status/1865324959268000236",
+      "waiting_seconds": 0.748
+    }
+  ],
+  "author": "https://x.com/Al_Baz_Syrie",
+  "captions": [],
+  "content_hash": "a1060de34aadb722f76d5273e9426ff158a526e670f598e9c0e4a5b0f4b0103c",
+  "content_variants": [
+    {
+      "bytes": 335,
+      "provenance": "source_live",
+      "retrieved_at": "2026-08-01T08:33:43+00:00",
+      "sha256": "a1060de34aadb722f76d5273e9426ff158a526e670f598e9c0e4a5b0f4b0103c",
+      "source_url": "https://x.com/Al_Baz_Syrie/status/1865324959268000236",
+      "text": "Post\n\nPost\n\n@Ã𝐿~𝐵@𝑍M𝓪𝔃𝓮𝓷@Al_Baz_Syrie#عاجــــــــــل\n\nشهداء وجرحى بينهم أطفال بغارات جوية من الطيران الحربي #الروسي_الارهابي\nعلى قرية #الغنطو بريف #حمص الشمالي\n\n#ردع_العدوان9:18 AM · Dec 7, 202422Views1"
+    }
+  ],
+  "descriptions": [],
+  "detected_format": "html",
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://x.com/Al_Baz_Syrie/status/1865324959268000236",
+  "incident_ids": [
+    "airwars-190684"
+  ],
+  "incident_sequences": [
+    166
+  ],
+  "normalized_url": "https://x.com/Al_Baz_Syrie/status/1865324959268000236",
+  "observed_original_urls": [
+    "https://x.com/Al_Baz_Syrie/status/1865324959268000236"
+  ],
+  "original_url": "https://x.com/Al_Baz_Syrie/status/1865324959268000236",
+  "page_title": "@Ã𝐿~𝐵@𝑍M𝓪𝔃𝓮𝓷 on X: \"#عاجــــــــــل\n\nشهداء وجرحى بينهم أطفال بغارات جوية من الطيران الحربي #الروسي_الارهابي\nعلى قرية #الغنطو بريف #حمص الشمالي\n\n#ردع_العدوان https://t.co/Sqi4wg6z9E\" / X",
+  "parser_version": "1.0.0",
+  "pdf": null,
+  "preservation_status": "live_text_preserved",
+  "provenance": [
+    {
+      "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4965-december-7-2024/",
+      "airwars_source_id": null,
+      "incident_id": "airwars-190684",
+      "incident_sequence": 166,
+      "observed_original_url": "https://x.com/Al_Baz_Syrie/status/1865324959268000236",
+      "source_type": "legacy_import"
+    }
+  ],
+  "publication_date": "2024-12-07T09:18:21.000Z",
+  "publisher": "'@Al_Baz_Syrie",
+  "publisher_ar": "'@Al_Baz_Syrie",
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T08:33:43+00:00",
+  "review_flags": [],
+  "schema_version": "1.0.0",
+  "source_id": "source-79433ffd982dd59512773846",
+  "source_type": "public_x_post",
+  "stable_id_basis": "https://x.com/Al_Baz_Syrie/status/1865324959268000236",
+  "text_ar": "",
+  "text_original": "Post\n\nPost\n\n@Ã𝐿~𝐵@𝑍M𝓪𝔃𝓮𝓷@Al_Baz_Syrie#عاجــــــــــل\n\nشهداء وجرحى بينهم أطفال بغارات جوية من الطيران الحربي #الروسي_الارهابي\nعلى قرية #الغنطو بريف #حمص الشمالي\n\n#ردع_العدوان9:18 AM · Dec 7, 202422Views1",
+  "text_original_language": "ar",
+  "timing": {
+    "text_extraction_seconds": 0.002079
+  },
+  "translation": {
+    "chunks": [],
+    "generated_in_pilot": false,
+    "provider": "none",
+    "review_required": false,
+    "status": "disabled_by_user",
+    "version": "disabled-no-translation-v1"
+  },
+  "translation_version": "disabled-no-translation-v1"
+}
