@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/jlMMF"
+    "https://archive.md/jlMMF",
+    "https://web.archive.org/web/20211208153507id_/https://syrianpc.com/archives/324105"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Press Center",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d503438a9c78d42ba2bea63786ea101f8ff16a720f06d25bec2659ebaa2ca774",
+  "content_variants": [
+    {
+      "bytes": 1631,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:08:32+00:00",
+      "sha256": "d503438a9c78d42ba2bea63786ea101f8ff16a720f06d25bec2659ebaa2ca774",
+      "source_url": "https://web.archive.org/web/20211208153507id_/https://syrianpc.com/archives/324105",
+      "text": "التحالف الدولي يقتل شخصا ويعتقل أشقاءه بإنزال جوي\n\nقتلت قوات التحالف الدولي في سوريا بقيادة الولايات المتحدة الأمريكية شابا واعتقلت أشقاءه في شمال شرق سوريا.\n\nوقالت مصادر محلية الإثنين 8 من تشرين الثاني/أكتوبر أن التحالف قتل الشاب عبد نهار المجول واعتقل شقيقيه سليمان وفهد خلال إنزال جوي في بلدة الصبحة شرق دير الزور.\n\nكما نفذ التحالف غارة جوية على منزل في قرية فنيجين في بادية أبو حسب غرب الدير، قتل فيها شخص يدعى مدلول العدس خلال مداهمته من قبل قوات سوريا الديمقراطية “قسد” التي تشارك التحالف في إنزالاته الجوية كقوة برية.\n\nالمركز الصحفي السوري\n\nعين على الواقع\n\nالخبر السابق\n\nمنتخب النظام للسيدات بكرة السلة…\n\nالخبر القادم\n\n“الطمع ضر وما نفع” مثل كثير متداول وما منعرف قصته… تابعوا الفيديو لتشوفوا قصة المثل\n\nاجتماع للتحالف مع قوات سوريا الديمقراطية “قسد”\n\nغارة جوية روسية مكثفة شرق سوريا\n\nثلاثة قتلى باستهداف طائرة مسيرة شمال سوريا\n\nقافلتان عسكريتان للتحالف الدولي تصلان إلى الحسكة خلال يومين"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:08:30+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:08:32+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211208153507id_/https://syrianpc.com/archives/324105"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211208153507id_/https://syrianpc.com/archives/324105",
   "incident_ids": [
     "airwars-79930"
   ],
@@ -85,10 +109,10 @@
     "https://syrianpc.com/archives/324105"
   ],
   "original_url": "https://syrianpc.com/archives/324105",
-  "page_title": "",
+  "page_title": "التحالف الدولي يقتل شخصا ويعتقل أشقاءه بإنزال جوي - مركز الصحافة الاجتماعية التحالف الدولي يقتل شخصا ويعتقل أشقاءه بإنزال جوي - مركز الصحافة الاجتماعية",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1971-november-8-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:08:32+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7ec65e4492f028809bc3cc3d",
   "source_type": "news_article",
   "stable_id_basis": "https://syrianpc.com/archives/324105",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "التحالف الدولي يقتل شخصا ويعتقل أشقاءه بإنزال جوي\n\nقتلت قوات التحالف الدولي في سوريا بقيادة الولايات المتحدة الأمريكية شابا واعتقلت أشقاءه في شمال شرق سوريا.\n\nوقالت مصادر محلية الإثنين 8 من تشرين الثاني/أكتوبر أن التحالف قتل الشاب عبد نهار المجول واعتقل شقيقيه سليمان وفهد خلال إنزال جوي في بلدة الصبحة شرق دير الزور.\n\nكما نفذ التحالف غارة جوية على منزل في قرية فنيجين في بادية أبو حسب غرب الدير، قتل فيها شخص يدعى مدلول العدس خلال مداهمته من قبل قوات سوريا الديمقراطية “قسد” التي تشارك التحالف في إنزالاته الجوية كقوة برية.\n\nالمركز الصحفي السوري\n\nعين على الواقع\n\nالخبر السابق\n\nمنتخب النظام للسيدات بكرة السلة…\n\nالخبر القادم\n\n“الطمع ضر وما نفع” مثل كثير متداول وما منعرف قصته… تابعوا الفيديو لتشوفوا قصة المثل\n\nاجتماع للتحالف مع قوات سوريا الديمقراطية “قسد”\n\nغارة جوية روسية مكثفة شرق سوريا\n\nثلاثة قتلى باستهداف طائرة مسيرة شمال سوريا\n\nقافلتان عسكريتان للتحالف الدولي تصلان إلى الحسكة خلال يومين",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

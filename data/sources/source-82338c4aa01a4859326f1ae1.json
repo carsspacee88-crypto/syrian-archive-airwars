@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/9BTkm"
+    "https://archive.is/9BTkm",
+    "https://web.archive.org/web/20240515222700id_/https://www.google.com/url?q=https://www.syriahr.com/en/220614/?fbclid%3DIwAR22d5ZWzOmIQC0ardbl5b_WiaapF9WK5lFGui6F5_Lc84iS6aREXOTcTOg&sa=D&source=editors&ust=1628762402214197&usg=AOvVaw2alC3HbcEFu5z7p5Bh_73e"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory of Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2e629e3e6c9c23f52232c76acbd47b1e1518df44240e4da1d47c4ad16fc5368a",
+  "content_variants": [
+    {
+      "bytes": 247,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:08:47+00:00",
+      "sha256": "2e629e3e6c9c23f52232c76acbd47b1e1518df44240e4da1d47c4ad16fc5368a",
+      "source_url": "https://web.archive.org/web/20240515222700id_/https://www.google.com/url?q=https://www.syriahr.com/en/220614/?fbclid%3DIwAR22d5ZWzOmIQC0ardbl5b_WiaapF9WK5lFGui6F5_Lc84iS6aREXOTcTOg&sa=D&source=editors&ust=1628762402214197&usg=AOvVaw2alC3HbcEFu5z7p5Bh_73e",
+      "text": "Redirect NoticeRedirect Notice The previous page is sending you to https://www.syriahr.com/en/220614/?fbclid=IwAR22d5ZWzOmIQC0ardbl5b_WiaapF9WK5lFGui6F5_Lc84iS6aREXOTcTOg. If you do not want to visit that page, you can return to the previous page."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:08:39+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:08:47+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515222700id_/https://www.google.com/url?q=https://www.syriahr.com/en/220614/?fbclid%3DIwAR22d5ZWzOmIQC0ardbl5b_WiaapF9WK5lFGui6F5_Lc84iS6aREXOTcTOg&sa=D&source=editors&ust=1628762402214197&usg=AOvVaw2alC3HbcEFu5z7p5Bh_73e"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515222700id_/https://www.google.com/url?q=https://www.syriahr.com/en/220614/?fbclid%3DIwAR22d5ZWzOmIQC0ardbl5b_WiaapF9WK5lFGui6F5_Lc84iS6aREXOTcTOg&sa=D&source=editors&ust=1628762402214197&usg=AOvVaw2alC3HbcEFu5z7p5Bh_73e",
   "incident_ids": [
     "airwars-77141"
   ],
@@ -85,10 +109,10 @@
     "https://www.google.com/url?q=https://www.syriahr.com/en/220614/?fbclid%3DIwAR22d5ZWzOmIQC0ardbl5b_WiaapF9WK5lFGui6F5_Lc84iS6aREXOTcTOg&sa=D&source=editors&ust=1628762402214197&usg=AOvVaw2alC3HbcEFu5z7p5Bh_73e"
   ],
   "original_url": "https://www.google.com/url?q=https://www.syriahr.com/en/220614/?fbclid%3DIwAR22d5ZWzOmIQC0ardbl5b_WiaapF9WK5lFGui6F5_Lc84iS6aREXOTcTOg&sa=D&source=editors&ust=1628762402214197&usg=AOvVaw2alC3HbcEFu5z7p5Bh_73e",
-  "page_title": "",
+  "page_title": "Redirect Notice",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4621-august-10-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:08:47+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-82338c4aa01a4859326f1ae1",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.google.com/url?q=https://www.syriahr.com/en/220614/?fbclid%3DIwAR22d5ZWzOmIQC0ardbl5b_WiaapF9WK5lFGui6F5_Lc84iS6aREXOTcTOg&sa=D&source=editors&ust=1628762402214197&usg=AOvVaw2alC3HbcEFu5z7p5Bh_73e",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Redirect NoticeRedirect Notice The previous page is sending you to https://www.syriahr.com/en/220614/?fbclid=IwAR22d5ZWzOmIQC0ardbl5b_WiaapF9WK5lFGui6F5_Lc84iS6aREXOTcTOg. If you do not want to visit that page, you can return to the previous page.",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

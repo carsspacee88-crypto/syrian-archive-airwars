@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/Sw7Cz"
+    "https://archive.is/Sw7Cz",
+    "https://web.archive.org/web/20241013093954id_/https://npasyria.com/en/86910/?fbclid=IwAR3W31HiS-6IHwJG-QNjm5sV36oF7n9VsFydudipcJPhhOQyUCG8ZWPdKm0"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8a85fb2a5b5a86b5d950bd3f1177a05b729b0fc374c236012abd17d8d28659df",
+  "content_variants": [
+    {
+      "bytes": 779,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:59:55+00:00",
+      "sha256": "8a85fb2a5b5a86b5d950bd3f1177a05b729b0fc374c236012abd17d8d28659df",
+      "source_url": "https://web.archive.org/web/20241013093954id_/https://npasyria.com/en/86910/?fbclid=IwAR3W31HiS-6IHwJG-QNjm5sV36oF7n9VsFydudipcJPhhOQyUCG8ZWPdKm0",
+      "text": "SDF fighter loses life in car blast in Syria’s Qamishli\n\nA car blast in the city of Qamishli in northeast Syria – North Press\n\nQAMISHLI, Syria (North Press) – A fighter of the Syrian Democratic Forces (SDF) lost his life after a Turkish drone hit his car in the city of Qamishli in northeast Syria on Sunday.\n\nThe SDF announced, through its official website, that its fighter, Mitan Shoresh, lost his life in a Turkish drone attack on Sunday evening.\n\nWhile Mitan was on his vacationing and wandering with two of his friends, who were civilians, they were targeted by the “Turkish occupying army,” the SDF said.\n\nThe SDF added that its fighter lost his life, while the two civilians were injured and they are now treated at the hospital.\n\nReporting by Muhammad al-Omari"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:59:53+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:59:55+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241013093954id_/https://npasyria.com/en/86910/?fbclid=IwAR3W31HiS-6IHwJG-QNjm5sV36oF7n9VsFydudipcJPhhOQyUCG8ZWPdKm0"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241013093954id_/https://npasyria.com/en/86910/?fbclid=IwAR3W31HiS-6IHwJG-QNjm5sV36oF7n9VsFydudipcJPhhOQyUCG8ZWPdKm0",
   "incident_ids": [
     "airwars-85328"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/86910/?fbclid=IwAR3W31HiS-6IHwJG-QNjm5sV36oF7n9VsFydudipcJPhhOQyUCG8ZWPdKm0"
   ],
   "original_url": "https://npasyria.com/en/86910/?fbclid=IwAR3W31HiS-6IHwJG-QNjm5sV36oF7n9VsFydudipcJPhhOQyUCG8ZWPdKm0",
-  "page_title": "",
+  "page_title": "SDF fighter loses life in car blast in Syria's Qamishli SDF fighter loses life in car blast in Syria's Qamishli SDF fighter loses life in car blast in Syria's Qamishli SDF fighter loses life in car blast in Syria's Qamishli - North press agency SDF fighter loses life in car blast in Syria's Qamishli - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts564-november-6-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:59:55+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5a8a5f12361d8596a0b13833",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/86910/?fbclid=IwAR3W31HiS-6IHwJG-QNjm5sV36oF7n9VsFydudipcJPhhOQyUCG8ZWPdKm0",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "SDF fighter loses life in car blast in Syria’s Qamishli\n\nA car blast in the city of Qamishli in northeast Syria – North Press\n\nQAMISHLI, Syria (North Press) – A fighter of the Syrian Democratic Forces (SDF) lost his life after a Turkish drone hit his car in the city of Qamishli in northeast Syria on Sunday.\n\nThe SDF announced, through its official website, that its fighter, Mitan Shoresh, lost his life in a Turkish drone attack on Sunday evening.\n\nWhile Mitan was on his vacationing and wandering with two of his friends, who were civilians, they were targeted by the “Turkish occupying army,” the SDF said.\n\nThe SDF added that its fighter lost his life, while the two civilians were injured and they are now treated at the hospital.\n\nReporting by Muhammad al-Omari",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

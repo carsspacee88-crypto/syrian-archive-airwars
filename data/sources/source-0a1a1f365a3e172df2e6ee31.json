@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/r1qVX"
+    "https://archive.is/r1qVX",
+    "https://web.archive.org/web/20251023005206id_/https://npasyria.com/en/98677/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "95c1425b5a6e265d46b8dfabda9a9b42761ef441892f578c5e03774c42af10fd",
+  "content_variants": [
+    {
+      "bytes": 1374,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:51:15+00:00",
+      "sha256": "95c1425b5a6e265d46b8dfabda9a9b42761ef441892f578c5e03774c42af10fd",
+      "source_url": "https://web.archive.org/web/20251023005206id_/https://npasyria.com/en/98677/",
+      "text": "Celebratory gunfire after Erdogan win wounds 20 people in NE Syria\n\nStray bullets wound an individual in al-Mahmoudly camp in the countryside of Afrin, northwest Syria\n\nALEPPO, Syria (North Press) – The total toll of wounded due to stray bullets fired in the Syrian opposition-held areas during celebrations of the Turkish president’s winning a third term in power reached on Sunday 20 people.\n\nAreas run by the Turkish-backed factions of the Syrian National Army (SNA) witnessed broad festivals, celebrating Turkish President Recep Tayyip Erdogan’s victory, and the region witnessed intensive celebrating gunfire, wounding 20 people, including four children and two women.\n\nThe Monitoring and Documentation Department of North Press Agency documented the wounding of 20 people in different areas of the opposition.\n\nThe wounded were distributed as follows: seven wounded in Afrin and its countryside north of Aleppo, four in Sere Kaniye (Ras al-Ain) in the countryside of Hasakah, three each in the city of Azaz north of Aleppo and the city of Tel Abyad in the northern countryside of Raqqa, two in the city of al-Bab east of Aleppo, and one wounded in Jarablus.\n\nOn Sunday, Erdogan won his third term in the runoff round of the presidential elections, securing 52.4 percent of the votes, according to Turkey’s Supreme Election Council.\n\nReporting by Malin Muhammad"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:51:14+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:51:15+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251023005206id_/https://npasyria.com/en/98677/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251023005206id_/https://npasyria.com/en/98677/",
   "incident_ids": [
     "airwars-89384"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/98677/"
   ],
   "original_url": "https://npasyria.com/en/98677/",
-  "page_title": "",
+  "page_title": "Celebratory gunfire after Erdogan win wounds 20 people in NE Syria Celebratory gunfire after Erdogan win wounds 20 people in NE Syria Celebratory gunfire after Erdogan win wounds 20 people in NE Syria Celebratory gunfire after Erdogan win wounds 20 people in NE Syria - North press agency Celebratory gunfire after Erdogan win wounds 20 people in NE Syria - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts597-may-28-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:51:15+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0a1a1f365a3e172df2e6ee31",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/98677/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Celebratory gunfire after Erdogan win wounds 20 people in NE Syria\n\nStray bullets wound an individual in al-Mahmoudly camp in the countryside of Afrin, northwest Syria\n\nALEPPO, Syria (North Press) – The total toll of wounded due to stray bullets fired in the Syrian opposition-held areas during celebrations of the Turkish president’s winning a third term in power reached on Sunday 20 people.\n\nAreas run by the Turkish-backed factions of the Syrian National Army (SNA) witnessed broad festivals, celebrating Turkish President Recep Tayyip Erdogan’s victory, and the region witnessed intensive celebrating gunfire, wounding 20 people, including four children and two women.\n\nThe Monitoring and Documentation Department of North Press Agency documented the wounding of 20 people in different areas of the opposition.\n\nThe wounded were distributed as follows: seven wounded in Afrin and its countryside north of Aleppo, four in Sere Kaniye (Ras al-Ain) in the countryside of Hasakah, three each in the city of Azaz north of Aleppo and the city of Tel Abyad in the northern countryside of Raqqa, two in the city of al-Bab east of Aleppo, and one wounded in Jarablus.\n\nOn Sunday, Erdogan won his third term in the runoff round of the presidential elections, securing 52.4 percent of the votes, according to Turkey’s Supreme Election Council.\n\nReporting by Malin Muhammad",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

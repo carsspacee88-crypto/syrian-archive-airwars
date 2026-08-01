@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/6BKnd"
+    "https://archive.is/6BKnd",
+    "https://web.archive.org/web/20260412063608id_/https://taskandpurpose.com/news/syria-drone-strike-wrong-person-misto/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Task and Purpose",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "896243528c221d320a1b0c74f2ef66206060fba99b0edd6475ee4516823d03ca",
+  "content_variants": [
+    {
+      "bytes": 3916,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:29:52+00:00",
+      "sha256": "896243528c221d320a1b0c74f2ef66206060fba99b0edd6475ee4516823d03ca",
+      "source_url": "https://web.archive.org/web/20260412063608id_/https://taskandpurpose.com/news/syria-drone-strike-wrong-person-misto/",
+      "text": "FILE: A U.S. Air Force MQ-9 Reaper drone firing a AGM-114 Hellfire missile. (U.S. Air Force photo)\n\nEarlier this month U.S. Central Command announced it carried out an air strike against an al-Qaeda leader in Syria. Now the Pentagon is looking into whether or not it killed a civilian instead.\n\nU.S. Central Command originally reported that the strike on May 3 targeted a “senior al-Qaeda leader” in northwest Syria, but did not provide any additional details to the operation or the target. The United States has been steadily carrying out air strikes and raids in Syria this year, going after commanders of ISIS. But according to family and witnesses, the victim of the May 3 strike was Lotfi Hassan Misto, a 56-year-old former bricklayer and father of 10.\n\nSubscribe to Task & Purpose Today. Get the latest military news, entertainment, and gear in your inbox daily.\n\nSubscribe to Task & Purpose Today. Get the latest military news, entertainment, and gear in your inbox daily.\n\nThe Washington Post first reported the story. Per the newspaper, two officials in the Pentagon said they are not confident they killed a leader of the terrorist group. Since May 3, CENTCOM has not identified who the intended target of the operation was. A Pentagon spokesperson told the Washington Post that it is looking into the report that a civilian was killed; however the military has not identified Misto as the person killed.\n\n“CENTCOM continues to assess the outcome of the strike and has been made aware of allegations that the strike may have resulted in a civilian casualty,” spokesman Major John Moore separately told al-Jazeera English on Friday, May 19.\n\nA missile fired by a drone hit the land around Qorqanya, Syria, where Mitso lived on May 3. Family and first responders pulled his heavily damaged body from the site of the strike.\n\nExperts who talked to the Washington Post noted that the area of the May 3 strike is not an al-Qaeda affiliated location, instead aligned with the group’s rivals. They also pointed out that after Misto’s death there were no notifications of his demise by al-Qaeda or any other terrorist group. Video shared shows the impact of a Hellfire missile in the area around Qorqanya, fired by an MQ-9 Predator drone.\n\nThis isn’t the first time the U.S. has had to admit it wrongly claimed to have killed a terrorist target. Ayman al-Zawahiri, the head of al-Qaeda following the death of Osama bin Laden, had been declared dead several times over the years before he was confirmed to have been killed in a drone strike in Kabul on July 31, 2022.\n\nIn another instance, the United States wrongly killed 10 civilians — including seven children — in Kabul in August 2021. The strike, which came soon after the American withdrawal from Afghanistan was originally said to have been a successful operation against an ISIS-K member plotting attacks, as a followup to the Abbey Gate bombing at Hamid Karzai International Airport.The person who had been tracked instead was an aid group and was trying to move to the United States. The military only acknowledged the error three weeks later; no one was punished for it.\n\nDespite those instances, drone strikes remain a popular tactic for the U.S. military and intelligence community against suspected terrorists. That is particularly true in Syria where the U.S. and its allies are hunting remnants of ISIS.\n\nThe latest on Task & Purpose\n\nSpecial Forces soldiers reveal first details of battle with Russian mercenaries in Syria\n\nWho was General Mark Milley before he was ‘The Chairman’?\n\nWhat we know about the Marine veteran who killed Jordan Neely on the New York City subway\n\nFort Benning, ‘home of the Infantry,’ is now Fort Moore\n\nUkraine claims it has routed a Russian brigade near Bakhmut\n\nTask & Purpose Video\n\nEach week on Tuesdays and Fridays our team will bring you analysis of military tech, tactics, and doctrine."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:29:48+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:29:52+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260412063608id_/https://taskandpurpose.com/news/syria-drone-strike-wrong-person-misto/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260412063608id_/https://taskandpurpose.com/news/syria-drone-strike-wrong-person-misto/",
   "incident_ids": [
     "airwars-89103"
   ],
@@ -85,10 +109,10 @@
     "https://taskandpurpose.com/news/syria-drone-strike-wrong-person-misto/"
   ],
   "original_url": "https://taskandpurpose.com/news/syria-drone-strike-wrong-person-misto/",
-  "page_title": "",
+  "page_title": "Pentagon probing if it killed the wrong person in Syria drone strike Pentagon investigating if it killed a civilian instead of an al-Qaeda leader in Syria drone strike",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1992-may-3-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:29:52+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-fee597be182ae01e2f5cdce7",
   "source_type": "other_web_page",
   "stable_id_basis": "https://taskandpurpose.com/news/syria-drone-strike-wrong-person-misto/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "FILE: A U.S. Air Force MQ-9 Reaper drone firing a AGM-114 Hellfire missile. (U.S. Air Force photo)\n\nEarlier this month U.S. Central Command announced it carried out an air strike against an al-Qaeda leader in Syria. Now the Pentagon is looking into whether or not it killed a civilian instead.\n\nU.S. Central Command originally reported that the strike on May 3 targeted a “senior al-Qaeda leader” in northwest Syria, but did not provide any additional details to the operation or the target. The United States has been steadily carrying out air strikes and raids in Syria this year, going after commanders of ISIS. But according to family and witnesses, the victim of the May 3 strike was Lotfi Hassan Misto, a 56-year-old former bricklayer and father of 10.\n\nSubscribe to Task & Purpose Today. Get the latest military news, entertainment, and gear in your inbox daily.\n\nSubscribe to Task & Purpose Today. Get the latest military news, entertainment, and gear in your inbox daily.\n\nThe Washington Post first reported the story. Per the newspaper, two officials in the Pentagon said they are not confident they killed a leader of the terrorist group. Since May 3, CENTCOM has not identified who the intended target of the operation was. A Pentagon spokesperson told the Washington Post that it is looking into the report that a civilian was killed; however the military has not identified Misto as the person killed.\n\n“CENTCOM continues to assess the outcome of the strike and has been made aware of allegations that the strike may have resulted in a civilian casualty,” spokesman Major John Moore separately told al-Jazeera English on Friday, May 19.\n\nA missile fired by a drone hit the land around Qorqanya, Syria, where Mitso lived on May 3. Family and first responders pulled his heavily damaged body from the site of the strike.\n\nExperts who talked to the Washington Post noted that the area of the May 3 strike is not an al-Qaeda affiliated location, instead aligned with the group’s rivals. They also pointed out that after Misto’s death there were no notifications of his demise by al-Qaeda or any other terrorist group. Video shared shows the impact of a Hellfire missile in the area around Qorqanya, fired by an MQ-9 Predator drone.\n\nThis isn’t the first time the U.S. has had to admit it wrongly claimed to have killed a terrorist target. Ayman al-Zawahiri, the head of al-Qaeda following the death of Osama bin Laden, had been declared dead several times over the years before he was confirmed to have been killed in a drone strike in Kabul on July 31, 2022.\n\nIn another instance, the United States wrongly killed 10 civilians — including seven children — in Kabul in August 2021. The strike, which came soon after the American withdrawal from Afghanistan was originally said to have been a successful operation against an ISIS-K member plotting attacks, as a followup to the Abbey Gate bombing at Hamid Karzai International Airport.The person who had been tracked instead was an aid group and was trying to move to the United States. The military only acknowledged the error three weeks later; no one was punished for it.\n\nDespite those instances, drone strikes remain a popular tactic for the U.S. military and intelligence community against suspected terrorists. That is particularly true in Syria where the U.S. and its allies are hunting remnants of ISIS.\n\nThe latest on Task & Purpose\n\nSpecial Forces soldiers reveal first details of battle with Russian mercenaries in Syria\n\nWho was General Mark Milley before he was ‘The Chairman’?\n\nWhat we know about the Marine veteran who killed Jordan Neely on the New York City subway\n\nFort Benning, ‘home of the Infantry,’ is now Fort Moore\n\nUkraine claims it has routed a Russian brigade near Bakhmut\n\nTask & Purpose Video\n\nEach week on Tuesdays and Fridays our team will bring you analysis of military tech, tactics, and doctrine.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

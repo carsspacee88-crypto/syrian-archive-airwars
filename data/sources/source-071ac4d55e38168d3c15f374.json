@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20260208210348id_/https://shaam.org/news/syria-news/q-t-la-wjrha-mn-mylyshyat-alasd-bamlyh-nwayh-l-t-h-r-yr-al-sh-am-ghrby-hlb"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Shaam News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b262058379839d8c34389486bf0212bc9c1473e79c45fcc73ea47bfff0e82940",
+  "content_variants": [
+    {
+      "bytes": 2540,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:50:50+00:00",
+      "sha256": "b262058379839d8c34389486bf0212bc9c1473e79c45fcc73ea47bfff0e82940",
+      "source_url": "https://web.archive.org/web/20260208210348id_/https://shaam.org/news/syria-news/q-t-la-wjrha-mn-mylyshyat-alasd-bamlyh-nwayh-l-t-h-r-yr-al-sh-am-ghrby-hlb",
+      "text": "صورة من موقع الهجوم\n\nقـ ـتـ ـلى وجرحى من ميليشيات الأسد بعملية نوعية لـ \"تـ ـحـ ـر ير الـ ـشـ ـام\" غربي حلب\n\nتمكنت هيئة تحرير الشام من تكبيد قوات الأسد خسائر بشرية ومادية بعدما شن عناصرها هجوما مفاجئا على مواقع بريف حلب الغربي.\n\nوقالت الهيئة إن عناصرها من لواء عبد الرحمن بن عوف نفذوا عملية نوعية على مواقع ميليشيات الأسد والميليشيات الإيرانية على محور قرية بسرطون بريف حلب الغربي.\n\nوأشارت الهيئة إلى أن العملية أسفرت عن تدمير ثلاث دشم لقوات الأسد، وإيقاع عددا من القتلى والجرحى، مؤكدة انسحاب عناصرها بسلام.\n\nوقبل ذلك كانت فصائل الثوار قد تمكنت من قتل اثنين من عناصر الأسد قنصا على محور قرية بسرطون، واستهدفت معاقل قوات الأسد على محور مدينة الأتارب بقذائف المدفعية.\n\nوردت قوات الأسد كعادتها على خسائرها العسكرية بقصف منازل المدنيين والأحياء السكنية، حيث استهدفت محيط قرية الأبزمو غربي حلب بقذائف المدفعية، ما أدى لسقوط سقوط جرحى في صفوف المدنيين بينهم أطفال، كما تعرضت قرى تقاد وكفرتعال وكفرعمة لقصف مماثل.\n\nوالجدير بالذكر أن عناصر الهيئة هاجموا قبل أيام مواقع مهمة لقوات الأسد على محور الفوج 46 بريف حلب الغربي، وتمكنوا من تدميرها، وأوقعوا العشرات من العناصربين قتيل وجريح، بينهم جنود تابعين لميليشيا \"حزب الله اللبناني\" وضابط برتبة عقيد تابع لميليشيا \"الحرس الثوري الإيراني\".\n\nوباتت العمليات النوعية للهيئة تتكرر بين الحين والآخر على جبهات التماس مع قوات النظام والميليشيات التابعة له، رداً على استمرار قوات الأسد وروسيا بتنفيذ ضربات أرضية وجوية على مناطق عدة بريف إدلب، وطالما تسببت بارتكاب مجازر"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:50:49+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:50:50+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260208210348id_/https://shaam.org/news/syria-news/q-t-la-wjrha-mn-mylyshyat-alasd-bamlyh-nwayh-l-t-h-r-yr-al-sh-am-ghrby-hlb"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260208210348id_/https://shaam.org/news/syria-news/q-t-la-wjrha-mn-mylyshyat-alasd-bamlyh-nwayh-l-t-h-r-yr-al-sh-am-ghrby-hlb",
   "incident_ids": [
     "airwars-89294"
   ],
@@ -55,10 +80,10 @@
     "https://shaam.org/news/syria-news/q-t-la-wjrha-mn-mylyshyat-alasd-bamlyh-nwayh-l-t-h-r-yr-al-sh-am-ghrby-hlb"
   ],
   "original_url": "https://shaam.org/news/syria-news/q-t-la-wjrha-mn-mylyshyat-alasd-bamlyh-nwayh-l-t-h-r-yr-al-sh-am-ghrby-hlb",
-  "page_title": "",
+  "page_title": "قـ ـتـ ـلى وجرحى من ميليشيات الأسد بعملية نوعية لـ \"تـ ـحـ ـر ير الـ ـشـ ـام\" غربي حلب | شبكة شام الإخبارية قـ ـتـ ـلى وجرحى من ميليشيات الأسد بعملية نوعية لـ \"تـ ـحـ ـر ير الـ ـشـ ـام\" غربي حلب قـ ـتـ ـلى وجرحى من ميليشيات الأسد بعملية نوعية لـ \"تـ ـحـ ـر ير الـ ـشـ ـام\" غربي حلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4764-april-16-2023/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:50:50+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-071ac4d55e38168d3c15f374",
   "source_type": "news_article",
   "stable_id_basis": "https://shaam.org/news/syria-news/q-t-la-wjrha-mn-mylyshyat-alasd-bamlyh-nwayh-l-t-h-r-yr-al-sh-am-ghrby-hlb",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "صورة من موقع الهجوم\n\nقـ ـتـ ـلى وجرحى من ميليشيات الأسد بعملية نوعية لـ \"تـ ـحـ ـر ير الـ ـشـ ـام\" غربي حلب\n\nتمكنت هيئة تحرير الشام من تكبيد قوات الأسد خسائر بشرية ومادية بعدما شن عناصرها هجوما مفاجئا على مواقع بريف حلب الغربي.\n\nوقالت الهيئة إن عناصرها من لواء عبد الرحمن بن عوف نفذوا عملية نوعية على مواقع ميليشيات الأسد والميليشيات الإيرانية على محور قرية بسرطون بريف حلب الغربي.\n\nوأشارت الهيئة إلى أن العملية أسفرت عن تدمير ثلاث دشم لقوات الأسد، وإيقاع عددا من القتلى والجرحى، مؤكدة انسحاب عناصرها بسلام.\n\nوقبل ذلك كانت فصائل الثوار قد تمكنت من قتل اثنين من عناصر الأسد قنصا على محور قرية بسرطون، واستهدفت معاقل قوات الأسد على محور مدينة الأتارب بقذائف المدفعية.\n\nوردت قوات الأسد كعادتها على خسائرها العسكرية بقصف منازل المدنيين والأحياء السكنية، حيث استهدفت محيط قرية الأبزمو غربي حلب بقذائف المدفعية، ما أدى لسقوط سقوط جرحى في صفوف المدنيين بينهم أطفال، كما تعرضت قرى تقاد وكفرتعال وكفرعمة لقصف مماثل.\n\nوالجدير بالذكر أن عناصر الهيئة هاجموا قبل أيام مواقع مهمة لقوات الأسد على محور الفوج 46 بريف حلب الغربي، وتمكنوا من تدميرها، وأوقعوا العشرات من العناصربين قتيل وجريح، بينهم جنود تابعين لميليشيا \"حزب الله اللبناني\" وضابط برتبة عقيد تابع لميليشيا \"الحرس الثوري الإيراني\".\n\nوباتت العمليات النوعية للهيئة تتكرر بين الحين والآخر على جبهات التماس مع قوات النظام والميليشيات التابعة له، رداً على استمرار قوات الأسد وروسيا بتنفيذ ضربات أرضية وجوية على مناطق عدة بريف إدلب، وطالما تسببت بارتكاب مجازر",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/Ac5Ac"
+    "https://archive.ph/Ac5Ac",
+    "https://web.archive.org/web/20241213164709id_/https://npasyria.com/185308/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "e7b684301554eee1ab4933370f7b7ee0a7f0bae28dfae5403bb6493a32c293f9",
+  "content_variants": [
+    {
+      "bytes": 1353,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:59:31+00:00",
+      "sha256": "e7b684301554eee1ab4933370f7b7ee0a7f0bae28dfae5403bb6493a32c293f9",
+      "source_url": "https://web.archive.org/web/20241213164709id_/https://npasyria.com/185308/",
+      "text": "إصابة شخص في قصف تركي على ريف منبج\n\nقصف تركي على أطراف قرية الحصان شمال شرقي منبج - نورث برس/ أرشيفية\n\nالرقة – نورث برس\n\nأصيب شخص بجروح، مساء أمس الخميس، في قصف تركي على قرية الصيادة في ريف مدينة منبج، شماي سوريا.\n\nقصف تركي يستهدف ريف منبج منذ ساعات الصباح\n\nوقال المركز الإعلامي لمجلس منبج العسكري التابع لقوات سوريا الديمقراطية “قسد”، إن “الاحتلال التركي استهدف قرية الصيادة الواقعة في الريف الشمالي الغربي لمقاطعة منبج”.\n\nوأضاف المركز: “نتيجة ذلك أصيب مدني يُدعى أحمد العلي (٢٠ عاماً)، ونقل على أثره إلى مشفى الفرات، وهو يتلقى العلاج حالياً”.\n\nوأشار المركز إلى أن الاستهداف أدى إلى أضرار في ممتلكات السكان و”منها قتل المواشي”.\n\nوصباح أمس الخميس، استهدفت القوات التركية، قريتي الدرج وشمدان بريف منبج الشمالي، بـ 22 قذيفة هاون.\n\nتحرير: محمد القاضي"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:59:30+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:59:31+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241213164709id_/https://npasyria.com/185308/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241213164709id_/https://npasyria.com/185308/",
   "incident_ids": [
     "airwars-115969"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/185308/"
   ],
   "original_url": "https://npasyria.com/185308/",
-  "page_title": "",
+  "page_title": "إصابة شخص في قصف تركي على ريف منبج إصابة شخص في قصف تركي على ريف منبج",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts693-may-2-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:59:31+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4f7c5b07a1dddf46479cabf1",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/185308/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة شخص في قصف تركي على ريف منبج\n\nقصف تركي على أطراف قرية الحصان شمال شرقي منبج - نورث برس/ أرشيفية\n\nالرقة – نورث برس\n\nأصيب شخص بجروح، مساء أمس الخميس، في قصف تركي على قرية الصيادة في ريف مدينة منبج، شماي سوريا.\n\nقصف تركي يستهدف ريف منبج منذ ساعات الصباح\n\nوقال المركز الإعلامي لمجلس منبج العسكري التابع لقوات سوريا الديمقراطية “قسد”، إن “الاحتلال التركي استهدف قرية الصيادة الواقعة في الريف الشمالي الغربي لمقاطعة منبج”.\n\nوأضاف المركز: “نتيجة ذلك أصيب مدني يُدعى أحمد العلي (٢٠ عاماً)، ونقل على أثره إلى مشفى الفرات، وهو يتلقى العلاج حالياً”.\n\nوأشار المركز إلى أن الاستهداف أدى إلى أضرار في ممتلكات السكان و”منها قتل المواشي”.\n\nوصباح أمس الخميس، استهدفت القوات التركية، قريتي الدرج وشمدان بريف منبج الشمالي، بـ 22 قذيفة هاون.\n\nتحرير: محمد القاضي",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/FJTfq"
+    "https://archive.is/FJTfq",
+    "https://web.archive.org/web/20250122122415id_/https://sana.sy/en/?p=281915"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SANA",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "77c924ede56de361e93381e600c93dcf4ee5c7ee2c0199c746eee6379263afbf",
+  "content_variants": [
+    {
+      "bytes": 586,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:51:16+00:00",
+      "sha256": "77c924ede56de361e93381e600c93dcf4ee5c7ee2c0199c746eee6379263afbf",
+      "source_url": "https://web.archive.org/web/20250122122415id_/https://sana.sy/en/?p=281915",
+      "text": "25 August، 2022\n\nDamascus, SANA-The army air defenses repelled on Thursday an Israeli missile aggression that targeted the surroundings of Hama and Tartous.\n\nA military source said that at nearly 19.15 p.m. on Thursday, the army air defenses repelled an Israeli missile aggression from the direction of the sea to the south-west of Tartous.\n\n“Most of the aggression missiles that targeted the surroundings of Hama and Tartous were downed,” the source said.\n\nIt added that the attack injured two civilians, caused material losses and set fires to different areas.\n\nMazen Eyon\n\ntweet"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:51:16+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:51:16+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250122122415id_/https://sana.sy/en/?p=281915"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250122122415id_/https://sana.sy/en/?p=281915",
   "incident_ids": [
     "airwars-84519"
   ],
@@ -85,10 +109,10 @@
     "https://sana.sy/en/?p=281915"
   ],
   "original_url": "https://sana.sy/en/?p=281915",
-  "page_title": "",
+  "page_title": "The army air defenses repel Israeli aggression on vicinity of Hama and Tartous – Syrian Arab News Agency The army air defenses repel Israeli aggression on vicinity of Hama and Tartous - Syrian Arab News Agency The army air defenses repel Israeli aggression on vicinity of Hama and Tartous The army air defenses repel Israeli aggression on vicinity of Hama and Tartous",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy028-august-25-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:51:16+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0cb08f9d946c7160ae9021d1",
   "source_type": "other_web_page",
   "stable_id_basis": "https://sana.sy/en/?p=281915",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "25 August، 2022\n\nDamascus, SANA-The army air defenses repelled on Thursday an Israeli missile aggression that targeted the surroundings of Hama and Tartous.\n\nA military source said that at nearly 19.15 p.m. on Thursday, the army air defenses repelled an Israeli missile aggression from the direction of the sea to the south-west of Tartous.\n\n“Most of the aggression missiles that targeted the surroundings of Hama and Tartous were downed,” the source said.\n\nIt added that the attack injured two civilians, caused material losses and set fires to different areas.\n\nMazen Eyon\n\ntweet",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

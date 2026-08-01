@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/ULfbR"
+    "https://archive.ph/ULfbR",
+    "https://web.archive.org/web/20250417174453id_/https://npasyria.com/186276/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2ca0d0f3385129ea3e54077df7af93097ccbbd6c6fbdec65f72de76eaa69ac99",
+  "content_variants": [
+    {
+      "bytes": 2030,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:26:33+00:00",
+      "sha256": "2ca0d0f3385129ea3e54077df7af93097ccbbd6c6fbdec65f72de76eaa69ac99",
+      "source_url": "https://web.archive.org/web/20250417174453id_/https://npasyria.com/186276/",
+      "text": "الإدارة الذاتية تندد بقصف تركي طال قرىً بريف حلب الشمالي\n\nقصف تركي على ريف حلب الشمالي- أرشيفية/ نورث برس\n\nريف حلب – نورث برس\n\nنددت الإدارة الذاتية لشمال وشرقي سوريا، السبت، بقصف تركي طال العديد من القرى الواقعة بريف حلب الشمالي، شمالي سوريا.\n\nوصباح اليوم، استهدف قصف تركي قرىً عدة في ريف حلب الشمالي، وتسبب القصف بإصابة مزارعين كانوا يعملون بأراضيهم الزراعية.\n\nوقالت الإدارة الذاتية في بيان عبر صفحتها الرسمية، إن “تركيا والفصائل الموالية لها نفذت منذ الصباح قصفاً استهدف قرى سموقة وتل مضيق وتل جيجان وصيدا في مقاطعة عفرين والشهباء، بالمدافع وقذائف الهاون، ونتيجة القصف أصيب مواطنون كانوا يعملون في أراضيهم بينهم أطفال”.\n\nوأضافت أن “هذا التصعيد هو نتيجة إصرار أردوغان على ممارسة الإبادة ومآربه في تصعيد دائرة نفوذه واحتلاله ودعمه للمرتزقة والإرهابيين”.\n\nوشددت على أن التصعيد التركي له تداعيات مباشرة بشكل سلبي على الاستقرار، ويعد “دعم معنوي للإرهابيين الذين عاثوا فساداً في مناطق سيطرتهم”.\n\nوأشارت إلى أن هذا القصف يؤكد غياب دور المنظمات الحقوقية والأممية عن أداء واجبها حيال وضع الشهباء ومعاناة السكان في عفرين، مشددةً على أنه من الضروري أن “تقوم هذه الجهات بواجبها وأخلاقياتها المسؤولة”.\n\nتحرير: سعد اليازجي"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:26:31+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:26:33+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250417174453id_/https://npasyria.com/186276/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250417174453id_/https://npasyria.com/186276/",
   "incident_ids": [
     "airwars-116894"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/186276/"
   ],
   "original_url": "https://npasyria.com/186276/",
-  "page_title": "",
+  "page_title": "الإدارة الذاتية تندد بقصف تركي طال قرىً بريف حلب الشمالي الإدارة الذاتية تندد بقصف تركي طال قرىً بريف حلب الشمالي",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts695-may-18-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:26:33+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-dbea4f494a799798c53e2d08",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/186276/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "الإدارة الذاتية تندد بقصف تركي طال قرىً بريف حلب الشمالي\n\nقصف تركي على ريف حلب الشمالي- أرشيفية/ نورث برس\n\nريف حلب – نورث برس\n\nنددت الإدارة الذاتية لشمال وشرقي سوريا، السبت، بقصف تركي طال العديد من القرى الواقعة بريف حلب الشمالي، شمالي سوريا.\n\nوصباح اليوم، استهدف قصف تركي قرىً عدة في ريف حلب الشمالي، وتسبب القصف بإصابة مزارعين كانوا يعملون بأراضيهم الزراعية.\n\nوقالت الإدارة الذاتية في بيان عبر صفحتها الرسمية، إن “تركيا والفصائل الموالية لها نفذت منذ الصباح قصفاً استهدف قرى سموقة وتل مضيق وتل جيجان وصيدا في مقاطعة عفرين والشهباء، بالمدافع وقذائف الهاون، ونتيجة القصف أصيب مواطنون كانوا يعملون في أراضيهم بينهم أطفال”.\n\nوأضافت أن “هذا التصعيد هو نتيجة إصرار أردوغان على ممارسة الإبادة ومآربه في تصعيد دائرة نفوذه واحتلاله ودعمه للمرتزقة والإرهابيين”.\n\nوشددت على أن التصعيد التركي له تداعيات مباشرة بشكل سلبي على الاستقرار، ويعد “دعم معنوي للإرهابيين الذين عاثوا فساداً في مناطق سيطرتهم”.\n\nوأشارت إلى أن هذا القصف يؤكد غياب دور المنظمات الحقوقية والأممية عن أداء واجبها حيال وضع الشهباء ومعاناة السكان في عفرين، مشددةً على أنه من الضروري أن “تقوم هذه الجهات بواجبها وأخلاقياتها المسؤولة”.\n\nتحرير: سعد اليازجي",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

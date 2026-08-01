@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/Ipyfp"
+    "https://archive.md/Ipyfp",
+    "https://web.archive.org/web/20230922013040id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-15-11-2021.html?fbclid=IwAR0sTaKAPhbLky1NRHBE24ODumhDCnkbh15kRKof0RmMJ6_o7pC5A4YL9Fc"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2450e9385713c1ef8e0304abcaabc319bec1a2c7133f24f2b8ad432cf5482db2",
+  "content_variants": [
+    {
+      "bytes": 2682,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:08:13+00:00",
+      "sha256": "2450e9385713c1ef8e0304abcaabc319bec1a2c7133f24f2b8ad432cf5482db2",
+      "source_url": "https://web.archive.org/web/20230922013040id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-15-11-2021.html?fbclid=IwAR0sTaKAPhbLky1NRHBE24ODumhDCnkbh15kRKof0RmMJ6_o7pC5A4YL9Fc",
+      "text": "حصاد الأحداث الميدانية ليوم الاثنين 15-11-2021\n\nحصاد الأحداث الميدانية ليوم الاثنين 15-11-2021\n\nحلب::استشهدت امرأة وطفلها وأصيب 4 آخرين من أطفالها، وزوجها بجروح إثر قصف مدفعي من قبل قوات الأسد على منزل في قرية كفرنوان بالريف الغربي، وردت فصائل الثوار باستهداف معاقل قوات الأسد في بلدة ميزناز بقذائف المدفعية.\n\nسيّرت القوات الروسية والتركية دورية عسكرية مشتركة في محيط مدينة عين العرب بالريف الشرقي.\n\nجرت اشتباكات بين عناصر من أحرار الشام وعناصر تابعين للجبهة الشامية في مدينة الباب بالريف الشرقي، وجرى قطع للطرقات إثر خلاف على سيارات تهريب.\n\nإدلب::سُمع صوت انفجار مجهول داخل مقر عسكري لتنظيم حراس الدين على أطراف مدينة جسر الشغور بالريف الغربي، وسُمعت أصوات إطلاق نار كثيف في المنطقة.\n\nشن الطيران الحربي الروسي غارات جوية على أطراف قرية مجدليا بالريف الجنوبي، في حين تعرض محور قرية الفطيرة لقصف بقذائف الهاون.\n\nحمص::قُتل شاب إثر إصابته بشظايا قنبلة يدوية رماها أحد الأشخاص خلال مشاجرة في حي العباسية بمدينة حمص.\n\nديرالزور::نفذت \"قسد\" بمساندة التحالف الدولي عملية مداهمة في حي اللطوة ببلدة ذيبان بالريف الشرقي، وأسفرت عن اعتقال 6 أشخاص مدنيين، ثم أطلقت سراحهم بعدما حققت معهم.\n\nالحسكة::قُتل مواطن عراقي على يد مجهولين داخل مخيم الهول بالريف الشرقي.\n\nالرقة::اعتقلت \"قسد\" عدداً من الشبان على حواجزها العسكرية في مدينة الرقة بغية سوقهم للتجنيد الإجباري في صفوفها، كما اعتقلت مدني بعدما داهمت منزله في قرية جديدة كحيط.\n\nشن الطيران الحربي الروسي عدة غارات على مواقع تنظيم الدولة في بادية جبل البشري بالريف الشرقِي.\n\nقُتل شاب برصاص عناصر \"قسد\" أثناء عمله بصيد الأسماك قرب بلدة المنصورة بالريف الغربي."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:08:09+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:08:13+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230922013040id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-15-11-2021.html?fbclid=IwAR0sTaKAPhbLky1NRHBE24ODumhDCnkbh15kRKof0RmMJ6_o7pC5A4YL9Fc"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230922013040id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-15-11-2021.html?fbclid=IwAR0sTaKAPhbLky1NRHBE24ODumhDCnkbh15kRKof0RmMJ6_o7pC5A4YL9Fc",
   "incident_ids": [
     "airwars-80164"
   ],
@@ -85,10 +109,10 @@
     "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-15-11-2021.html?fbclid=IwAR0sTaKAPhbLky1NRHBE24ODumhDCnkbh15kRKof0RmMJ6_o7pC5A4YL9Fc"
   ],
   "original_url": "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-15-11-2021.html?fbclid=IwAR0sTaKAPhbLky1NRHBE24ODumhDCnkbh15kRKof0RmMJ6_o7pC5A4YL9Fc",
-  "page_title": "",
+  "page_title": "حصاد الأحداث الميدانية ليوم الاثنين 15-11-2021 | شبكة شام الإخبارية حصاد الأحداث الميدانية ليوم الاثنين 15-11-2021 حصاد الأحداث الميدانية ليوم الاثنين 15-11-2021",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4668-november-15-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:08:13+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-76bcdbdf98793069bcfd4082",
   "source_type": "news_article",
   "stable_id_basis": "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-15-11-2021.html?fbclid=IwAR0sTaKAPhbLky1NRHBE24ODumhDCnkbh15kRKof0RmMJ6_o7pC5A4YL9Fc",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "حصاد الأحداث الميدانية ليوم الاثنين 15-11-2021\n\nحصاد الأحداث الميدانية ليوم الاثنين 15-11-2021\n\nحلب::استشهدت امرأة وطفلها وأصيب 4 آخرين من أطفالها، وزوجها بجروح إثر قصف مدفعي من قبل قوات الأسد على منزل في قرية كفرنوان بالريف الغربي، وردت فصائل الثوار باستهداف معاقل قوات الأسد في بلدة ميزناز بقذائف المدفعية.\n\nسيّرت القوات الروسية والتركية دورية عسكرية مشتركة في محيط مدينة عين العرب بالريف الشرقي.\n\nجرت اشتباكات بين عناصر من أحرار الشام وعناصر تابعين للجبهة الشامية في مدينة الباب بالريف الشرقي، وجرى قطع للطرقات إثر خلاف على سيارات تهريب.\n\nإدلب::سُمع صوت انفجار مجهول داخل مقر عسكري لتنظيم حراس الدين على أطراف مدينة جسر الشغور بالريف الغربي، وسُمعت أصوات إطلاق نار كثيف في المنطقة.\n\nشن الطيران الحربي الروسي غارات جوية على أطراف قرية مجدليا بالريف الجنوبي، في حين تعرض محور قرية الفطيرة لقصف بقذائف الهاون.\n\nحمص::قُتل شاب إثر إصابته بشظايا قنبلة يدوية رماها أحد الأشخاص خلال مشاجرة في حي العباسية بمدينة حمص.\n\nديرالزور::نفذت \"قسد\" بمساندة التحالف الدولي عملية مداهمة في حي اللطوة ببلدة ذيبان بالريف الشرقي، وأسفرت عن اعتقال 6 أشخاص مدنيين، ثم أطلقت سراحهم بعدما حققت معهم.\n\nالحسكة::قُتل مواطن عراقي على يد مجهولين داخل مخيم الهول بالريف الشرقي.\n\nالرقة::اعتقلت \"قسد\" عدداً من الشبان على حواجزها العسكرية في مدينة الرقة بغية سوقهم للتجنيد الإجباري في صفوفها، كما اعتقلت مدني بعدما داهمت منزله في قرية جديدة كحيط.\n\nشن الطيران الحربي الروسي عدة غارات على مواقع تنظيم الدولة في بادية جبل البشري بالريف الشرقِي.\n\nقُتل شاب برصاص عناصر \"قسد\" أثناء عمله بصيد الأسماك قرب بلدة المنصورة بالريف الغربي.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

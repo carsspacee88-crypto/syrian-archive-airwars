@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/xsR3i"
+    "https://archive.ph/xsR3i",
+    "https://web.archive.org/web/20231201073510id_/https://www.syriahr.com/en/310957/?fbclid=IwAR1w4KfiKsdPQ8wwBnQAe_pTSnqEEvYynj2MYdhT9UKSJ70T3NcZN54OAKA"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "5c5aedd56753ded1897149e6e1036432bbb47c4aacbe741aa98027af01c185d1",
+  "content_variants": [
+    {
+      "bytes": 1789,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:54:12+00:00",
+      "sha256": "5c5aedd56753ded1897149e6e1036432bbb47c4aacbe741aa98027af01c185d1",
+      "source_url": "https://web.archive.org/web/20231201073510id_/https://www.syriahr.com/en/310957/?fbclid=IwAR1w4KfiKsdPQ8wwBnQAe_pTSnqEEvYynj2MYdhT9UKSJ70T3NcZN54OAKA",
+      "text": "Dea*th toll update | Four kil*led and five injured in attack by Turkish drone in Al-Hasakah\n\nAl-Hasakah province: Four combatants including a commander were killed while three members of the Internal Security Forces “Al-Asayesh” and two young men on a motorbike were injured by shrapnel due to an attack by a Turkish drone on the vehicle of a commander within areas of the Autonomous Administration in Al-Qamishly countryside northern of Al-Hasakah, where the injured people were taken to the hospital to receive proper medication.\n\nAccordingly, the number of attacks carried out by Turkish drones on areas controlled by the Autonomous Administration in north and north-east Syria since early 2023 has increased to 49. These attacks left 62 fatalities: 13 civilians, including a child and two women, 46 military personnel and three regime soldiers, as well as the injury of over 57 others. Turkish drone attacks in 2023 are distributed regionally as follows:\n• Al-Hasakah: 21 attacks left ten civilians, including three women and a child, and 27 military personnel dead and others injured.\n• Al-Raqqah: Two attacks.\n• Aleppo countryside: 26 attacks left 19 combatants including three of units of protecting Kurdish people, three regime soldiers and three civilians dead.\n\nPrev Post\n\n“SOHR camera” roams inside the area of Nahr Aisha in the capital Damascus\n\nNext Post\n\nMysterious circumstances | Young man hangs himself to dea*th in Daraa countryside\n\nDaily death toll | 13 persons killed on November 30 across Syria\n\nFollowing death of suspects | Local gunmen attack centres of Asayish Forces and…\n\nOngoing security chaos in “Euphrates Shield” area | Tribal infighting leaves two…\n\nAmid clashes with light and medium weapons | Two regime agents killed by security…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:54:11+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:54:12+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231201073510id_/https://www.syriahr.com/en/310957/?fbclid=IwAR1w4KfiKsdPQ8wwBnQAe_pTSnqEEvYynj2MYdhT9UKSJ70T3NcZN54OAKA"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231201073510id_/https://www.syriahr.com/en/310957/?fbclid=IwAR1w4KfiKsdPQ8wwBnQAe_pTSnqEEvYynj2MYdhT9UKSJ70T3NcZN54OAKA",
   "incident_ids": [
     "airwars-93196"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/310957/?fbclid=IwAR1w4KfiKsdPQ8wwBnQAe_pTSnqEEvYynj2MYdhT9UKSJ70T3NcZN54OAKA"
   ],
   "original_url": "https://www.syriahr.com/en/310957/?fbclid=IwAR1w4KfiKsdPQ8wwBnQAe_pTSnqEEvYynj2MYdhT9UKSJ70T3NcZN54OAKA",
-  "page_title": "",
+  "page_title": "Dea*th toll update | Four kil*led and five injured in attack by Turkish drone in Al-Hasakah - The Syrian Observatory For Human Rights Dea*th toll update | Four kil*led and five injured in attack by Turkish drone in Al-Hasakah - The Syrian Observatory For Human Rights Dea*th toll update | Four kil*led and five injured in attack by Turkish drone in Al-Hasakah - The Syrian Observatory For Human Rights Dea*th toll update | Four kil*led and five injured in attack by Turkish drone in Al-Hasakah Dea*th toll update | Four kil*led and five injured in attack by Turkish drone in Al-Hasakah",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts629-september-17-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:54:12+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2f551e74712ec5e8c7ef6593",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/310957/?fbclid=IwAR1w4KfiKsdPQ8wwBnQAe_pTSnqEEvYynj2MYdhT9UKSJ70T3NcZN54OAKA",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Dea*th toll update | Four kil*led and five injured in attack by Turkish drone in Al-Hasakah\n\nAl-Hasakah province: Four combatants including a commander were killed while three members of the Internal Security Forces “Al-Asayesh” and two young men on a motorbike were injured by shrapnel due to an attack by a Turkish drone on the vehicle of a commander within areas of the Autonomous Administration in Al-Qamishly countryside northern of Al-Hasakah, where the injured people were taken to the hospital to receive proper medication.\n\nAccordingly, the number of attacks carried out by Turkish drones on areas controlled by the Autonomous Administration in north and north-east Syria since early 2023 has increased to 49. These attacks left 62 fatalities: 13 civilians, including a child and two women, 46 military personnel and three regime soldiers, as well as the injury of over 57 others. Turkish drone attacks in 2023 are distributed regionally as follows:\n• Al-Hasakah: 21 attacks left ten civilians, including three women and a child, and 27 military personnel dead and others injured.\n• Al-Raqqah: Two attacks.\n• Aleppo countryside: 26 attacks left 19 combatants including three of units of protecting Kurdish people, three regime soldiers and three civilians dead.\n\nPrev Post\n\n“SOHR camera” roams inside the area of Nahr Aisha in the capital Damascus\n\nNext Post\n\nMysterious circumstances | Young man hangs himself to dea*th in Daraa countryside\n\nDaily death toll | 13 persons killed on November 30 across Syria\n\nFollowing death of suspects | Local gunmen attack centres of Asayish Forces and…\n\nOngoing security chaos in “Euphrates Shield” area | Tribal infighting leaves two…\n\nAmid clashes with light and medium weapons | Two regime agents killed by security…",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

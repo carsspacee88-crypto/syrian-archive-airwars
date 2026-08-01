@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/qvbJO"
+    "https://archive.is/qvbJO",
+    "https://web.archive.org/web/20220301203201id_/https://twitter.com/SyriaCivilDefe/status/1498757941012348936"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@SyriaCivilDefe",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "671a40a7541b65ef761afc0aaf4265e79fa14576d5e02e780bcc47696411aa25",
+  "content_variants": [
+    {
+      "bytes": 676,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:59:36+00:00",
+      "sha256": "671a40a7541b65ef761afc0aaf4265e79fa14576d5e02e780bcc47696411aa25",
+      "source_url": "https://web.archive.org/web/20220301203201id_/https://twitter.com/SyriaCivilDefe/status/1498757941012348936",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\nاستهدفت قوات سوريا الديمقراطية، بقصف صاروخي، تجمعاً لعدة خيام و الأحياء السكنية في مدينة #جرابلس بريف #حلب الشرقي، مساء اليوم الثلاثاء 1 آذار، تفقدت فرقنا الأماكن التي تعرضت للقصف وتأكدت من عدم وجود إصابات.\n#الخوذ_البيضاءpic.twitter.com/zAf3F1zvR6\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:59:35+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:59:36+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220301203201id_/https://twitter.com/SyriaCivilDefe/status/1498757941012348936"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220301203201id_/https://twitter.com/SyriaCivilDefe/status/1498757941012348936",
   "incident_ids": [
     "airwars-82377"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/SyriaCivilDefe/status/1498757941012348936"
   ],
   "original_url": "https://twitter.com/SyriaCivilDefe/status/1498757941012348936",
-  "page_title": "",
+  "page_title": "الدفاع المدني السوري on Twitter: \"استهدفت قوات سوريا الديمقراطية، بقصف صاروخي، تجمعاً لعدة خيام و الأحياء السكنية في مدينة #جرابلس بريف #حلب الشرقي، مساء اليوم الثلاثاء 1 آذار، تفقدت فرقنا الأماكن التي تعرضت للقصف وتأكدت من عدم وجود إصابات.\n#الخوذ_البيضاء… https://t.co/M1NmT11zKK\" الدفاع المدني السوري on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys127-march-1-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:59:36+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4bcc22efff2355e932b49fe6",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/SyriaCivilDefe/status/1498757941012348936",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\nاستهدفت قوات سوريا الديمقراطية، بقصف صاروخي، تجمعاً لعدة خيام و الأحياء السكنية في مدينة #جرابلس بريف #حلب الشرقي، مساء اليوم الثلاثاء 1 آذار، تفقدت فرقنا الأماكن التي تعرضت للقصف وتأكدت من عدم وجود إصابات.\n#الخوذ_البيضاءpic.twitter.com/zAf3F1zvR6\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

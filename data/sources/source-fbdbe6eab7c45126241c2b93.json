@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/Kqdvt"
+    "https://archive.is/Kqdvt",
+    "https://web.archive.org/web/20240515214123id_/https://www.facebook.com/SYRMMC/posts/1210695586063730"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "MMC (3)",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "beb5b12baef7bc001a5ddcee7a63d9109410a76755b6e44125b9d9d1234569e6",
+  "content_variants": [
+    {
+      "bytes": 157,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:30:05+00:00",
+      "sha256": "beb5b12baef7bc001a5ddcee7a63d9109410a76755b6e44125b9d9d1234569e6",
+      "source_url": "https://web.archive.org/web/20240515214123id_/https://www.facebook.com/SYRMMC/posts/1210695586063730",
+      "text": "#عاجل || استشهاد 3 مدنيين وجرح آخرين كحصيلة أولية نتيجة القصف المدفعي على مدينة #إدلب\n\n#MMC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:30:04+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:30:05+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515214123id_/https://www.facebook.com/SYRMMC/posts/1210695586063730"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515214123id_/https://www.facebook.com/SYRMMC/posts/1210695586063730",
   "incident_ids": [
     "airwars-78103"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/SYRMMC/posts/1210695586063730"
   ],
   "original_url": "https://www.facebook.com/SYRMMC/posts/1210695586063730",
-  "page_title": "",
+  "page_title": "المركز الإعلامي العام MMC المركز الإعلامي العام MMC #عاجل || استشهاد 3 مدنيين وجرح... - المركز الإعلامي العام MMC",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4640-september-7-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:30:05+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-fbdbe6eab7c45126241c2b93",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SYRMMC/posts/1210695586063730",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#عاجل || استشهاد 3 مدنيين وجرح آخرين كحصيلة أولية نتيجة القصف المدفعي على مدينة #إدلب\n\n#MMC",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

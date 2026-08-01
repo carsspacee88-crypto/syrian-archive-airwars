@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/i9Tim"
+    "https://archive.ph/i9Tim",
+    "https://web.archive.org/web/20250516224541id_/https://rojnews.news/ar/?p=194080"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Roj news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "85dfa63108e56fe2cf84ca2d88cd22d2f24c5bb06343be0f32114c766a4f01f2",
+  "content_variants": [
+    {
+      "bytes": 1832,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:29:47+00:00",
+      "sha256": "85dfa63108e56fe2cf84ca2d88cd22d2f24c5bb06343be0f32114c766a4f01f2",
+      "source_url": "https://web.archive.org/web/20250516224541id_/https://rojnews.news/ar/?p=194080",
+      "text": "استشهاد مواطن متأثراً بجراحه في استهداف طال مدينة عامودا\n\nمركز الأخبار\n\nاستشهد مواطن متأثراً بجراحه التي أصيب بها نتيجة الاستهداف الذي وقع في مدينة عامودا بإقليم شمال وشرق سوريا.\n\nاستُهدف موقع في حي المساكن بالجهة الشرقية لمدينة عامودا قبل قليل، أدى إلى إصابة مواطنَين اثنين، وفق ما أفادت به وكالة أنباء هاوار.\n\nفيما استشهد المواطن هاني خلف، 35 عاماً، متأثراً بإصابته البليغة قبل وصوله إلى مشافي مدينة قامشلو رغم التدخل الطبي، وفقاً ما نقلته الوكالة.\n\nوبذلك ارتفع عدد ضحايا الاستهداف لـ 3 أشخاص بين شهيد وإصابتين.\n\nوأدى الاستهداف الذي لم يُعرف إلى لحظة إعداد هذا الخبر، مصدره وطبيعته، إلى أضرار في شبكة التيار الكهربائي والمحال التجارية المجاورة كذلك.\n\nهيوا زاغروس: لا يمكن الحديث عن إلقاء السلاح قبل إنهاء الاحتلال التركي\n\nلجنة الشهداء في إقليم كردستان تستذكر شهداء مجزرة هولير\n\nمجزرة هولير… صفحة سوداء في تاريخ الحزب الديمقراطي\n\nهولير…وفاة 3 عمال اثر حريق في مصفاة بمنطقة شمكي\n\nالاحتلال التركي يقصف آمدية 23 مرة رغم إعلان PKK إنهاء الكفاح المسلح\n\nتأكيداً على تمسكهم بحقوقهم.. أهالي مخيم مخمور ينصبون خيمة اعتصام"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:29:45+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:29:47+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250516224541id_/https://rojnews.news/ar/?p=194080"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250516224541id_/https://rojnews.news/ar/?p=194080",
   "incident_ids": [
     "airwars-116900"
   ],
@@ -85,10 +109,10 @@
     "https://rojnews.news/ar/?p=194080"
   ],
   "original_url": "https://rojnews.news/ar/?p=194080",
-  "page_title": "",
+  "page_title": "استشهاد مواطن متأثراً بجراحه في استهداف طال مدينة عامودا - العربية - Rojnews.news استشهاد مواطن متأثراً بجراحه في استهداف طال مدينة عامودا - العربية - Rojnews.news",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts708-august-29-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:29:47+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-fbc05e9d69e0d5046888f480",
   "source_type": "news_article",
   "stable_id_basis": "https://rojnews.news/ar/?p=194080",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "استشهاد مواطن متأثراً بجراحه في استهداف طال مدينة عامودا\n\nمركز الأخبار\n\nاستشهد مواطن متأثراً بجراحه التي أصيب بها نتيجة الاستهداف الذي وقع في مدينة عامودا بإقليم شمال وشرق سوريا.\n\nاستُهدف موقع في حي المساكن بالجهة الشرقية لمدينة عامودا قبل قليل، أدى إلى إصابة مواطنَين اثنين، وفق ما أفادت به وكالة أنباء هاوار.\n\nفيما استشهد المواطن هاني خلف، 35 عاماً، متأثراً بإصابته البليغة قبل وصوله إلى مشافي مدينة قامشلو رغم التدخل الطبي، وفقاً ما نقلته الوكالة.\n\nوبذلك ارتفع عدد ضحايا الاستهداف لـ 3 أشخاص بين شهيد وإصابتين.\n\nوأدى الاستهداف الذي لم يُعرف إلى لحظة إعداد هذا الخبر، مصدره وطبيعته، إلى أضرار في شبكة التيار الكهربائي والمحال التجارية المجاورة كذلك.\n\nهيوا زاغروس: لا يمكن الحديث عن إلقاء السلاح قبل إنهاء الاحتلال التركي\n\nلجنة الشهداء في إقليم كردستان تستذكر شهداء مجزرة هولير\n\nمجزرة هولير… صفحة سوداء في تاريخ الحزب الديمقراطي\n\nهولير…وفاة 3 عمال اثر حريق في مصفاة بمنطقة شمكي\n\nالاحتلال التركي يقصف آمدية 23 مرة رغم إعلان PKK إنهاء الكفاح المسلح\n\nتأكيداً على تمسكهم بحقوقهم.. أهالي مخيم مخمور ينصبون خيمة اعتصام",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

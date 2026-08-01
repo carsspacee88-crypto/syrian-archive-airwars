@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/g6rvS"
+    "https://archive.ph/g6rvS",
+    "https://web.archive.org/web/20250614115318id_/https://alyaumtv.net/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%88%D9%81%D8%B5%D8%A7%D8%A6%D9%84%D9%87-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D8%A9-%D9%8A%D9%82-135/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Alyaum News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "252e5be29cba51d70898e70a68917b30c87e0596f19ad91ef54df5487961d58a",
+  "content_variants": [
+    {
+      "bytes": 1508,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:59:36+00:00",
+      "sha256": "252e5be29cba51d70898e70a68917b30c87e0596f19ad91ef54df5487961d58a",
+      "source_url": "https://web.archive.org/web/20250614115318id_/https://alyaumtv.net/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%88%D9%81%D8%B5%D8%A7%D8%A6%D9%84%D9%87-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D8%A9-%D9%8A%D9%82-135/",
+      "text": "الاحتلال التركي وفصائله الإرهابية يقصفون قرية بريف منبج شمالي سوريا\n\nجدد الاحتلال التركي والفصائل الإرهابية التابعة له، قصفهم على ريف منبج شمالي سوريا.\n\nوأفاد مراسل اليوم، أن قرية الدندنية بريف منبج الشمالي تعرضت في ساعاتٍ متأخرة من مساء الثلاثاء لقصفٍ بقذائف الهاون، نفذه الاحتلال التركي وفصائله الإرهابية، ما أسفر عن أضرار مادية بالممتلكات دون ورود معلوماتٍ عن خسائر بشرية.\n\nوجاء القصف بعد ساعاتٍ من قصفٍ مدفعي للاحتلال والفصائل الإرهابية التابعة له، على قرية الشيخ عيسى بريف تل رفعت شمالي حلب، أسفر عن إصابة سيدة بجروح بليغة وأضرار في ممتلكات المدنيين.\n\nفوزة يوسف – الرئيسة المشتركة لوفد شمال وشرق سوريا التفاوضي لقناة اليوم: الأجواء…\n\nتعزيزات عسكرية أمريكية ضخمة تصل إلى شمال وشرق سوريا\n\nالاحتلال التركي وفصائله الإرهابية يقصفون ريف عين عيسى شمالي سوريا\n\nالاحتلال التركي وفصائله الإرهابية يقصفون ريف عين عيسى شمالي سوريا"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:59:35+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:59:36+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250614115318id_/https://alyaumtv.net/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%88%D9%81%D8%B5%D8%A7%D8%A6%D9%84%D9%87-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D8%A9-%D9%8A%D9%82-135/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250614115318id_/https://alyaumtv.net/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%88%D9%81%D8%B5%D8%A7%D8%A6%D9%84%D9%87-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D8%A9-%D9%8A%D9%82-135/",
   "incident_ids": [
     "airwars-103491"
   ],
@@ -85,10 +109,10 @@
     "https://alyaumtv.net/الاحتلال-التركي-وفصائله-الإرهابية-يق-135/"
   ],
   "original_url": "https://alyaumtv.net/الاحتلال-التركي-وفصائله-الإرهابية-يق-135/",
-  "page_title": "",
+  "page_title": "الاحتلال التركي وفصائله الإرهابية يقصفون قرية بريف منبج شمالي سوريا – قناة اليوم الاحتلال التركي وفصائله الإرهابية يقصفون قرية بريف منبج شمالي سوريا الاحتلال التركي وفصائله الإرهابية يقصفون قرية بريف منبج شمالي سوريا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts652-october-22-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:59:36+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-56dc1e37260accd0e9d54f3d",
   "source_type": "news_article",
   "stable_id_basis": "https://alyaumtv.net/الاحتلال-التركي-وفصائله-الإرهابية-يق-135/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "الاحتلال التركي وفصائله الإرهابية يقصفون قرية بريف منبج شمالي سوريا\n\nجدد الاحتلال التركي والفصائل الإرهابية التابعة له، قصفهم على ريف منبج شمالي سوريا.\n\nوأفاد مراسل اليوم، أن قرية الدندنية بريف منبج الشمالي تعرضت في ساعاتٍ متأخرة من مساء الثلاثاء لقصفٍ بقذائف الهاون، نفذه الاحتلال التركي وفصائله الإرهابية، ما أسفر عن أضرار مادية بالممتلكات دون ورود معلوماتٍ عن خسائر بشرية.\n\nوجاء القصف بعد ساعاتٍ من قصفٍ مدفعي للاحتلال والفصائل الإرهابية التابعة له، على قرية الشيخ عيسى بريف تل رفعت شمالي حلب، أسفر عن إصابة سيدة بجروح بليغة وأضرار في ممتلكات المدنيين.\n\nفوزة يوسف – الرئيسة المشتركة لوفد شمال وشرق سوريا التفاوضي لقناة اليوم: الأجواء…\n\nتعزيزات عسكرية أمريكية ضخمة تصل إلى شمال وشرق سوريا\n\nالاحتلال التركي وفصائله الإرهابية يقصفون ريف عين عيسى شمالي سوريا\n\nالاحتلال التركي وفصائله الإرهابية يقصفون ريف عين عيسى شمالي سوريا",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

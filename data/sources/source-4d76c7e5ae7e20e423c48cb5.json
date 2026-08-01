@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/ve2di"
+    "https://archive.is/ve2di",
+    "https://web.archive.org/web/20250512123415id_/https://npasyria.com/169750/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Nroth Press NEws",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "626952863c0c8214ec918e001f31cb9bd8bf1b3b778b7ccfb58200cf3c02ee94",
+  "content_variants": [
+    {
+      "bytes": 1615,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:59:24+00:00",
+      "sha256": "626952863c0c8214ec918e001f31cb9bd8bf1b3b778b7ccfb58200cf3c02ee94",
+      "source_url": "https://web.archive.org/web/20250512123415id_/https://npasyria.com/169750/",
+      "text": "فقدان طفلين حياتهما بقصف تركي استهدف ريف عين عيسى\n\nقصف تركي على أطراف بلدة عين عيسى – نورث برس\n\nعين عيسى- نورث برس\n\nفقد طفلان حياتهما، الاثنين، بقصف للقوات التركية وفصائل المعارضة المسلحة الموالية لها، على قرى بريف عين عيسى شمال الرقة، شمالي سوريا.\n\nوظهر اليوم قصفت القوات التركية، أطراف بلدة عين عيسى، في إطار تصعيد مستمر منذ الخميس الفائت، حيث تستهدف تركيا الشمال السوري بقصف بالطيران المسيّر والمدفعية، أسفر عن عشرات الضحايا، وتدمير منشآت وبنى تحتية.\n\nوقال أحد سكان عين عيسى، إن الطفلين هما أولاد عمومة، نادية العياش (8 أعوام)، وعلي العياش (6 أعوام)، فقدا حياتهما جرّاء قصف مدفعي على قرية المستورة شمال غربي بلدة عين عيسى.\n\nوأضاف لنورث برس، أن القصف المدفعي استهدف قرى على خط التماس مأهولة بالسكان في ريف عين عيسى.\n\nوالسبت الفائت، امرأة فقدت حياتها، وأُصيب زوجها، جرّاء قصف مدفعي للقوات التركية والفصائل المسلحة الموالية لها على قرية الخالدية بريف عين عيسى الغربي.\n\nإعداد وتحرير: أحمد عثمان"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:59:22+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:59:24+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250512123415id_/https://npasyria.com/169750/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250512123415id_/https://npasyria.com/169750/",
   "incident_ids": [
     "airwars-102726"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/169750/"
   ],
   "original_url": "https://npasyria.com/169750/",
-  "page_title": "",
+  "page_title": "فقدان طفلين حياتهما بقصف تركي استهدف ريف عين عيسى فقدان طفلين حياتهما بقصف تركي استهدف ريف عين عيسى",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts648-october-9-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:59:24+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4d76c7e5ae7e20e423c48cb5",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/169750/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "فقدان طفلين حياتهما بقصف تركي استهدف ريف عين عيسى\n\nقصف تركي على أطراف بلدة عين عيسى – نورث برس\n\nعين عيسى- نورث برس\n\nفقد طفلان حياتهما، الاثنين، بقصف للقوات التركية وفصائل المعارضة المسلحة الموالية لها، على قرى بريف عين عيسى شمال الرقة، شمالي سوريا.\n\nوظهر اليوم قصفت القوات التركية، أطراف بلدة عين عيسى، في إطار تصعيد مستمر منذ الخميس الفائت، حيث تستهدف تركيا الشمال السوري بقصف بالطيران المسيّر والمدفعية، أسفر عن عشرات الضحايا، وتدمير منشآت وبنى تحتية.\n\nوقال أحد سكان عين عيسى، إن الطفلين هما أولاد عمومة، نادية العياش (8 أعوام)، وعلي العياش (6 أعوام)، فقدا حياتهما جرّاء قصف مدفعي على قرية المستورة شمال غربي بلدة عين عيسى.\n\nوأضاف لنورث برس، أن القصف المدفعي استهدف قرى على خط التماس مأهولة بالسكان في ريف عين عيسى.\n\nوالسبت الفائت، امرأة فقدت حياتها، وأُصيب زوجها، جرّاء قصف مدفعي للقوات التركية والفصائل المسلحة الموالية لها على قرية الخالدية بريف عين عيسى الغربي.\n\nإعداد وتحرير: أحمد عثمان",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
