@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/Cy3ee"
+    "https://archive.md/Cy3ee",
+    "https://web.archive.org/web/20220517213256id_/http://www.zaitonmag.com/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1-%D8%B9%D9%84%D9%89-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D9%88/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaiton",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2e227b77a47365d57ce8cce96635ed0e1e53fc43365d0a4cb9d3354f8dc83071",
+  "content_variants": [
+    {
+      "bytes": 1190,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:14:40+00:00",
+      "sha256": "2e227b77a47365d57ce8cce96635ed0e1e53fc43365d0a4cb9d3354f8dc83071",
+      "source_url": "https://web.archive.org/web/20220517213256id_/http://www.zaitonmag.com/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1-%D8%B9%D9%84%D9%89-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D9%88/",
+      "text": "ضحايا بقصف الطيران المسير على جرابلس وانتشال جثة رجل من بئر بريفها\n\n2021-11-07\n210 زيارة\n\nقتل شخص وأصيب آخرون بجروح اليوم الأحد، جراء قصف من طيران مسير مجهول الهوية بثلاثة صواريخ، استهدف سيارة قرب المصرف الزراعي بمدينة جرابلس بريف حلب الشرقي.\n\nوأفاد الدفاع المدني، بمقتل شخص، بقصف لطائرة مسيرة مجهولة استهدف مدينة جرابلس، وقامت فرق الدفاع المدني بانتشال الجثة ونقلتها إلى مشفى المدينة.\n\nوانتشلت فرق الدفاع المدني جثة رجل مجهول الهوية من بئر في قرية بئر فوقاني بريف جرابلس شرقي حلب، ونقلتها إلى المشفى لعرضها على الطبابة الشرعية.\n\nوشهدت مدينة جرابلس يوم الثلاثاء 2 تشرين الثاني الحالي، ثلاث حوادث أمنية خلال يوم واحد، تسببت بمقتل طفلتين ورجل وإصابة 4 آخرين بجروح."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:14:40+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:14:40+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220517213256id_/http://www.zaitonmag.com/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1-%D8%B9%D9%84%D9%89-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D9%88/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220517213256id_/http://www.zaitonmag.com/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1-%D8%B9%D9%84%D9%89-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D9%88/",
   "incident_ids": [
     "airwars-79890"
   ],
@@ -85,10 +109,10 @@
     "http://www.zaitonmag.com/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1-%D8%B9%D9%84%D9%89-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D9%88/"
   ],
   "original_url": "http://www.zaitonmag.com/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1-%D8%B9%D9%84%D9%89-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D9%88/",
-  "page_title": "",
+  "page_title": "ضحايا بقصف الطيران المسير على جرابلس وانتشال جثة رجل من بئر بريفها - جريدة زيتون ضحايا بقصف الطيران المسير على جرابلس وانتشال جثة رجل من بئر بريفها - جريدة زيتون",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1969-november-7-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:14:40+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-0d12aa716720cec6c0ca577a",
   "source_type": "other_web_page",
   "stable_id_basis": "http://www.zaitonmag.com/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1-%D8%B9%D9%84%D9%89-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D9%88/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ضحايا بقصف الطيران المسير على جرابلس وانتشال جثة رجل من بئر بريفها\n\n2021-11-07\n210 زيارة\n\nقتل شخص وأصيب آخرون بجروح اليوم الأحد، جراء قصف من طيران مسير مجهول الهوية بثلاثة صواريخ، استهدف سيارة قرب المصرف الزراعي بمدينة جرابلس بريف حلب الشرقي.\n\nوأفاد الدفاع المدني، بمقتل شخص، بقصف لطائرة مسيرة مجهولة استهدف مدينة جرابلس، وقامت فرق الدفاع المدني بانتشال الجثة ونقلتها إلى مشفى المدينة.\n\nوانتشلت فرق الدفاع المدني جثة رجل مجهول الهوية من بئر في قرية بئر فوقاني بريف جرابلس شرقي حلب، ونقلتها إلى المشفى لعرضها على الطبابة الشرعية.\n\nوشهدت مدينة جرابلس يوم الثلاثاء 2 تشرين الثاني الحالي، ثلاث حوادث أمنية خلال يوم واحد، تسببت بمقتل طفلتين ورجل وإصابة 4 آخرين بجروح.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

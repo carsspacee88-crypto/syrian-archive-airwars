@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20240604150241id_/https://www.youtube.com/watch?v=JdBL7DHOwH0"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Jamil Al Hasan",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8eb63480ffc9b35b8cc1eeee35d8c216b7712040065a891b57cb2e8300d76879",
+  "content_variants": [
+    {
+      "bytes": 331,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:26:22+00:00",
+      "sha256": "8eb63480ffc9b35b8cc1eeee35d8c216b7712040065a891b57cb2e8300d76879",
+      "source_url": "https://web.archive.org/web/20240604150241id_/https://www.youtube.com/watch?v=JdBL7DHOwH0",
+      "text": "9 شـ،,ـهداء وأكثر من 35 إصـ،,ـابة بغارات روسية استهدفت سوق الخضار الشعبي في جسر الشغور غرب ادلب - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2024 Google LLC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:26:20+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:26:21+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240604150241id_/https://www.youtube.com/watch?v=JdBL7DHOwH0"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240604150241id_/https://www.youtube.com/watch?v=JdBL7DHOwH0",
   "incident_ids": [
     "airwars-89639"
   ],
@@ -55,10 +80,10 @@
     "https://www.youtube.com/watch?v=JdBL7DHOwH0"
   ],
   "original_url": "https://www.youtube.com/watch?v=JdBL7DHOwH0",
-  "page_title": "",
+  "page_title": "9 شـ،,ـهداء وأكثر من 35 إصـ،,ـابة بغارات روسية استهدفت سوق الخضار الشعبي في جسر الشغور غرب ادلب - YouTube 9 شـ،,ـهداء وأكثر من 35 إصـ،,ـابة بغارات روسية استهدفت سوق الخضار الشعبي في جسر الشغور غرب ادلب 9 شـ،,ـهداء وأكثر من 35 إصـ،,ـابة بغارات روسية استهدفت سوق الخضار الشعبي في جسر الشغور غرب ادلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4777-june-25-2023/",
@@ -78,16 +103,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:26:22+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-6c5d5562df29cef48db76033",
   "source_type": "youtube_page",
   "stable_id_basis": "https://www.youtube.com/watch?v=JdBL7DHOwH0",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "9 شـ،,ـهداء وأكثر من 35 إصـ،,ـابة بغارات روسية استهدفت سوق الخضار الشعبي في جسر الشغور غرب ادلب - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2024 Google LLC",
+  "text_original_language": "und",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

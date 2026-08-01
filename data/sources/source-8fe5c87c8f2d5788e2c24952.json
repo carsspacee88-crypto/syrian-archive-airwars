@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/T1oll"
+    "https://archive.is/T1oll",
+    "https://web.archive.org/web/20250929021708id_/https://hawarnews.com/ar/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%B9%D8%AF%D8%AF-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D9%85%D8%B7%D8%A8%D8%B9%D8%A9-%D8%B3%D9%8A%D9%85%D8%A7%D9%81-%D8%A5%D9%84%D9%89-7-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Anha news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "776c3a8da0feac88b14af58bf16e7d9e8b599ce8ed6e85603cc6a6a8fcbe89c8",
+  "content_variants": [
+    {
+      "bytes": 1557,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:28:27+00:00",
+      "sha256": "776c3a8da0feac88b14af58bf16e7d9e8b599ce8ed6e85603cc6a6a8fcbe89c8",
+      "source_url": "https://web.archive.org/web/20250929021708id_/https://hawarnews.com/ar/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%B9%D8%AF%D8%AF-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D9%85%D8%B7%D8%A8%D8%B9%D8%A9-%D8%B3%D9%8A%D9%85%D8%A7%D9%81-%D8%A5%D9%84%D9%89-7-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1",
+      "text": "الإثنين 29 يلول, 2025\n\nسبعيني يحافظ على أرث الدراجات الهوائية في قلب الدرباسية\n\nحقوقي: العزلة المفروضة على القائد انتهاك صارخ للقوانين الدولية\n\nمخطط وكالة أنباء هاوار 29-9-2025\n\nمقتل 4 عمال برصاص مسلحين في ريف حماة\n\nقسد تكشف سجل 4 مقاتلين استشهدوا أثناء تصديهم لهجوم خلايا داعش\n\nتشييع جثمان الشهيد هلمت حلبجة بمراسم مهيبة في مسقط رأسه\n\nترامب: خطة غزة ستنهي الحرب وستدفع نحو السلام\n\nانطلاق فعاليات مهرجان \"ليالي الفرات\" في الرقة\n\nإطلاق نار وحريق في كنيسة بولاية ميشيغن الأميركية\n\nالإدارة الذاتية ترحّب بتشكيل \"خلية مشتركة\" لاستعادة عائلات داعش\n\nتشييع جثماني مقاتلين من قسد في مقاطعة الطبقة\n\nالمصادقة على النظام الداخلي.. أبرز مخرجات الكونفرانس الثاني للمرأة في اتحاد البلديات\n\nتعرض طفل كردي للتعنيف من قبل مدير مدرسة بمدينة عفرين\n\nمجلس الاقتصاد والزراعة يناقش آلية توزيع المازوت الزراعي على المزارعين\n\nاللغة/Language\n\nعربي\nKURDÎ\nTÜRKÇE\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nTÜRKÇE\n\nENGLISH\n\nSPANISH\n\nRUSSIAN"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:28:25+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:28:27+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250929021708id_/https://hawarnews.com/ar/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%B9%D8%AF%D8%AF-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D9%85%D8%B7%D8%A8%D8%B9%D8%A9-%D8%B3%D9%8A%D9%85%D8%A7%D9%81-%D8%A5%D9%84%D9%89-7-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250929021708id_/https://hawarnews.com/ar/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%B9%D8%AF%D8%AF-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D9%85%D8%B7%D8%A8%D8%B9%D8%A9-%D8%B3%D9%8A%D9%85%D8%A7%D9%81-%D8%A5%D9%84%D9%89-7-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1",
   "incident_ids": [
     "airwars-103644"
   ],
@@ -85,10 +109,10 @@
     "https://hawarnews.com/ar/ارتفاع-عدد-شهداء-مطبعة-سيماف-إلى-7-شهداء"
   ],
   "original_url": "https://hawarnews.com/ar/ارتفاع-عدد-شهداء-مطبعة-سيماف-إلى-7-شهداء",
-  "page_title": "",
+  "page_title": "ارتفاع عدد شهداء مطبعة سيماف إلى 7 شهداء -ANHA ارتفاع عدد شهداء مطبعة سيماف إلى 7 شهداء ارتفاع عدد شهداء مطبعة سيماف إلى 7 شهداء",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts670-december-25-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:28:27+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-8fe5c87c8f2d5788e2c24952",
   "source_type": "news_article",
   "stable_id_basis": "https://hawarnews.com/ar/ارتفاع-عدد-شهداء-مطبعة-سيماف-إلى-7-شهداء",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "الإثنين 29 يلول, 2025\n\nسبعيني يحافظ على أرث الدراجات الهوائية في قلب الدرباسية\n\nحقوقي: العزلة المفروضة على القائد انتهاك صارخ للقوانين الدولية\n\nمخطط وكالة أنباء هاوار 29-9-2025\n\nمقتل 4 عمال برصاص مسلحين في ريف حماة\n\nقسد تكشف سجل 4 مقاتلين استشهدوا أثناء تصديهم لهجوم خلايا داعش\n\nتشييع جثمان الشهيد هلمت حلبجة بمراسم مهيبة في مسقط رأسه\n\nترامب: خطة غزة ستنهي الحرب وستدفع نحو السلام\n\nانطلاق فعاليات مهرجان \"ليالي الفرات\" في الرقة\n\nإطلاق نار وحريق في كنيسة بولاية ميشيغن الأميركية\n\nالإدارة الذاتية ترحّب بتشكيل \"خلية مشتركة\" لاستعادة عائلات داعش\n\nتشييع جثماني مقاتلين من قسد في مقاطعة الطبقة\n\nالمصادقة على النظام الداخلي.. أبرز مخرجات الكونفرانس الثاني للمرأة في اتحاد البلديات\n\nتعرض طفل كردي للتعنيف من قبل مدير مدرسة بمدينة عفرين\n\nمجلس الاقتصاد والزراعة يناقش آلية توزيع المازوت الزراعي على المزارعين\n\nاللغة/Language\n\nعربي\nKURDÎ\nTÜRKÇE\nENGLISH\nSPANISH\nRUSSIAN\n\nعربي\n\nKURDÎ\n\nTÜRKÇE\n\nENGLISH\n\nSPANISH\n\nRUSSIAN",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

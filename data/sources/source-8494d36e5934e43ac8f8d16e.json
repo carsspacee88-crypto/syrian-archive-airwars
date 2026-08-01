@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/M1tpx"
+    "https://archive.is/M1tpx",
+    "https://web.archive.org/web/20220725202429id_/https://twitter.com/AlTareek22/status/1551607589204639745"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@AlTareek22",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b88df4fcfb04669b564702855fdccbf28c8f702294ba46d83e39ec6b8636df20",
+  "content_variants": [
+    {
+      "bytes": 299,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:27:34+00:00",
+      "sha256": "b88df4fcfb04669b564702855fdccbf28c8f702294ba46d83e39ec6b8636df20",
+      "source_url": "https://web.archive.org/web/20220725202429id_/https://twitter.com/AlTareek22/status/1551607589204639745",
+      "text": "Conversationالطريق ميديا@AlTareek22#سوريا\nمقتـل السيدة عزيزة المحمد من تل الضمان، جراء قصـف لمليـشيا \"قـسد\" استهدف أطراف مدينة أعزازTranslate Tweet4:37 PM · Jul 25, 2022·Twitter for Android3 Retweets12 Likes"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:27:32+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:27:34+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220725202429id_/https://twitter.com/AlTareek22/status/1551607589204639745"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220725202429id_/https://twitter.com/AlTareek22/status/1551607589204639745",
   "incident_ids": [
     "airwars-84263"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/AlTareek22/status/1551607589204639745"
   ],
   "original_url": "https://twitter.com/AlTareek22/status/1551607589204639745",
-  "page_title": "",
+  "page_title": "الطريق ميديا on Twitter الطريق ميديا on Twitter: \"#سوريا\nمقتـل السيدة عزيزة المحمد من تل الضمان، جراء قصـف لمليـشيا \"قـسد\" استهدف أطراف مدينة أعزاز https://t.co/7LiuDDxBqE\" / Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys143-july-25-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:27:34+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-8494d36e5934e43ac8f8d16e",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/AlTareek22/status/1551607589204639745",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Conversationالطريق ميديا@AlTareek22#سوريا\nمقتـل السيدة عزيزة المحمد من تل الضمان، جراء قصـف لمليـشيا \"قـسد\" استهدف أطراف مدينة أعزازTranslate Tweet4:37 PM · Jul 25, 2022·Twitter for Android3 Retweets12 Likes",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

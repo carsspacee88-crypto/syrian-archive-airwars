@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/dIHy8"
+    "https://archive.ph/dIHy8",
+    "https://web.archive.org/web/20220602160449id_/https://twitter.com/SN4HR/status/1532392553819021313"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@SN4HR",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "56bce53488761eb0d5dfbee4126c6244b235b71cf307d0b66e1390faa2c2e61b",
+  "content_variants": [
+    {
+      "bytes": 712,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:22:26+00:00",
+      "sha256": "56bce53488761eb0d5dfbee4126c6244b235b71cf307d0b66e1390faa2c2e61b",
+      "source_url": "https://web.archive.org/web/20220602160449id_/https://twitter.com/SN4HR/status/1532392553819021313",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nمقتل 3 مدنيين وإصابة 10 آخرين بجراح، إثر قصف أرضي لـ #قوات_سوريا_الديمقراطية على سوق مدينة #تل_أبيض بريف الرقة، في 1-6-2022. تُشير #الشبكة_السورية أن هذه القوات قد ارتكبت خرقاً لقراري مجلس الأمن رقم 2139 و2254 القاضيَين بوقف الهجمات العشوائية.\n#سوريا\nhttps://news.snhr.org/ar/?p=103752 pic.twitter.com/1LkSmc30wr\n\n1 Like\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:22:25+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:22:26+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220602160449id_/https://twitter.com/SN4HR/status/1532392553819021313"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220602160449id_/https://twitter.com/SN4HR/status/1532392553819021313",
   "incident_ids": [
     "airwars-83761"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/SN4HR/status/1532392553819021313"
   ],
   "original_url": "https://twitter.com/SN4HR/status/1532392553819021313",
-  "page_title": "",
+  "page_title": "الشبكة السورية on Twitter: \"مقتل 3 مدنيين وإصابة 10 آخرين بجراح، إثر قصف أرضي لـ #قوات_سوريا_الديمقراطية على سوق مدينة #تل_أبيض بريف الرقة، في 1-6-2022. تُشير #الشبكة_السورية أن هذه القوات قد ارتكبت خرقاً لقراري مجلس الأمن رقم 2139 و2254 القاضيَين بوقف الهجمات العشوائية.\n#سوريا\nhttps://t.co/bfFuF0DLTY… https://t.co/igry70eHOp\" الشبكة السورية on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys134-june-1-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:22:26+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4e1e35f6f4acc9ac37d6db15",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/SN4HR/status/1532392553819021313",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nمقتل 3 مدنيين وإصابة 10 آخرين بجراح، إثر قصف أرضي لـ #قوات_سوريا_الديمقراطية على سوق مدينة #تل_أبيض بريف الرقة، في 1-6-2022. تُشير #الشبكة_السورية أن هذه القوات قد ارتكبت خرقاً لقراري مجلس الأمن رقم 2139 و2254 القاضيَين بوقف الهجمات العشوائية.\n#سوريا\nhttps://news.snhr.org/ar/?p=103752 pic.twitter.com/1LkSmc30wr\n\n1 Like\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

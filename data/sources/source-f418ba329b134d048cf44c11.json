@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/2G4ib"
+    "https://archive.is/2G4ib",
+    "https://web.archive.org/web/20221202221329id_/https://www.syriahr.com/en/276790/?fbclid=IwAR3r_CNNBpICeyqzRfSSBS0jzdLEa0fozk4vZIy6Ah9XT2SrlmvJu3i5at8"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0788f0241639c47dedd262c2b5025f238f48124a66df1745a439e32fcfe52a8c",
+  "content_variants": [
+    {
+      "bytes": 2374,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:45:01+00:00",
+      "sha256": "0788f0241639c47dedd262c2b5025f238f48124a66df1745a439e32fcfe52a8c",
+      "source_url": "https://web.archive.org/web/20221202221329id_/https://www.syriahr.com/en/276790/?fbclid=IwAR3r_CNNBpICeyqzRfSSBS0jzdLEa0fozk4vZIy6Ah9XT2SrlmvJu3i5at8",
+      "text": "De*ath toll update | The number of casu*alties in Turkish airstrikes on Aleppo, Al-Hasakah and Al-Raqqah jumps to 65\n\nSyrian Observatory activists have documented a new spike in the number of fatalities on the latest airstrikes by Turkish fighter jets on different areas across Syria, as more people died of the wounds they had sustained and other fatalities were found under the rubble of destroyed buildings. According to SOHR sources, the number of fatalities due to these airstrikes in Aleppo, Al-Hasakah and Al-Raqqah has jumped to 27; they can be distributed as follows:\n\n-13 members of military formations operating in SDF-controlled areas:\n\nTen were killed in Jabal Qarrah Jokh area in Al-Malikiyah countryside (Dayrek) in Al-Hasakah province; they are five members, including a woman, of the “Essential Protection Forces” and five SDF fighters and Asayish members.\n\nTwo SDF fighters were killed in Zahr Al-Arab village in the western countryside of Al-Darbasiyah in Al-Hasakah province.\n\nAn SDF fighter was killed in Abu Rasin countryside (Zarkan).\n\n-Regime forces: 12 fatalities:\n\nSix were killed in Shawarghah village in north-western Aleppo.\n\nFour were killed in strikes on a post of regime border guards in Um Harmal village in Abu Rasin countryside in north-western Al-Hasakah.\n\nTwo were killed in strikes on a military post in Qaz’ali village in Tel Abyad countryside in northern Al-Raqqah.\n\n-One media activist was killed in Jabal Qarrah Jokh area in Al-Malikiyah countryside (Dayrek).\n\n-One Kurdish fighter was killed in Baylouniyah frontline in northern Aleppo.\n\nThe number of fatalities is expected to rise further, as there are over 38 people injured and missing, while some have sustained serious injuries, amid unconfirmed reports of more fatalities.\n\nPrev Post\n\nMilitary escalation | 12 regime soldiers ki*lled and injured in Turkish airstrikes on position close to Russian military post in NW Aleppo\n\nNext Post\n\n“SOHR camera” captures Turkish artillery fire on Jabal Mashtanour area in Ain Al-Arab countryside (Kobani)\n\nArmed fighting | Drug traffickers close to Hezbollah clash with civil police in Deir…\n\nDaily death toll | Nine persons killed on December 2 across Syria\n\nPutin-Erodagn area | Regime officer shot de-ad by Al-Fath Al-Mubin sni-per south of…\n\nEndless tragedy | Fuel crisis worsens already-dire living conditions in Homs"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:45:00+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:45:01+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20221202221329id_/https://www.syriahr.com/en/276790/?fbclid=IwAR3r_CNNBpICeyqzRfSSBS0jzdLEa0fozk4vZIy6Ah9XT2SrlmvJu3i5at8"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20221202221329id_/https://www.syriahr.com/en/276790/?fbclid=IwAR3r_CNNBpICeyqzRfSSBS0jzdLEa0fozk4vZIy6Ah9XT2SrlmvJu3i5at8",
   "incident_ids": [
     "airwars-85428"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/276790/?fbclid=IwAR3r_CNNBpICeyqzRfSSBS0jzdLEa0fozk4vZIy6Ah9XT2SrlmvJu3i5at8"
   ],
   "original_url": "https://www.syriahr.com/en/276790/?fbclid=IwAR3r_CNNBpICeyqzRfSSBS0jzdLEa0fozk4vZIy6Ah9XT2SrlmvJu3i5at8",
-  "page_title": "",
+  "page_title": "De*ath toll update | The number of casu*alties in Turkish airstrikes on Aleppo, Al-Hasakah and Al-Raqqah jumps to 65 • The Syrian Observatory For Human Rights De*ath toll update | The number of casu*alties in Turkish airstrikes on Aleppo, Al-Hasakah and Al-Raqqah jumps to 65 • The Syrian Observatory For Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts566-november-20-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:45:01+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f418ba329b134d048cf44c11",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/276790/?fbclid=IwAR3r_CNNBpICeyqzRfSSBS0jzdLEa0fozk4vZIy6Ah9XT2SrlmvJu3i5at8",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "De*ath toll update | The number of casu*alties in Turkish airstrikes on Aleppo, Al-Hasakah and Al-Raqqah jumps to 65\n\nSyrian Observatory activists have documented a new spike in the number of fatalities on the latest airstrikes by Turkish fighter jets on different areas across Syria, as more people died of the wounds they had sustained and other fatalities were found under the rubble of destroyed buildings. According to SOHR sources, the number of fatalities due to these airstrikes in Aleppo, Al-Hasakah and Al-Raqqah has jumped to 27; they can be distributed as follows:\n\n-13 members of military formations operating in SDF-controlled areas:\n\nTen were killed in Jabal Qarrah Jokh area in Al-Malikiyah countryside (Dayrek) in Al-Hasakah province; they are five members, including a woman, of the “Essential Protection Forces” and five SDF fighters and Asayish members.\n\nTwo SDF fighters were killed in Zahr Al-Arab village in the western countryside of Al-Darbasiyah in Al-Hasakah province.\n\nAn SDF fighter was killed in Abu Rasin countryside (Zarkan).\n\n-Regime forces: 12 fatalities:\n\nSix were killed in Shawarghah village in north-western Aleppo.\n\nFour were killed in strikes on a post of regime border guards in Um Harmal village in Abu Rasin countryside in north-western Al-Hasakah.\n\nTwo were killed in strikes on a military post in Qaz’ali village in Tel Abyad countryside in northern Al-Raqqah.\n\n-One media activist was killed in Jabal Qarrah Jokh area in Al-Malikiyah countryside (Dayrek).\n\n-One Kurdish fighter was killed in Baylouniyah frontline in northern Aleppo.\n\nThe number of fatalities is expected to rise further, as there are over 38 people injured and missing, while some have sustained serious injuries, amid unconfirmed reports of more fatalities.\n\nPrev Post\n\nMilitary escalation | 12 regime soldiers ki*lled and injured in Turkish airstrikes on position close to Russian military post in NW Aleppo\n\nNext Post\n\n“SOHR camera” captures Turkish artillery fire on Jabal Mashtanour area in Ain Al-Arab countryside (Kobani)\n\nArmed fighting | Drug traffickers close to Hezbollah clash with civil police in Deir…\n\nDaily death toll | Nine persons killed on December 2 across Syria\n\nPutin-Erodagn area | Regime officer shot de-ad by Al-Fath Al-Mubin sni-per south of…\n\nEndless tragedy | Fuel crisis worsens already-dire living conditions in Homs",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

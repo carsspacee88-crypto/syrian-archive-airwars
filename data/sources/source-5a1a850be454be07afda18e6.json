@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/K6cGv"
+    "https://archive.md/K6cGv",
+    "https://web.archive.org/web/20230528161507id_/https://www.sana.sy/?p=1513497"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Arab News Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "632deadc218f3d02b656e53738f2982d3cc074e9361787560eb1d28ca976c831",
+  "content_variants": [
+    {
+      "bytes": 1820,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:24:38+00:00",
+      "sha256": "632deadc218f3d02b656e53738f2982d3cc074e9361787560eb1d28ca976c831",
+      "source_url": "https://web.archive.org/web/20230528161507id_/https://www.sana.sy/?p=1513497",
+      "text": "2021-11-08\n\nدير الزور-سانا\n\nداهمت مجموعات مسلحة من ميليشيا “قسد” بمساندة حوامات الاحتلال الأمريكي بلدة الصبحة وقرية فنيجين بريف دير الزور وسط إطلاق رصاص كثيف ما أدى إلى استشهاد مدنيين اثنين إضافة إلى خطف عدد من الأشخاص بينهم إمرأة.\n\nوذكرت مصادر محلية لـ سانا أن “طائرات مروحية لقوات الاحتلال الأمريكي نفذت إنزالا عند أطراف بلدة الصبحة بريف دير الزور الشرقي وساندتها على الأرض مجموعات مسلحة من ميليشيا قسد قامت باختطاف 3 مدنيين بينهم امرأة من عائلة واحدة في حين تسبب إطلاق النار الكثيف أثناء العملية باستشهاد مدني”.\n\nوأشارت المصادر إلى أن مجموعات مسلحة من ميليشيا قسد طوقت قرية فنيجين بمنطقة أبو خشب بريف دير الزور الغربي واقتحمتها وسط إطلاق نار كثيف ودعمتها في المراقبة الجوية وإطلاق النار الحي على منازل الأهالي حوامات تابعة للاحتلال الأمريكي ما أدى إلى استشهاد مدني من أبناء القرية.\n\nوعمدت قوات الاحتلال الأمريكي خلال الفترات السابقة إلى تنفيذ عمليات إنزال جوي مماثلة تبين لاحقاً أنها كانت تغطية لنقل عملائها من عناصر التنظيم الإرهابي “داعش” بريفي الحسكة ودير الزور إلى قواعدها في الأراضي العراقية."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:24:37+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:24:38+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230528161507id_/https://www.sana.sy/?p=1513497"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230528161507id_/https://www.sana.sy/?p=1513497",
   "incident_ids": [
     "airwars-79929",
     "airwars-79930"
@@ -87,10 +111,10 @@
     "https://www.sana.sy/?p=1513497"
   ],
   "original_url": "https://www.sana.sy/?p=1513497",
-  "page_title": "",
+  "page_title": "قوات الاحتلال الأمريكي وميليشيا (قسد) تقتلان مدنيين اثنين بريف دير الزور – S A N A قوات الاحتلال الأمريكي وميليشيا (قسد) تقتلان مدنيين اثنين بريف دير الزور - S A N A",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1970-november-8-2021/",
@@ -118,15 +142,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:24:38+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5a1a850be454be07afda18e6",
   "source_type": "news_article",
   "stable_id_basis": "https://www.sana.sy/?p=1513497",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "2021-11-08\n\nدير الزور-سانا\n\nداهمت مجموعات مسلحة من ميليشيا “قسد” بمساندة حوامات الاحتلال الأمريكي بلدة الصبحة وقرية فنيجين بريف دير الزور وسط إطلاق رصاص كثيف ما أدى إلى استشهاد مدنيين اثنين إضافة إلى خطف عدد من الأشخاص بينهم إمرأة.\n\nوذكرت مصادر محلية لـ سانا أن “طائرات مروحية لقوات الاحتلال الأمريكي نفذت إنزالا عند أطراف بلدة الصبحة بريف دير الزور الشرقي وساندتها على الأرض مجموعات مسلحة من ميليشيا قسد قامت باختطاف 3 مدنيين بينهم امرأة من عائلة واحدة في حين تسبب إطلاق النار الكثيف أثناء العملية باستشهاد مدني”.\n\nوأشارت المصادر إلى أن مجموعات مسلحة من ميليشيا قسد طوقت قرية فنيجين بمنطقة أبو خشب بريف دير الزور الغربي واقتحمتها وسط إطلاق نار كثيف ودعمتها في المراقبة الجوية وإطلاق النار الحي على منازل الأهالي حوامات تابعة للاحتلال الأمريكي ما أدى إلى استشهاد مدني من أبناء القرية.\n\nوعمدت قوات الاحتلال الأمريكي خلال الفترات السابقة إلى تنفيذ عمليات إنزال جوي مماثلة تبين لاحقاً أنها كانت تغطية لنقل عملائها من عناصر التنظيم الإرهابي “داعش” بريفي الحسكة ودير الزور إلى قواعدها في الأراضي العراقية.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20240417221221id_/https://www.syriahr.com/en/236126/"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Syrian Network for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "46b1ca363863d5aa53da1126f81f6d982b4e99f3730e1fb343fa4a4b4dc75e75",
+  "content_variants": [
+    {
+      "bytes": 3671,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:36:02+00:00",
+      "sha256": "46b1ca363863d5aa53da1126f81f6d982b4e99f3730e1fb343fa4a4b4dc75e75",
+      "source_url": "https://web.archive.org/web/20240417221221id_/https://www.syriahr.com/en/236126/",
+      "text": "Amid ongoing combing operations in surrounding neighbourhoods | Clashes renew inside Ghuwayran prison\n\nAl-Hasakah province: SOHR sources have reported renewed clashes inside Ghuwayran prison in Al-Hasakah city, after airstrikes by International Coalition aircraft on positions where ISIS members holed up.\n\nReliable sources have told SOHR that SDF, Asayish Forces and Counter-Terrorism Forces continue searching for ISIS members and fugitive prisoners in neighbourhoods around Ghuwayran prison, as members and prisoners are expected to be hiding in abandoned houses, whose inhabitants have been displaced over the recent dramatic developments. It is worth noting that these joint forces had accomplished combing the open areas in these neighbourhoods yesterday.\n\nOn the other hand, ISIS prisoners in other sections of the prison, including the section where children of the “Caliphate Cubs” of different nationalities are held, continue their disobedience.\n\nSOHR activists have reported seeing the buses which carrying ISIS prisoners crossing into Al-Qamishli city. However, the final destination of these buses remains unknown.\n\nA few hours ago, SOHR sources reported that the military Forces stationed inside Ghuwayran prison managed to free several combatants, employees and guards who were held in sections of the prison free of ISIS members. On the other hand, A military operation started in the prison, where the military forces have stormed the section which was under the control of ISIS members who refused to surrender, while evacuation of ISIS prisoners held in other sections of the prison continued, where they were transported by buses to safer areas.\n\nReliable SOHR sources had reported that ISIS gunmen stationed and hidden in a section of Ghuwayran prison refused to surrender.\n\nMeanwhile, the military forces stationed in the vicinity of the prison clashed with the organisation’s armed members in other hideouts in the prison surrounding areas, while aircraft of the International Coalition were flying over the region.\n\nIn the same context, the military forces continued their inspection and combing operations in other sections of the prison and started to transfer the prisoners to safer areas.\n\nThe number of the prisoners who were transferred by buses to these areas reached 400. However, SOHR sources confirmed that some unarmed prisoners in some of the prison’s dormitories refused to leave the prison and announced disobedience by closing the doors to prevent the forces from entering the dormitories of the “Caliphate cubs”, the children who had fought in ISIS ranks.\n\nSOHR activists confirmed that the total death toll since the start of Ghuwayran prison break on Thursday evening has reached 154: 102 ISIS fighters, seven civilians and 45 members of Asayish Forces, prison guards and counter-terrorism forces.\n\nObservatory asserts that the death toll is even higher, and the real number of fatalists is not exactly identified, as the fate of dozens members on both sides is still unknown. In addition, there are many people who have sustained serious injuries.\n\nPrev Post\n\nAmid unaffordable prices of fuel and natural gas | Residents in Idlib countryside turn to use dry dung for heating and cooking\n\nNext Post\n\nRegime reconciliations | Preparations underway to settle security situation of suspects in Rif Dimashq\n\nDaily death toll | Nine persons killed on April 17 across Syria\n\nFamily infighting | Child injured in violent clashes between two families in Daraa…\n\nAnti-air defence system | US forces reinforce largest military bases in Syria\n\nOld vendetta | One person kil*led in armed clashes between two families in Rif…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:36:01+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:36:02+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240417221221id_/https://www.syriahr.com/en/236126/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240417221221id_/https://www.syriahr.com/en/236126/",
   "incident_ids": [
     "airwars-81424"
   ],
@@ -55,10 +80,10 @@
     "https://www.syriahr.com/en/236126/"
   ],
   "original_url": "https://www.syriahr.com/en/236126/",
-  "page_title": "",
+  "page_title": "Amid ongoing combing operations in surrounding neighbourhoods | Clashes renew inside Ghuwayran prison - The Syrian Observatory For Human Rights Amid ongoing combing operations in surrounding neighbourhoods | Clashes renew inside Ghuwayran prison - The Syrian Observatory For Human Rights Amid ongoing combing operations in surrounding neighbourhoods | Clashes renew inside Ghuwayran prison - The Syrian Observatory For Human Rights Amid ongoing combing operations in surrounding neighbourhoods | Clashes renew inside Ghuwayran prison Amid ongoing combing operations in surrounding neighbourhoods | Clashes renew inside Ghuwayran prison",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1976-january-20-2022/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:36:02+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-be71a63e79da7a0c5226d61a",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.syriahr.com/en/236126/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Amid ongoing combing operations in surrounding neighbourhoods | Clashes renew inside Ghuwayran prison\n\nAl-Hasakah province: SOHR sources have reported renewed clashes inside Ghuwayran prison in Al-Hasakah city, after airstrikes by International Coalition aircraft on positions where ISIS members holed up.\n\nReliable sources have told SOHR that SDF, Asayish Forces and Counter-Terrorism Forces continue searching for ISIS members and fugitive prisoners in neighbourhoods around Ghuwayran prison, as members and prisoners are expected to be hiding in abandoned houses, whose inhabitants have been displaced over the recent dramatic developments. It is worth noting that these joint forces had accomplished combing the open areas in these neighbourhoods yesterday.\n\nOn the other hand, ISIS prisoners in other sections of the prison, including the section where children of the “Caliphate Cubs” of different nationalities are held, continue their disobedience.\n\nSOHR activists have reported seeing the buses which carrying ISIS prisoners crossing into Al-Qamishli city. However, the final destination of these buses remains unknown.\n\nA few hours ago, SOHR sources reported that the military Forces stationed inside Ghuwayran prison managed to free several combatants, employees and guards who were held in sections of the prison free of ISIS members. On the other hand, A military operation started in the prison, where the military forces have stormed the section which was under the control of ISIS members who refused to surrender, while evacuation of ISIS prisoners held in other sections of the prison continued, where they were transported by buses to safer areas.\n\nReliable SOHR sources had reported that ISIS gunmen stationed and hidden in a section of Ghuwayran prison refused to surrender.\n\nMeanwhile, the military forces stationed in the vicinity of the prison clashed with the organisation’s armed members in other hideouts in the prison surrounding areas, while aircraft of the International Coalition were flying over the region.\n\nIn the same context, the military forces continued their inspection and combing operations in other sections of the prison and started to transfer the prisoners to safer areas.\n\nThe number of the prisoners who were transferred by buses to these areas reached 400. However, SOHR sources confirmed that some unarmed prisoners in some of the prison’s dormitories refused to leave the prison and announced disobedience by closing the doors to prevent the forces from entering the dormitories of the “Caliphate cubs”, the children who had fought in ISIS ranks.\n\nSOHR activists confirmed that the total death toll since the start of Ghuwayran prison break on Thursday evening has reached 154: 102 ISIS fighters, seven civilians and 45 members of Asayish Forces, prison guards and counter-terrorism forces.\n\nObservatory asserts that the death toll is even higher, and the real number of fatalists is not exactly identified, as the fate of dozens members on both sides is still unknown. In addition, there are many people who have sustained serious injuries.\n\nPrev Post\n\nAmid unaffordable prices of fuel and natural gas | Residents in Idlib countryside turn to use dry dung for heating and cooking\n\nNext Post\n\nRegime reconciliations | Preparations underway to settle security situation of suspects in Rif Dimashq\n\nDaily death toll | Nine persons killed on April 17 across Syria\n\nFamily infighting | Child injured in violent clashes between two families in Daraa…\n\nAnti-air defence system | US forces reinforce largest military bases in Syria\n\nOld vendetta | One person kil*led in armed clashes between two families in Rif…",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

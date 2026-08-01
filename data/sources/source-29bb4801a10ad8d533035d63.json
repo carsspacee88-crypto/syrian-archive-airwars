@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20240809134940id_/https://www.youtube.com/watch?v=CzmE7rFJ3aM"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Al Jazeera (2)",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b4ccac264f449c5461dbfbb9aa63c54ea076772633a0b5f159a23efdcb599ab3",
+  "content_variants": [
+    {
+      "bytes": 270,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:18:08+00:00",
+      "sha256": "b4ccac264f449c5461dbfbb9aa63c54ea076772633a0b5f159a23efdcb599ab3",
+      "source_url": "https://web.archive.org/web/20240809134940id_/https://www.youtube.com/watch?v=CzmE7rFJ3aM",
+      "text": "سوريا.. قتلى وجرحى بقصف مدفعي استهدف حي الضبيط في مدينة إدلب - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2024 Google LLC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:18:08+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:18:08+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240809134940id_/https://www.youtube.com/watch?v=CzmE7rFJ3aM"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240809134940id_/https://www.youtube.com/watch?v=CzmE7rFJ3aM",
   "incident_ids": [
     "airwars-78103"
   ],
@@ -55,10 +80,10 @@
     "https://www.youtube.com/watch?v=CzmE7rFJ3aM"
   ],
   "original_url": "https://www.youtube.com/watch?v=CzmE7rFJ3aM",
-  "page_title": "",
+  "page_title": "سوريا.. قتلى وجرحى بقصف مدفعي استهدف حي الضبيط في مدينة إدلب - YouTube سوريا.. قتلى وجرحى بقصف مدفعي استهدف حي الضبيط في مدينة إدلب سوريا.. قتلى وجرحى بقصف مدفعي استهدف حي الضبيط في مدينة إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4640-september-7-2021/",
@@ -78,16 +103,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:18:08+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-29bb4801a10ad8d533035d63",
   "source_type": "youtube_page",
   "stable_id_basis": "https://www.youtube.com/watch?v=CzmE7rFJ3aM",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "سوريا.. قتلى وجرحى بقصف مدفعي استهدف حي الضبيط في مدينة إدلب - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2024 Google LLC",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

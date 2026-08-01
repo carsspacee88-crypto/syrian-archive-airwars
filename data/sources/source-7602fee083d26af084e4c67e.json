@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/JREJQ"
+    "https://archive.ph/JREJQ",
+    "https://web.archive.org/web/20240524131233id_/https://963media.com/13803/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "963 Media news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1bb1795f64ac4635315db5c5c0e1b4cb6868c967b6468c5eb761688d307b588f",
+  "content_variants": [
+    {
+      "bytes": 641,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:27:54+00:00",
+      "sha256": "1bb1795f64ac4635315db5c5c0e1b4cb6868c967b6468c5eb761688d307b588f",
+      "source_url": "https://web.archive.org/web/20240524131233id_/https://963media.com/13803/",
+      "text": "حلب أُصيب خمسة أشخاص، اليوم السبت، بقصف من قبل القوات التركية وفصائل “المعارضة السورية” الموالية لها، استهدف قرىً بريف محافظة حلب الشمالي وقالت وكالة “هاوار” الرسمية التابعة للإدارة الذاتية، إن القصف المدفعي التركي على قرية التوخار شمال شرقي منبج، تسبب بإصابة ثلاثة أشخاص. وكان قد أفاد مجلس منبج العسكري التابع لقوات سوريا الديموقراطية (قسد) في […]"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:27:53+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:27:54+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524131233id_/https://963media.com/13803/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524131233id_/https://963media.com/13803/",
   "incident_ids": [
     "airwars-116899"
   ],
@@ -85,10 +109,10 @@
     "https://963media.com/13803/"
   ],
   "original_url": "https://963media.com/13803/",
-  "page_title": "",
+  "page_title": "إصابة خمسة أشخاص بواقعتي قصف تركي شمالي سوريا - 963+ إصابة خمسة أشخاص بواقعتي قصف تركي شمالي سوريا - 963+",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts696-may-18-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:27:54+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7602fee083d26af084e4c67e",
   "source_type": "news_article",
   "stable_id_basis": "https://963media.com/13803/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "حلب أُصيب خمسة أشخاص، اليوم السبت، بقصف من قبل القوات التركية وفصائل “المعارضة السورية” الموالية لها، استهدف قرىً بريف محافظة حلب الشمالي وقالت وكالة “هاوار” الرسمية التابعة للإدارة الذاتية، إن القصف المدفعي التركي على قرية التوخار شمال شرقي منبج، تسبب بإصابة ثلاثة أشخاص. وكان قد أفاد مجلس منبج العسكري التابع لقوات سوريا الديموقراطية (قسد) في […]",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

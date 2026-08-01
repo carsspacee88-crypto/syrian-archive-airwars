@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/Vbplq"
+    "https://archive.md/Vbplq",
+    "https://web.archive.org/web/20240515185810id_/https://bissanfm.com/news/51148"
   ],
   "attempt_history": [
     {
@@ -67,12 +68,35 @@
   "author": "BisanFm News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "7049f5ce4807362839c8d3a01d237bc08b0ea0f86e880a4dad6073eaff4a05ea",
+  "content_variants": [
+    {
+      "bytes": 1971,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:31:18+00:00",
+      "sha256": "7049f5ce4807362839c8d3a01d237bc08b0ea0f86e880a4dad6073eaff4a05ea",
+      "source_url": "https://web.archive.org/web/20240515185810id_/https://bissanfm.com/news/51148",
+      "text": "قتلت امرأة وأصيب عدد من المدنيين اليوم الاثنين في قصف مدفعي لقوات النظام السوري على بلدة كفرنوران غرب حلب.\n\nوذكرت وسائل إعلام محلية أن الضحايا جميعهم من عائلة واحدة بعد أن استهدف القصف منزلهم في البلدة.\n\nوفي أثناء ذلك استهدف الطيران الروسي محيط بلدة مجدليا على محور الأربعين جنوب أريحا في ريف إدلب الجنوبي، دون تسجيل إصابات.\n\nوبالأمس أصيب 4 أشخاص في قصف مدفعي لقوات النظام السوري وروسيا على بلدة تفتناز شرق إدلب.\n\nوتتعرض مناطق شمال غرب سوريا بشكل مستمر للاستهداف من قبل النظام السوري والطائرات الروسية، ما يؤدي إلى سقوط ضحايا في صفوف المدنيين.\n\nوسبق أن حذر الدفاع المدني من أن التصعيد في المنطقة ينذر بكارثة إنسانية قد تكون الأسوأ منذ عام 2011 ويهدد حياة أكثر من 4 ملايين مدني.\n\nصباح الفرات 15-11-2021\n\nإقامة مسابقة لاختيار معلمين وتعيينهم في مدارس دير الزور\n\nمقالات ذات صلة\n\nالنيران تلتهم مئات الدونمات على خطوط التماس بين مناطق المعارضة والإدارة الذاتية\n\nلبنان يستأنف ترحيل اللاجئين السوريين بالتنسيق مع النظام السوري رغم التحذيرات الدولية\n\nقسد تعلن اعتقال 4 من التنظيم كانوا يخططون لشن هجوم كبير في الرقة\n\nاستمرار عمليات البحث على جثة طفل غرق في نهر الفرات شرق دير الزور\n\nاترك تعليقاً إلغاء الرد"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:31:17+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:31:18+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515185810id_/https://bissanfm.com/news/51148"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515185810id_/https://bissanfm.com/news/51148",
   "incident_ids": [
     "airwars-80164"
   ],
@@ -88,10 +112,10 @@
     "https://bissanfm.com/news/51148"
   ],
   "original_url": "https://bissanfm.com/news/51148",
-  "page_title": "",
+  "page_title": "مقتل امرأة في قصف للنظام السوري على ريف حلب | بيسان إف إم - BISSAN FM مقتل امرأة في قصف للنظام السوري على ريف حلب | بيسان إف إم - BISSAN FM",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4668-november-15-2021/",
@@ -111,15 +135,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:31:18+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-a354d6a76a166104654b14d8",
   "source_type": "news_article",
   "stable_id_basis": "https://bissanfm.com/news/51148",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قتلت امرأة وأصيب عدد من المدنيين اليوم الاثنين في قصف مدفعي لقوات النظام السوري على بلدة كفرنوران غرب حلب.\n\nوذكرت وسائل إعلام محلية أن الضحايا جميعهم من عائلة واحدة بعد أن استهدف القصف منزلهم في البلدة.\n\nوفي أثناء ذلك استهدف الطيران الروسي محيط بلدة مجدليا على محور الأربعين جنوب أريحا في ريف إدلب الجنوبي، دون تسجيل إصابات.\n\nوبالأمس أصيب 4 أشخاص في قصف مدفعي لقوات النظام السوري وروسيا على بلدة تفتناز شرق إدلب.\n\nوتتعرض مناطق شمال غرب سوريا بشكل مستمر للاستهداف من قبل النظام السوري والطائرات الروسية، ما يؤدي إلى سقوط ضحايا في صفوف المدنيين.\n\nوسبق أن حذر الدفاع المدني من أن التصعيد في المنطقة ينذر بكارثة إنسانية قد تكون الأسوأ منذ عام 2011 ويهدد حياة أكثر من 4 ملايين مدني.\n\nصباح الفرات 15-11-2021\n\nإقامة مسابقة لاختيار معلمين وتعيينهم في مدارس دير الزور\n\nمقالات ذات صلة\n\nالنيران تلتهم مئات الدونمات على خطوط التماس بين مناطق المعارضة والإدارة الذاتية\n\nلبنان يستأنف ترحيل اللاجئين السوريين بالتنسيق مع النظام السوري رغم التحذيرات الدولية\n\nقسد تعلن اعتقال 4 من التنظيم كانوا يخططون لشن هجوم كبير في الرقة\n\nاستمرار عمليات البحث على جثة طفل غرق في نهر الفرات شرق دير الزور\n\nاترك تعليقاً إلغاء الرد",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

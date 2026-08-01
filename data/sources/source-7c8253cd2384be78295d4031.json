@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/CWUnC"
+    "https://archive.is/CWUnC",
+    "https://web.archive.org/web/20240814171224id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-12-10-2021.html?fbclid=IwAR0RAkVZU_RZkgEn1ppV8j8nSx4W8OAyN4P7-BG6foaS9moKemxCHBQcxFI"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "c1cdf29eae8a100f24cdb9496e8fd1f370a510659aa2f0e9f52ed9598a15da24",
+  "content_variants": [
+    {
+      "bytes": 2646,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:27:15+00:00",
+      "sha256": "c1cdf29eae8a100f24cdb9496e8fd1f370a510659aa2f0e9f52ed9598a15da24",
+      "source_url": "https://web.archive.org/web/20240814171224id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-12-10-2021.html?fbclid=IwAR0RAkVZU_RZkgEn1ppV8j8nSx4W8OAyN4P7-BG6foaS9moKemxCHBQcxFI",
+      "text": "حصاد الأحداث الميدانية ليوم الثلاثاء 12-10-2021\n\nحصاد الأحداث الميدانية ليوم الثلاثاء 12-10-2021\n\nحلب::انفجرت عبوة ناسفة مزروعة بسيارة مدير مكتب فريق \"ملهم التطوعي\" في مدينة الباب بالريف الشرقي، دون حدوث أضرار بشرية.\n\nتعرضت بلدة كفرعمة بالريف الغربي لقصف مدفعي من قبل قوات الأسد، ما أدى لإصابة 5 أطفال بجروح، وردت فصائل الثوار باستهداف معاقل قوات الأسد على محور بلدة أورم الكبرى وفي بلدتي كفرحلب وميزناز بقذائف الهاون.\n\nاستهدف الجيش التركي مواقع قوات سوريا الديمقراطية \"قسد\" بالريف الشمالي بقذائف المدفعية.\n\nإدلب::تعرض محيط بلدة كنصفرة بالريف الجنوبي لقصف مدفعي من قبل قوات الأسد.\n\nدرعا::أطلق مجهولون النار على شاب في مدينة طفس بالريف الغربي، ما أدى لمقتله.\n\nديرالزور::قٌتل عنصرين من \"قسد\" جراء استهداف آلية عسكرية تابعة لهم من قبل أشخاص ملثمين في قرية الطكيحي بالريف الشمالي.\n\nالحسكة::استهدف الجيش الوطني مواقع عناصر \"قسد\" في محيط بلدة تل تمر بالريف الشمالي بقذائف المدفعية الثقيلة.\n\nاعتقلت \"قسد\" شخصاً عراقياً أثناء مداهمتها أحد المنازل في بلدة الهول بالريف الشرقي.\n\nالرقة::صادرت \"قسد\" عدداً من السيارات المدنية على حاجز التراوزية شمالي الرقة بحجة تهريب الوقود إلى منطقة نبع السلام.\n\nاستهدف الجيش الوطني مواقع \"قسد\" في محيط مدينة عين عيسى والطريق الدولي \"أم 4\" بالريف الشمالي بقذائف المدفعية الثقيلة.\n\nقُتل عنصرين من قوات الأسد جراء انفجار عبوة ناسفة بسيارة عسكرية في محيط بلدة الرصافة بالريف الجنوبي الغربي.\n\nشن الطيران الحربي الروسي غارات جوية على مواقع لتنظيم الدولة في بادية آثريا بالريف الغربي.\n\nاللاذقية::شن الطيران الروسي غارات جوية على محاور تلال الخضر بالريف الشمالي."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:27:14+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:27:15+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240814171224id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-12-10-2021.html?fbclid=IwAR0RAkVZU_RZkgEn1ppV8j8nSx4W8OAyN4P7-BG6foaS9moKemxCHBQcxFI"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240814171224id_/https://shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-12-10-2021.html?fbclid=IwAR0RAkVZU_RZkgEn1ppV8j8nSx4W8OAyN4P7-BG6foaS9moKemxCHBQcxFI",
   "incident_ids": [
     "airwars-79502"
   ],
@@ -85,10 +109,10 @@
     "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-12-10-2021.html?fbclid=IwAR0RAkVZU_RZkgEn1ppV8j8nSx4W8OAyN4P7-BG6foaS9moKemxCHBQcxFI"
   ],
   "original_url": "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-12-10-2021.html?fbclid=IwAR0RAkVZU_RZkgEn1ppV8j8nSx4W8OAyN4P7-BG6foaS9moKemxCHBQcxFI",
-  "page_title": "",
+  "page_title": "حصاد الأحداث الميدانية ليوم الثلاثاء 12-10-2021 | شبكة شام الإخبارية حصاد الأحداث الميدانية ليوم الثلاثاء 12-10-2021 حصاد الأحداث الميدانية ليوم الثلاثاء 12-10-2021",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4655-october-12-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:27:15+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7c8253cd2384be78295d4031",
   "source_type": "other_web_page",
   "stable_id_basis": "http://www.shaam.org/reports/battleground-reports/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-12-10-2021.html?fbclid=IwAR0RAkVZU_RZkgEn1ppV8j8nSx4W8OAyN4P7-BG6foaS9moKemxCHBQcxFI",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "حصاد الأحداث الميدانية ليوم الثلاثاء 12-10-2021\n\nحصاد الأحداث الميدانية ليوم الثلاثاء 12-10-2021\n\nحلب::انفجرت عبوة ناسفة مزروعة بسيارة مدير مكتب فريق \"ملهم التطوعي\" في مدينة الباب بالريف الشرقي، دون حدوث أضرار بشرية.\n\nتعرضت بلدة كفرعمة بالريف الغربي لقصف مدفعي من قبل قوات الأسد، ما أدى لإصابة 5 أطفال بجروح، وردت فصائل الثوار باستهداف معاقل قوات الأسد على محور بلدة أورم الكبرى وفي بلدتي كفرحلب وميزناز بقذائف الهاون.\n\nاستهدف الجيش التركي مواقع قوات سوريا الديمقراطية \"قسد\" بالريف الشمالي بقذائف المدفعية.\n\nإدلب::تعرض محيط بلدة كنصفرة بالريف الجنوبي لقصف مدفعي من قبل قوات الأسد.\n\nدرعا::أطلق مجهولون النار على شاب في مدينة طفس بالريف الغربي، ما أدى لمقتله.\n\nديرالزور::قٌتل عنصرين من \"قسد\" جراء استهداف آلية عسكرية تابعة لهم من قبل أشخاص ملثمين في قرية الطكيحي بالريف الشمالي.\n\nالحسكة::استهدف الجيش الوطني مواقع عناصر \"قسد\" في محيط بلدة تل تمر بالريف الشمالي بقذائف المدفعية الثقيلة.\n\nاعتقلت \"قسد\" شخصاً عراقياً أثناء مداهمتها أحد المنازل في بلدة الهول بالريف الشرقي.\n\nالرقة::صادرت \"قسد\" عدداً من السيارات المدنية على حاجز التراوزية شمالي الرقة بحجة تهريب الوقود إلى منطقة نبع السلام.\n\nاستهدف الجيش الوطني مواقع \"قسد\" في محيط مدينة عين عيسى والطريق الدولي \"أم 4\" بالريف الشمالي بقذائف المدفعية الثقيلة.\n\nقُتل عنصرين من قوات الأسد جراء انفجار عبوة ناسفة بسيارة عسكرية في محيط بلدة الرصافة بالريف الجنوبي الغربي.\n\nشن الطيران الحربي الروسي غارات جوية على مواقع لتنظيم الدولة في بادية آثريا بالريف الغربي.\n\nاللاذقية::شن الطيران الروسي غارات جوية على محاور تلال الخضر بالريف الشمالي.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

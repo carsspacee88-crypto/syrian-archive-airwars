@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/bB9ub"
+    "https://archive.is/bB9ub",
+    "https://web.archive.org/web/20251013150813id_/https://shafaq.com/ar/%D8%B9%D8%B1%D8%A8%D9%8A-%D9%88%D8%AF%D9%88%D9%84%D9%8A/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AA%D8%AC%D9%85%D8%B9%D8%A7-%D8%AF%D9%8A%D9%86%D9%8A%D8%A7-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shafaq",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a0e085ddd15e3220cc8e299ce5034800d60ec9e3fa0e0b4d31fc8bc7e7b47f63",
+  "content_variants": [
+    {
+      "bytes": 1573,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:24:42+00:00",
+      "sha256": "a0e085ddd15e3220cc8e299ce5034800d60ec9e3fa0e0b4d31fc8bc7e7b47f63",
+      "source_url": "https://web.archive.org/web/20251013150813id_/https://shafaq.com/ar/%D8%B9%D8%B1%D8%A8%D9%8A-%D9%88%D8%AF%D9%88%D9%84%D9%8A/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AA%D8%AC%D9%85%D8%B9%D8%A7-%D8%AF%D9%8A%D9%86%D9%8A%D8%A7-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+      "text": "ذي قار.. \"مخمور\" يتسبب بأضرار لأربع سيارات ويخلف 3 مصابين\n\nقبيل انعقادها.. قراءات عربية لشفق نيوز عن قمة شرم الشيخ ومصير \"التسوية\"\n\nبعد 40 يوماً من المتابعة.. بغداد تعلن عن تحرك لإعادة مهاجرين كورد من ليبيا\n\nترمب من إسرائيل: أنهينا الحرب وهذا يوم تاريخي للشرق الأوسط\n\nأفادت وكالة سانا السورية بسقوط قتلى وجرحى جراء سقوط صاروخ أطلقته التنظيمات الإرهابية، استهدف تجمعا حاشدا في مدينة السقيلبية بريف حماة.\n\nوذكرت سانا أن الإرهابيين استهدفوا بصاروخ احتفالا دينيا كان مقاما بمناسبة افتتاح كنيسة آيا صوفيا في المدينة.\n\nأخبار ذات صلة\n\nدمشق تعلن التصدي لهجمات اسرائيلية جنوب سوريا\n\nقصف بطائرات مجهولة يستهدف فصائل عراقية على الحدود العراقية السورية\n\nقصف مجهول لفصائل العراقية يحول دون افتتاح منفذ حدودي مع سوريا\n\nإسرائيل تلوح بـ\"فيتنام إيرانية\" وتكثف غاراتها قرب حدود العراق\n\nسوريا تعلن التصدي لـ\"صواريخ معادية\"\n\nمقتل خمسة مقاتلين من الفصائل المسلحة بقصف مجهول قرب الحدود العراقية"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:24:41+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:24:42+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251013150813id_/https://shafaq.com/ar/%D8%B9%D8%B1%D8%A8%D9%8A-%D9%88%D8%AF%D9%88%D9%84%D9%8A/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AA%D8%AC%D9%85%D8%B9%D8%A7-%D8%AF%D9%8A%D9%86%D9%8A%D8%A7-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251013150813id_/https://shafaq.com/ar/%D8%B9%D8%B1%D8%A8%D9%8A-%D9%88%D8%AF%D9%88%D9%84%D9%8A/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AA%D8%AC%D9%85%D8%B9%D8%A7-%D8%AF%D9%8A%D9%86%D9%8A%D8%A7-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
   "incident_ids": [
     "airwars-84211"
   ],
@@ -85,10 +109,10 @@
     "https://shafaq.com/ar/%D8%B9%D8%B1%D8%A8%D9%8A-%D9%88%D8%AF%D9%88%D9%84%D9%8A/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AA%D8%AC%D9%85%D8%B9%D8%A7-%D8%AF%D9%8A%D9%86%D9%8A%D8%A7-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
   ],
   "original_url": "https://shafaq.com/ar/%D8%B9%D8%B1%D8%A8%D9%8A-%D9%88%D8%AF%D9%88%D9%84%D9%8A/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AA%D8%AC%D9%85%D8%B9%D8%A7-%D8%AF%D9%8A%D9%86%D9%8A%D8%A7-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
-  "page_title": "",
+  "page_title": "قتلى وجرحى بقصف صاروخي يستهدف تجمعاً دينياً في سوريا - شفق نيوز قتلى وجرحى بقصف صاروخي يستهدف تجمعاً دينياً في سوريا - شفق نيوز",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts532-july-24-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:24:42+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5af520b60999627414c54b96",
   "source_type": "other_web_page",
   "stable_id_basis": "https://shafaq.com/ar/%D8%B9%D8%B1%D8%A8%D9%8A-%D9%88%D8%AF%D9%88%D9%84%D9%8A/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AA%D8%AC%D9%85%D8%B9%D8%A7-%D8%AF%D9%8A%D9%86%D9%8A%D8%A7-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ذي قار.. \"مخمور\" يتسبب بأضرار لأربع سيارات ويخلف 3 مصابين\n\nقبيل انعقادها.. قراءات عربية لشفق نيوز عن قمة شرم الشيخ ومصير \"التسوية\"\n\nبعد 40 يوماً من المتابعة.. بغداد تعلن عن تحرك لإعادة مهاجرين كورد من ليبيا\n\nترمب من إسرائيل: أنهينا الحرب وهذا يوم تاريخي للشرق الأوسط\n\nأفادت وكالة سانا السورية بسقوط قتلى وجرحى جراء سقوط صاروخ أطلقته التنظيمات الإرهابية، استهدف تجمعا حاشدا في مدينة السقيلبية بريف حماة.\n\nوذكرت سانا أن الإرهابيين استهدفوا بصاروخ احتفالا دينيا كان مقاما بمناسبة افتتاح كنيسة آيا صوفيا في المدينة.\n\nأخبار ذات صلة\n\nدمشق تعلن التصدي لهجمات اسرائيلية جنوب سوريا\n\nقصف بطائرات مجهولة يستهدف فصائل عراقية على الحدود العراقية السورية\n\nقصف مجهول لفصائل العراقية يحول دون افتتاح منفذ حدودي مع سوريا\n\nإسرائيل تلوح بـ\"فيتنام إيرانية\" وتكثف غاراتها قرب حدود العراق\n\nسوريا تعلن التصدي لـ\"صواريخ معادية\"\n\nمقتل خمسة مقاتلين من الفصائل المسلحة بقصف مجهول قرب الحدود العراقية",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

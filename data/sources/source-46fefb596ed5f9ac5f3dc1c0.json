@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/uOMos"
+    "https://archive.is/uOMos",
+    "https://web.archive.org/web/20240524182814id_/https://www.facebook.com/EdlibEmc1/posts/pfbid098ULSDqRcBvd8vMCrMAWR2b7VT2v5p1GAbhSHH1jdAtBL1JNfQtrTpje6s73vePgl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@EdlibEmc1",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f74ead403648bf0e56bcdc12483fc9e2d61d5ee6c4d2d39988c5a1499e76985c",
+  "content_variants": [
+    {
+      "bytes": 190,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T12:20:25+00:00",
+      "sha256": "f74ead403648bf0e56bcdc12483fc9e2d61d5ee6c4d2d39988c5a1499e76985c",
+      "source_url": "https://web.archive.org/web/20240524182814id_/https://www.facebook.com/EdlibEmc1/posts/pfbid098ULSDqRcBvd8vMCrMAWR2b7VT2v5p1GAbhSHH1jdAtBL1JNfQtrTpje6s73vePgl",
+      "text": "#مركز_ادلب_الاعلامي\n\nالدخان المتصاعد جراء غارات روسية استهدفت محيط بلدة حفسرجة في سهل الروج غرب ادلب .\n\n#EMC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T12:20:24+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T12:20:25+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524182814id_/https://www.facebook.com/EdlibEmc1/posts/pfbid098ULSDqRcBvd8vMCrMAWR2b7VT2v5p1GAbhSHH1jdAtBL1JNfQtrTpje6s73vePgl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524182814id_/https://www.facebook.com/EdlibEmc1/posts/pfbid098ULSDqRcBvd8vMCrMAWR2b7VT2v5p1GAbhSHH1jdAtBL1JNfQtrTpje6s73vePgl",
   "incident_ids": [
     "airwars-84805"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/EdlibEmc1/posts/pfbid098ULSDqRcBvd8vMCrMAWR2b7VT2v5p1GAbhSHH1jdAtBL1JNfQtrTpje6s73vePgl"
   ],
   "original_url": "https://www.facebook.com/EdlibEmc1/posts/pfbid098ULSDqRcBvd8vMCrMAWR2b7VT2v5p1GAbhSHH1jdAtBL1JNfQtrTpje6s73vePgl",
-  "page_title": "",
+  "page_title": "مركز إدلب الإعلامي Edlib Media Center مركز إدلب الإعلامي Edlib Media Center #مركز_ادلب_الاعلامي... - مركز إدلب الإعلامي Edlib Media Center",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4720-september-8-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T12:20:25+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-46fefb596ed5f9ac5f3dc1c0",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/EdlibEmc1/posts/pfbid098ULSDqRcBvd8vMCrMAWR2b7VT2v5p1GAbhSHH1jdAtBL1JNfQtrTpje6s73vePgl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#مركز_ادلب_الاعلامي\n\nالدخان المتصاعد جراء غارات روسية استهدفت محيط بلدة حفسرجة في سهل الروج غرب ادلب .\n\n#EMC",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
