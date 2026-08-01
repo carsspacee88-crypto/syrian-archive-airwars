@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/llIg1"
+    "https://archive.is/llIg1",
+    "https://web.archive.org/web/20240524182849id_/https://www.facebook.com/EdlibEmc1/posts/pfbid0eXMwGwzeNqkPueZN66CoGTwm9wWhwRBpA3YrXFMwqdQZm4b1QgfFgm8R2VWTfnbal"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "EdlibEmc1",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "93602fae1ae82a9a320a8ee84d562e7def5f2bdf87cc61968123095f5290f207",
+  "content_variants": [
+    {
+      "bytes": 559,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:51:37+00:00",
+      "sha256": "93602fae1ae82a9a320a8ee84d562e7def5f2bdf87cc61968123095f5290f207",
+      "source_url": "https://web.archive.org/web/20240524182849id_/https://www.facebook.com/EdlibEmc1/posts/pfbid0eXMwGwzeNqkPueZN66CoGTwm9wWhwRBpA3YrXFMwqdQZm4b1QgfFgm8R2VWTfnbal",
+      "text": "#مركز_ادلب_الاعلامي\n\nعدة غارات جوية لطيران الاحتلال الروسي على مخيم للنازحين في منطقة كلبيد قرب معبر باب الهوى الحدودي ما تسبب في سقوط عدة جرحى مدنيون ....\n\n#مركز_ادلب_الاعلامي\n\nعدة غارات جوية لطيران الاحتلال الروسي على مخيم للنازحين في منطقة كلبيد قرب معبر باب الهوى الحدودي ما تسبب في سقوط عدة جرحى مدنيون .\n\n#EMC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:51:36+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:51:37+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524182849id_/https://www.facebook.com/EdlibEmc1/posts/pfbid0eXMwGwzeNqkPueZN66CoGTwm9wWhwRBpA3YrXFMwqdQZm4b1QgfFgm8R2VWTfnbal"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524182849id_/https://www.facebook.com/EdlibEmc1/posts/pfbid0eXMwGwzeNqkPueZN66CoGTwm9wWhwRBpA3YrXFMwqdQZm4b1QgfFgm8R2VWTfnbal",
   "incident_ids": [
     "airwars-84966"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/EdlibEmc1/posts/pfbid0eXMwGwzeNqkPueZN66CoGTwm9wWhwRBpA3YrXFMwqdQZm4b1QgfFgm8R2VWTfnbal"
   ],
   "original_url": "https://www.facebook.com/EdlibEmc1/posts/pfbid0eXMwGwzeNqkPueZN66CoGTwm9wWhwRBpA3YrXFMwqdQZm4b1QgfFgm8R2VWTfnbal",
-  "page_title": "",
+  "page_title": "مركز إدلب الإعلامي Edlib Media Center مركز إدلب الإعلامي Edlib Media Center #مركز_ادلب_الاعلامي... - مركز إدلب الإعلامي Edlib Media Center",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4725-september-27-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:51:37+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d884f9b9009c115f88583134",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/EdlibEmc1/posts/pfbid0eXMwGwzeNqkPueZN66CoGTwm9wWhwRBpA3YrXFMwqdQZm4b1QgfFgm8R2VWTfnbal",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#مركز_ادلب_الاعلامي\n\nعدة غارات جوية لطيران الاحتلال الروسي على مخيم للنازحين في منطقة كلبيد قرب معبر باب الهوى الحدودي ما تسبب في سقوط عدة جرحى مدنيون ....\n\n#مركز_ادلب_الاعلامي\n\nعدة غارات جوية لطيران الاحتلال الروسي على مخيم للنازحين في منطقة كلبيد قرب معبر باب الهوى الحدودي ما تسبب في سقوط عدة جرحى مدنيون .\n\n#EMC",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

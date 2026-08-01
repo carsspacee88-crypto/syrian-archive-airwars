@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/aMNHF"
+    "https://archive.md/aMNHF",
+    "https://web.archive.org/web/20251114022710id_/https://nrttv.com/En/detail6/1577"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Nalia Media Corporation",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "e28d625ac81e6bac04554b14c4c3225c77ceffa4e6b5436a1db9c7407df64201",
+  "content_variants": [
+    {
+      "bytes": 37,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:41:06+00:00",
+      "sha256": "e28d625ac81e6bac04554b14c4c3225c77ceffa4e6b5436a1db9c7407df64201",
+      "source_url": "https://web.archive.org/web/20251114022710id_/https://nrttv.com/En/detail6/1577",
+      "text": "Three killed in Qamishli drone strike"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:41:05+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:41:06+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251114022710id_/https://nrttv.com/En/detail6/1577"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251114022710id_/https://nrttv.com/En/detail6/1577",
   "incident_ids": [
     "airwars-79932"
   ],
@@ -85,10 +109,10 @@
     "https://nrttv.com/En/detail6/1577"
   ],
   "original_url": "https://nrttv.com/En/detail6/1577",
-  "page_title": "",
+  "page_title": "Three killed in Qamishli drone strike\n\nThree killed in Qamishli drone strike\n\nThree killed in Qamishli drone strike",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts478-november-9-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:41:06+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-5e4db1f823bd2b3788b8ae06",
   "source_type": "news_article",
   "stable_id_basis": "https://nrttv.com/En/detail6/1577",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Three killed in Qamishli drone strike",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

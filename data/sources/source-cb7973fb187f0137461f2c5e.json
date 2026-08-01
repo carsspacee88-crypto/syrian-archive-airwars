@@ -67,8 +67,22 @@
   "content_hash": null,
   "content_variants": [],
   "descriptions": [],
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:51:31+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:51:33+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515223248id_/https://twitter.com/anasanas84/status/1424104588605591557"
+    }
+  ],
   "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
+  "failure_reason": "capture_without_text",
   "final_redirected_url": "",
   "incident_ids": [
     "airwars-76990"
@@ -108,7 +122,7 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
+  "retrieval_status": "capture_without_text",
   "retrieved_at": null,
   "review_flags": [],
   "schema_version": "1.0.0",

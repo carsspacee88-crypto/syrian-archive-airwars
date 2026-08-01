@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/HOGYV"
+    "https://archive.is/HOGYV",
+    "https://web.archive.org/web/20251010203347id_/https://www.syria.tv/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%AB%D8%B1-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%B4%D9%86%D8%AA%D9%87%C2%A0%D9%82%D8%B3%D8%AF"
   ],
   "attempt_history": [
     {
@@ -67,12 +68,35 @@
   "author": "Syria TV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "28265e20ec734dc063b4fdfc858f3f504a7ad7cb98f5057db5c74b547f8d79ef",
+  "content_variants": [
+    {
+      "bytes": 1123,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:48:04+00:00",
+      "sha256": "28265e20ec734dc063b4fdfc858f3f504a7ad7cb98f5057db5c74b547f8d79ef",
+      "source_url": "https://web.archive.org/web/20251010203347id_/https://www.syria.tv/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%AB%D8%B1-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%B4%D9%86%D8%AA%D9%87%C2%A0%D9%82%D8%B3%D8%AF",
+      "text": "إصابة مدنيين في جرابلس شمالي سوريا إثر قصف مدفعي شنته \"قسد\"\n\nأصيب ستة مدنيين، اليوم السبت، إثر قصف مدفعي شنته قوات سوريا الديمقراطية \"قسد\" على أطراف مدينة جرابلس في ريف حلب شمالي سوريا، بحسب مراسل تلفزيون سوريا.\n\nوفي وقت سابق، قتل شخص وأصيب آخرون بجروح نتيجة قصف استهدف منطقة سكنية في مدينة جرابلس، وسبقها مقتل طفلتين وإصابة 4 آخرين إثر انفجار مجهول المصدر في ريف جرابلس.\n\nوتشهد مناطق سيطرة الجيش الوطني عمليات قصف مصدرها مناطق سيطرة نظام الأسد و\"قوات سوريا الديمقراطية\" (قسد) في ريف حلب، وتودي هذه العمليات بحياة مدنيين.\n\n\"جسور للدراسات\": \"قسد\" تستغل ثغرات الأمن شمالي سوريا لتنفيذ العمليات العسكرية\n\nاخترنا لك\n\nالأكثر قراءة"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:48:03+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:48:04+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251010203347id_/https://www.syria.tv/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%AB%D8%B1-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%B4%D9%86%D8%AA%D9%87%C2%A0%D9%82%D8%B3%D8%AF"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251010203347id_/https://www.syria.tv/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%AB%D8%B1-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%B4%D9%86%D8%AA%D9%87%C2%A0%D9%82%D8%B3%D8%AF",
   "incident_ids": [
     "airwars-81865"
   ],
@@ -88,10 +112,10 @@
     "https://www.syria.tv/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%AB%D8%B1-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%B4%D9%86%D8%AA%D9%87%C2%A0%D9%82%D8%B3%D8%AF"
   ],
   "original_url": "https://www.syria.tv/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%AB%D8%B1-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%B4%D9%86%D8%AA%D9%87%C2%A0%D9%82%D8%B3%D8%AF",
-  "page_title": "",
+  "page_title": "إصابة مدنيين في جرابلس شمالي سوريا إثر قصف مدفعي شنته \"قسد\" إصابة مدنيين في جرابلس شمالي سوريا إثر قصف مدفعي شنته \"قسد\" إصابة مدنيين في جرابلس شمالي سوريا إثر قصف مدفعي شنته \"قسد\"",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys124-february-12-2022/",
@@ -111,15 +135,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:48:04+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b2ae94a197edec457e2e4d97",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.syria.tv/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%AB%D8%B1-%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%D9%8A-%D8%B4%D9%86%D8%AA%D9%87%C2%A0%D9%82%D8%B3%D8%AF",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة مدنيين في جرابلس شمالي سوريا إثر قصف مدفعي شنته \"قسد\"\n\nأصيب ستة مدنيين، اليوم السبت، إثر قصف مدفعي شنته قوات سوريا الديمقراطية \"قسد\" على أطراف مدينة جرابلس في ريف حلب شمالي سوريا، بحسب مراسل تلفزيون سوريا.\n\nوفي وقت سابق، قتل شخص وأصيب آخرون بجروح نتيجة قصف استهدف منطقة سكنية في مدينة جرابلس، وسبقها مقتل طفلتين وإصابة 4 آخرين إثر انفجار مجهول المصدر في ريف جرابلس.\n\nوتشهد مناطق سيطرة الجيش الوطني عمليات قصف مصدرها مناطق سيطرة نظام الأسد و\"قوات سوريا الديمقراطية\" (قسد) في ريف حلب، وتودي هذه العمليات بحياة مدنيين.\n\n\"جسور للدراسات\": \"قسد\" تستغل ثغرات الأمن شمالي سوريا لتنفيذ العمليات العسكرية\n\nاخترنا لك\n\nالأكثر قراءة",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

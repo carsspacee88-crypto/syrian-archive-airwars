@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/Ij1Xt"
+    "https://archive.ph/Ij1Xt",
+    "https://web.archive.org/web/20260208020150id_/https://shaam.org/news/bulletins/nshrh-hsad-ywm-alarbaaa-ljmya-alahdath-almydanyh-walaskryh-fy-swrya-30-11-2022"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "7666a964934c16528878a00f748be544a71c0b04fa2bb8617c6d6fe97168c5e3",
+  "content_variants": [
+    {
+      "bytes": 2102,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:34:23+00:00",
+      "sha256": "7666a964934c16528878a00f748be544a71c0b04fa2bb8617c6d6fe97168c5e3",
+      "source_url": "https://web.archive.org/web/20260208020150id_/https://shaam.org/news/bulletins/nshrh-hsad-ywm-alarbaaa-ljmya-alahdath-almydanyh-walaskryh-fy-swrya-30-11-2022",
+      "text": "صورة من بلدة باتبو بريف حلب\n\nنشرة حصاد يوم الأربعاء لجميع الأحداث الميدانية والعسكرية في سوريا 30-11-2022\n\nحلب::شن الطيران التركي غارة جوية استهدفت موقعاً عسكرياً لميليشيا قوات سوريا الديمقراطية \"قسد\" في جبل الابدة بريف مدينة منبج بالريف الشرقي، في حين استهدف الجيش التركي مواقع \"قسد\" في قريتي كوران وخربيسان بريف عين العرب بقذائف المدفعية.\n\nجرت اشتباكات بين عناصر الجيش الوطني وقوات الأسد على جبهة مدينة تادف بالريف الشرقي.\n\nإدلب::تعرضت بلدة البارة بالريف الجنوبي لقصف مدفعي من قبل قوات الأسد.\n\nديرالزور::قُتل عنصر من قوات الأسد وأصيب آخرين بجروح جراء هجوم مسلح استهدف سيارة عسكرية في محيط بلدة صبيخان بالريف الشرقي.\n\nأصيب طفلين بجروح إثر دهسهما بسيارة أثناء انصراف الطلاب من المدرسة في بلدة الشعفة بالريف الشرقي.\n\nالحسكة::استهدف الجيش التركي مواقع \"قسد\" في قرية ربيعات وبلدة أبو راسين بالريف الشمالي بقذائف المدفعية.\n\nالرقة::استهدف الجيش الوطني سيارة عسكرية لـ \"قسد\" على جبهة مدينة عين عيسى بالريف الشمالي بصاروخ موجه.\n\nاستهدف الجيشان الوطني والتركي معاقل \"قسد\" في قريتي خربة بقر وكورحسن بريف تل أبيض وقريتي صيدا والهوشان ومحيط الطريق الدولي \"أم 4\" بالريف الشمالي بقذائف المدفعية.\n\nاعتقلت \"قسد\" ثلاثة شبان بتهمة التعامل مع الجيش الوطني على حاجز الفرقة 17 بالريف الشمالي."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:34:22+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:34:23+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260208020150id_/https://shaam.org/news/bulletins/nshrh-hsad-ywm-alarbaaa-ljmya-alahdath-almydanyh-walaskryh-fy-swrya-30-11-2022"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260208020150id_/https://shaam.org/news/bulletins/nshrh-hsad-ywm-alarbaaa-ljmya-alahdath-almydanyh-walaskryh-fy-swrya-30-11-2022",
   "incident_ids": [
     "airwars-85696"
   ],
@@ -85,10 +109,10 @@
     "https://shaam.org/news/bulletins/nshrh-hsad-ywm-alarbaaa-ljmya-alahdath-almydanyh-walaskryh-fy-swrya-30-11-2022"
   ],
   "original_url": "https://shaam.org/news/bulletins/nshrh-hsad-ywm-alarbaaa-ljmya-alahdath-almydanyh-walaskryh-fy-swrya-30-11-2022",
-  "page_title": "",
+  "page_title": "نشرة حصاد يوم الأربعاء لجميع الأحداث الميدانية والعسكرية في سوريا 30-11-2022 | شبكة شام الإخبارية نشرة حصاد يوم الأربعاء لجميع الأحداث الميدانية والعسكرية في سوريا 30-11-2022 نشرة حصاد يوم الأربعاء لجميع الأحداث الميدانية والعسكرية في سوريا 30-11-2022",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4747-november-30-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:34:23+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-284562a7feabc1e39cdbc851",
   "source_type": "news_article",
   "stable_id_basis": "https://shaam.org/news/bulletins/nshrh-hsad-ywm-alarbaaa-ljmya-alahdath-almydanyh-walaskryh-fy-swrya-30-11-2022",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "صورة من بلدة باتبو بريف حلب\n\nنشرة حصاد يوم الأربعاء لجميع الأحداث الميدانية والعسكرية في سوريا 30-11-2022\n\nحلب::شن الطيران التركي غارة جوية استهدفت موقعاً عسكرياً لميليشيا قوات سوريا الديمقراطية \"قسد\" في جبل الابدة بريف مدينة منبج بالريف الشرقي، في حين استهدف الجيش التركي مواقع \"قسد\" في قريتي كوران وخربيسان بريف عين العرب بقذائف المدفعية.\n\nجرت اشتباكات بين عناصر الجيش الوطني وقوات الأسد على جبهة مدينة تادف بالريف الشرقي.\n\nإدلب::تعرضت بلدة البارة بالريف الجنوبي لقصف مدفعي من قبل قوات الأسد.\n\nديرالزور::قُتل عنصر من قوات الأسد وأصيب آخرين بجروح جراء هجوم مسلح استهدف سيارة عسكرية في محيط بلدة صبيخان بالريف الشرقي.\n\nأصيب طفلين بجروح إثر دهسهما بسيارة أثناء انصراف الطلاب من المدرسة في بلدة الشعفة بالريف الشرقي.\n\nالحسكة::استهدف الجيش التركي مواقع \"قسد\" في قرية ربيعات وبلدة أبو راسين بالريف الشمالي بقذائف المدفعية.\n\nالرقة::استهدف الجيش الوطني سيارة عسكرية لـ \"قسد\" على جبهة مدينة عين عيسى بالريف الشمالي بصاروخ موجه.\n\nاستهدف الجيشان الوطني والتركي معاقل \"قسد\" في قريتي خربة بقر وكورحسن بريف تل أبيض وقريتي صيدا والهوشان ومحيط الطريق الدولي \"أم 4\" بالريف الشمالي بقذائف المدفعية.\n\nاعتقلت \"قسد\" ثلاثة شبان بتهمة التعامل مع الجيش الوطني على حاجز الفرقة 17 بالريف الشمالي.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

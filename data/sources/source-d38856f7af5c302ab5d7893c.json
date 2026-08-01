@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/XluNj"
+    "https://archive.is/XluNj",
+    "https://web.archive.org/web/20250805205247id_/https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-aljmah-23-09-2022"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "b98a31276ae0a8d70d4ca4a649888ef2cc9c25c20bcd4e5a8ea7e8bcea66d1b1",
+  "content_variants": [
+    {
+      "bytes": 2748,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:50:55+00:00",
+      "sha256": "b98a31276ae0a8d70d4ca4a649888ef2cc9c25c20bcd4e5a8ea7e8bcea66d1b1",
+      "source_url": "https://web.archive.org/web/20250805205247id_/https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-aljmah-23-09-2022",
+      "text": "قوّات الفيلق الثالث في أحد المعسكرات بريف حلب الشمالي\n\nحصاد الأحداث الميدانية ليوم الجمعة 23-09-2022\n\nحلب::أصيب خمسة مدنيين بجروح بينهم طفل جراء قيام قوات الأسد باستهداف سيارة كانوا يستقلونها أثناء عودتهم من قطاف الزيتون في قرية تديل بالريف الغربي بصاروخ حراري موجه، في حين تعرض محيط قرى كفرعمة ومكلبيس وبنتا والواسطة بالريف الغربي لقصف مدفعي من قبل قوات الأسد.\n\nانفجر لغم أرضي بسيارة مدنية تقل قرابة 20 راكباً ضمن مناطق سيطرة نظام الأسد شرقي مدينة بزاعة بالريف الشرقي، ما أدى لسقوط عدد من الشهداء والجرحى، حيث حاول الركاب الوصول لمناطق سيطرة \"الجيش الوطني\" عبر طرق التهريب.\n\nتعرض أطراف مخيم البركة بريف عفرين لقصف صاروخي مصدره المناطق التي تسيطر عليها قوات الأسد وميليشيا قوات سوريا الديمقراطية \"قسد\".\n\nتمكنت هيئة تحرير الشام من قتل وجرح عدد من عناصر الأسد بعملية نوعية على محور قرية خربة جدرايا بالريف الغربي.\n\nتوفيت طفلة إثر إصابتها برصاصة خرجت بالخطأ من سلاح والدها في مدينة عفرين بالريف الشمالي.\n\nإدلب::تعرضت بلدة معارة النعسان ومحيط بلدة البارة بالريف الجنوبي لقصف مدفعي من قبل قوات الأسد.\n\nدرعا::داهمت قوات الأسد منزلاً وعدداً من المزارع على أطراف مدينة جاسم، حيث جرت اشتباكات بين مسلحين وميليشيات الأسد، وسقط خلالها أحد عناصر الأسد قتيلا، لترد قوات الأسد باستهداف المنطقة بقذائف الدبابات.\n\nأطلق مجهولون النار على إمام مسجد في مدينة طفس بالريف الغربي، ما أدى لمقتله وإصابة زوجته وابنه بجروح خطيرة.\n\nديرالزور::جرت اشتباكات عنيفة بين عناصر ميليشيا \"قسد\" وخلايا من تنظيم الدولة بالقرب من قرية الكسار غربي مدينة البصيرة بالريف الشرقي، في حين اعتقلت قوات التحالف الدولي رجل وأربعة من أبنائه في عملية إنزال جوي في القرية."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:50:55+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:50:55+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250805205247id_/https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-aljmah-23-09-2022"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250805205247id_/https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-aljmah-23-09-2022",
   "incident_ids": [
     "airwars-84946"
   ],
@@ -85,10 +109,10 @@
     "https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-aljmah-23-09-2022"
   ],
   "original_url": "https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-aljmah-23-09-2022",
-  "page_title": "",
+  "page_title": "حصاد الأحداث الميدانية ليوم الجمعة 23-09-2022 | شبكة شام الإخبارية حصاد الأحداث الميدانية ليوم الجمعة 23-09-2022 حصاد الأحداث الميدانية ليوم الجمعة 23-09-2022",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4724-september-23-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:50:55+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d38856f7af5c302ab5d7893c",
   "source_type": "other_web_page",
   "stable_id_basis": "https://shaam.org/reports/battleground-reports/hsad-alahdath-almydanyh-lywm-aljmah-23-09-2022",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قوّات الفيلق الثالث في أحد المعسكرات بريف حلب الشمالي\n\nحصاد الأحداث الميدانية ليوم الجمعة 23-09-2022\n\nحلب::أصيب خمسة مدنيين بجروح بينهم طفل جراء قيام قوات الأسد باستهداف سيارة كانوا يستقلونها أثناء عودتهم من قطاف الزيتون في قرية تديل بالريف الغربي بصاروخ حراري موجه، في حين تعرض محيط قرى كفرعمة ومكلبيس وبنتا والواسطة بالريف الغربي لقصف مدفعي من قبل قوات الأسد.\n\nانفجر لغم أرضي بسيارة مدنية تقل قرابة 20 راكباً ضمن مناطق سيطرة نظام الأسد شرقي مدينة بزاعة بالريف الشرقي، ما أدى لسقوط عدد من الشهداء والجرحى، حيث حاول الركاب الوصول لمناطق سيطرة \"الجيش الوطني\" عبر طرق التهريب.\n\nتعرض أطراف مخيم البركة بريف عفرين لقصف صاروخي مصدره المناطق التي تسيطر عليها قوات الأسد وميليشيا قوات سوريا الديمقراطية \"قسد\".\n\nتمكنت هيئة تحرير الشام من قتل وجرح عدد من عناصر الأسد بعملية نوعية على محور قرية خربة جدرايا بالريف الغربي.\n\nتوفيت طفلة إثر إصابتها برصاصة خرجت بالخطأ من سلاح والدها في مدينة عفرين بالريف الشمالي.\n\nإدلب::تعرضت بلدة معارة النعسان ومحيط بلدة البارة بالريف الجنوبي لقصف مدفعي من قبل قوات الأسد.\n\nدرعا::داهمت قوات الأسد منزلاً وعدداً من المزارع على أطراف مدينة جاسم، حيث جرت اشتباكات بين مسلحين وميليشيات الأسد، وسقط خلالها أحد عناصر الأسد قتيلا، لترد قوات الأسد باستهداف المنطقة بقذائف الدبابات.\n\nأطلق مجهولون النار على إمام مسجد في مدينة طفس بالريف الغربي، ما أدى لمقتله وإصابة زوجته وابنه بجروح خطيرة.\n\nديرالزور::جرت اشتباكات عنيفة بين عناصر ميليشيا \"قسد\" وخلايا من تنظيم الدولة بالقرب من قرية الكسار غربي مدينة البصيرة بالريف الشرقي، في حين اعتقلت قوات التحالف الدولي رجل وأربعة من أبنائه في عملية إنزال جوي في القرية.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

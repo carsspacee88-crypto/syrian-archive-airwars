@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/24sSB"
+    "https://archive.ph/24sSB",
+    "https://web.archive.org/web/20251011023311id_/https://www.facebook.com/SyriaCivilDefense/posts/pfbid029648ch1EgZH1noRjK7chMvHLoacbJAkSRkp9RVYgSM74vgd4Uf2Lc1aD7m3thSvnl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Civil Defense",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ef85c85774895f8c2339a059a6c24ee7a7da7aa6f43469fee33e7bf501150e3b",
+  "content_variants": [
+    {
+      "bytes": 76,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:36:55+00:00",
+      "sha256": "ef85c85774895f8c2339a059a6c24ee7a7da7aa6f43469fee33e7bf501150e3b",
+      "source_url": "https://web.archive.org/web/20251011023311id_/https://www.facebook.com/SyriaCivilDefense/posts/pfbid029648ch1EgZH1noRjK7chMvHLoacbJAkSRkp9RVYgSM74vgd4Uf2Lc1aD7m3thSvnl",
+      "text": "This browser is not supportedtap to use a supported browserChromeFirefoxEdge"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:36:54+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:36:55+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251011023311id_/https://www.facebook.com/SyriaCivilDefense/posts/pfbid029648ch1EgZH1noRjK7chMvHLoacbJAkSRkp9RVYgSM74vgd4Uf2Lc1aD7m3thSvnl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251011023311id_/https://www.facebook.com/SyriaCivilDefense/posts/pfbid029648ch1EgZH1noRjK7chMvHLoacbJAkSRkp9RVYgSM74vgd4Uf2Lc1aD7m3thSvnl",
   "incident_ids": [
     "airwars-84544"
   ],
@@ -88,7 +112,7 @@
   "page_title": "",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4710-august-13-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:36:55+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-44ef145473a553249a283b5c",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SyriaCivilDefense/posts/pfbid029648ch1EgZH1noRjK7chMvHLoacbJAkSRkp9RVYgSM74vgd4Uf2Lc1aD7m3thSvnl",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "This browser is not supportedtap to use a supported browserChromeFirefoxEdge",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

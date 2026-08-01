@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/Garak"
+    "https://archive.is/Garak",
+    "https://web.archive.org/web/20240808192309id_/https://news.snhr.org/2022/07/25/a-civilian-was-killed-by-sdf-bombardment-on-kuwait-al-rahma-camp-in-northern-aleppo-on-july-24/?fbclid=IwAR16uvbyXvV21U2_kfRG8fQC7RFGQzz70nO2_NmOSPEQjNlitE1jBtggOEk"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SNHR",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "52c99a7e445d8e6aba397852b0715773bd850852ac840743ffa4b0f37c81326d",
+  "content_variants": [
+    {
+      "bytes": 1278,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:34:07+00:00",
+      "sha256": "52c99a7e445d8e6aba397852b0715773bd850852ac840743ffa4b0f37c81326d",
+      "source_url": "https://web.archive.org/web/20240808192309id_/https://news.snhr.org/2022/07/25/a-civilian-was-killed-by-sdf-bombardment-on-kuwait-al-rahma-camp-in-northern-aleppo-on-july-24/?fbclid=IwAR16uvbyXvV21U2_kfRG8fQC7RFGQzz70nO2_NmOSPEQjNlitE1jBtggOEk",
+      "text": "Date:\n\nA civilian was killed by SDF bombardment on Kuwait al Rahma Camp in northern Aleppo on July 24\n\nRelated News\n\nThe daily death toll of civilian victims in Syria on August 7, 2024\n\nMan named Haytham al-Eid killed by a gunfire of unidentified source in E. Deir Ez-Zour governorate, August 7, 2024\n\nBoy named Muthanna al-Saleh killed by a gunfire of unidentified source in E. Deir Ez-Zour governorate, August 7, 2024\n\nSyrian Democratic Forces’ missile launchers fired several missiles on Kuwait al Rahma Camp for IDPs (the camp consists of several concrete housing units) in Harch al Khalediya region southeast of Afrin city in the northern suburbs of Aleppo on July 24, 2022. The bombing led to the death of Hasan Sha’ban Madino, an IDP from Anjara village in Aleppo governorate, and wounded several other civilians, while three residential units were completely destroyed, and two units partially damaged.\n\nSNHR notes that the Syrian Democratic Forces have undoubtedly violated the United Nations Security Council’s resolutions 2139 and 2254 which prohibit any further indiscriminate attacks, as well as violating the rules of international humanitarian law which stress the distinction between civilians and combatants, which spread terror and panic among civilians."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:34:06+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:34:07+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240808192309id_/https://news.snhr.org/2022/07/25/a-civilian-was-killed-by-sdf-bombardment-on-kuwait-al-rahma-camp-in-northern-aleppo-on-july-24/?fbclid=IwAR16uvbyXvV21U2_kfRG8fQC7RFGQzz70nO2_NmOSPEQjNlitE1jBtggOEk"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240808192309id_/https://news.snhr.org/2022/07/25/a-civilian-was-killed-by-sdf-bombardment-on-kuwait-al-rahma-camp-in-northern-aleppo-on-july-24/?fbclid=IwAR16uvbyXvV21U2_kfRG8fQC7RFGQzz70nO2_NmOSPEQjNlitE1jBtggOEk",
   "incident_ids": [
     "airwars-84183"
   ],
@@ -85,10 +109,10 @@
     "https://news.snhr.org/2022/07/25/a-civilian-was-killed-by-sdf-bombardment-on-kuwait-al-rahma-camp-in-northern-aleppo-on-july-24/?fbclid=IwAR16uvbyXvV21U2_kfRG8fQC7RFGQzz70nO2_NmOSPEQjNlitE1jBtggOEk"
   ],
   "original_url": "https://news.snhr.org/2022/07/25/a-civilian-was-killed-by-sdf-bombardment-on-kuwait-al-rahma-camp-in-northern-aleppo-on-july-24/?fbclid=IwAR16uvbyXvV21U2_kfRG8fQC7RFGQzz70nO2_NmOSPEQjNlitE1jBtggOEk",
-  "page_title": "",
+  "page_title": "A civilian was killed by SDF bombardment on Kuwait al Rahma Camp in northern Aleppo on July 24 A civilian was killed by SDF bombardment on Kuwait al Rahma Camp in northern Aleppo on July 24 A civilian was killed by SDF bombardment on Kuwait al Rahma Camp in northern Aleppo on July 24",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys141-july-24-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:34:07+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-1eecfd86252fae5c5055c353",
   "source_type": "news_article",
   "stable_id_basis": "https://news.snhr.org/2022/07/25/a-civilian-was-killed-by-sdf-bombardment-on-kuwait-al-rahma-camp-in-northern-aleppo-on-july-24/?fbclid=IwAR16uvbyXvV21U2_kfRG8fQC7RFGQzz70nO2_NmOSPEQjNlitE1jBtggOEk",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Date:\n\nA civilian was killed by SDF bombardment on Kuwait al Rahma Camp in northern Aleppo on July 24\n\nRelated News\n\nThe daily death toll of civilian victims in Syria on August 7, 2024\n\nMan named Haytham al-Eid killed by a gunfire of unidentified source in E. Deir Ez-Zour governorate, August 7, 2024\n\nBoy named Muthanna al-Saleh killed by a gunfire of unidentified source in E. Deir Ez-Zour governorate, August 7, 2024\n\nSyrian Democratic Forces’ missile launchers fired several missiles on Kuwait al Rahma Camp for IDPs (the camp consists of several concrete housing units) in Harch al Khalediya region southeast of Afrin city in the northern suburbs of Aleppo on July 24, 2022. The bombing led to the death of Hasan Sha’ban Madino, an IDP from Anjara village in Aleppo governorate, and wounded several other civilians, while three residential units were completely destroyed, and two units partially damaged.\n\nSNHR notes that the Syrian Democratic Forces have undoubtedly violated the United Nations Security Council’s resolutions 2139 and 2254 which prohibit any further indiscriminate attacks, as well as violating the rules of international humanitarian law which stress the distinction between civilians and combatants, which spread terror and panic among civilians.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

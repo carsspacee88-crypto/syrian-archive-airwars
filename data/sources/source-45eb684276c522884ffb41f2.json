@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20240223124437id_/https://anfenglish.com/rojava-syria/turkish-drone-attack-injures-7-civilians-in-tel-rifat-61647"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "Anf",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "85909212fbc7ef65b931c346005f58beb73f2b99a05acad7aa4f222ce97bc6bb",
+  "content_variants": [
+    {
+      "bytes": 1854,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:37:19+00:00",
+      "sha256": "85909212fbc7ef65b931c346005f58beb73f2b99a05acad7aa4f222ce97bc6bb",
+      "source_url": "https://web.archive.org/web/20240223124437id_/https://anfenglish.com/rojava-syria/turkish-drone-attack-injures-7-civilians-in-tel-rifat-61647",
+      "text": "Turkish drone attack injures 9 civilians in Tel Rifat - UPDATE\n\nA Turkish drone has bombed the town centre of Tel Rifat in northern Syria, which has been chosen by Erdogan as the target of the next occupation attack.\n\nANF\n\nSHEHBA\n\nThursday, 4 Aug 2022, 15:01\n\nTurkey attacked the city centre of Tel Rifat in northern Syria with a drone on Thursday. According to initial reports from the region, at least nine people were injured in the attack, including six children.\n\nThe injured civilians, who have been taken to the Avrîn Hospital in Fafin district, are as follows:\n\nDîna Osman (6)\n\nMehmûd Xerîb Mamo (6)\n\nHisên Cemal Qasim (7)\n\nAvrîn Ebdurehman Heyder (13)\n\nOrîvan Mihemed Ebdo (15)\n\nRonahî Silo (27)\n\nHisên Beyrem Elîko (43)\n\nSebah Henan Hemo (10)\n\nAzriya Ehmed Reşo (23)\n\nTel Rifat is located in the canton of Shehba, which is part of the territory of the self-governing region of Northern and Eastern Syria, and is, along with Manbij, the next target of a Turkish occupation attack. The canton is cut off from the rest of the autonomous region and borders Syrian regime-controlled territory to the south. The west, east and north are occupied by Turkey and its Islamist mercenary forces. Shehba is home to a large part of the population displaced from Afrin in 2018 in the course of the Turkish invasion. The area is attacked daily by Turkish artillery. On 19 July 2022, two soldiers of the government in Damascus were injured in a drone attack on Tel Rifat.\n\nTurkish President Recep Tayyip Erdogan will meet his Russian counterpart Vladimir Putin in Sochi on 5 August to discuss several issues, including the possible military operation against northern Syria. This meeting follows the summit in Tehran held in the framework of the \"Astana Peace Talks\" with the participation of the presidents of Russia, Iran and Turkey on 20-21 July."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:37:19+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:37:19+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240223124437id_/https://anfenglish.com/rojava-syria/turkish-drone-attack-injures-7-civilians-in-tel-rifat-61647"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240223124437id_/https://anfenglish.com/rojava-syria/turkish-drone-attack-injures-7-civilians-in-tel-rifat-61647",
   "incident_ids": [
     "airwars-84346"
   ],
@@ -55,10 +80,10 @@
     "https://anfenglish.com/rojava-syria/turkish-drone-attack-injures-7-civilians-in-tel-rifat-61647"
   ],
   "original_url": "https://anfenglish.com/rojava-syria/turkish-drone-attack-injures-7-civilians-in-tel-rifat-61647",
-  "page_title": "",
+  "page_title": "ANF | Turkish drone attack injures 9 civilians in Tel Rifat - UPDATE Turkish drone attack injures 9 civilians in Tel Rifat - UPDATE Turkish drone attack injures 9 civilians in Tel Rifat - UPDATE",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts538-august-4-2022/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:37:19+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-45eb684276c522884ffb41f2",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfenglish.com/rojava-syria/turkish-drone-attack-injures-7-civilians-in-tel-rifat-61647",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish drone attack injures 9 civilians in Tel Rifat - UPDATE\n\nA Turkish drone has bombed the town centre of Tel Rifat in northern Syria, which has been chosen by Erdogan as the target of the next occupation attack.\n\nANF\n\nSHEHBA\n\nThursday, 4 Aug 2022, 15:01\n\nTurkey attacked the city centre of Tel Rifat in northern Syria with a drone on Thursday. According to initial reports from the region, at least nine people were injured in the attack, including six children.\n\nThe injured civilians, who have been taken to the Avrîn Hospital in Fafin district, are as follows:\n\nDîna Osman (6)\n\nMehmûd Xerîb Mamo (6)\n\nHisên Cemal Qasim (7)\n\nAvrîn Ebdurehman Heyder (13)\n\nOrîvan Mihemed Ebdo (15)\n\nRonahî Silo (27)\n\nHisên Beyrem Elîko (43)\n\nSebah Henan Hemo (10)\n\nAzriya Ehmed Reşo (23)\n\nTel Rifat is located in the canton of Shehba, which is part of the territory of the self-governing region of Northern and Eastern Syria, and is, along with Manbij, the next target of a Turkish occupation attack. The canton is cut off from the rest of the autonomous region and borders Syrian regime-controlled territory to the south. The west, east and north are occupied by Turkey and its Islamist mercenary forces. Shehba is home to a large part of the population displaced from Afrin in 2018 in the course of the Turkish invasion. The area is attacked daily by Turkish artillery. On 19 July 2022, two soldiers of the government in Damascus were injured in a drone attack on Tel Rifat.\n\nTurkish President Recep Tayyip Erdogan will meet his Russian counterpart Vladimir Putin in Sochi on 5 August to discuss several issues, including the possible military operation against northern Syria. This meeting follows the summit in Tehran held in the framework of the \"Astana Peace Talks\" with the participation of the presidents of Russia, Iran and Turkey on 20-21 July.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.fo/oRQkh"
+    "https://archive.fo/oRQkh",
+    "https://web.archive.org/web/20250722025341id_/https://www.france24.com/en/live-news/20220202-turkey-strikes-kurd-targets-in-iraq-syria"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "France24",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "e287b54c733242e62e6c10dcc83a5de35d447fc2387e3bb85558cc7d4785293b",
+  "content_variants": [
+    {
+      "bytes": 3839,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:41:12+00:00",
+      "sha256": "e287b54c733242e62e6c10dcc83a5de35d447fc2387e3bb85558cc7d4785293b",
+      "source_url": "https://web.archive.org/web/20250722025341id_/https://www.france24.com/en/live-news/20220202-turkey-strikes-kurd-targets-in-iraq-syria",
+      "text": "Turkey strikes Kurd targets in Iraq, Syria\n\nBeirut (AFP) – Turkey said Wednesday it launched deadly strikes against Kurdish targets in Iraq and Syria, where Kurd forces have been left reeling from the largest Islamic State group attack in nearly three years.\n\nIssued on: 02/02/2022 - 15:14Modified: 02/02/2022 - 15:12\n\nThe raids on Tuesday night targeted shelters, tunnels, caves, ammunition depots, bases and training camps operated by the outlawed Kurdistan Workers' Party (PKK) and the People's Protection Units (YPG) which Ankara views as terrorist groups, the Turkish defence ministry said.\n\nThe Syrian Observatory for Human Rights said the Syria strikes hit a Kurdish-run power station near the town of Al-Malikiyah in Hasakeh province, where a brazen jailbreak attempt by IS jihadists last month sparked days of clashes that have left hundreds dead.\n\n\"At least four people were killed in the strike targeting a power station near Al-Malikiyah,\" the Britain-based war monitor said, adding they were all security guards.\n\nLater on Wednesday, shelling on the Turkish-held city of Al-Bab in northern Syria killed eight people, including five civilians, according to the Observatory.\n\nThe war monitor didn't specify who was responsible but Kurdish forces and Syrian regime troops are both deployed in the region.\n\nIn northern Iraq's autonomous Kurdistan region, Turkish strikes on Tuesday hit PKK positions in the Makhmur and Sinjar regions, where bombardment caused \"human and material losses\", Kurdish authorities said, without specifying a casualty toll.\n\nAs part of the attack, which drew condemnation from Baghdad, Turkish \"military aircraft bombarded six PKK positions in the Karjokh mountains\", which overlook a camp for Kurdish refugees from Turkey, Kurdish counter-terrorism services said in a statement.\n\nA PKK-linked group that oversees management of the camp reported \"the death of two combatants and dozens of injuries among camp residents\".\n\nThe wounded were in stable condition, it said.\n\n'Take action'\n\nBlacklisted as a terrorist group by Ankara and its Western allies, the PKK has been waging an insurgency against the Turkish state since 1984.\n\nThe YPG -- which forms the backbone of the US-backed Syrian Democratic Forces (SDF) fighting IS in Syria -- is viewed by Ankara as the PKK's Syria offshoot.\n\nWashington relied heavily on the SDF to defeat IS jihadists who overran large swathes of Syria and neighbouring Iraq in 2014.\n\nThe SDF said 40 of its fighters as well as more than 70 prison guards and staff were killed in the week-long IS attack on Ghwayran jail.\n\nThe YPG condemned the latest Turkish strikes that came on the heels of IS's largest Syria operation since 2019.\n\n\"Turkey tries to continue what ISIS started,\" it said on Twitter, using a different acronym for IS.\n\n\"Everyone has to take action against this attack now.\"\n\nThe Turkish strike came hours after hundreds of mourners gathered in Al-Malikiyah for mass funerals honouring Kurdish fighters killed in a week of battles with IS jihadists who had attacked the Ghwayran jail on January 20.\n\nMourners in the Kurdish-majority city of Qamishli in Syria's northeastern Hasakeh province - AFP\n\nSince the start of its military intervention in Syria in 2016, Ankara has sporadically bombed the YPG and carried out military operations on the ground targeting IS and Kurdish forces.\n\nTurkey also routinely carries out attacks in Iraq, where the PKK has bases and training camps in the Sinjar region and on the mountainous border with Turkey.\n\nTurkish President Recep Tayyip Erdogan, who has threatened to \"clean up\" parts of northern Iraq, accuses the PKK of using the border area as a springboard for its insurgency.\n\nIn December, Turkey carried out retaliatory air strikes in northern Iraq after three Turkish soldiers died in a PKK attack.\n\n© 2022 AFP"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:41:11+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:41:12+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250722025341id_/https://www.france24.com/en/live-news/20220202-turkey-strikes-kurd-targets-in-iraq-syria"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250722025341id_/https://www.france24.com/en/live-news/20220202-turkey-strikes-kurd-targets-in-iraq-syria",
   "incident_ids": [
     "airwars-81727",
     "airwars-81550"
@@ -87,10 +111,10 @@
     "https://www.france24.com/en/live-news/20220202-turkey-strikes-kurd-targets-in-iraq-syria"
   ],
   "original_url": "https://www.france24.com/en/live-news/20220202-turkey-strikes-kurd-targets-in-iraq-syria",
-  "page_title": "",
+  "page_title": "Turkey strikes Kurd targets in Iraq, Syria Turkey strikes Kurd targets in Iraq, Syria",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys123-february-2-2022/",
@@ -118,15 +142,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:41:12+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-630fdba6bb59f1a220ac6ad6",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.france24.com/en/live-news/20220202-turkey-strikes-kurd-targets-in-iraq-syria",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkey strikes Kurd targets in Iraq, Syria\n\nBeirut (AFP) – Turkey said Wednesday it launched deadly strikes against Kurdish targets in Iraq and Syria, where Kurd forces have been left reeling from the largest Islamic State group attack in nearly three years.\n\nIssued on: 02/02/2022 - 15:14Modified: 02/02/2022 - 15:12\n\nThe raids on Tuesday night targeted shelters, tunnels, caves, ammunition depots, bases and training camps operated by the outlawed Kurdistan Workers' Party (PKK) and the People's Protection Units (YPG) which Ankara views as terrorist groups, the Turkish defence ministry said.\n\nThe Syrian Observatory for Human Rights said the Syria strikes hit a Kurdish-run power station near the town of Al-Malikiyah in Hasakeh province, where a brazen jailbreak attempt by IS jihadists last month sparked days of clashes that have left hundreds dead.\n\n\"At least four people were killed in the strike targeting a power station near Al-Malikiyah,\" the Britain-based war monitor said, adding they were all security guards.\n\nLater on Wednesday, shelling on the Turkish-held city of Al-Bab in northern Syria killed eight people, including five civilians, according to the Observatory.\n\nThe war monitor didn't specify who was responsible but Kurdish forces and Syrian regime troops are both deployed in the region.\n\nIn northern Iraq's autonomous Kurdistan region, Turkish strikes on Tuesday hit PKK positions in the Makhmur and Sinjar regions, where bombardment caused \"human and material losses\", Kurdish authorities said, without specifying a casualty toll.\n\nAs part of the attack, which drew condemnation from Baghdad, Turkish \"military aircraft bombarded six PKK positions in the Karjokh mountains\", which overlook a camp for Kurdish refugees from Turkey, Kurdish counter-terrorism services said in a statement.\n\nA PKK-linked group that oversees management of the camp reported \"the death of two combatants and dozens of injuries among camp residents\".\n\nThe wounded were in stable condition, it said.\n\n'Take action'\n\nBlacklisted as a terrorist group by Ankara and its Western allies, the PKK has been waging an insurgency against the Turkish state since 1984.\n\nThe YPG -- which forms the backbone of the US-backed Syrian Democratic Forces (SDF) fighting IS in Syria -- is viewed by Ankara as the PKK's Syria offshoot.\n\nWashington relied heavily on the SDF to defeat IS jihadists who overran large swathes of Syria and neighbouring Iraq in 2014.\n\nThe SDF said 40 of its fighters as well as more than 70 prison guards and staff were killed in the week-long IS attack on Ghwayran jail.\n\nThe YPG condemned the latest Turkish strikes that came on the heels of IS's largest Syria operation since 2019.\n\n\"Turkey tries to continue what ISIS started,\" it said on Twitter, using a different acronym for IS.\n\n\"Everyone has to take action against this attack now.\"\n\nThe Turkish strike came hours after hundreds of mourners gathered in Al-Malikiyah for mass funerals honouring Kurdish fighters killed in a week of battles with IS jihadists who had attacked the Ghwayran jail on January 20.\n\nMourners in the Kurdish-majority city of Qamishli in Syria's northeastern Hasakeh province - AFP\n\nSince the start of its military intervention in Syria in 2016, Ankara has sporadically bombed the YPG and carried out military operations on the ground targeting IS and Kurdish forces.\n\nTurkey also routinely carries out attacks in Iraq, where the PKK has bases and training camps in the Sinjar region and on the mountainous border with Turkey.\n\nTurkish President Recep Tayyip Erdogan, who has threatened to \"clean up\" parts of northern Iraq, accuses the PKK of using the border area as a springboard for its insurgency.\n\nIn December, Turkey carried out retaliatory air strikes in northern Iraq after three Turkish soldiers died in a PKK attack.\n\n© 2022 AFP",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/NPw3B"
+    "https://archive.is/NPw3B",
+    "https://web.archive.org/web/20220325225903id_/https://nedaa-post.com/%D9%82%D8%B3%D8%AF-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-%D9%88%D8%AA%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D8%B3%D9%82%D9%88%D8%B7-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7/"
   ],
   "attempt_history": [
     {
@@ -67,12 +68,35 @@
   "author": "Nedaa Post",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ea5d147c3e6a24cd045d2c094b0937f9bf46897245525b6bd993e2cb9752e045",
+  "content_variants": [
+    {
+      "bytes": 790,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:56:30+00:00",
+      "sha256": "ea5d147c3e6a24cd045d2c094b0937f9bf46897245525b6bd993e2cb9752e045",
+      "source_url": "https://web.archive.org/web/20220325225903id_/https://nedaa-post.com/%D9%82%D8%B3%D8%AF-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-%D9%88%D8%AA%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D8%B3%D9%82%D9%88%D8%B7-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7/",
+      "text": "نداء بوست- أيهم الشيخ- حلب استهدفت ميليشيا \"قسد\" بالقذائف الصاروخية الأحياء المدنية في مدينة أعزاز شمال حلب، ما أدى إلى\n\nنداء بوست- أيهم الشيخ- حلب استهدفت ميليشيا “قسد” بالقذائف الصاروخية الأحياء المدنية في مدينة أعزاز شمال حلب، ما أدى إلى سقوط جرحى في صفوف المدنيين. وتسبَّب القصف في سقوط قتيل و6 جرحى ووقوع أضرار مادية في ممتلكات المدنيين كما طال القصف روضة للأطفال في المدينة، ولكن دون معلومات عن وقوع إصابات داخلها. وفي وقت سابق […]"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:56:28+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:56:30+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220325225903id_/https://nedaa-post.com/%D9%82%D8%B3%D8%AF-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-%D9%88%D8%AA%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D8%B3%D9%82%D9%88%D8%B7-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220325225903id_/https://nedaa-post.com/%D9%82%D8%B3%D8%AF-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-%D9%88%D8%AA%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D8%B3%D9%82%D9%88%D8%B7-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7/",
   "incident_ids": [
     "airwars-82486"
   ],
@@ -88,10 +112,10 @@
     "https://nedaa-post.com/%D9%82%D8%B3%D8%AF-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-%D9%88%D8%AA%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D8%B3%D9%82%D9%88%D8%B7-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7/"
   ],
   "original_url": "https://nedaa-post.com/%D9%82%D8%B3%D8%AF-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-%D9%88%D8%AA%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D8%B3%D9%82%D9%88%D8%B7-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7/",
-  "page_title": "",
+  "page_title": "قسد تستهدف بالصواريخ أحياء المدنيين في أعزاز وتتسبب بسقوط ضحايا قسد تستهدف بالصواريخ أحياء المدنيين في أعزاز وتتسبب بسقوط ضحايا قسد تستهدف بالصواريخ أحياء المدنيين في أعزاز وتتسبب بسقوط ضحايا - نداء بوست قسد تستهدف بالصواريخ أحياء المدنيين في أعزاز وتتسبب بسقوط ضحايا - نداء بوست",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys128-march-23-2022/",
@@ -111,15 +135,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:56:30+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f9b0790bfadd10df77c945d3",
   "source_type": "other_web_page",
   "stable_id_basis": "https://nedaa-post.com/%D9%82%D8%B3%D8%AF-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%A3%D8%B9%D8%B2%D8%A7%D8%B2-%D9%88%D8%AA%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D8%B3%D9%82%D9%88%D8%B7-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "نداء بوست- أيهم الشيخ- حلب استهدفت ميليشيا \"قسد\" بالقذائف الصاروخية الأحياء المدنية في مدينة أعزاز شمال حلب، ما أدى إلى\n\nنداء بوست- أيهم الشيخ- حلب استهدفت ميليشيا “قسد” بالقذائف الصاروخية الأحياء المدنية في مدينة أعزاز شمال حلب، ما أدى إلى سقوط جرحى في صفوف المدنيين. وتسبَّب القصف في سقوط قتيل و6 جرحى ووقوع أضرار مادية في ممتلكات المدنيين كما طال القصف روضة للأطفال في المدينة، ولكن دون معلومات عن وقوع إصابات داخلها. وفي وقت سابق […]",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/c1Gbf"
+    "https://archive.md/c1Gbf",
+    "https://web.archive.org/web/20240515182112id_/https://www.facebook.com/TV.ldilb/posts/451146029759045"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "TV.ldilb",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2d05a57c0b3cb526cebb2cb2a1eb10ba583d5219a0f2868b36898bbd9b6a2a18",
+  "content_variants": [
+    {
+      "bytes": 626,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:35:28+00:00",
+      "sha256": "2d05a57c0b3cb526cebb2cb2a1eb10ba583d5219a0f2868b36898bbd9b6a2a18",
+      "source_url": "https://web.archive.org/web/20240515182112id_/https://www.facebook.com/TV.ldilb/posts/451146029759045",
+      "text": "#عاجل\nالدفاع المدني السوري : إصابة 6 مدنيين من عائلة واحدة (4 أطفال ورجل وامرأة ) بقصف مدفعي من قبل قوات النظام وروسيا استهدف منزلهم في بلدة بنش شرقي...\n\n#عاجل\nالدفاع المدني السوري : إصابة 6 مدنيين من عائلة واحدة (4 أطفال ورجل وامرأة ) بقصف مدفعي من قبل قوات النظام وروسيا استهدف منزلهم في بلدة بنش شرقي إدلب اليوم الأربعاء 2 كانون الأول، كما تم استهداف..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:35:27+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:35:28+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515182112id_/https://www.facebook.com/TV.ldilb/posts/451146029759045"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515182112id_/https://www.facebook.com/TV.ldilb/posts/451146029759045",
   "incident_ids": [
     "airwars-80597"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/TV.ldilb/posts/451146029759045"
   ],
   "original_url": "https://www.facebook.com/TV.ldilb/posts/451146029759045",
-  "page_title": "",
+  "page_title": "تلفزيون إدلب Idlib TV تلفزيون إدلب Idlib TV #عاجل\nالدفاع المدني السوري :... - تلفزيون إدلب Idlib TV",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4675-december-2-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:35:28+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-365fe0ca4e54544de0936ea4",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/TV.ldilb/posts/451146029759045",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#عاجل\nالدفاع المدني السوري : إصابة 6 مدنيين من عائلة واحدة (4 أطفال ورجل وامرأة ) بقصف مدفعي من قبل قوات النظام وروسيا استهدف منزلهم في بلدة بنش شرقي...\n\n#عاجل\nالدفاع المدني السوري : إصابة 6 مدنيين من عائلة واحدة (4 أطفال ورجل وامرأة ) بقصف مدفعي من قبل قوات النظام وروسيا استهدف منزلهم في بلدة بنش شرقي إدلب اليوم الأربعاء 2 كانون الأول، كما تم استهداف...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

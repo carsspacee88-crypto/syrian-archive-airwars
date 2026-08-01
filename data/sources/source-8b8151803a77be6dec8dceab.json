@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/IAhYu"
+    "https://archive.is/IAhYu",
+    "https://web.archive.org/web/20240223231431id_/https://anfarabic.com/akhr-l-khbr/s-86441"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF Arabic",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f7ab0ed2341408b47126fbbd1e4b80a2b68dca7378dce749105aab43d753e582",
+  "content_variants": [
+    {
+      "bytes": 898,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:43:58+00:00",
+      "sha256": "f7ab0ed2341408b47126fbbd1e4b80a2b68dca7378dce749105aab43d753e582",
+      "source_url": "https://web.archive.org/web/20240223231431id_/https://anfarabic.com/akhr-l-khbr/s-86441",
+      "text": "استشهاد طفل وإصابة اثنين بينهم شاب في قصف للاحتلال التركي في شرا\n\nاستشهد طفل وأصيب آخر وشاب نتيجة لقصف الاحتلال التركي على قرية تنب بناحية شرا في مقاطعة عفرين المحتلة.\n\nوكالة فرات\n\nالشهباء\n\nالأحد, ٢٥ ديسمبر ٢٠٢٢, ١٦:١٧\n\nاستهدف الاحتلال التركي قرية تنب بالقذائف المدفعية مما أدى إلى استشهاد طفل وإصابة آخر وشاب من أقارب الطفل الشهيد. كما أسفر القصف عن أضرار مادية.\n\nوقد تم توثيق اسماء الشهيد والمصابين:\n\nالشهيد هو أسعد محاميد (16 عاماً).\n\nأما المصابين فهما: خالد الشيخ طه (16 عاماً)، وأحمد محاميد (18 عاماً)."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:43:55+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:43:58+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240223231431id_/https://anfarabic.com/akhr-l-khbr/s-86441"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240223231431id_/https://anfarabic.com/akhr-l-khbr/s-86441",
   "incident_ids": [
     "airwars-86358"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/akhr-l-khbr/s-86441"
   ],
   "original_url": "https://anfarabic.com/akhr-l-khbr/s-86441",
-  "page_title": "",
+  "page_title": "ANF | استشهاد طفل وإصابة اثنين بينهم شاب في قصف للاحتلال التركي في شرا استشهاد طفل وإصابة اثنين بينهم شاب في قصف للاحتلال التركي في شرا استشهاد طفل وإصابة اثنين بينهم شاب في قصف للاحتلال التركي في شرا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts583-december-25-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:43:58+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-8b8151803a77be6dec8dceab",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfarabic.com/akhr-l-khbr/s-86441",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "استشهاد طفل وإصابة اثنين بينهم شاب في قصف للاحتلال التركي في شرا\n\nاستشهد طفل وأصيب آخر وشاب نتيجة لقصف الاحتلال التركي على قرية تنب بناحية شرا في مقاطعة عفرين المحتلة.\n\nوكالة فرات\n\nالشهباء\n\nالأحد, ٢٥ ديسمبر ٢٠٢٢, ١٦:١٧\n\nاستهدف الاحتلال التركي قرية تنب بالقذائف المدفعية مما أدى إلى استشهاد طفل وإصابة آخر وشاب من أقارب الطفل الشهيد. كما أسفر القصف عن أضرار مادية.\n\nوقد تم توثيق اسماء الشهيد والمصابين:\n\nالشهيد هو أسعد محاميد (16 عاماً).\n\nأما المصابين فهما: خالد الشيخ طه (16 عاماً)، وأحمد محاميد (18 عاماً).",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

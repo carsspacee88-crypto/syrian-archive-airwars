@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/vwkM2"
+    "https://archive.is/vwkM2",
+    "https://web.archive.org/web/20241206125100id_/https://sdf-press.com/en/2022/01/statement-by-the-sdf-media-centre-regarding-the-so-called-caliphate-cubs/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SDF Press",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f6c2443c0e4445bc5da5641c4d48ee5ca3a99563d0eb550df06e27b4a7a67e5a",
+  "content_variants": [
+    {
+      "bytes": 3970,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:34:33+00:00",
+      "sha256": "f6c2443c0e4445bc5da5641c4d48ee5ca3a99563d0eb550df06e27b4a7a67e5a",
+      "source_url": "https://web.archive.org/web/20241206125100id_/https://sdf-press.com/en/2022/01/statement-by-the-sdf-media-centre-regarding-the-so-called-caliphate-cubs/",
+      "text": "Statement by the SDF Media Centre regarding the so-called “Caliphate Cubs”\n\nTo the media and public opinion\n\nThe SDF received with great interest the statement issued by UNICEF on 25 January 2022 regarding the status of children known as “Caliphate Cubs” detained during military operations against the ISIS terrorist organization. While the SDF General Command welcomes the statement, it highlights several facts that should not be neglected in the course of the statement.\n\nThe SDF was forced to detain these children (Caliphate Cubs) for their own safety and the safety of the community as well, as a crucial interim measure until a proper solution is found to deal with this issue.\n\nChildren (Caliphate Cubs) have been separated from adults ISIS fighters in special dormitories on the recommendations of the United Nations, and our forces have sent detailed databases of the detained children. Based on these recommendations, our forces have facilitated the access of all humanitarian agencies and organizations that could support the children and set rehabilitation programs to get the correctional justice procedures.\n\nOur forces have treated children as primary victims and reiterate their commitment to all conventions and covenants on the protection of children despite the involvement of these children in direct military actions and receiving extremist military and ideological training within ISIS. In May 2021, our forces implemented a series of measures and procedures for children associated with ISIS that comply with UN standards for the protection of children.\n\nOn more than one occasion, our forces have officially called on the United Nations and the international community to assume their responsibilities regarding this case and to search for genuine solutions by repatriating non-Syrian children, rehabilitating them, integrating them into their communities, and ensuring their rights to a normal childhood. Our forces have called on the international community and humanitarian organizations to provide adequate support for the Autonomous Administration of north and eastern Syria to construct and equip rehabilitation centers for Syrian and foreign children until they return home, but these calls fell on deaf ears. In this regard, the Autonomous Administration of north and eastern Syria has handed over many children to their countries’ representatives so far.\n\nThe United Nations and the majority of Member States, primarily those with nationals associated with the terrorist organization of ISIS, ignored the case of their detained nationals in the north and eastern Syria and failed to meet their moral and legal obligations, leaving the Autonomous Administration of north and eastern Syria to bear the burden of the legacy of ISIS terrorism over the years beyond its limited means and capacity.\n\nBased on the above facts, the SDF calls on the United Nations to earnestly and effectively urge countries who have ISIS-associates nationals detained in the north and eastern Syria to accelerate the pace of their repatriation, primarily children and women. We also call on the UNICEF and humanitarian organizations to provide, through a clear action plan, sustainable support to the Autonomous Administration to construct rehabilitation centers that meet humanitarian and international standards, away from the detention environment.\n\nSDF Media Centre\n\nJanuary 26, 2022\n\nPrev Post\n\nWe recall with reverence the martyrs of the Peoples’ Hammer operation\n\nNext Post\n\nWe recall with all due respect and reverence the martyrs of the Peoples’ Hammer operation who spared humanity serious threats\n\nUpdate – Our SDF forces are taking effective measures to stop the expansion of ISIS\n\nUpdate | Large-Scale Kidnapping Campaign by Turkish-Backed Mercenaries in…\n\nSeveral Turkish-backed mercenaries eliminated in Clashes south of Manbij and Tabqa\n\nStatement on The Recent Situations in Villages East of Deir Ezzor\n\nComments are closed."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:34:33+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:34:33+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241206125100id_/https://sdf-press.com/en/2022/01/statement-by-the-sdf-media-centre-regarding-the-so-called-caliphate-cubs/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241206125100id_/https://sdf-press.com/en/2022/01/statement-by-the-sdf-media-centre-regarding-the-so-called-caliphate-cubs/",
   "incident_ids": [
     "airwars-81424"
   ],
@@ -85,10 +109,10 @@
     "https://sdf-press.com/en/2022/01/statement-by-the-sdf-media-centre-regarding-the-so-called-caliphate-cubs/"
   ],
   "original_url": "https://sdf-press.com/en/2022/01/statement-by-the-sdf-media-centre-regarding-the-so-called-caliphate-cubs/",
-  "page_title": "",
+  "page_title": "Statement by the SDF Media Centre regarding the so-called “Caliphate Cubs” Statement by the SDF Media Centre regarding the so-called “Caliphate Cubs” Statement by the SDF Media Centre regarding the so-called “Caliphate Cubs”",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1976-january-20-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:34:33+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-2b451e2279b531c10cccd530",
   "source_type": "news_article",
   "stable_id_basis": "https://sdf-press.com/en/2022/01/statement-by-the-sdf-media-centre-regarding-the-so-called-caliphate-cubs/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Statement by the SDF Media Centre regarding the so-called “Caliphate Cubs”\n\nTo the media and public opinion\n\nThe SDF received with great interest the statement issued by UNICEF on 25 January 2022 regarding the status of children known as “Caliphate Cubs” detained during military operations against the ISIS terrorist organization. While the SDF General Command welcomes the statement, it highlights several facts that should not be neglected in the course of the statement.\n\nThe SDF was forced to detain these children (Caliphate Cubs) for their own safety and the safety of the community as well, as a crucial interim measure until a proper solution is found to deal with this issue.\n\nChildren (Caliphate Cubs) have been separated from adults ISIS fighters in special dormitories on the recommendations of the United Nations, and our forces have sent detailed databases of the detained children. Based on these recommendations, our forces have facilitated the access of all humanitarian agencies and organizations that could support the children and set rehabilitation programs to get the correctional justice procedures.\n\nOur forces have treated children as primary victims and reiterate their commitment to all conventions and covenants on the protection of children despite the involvement of these children in direct military actions and receiving extremist military and ideological training within ISIS. In May 2021, our forces implemented a series of measures and procedures for children associated with ISIS that comply with UN standards for the protection of children.\n\nOn more than one occasion, our forces have officially called on the United Nations and the international community to assume their responsibilities regarding this case and to search for genuine solutions by repatriating non-Syrian children, rehabilitating them, integrating them into their communities, and ensuring their rights to a normal childhood. Our forces have called on the international community and humanitarian organizations to provide adequate support for the Autonomous Administration of north and eastern Syria to construct and equip rehabilitation centers for Syrian and foreign children until they return home, but these calls fell on deaf ears. In this regard, the Autonomous Administration of north and eastern Syria has handed over many children to their countries’ representatives so far.\n\nThe United Nations and the majority of Member States, primarily those with nationals associated with the terrorist organization of ISIS, ignored the case of their detained nationals in the north and eastern Syria and failed to meet their moral and legal obligations, leaving the Autonomous Administration of north and eastern Syria to bear the burden of the legacy of ISIS terrorism over the years beyond its limited means and capacity.\n\nBased on the above facts, the SDF calls on the United Nations to earnestly and effectively urge countries who have ISIS-associates nationals detained in the north and eastern Syria to accelerate the pace of their repatriation, primarily children and women. We also call on the UNICEF and humanitarian organizations to provide, through a clear action plan, sustainable support to the Autonomous Administration to construct rehabilitation centers that meet humanitarian and international standards, away from the detention environment.\n\nSDF Media Centre\n\nJanuary 26, 2022\n\nPrev Post\n\nWe recall with reverence the martyrs of the Peoples’ Hammer operation\n\nNext Post\n\nWe recall with all due respect and reverence the martyrs of the Peoples’ Hammer operation who spared humanity serious threats\n\nUpdate – Our SDF forces are taking effective measures to stop the expansion of ISIS\n\nUpdate | Large-Scale Kidnapping Campaign by Turkish-Backed Mercenaries in…\n\nSeveral Turkish-backed mercenaries eliminated in Clashes south of Manbij and Tabqa\n\nStatement on The Recent Situations in Villages East of Deir Ezzor\n\nComments are closed.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/reMWR"
+    "https://archive.md/reMWR",
+    "https://web.archive.org/web/20251028031318id_/https://watan.fm/news/syria-news/165108"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Watan FM",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "e6f89335820a68f766719cb9a2dd8ff1add63f8ed54d99184871f4e8c50757d3",
+  "content_variants": [
+    {
+      "bytes": 1284,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:55:05+00:00",
+      "sha256": "e6f89335820a68f766719cb9a2dd8ff1add63f8ed54d99184871f4e8c50757d3",
+      "source_url": "https://web.archive.org/web/20251028031318id_/https://watan.fm/news/syria-news/165108",
+      "text": "سقط ضحايا أطفال جراء انفجار قنبلة في ريف جرابلس شمال شرقي حلب، اليوم الثلاثاء 2 تشرين الثاني.\n\nوقال مراسل وطن إف إم، إن طفلتين قُتلتا وأصيب 4 أطفال آخرون جميعهم من عائلة واحدة، جراء انفجار قنبلة كانوا يلعبون بها في قرية قرف مغار في منطقة جرابلس.\n\nوتعاني العديد من مناطق الشمال السوري من انفجارات مماثلة تودي بحياة الأطفال على وجه الخصوص.\n\nوكانت فرق الدفاع المدني السوري دعت في وقت سابق إلى عدم الاقتراب من الأجسام المجهولة ومخلفات القصف الذي تعرضت له المنطقة، وطالبت المدنيين بالتبليغ عنها لإزالتها.\n\nليصلك كل جديد\n\nتنقل بضائع التجار.. ضباط مطار دمشق الدولي يتاجرون برحلات طائرات \"اليوشن\" العسكرية\n\nرفع تسعيرة الحلاقة الرجالية والنسائية في دمشق.. وكلفة تجهيز العروس تصل إلى 1.5 مليون ليرة\n\nاترك تعليقاً إلغاء الرد"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:55:04+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:55:05+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251028031318id_/https://watan.fm/news/syria-news/165108"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251028031318id_/https://watan.fm/news/syria-news/165108",
   "incident_ids": [
     "airwars-79967"
   ],
@@ -85,10 +109,10 @@
     "https://watan.fm/news/syria-news/165108"
   ],
   "original_url": "https://watan.fm/news/syria-news/165108",
-  "page_title": "",
+  "page_title": "انفجار قنبلة يوقع 6 أطفال بين قتيل وجريح في جرابلس بريف حلب | وطن إف إم - WATAN FM انفجار قنبلة يوقع 6 أطفال بين قتيل وجريح في جرابلس بريف حلب | وطن إف إم - WATAN FM",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys119-november-2-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:55:05+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f3b758f9a19b6ca6fa61dd70",
   "source_type": "other_web_page",
   "stable_id_basis": "https://watan.fm/news/syria-news/165108",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "سقط ضحايا أطفال جراء انفجار قنبلة في ريف جرابلس شمال شرقي حلب، اليوم الثلاثاء 2 تشرين الثاني.\n\nوقال مراسل وطن إف إم، إن طفلتين قُتلتا وأصيب 4 أطفال آخرون جميعهم من عائلة واحدة، جراء انفجار قنبلة كانوا يلعبون بها في قرية قرف مغار في منطقة جرابلس.\n\nوتعاني العديد من مناطق الشمال السوري من انفجارات مماثلة تودي بحياة الأطفال على وجه الخصوص.\n\nوكانت فرق الدفاع المدني السوري دعت في وقت سابق إلى عدم الاقتراب من الأجسام المجهولة ومخلفات القصف الذي تعرضت له المنطقة، وطالبت المدنيين بالتبليغ عنها لإزالتها.\n\nليصلك كل جديد\n\nتنقل بضائع التجار.. ضباط مطار دمشق الدولي يتاجرون برحلات طائرات \"اليوشن\" العسكرية\n\nرفع تسعيرة الحلاقة الرجالية والنسائية في دمشق.. وكلفة تجهيز العروس تصل إلى 1.5 مليون ليرة\n\nاترك تعليقاً إلغاء الرد",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

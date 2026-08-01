@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/KhHB9"
+    "https://archive.is/KhHB9",
+    "https://web.archive.org/web/20260215074655id_/https://shaam.org/news/syria-news/rdaan-ala-asthdaf-almdnyyn-th-ryr-alsh-am-tonaln-asthdaf-alqrdahh-wdk-nbl-walzhraa"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Sham News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "a517b6559b120b780f0097a01e7ad234cf712ea959d38ef31f9c3bceba14c2ca",
+  "content_variants": [
+    {
+      "bytes": 2433,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:32:34+00:00",
+      "sha256": "a517b6559b120b780f0097a01e7ad234cf712ea959d38ef31f9c3bceba14c2ca",
+      "source_url": "https://web.archive.org/web/20260215074655id_/https://shaam.org/news/syria-news/rdaan-ala-asthdaf-almdnyyn-th-ryr-alsh-am-tonaln-asthdaf-alqrdahh-wdk-nbl-walzhraa",
+      "text": "رداً على استهداف المدنيين.. \"تحـ ـرير الشـ ـام\" تٌعلن استهداف القرداحة ودك نبل والزهراء\n\nرداً على استهداف المدنيين.. \"تحـ ـرير الشـ ـام\" تٌعلن استهداف القرداحة ودك نبل والزهراء\n\nأعلنت \"هيئة تحرير الشام\"، استهداف مواقع النظام والميليشيات الإيرانية في أرياف حلب وحماة وإدلب، رداً على التصعيد المقابل باستهداف مدينة إدلب وبلدات ريف حلب الغربي، والتي خلفت ضحايا بين المدنيين.\n\nوقالت معرفات الهيئة، إن أفواج المدفعية والصواريخ، استهدفت تجمعات قوات الأسد في قرية \"شطحة\" بسهل الغاب شمال غرب حماة بصواريخ الغراد، كما استهدفت مواقع الميليشيات الإيرانية في بلدتي نبل والزهراء في ريف حلب الشمالي، وذلك ردَّاً على استهداف مدينة إدلب.\n\nوطالت ضربات \"هيئة تحرير الشام\" بصواريخ الغراد تجمعات ميليشيات النظام في مدينة القرداحة بريف اللاذقية الشمالي، وفي بلدة جورين في ريف حماة الشمالي الغربي.\n\nوباتت قوات الأسد والميليشيات الإيرانية غربي حلب تحديداً، تتبع سياسة استهداف مراكز المدن الرئيسية عبر القصف المدفعي والصاروخي المتتابع، لاسيما مدن إدلب وسرمين ودارة عزة والأتارب، ارتكبت فيها العديد من المجازر، وطال القصف المراكز المدنية الحيوية.\n\nويرى مراقبون، أن سياسة القصف والقصف المضاد باتت السائدة في الفترة الأخيرة في مناطق شمال غربي سوريا، وأن الفصائل استطاعت تحقيق ردع نسبي في مواجهة غطرسة قوات الأسد والميليشيات المساندة لها، والتي عززت مرابض مدفعيتها وراجماتها خلال الأشهر الأخيرة، في نية مبيتة لمواصلة ضرب المنطقة وخلق حالة من عدم الاستقرار فيها."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:32:34+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:32:34+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260215074655id_/https://shaam.org/news/syria-news/rdaan-ala-asthdaf-almdnyyn-th-ryr-alsh-am-tonaln-asthdaf-alqrdahh-wdk-nbl-walzhraa"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260215074655id_/https://shaam.org/news/syria-news/rdaan-ala-asthdaf-almdnyyn-th-ryr-alsh-am-tonaln-asthdaf-alqrdahh-wdk-nbl-walzhraa",
   "incident_ids": [
     "airwars-104081"
   ],
@@ -85,10 +109,10 @@
     "https://shaam.org/news/syria-news/rdaan-ala-asthdaf-almdnyyn-th-ryr-alsh-am-tonaln-asthdaf-alqrdahh-wdk-nbl-walzhraa"
   ],
   "original_url": "https://shaam.org/news/syria-news/rdaan-ala-asthdaf-almdnyyn-th-ryr-alsh-am-tonaln-asthdaf-alqrdahh-wdk-nbl-walzhraa",
-  "page_title": "",
+  "page_title": "رداً على استهداف المدنيين.. \"تحـ ـرير الشـ ـام\" تٌعلن استهداف القرداحة ودك نبل والزهراء | شبكة شام الإخبارية رداً على استهداف المدنيين.. \"تحـ ـرير الشـ ـام\" تٌعلن استهداف القرداحة ودك نبل والزهراء رداً على استهداف المدنيين.. \"تحـ ـرير الشـ ـام\" تٌعلن استهداف القرداحة ودك نبل والزهراء",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts676-january-1-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:32:34+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-1bbc559b424e64aec0f5bbbd",
   "source_type": "news_article",
   "stable_id_basis": "https://shaam.org/news/syria-news/rdaan-ala-asthdaf-almdnyyn-th-ryr-alsh-am-tonaln-asthdaf-alqrdahh-wdk-nbl-walzhraa",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "رداً على استهداف المدنيين.. \"تحـ ـرير الشـ ـام\" تٌعلن استهداف القرداحة ودك نبل والزهراء\n\nرداً على استهداف المدنيين.. \"تحـ ـرير الشـ ـام\" تٌعلن استهداف القرداحة ودك نبل والزهراء\n\nأعلنت \"هيئة تحرير الشام\"، استهداف مواقع النظام والميليشيات الإيرانية في أرياف حلب وحماة وإدلب، رداً على التصعيد المقابل باستهداف مدينة إدلب وبلدات ريف حلب الغربي، والتي خلفت ضحايا بين المدنيين.\n\nوقالت معرفات الهيئة، إن أفواج المدفعية والصواريخ، استهدفت تجمعات قوات الأسد في قرية \"شطحة\" بسهل الغاب شمال غرب حماة بصواريخ الغراد، كما استهدفت مواقع الميليشيات الإيرانية في بلدتي نبل والزهراء في ريف حلب الشمالي، وذلك ردَّاً على استهداف مدينة إدلب.\n\nوطالت ضربات \"هيئة تحرير الشام\" بصواريخ الغراد تجمعات ميليشيات النظام في مدينة القرداحة بريف اللاذقية الشمالي، وفي بلدة جورين في ريف حماة الشمالي الغربي.\n\nوباتت قوات الأسد والميليشيات الإيرانية غربي حلب تحديداً، تتبع سياسة استهداف مراكز المدن الرئيسية عبر القصف المدفعي والصاروخي المتتابع، لاسيما مدن إدلب وسرمين ودارة عزة والأتارب، ارتكبت فيها العديد من المجازر، وطال القصف المراكز المدنية الحيوية.\n\nويرى مراقبون، أن سياسة القصف والقصف المضاد باتت السائدة في الفترة الأخيرة في مناطق شمال غربي سوريا، وأن الفصائل استطاعت تحقيق ردع نسبي في مواجهة غطرسة قوات الأسد والميليشيات المساندة لها، والتي عززت مرابض مدفعيتها وراجماتها خلال الأشهر الأخيرة، في نية مبيتة لمواصلة ضرب المنطقة وخلق حالة من عدم الاستقرار فيها.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

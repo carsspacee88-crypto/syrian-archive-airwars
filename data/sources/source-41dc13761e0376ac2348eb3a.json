@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/rh8WG"
+    "https://archive.is/rh8WG",
+    "https://web.archive.org/web/20230805210755id_/https://www.gerceknews.com/regional-news/turkish-shelling-in-northern-syria-results-in-many-civilian-injuries-220931h"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Gercek News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1c680b28831b8eeec263749d33e432db06458535875b73aa4fa7652043e3391b",
+  "content_variants": [
+    {
+      "bytes": 1292,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:36:58+00:00",
+      "sha256": "1c680b28831b8eeec263749d33e432db06458535875b73aa4fa7652043e3391b",
+      "source_url": "https://web.archive.org/web/20230805210755id_/https://www.gerceknews.com/regional-news/turkish-shelling-in-northern-syria-results-in-many-civilian-injuries-220931h",
+      "text": "Turkish shelling in northern Syria results in many civilian injuries\n\nAt least five civilians were injured on Thursday in northern Syria by the artillery fire of the Turkish military and its proxies, according to a report by Syrian Observatory for Human Rights (SOHR).\n\nThe shelling targeted several villages in Al-Hasakah province, including the villages of Aboush and Al-Sheikh near the town of Tel Tamr, originally built and inhabited by Assyrians and currently under the control of Kurdish-led Syrian Democratic Forces (SDF).\n\nOn Sunday, three civilians were injured by Turkish shelling in the village of Tel al-Laban, southwest of Tel Tamr.\n\nTel Tamr, which has a population of about 25,000 and is some 30 km from the Syrian-Turkish border, is of strategic importance as it is a junction on the M4 Highway linking Al-Hasakah to Aleppo province in the northwest.\n\nThe town has been under constant attacks by Turkish forces and their affiliates that operate under the flag of \"Syrian National Army\" (SNA) for more than two years.\n\nParts of the northern and western countrysides of Tel Tamr and the entire southern countryside are defended by the Syriac Military Council and the Assyrian Khabour Guards Forces, both part of SDF, while SNA controls the northern countryside bordering Turkey."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:36:58+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:36:58+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230805210755id_/https://www.gerceknews.com/regional-news/turkish-shelling-in-northern-syria-results-in-many-civilian-injuries-220931h"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230805210755id_/https://www.gerceknews.com/regional-news/turkish-shelling-in-northern-syria-results-in-many-civilian-injuries-220931h",
   "incident_ids": [
     "airwars-92606"
   ],
@@ -85,10 +109,10 @@
     "https://www.gerceknews.com/regional-news/turkish-shelling-in-northern-syria-results-in-many-civilian-injuries-220931h"
   ],
   "original_url": "https://www.gerceknews.com/regional-news/turkish-shelling-in-northern-syria-results-in-many-civilian-injuries-220931h",
-  "page_title": "",
+  "page_title": "Turkish shelling in northern Syria results in many civilian injuries Turkish shelling in northern Syria results in many civilian injuries Turkish shelling in northern Syria results in many civilian injuries",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts620-august-3-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:36:58+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-41dc13761e0376ac2348eb3a",
   "source_type": "news_article",
   "stable_id_basis": "https://www.gerceknews.com/regional-news/turkish-shelling-in-northern-syria-results-in-many-civilian-injuries-220931h",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish shelling in northern Syria results in many civilian injuries\n\nAt least five civilians were injured on Thursday in northern Syria by the artillery fire of the Turkish military and its proxies, according to a report by Syrian Observatory for Human Rights (SOHR).\n\nThe shelling targeted several villages in Al-Hasakah province, including the villages of Aboush and Al-Sheikh near the town of Tel Tamr, originally built and inhabited by Assyrians and currently under the control of Kurdish-led Syrian Democratic Forces (SDF).\n\nOn Sunday, three civilians were injured by Turkish shelling in the village of Tel al-Laban, southwest of Tel Tamr.\n\nTel Tamr, which has a population of about 25,000 and is some 30 km from the Syrian-Turkish border, is of strategic importance as it is a junction on the M4 Highway linking Al-Hasakah to Aleppo province in the northwest.\n\nThe town has been under constant attacks by Turkish forces and their affiliates that operate under the flag of \"Syrian National Army\" (SNA) for more than two years.\n\nParts of the northern and western countrysides of Tel Tamr and the entire southern countryside are defended by the Syriac Military Council and the Assyrian Khabour Guards Forces, both part of SDF, while SNA controls the northern countryside bordering Turkey.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

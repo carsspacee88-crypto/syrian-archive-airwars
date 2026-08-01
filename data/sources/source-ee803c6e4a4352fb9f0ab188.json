@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/oQOT6"
+    "https://archive.is/oQOT6",
+    "https://web.archive.org/web/20241215180809id_/https://npasyria.com/en/77500/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8fb5e11551b3b26fe66271efda3b6dec0e0bee82027fa05f6c5b5b42dfe827f1",
+  "content_variants": [
+    {
+      "bytes": 1440,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:54:29+00:00",
+      "sha256": "8fb5e11551b3b26fe66271efda3b6dec0e0bee82027fa05f6c5b5b42dfe827f1",
+      "source_url": "https://web.archive.org/web/20241215180809id_/https://npasyria.com/en/77500/",
+      "text": "Turkish drone wounds civilians in Syria’s Kobani\n\nDestruction left by Turkish shelling of a shop in Kobani – North Press/archive\n\nKOBANI, Syria (North Press) – The co-chair of the Interior Board of Kobani, Bozan Khalil said on Wednesday that civilians were wounded in a Turkish drone attack against the southern and western outskirts of the city center of Kobani, north Syria.\n\nThe Turkish drone targeted at first a civil car on Aleppo-Kobani Highway south of Kobani and then hit the western outskirts of the city, Khalil told North Press.\n\nAt the first attack on Aleppo-Kobani Highway, civilians were wounded, while only material losses were caused in the second, according to Khalil.\n\nMeanwhile, Khalil did not elaborated about the number of the wounded or to where they were transferred.\n\nThe attack triggers panic and fear among residents of the city.\n\nOn April 22, a civilian sustained minor injuries and shops sustained destruction in a Turkish shelling hit the city center of Kobani.\n\nKobani and the surrounding villages endure Turkish shelling successively causing fatalities mostly civilians although a Russian-Turkish ceasefire agreement has been in place since 2019.\n\nFollowing the Peace Spring Turkish military operation against Sere Kaniye and Tel Abyad in 2019, Turkey signed two agreements one was with Russia and the other was with the US stipulating a cessation of hostilities in the region.\n\nReporting by Fattah Issa"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:54:28+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:54:29+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241215180809id_/https://npasyria.com/en/77500/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241215180809id_/https://npasyria.com/en/77500/",
   "incident_ids": [
     "airwars-83588"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/77500/"
   ],
   "original_url": "https://npasyria.com/en/77500/",
-  "page_title": "",
+  "page_title": "Turkish drone wounds civilians in Syria’s Kobani Turkish drone wounds civilians in Syria’s Kobani Turkish drone wounds civilians in Syria’s Kobani Turkish drone wounds civilians in Syria’s Kobani - North press agency Turkish drone wounds civilians in Syria’s Kobani - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts505-may-11-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:54:29+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-ee803c6e4a4352fb9f0ab188",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/77500/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish drone wounds civilians in Syria’s Kobani\n\nDestruction left by Turkish shelling of a shop in Kobani – North Press/archive\n\nKOBANI, Syria (North Press) – The co-chair of the Interior Board of Kobani, Bozan Khalil said on Wednesday that civilians were wounded in a Turkish drone attack against the southern and western outskirts of the city center of Kobani, north Syria.\n\nThe Turkish drone targeted at first a civil car on Aleppo-Kobani Highway south of Kobani and then hit the western outskirts of the city, Khalil told North Press.\n\nAt the first attack on Aleppo-Kobani Highway, civilians were wounded, while only material losses were caused in the second, according to Khalil.\n\nMeanwhile, Khalil did not elaborated about the number of the wounded or to where they were transferred.\n\nThe attack triggers panic and fear among residents of the city.\n\nOn April 22, a civilian sustained minor injuries and shops sustained destruction in a Turkish shelling hit the city center of Kobani.\n\nKobani and the surrounding villages endure Turkish shelling successively causing fatalities mostly civilians although a Russian-Turkish ceasefire agreement has been in place since 2019.\n\nFollowing the Peace Spring Turkish military operation against Sere Kaniye and Tel Abyad in 2019, Turkey signed two agreements one was with Russia and the other was with the US stipulating a cessation of hostilities in the region.\n\nReporting by Fattah Issa",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

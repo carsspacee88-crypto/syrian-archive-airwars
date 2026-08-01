@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/6lIiE"
+    "https://archive.is/6lIiE",
+    "https://web.archive.org/web/20220120161553id_/https://twitter.com/Almohrar1/status/1484196682959134722"
   ],
   "attempt_history": [
     {
@@ -105,12 +106,35 @@
   "author": "'@Almohrar1",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "48d740718a5b05e8458be88b34bdfc8c89b632d97f5f3c06d9687e22baa756fa",
+  "content_variants": [
+    {
+      "bytes": 501,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:48:39+00:00",
+      "sha256": "48d740718a5b05e8458be88b34bdfc8c89b632d97f5f3c06d9687e22baa756fa",
+      "source_url": "https://web.archive.org/web/20220120161553id_/https://twitter.com/Almohrar1/status/1484196682959134722",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nإرتفاع حصيلة مجزرة #عفرين إلى 6 شهداء بينهم 3 أطفال وامرأة و26 إصابة بينهم 10 أطفال و7 نساء جراء قصف صاروخي من قبل ميليشيات #قسد على المدينةpic.twitter.com/I6k1PfsWGl\n\n2 Retweets\n\n4 Likes\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "no_archive_capture",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:48:38+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:48:39+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220120161553id_/https://twitter.com/Almohrar1/status/1484196682959134722"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220120161553id_/https://twitter.com/Almohrar1/status/1484196682959134722",
   "incident_ids": [
     "airwars-81349"
   ],
@@ -126,10 +150,10 @@
     "https://twitter.com/Almohrar1/status/1484196682959134722"
   ],
   "original_url": "https://twitter.com/Almohrar1/status/1484196682959134722",
-  "page_title": "",
+  "page_title": "المحرر لحظة بلحظة on Twitter: \"إرتفاع حصيلة مجزرة #عفرين إلى 6 شهداء بينهم 3 أطفال وامرأة و26 إصابة بينهم 10 أطفال و7 نساء جراء قصف صاروخي من قبل ميليشيات #قسد على المدينة… https://t.co/5aBXczHCR6\" المحرر لحظة بلحظة on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys122-january-20-2022/",
@@ -149,16 +173,16 @@
     "reason": "no_archive_capture",
     "status": "deferred"
   },
-  "retrieval_status": "no_archive_capture",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:48:39+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-bba05ae3a675dd3359aee568",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/Almohrar1/status/1484196682959134722",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nإرتفاع حصيلة مجزرة #عفرين إلى 6 شهداء بينهم 3 أطفال وامرأة و26 إصابة بينهم 10 أطفال و7 نساء جراء قصف صاروخي من قبل ميليشيات #قسد على المدينةpic.twitter.com/I6k1PfsWGl\n\n2 Retweets\n\n4 Likes\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "und",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/7K6TP"
+    "https://archive.md/7K6TP",
+    "https://web.archive.org/web/20211213081548id_/https://twitter.com/DeirEzzorNow/status/1470305143941996549"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@DeirEzzorNow",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "44fe595120021afd93c13e0ace4559131a20fd01f2c0261fff3ef0c391d52900",
+  "content_variants": [
+    {
+      "bytes": 1870,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:36:56+00:00",
+      "sha256": "44fe595120021afd93c13e0ace4559131a20fd01f2c0261fff3ef0c391d52900",
+      "source_url": "https://web.archive.org/web/20211213081548id_/https://twitter.com/DeirEzzorNow/status/1470305143941996549",
+      "text": "Deir Ezzore Now‏ @DeirEzzorNow\n\n10h10 hours ago\n\nMore\n\nCopy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\n#ديرالزور #البصيرة\n\nيحدث الان عملية انزال للتحالف الدولي في مدينة البصيرة، بمساندة من قوات HAT التابعة لــ #قسد .\n\n1 reply\n\n1 retweet\n\n7 likes\n\nReply\n\n1\n\nRetweet\n\n1\n\nRetweeted\n\n1\n\nLike\n\n7\n\nLiked\n\n7\n\nShow this thread\n\nCopy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\n#ديرالزور #البصيرة\n\nيحدث الان عملية انزال للتحالف الدولي في مدينة البصيرة، بمساندة من قوات HAT التابعة لــ #قسد .\n\nDeir Ezzore Now‏ @DeirEzzorNow\n\n7m7 minutes ago\n\nMore\n\nCopy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\n#البصيرة #متابعة\n\nمقتل (3) اشخاص برصاص التحالف و #قسد اثناء عملية الانزال الليلة الماضية في بلدة ابريهه التابعة لــ البصيرة.\n\n1 reply\n\n1 retweet\n\n0 likes\n\nReply\n\n1\n\nRetweet\n\n1\n\nRetweeted\n\n1\n\nLike\n\nLiked\n\nShow this thread\n\nCopy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\n#البصيرة #متابعة\n\nمقتل (3) اشخاص برصاص التحالف و #قسد اثناء عملية الانزال الليلة الماضية في بلدة ابريهه التابعة لــ البصيرة.\n\nCopy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\nفي انزال مدينة البصيرة الليلة الماضية اعتقلت #قسد والتحالف (8) اشخاص من شارع العشرين في المدينة.\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:36:55+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:36:56+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211213081548id_/https://twitter.com/DeirEzzorNow/status/1470305143941996549"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211213081548id_/https://twitter.com/DeirEzzorNow/status/1470305143941996549",
   "incident_ids": [
     "airwars-80656"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/DeirEzzorNow/status/1470305143941996549"
   ],
   "original_url": "https://twitter.com/DeirEzzorNow/status/1470305143941996549",
-  "page_title": "",
+  "page_title": "Deir Ezzore Now on Twitter: \"في انزال مدينة البصيرة الليلة الماضية اعتقلت #قسد والتحالف (8) اشخاص من شارع العشرين في المدينة.\" Deir Ezzore Now on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1974-december-12-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:36:56+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-45e9f6a4b745ee08ba56ea59",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/DeirEzzorNow/status/1470305143941996549",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Deir Ezzore Now‏ @DeirEzzorNow\n\n10h10 hours ago\n\nMore\n\nCopy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\n#ديرالزور #البصيرة\n\nيحدث الان عملية انزال للتحالف الدولي في مدينة البصيرة، بمساندة من قوات HAT التابعة لــ #قسد .\n\n1 reply\n\n1 retweet\n\n7 likes\n\nReply\n\n1\n\nRetweet\n\n1\n\nRetweeted\n\n1\n\nLike\n\n7\n\nLiked\n\n7\n\nShow this thread\n\nCopy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\n#ديرالزور #البصيرة\n\nيحدث الان عملية انزال للتحالف الدولي في مدينة البصيرة، بمساندة من قوات HAT التابعة لــ #قسد .\n\nDeir Ezzore Now‏ @DeirEzzorNow\n\n7m7 minutes ago\n\nMore\n\nCopy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\n#البصيرة #متابعة\n\nمقتل (3) اشخاص برصاص التحالف و #قسد اثناء عملية الانزال الليلة الماضية في بلدة ابريهه التابعة لــ البصيرة.\n\n1 reply\n\n1 retweet\n\n0 likes\n\nReply\n\n1\n\nRetweet\n\n1\n\nRetweeted\n\n1\n\nLike\n\nLiked\n\nShow this thread\n\nCopy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\n#البصيرة #متابعة\n\nمقتل (3) اشخاص برصاص التحالف و #قسد اثناء عملية الانزال الليلة الماضية في بلدة ابريهه التابعة لــ البصيرة.\n\nCopy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\nفي انزال مدينة البصيرة الليلة الماضية اعتقلت #قسد والتحالف (8) اشخاص من شارع العشرين في المدينة.\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

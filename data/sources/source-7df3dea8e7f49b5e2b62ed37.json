@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/Ruxbf"
+    "https://archive.is/Ruxbf",
+    "https://web.archive.org/web/20220120134202id_/https://twitter.com/khaleedalkhteb/status/1484157888226594817"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@khaleedalkhteb",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "cec32da33078695dbfc07434cc0fb3a59ed08e273ffd026c4695804ede7a28cf",
+  "content_variants": [
+    {
+      "bytes": 513,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:43:26+00:00",
+      "sha256": "cec32da33078695dbfc07434cc0fb3a59ed08e273ffd026c4695804ede7a28cf",
+      "source_url": "https://web.archive.org/web/20220120134202id_/https://twitter.com/khaleedalkhteb/status/1484157888226594817",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nسيارة تقل ٥ أشخاص بينهم امرأة، في بلدة مريمين قرب اعزاز، استهدفهم صاروخ موجه اطلقه تنظيم ypg/pkk ، الاستهداف تسبب باستشهاد المرأة واصابة من معها.pic.twitter.com/vttvZknjuz\n\n2 Retweets\n\n1 Like\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:43:24+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:43:26+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220120134202id_/https://twitter.com/khaleedalkhteb/status/1484157888226594817"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220120134202id_/https://twitter.com/khaleedalkhteb/status/1484157888226594817",
   "incident_ids": [
     "airwars-81343"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/khaleedalkhteb/status/1484157888226594817"
   ],
   "original_url": "https://twitter.com/khaleedalkhteb/status/1484157888226594817",
-  "page_title": "",
+  "page_title": "خالدالخطيب on Twitter: \"سيارة تقل ٥ أشخاص بينهم امرأة، في بلدة مريمين قرب اعزاز، استهدفهم صاروخ موجه اطلقه تنظيم ypg/pkk ، الاستهداف تسبب باستشهاد المرأة واصابة من معها.… https://t.co/ltBLcP6vqN\" خالدالخطيب on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys121-january-20-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:43:26+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7df3dea8e7f49b5e2b62ed37",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/khaleedalkhteb/status/1484157888226594817",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nسيارة تقل ٥ أشخاص بينهم امرأة، في بلدة مريمين قرب اعزاز، استهدفهم صاروخ موجه اطلقه تنظيم ypg/pkk ، الاستهداف تسبب باستشهاد المرأة واصابة من معها.pic.twitter.com/vttvZknjuz\n\n2 Retweets\n\n1 Like\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
+  "text_original_language": "und",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

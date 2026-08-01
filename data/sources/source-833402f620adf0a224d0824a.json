@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/oePUd"
+    "https://archive.is/oePUd",
+    "https://web.archive.org/web/20220523212923id_/https://newsaboutturkey.com/2022/05/23/turkish-shelling-targets-villages-in-northeast-syria-injures-villagers/?feed_id=13188&_unique_id=628bfca93433d"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "News About Turkey",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "82916bc02edc8d79198a75806e43d3a41eee64cad9c5aa6dc05d15a2ba028e9f",
+  "content_variants": [
+    {
+      "bytes": 1851,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:43:30+00:00",
+      "sha256": "82916bc02edc8d79198a75806e43d3a41eee64cad9c5aa6dc05d15a2ba028e9f",
+      "source_url": "https://web.archive.org/web/20220523212923id_/https://newsaboutturkey.com/2022/05/23/turkish-shelling-targets-villages-in-northeast-syria-injures-villagers/?feed_id=13188&_unique_id=628bfca93433d",
+      "text": "Turkish shelling targets villages in northeast Syria, injures villagers\n\nVillages and a power plant near the town of Tall Tamr, and villages in the district of Abu Rasin (Zirgan) in North and East Syria were heavily shelled by Turkish forces on Sunday according to reports by Hawar News Agency.\n\nTall Tamr, a town of about 7,000, is to the southeast of Ras al-Ayn (Serê Kaniyê), which was occupied by the Turkish army and its proxies in October 2019.\n\nThe town has been under constant fire since then, and it was last targeted in heavy shelling by the Turkish artillery on 4 April, when three people were injured.\n\nVillages hit in recent attacks include Dirdara, Til Shenan, Til Cûma, Jêrîn, Qesir Toma Yelda, Tewîla and Xeybish, all around Tall Tamr.\n\nThree villagers, Lûey Xelîl Hemad, Ridwan Tirkî Al-Tihêmî and Eymen Elî Al-Ahmad, were injured near the village of Til Cûma, and were taken to the hospital for treatment.\n\nLûey Xelîl Hemad told Hawar News that they were in the field for wheat harvest but had to return when the shelling began. As they resumed work in the field a while later they were caught in the bombardment and were injured.\n\nHawar News reported that there were casualties also in the village of Tewîla.\n\nThree villages in Abu Rasin were also targeted by the Turkish artillery.\n\nZirgan is about 2 km from the territory that is currently under the occupation of the Turkish army and its proxies.\n\nBoth Tall Tamr and Abu Rasin are situated in the region under the control of the Administration of North and East Syria (AANES).\n\nThe Turkish administration regards the AANES as an entity governed by affiliates of the Kurdistan Workers’ Party (PKK), designated a ‘terrorist group’ in Turkey, and has been occupying and attacking the region since 2016.\n\nSource:MedyaNews\n\n***Show us some LOVE by sharing it!***"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:43:30+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:43:30+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220523212923id_/https://newsaboutturkey.com/2022/05/23/turkish-shelling-targets-villages-in-northeast-syria-injures-villagers/?feed_id=13188&_unique_id=628bfca93433d"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220523212923id_/https://newsaboutturkey.com/2022/05/23/turkish-shelling-targets-villages-in-northeast-syria-injures-villagers/?feed_id=13188&_unique_id=628bfca93433d",
   "incident_ids": [
     "airwars-83678"
   ],
@@ -85,10 +109,10 @@
     "https://newsaboutturkey.com/2022/05/23/turkish-shelling-targets-villages-in-northeast-syria-injures-villagers/?feed_id=13188&_unique_id=628bfca93433d"
   ],
   "original_url": "https://newsaboutturkey.com/2022/05/23/turkish-shelling-targets-villages-in-northeast-syria-injures-villagers/?feed_id=13188&_unique_id=628bfca93433d",
-  "page_title": "",
+  "page_title": "Turkish shelling targets villages in northeast Syria, injures villagers - News About Turkey | Jobs UN NGO EU Turkish Politics Economy Turkish shelling targets villages in northeast Syria, injures villagers - News About Turkey | Jobs UN NGO EU Turkish Politics Economy Turkish shelling targets villages in northeast Syria, injures villagers - News About Turkey | Jobs UN NGO EU Turkish Politics Economy",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts509-may-22-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:43:30+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-833402f620adf0a224d0824a",
   "source_type": "news_article",
   "stable_id_basis": "https://newsaboutturkey.com/2022/05/23/turkish-shelling-targets-villages-in-northeast-syria-injures-villagers/?feed_id=13188&_unique_id=628bfca93433d",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish shelling targets villages in northeast Syria, injures villagers\n\nVillages and a power plant near the town of Tall Tamr, and villages in the district of Abu Rasin (Zirgan) in North and East Syria were heavily shelled by Turkish forces on Sunday according to reports by Hawar News Agency.\n\nTall Tamr, a town of about 7,000, is to the southeast of Ras al-Ayn (Serê Kaniyê), which was occupied by the Turkish army and its proxies in October 2019.\n\nThe town has been under constant fire since then, and it was last targeted in heavy shelling by the Turkish artillery on 4 April, when three people were injured.\n\nVillages hit in recent attacks include Dirdara, Til Shenan, Til Cûma, Jêrîn, Qesir Toma Yelda, Tewîla and Xeybish, all around Tall Tamr.\n\nThree villagers, Lûey Xelîl Hemad, Ridwan Tirkî Al-Tihêmî and Eymen Elî Al-Ahmad, were injured near the village of Til Cûma, and were taken to the hospital for treatment.\n\nLûey Xelîl Hemad told Hawar News that they were in the field for wheat harvest but had to return when the shelling began. As they resumed work in the field a while later they were caught in the bombardment and were injured.\n\nHawar News reported that there were casualties also in the village of Tewîla.\n\nThree villages in Abu Rasin were also targeted by the Turkish artillery.\n\nZirgan is about 2 km from the territory that is currently under the occupation of the Turkish army and its proxies.\n\nBoth Tall Tamr and Abu Rasin are situated in the region under the control of the Administration of North and East Syria (AANES).\n\nThe Turkish administration regards the AANES as an entity governed by affiliates of the Kurdistan Workers’ Party (PKK), designated a ‘terrorist group’ in Turkey, and has been occupying and attacking the region since 2016.\n\nSource:MedyaNews\n\n***Show us some LOVE by sharing it!***",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

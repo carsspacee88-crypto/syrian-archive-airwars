@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.fo/Q6iaS"
+    "https://archive.fo/Q6iaS",
+    "https://web.archive.org/web/20240528112733id_/https://sdf-press.com/en/2022/01/two-civilians-lost-their-lives-and-two-others-injured-due-to-turkish-attack-on-east-of-ain-issa/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "SDF Press Center",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "753fcfe151c9f333d62caa733e7e922c0cd55fd27b79be8c632cc374ef1f48f5",
+  "content_variants": [
+    {
+      "bytes": 1286,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:46:55+00:00",
+      "sha256": "753fcfe151c9f333d62caa733e7e922c0cd55fd27b79be8c632cc374ef1f48f5",
+      "source_url": "https://web.archive.org/web/20240528112733id_/https://sdf-press.com/en/2022/01/two-civilians-lost-their-lives-and-two-others-injured-due-to-turkish-attack-on-east-of-ain-issa/",
+      "text": "The shelling on eastern countryside of Ain Issa\n\nTwo civilians lost their lives and two others injured due to Turkish attack on east Of Ain Issa\n\nTwo civilians have lost their lives and two others injured this morning due to a ground attack by the Turkish occupation and its mercenaries on the villages al-Mashifa and Jahbal, east of Ain Issa. The attack coincided with intensive artillery shelling targeting the area and the M4 road.\nViolent clashes erupted between our forces and the mercenaries in which five mercenaries were killed. Two of the killed mercenaries are held by our forces.\nThis attack coincides with the terrorist attacks launched by the Daesh on al-Hasaka prison. Our forces continue efforts to secure the area and prevent Daesh detainees from escaping.\n\nPrev Post\n\nUpdate-Intra fighting among Daesh members inside the prison\n\nNext Post\n\nTightening the siege on Daesh terrorist attackers in the perimeter of Al-Sina’a prison\n\nOur SDF Commander-in-Chief at the Tribal Forum: “We will not compromise on our…\n\nAnti-ISIS Operation | An ISIS Senior Official Captured in Raqqa\n\nTwo Anti-ISIS Operations | Two ISIS Dangerous Leaders Captured in Raqqa and Qamishlo\n\nTwo Anti-ISIS Operations | One ISIS leader eliminated and two other terrorists…\n\nComments are closed."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:46:55+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:46:55+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240528112733id_/https://sdf-press.com/en/2022/01/two-civilians-lost-their-lives-and-two-others-injured-due-to-turkish-attack-on-east-of-ain-issa/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240528112733id_/https://sdf-press.com/en/2022/01/two-civilians-lost-their-lives-and-two-others-injured-due-to-turkish-attack-on-east-of-ain-issa/",
   "incident_ids": [
     "airwars-81350"
   ],
@@ -85,10 +109,10 @@
     "https://sdf-press.com/en/2022/01/two-civilians-lost-their-lives-and-two-others-injured-due-to-turkish-attack-on-east-of-ain-issa/"
   ],
   "original_url": "https://sdf-press.com/en/2022/01/two-civilians-lost-their-lives-and-two-others-injured-due-to-turkish-attack-on-east-of-ain-issa/",
-  "page_title": "",
+  "page_title": "Two civilians lost their lives and two others injured due to Turkish attack on east Of Ain Issa Two civilians lost their lives and two others injured due to Turkish attack on east Of Ain Issa Two civilians lost their lives and two others injured due to Turkish attack on east Of Ain Issa",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts485-january-22-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:46:55+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9be6083670f0e50839a45eff",
   "source_type": "news_article",
   "stable_id_basis": "https://sdf-press.com/en/2022/01/two-civilians-lost-their-lives-and-two-others-injured-due-to-turkish-attack-on-east-of-ain-issa/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "The shelling on eastern countryside of Ain Issa\n\nTwo civilians lost their lives and two others injured due to Turkish attack on east Of Ain Issa\n\nTwo civilians have lost their lives and two others injured this morning due to a ground attack by the Turkish occupation and its mercenaries on the villages al-Mashifa and Jahbal, east of Ain Issa. The attack coincided with intensive artillery shelling targeting the area and the M4 road.\nViolent clashes erupted between our forces and the mercenaries in which five mercenaries were killed. Two of the killed mercenaries are held by our forces.\nThis attack coincides with the terrorist attacks launched by the Daesh on al-Hasaka prison. Our forces continue efforts to secure the area and prevent Daesh detainees from escaping.\n\nPrev Post\n\nUpdate-Intra fighting among Daesh members inside the prison\n\nNext Post\n\nTightening the siege on Daesh terrorist attackers in the perimeter of Al-Sina’a prison\n\nOur SDF Commander-in-Chief at the Tribal Forum: “We will not compromise on our…\n\nAnti-ISIS Operation | An ISIS Senior Official Captured in Raqqa\n\nTwo Anti-ISIS Operations | Two ISIS Dangerous Leaders Captured in Raqqa and Qamishlo\n\nTwo Anti-ISIS Operations | One ISIS leader eliminated and two other terrorists…\n\nComments are closed.",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

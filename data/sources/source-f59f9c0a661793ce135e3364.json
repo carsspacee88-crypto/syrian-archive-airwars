@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/GPBhn"
+    "https://archive.is/GPBhn",
+    "https://web.archive.org/web/20220808075903id_/https://www.hawarnews.com/en/haber/woman-child-injured-in-turkish-occupation-shelling-on-western-countryside-of-gir-spi-h31074.html"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Hawar News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2cec2fda4db1701d522c54b39eccad4274838ce4d1be6d7a2a575b3dd527fc0f",
+  "content_variants": [
+    {
+      "bytes": 613,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:55:54+00:00",
+      "sha256": "2cec2fda4db1701d522c54b39eccad4274838ce4d1be6d7a2a575b3dd527fc0f",
+      "source_url": "https://web.archive.org/web/20220808075903id_/https://www.hawarnews.com/en/haber/woman-child-injured-in-turkish-occupation-shelling-on-western-countryside-of-gir-spi-h31074.html",
+      "text": "The Turkish occupation army and its mercenaries shelled the populated village of Sheshi in the western countryside of the occupied city of Girê Spi.\n\nAs a result, Kawthar Hajj Khalil, 45, was seriously injured, and Mizgin Hajj Khalil, 11, was seriously injured and subsequently transferred to the Kobani city hospital.\n\nA\n\nANHA\n\nOther news\n\nInternal Security Forces: Turkish occupation has been shelling border villages since this morning\n\nGire Spi Council with warning on resettlement of refugees in occupied territories\n\nPart of communications tower collapsed in Zarghan district as a result of Turkish bombing"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:55:53+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:55:54+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220808075903id_/https://www.hawarnews.com/en/haber/woman-child-injured-in-turkish-occupation-shelling-on-western-countryside-of-gir-spi-h31074.html"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220808075903id_/https://www.hawarnews.com/en/haber/woman-child-injured-in-turkish-occupation-shelling-on-western-countryside-of-gir-spi-h31074.html",
   "incident_ids": [
     "airwars-83740"
   ],
@@ -85,10 +109,10 @@
     "https://www.hawarnews.com/en/haber/woman-child-injured-in-turkish-occupation-shelling-on-western-countryside-of-gir-spi-h31074.html"
   ],
   "original_url": "https://www.hawarnews.com/en/haber/woman-child-injured-in-turkish-occupation-shelling-on-western-countryside-of-gir-spi-h31074.html",
-  "page_title": "",
+  "page_title": "​​​​​​​Woman, child injured in Turkish occupation shelling on western countryside of Girê Spi - ANHA | HAWARNEWS | English ​​​​​​​Woman, child injured in Turkish occupation shelling on western countryside of Girê Spi - ANHA | HAWARNEWS | English ​​​​​​​Woman, child injured in Turkish occupation shelling on western countryside of Girê Spi - ANHA | HAWARNEWS | English",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts512-june-1-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:55:54+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f59f9c0a661793ce135e3364",
   "source_type": "news_article",
   "stable_id_basis": "https://www.hawarnews.com/en/haber/woman-child-injured-in-turkish-occupation-shelling-on-western-countryside-of-gir-spi-h31074.html",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "The Turkish occupation army and its mercenaries shelled the populated village of Sheshi in the western countryside of the occupied city of Girê Spi.\n\nAs a result, Kawthar Hajj Khalil, 45, was seriously injured, and Mizgin Hajj Khalil, 11, was seriously injured and subsequently transferred to the Kobani city hospital.\n\nA\n\nANHA\n\nOther news\n\nInternal Security Forces: Turkish occupation has been shelling border villages since this morning\n\nGire Spi Council with warning on resettlement of refugees in occupied territories\n\nPart of communications tower collapsed in Zarghan district as a result of Turkish bombing",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

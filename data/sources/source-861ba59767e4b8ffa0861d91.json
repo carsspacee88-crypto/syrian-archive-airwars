@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/Efie8"
+    "https://archive.is/Efie8",
+    "https://web.archive.org/web/20240524221234id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0ihx9JY9frTZ9WeAWnsEZLKnc2DGykAVeE2T1pNm5bsvfD1C8rWN3dTq5ZjQ7G7gGl&id=61550357319977"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Al shamal",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2e32befe4ef2f81431c87c3f98f7fe642de7a1e9515f396b7d944c7dec36599f",
+  "content_variants": [
+    {
+      "bytes": 455,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:43:45+00:00",
+      "sha256": "2e32befe4ef2f81431c87c3f98f7fe642de7a1e9515f396b7d944c7dec36599f",
+      "source_url": "https://web.archive.org/web/20240524221234id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0ihx9JY9frTZ9WeAWnsEZLKnc2DGykAVeE2T1pNm5bsvfD1C8rWN3dTq5ZjQ7G7gGl&id=61550357319977",
+      "text": "#عاجـــــــــــل\n\nقصف مدفعي يستهدف محيط مدينة #سرمين الآن من قبل الاحتلال #الروسي\n\n#شبكة_اخبار_الشمال_المحرر 👇...\n\n#عاجـــــــــــل\n\nقصف مدفعي يستهدف محيط مدينة #سرمين الآن من قبل الاحتلال #الروسي\n\n#شبكة_اخبار_الشمال_المحرر 👇\n\nhttps://chat.whatsapp.com/BzqY2JHnm4OHmvdbSDlhPA"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:43:44+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:43:45+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524221234id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0ihx9JY9frTZ9WeAWnsEZLKnc2DGykAVeE2T1pNm5bsvfD1C8rWN3dTq5ZjQ7G7gGl&id=61550357319977"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524221234id_/https://www.facebook.com/permalink.php?story_fbid=pfbid0ihx9JY9frTZ9WeAWnsEZLKnc2DGykAVeE2T1pNm5bsvfD1C8rWN3dTq5ZjQ7G7gGl&id=61550357319977",
   "incident_ids": [
     "airwars-102814"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/permalink.php?story_fbid=pfbid0ihx9JY9frTZ9WeAWnsEZLKnc2DGykAVeE2T1pNm5bsvfD1C8rWN3dTq5ZjQ7G7gGl&id=61550357319977"
   ],
   "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0ihx9JY9frTZ9WeAWnsEZLKnc2DGykAVeE2T1pNm5bsvfD1C8rWN3dTq5ZjQ7G7gGl&id=61550357319977",
-  "page_title": "",
+  "page_title": "شبكة اخبار الشمال المحرر شبكة اخبار الشمال المحرر #عاجـــــــــــل\n\nقصف مدفعي... - شبكة اخبار الشمال المحرر",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4814-october-3-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:43:45+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-861ba59767e4b8ffa0861d91",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid0ihx9JY9frTZ9WeAWnsEZLKnc2DGykAVeE2T1pNm5bsvfD1C8rWN3dTq5ZjQ7G7gGl&id=61550357319977",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#عاجـــــــــــل\n\nقصف مدفعي يستهدف محيط مدينة #سرمين الآن من قبل الاحتلال #الروسي\n\n#شبكة_اخبار_الشمال_المحرر 👇...\n\n#عاجـــــــــــل\n\nقصف مدفعي يستهدف محيط مدينة #سرمين الآن من قبل الاحتلال #الروسي\n\n#شبكة_اخبار_الشمال_المحرر 👇\n\nhttps://chat.whatsapp.com/BzqY2JHnm4OHmvdbSDlhPA",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

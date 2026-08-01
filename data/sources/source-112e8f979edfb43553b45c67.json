@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/78G4O"
+    "https://archive.ph/78G4O",
+    "https://web.archive.org/web/20241206020124id_/https://www.rasdsyria.org/news/8788/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Rasd news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "5ba0f783287957368679540fb3025bc028bcd3a0ab0b03c6eaa8944fffb1a1aa",
+  "content_variants": [
+    {
+      "bytes": 1313,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:31:59+00:00",
+      "sha256": "5ba0f783287957368679540fb3025bc028bcd3a0ab0b03c6eaa8944fffb1a1aa",
+      "source_url": "https://web.archive.org/web/20241206020124id_/https://www.rasdsyria.org/news/8788/",
+      "text": "وثقت شبكة رصد سوريا لحقوق الإنسان بتاريخ ١-٩-٢٠٢٣ مقتل خمس اطفال من عائلة واحد وهم عامر خالد المحمد الحمود و براءة محمد الخالد الحمود و وزينب و عامر و ماهر فهد المحمد الحمود في قرية المحسنلي بريف مدينة منبج الشمالي الغربي بريف محافظة حلب الشرقي جراء قصف من قبل الطيران الروسي لقرية المحسنلي الذي الى مقتل كافة افراد العائلة.\n\nويحاول فريق شبكة رصد سوريا لحقوق الإنسان الوصول الى مزيد من المعلومات حول الحادثة.\n\nتدين وتستنكر شبكة رصد سوريا لحقوق الإنسان كافة عمليات القتل والقصف التي تستهدف المدنيين في كافة المناطق على ايدي اطراف النزاع في سوريا وتطالب المجتمع الدولي بتحمل مسؤولياتها تجاه المدنيين وحمايتهم ومحاسبة المسؤولين وتقديمهم الى العدالة والضغط على جميع اطراف النزاع من اجل ابعاد المدنيين وممتلكاتهم عن صراعاتهم."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:31:58+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:31:59+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241206020124id_/https://www.rasdsyria.org/news/8788/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241206020124id_/https://www.rasdsyria.org/news/8788/",
   "incident_ids": [
     "airwars-100735"
   ],
@@ -85,10 +109,10 @@
     "https://www.rasdsyria.org/news/8788/"
   ],
   "original_url": "https://www.rasdsyria.org/news/8788/",
-  "page_title": "",
+  "page_title": "مقتل 5 أطفال من عائلة واحدة جراء قصف الطيران الروسي قرية المحسنلي شرقي حلب - شبكة رصد سوريا لحقوق الإنسان مقتل 5 أطفال من عائلة واحدة جراء قصف الطيران الروسي قرية المحسنلي شرقي حلب - شبكة رصد سوريا لحقوق الإنسان",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4802-september-1-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:31:59+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-112e8f979edfb43553b45c67",
   "source_type": "news_article",
   "stable_id_basis": "https://www.rasdsyria.org/news/8788/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "وثقت شبكة رصد سوريا لحقوق الإنسان بتاريخ ١-٩-٢٠٢٣ مقتل خمس اطفال من عائلة واحد وهم عامر خالد المحمد الحمود و براءة محمد الخالد الحمود و وزينب و عامر و ماهر فهد المحمد الحمود في قرية المحسنلي بريف مدينة منبج الشمالي الغربي بريف محافظة حلب الشرقي جراء قصف من قبل الطيران الروسي لقرية المحسنلي الذي الى مقتل كافة افراد العائلة.\n\nويحاول فريق شبكة رصد سوريا لحقوق الإنسان الوصول الى مزيد من المعلومات حول الحادثة.\n\nتدين وتستنكر شبكة رصد سوريا لحقوق الإنسان كافة عمليات القتل والقصف التي تستهدف المدنيين في كافة المناطق على ايدي اطراف النزاع في سوريا وتطالب المجتمع الدولي بتحمل مسؤولياتها تجاه المدنيين وحمايتهم ومحاسبة المسؤولين وتقديمهم الى العدالة والضغط على جميع اطراف النزاع من اجل ابعاد المدنيين وممتلكاتهم عن صراعاتهم.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

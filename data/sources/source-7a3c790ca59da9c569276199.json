@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/YC3pk"
+    "https://archive.ph/YC3pk",
+    "https://web.archive.org/web/20240218180609id_/https://www.reuters.com/world/middle-east/turkish-troops-kurdish-fighters-exchange-heavy-shelling-syrias-kobane-2022-08-16/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Reuters",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "6333d2553b17239c076e00f39179597437ee102271f63747deb656bd45d70344",
+  "content_variants": [
+    {
+      "bytes": 679,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:43:01+00:00",
+      "sha256": "6333d2553b17239c076e00f39179597437ee102271f63747deb656bd45d70344",
+      "source_url": "https://web.archive.org/web/20240218180609id_/https://www.reuters.com/world/middle-east/turkish-troops-kurdish-fighters-exchange-heavy-shelling-syrias-kobane-2022-08-16/",
+      "text": "Reporting by Maya Gebeily in Beirut, Ece Toksabay in Ankara, Daren Butler in Istanbul, editing by Ed Osmond and Mark Heinrich\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\nRead Next\n\narticle with galleryMiddle EastcategoryIraqi armed groups dial down U.S. attacks on request of Iran commander8:13 AM UTC\n\narticle with galleryWorldcategoryIsrael incensed after Brazil's Lula likens Gaza war to Holocaust5:38 PM UTC · Updated ago\n\narticle with galleryWorldcategoryUN likely to vote Tuesday on Gaza ceasefire, US signals veto8:56 AM UTC\n\nMiddle EastcategoryUS conducted five self-defense strikes in Houthi-controlled areas of Yemen, military says4:21 PM UTC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:43:00+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:43:01+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240218180609id_/https://www.reuters.com/world/middle-east/turkish-troops-kurdish-fighters-exchange-heavy-shelling-syrias-kobane-2022-08-16/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240218180609id_/https://www.reuters.com/world/middle-east/turkish-troops-kurdish-fighters-exchange-heavy-shelling-syrias-kobane-2022-08-16/",
   "incident_ids": [
     "airwars-84449"
   ],
@@ -85,10 +109,10 @@
     "https://www.reuters.com/world/middle-east/turkish-troops-kurdish-fighters-exchange-heavy-shelling-syrias-kobane-2022-08-16/"
   ],
   "original_url": "https://www.reuters.com/world/middle-east/turkish-troops-kurdish-fighters-exchange-heavy-shelling-syrias-kobane-2022-08-16/",
-  "page_title": "",
+  "page_title": "Turkish troops, Kurdish fighters exchange heavy shellfire in Syria's Kobane | Reuters Turkish troops, Kurdish fighters exchange heavy shellfire in Syria's Kobane Turkish troops, Kurdish fighters exchange heavy shellfire in Syria's Kobane article with gallery article with gallery article with gallery article with video",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts546-august-16-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:43:01+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7a3c790ca59da9c569276199",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.reuters.com/world/middle-east/turkish-troops-kurdish-fighters-exchange-heavy-shelling-syrias-kobane-2022-08-16/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Reporting by Maya Gebeily in Beirut, Ece Toksabay in Ankara, Daren Butler in Istanbul, editing by Ed Osmond and Mark Heinrich\n\nOur Standards: The Thomson Reuters Trust Principles., opens new tab\n\nRead Next\n\narticle with galleryMiddle EastcategoryIraqi armed groups dial down U.S. attacks on request of Iran commander8:13 AM UTC\n\narticle with galleryWorldcategoryIsrael incensed after Brazil's Lula likens Gaza war to Holocaust5:38 PM UTC · Updated ago\n\narticle with galleryWorldcategoryUN likely to vote Tuesday on Gaza ceasefire, US signals veto8:56 AM UTC\n\nMiddle EastcategoryUS conducted five self-defense strikes in Houthi-controlled areas of Yemen, military says4:21 PM UTC",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

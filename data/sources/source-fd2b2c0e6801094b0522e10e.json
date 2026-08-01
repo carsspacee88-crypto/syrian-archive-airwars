@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/uhywT"
+    "https://archive.is/uhywT",
+    "https://web.archive.org/web/20240525020733id_/https://www.facebook.com/SyriaCivilDefense/posts/2021569087998836"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Civil Defense (SCD)",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f2711143861e8ef8769a5993d6626891b8415777585c71c4e161f562f8c195c4",
+  "content_variants": [
+    {
+      "bytes": 642,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:56:58+00:00",
+      "sha256": "f2711143861e8ef8769a5993d6626891b8415777585c71c4e161f562f8c195c4",
+      "source_url": "https://web.archive.org/web/20240525020733id_/https://www.facebook.com/SyriaCivilDefense/posts/2021569087998836",
+      "text": "مقتل 4 مدنيين، بينهم امرأة وطفل ووالده، وإصابة طفل ورجل، مساء يوم الثلاثاء 7 أيلول بقصف مدفعي لقوات النظام وروسيا بقذائف موجهة بالليزر، استهدف الأحياء...\n\nمقتل 4 مدنيين، بينهم امرأة وطفل ووالده، وإصابة طفل ورجل، مساء يوم الثلاثاء 7 أيلول بقصف مدفعي لقوات النظام وروسيا بقذائف موجهة بالليزر، استهدف الأحياء السكنية في مدينة #إدلب وأطرافها الشرقية، فرقنا..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:56:57+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:56:58+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525020733id_/https://www.facebook.com/SyriaCivilDefense/posts/2021569087998836"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525020733id_/https://www.facebook.com/SyriaCivilDefense/posts/2021569087998836",
   "incident_ids": [
     "airwars-78103"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/SyriaCivilDefense/posts/2021569087998836"
   ],
   "original_url": "https://www.facebook.com/SyriaCivilDefense/posts/2021569087998836",
-  "page_title": "",
+  "page_title": "الدفاع المدني السوري الدفاع المدني السوري مقتل 4 مدنيين، بينهم امرأة وطفل... - الدفاع المدني السوري",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4640-september-7-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:56:58+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-fd2b2c0e6801094b0522e10e",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SyriaCivilDefense/posts/2021569087998836",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مقتل 4 مدنيين، بينهم امرأة وطفل ووالده، وإصابة طفل ورجل، مساء يوم الثلاثاء 7 أيلول بقصف مدفعي لقوات النظام وروسيا بقذائف موجهة بالليزر، استهدف الأحياء...\n\nمقتل 4 مدنيين، بينهم امرأة وطفل ووالده، وإصابة طفل ورجل، مساء يوم الثلاثاء 7 أيلول بقصف مدفعي لقوات النظام وروسيا بقذائف موجهة بالليزر، استهدف الأحياء السكنية في مدينة #إدلب وأطرافها الشرقية، فرقنا...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

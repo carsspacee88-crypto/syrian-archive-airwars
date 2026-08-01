@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/OlK6b"
+    "https://archive.md/OlK6b",
+    "https://web.archive.org/web/20211027034602id_/https://twitter.com/Sada_AlSharqieh/status/1453206292806447105"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@Sada_AlSharqieh",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "14f5d88cf0a685ba1a6217ad2eefbae70317d05ff948541984e0da58f49cbe85",
+  "content_variants": [
+    {
+      "bytes": 781,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:46:41+00:00",
+      "sha256": "14f5d88cf0a685ba1a6217ad2eefbae70317d05ff948541984e0da58f49cbe85",
+      "source_url": "https://web.archive.org/web/20211027034602id_/https://twitter.com/Sada_AlSharqieh/status/1453206292806447105",
+      "text": "Copy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\nمقتل سامرالعبدالله نائب الرئاسة المشتركه لمجلس ديرالزور المدني والمكلف بتسيير امور لجنة الصحة في المجلس.\n\nالعبدالله قتل أثناء عملية إنزال جوي قامت بها قوات التحالف الدولي بالتعاون مع قوات #قسد قرب منزله في بلدة الحصان غربي دير الزور ، تم قتله بالخطا من القوات المشاركه بالإنزال.pic.twitter.com/w3mpLmX86Y\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:46:40+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:46:41+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211027034602id_/https://twitter.com/Sada_AlSharqieh/status/1453206292806447105"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211027034602id_/https://twitter.com/Sada_AlSharqieh/status/1453206292806447105",
   "incident_ids": [
     "airwars-79815"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/Sada_AlSharqieh/status/1453206292806447105"
   ],
   "original_url": "https://twitter.com/Sada_AlSharqieh/status/1453206292806447105",
-  "page_title": "",
+  "page_title": "Sada AlSharqieh on Twitter: \"مقتل سامرالعبدالله نائب الرئاسة المشتركه لمجلس ديرالزور المدني والمكلف بتسيير امور لجنة الصحة في المجلس.\n\nالعبدالله قتل أثناء عملية إنزال جوي قامت بها قوات التحالف الدولي بالتعاون مع قوات #قسد قرب منزله في بلدة الحصان غربي دير الزور ، تم قتله بالخطا من القوات المشاركه بالإنزال.… https://t.co/GGSezfSKcT\" Sada AlSharqieh on Twitter",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1968-october-27-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:46:41+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9e6362a0167b2f0128db04ed",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/Sada_AlSharqieh/status/1453206292806447105",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Copy link to Tweet\n\nEmbed Tweet\n\nReport Tweet\n\nReport NetzDG Violation\n\nمقتل سامرالعبدالله نائب الرئاسة المشتركه لمجلس ديرالزور المدني والمكلف بتسيير امور لجنة الصحة في المجلس.\n\nالعبدالله قتل أثناء عملية إنزال جوي قامت بها قوات التحالف الدولي بالتعاون مع قوات #قسد قرب منزله في بلدة الحصان غربي دير الزور ، تم قتله بالخطا من القوات المشاركه بالإنزال.pic.twitter.com/w3mpLmX86Y\n\nBack to top ↑\n\nLoading seems to be taking a while.\n\nTwitter may be over capacity or experiencing a momentary hiccup. Try again or visit Twitter Status for more information.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
