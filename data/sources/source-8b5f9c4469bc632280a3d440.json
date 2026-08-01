@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/1FqjO"
+    "https://archive.is/1FqjO",
+    "https://web.archive.org/web/20231204125217id_/https://www.syriahr.com/en/264982/?fbclid=IwAR14T2gq4L2qMcjJuoVIVQ8YI4XObu6iA7-gK0y92JN8GHwhpPt7VEn4epg"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "90a319d5b869be045e90fff2b6609c98c7874037e9939ca53609e85d25d8e0f5",
+  "content_variants": [
+    {
+      "bytes": 1959,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:21:49+00:00",
+      "sha256": "90a319d5b869be045e90fff2b6609c98c7874037e9939ca53609e85d25d8e0f5",
+      "source_url": "https://web.archive.org/web/20231204125217id_/https://www.syriahr.com/en/264982/?fbclid=IwAR14T2gq4L2qMcjJuoVIVQ8YI4XObu6iA7-gK0y92JN8GHwhpPt7VEn4epg",
+      "text": "Turkish drone attack | Civilian dies affected by wounds in Tel Refaat\n\nAleppo province: SOHR activists have documented the death of a civilian affected by the wounds he sustained two days ago, in an attack by a Turkish drone on Tel Refaat in Kurdish and regime areas in northern Aleppo countryside.\n\nAccordingly, the number of people who were killed in the Turkish drone attack has risen to four.\n\nThe Turkish drone strike also left seven people injured, some seriously; the death toll is believed to rise.\n\nOn August 24, SOHR activists reported that the number of people who were killed in a Turkish drone attack that hit a market in Tel Rifaat city centre had risen to three, including a woman from Afrin.\n\nAccording to SOHR sources, the woman died of her severe wounds in Afrin hospital.\n\nSOHR activists documented the death of two civilians and the injury of nine others in a Turkish drone attack that hit Tel Rifaat market in Aleppo countryside, where regime’s military security headquarters is located near the targeted site.\n\nSOHR activists reported that a drone, believed to be a Turkish one, targeted Tel Rifaat city centre, leaving a number of people injured.\n\nThe victims were taken to Tel Rifaat hospital.\n\nIt is worth noting that this was the ninth attack of its kind in areas where Kurdish and regime forces are deployed in rural Aleppo since early July.\n\nPrev Post\n\nEscalating security chaos in “Peace Spring” area | Child killed by indiscriminate gunfire by Turkish-backed militiamen\n\nNext Post\n\n“Open the fronts” | Demonstrations erupt in areas of Ankara-backed factions in Aleppo\n\n“SOHR camera” officials of the Autonomous Administration distributing 300 litres of…\n\n“Euphrates Shield” area | Clashes between two groups of tribesmen working for…\n\nAmid artillery fire on positions in Aleppo and Idlib countryside | Regime soldier…\n\nFollowing disagreement over narcotics shipment | Clashes between two Turkish-backed…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:21:49+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:21:49+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231204125217id_/https://www.syriahr.com/en/264982/?fbclid=IwAR14T2gq4L2qMcjJuoVIVQ8YI4XObu6iA7-gK0y92JN8GHwhpPt7VEn4epg"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231204125217id_/https://www.syriahr.com/en/264982/?fbclid=IwAR14T2gq4L2qMcjJuoVIVQ8YI4XObu6iA7-gK0y92JN8GHwhpPt7VEn4epg",
   "incident_ids": [
     "airwars-84499"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/264982/?fbclid=IwAR14T2gq4L2qMcjJuoVIVQ8YI4XObu6iA7-gK0y92JN8GHwhpPt7VEn4epg"
   ],
   "original_url": "https://www.syriahr.com/en/264982/?fbclid=IwAR14T2gq4L2qMcjJuoVIVQ8YI4XObu6iA7-gK0y92JN8GHwhpPt7VEn4epg",
-  "page_title": "",
+  "page_title": "Turkish drone attack | Civilian dies affected by wounds in Tel Refaat - The Syrian Observatory For Human Rights Turkish drone attack | Civilian dies affected by wounds in Tel Refaat - The Syrian Observatory For Human Rights Turkish drone attack | Civilian dies affected by wounds in Tel Refaat - The Syrian Observatory For Human Rights Turkish drone attack | Civilian dies affected by wounds in Tel Refaat Turkish drone attack | Civilian dies affected by wounds in Tel Refaat",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts553-august-24-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:21:49+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-8b5f9c4469bc632280a3d440",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/264982/?fbclid=IwAR14T2gq4L2qMcjJuoVIVQ8YI4XObu6iA7-gK0y92JN8GHwhpPt7VEn4epg",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish drone attack | Civilian dies affected by wounds in Tel Refaat\n\nAleppo province: SOHR activists have documented the death of a civilian affected by the wounds he sustained two days ago, in an attack by a Turkish drone on Tel Refaat in Kurdish and regime areas in northern Aleppo countryside.\n\nAccordingly, the number of people who were killed in the Turkish drone attack has risen to four.\n\nThe Turkish drone strike also left seven people injured, some seriously; the death toll is believed to rise.\n\nOn August 24, SOHR activists reported that the number of people who were killed in a Turkish drone attack that hit a market in Tel Rifaat city centre had risen to three, including a woman from Afrin.\n\nAccording to SOHR sources, the woman died of her severe wounds in Afrin hospital.\n\nSOHR activists documented the death of two civilians and the injury of nine others in a Turkish drone attack that hit Tel Rifaat market in Aleppo countryside, where regime’s military security headquarters is located near the targeted site.\n\nSOHR activists reported that a drone, believed to be a Turkish one, targeted Tel Rifaat city centre, leaving a number of people injured.\n\nThe victims were taken to Tel Rifaat hospital.\n\nIt is worth noting that this was the ninth attack of its kind in areas where Kurdish and regime forces are deployed in rural Aleppo since early July.\n\nPrev Post\n\nEscalating security chaos in “Peace Spring” area | Child killed by indiscriminate gunfire by Turkish-backed militiamen\n\nNext Post\n\n“Open the fronts” | Demonstrations erupt in areas of Ankara-backed factions in Aleppo\n\n“SOHR camera” officials of the Autonomous Administration distributing 300 litres of…\n\n“Euphrates Shield” area | Clashes between two groups of tribesmen working for…\n\nAmid artillery fire on positions in Aleppo and Idlib countryside | Regime soldier…\n\nFollowing disagreement over narcotics shipment | Clashes between two Turkish-backed…",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

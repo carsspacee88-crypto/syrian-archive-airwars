@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/pNdyY"
+    "https://archive.is/pNdyY",
+    "https://web.archive.org/web/20241108190331id_/https://www.syriahr.com/en/264179/?fbclid=IwAR21TZuqx93vFyIL00_zrA9xqK59h7vW3a_zoxtlInrXR1TtGcSAbalPszc"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory for Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "19e444b147983ee6e5dd93295ecdea2429df62de0d7f06b664bdbe06b17f70ff",
+  "content_variants": [
+    {
+      "bytes": 1631,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:34:09+00:00",
+      "sha256": "19e444b147983ee6e5dd93295ecdea2429df62de0d7f06b664bdbe06b17f70ff",
+      "source_url": "https://web.archive.org/web/20241108190331id_/https://www.syriahr.com/en/264179/?fbclid=IwAR21TZuqx93vFyIL00_zrA9xqK59h7vW3a_zoxtlInrXR1TtGcSAbalPszc",
+      "text": "Aleppo | Turkish shelling on Kurdish areas injured elder woman and young girl\n\nAleppo province: SOHR activists have documented the injury of an elder woman in her 70s due to Turkish shelling on Al-Nayribiyah village, in addition to the injury of a girl under the age of 18, due to another Turkish shelling on Gharnata village. The two villages are located within Kurdish-held areas northern of Aleppo, where Turkish forces stationed in Jalbal and Anab villages in Afrin countryside fired artillery shells on the vicinity of Baina/Abin village in Shirawa district in Afrin countryside.\n\nMoreover, Turkish forces fired rocket launchers on the road linking between Hassin, Qaramil villages, camps for livestock breeders and Gharnata farms, in addition to Tel Refaat centre, Ain Dakna and Bayloniyah villages.\n\nYesterday, SOHR activists reported that a member of the National Army was killed, and two others were wounded in a guided missile attack waged by Kurdish and regime forces on a Turkish military vehicle on Marea frontline in the northern countryside of Aleppo.\n\nPrev Post\n\nDeath toll update | 17 civilians including six children killed under regime shelling on Al-Bab city\n\nNext Post\n\nFollowing violations of commander | SDF-held areas witness new public protests in Deir Ezzor\n\nIncreasing escalation | Three people injured in attack by members of Iran-backed 47th…\n\nMilitary escalation | Kamikaze drone of regime forces targets position in Aleppo\n\nHerding sheep | Three children injured in explosion of object of w*a*r remnants in…\n\nAmid displacement of civilians | Turkish forces fire artillery shells on village and…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:34:08+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:34:09+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241108190331id_/https://www.syriahr.com/en/264179/?fbclid=IwAR21TZuqx93vFyIL00_zrA9xqK59h7vW3a_zoxtlInrXR1TtGcSAbalPszc"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241108190331id_/https://www.syriahr.com/en/264179/?fbclid=IwAR21TZuqx93vFyIL00_zrA9xqK59h7vW3a_zoxtlInrXR1TtGcSAbalPszc",
   "incident_ids": [
     "airwars-84488",
     "airwars-84492"
@@ -87,10 +111,10 @@
     "https://www.syriahr.com/en/264179/?fbclid=IwAR21TZuqx93vFyIL00_zrA9xqK59h7vW3a_zoxtlInrXR1TtGcSAbalPszc"
   ],
   "original_url": "https://www.syriahr.com/en/264179/?fbclid=IwAR21TZuqx93vFyIL00_zrA9xqK59h7vW3a_zoxtlInrXR1TtGcSAbalPszc",
-  "page_title": "",
+  "page_title": "Aleppo | Turkish shelling on Kurdish areas injured elder woman and young girl - The Syrian Observatory For Human Rights Aleppo | Turkish shelling on Kurdish areas injured elder woman and young girl - The Syrian Observatory For Human Rights Aleppo | Turkish shelling on Kurdish areas injured elder woman and young girl - The Syrian Observatory For Human Rights Aleppo | Turkish shelling on Kurdish areas injured elder woman and young girl Aleppo | Turkish shelling on Kurdish areas injured elder woman and young girl",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts551-august-19-2022/",
@@ -118,15 +142,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:34:09+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d51d9839108379f9e87b1496",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/264179/?fbclid=IwAR21TZuqx93vFyIL00_zrA9xqK59h7vW3a_zoxtlInrXR1TtGcSAbalPszc",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Aleppo | Turkish shelling on Kurdish areas injured elder woman and young girl\n\nAleppo province: SOHR activists have documented the injury of an elder woman in her 70s due to Turkish shelling on Al-Nayribiyah village, in addition to the injury of a girl under the age of 18, due to another Turkish shelling on Gharnata village. The two villages are located within Kurdish-held areas northern of Aleppo, where Turkish forces stationed in Jalbal and Anab villages in Afrin countryside fired artillery shells on the vicinity of Baina/Abin village in Shirawa district in Afrin countryside.\n\nMoreover, Turkish forces fired rocket launchers on the road linking between Hassin, Qaramil villages, camps for livestock breeders and Gharnata farms, in addition to Tel Refaat centre, Ain Dakna and Bayloniyah villages.\n\nYesterday, SOHR activists reported that a member of the National Army was killed, and two others were wounded in a guided missile attack waged by Kurdish and regime forces on a Turkish military vehicle on Marea frontline in the northern countryside of Aleppo.\n\nPrev Post\n\nDeath toll update | 17 civilians including six children killed under regime shelling on Al-Bab city\n\nNext Post\n\nFollowing violations of commander | SDF-held areas witness new public protests in Deir Ezzor\n\nIncreasing escalation | Three people injured in attack by members of Iran-backed 47th…\n\nMilitary escalation | Kamikaze drone of regime forces targets position in Aleppo\n\nHerding sheep | Three children injured in explosion of object of w*a*r remnants in…\n\nAmid displacement of civilians | Turkish forces fire artillery shells on village and…",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

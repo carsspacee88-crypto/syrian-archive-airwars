@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/bZcNY"
+    "https://archive.ph/bZcNY",
+    "https://web.archive.org/web/20240616160109id_/https://anfarabic.com/akhr-l-khbr/msyrt-llahtlal-altrky-tsthdf-alhskt-wanba-n-wjwd-asabat-96433"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8c4826498447c49861be6711379a169a0d45564bd850ca3424f665f17b655335",
+  "content_variants": [
+    {
+      "bytes": 662,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:06:44+00:00",
+      "sha256": "8c4826498447c49861be6711379a169a0d45564bd850ca3424f665f17b655335",
+      "source_url": "https://web.archive.org/web/20240616160109id_/https://anfarabic.com/akhr-l-khbr/msyrt-llahtlal-altrky-tsthdf-alhskt-wanba-n-wjwd-asabat-96433",
+      "text": "ANF\n\nمركز الاخبار\n\nالأربعاء, ٤ أكتوبر ٢٠٢٣, ١٢:٤٤\n\nأفاد مراسل وكالة هاوار في مدينة الحسكة بأن الانفجار الذي سُمع دويه ناجم عن استهداف مسيّرة تابعة لجيش الاحتلال التركي معمل القرميد في بلدة صفيا التابعة لمدينة الحسكة بثلاث ضربات.\n\nوحسب الأنباء الأولية، فقد أصيب عاملان في المعمل، وسط تحليق المسيّرة في سماء المنطقة، ما يصعّب وصول سيارات الإسعاف إلى المعمل لنقل الجرحى."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:06:43+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:06:44+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240616160109id_/https://anfarabic.com/akhr-l-khbr/msyrt-llahtlal-altrky-tsthdf-alhskt-wanba-n-wjwd-asabat-96433"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240616160109id_/https://anfarabic.com/akhr-l-khbr/msyrt-llahtlal-altrky-tsthdf-alhskt-wanba-n-wjwd-asabat-96433",
   "incident_ids": [
     "airwars-93205",
     "airwars-93213"
@@ -87,10 +111,10 @@
     "https://anfarabic.com/akhr-l-khbr/msyrt-llahtlal-altrky-tsthdf-alhskt-wanba-n-wjwd-asabat-96433"
   ],
   "original_url": "https://anfarabic.com/akhr-l-khbr/msyrt-llahtlal-altrky-tsthdf-alhskt-wanba-n-wjwd-asabat-96433",
-  "page_title": "",
+  "page_title": "ANF |\nمسيّرة للاحتلال التركي تستهدف الحسكة وأنباء عن وجود إصابات مسيّرة للاحتلال التركي تستهدف الحسكة وأنباء عن وجود إصابات مسيّرة للاحتلال التركي تستهدف الحسكة وأنباء عن وجود إصابات",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts633-october-4-2023/",
@@ -118,15 +142,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:06:44+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-25776f84236fa9f7275fa4a0",
   "source_type": "other_web_page",
   "stable_id_basis": "https://anfarabic.com/akhr-l-khbr/msyrt-llahtlal-altrky-tsthdf-alhskt-wanba-n-wjwd-asabat-96433",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "ANF\n\nمركز الاخبار\n\nالأربعاء, ٤ أكتوبر ٢٠٢٣, ١٢:٤٤\n\nأفاد مراسل وكالة هاوار في مدينة الحسكة بأن الانفجار الذي سُمع دويه ناجم عن استهداف مسيّرة تابعة لجيش الاحتلال التركي معمل القرميد في بلدة صفيا التابعة لمدينة الحسكة بثلاث ضربات.\n\nوحسب الأنباء الأولية، فقد أصيب عاملان في المعمل، وسط تحليق المسيّرة في سماء المنطقة، ما يصعّب وصول سيارات الإسعاف إلى المعمل لنقل الجرحى.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/gaOcY"
+    "https://archive.is/gaOcY",
+    "https://web.archive.org/web/20220319033234id_/https://www.facebook.com/%D8%AD%D8%B3%D8%AD%D8%B3%D9%88%D9%83-357845524952199/?__cft__[0]=AZUYplfZK4NUdritX7XOg6uQQec_hbBkgPSm_Oiyw9LKvaUVQE981cvy8QGwgitVeaS4WEsJnzyWfljMl8F31jX8QXftTdeJeBS9JFY-URh_IQo392a-1U7U5nS8E3v-Lps&__tn__=-UC%2CP-R"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "حسحسوك",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "315501f8364014d12c24a5f3db7c23a91315bc6e8e057f1c198caccee4c3d23e",
+  "content_variants": [
+    {
+      "bytes": 188,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:39:26+00:00",
+      "sha256": "315501f8364014d12c24a5f3db7c23a91315bc6e8e057f1c198caccee4c3d23e",
+      "source_url": "https://web.archive.org/web/20220319033234id_/https://www.facebook.com/%D8%AD%D8%B3%D8%AD%D8%B3%D9%88%D9%83-357845524952199/?__cft__[0]=AZUYplfZK4NUdritX7XOg6uQQec_hbBkgPSm_Oiyw9LKvaUVQE981cvy8QGwgitVeaS4WEsJnzyWfljMl8F31jX8QXftTdeJeBS9JFY-URh_IQo392a-1U7U5nS8E3v-Lps&__tn__=-UC%2CP-R",
+      "text": "‎حسحسوك‎. 53 likes · 2 talking about this. ‎بالحب الكوردي والفرحة الكوردية والقصص الشعبية وشعارنا التراث الكوردي‎"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:39:25+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:39:26+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220319033234id_/https://www.facebook.com/%D8%AD%D8%B3%D8%AD%D8%B3%D9%88%D9%83-357845524952199/?__cft__[0]=AZUYplfZK4NUdritX7XOg6uQQec_hbBkgPSm_Oiyw9LKvaUVQE981cvy8QGwgitVeaS4WEsJnzyWfljMl8F31jX8QXftTdeJeBS9JFY-URh_IQo392a-1U7U5nS8E3v-Lps&__tn__=-UC%2CP-R"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220319033234id_/https://www.facebook.com/%D8%AD%D8%B3%D8%AD%D8%B3%D9%88%D9%83-357845524952199/?__cft__[0]=AZUYplfZK4NUdritX7XOg6uQQec_hbBkgPSm_Oiyw9LKvaUVQE981cvy8QGwgitVeaS4WEsJnzyWfljMl8F31jX8QXftTdeJeBS9JFY-URh_IQo392a-1U7U5nS8E3v-Lps&__tn__=-UC%2CP-R",
   "incident_ids": [
     "airwars-81725"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/%D8%AD%D8%B3%D8%AD%D8%B3%D9%88%D9%83-357845524952199/?__cft__[0]=AZUYplfZK4NUdritX7XOg6uQQec_hbBkgPSm_Oiyw9LKvaUVQE981cvy8QGwgitVeaS4WEsJnzyWfljMl8F31jX8QXftTdeJeBS9JFY-URh_IQo392a-1U7U5nS8E3v-Lps&__tn__=-UC%2CP-R"
   ],
   "original_url": "https://www.facebook.com/%D8%AD%D8%B3%D8%AD%D8%B3%D9%88%D9%83-357845524952199/?__cft__[0]=AZUYplfZK4NUdritX7XOg6uQQec_hbBkgPSm_Oiyw9LKvaUVQE981cvy8QGwgitVeaS4WEsJnzyWfljMl8F31jX8QXftTdeJeBS9JFY-URh_IQo392a-1U7U5nS8E3v-Lps&__tn__=-UC%2CP-R",
-  "page_title": "",
+  "page_title": "حسحسوك حسحسوك - Home",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts490-february-2-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:39:26+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f66cb76b760892f27076b4f3",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/%D8%AD%D8%B3%D8%AD%D8%B3%D9%88%D9%83-357845524952199/?__cft__[0]=AZUYplfZK4NUdritX7XOg6uQQec_hbBkgPSm_Oiyw9LKvaUVQE981cvy8QGwgitVeaS4WEsJnzyWfljMl8F31jX8QXftTdeJeBS9JFY-URh_IQo392a-1U7U5nS8E3v-Lps&__tn__=-UC%2CP-R",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "‎حسحسوك‎. 53 likes · 2 talking about this. ‎بالحب الكوردي والفرحة الكوردية والقصص الشعبية وشعارنا التراث الكوردي‎",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/ASe19"
+    "https://archive.is/ASe19",
+    "https://web.archive.org/web/20250618184853id_/https://npasyria.com/110725/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "1ce710106619aa48c3a1aa159f4c013d726f3ae34fd798df9b3b036bfca92ed8",
+  "content_variants": [
+    {
+      "bytes": 1727,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:11:31+00:00",
+      "sha256": "1ce710106619aa48c3a1aa159f4c013d726f3ae34fd798df9b3b036bfca92ed8",
+      "source_url": "https://web.archive.org/web/20250618184853id_/https://npasyria.com/110725/",
+      "text": "إصابة امرأة بقصف للقوات التركية على قرية أبين في ريف حلب الشمالي\n\nأضرار مادية خلفها قصف للقوات التركية على منزل بقرية أبين - نورث برس\n\nريف حلب الشمالي – نورث برس\n\nأصيبت امرأة من سكان قرية أبين التابعة لناحية شيراوا، في ريف حلب الشمالي، مساء الثلاثاء, في قصف للقوات التركية والفصائل المسلحة التابعة لها على القرية.\n\nوقال مصدر محلي، لنورث برس، إن “االمصابة تدعى ندرت زكريا (27 عاماً) أصيبت بعدة شظايا في ساعديها بالإضافة الى وقوع أضرار مادية بمنزل عبد السلام مصطفى وأحمد عبدو وهما من سكان القرية”.\n\nوذكر مصدر عسكري، إن القوات التركية والفصائل التابعة لها قصفت القرية بقذيفتين من نوع “أوبيس”.\n\nواليوم الثلاثاء، استهدفت القوات التركية أطراف قرية حربل وأم حوش بثلاث قذائف مدفعية دون معرفة حجم الأضرار التي خلفها القصف.\n\nوالجمعة الماضي، أصيب نازح من قرية افراز التابعة لناحية شران في ريف عفرين في قصف للقوات التركية على قرية أم قرى بالإضافة إلى وقوع أضرار مادية بالمنزل الذي يسكنه وبسيارته التي كانت مركونة أمام المنزل.\n\nإعداد: فايا ميلاد – تحرير: محمد القاضي"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:11:31+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:11:31+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250618184853id_/https://npasyria.com/110725/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250618184853id_/https://npasyria.com/110725/",
   "incident_ids": [
     "airwars-83808",
     "airwars-83809"
@@ -87,10 +111,10 @@
     "https://npasyria.com/110725/"
   ],
   "original_url": "https://npasyria.com/110725/",
-  "page_title": "",
+  "page_title": "إصابة امرأة بقصف للقوات التركية على قرية أبين في ريف حلب الشمالي - North press agency | وكالة نورث برس إصابة امرأة بقصف للقوات التركية على قرية أبين في ريف حلب الشمالي - North press agency | وكالة نورث برس",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts517-june-7-2022/",
@@ -118,15 +142,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:11:31+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-4daf2b4d04c3061bb8d2dc08",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/110725/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة امرأة بقصف للقوات التركية على قرية أبين في ريف حلب الشمالي\n\nأضرار مادية خلفها قصف للقوات التركية على منزل بقرية أبين - نورث برس\n\nريف حلب الشمالي – نورث برس\n\nأصيبت امرأة من سكان قرية أبين التابعة لناحية شيراوا، في ريف حلب الشمالي، مساء الثلاثاء, في قصف للقوات التركية والفصائل المسلحة التابعة لها على القرية.\n\nوقال مصدر محلي، لنورث برس، إن “االمصابة تدعى ندرت زكريا (27 عاماً) أصيبت بعدة شظايا في ساعديها بالإضافة الى وقوع أضرار مادية بمنزل عبد السلام مصطفى وأحمد عبدو وهما من سكان القرية”.\n\nوذكر مصدر عسكري، إن القوات التركية والفصائل التابعة لها قصفت القرية بقذيفتين من نوع “أوبيس”.\n\nواليوم الثلاثاء، استهدفت القوات التركية أطراف قرية حربل وأم حوش بثلاث قذائف مدفعية دون معرفة حجم الأضرار التي خلفها القصف.\n\nوالجمعة الماضي، أصيب نازح من قرية افراز التابعة لناحية شران في ريف عفرين في قصف للقوات التركية على قرية أم قرى بالإضافة إلى وقوع أضرار مادية بالمنزل الذي يسكنه وبسيارته التي كانت مركونة أمام المنزل.\n\nإعداد: فايا ميلاد – تحرير: محمد القاضي",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

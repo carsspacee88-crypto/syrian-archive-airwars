@@ -1,6 +1,8 @@
 {
   "airwars_source_ids": [],
-  "archived_urls": [],
+  "archived_urls": [
+    "https://web.archive.org/web/20250321190952id_/https://www.geopolitical.report/us-drone-strike-kills-senior-al-qaeda-leader-in-syria-2/"
+  ],
   "attempt_history": [
     {
       "attempt_history": [
@@ -34,12 +36,35 @@
   "author": "GeoPioneer",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "7bc8677282f572fba6fadca6f20c1b667a0c6b7e4ab9ca47d62cc7fc2aa0339d",
+  "content_variants": [
+    {
+      "bytes": 721,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:16:15+00:00",
+      "sha256": "7bc8677282f572fba6fadca6f20c1b667a0c6b7e4ab9ca47d62cc7fc2aa0339d",
+      "source_url": "https://web.archive.org/web/20250321190952id_/https://www.geopolitical.report/us-drone-strike-kills-senior-al-qaeda-leader-in-syria-2/",
+      "text": "US drone strike kills senior Al-Qaeda Leader in Syria\n\n𝕏\n\nShare on Facebook\n\nShare on Pinterest\n\nShare on LinkedIn\n\nShare on WhatsApp\n\nShare via Email\n\nThis post is for subscribers on the Geopolitical Report Pro, Geopolitical Report Data, Geopolitical Report Analyst, Geopolitical Report Live and Geopolitical Report Newsletter (Now Part of Pro for Grandfathered Subscribers) tiers\n\nAlready have an account? Sign In\n\nRelated\n\nIRGC-backed militia leader arrested in Deir Ezzor\n\nISIS attack in Deir Ezzor\n\nPreachers kidnapped in Damascus\n\nAl-Baath party member killed in Daraa\n\nLatest\n\nAirstrike targets Krasnopillia\n\nDrone strike reported in Bilozerka\n\nIsrael expands ground operation in Gaza\n\nMore protests in Istanbul"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:16:14+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:16:15+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250321190952id_/https://www.geopolitical.report/us-drone-strike-kills-senior-al-qaeda-leader-in-syria-2/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250321190952id_/https://www.geopolitical.report/us-drone-strike-kills-senior-al-qaeda-leader-in-syria-2/",
   "incident_ids": [
     "airwars-80506"
   ],
@@ -55,10 +80,10 @@
     "https://www.geopolitical.report/us-drone-strike-kills-senior-al-qaeda-leader-in-syria-2/"
   ],
   "original_url": "https://www.geopolitical.report/us-drone-strike-kills-senior-al-qaeda-leader-in-syria-2/",
-  "page_title": "",
+  "page_title": "US drone strike kills senior Al-Qaeda Leader in Syria US drone strike kills senior Al-Qaeda Leader in Syria US drone strike kills senior Al-Qaeda Leader in Syria",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1973-december-3-2021/",
@@ -78,15 +103,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:16:15+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-68be26256db47ebbb3f8fadb",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.geopolitical.report/us-drone-strike-kills-senior-al-qaeda-leader-in-syria-2/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "US drone strike kills senior Al-Qaeda Leader in Syria\n\n𝕏\n\nShare on Facebook\n\nShare on Pinterest\n\nShare on LinkedIn\n\nShare on WhatsApp\n\nShare via Email\n\nThis post is for subscribers on the Geopolitical Report Pro, Geopolitical Report Data, Geopolitical Report Analyst, Geopolitical Report Live and Geopolitical Report Newsletter (Now Part of Pro for Grandfathered Subscribers) tiers\n\nAlready have an account? Sign In\n\nRelated\n\nIRGC-backed militia leader arrested in Deir Ezzor\n\nISIS attack in Deir Ezzor\n\nPreachers kidnapped in Damascus\n\nAl-Baath party member killed in Daraa\n\nLatest\n\nAirstrike targets Krasnopillia\n\nDrone strike reported in Bilozerka\n\nIsrael expands ground operation in Gaza\n\nMore protests in Istanbul",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/s5RRn"
+    "https://archive.md/s5RRn",
+    "https://web.archive.org/web/20250426010406id_/https://www.syria.tv/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syria TV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "0fb46ad71077431497d8728556d33d8e7372496c4784f3e1d330b6ba6790326b",
+  "content_variants": [
+    {
+      "bytes": 1516,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:12:04+00:00",
+      "sha256": "0fb46ad71077431497d8728556d33d8e7372496c4784f3e1d330b6ba6790326b",
+      "source_url": "https://web.archive.org/web/20250426010406id_/https://www.syria.tv/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8",
+      "text": "قتلى وجرحى بقصف روسي على ريف إدلب\n\nقتل شخصان وأصيب آخرون، اليوم السبت، إثر قصف جوي روسي استهدف بلدة اليعقوبية بريف جسر الشغور في ريف إدلب الغربي.\n\nوقال مراسل تلفزيون سوريا إن طائرة روسية استهدفت اليعقوبية بغارتين، الأمر الذي أدى إلى مقتل شخصين وجرح 12 آخرين بينهم نساء وأطفال.\n\nوقتل شخص وأصيب 5 مدنيين من عائلة واحدة، بينهم 3 نساء وطفل بجروح خفيفة، بداية الشهر الجاري، إثر استهداف طائرة بدون طيار \"موتوراً\" كان بجانب سيارة من نوع \"سنتافي\" على طريق المسطومة ومدينة أريحا جنوبي إدلب.\n\nأطفال ينادون أشقاءهم تحت الأنقاض إثر قصف الأسد منزلهم جنوبي إدلب| فيدو\n\nوجرح مدنيون من عائلة واحدة بينهم أطفال، نهاية الشهر الفائت، بقصفٍ مدفعي لقوات النظام على أطراف مدينة بنش شرقي إدلب، إذ استهدفت روسيا وقوات النظام بالمدفعية الثقيلة منازل المدنيين في محيط مدينة بنش، ما أدّى إلى إصابةِ 6 مدنيين من عائلة واحدة (4 أطفال ورجل وامرأة).\n\nاخترنا لك\n\nالأكثر قراءة"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:12:03+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:12:04+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250426010406id_/https://www.syria.tv/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250426010406id_/https://www.syria.tv/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8",
   "incident_ids": [
     "airwars-80634"
   ],
@@ -85,10 +109,10 @@
     "https://www.syria.tv/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8"
   ],
   "original_url": "https://www.syria.tv/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8",
-  "page_title": "",
+  "page_title": "قتلى وجرحى بقصف روسي على ريف إدلب قتلى وجرحى بقصف روسي على ريف إدلب قتلى وجرحى بقصف روسي على ريف إدلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4679-december-11-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:12:04+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-56b2715a8cd5494f47d6a1b5",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.syria.tv/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D8%A8%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قتلى وجرحى بقصف روسي على ريف إدلب\n\nقتل شخصان وأصيب آخرون، اليوم السبت، إثر قصف جوي روسي استهدف بلدة اليعقوبية بريف جسر الشغور في ريف إدلب الغربي.\n\nوقال مراسل تلفزيون سوريا إن طائرة روسية استهدفت اليعقوبية بغارتين، الأمر الذي أدى إلى مقتل شخصين وجرح 12 آخرين بينهم نساء وأطفال.\n\nوقتل شخص وأصيب 5 مدنيين من عائلة واحدة، بينهم 3 نساء وطفل بجروح خفيفة، بداية الشهر الجاري، إثر استهداف طائرة بدون طيار \"موتوراً\" كان بجانب سيارة من نوع \"سنتافي\" على طريق المسطومة ومدينة أريحا جنوبي إدلب.\n\nأطفال ينادون أشقاءهم تحت الأنقاض إثر قصف الأسد منزلهم جنوبي إدلب| فيدو\n\nوجرح مدنيون من عائلة واحدة بينهم أطفال، نهاية الشهر الفائت، بقصفٍ مدفعي لقوات النظام على أطراف مدينة بنش شرقي إدلب، إذ استهدفت روسيا وقوات النظام بالمدفعية الثقيلة منازل المدنيين في محيط مدينة بنش، ما أدّى إلى إصابةِ 6 مدنيين من عائلة واحدة (4 أطفال ورجل وامرأة).\n\nاخترنا لك\n\nالأكثر قراءة",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

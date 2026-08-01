@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/1GlE6"
+    "https://archive.ph/1GlE6",
+    "https://web.archive.org/web/20240524221107id_/https://www.facebook.com/permalink.php?story_fbid=pfbid09kT8QwhrbJFgR6EPuPkeFASN5aCEymLqksuVyU6Kq2e7gncuJKCr9LYzc3gzenGAl&id=100072243314948"
   ],
   "attempt_history": [
     {
@@ -67,12 +68,35 @@
   "author": "Omar Talawi",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "f5ab7184162f348bdee81ccce36c228f1b1bc6bb6e7d037f8c7c59deb387bdf8",
+  "content_variants": [
+    {
+      "bytes": 621,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:28:33+00:00",
+      "sha256": "f5ab7184162f348bdee81ccce36c228f1b1bc6bb6e7d037f8c7c59deb387bdf8",
+      "source_url": "https://web.archive.org/web/20240524221107id_/https://www.facebook.com/permalink.php?story_fbid=pfbid09kT8QwhrbJFgR6EPuPkeFASN5aCEymLqksuVyU6Kq2e7gncuJKCr9LYzc3gzenGAl&id=100072243314948",
+      "text": "#المحرر\n.\nثلاث شهداء مهجرين من منطقة ريف المعرة \"ام الخلاخيل\" ، تهجرو لقرية #اوبين بريف ادلب الغربي استشهدو إثر استهداف شبيحة بشار بصاروخ موجه منزلهم في...\n\n#المحرر\n.\nثلاث شهداء مهجرين من منطقة ريف المعرة \"ام الخلاخيل\" ، تهجرو لقرية #اوبين بريف ادلب الغربي استشهدو إثر استهداف شبيحة بشار بصاروخ موجه منزلهم في القرية ، الشهداء هم :\n..\n١_ الشهيد بإذن..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:28:33+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:28:33+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524221107id_/https://www.facebook.com/permalink.php?story_fbid=pfbid09kT8QwhrbJFgR6EPuPkeFASN5aCEymLqksuVyU6Kq2e7gncuJKCr9LYzc3gzenGAl&id=100072243314948"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524221107id_/https://www.facebook.com/permalink.php?story_fbid=pfbid09kT8QwhrbJFgR6EPuPkeFASN5aCEymLqksuVyU6Kq2e7gncuJKCr9LYzc3gzenGAl&id=100072243314948",
   "incident_ids": [
     "airwars-85703"
   ],
@@ -88,10 +112,10 @@
     "https://www.facebook.com/permalink.php?story_fbid=pfbid09kT8QwhrbJFgR6EPuPkeFASN5aCEymLqksuVyU6Kq2e7gncuJKCr9LYzc3gzenGAl&id=100072243314948"
   ],
   "original_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid09kT8QwhrbJFgR6EPuPkeFASN5aCEymLqksuVyU6Kq2e7gncuJKCr9LYzc3gzenGAl&id=100072243314948",
-  "page_title": "",
+  "page_title": "عمر التلاوي أبو فاروق عمر التلاوي أبو فاروق #المحرر\n.\nثلاث شهداء مهجرين من... - عمر التلاوي أبو فاروق",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4748-december-2-2022/",
@@ -111,15 +135,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:28:33+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b0511fb8384e4d9bdd062f1f",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/permalink.php?story_fbid=pfbid09kT8QwhrbJFgR6EPuPkeFASN5aCEymLqksuVyU6Kq2e7gncuJKCr9LYzc3gzenGAl&id=100072243314948",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#المحرر\n.\nثلاث شهداء مهجرين من منطقة ريف المعرة \"ام الخلاخيل\" ، تهجرو لقرية #اوبين بريف ادلب الغربي استشهدو إثر استهداف شبيحة بشار بصاروخ موجه منزلهم في...\n\n#المحرر\n.\nثلاث شهداء مهجرين من منطقة ريف المعرة \"ام الخلاخيل\" ، تهجرو لقرية #اوبين بريف ادلب الغربي استشهدو إثر استهداف شبيحة بشار بصاروخ موجه منزلهم في القرية ، الشهداء هم :\n..\n١_ الشهيد بإذن...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

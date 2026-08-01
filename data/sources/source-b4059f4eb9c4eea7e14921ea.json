@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/bPGlO"
+    "https://archive.is/bPGlO",
+    "https://web.archive.org/web/20240616144532id_/https://npasyria.com/en/99563/?fbclid=IwAR2HLsugcx4AN_AOICbDGWPDiUAuwZQfvKK0BHld7N2b9tyICX7NFnxlAYE"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "North Press Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "703ea0abe75f4b2007d6a9f35f2c7c336bbddd04fd45846e2ce2bca5980a9dd5",
+  "content_variants": [
+    {
+      "bytes": 817,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:30:16+00:00",
+      "sha256": "703ea0abe75f4b2007d6a9f35f2c7c336bbddd04fd45846e2ce2bca5980a9dd5",
+      "source_url": "https://web.archive.org/web/20240616144532id_/https://npasyria.com/en/99563/?fbclid=IwAR2HLsugcx4AN_AOICbDGWPDiUAuwZQfvKK0BHld7N2b9tyICX7NFnxlAYE",
+      "text": "Turkish drone strikes eastern Qamishli\n\nFormer Turkish shelling against Qamishli countryside\n\nQAMISHLI, Syria (North Press) – A Turkish drone strike hit on Wednesday the vicinity of a cement factory in the village of Shourik, around 5 km east of Qamishli city, northeast Syria.\n\nA local source told North Press that the attack resulted in casualties, without providing further details.\n\nA medical source at the al-Salam Hospital in Qamishli city said that an injured person, named Ahmad Saleh Abdullah, was delivered to the hospital.\n\nThe victim is an IDP from the city of Aleppo and resides in the town of al-Qahtaniyeh (Tirbe Spiye). His health condition was described as stable, according to the source.\n\nThe Internal Security Forces (Asayish) have not yet commented on the incident.\n\nReporting by Dilsoz Youssef"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:30:15+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:30:16+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240616144532id_/https://npasyria.com/en/99563/?fbclid=IwAR2HLsugcx4AN_AOICbDGWPDiUAuwZQfvKK0BHld7N2b9tyICX7NFnxlAYE"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240616144532id_/https://npasyria.com/en/99563/?fbclid=IwAR2HLsugcx4AN_AOICbDGWPDiUAuwZQfvKK0BHld7N2b9tyICX7NFnxlAYE",
   "incident_ids": [
     "airwars-89590"
   ],
@@ -85,10 +109,10 @@
     "https://npasyria.com/en/99563/?fbclid=IwAR2HLsugcx4AN_AOICbDGWPDiUAuwZQfvKK0BHld7N2b9tyICX7NFnxlAYE"
   ],
   "original_url": "https://npasyria.com/en/99563/?fbclid=IwAR2HLsugcx4AN_AOICbDGWPDiUAuwZQfvKK0BHld7N2b9tyICX7NFnxlAYE",
-  "page_title": "",
+  "page_title": "Turkish drone strikes eastern Qamishli Turkish drone strikes eastern Qamishli Turkish drone strikes eastern Qamishli Turkish drone strikes eastern Qamishli - North press agency Turkish drone strikes eastern Qamishli - North press agency",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts603-june-14-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:30:16+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-b4059f4eb9c4eea7e14921ea",
   "source_type": "news_article",
   "stable_id_basis": "https://npasyria.com/en/99563/?fbclid=IwAR2HLsugcx4AN_AOICbDGWPDiUAuwZQfvKK0BHld7N2b9tyICX7NFnxlAYE",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "Turkish drone strikes eastern Qamishli\n\nFormer Turkish shelling against Qamishli countryside\n\nQAMISHLI, Syria (North Press) – A Turkish drone strike hit on Wednesday the vicinity of a cement factory in the village of Shourik, around 5 km east of Qamishli city, northeast Syria.\n\nA local source told North Press that the attack resulted in casualties, without providing further details.\n\nA medical source at the al-Salam Hospital in Qamishli city said that an injured person, named Ahmad Saleh Abdullah, was delivered to the hospital.\n\nThe victim is an IDP from the city of Aleppo and resides in the town of al-Qahtaniyeh (Tirbe Spiye). His health condition was described as stable, according to the source.\n\nThe Internal Security Forces (Asayish) have not yet commented on the incident.\n\nReporting by Dilsoz Youssef",
   "text_original_language": "en",
   "translation": {
     "chunks": [],

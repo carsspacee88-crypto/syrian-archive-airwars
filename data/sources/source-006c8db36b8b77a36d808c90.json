@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/P19N9"
+    "https://archive.is/P19N9",
+    "https://web.archive.org/web/20211016123415id_/https://www.syriahr.com/en/224253/?fbclid=IwAR0LTHfxkyrb44FKpN8s0M9mDqz8HyvUkPDGCrv6y-fuf_A8IVY5SgSk3nk&__cf_chl_jschl_tk__=pmd_ov0qemYZGKuQvWhRXkRry5aaBKDv.ESbyH.2nC3jfPA-1633335540-0-gqNtZGzNAjujcnBszQj9"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syrian Observatory of Human Rights",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "cec1890eaeb0d3b07e0c5d1c93c80cab3c86061bfdf076562d2229ec05a1dc40",
+  "content_variants": [
+    {
+      "bytes": 1569,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:01:41+00:00",
+      "sha256": "cec1890eaeb0d3b07e0c5d1c93c80cab3c86061bfdf076562d2229ec05a1dc40",
+      "source_url": "https://web.archive.org/web/20211016123415id_/https://www.syriahr.com/en/224253/?fbclid=IwAR0LTHfxkyrb44FKpN8s0M9mDqz8HyvUkPDGCrv6y-fuf_A8IVY5SgSk3nk&__cf_chl_jschl_tk__=pmd_ov0qemYZGKuQvWhRXkRry5aaBKDv.ESbyH.2nC3jfPA-1633335540-0-gqNtZGzNAjujcnBszQj9",
+      "text": "Aerial airdrop | International Coalition arrests ISIS leaders and kills civilian in al-Raqqa\n\nAl-Raqqa province: SOHR activists have reported that the “International Coalition” forces have carried out an airdrop operation in Shanina village 20 km southern al-Raqqa city, and arrested two of ISIS leaders and several women, where a civilian was killed near the site coinciding with the airdrop operation.\n\nYesterday, SOHR sources reported that International Coalition Forces carried out an airdrop in Shninah village in the north-western countryside of al-Raqqah this dawn, targeting a house inhabited by displaced people from Deir Ezzor, as all people living in the house were arrested, amid unconfirmed reports on an airstrike by the Coalition on the house, after arresting its inhabitants.\n\nThis security campaign coincided with inspection by SDF, backed by Coalition air support, searching for ISIS cells in Teshrin farm in northern al-Raqqah.\n\nPrev Post\n\nAfter striking reconciliations in Daraa | Units of the regime forces station in al-Buhous in western Daraa countryside\n\nNext Post\n\nFor circulating foreign currencies | Syria regime arrests two displaced young men from Afrin at frontlines near Sheikh Maqsoud\n\nFor “fund transfer and circulation of false reports” | Regime judicial authorities…\n\nNew assassination | Unknown gunmen shoot member of Russian-backed formation dead in…\n\n“De-escalation zone” | Turkish forces shell regime positions in southern Idlib\n\nNew security campaign | International Coalition and SDF arrest ten people in east…"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:01:38+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:01:41+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20211016123415id_/https://www.syriahr.com/en/224253/?fbclid=IwAR0LTHfxkyrb44FKpN8s0M9mDqz8HyvUkPDGCrv6y-fuf_A8IVY5SgSk3nk&__cf_chl_jschl_tk__=pmd_ov0qemYZGKuQvWhRXkRry5aaBKDv.ESbyH.2nC3jfPA-1633335540-0-gqNtZGzNAjujcnBszQj9"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20211016123415id_/https://www.syriahr.com/en/224253/?fbclid=IwAR0LTHfxkyrb44FKpN8s0M9mDqz8HyvUkPDGCrv6y-fuf_A8IVY5SgSk3nk&__cf_chl_jschl_tk__=pmd_ov0qemYZGKuQvWhRXkRry5aaBKDv.ESbyH.2nC3jfPA-1633335540-0-gqNtZGzNAjujcnBszQj9",
   "incident_ids": [
     "airwars-79091"
   ],
@@ -85,10 +109,10 @@
     "https://www.syriahr.com/en/224253/?fbclid=IwAR0LTHfxkyrb44FKpN8s0M9mDqz8HyvUkPDGCrv6y-fuf_A8IVY5SgSk3nk&__cf_chl_jschl_tk__=pmd_ov0qemYZGKuQvWhRXkRry5aaBKDv.ESbyH.2nC3jfPA-1633335540-0-gqNtZGzNAjujcnBszQj9"
   ],
   "original_url": "https://www.syriahr.com/en/224253/?fbclid=IwAR0LTHfxkyrb44FKpN8s0M9mDqz8HyvUkPDGCrv6y-fuf_A8IVY5SgSk3nk&__cf_chl_jschl_tk__=pmd_ov0qemYZGKuQvWhRXkRry5aaBKDv.ESbyH.2nC3jfPA-1633335540-0-gqNtZGzNAjujcnBszQj9",
-  "page_title": "",
+  "page_title": "Aerial airdrop | International Coalition arrests ISIS leaders and kills civilian in al-Raqqa • The Syrian Observatory For Human Rights Aerial airdrop | International Coalition arrests ISIS leaders and kills civilian in al-Raqqa • The Syrian Observatory For Human Rights",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1965-october-2-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:01:41+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-006c8db36b8b77a36d808c90",
   "source_type": "ngo_report",
   "stable_id_basis": "https://www.syriahr.com/en/224253/?fbclid=IwAR0LTHfxkyrb44FKpN8s0M9mDqz8HyvUkPDGCrv6y-fuf_A8IVY5SgSk3nk&__cf_chl_jschl_tk__=pmd_ov0qemYZGKuQvWhRXkRry5aaBKDv.ESbyH.2nC3jfPA-1633335540-0-gqNtZGzNAjujcnBszQj9",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Aerial airdrop | International Coalition arrests ISIS leaders and kills civilian in al-Raqqa\n\nAl-Raqqa province: SOHR activists have reported that the “International Coalition” forces have carried out an airdrop operation in Shanina village 20 km southern al-Raqqa city, and arrested two of ISIS leaders and several women, where a civilian was killed near the site coinciding with the airdrop operation.\n\nYesterday, SOHR sources reported that International Coalition Forces carried out an airdrop in Shninah village in the north-western countryside of al-Raqqah this dawn, targeting a house inhabited by displaced people from Deir Ezzor, as all people living in the house were arrested, amid unconfirmed reports on an airstrike by the Coalition on the house, after arresting its inhabitants.\n\nThis security campaign coincided with inspection by SDF, backed by Coalition air support, searching for ISIS cells in Teshrin farm in northern al-Raqqah.\n\nPrev Post\n\nAfter striking reconciliations in Daraa | Units of the regime forces station in al-Buhous in western Daraa countryside\n\nNext Post\n\nFor circulating foreign currencies | Syria regime arrests two displaced young men from Afrin at frontlines near Sheikh Maqsoud\n\nFor “fund transfer and circulation of false reports” | Regime judicial authorities…\n\nNew assassination | Unknown gunmen shoot member of Russian-backed formation dead in…\n\n“De-escalation zone” | Turkish forces shell regime positions in southern Idlib\n\nNew security campaign | International Coalition and SDF arrest ten people in east…",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

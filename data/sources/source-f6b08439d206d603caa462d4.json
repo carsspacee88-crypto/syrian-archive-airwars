@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/ZvpPe"
+    "https://archive.ph/ZvpPe",
+    "https://web.archive.org/web/20231130231536id_/https://twitter.com/muslim2day/status/1698814529319117003"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "'@muslim2day",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "86258cf9ab8c7fdc9d2e321652682808cef5ba65c959289f796f6215fe7daaae",
+  "content_variants": [
+    {
+      "bytes": 219,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:39:30+00:00",
+      "sha256": "86258cf9ab8c7fdc9d2e321652682808cef5ba65c959289f796f6215fe7daaae",
+      "source_url": "https://web.archive.org/web/20231130231536id_/https://twitter.com/muslim2day/status/1698814529319117003",
+      "text": "عصابات أوجلان (قسد) تقصف بالصواريخ منازل المدنيين في بلدة قباسين قرب مدينة الباب شرق حلب.\n\n#حلب #سوريا #ديرالزور_تنتفض #قسد"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:39:29+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:39:30+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20231130231536id_/https://twitter.com/muslim2day/status/1698814529319117003"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20231130231536id_/https://twitter.com/muslim2day/status/1698814529319117003",
   "incident_ids": [
     "airwars-92971"
   ],
@@ -85,10 +109,10 @@
     "https://twitter.com/muslim2day/status/1698814529319117003"
   ],
   "original_url": "https://twitter.com/muslim2day/status/1698814529319117003",
-  "page_title": "",
+  "page_title": "أخبار العالم الإسلامي (@muslim2day) on X",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/sdf00024-september-4-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:39:30+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-f6b08439d206d603caa462d4",
   "source_type": "public_x_post",
   "stable_id_basis": "https://twitter.com/muslim2day/status/1698814529319117003",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "عصابات أوجلان (قسد) تقصف بالصواريخ منازل المدنيين في بلدة قباسين قرب مدينة الباب شرق حلب.\n\n#حلب #سوريا #ديرالزور_تنتفض #قسد",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

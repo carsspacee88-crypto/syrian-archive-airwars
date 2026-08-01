@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/Up4Dp"
+    "https://archive.md/Up4Dp",
+    "https://web.archive.org/web/20240515182250id_/https://www.facebook.com/SYRMMC/posts/1264509670682321"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Macro Media Center",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8fe673c7da82f5887ae314e35a10ab7f466a06dc1961a1cd98a12ed125c73fce",
+  "content_variants": [
+    {
+      "bytes": 608,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:20:44+00:00",
+      "sha256": "8fe673c7da82f5887ae314e35a10ab7f466a06dc1961a1cd98a12ed125c73fce",
+      "source_url": "https://web.archive.org/web/20240515182250id_/https://www.facebook.com/SYRMMC/posts/1264509670682321",
+      "text": "صور تظهر حجر الدمار الذي لحق بمنازل المدنيين إثر استهداف الميليشيات المرتبطة بروسيا بلدة معرزاف جنوبي غرب محافظة إدلب بقذائف \"كراسنوبول\" الموجهة بالليزر...\n\nصور تظهر حجر الدمار الذي لحق بمنازل المدنيين إثر استهداف الميليشيات المرتبطة بروسيا بلدة معرزاف جنوبي غرب محافظة إدلب بقذائف \"كراسنوبول\" الموجهة بالليزر\n\n📸: ليث السيد الدغيم\n#MMC"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:20:40+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:20:44+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515182250id_/https://www.facebook.com/SYRMMC/posts/1264509670682321"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515182250id_/https://www.facebook.com/SYRMMC/posts/1264509670682321",
   "incident_ids": [
     "airwars-80318"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/SYRMMC/posts/1264509670682321"
   ],
   "original_url": "https://www.facebook.com/SYRMMC/posts/1264509670682321",
-  "page_title": "",
+  "page_title": "المركز الإعلامي العام MMC المركز الإعلامي العام MMC صور تظهر حجر الدمار الذي لحق... - المركز الإعلامي العام MMC",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4673-november-28-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:20:44+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-83788d96f046d775009db603",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/SYRMMC/posts/1264509670682321",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "صور تظهر حجر الدمار الذي لحق بمنازل المدنيين إثر استهداف الميليشيات المرتبطة بروسيا بلدة معرزاف جنوبي غرب محافظة إدلب بقذائف \"كراسنوبول\" الموجهة بالليزر...\n\nصور تظهر حجر الدمار الذي لحق بمنازل المدنيين إثر استهداف الميليشيات المرتبطة بروسيا بلدة معرزاف جنوبي غرب محافظة إدلب بقذائف \"كراسنوبول\" الموجهة بالليزر\n\n📸: ليث السيد الدغيم\n#MMC",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

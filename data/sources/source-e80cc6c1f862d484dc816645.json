@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/gEtou"
+    "https://archive.is/gEtou",
+    "https://web.archive.org/web/20240515201933id_/https://www.facebook.com/radyodelal/posts/601553657961332"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Radyodelal",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8947fcba93925966ef48f6d6d32068060158fc0f9d16b480581095fecb7c38a7",
+  "content_variants": [
+    {
+      "bytes": 635,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:37:30+00:00",
+      "sha256": "8947fcba93925966ef48f6d6d32068060158fc0f9d16b480581095fecb7c38a7",
+      "source_url": "https://web.archive.org/web/20240515201933id_/https://www.facebook.com/radyodelal/posts/601553657961332",
+      "text": "إصابة 10 مدنيين، بتجدد القصف المدفعي من قوات النظام وروسيا على منشآت صناعية ومرافق حيوية بمنطقة باب الهوى شمالي #إدلب اليوم السبت 16 تشرين الأول، فرق...\n\nإصابة 10 مدنيين، بتجدد القصف المدفعي من قوات النظام وروسيا على منشآت صناعية ومرافق حيوية بمنطقة باب الهوى شمالي #إدلب اليوم السبت 16 تشرين الأول، فرق الدفاع المدني أسعفت المصابين، لترتفع حصيلة ضحايا..."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:37:29+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:37:30+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240515201933id_/https://www.facebook.com/radyodelal/posts/601553657961332"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240515201933id_/https://www.facebook.com/radyodelal/posts/601553657961332",
   "incident_ids": [
     "airwars-79559"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/radyodelal/posts/601553657961332"
   ],
   "original_url": "https://www.facebook.com/radyodelal/posts/601553657961332",
-  "page_title": "",
+  "page_title": "RADYO DELAL RADYO DELAL RADYO DELAL - إصابة 10 مدنيين، بتجدد القصف المدفعي من قوات...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4657-october-16-2021/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:37:30+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e80cc6c1f862d484dc816645",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/radyodelal/posts/601553657961332",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "إصابة 10 مدنيين، بتجدد القصف المدفعي من قوات النظام وروسيا على منشآت صناعية ومرافق حيوية بمنطقة باب الهوى شمالي #إدلب اليوم السبت 16 تشرين الأول، فرق...\n\nإصابة 10 مدنيين، بتجدد القصف المدفعي من قوات النظام وروسيا على منشآت صناعية ومرافق حيوية بمنطقة باب الهوى شمالي #إدلب اليوم السبت 16 تشرين الأول، فرق الدفاع المدني أسعفت المصابين، لترتفع حصيلة ضحايا...",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

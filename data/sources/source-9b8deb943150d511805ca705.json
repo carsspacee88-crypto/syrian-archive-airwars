@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/TueHf"
+    "https://archive.is/TueHf",
+    "https://web.archive.org/web/20240524162141id_/https://www.facebook.com/abdullahshallouh0/posts/pfbid0WStmzuWBsUmCcd6zvCMp9hxL2WiusyUfXAw9DjSyH5uZ2LYKARpQ1EAa2kzfymj9l"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Darat Azza",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "85f0bb9a00f76013130babb6e0137895b65f368f38827e04b90eaf9a8d318b57",
+  "content_variants": [
+    {
+      "bytes": 269,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T13:25:39+00:00",
+      "sha256": "85f0bb9a00f76013130babb6e0137895b65f368f38827e04b90eaf9a8d318b57",
+      "source_url": "https://web.archive.org/web/20240524162141id_/https://www.facebook.com/abdullahshallouh0/posts/pfbid0WStmzuWBsUmCcd6zvCMp9hxL2WiusyUfXAw9DjSyH5uZ2LYKARpQ1EAa2kzfymj9l",
+      "text": "#ريف_حلب_الغربي\n#دارةعزة\nدمار كبير منازل المدنيين والمحال التجارية جراء القصف الصاروخي الذي استهدف المدينة .\n5/10/2023\n#المكتب_الإعلامي_في_مدينة_دارةعزة"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T13:25:39+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T13:25:39+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524162141id_/https://www.facebook.com/abdullahshallouh0/posts/pfbid0WStmzuWBsUmCcd6zvCMp9hxL2WiusyUfXAw9DjSyH5uZ2LYKARpQ1EAa2kzfymj9l"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524162141id_/https://www.facebook.com/abdullahshallouh0/posts/pfbid0WStmzuWBsUmCcd6zvCMp9hxL2WiusyUfXAw9DjSyH5uZ2LYKARpQ1EAa2kzfymj9l",
   "incident_ids": [
     "airwars-105885"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/abdullahshallouh0/posts/pfbid0WStmzuWBsUmCcd6zvCMp9hxL2WiusyUfXAw9DjSyH5uZ2LYKARpQ1EAa2kzfymj9l"
   ],
   "original_url": "https://www.facebook.com/abdullahshallouh0/posts/pfbid0WStmzuWBsUmCcd6zvCMp9hxL2WiusyUfXAw9DjSyH5uZ2LYKARpQ1EAa2kzfymj9l",
-  "page_title": "",
+  "page_title": "دارة عزة دارة عزة دارة عزة - #ريف_حلب_الغربي\n#دارةعزة\nدمار كبير منازل...",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4828-october-5-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T13:25:39+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9b8deb943150d511805ca705",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/abdullahshallouh0/posts/pfbid0WStmzuWBsUmCcd6zvCMp9hxL2WiusyUfXAw9DjSyH5uZ2LYKARpQ1EAa2kzfymj9l",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#ريف_حلب_الغربي\n#دارةعزة\nدمار كبير منازل المدنيين والمحال التجارية جراء القصف الصاروخي الذي استهدف المدينة .\n5/10/2023\n#المكتب_الإعلامي_في_مدينة_دارةعزة",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],
