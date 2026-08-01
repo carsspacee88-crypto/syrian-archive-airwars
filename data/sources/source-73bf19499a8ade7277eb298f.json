@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/kWiRd"
+    "https://archive.is/kWiRd",
+    "https://web.archive.org/web/20220529090301id_/http://hawarnews.com/ar/haber/isabh-mwatn-fy-alqsf-altrky-ala-qryh-malq-ghrb-ayn-aysa-h66539.html"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Hawar News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "3427846b0c98bca7b58ac6d68705bacdd59ce50f9d7d8552c2eb881cb4cd3990",
+  "content_variants": [
+    {
+      "bytes": 749,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:47:40+00:00",
+      "sha256": "3427846b0c98bca7b58ac6d68705bacdd59ce50f9d7d8552c2eb881cb4cd3990",
+      "source_url": "https://web.archive.org/web/20220529090301id_/http://hawarnews.com/ar/haber/isabh-mwatn-fy-alqsf-altrky-ala-qryh-malq-ghrb-ayn-aysa-h66539.html",
+      "text": "أكد مراسلنا من الناحية أن المواطن فادي خلاوي أصيب صباح اليوم جراء قصف شنه جيش الاحتلال التركي بالأسلحة الخفيفة، على قرية معلق في الريف الغربي لناحية عين عيسى.\n\n(د)\n\nANHA\n\nإقرأ أيضاً\n\nمؤتمر الحوار اللبناني - الكردي في بيروت يناقش تفعيل أسلوب الحوار بين الشعوب\n\nخلال بيان: شمال وشرق سوريا ليست ساحة لتصفية الحسابات أو طريقاً لتمرير الصفقات\n\nمصادر: طائرات حربية روسية تستهدف مواقع لمرتزقة الاحتلال التركي في مارع المحتلة"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:47:38+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:47:40+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20220529090301id_/http://hawarnews.com/ar/haber/isabh-mwatn-fy-alqsf-altrky-ala-qryh-malq-ghrb-ayn-aysa-h66539.html"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20220529090301id_/http://hawarnews.com/ar/haber/isabh-mwatn-fy-alqsf-altrky-ala-qryh-malq-ghrb-ayn-aysa-h66539.html",
   "incident_ids": [
     "airwars-83717"
   ],
@@ -85,10 +109,10 @@
     "http://hawarnews.com/ar/haber/isabh-mwatn-fy-alqsf-altrky-ala-qryh-malq-ghrb-ayn-aysa-h66539.html"
   ],
   "original_url": "http://hawarnews.com/ar/haber/isabh-mwatn-fy-alqsf-altrky-ala-qryh-malq-ghrb-ayn-aysa-h66539.html",
-  "page_title": "",
+  "page_title": "إصابة مواطن في القصف التركي على قرية معلق غرب عين عيسى - وكالة انباء هاوار إصابة مواطن في القصف التركي على قرية معلق غرب عين عيسى - وكالة انباء هاوار إصابة مواطن في القصف التركي على قرية معلق غرب عين عيسى - وكالة انباء هاوار",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts511-may-29-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:47:40+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-73bf19499a8ade7277eb298f",
   "source_type": "news_article",
   "stable_id_basis": "http://hawarnews.com/ar/haber/isabh-mwatn-fy-alqsf-altrky-ala-qryh-malq-ghrb-ayn-aysa-h66539.html",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "en",
+  "text_original": "أكد مراسلنا من الناحية أن المواطن فادي خلاوي أصيب صباح اليوم جراء قصف شنه جيش الاحتلال التركي بالأسلحة الخفيفة، على قرية معلق في الريف الغربي لناحية عين عيسى.\n\n(د)\n\nANHA\n\nإقرأ أيضاً\n\nمؤتمر الحوار اللبناني - الكردي في بيروت يناقش تفعيل أسلوب الحوار بين الشعوب\n\nخلال بيان: شمال وشرق سوريا ليست ساحة لتصفية الحسابات أو طريقاً لتمرير الصفقات\n\nمصادر: طائرات حربية روسية تستهدف مواقع لمرتزقة الاحتلال التركي في مارع المحتلة",
+  "text_original_language": "ar",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

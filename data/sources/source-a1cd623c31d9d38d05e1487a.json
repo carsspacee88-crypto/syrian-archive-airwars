@@ -67,8 +67,22 @@
   "content_hash": null,
   "content_variants": [],
   "descriptions": [],
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:52:48+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:52:49+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251104185131id_/https://resalapost.com/2022/01/20/%d9%85%d9%82%d8%aa%d9%84-%d8%a7%d9%85%d8%b1%d8%a3%d8%a9-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d9%85%d8%af%d9%86%d9%8a%d9%8a%d9%86-%d8%a8%d8%a7%d8%b3%d8%aa%d9%87%d8%af%d8%a7%d9%81-%d9%85%d9%8a%d9%84/"
+    }
+  ],
   "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
+  "failure_reason": "capture_without_text",
   "final_redirected_url": "",
   "incident_ids": [
     "airwars-81343"
@@ -108,7 +122,7 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
+  "retrieval_status": "capture_without_text",
   "retrieved_at": null,
   "review_flags": [],
   "schema_version": "1.0.0",

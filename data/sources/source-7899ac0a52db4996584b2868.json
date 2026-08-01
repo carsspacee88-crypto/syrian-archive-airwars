@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/XEW9S"
+    "https://archive.ph/XEW9S",
+    "https://web.archive.org/web/20240213144222id_/https://anfarabic.com/akhr-l-khbr/sh-101836"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "ANF news",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8930af5a0a74dfaaa15ad245c60c589ffdda7d3f33553e3512c97b7c01337baf",
+  "content_variants": [
+    {
+      "bytes": 1253,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:48:00+00:00",
+      "sha256": "8930af5a0a74dfaaa15ad245c60c589ffdda7d3f33553e3512c97b7c01337baf",
+      "source_url": "https://web.archive.org/web/20240213144222id_/https://anfarabic.com/akhr-l-khbr/sh-101836",
+      "text": "مقتل عنصرين آخرين لقوات حكومة دمشق في القصف التركي على الشهباء\n\nوسّعت دولة الاحتلال التركي من قصفها البري على ريف مقاطعة عفرين والشهباء، ما أدى إلى مقتل عنصرين آخرين من قوات حكومة دمشق، ليرتفع بذلك عدد القتلى إلى 4، منهم 3 من قوات حكومة دمشق، ومواطن من القرية خلال أقل من 24 ساعة.\n\nوكالة فرات\n\nمركز الأخبار\n\nالثلاثاء, ١٣ فبراير ٢٠٢٤, ١٧:٤٠\n\nتتعرض قرية تل مضبق التابعة للشهباء ونقاط لقوات حكومة دمشق في محيطها، في هذه الأثناء، لقصف دولة الاحتلال التركي ومرتزقته.\n\nالقصف البري أدى إلى مقتل اثنين من عناصر قوات حكومة دمشق، ليرتفع بذلك عدد قتلى هذه القوات إلى 3 خلال أقل من 24 ساعة، بدأت من قرية بينة.\n\nكما أدى القصف على قرية بينة مساء أمس، إلى مقتل المواطن جوان عزت الأسود، وإصابة المواطن عدنان عيسى كتو."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:47:59+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:48:00+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240213144222id_/https://anfarabic.com/akhr-l-khbr/sh-101836"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240213144222id_/https://anfarabic.com/akhr-l-khbr/sh-101836",
   "incident_ids": [
     "airwars-115962"
   ],
@@ -85,10 +109,10 @@
     "https://anfarabic.com/akhr-l-khbr/sh-101836"
   ],
   "original_url": "https://anfarabic.com/akhr-l-khbr/sh-101836",
-  "page_title": "",
+  "page_title": "ANF | مقتل عنصرين آخرين لقوات حكومة دمشق في القصف التركي على الشهباء مقتل عنصرين آخرين لقوات حكومة دمشق في القصف التركي على الشهباء مقتل عنصرين آخرين لقوات حكومة دمشق في القصف التركي على الشهباء",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts684-february-12-2024/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:48:00+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-7899ac0a52db4996584b2868",
   "source_type": "news_article",
   "stable_id_basis": "https://anfarabic.com/akhr-l-khbr/sh-101836",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مقتل عنصرين آخرين لقوات حكومة دمشق في القصف التركي على الشهباء\n\nوسّعت دولة الاحتلال التركي من قصفها البري على ريف مقاطعة عفرين والشهباء، ما أدى إلى مقتل عنصرين آخرين من قوات حكومة دمشق، ليرتفع بذلك عدد القتلى إلى 4، منهم 3 من قوات حكومة دمشق، ومواطن من القرية خلال أقل من 24 ساعة.\n\nوكالة فرات\n\nمركز الأخبار\n\nالثلاثاء, ١٣ فبراير ٢٠٢٤, ١٧:٤٠\n\nتتعرض قرية تل مضبق التابعة للشهباء ونقاط لقوات حكومة دمشق في محيطها، في هذه الأثناء، لقصف دولة الاحتلال التركي ومرتزقته.\n\nالقصف البري أدى إلى مقتل اثنين من عناصر قوات حكومة دمشق، ليرتفع بذلك عدد قتلى هذه القوات إلى 3 خلال أقل من 24 ساعة، بدأت من قرية بينة.\n\nكما أدى القصف على قرية بينة مساء أمس، إلى مقتل المواطن جوان عزت الأسود، وإصابة المواطن عدنان عيسى كتو.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/8k6DF"
+    "https://archive.is/8k6DF",
+    "https://web.archive.org/web/20250708011207id_/https://euphratespost.net/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81/?fbclid=IwAR2d5mcECPP9vJrMTHHbOT4NNUQU6Q3EzUEkk63SCWXRsmw_Lexw_gJSsHM"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Euphrates Post",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2eaf1a3f342b45f664c4b7a88697cae9b735acf4ed6a22f9f610af893ac181ee",
+  "content_variants": [
+    {
+      "bytes": 2724,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:51:51+00:00",
+      "sha256": "2eaf1a3f342b45f664c4b7a88697cae9b735acf4ed6a22f9f610af893ac181ee",
+      "source_url": "https://web.archive.org/web/20250708011207id_/https://euphratespost.net/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81/?fbclid=IwAR2d5mcECPP9vJrMTHHbOT4NNUQU6Q3EzUEkk63SCWXRsmw_Lexw_gJSsHM",
+      "text": "قتلى واعتقالات في عملية أمنية للتحالف و”قسد” بريف دير الزور\n\nنفذت قوات خاصة من “قسد” بمساندة طيران التحالف الدولي، عملية أمنية فجر اليوم الأحد في قرية الزر بريف دير الزور الشرقي، واستمرت العملية قرابة ساعتين.\n\nوأفاد مراسلنا، بأن القوات داهمت منزل مشعل القبة في حي المنكار وسط قرية الزر واعتقلت كلاً من: مالك خليل المنكار وأنس حميدي المنكار، إضافة إلى إصابة شخصين آخرين من المدنيين بجروح كانوا بجوار المكان، وانتهت العملية بإحراق منزل عائلة القبة قبل الإنسحاب.\n\nفي سياق متصل، هبطت طائرة مروحية بالقرب من ضفة نهر الفرات على أطراف مدينة الشحيل، بعد ملاحقتها لعدد من الأشخاص كانوا قد فروا من قرية الزر، خلال تنفيذ العملية.\n\nفي هذا الإطار، عثر الأهالي صباح اليوم السبت، على 3 جثث تعود لمجهولين قتلو أثناء ملاحقتهم من قبل القوات على أطراف حي الشبكة بمدينة الشحيل، ورجح الأهالي أن الجثث تعود لعناصر من خلايا “تنظيم الدولة” من أبناء قرية سويدان جزيرة عرف منهم عبد الخضير العواجي.\n\nوتنفذ “قسد” بالاشتراك مع قوات التحالف الدولي عمليات أمنية في مناطق سيطرتها بين الحين والآخر بحثاً عن عناصر من خلايا التنظيم.\n\nحرائق “كارثية” في سورية تحوّل 40 ميلاً مربعاً...\n\n“هل بدأ التطبيع؟”.. الشرع يلتقي قادة إسرائيليين في...\n\n“إسرائيل” تسعى إلى اتفاقات “سلام” مع سوريا ولبنان\n\nنحن واحد: الشعب السوري متضامن وموحّد رغم كل...\n\nهل جاء منفذ هجوم كنيسة دمشق من مخيم...\n\nهل تجاهل تبني هجوم كنيسة دمشق عمدًا؟.. كيف...\n\nدير الزور: قسد تقتل طـفلاً وتصـيب آخر انتقاماً...\n\nوجيه عشائري ورفيقه يلقيان حتفهما في دير الزور.....\n\nتركيا ترفض سياسة “الباب المفتوح” للاجئين إذا انهارت...\n\n15 قتيلاً في تفجير إرهابي داخل كنيسة مار...\n\nدع تعليقاً Cancel Reply"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:51:50+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:51:51+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250708011207id_/https://euphratespost.net/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81/?fbclid=IwAR2d5mcECPP9vJrMTHHbOT4NNUQU6Q3EzUEkk63SCWXRsmw_Lexw_gJSsHM"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250708011207id_/https://euphratespost.net/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81/?fbclid=IwAR2d5mcECPP9vJrMTHHbOT4NNUQU6Q3EzUEkk63SCWXRsmw_Lexw_gJSsHM",
   "incident_ids": [
     "airwars-78911",
     "airwars-78934"
@@ -87,10 +111,10 @@
     "https://euphratespost.net/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81/?fbclid=IwAR2d5mcECPP9vJrMTHHbOT4NNUQU6Q3EzUEkk63SCWXRsmw_Lexw_gJSsHM"
   ],
   "original_url": "https://euphratespost.net/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81/?fbclid=IwAR2d5mcECPP9vJrMTHHbOT4NNUQU6Q3EzUEkk63SCWXRsmw_Lexw_gJSsHM",
-  "page_title": "",
+  "page_title": "قتلى واعتقالات في عملية أمنية للتحالف و\"قسد\" بريف دير الزور - فرات بوست - euphratespost قتلى واعتقالات في عملية أمنية للتحالف و\"قسد\" بريف دير الزور - فرات بوست - euphratespost",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1963-september-26-2021/",
@@ -118,15 +142,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:51:51+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-a03798351a0b2446b9e01837",
   "source_type": "other_web_page",
   "stable_id_basis": "https://euphratespost.net/%D9%82%D8%AA%D9%84%D9%89-%D9%88%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81/?fbclid=IwAR2d5mcECPP9vJrMTHHbOT4NNUQU6Q3EzUEkk63SCWXRsmw_Lexw_gJSsHM",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "قتلى واعتقالات في عملية أمنية للتحالف و”قسد” بريف دير الزور\n\nنفذت قوات خاصة من “قسد” بمساندة طيران التحالف الدولي، عملية أمنية فجر اليوم الأحد في قرية الزر بريف دير الزور الشرقي، واستمرت العملية قرابة ساعتين.\n\nوأفاد مراسلنا، بأن القوات داهمت منزل مشعل القبة في حي المنكار وسط قرية الزر واعتقلت كلاً من: مالك خليل المنكار وأنس حميدي المنكار، إضافة إلى إصابة شخصين آخرين من المدنيين بجروح كانوا بجوار المكان، وانتهت العملية بإحراق منزل عائلة القبة قبل الإنسحاب.\n\nفي سياق متصل، هبطت طائرة مروحية بالقرب من ضفة نهر الفرات على أطراف مدينة الشحيل، بعد ملاحقتها لعدد من الأشخاص كانوا قد فروا من قرية الزر، خلال تنفيذ العملية.\n\nفي هذا الإطار، عثر الأهالي صباح اليوم السبت، على 3 جثث تعود لمجهولين قتلو أثناء ملاحقتهم من قبل القوات على أطراف حي الشبكة بمدينة الشحيل، ورجح الأهالي أن الجثث تعود لعناصر من خلايا “تنظيم الدولة” من أبناء قرية سويدان جزيرة عرف منهم عبد الخضير العواجي.\n\nوتنفذ “قسد” بالاشتراك مع قوات التحالف الدولي عمليات أمنية في مناطق سيطرتها بين الحين والآخر بحثاً عن عناصر من خلايا التنظيم.\n\nحرائق “كارثية” في سورية تحوّل 40 ميلاً مربعاً...\n\n“هل بدأ التطبيع؟”.. الشرع يلتقي قادة إسرائيليين في...\n\n“إسرائيل” تسعى إلى اتفاقات “سلام” مع سوريا ولبنان\n\nنحن واحد: الشعب السوري متضامن وموحّد رغم كل...\n\nهل جاء منفذ هجوم كنيسة دمشق من مخيم...\n\nهل تجاهل تبني هجوم كنيسة دمشق عمدًا؟.. كيف...\n\nدير الزور: قسد تقتل طـفلاً وتصـيب آخر انتقاماً...\n\nوجيه عشائري ورفيقه يلقيان حتفهما في دير الزور.....\n\nتركيا ترفض سياسة “الباب المفتوح” للاجئين إذا انهارت...\n\n15 قتيلاً في تفجير إرهابي داخل كنيسة مار...\n\nدع تعليقاً Cancel Reply",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

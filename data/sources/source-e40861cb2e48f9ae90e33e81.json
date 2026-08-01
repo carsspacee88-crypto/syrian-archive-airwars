@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/8UNDo"
+    "https://archive.is/8UNDo",
+    "https://web.archive.org/web/20240524203132id_/https://www.facebook.com/mahmoud.abotarek.5/posts/pfbid02n7XfbpS36yAgu9RbK9nW9cNhsgbxifFFzkBK7AZhscxe5ZtETU5g552YE41gjYC6l"
   ],
   "attempt_history": [
     {
@@ -105,12 +106,35 @@
   "author": "Abo tarq",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "e0b7d94cc52b96a2af6d479d40f8bc2f53b46fcb8bb9034cbfecdf21471efec9",
+  "content_variants": [
+    {
+      "bytes": 54,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T15:02:25+00:00",
+      "sha256": "e0b7d94cc52b96a2af6d479d40f8bc2f53b46fcb8bb9034cbfecdf21471efec9",
+      "source_url": "https://web.archive.org/web/20240524203132id_/https://www.facebook.com/mahmoud.abotarek.5/posts/pfbid02n7XfbpS36yAgu9RbK9nW9cNhsgbxifFFzkBK7AZhscxe5ZtETU5g552YE41gjYC6l",
+      "text": "أبو طارق تلمنس - #إدلب\n#ترمانين"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "no_archive_capture",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T15:02:24+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T15:02:25+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240524203132id_/https://www.facebook.com/mahmoud.abotarek.5/posts/pfbid02n7XfbpS36yAgu9RbK9nW9cNhsgbxifFFzkBK7AZhscxe5ZtETU5g552YE41gjYC6l"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240524203132id_/https://www.facebook.com/mahmoud.abotarek.5/posts/pfbid02n7XfbpS36yAgu9RbK9nW9cNhsgbxifFFzkBK7AZhscxe5ZtETU5g552YE41gjYC6l",
   "incident_ids": [
     "airwars-106010"
   ],
@@ -126,10 +150,10 @@
     "https://www.facebook.com/mahmoud.abotarek.5/posts/pfbid02n7XfbpS36yAgu9RbK9nW9cNhsgbxifFFzkBK7AZhscxe5ZtETU5g552YE41gjYC6l"
   ],
   "original_url": "https://www.facebook.com/mahmoud.abotarek.5/posts/pfbid02n7XfbpS36yAgu9RbK9nW9cNhsgbxifFFzkBK7AZhscxe5ZtETU5g552YE41gjYC6l",
-  "page_title": "",
+  "page_title": "أبو طارق تلمنس أبو طارق تلمنس أبو طارق تلمنس - #إدلب\n#ترمانين",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4835-october-6-2023/",
@@ -149,15 +173,15 @@
     "reason": "no_archive_capture",
     "status": "deferred"
   },
-  "retrieval_status": "no_archive_capture",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T15:02:25+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-e40861cb2e48f9ae90e33e81",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/mahmoud.abotarek.5/posts/pfbid02n7XfbpS36yAgu9RbK9nW9cNhsgbxifFFzkBK7AZhscxe5ZtETU5g552YE41gjYC6l",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "أبو طارق تلمنس - #إدلب\n#ترمانين",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

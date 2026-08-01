@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/7dcr8"
+    "https://archive.is/7dcr8",
+    "https://web.archive.org/web/20240525024629id_/https://www.facebook.com/syrtelevision/posts/pfbid0kcNbm5YEaxdzL3vcnWjqWGexturUdiQbqC23TK4DgjRCkH9HoiEPDLZx8UtjsDAxl"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syria_TV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "ecffc3e349cd31834b17622e5c9afa45e100441b920e1a795ece772bf6eab066",
+  "content_variants": [
+    {
+      "bytes": 207,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:56:16+00:00",
+      "sha256": "ecffc3e349cd31834b17622e5c9afa45e100441b920e1a795ece772bf6eab066",
+      "source_url": "https://web.archive.org/web/20240525024629id_/https://www.facebook.com/syrtelevision/posts/pfbid0kcNbm5YEaxdzL3vcnWjqWGexturUdiQbqC23TK4DgjRCkH9HoiEPDLZx8UtjsDAxl",
+      "text": "#عاجل | الدفاع المدني: إصابات بسبب غارة روسية استهدفت مزرعة لتربية الدواجن في قرية الشخيب غربي #إدلب\n#تلفزيون_سوريا"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:56:15+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:56:16+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240525024629id_/https://www.facebook.com/syrtelevision/posts/pfbid0kcNbm5YEaxdzL3vcnWjqWGexturUdiQbqC23TK4DgjRCkH9HoiEPDLZx8UtjsDAxl"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240525024629id_/https://www.facebook.com/syrtelevision/posts/pfbid0kcNbm5YEaxdzL3vcnWjqWGexturUdiQbqC23TK4DgjRCkH9HoiEPDLZx8UtjsDAxl",
   "incident_ids": [
     "airwars-105937"
   ],
@@ -85,10 +109,10 @@
     "https://www.facebook.com/syrtelevision/posts/pfbid0kcNbm5YEaxdzL3vcnWjqWGexturUdiQbqC23TK4DgjRCkH9HoiEPDLZx8UtjsDAxl"
   ],
   "original_url": "https://www.facebook.com/syrtelevision/posts/pfbid0kcNbm5YEaxdzL3vcnWjqWGexturUdiQbqC23TK4DgjRCkH9HoiEPDLZx8UtjsDAxl",
-  "page_title": "",
+  "page_title": "Syria TV تلفزيون سوريا Syria TV تلفزيون سوريا #عاجل | الدفاع المدني: إصابات... - Syria TV تلفزيون سوريا",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4830-october-6-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:56:16+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-bcc5bc8af2f4be81f4952be2",
   "source_type": "public_facebook_post",
   "stable_id_basis": "https://www.facebook.com/syrtelevision/posts/pfbid0kcNbm5YEaxdzL3vcnWjqWGexturUdiQbqC23TK4DgjRCkH9HoiEPDLZx8UtjsDAxl",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "#عاجل | الدفاع المدني: إصابات بسبب غارة روسية استهدفت مزرعة لتربية الدواجن في قرية الشخيب غربي #إدلب\n#تلفزيون_سوريا",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

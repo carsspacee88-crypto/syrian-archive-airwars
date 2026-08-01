@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/ExMF1"
+    "https://archive.ph/ExMF1",
+    "https://web.archive.org/web/20250811052559id_/https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Syria TV",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "22c79491d090a4463d2ed4a8984fe6d28f6c10a05193e16f6c555338007c9312",
+  "content_variants": [
+    {
+      "bytes": 1682,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:28:57+00:00",
+      "sha256": "22c79491d090a4463d2ed4a8984fe6d28f6c10a05193e16f6c555338007c9312",
+      "source_url": "https://web.archive.org/web/20250811052559id_/https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A",
+      "text": "مقتل 3 مدنيين بقصف النظام على ريف إدلب الغربي\n\nقصفت قوات النظام قرية اليونسية (أوبين) بريف إدلب الغربي ما أسفر عن مقتل 3 مدنيين من عائلة واحدة بينهم طفل.\n\nوأفاد مراسل تلفزيون سوريا بأن قوات النظام استهدفت بصاروخ مضاد للدروع منزلاً يقطنه نازحون في قرية اليونسية (أوبين) الواقعة في ريف مدينة جسر الشغور، على مقربة من خط المواجهة مع قوات النظام في ريف اللاذقية الشمالي.\n\nواستهدفت قوات النظام يوم أمس الخميس بالمدفعية بلدة آفس وأطراف بلدة النيرب بريف إدلب الشرقي، وبلدة البارة بريف المحافظة الجنوبي، دون تسجيل ضحايا مدنيين.\n\nوقالت الشبكة السورية لحقوق الإنسان إن شهر تشرين الثاني شهد زيادةً في حصيلة الضحايا مقارنةً بسابقه تشرين الأول. وقد وثق التقرير مقتل 64 مدنياً في سوريا، بينهم 16 مدنياً في محافظة إدلب، كما سجل هجوماً بذخائر عنقودية على يد قوات النظام السوري استهدف منطقةً مكتظةً بمخيماتٍ للنازحين في ريف إدلب، وهو الهجوم الأول بهذه الذخائر منذ الـ8 من حزيران 2020 آخر هجوم موثق لاستخدام الذخائر العنقودية.\n\nاخترنا لك\n\nالأكثر قراءة"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:28:57+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:28:57+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20250811052559id_/https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20250811052559id_/https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A",
   "incident_ids": [
     "airwars-85703"
   ],
@@ -85,10 +109,10 @@
     "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A"
   ],
   "original_url": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A",
-  "page_title": "",
+  "page_title": "مقتل 3 مدنيين بقصف النظام على ريف إدلب الغربي مقتل 3 مدنيين بقصف النظام على ريف إدلب الغربي مقتل 3 مدنيين بقصف النظام على ريف إدلب الغربي",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/rs4748-december-2-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:28:57+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-05bae68a4d988e9a57276c22",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.syria.tv/%D9%85%D9%82%D8%AA%D9%84-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "مقتل 3 مدنيين بقصف النظام على ريف إدلب الغربي\n\nقصفت قوات النظام قرية اليونسية (أوبين) بريف إدلب الغربي ما أسفر عن مقتل 3 مدنيين من عائلة واحدة بينهم طفل.\n\nوأفاد مراسل تلفزيون سوريا بأن قوات النظام استهدفت بصاروخ مضاد للدروع منزلاً يقطنه نازحون في قرية اليونسية (أوبين) الواقعة في ريف مدينة جسر الشغور، على مقربة من خط المواجهة مع قوات النظام في ريف اللاذقية الشمالي.\n\nواستهدفت قوات النظام يوم أمس الخميس بالمدفعية بلدة آفس وأطراف بلدة النيرب بريف إدلب الشرقي، وبلدة البارة بريف المحافظة الجنوبي، دون تسجيل ضحايا مدنيين.\n\nوقالت الشبكة السورية لحقوق الإنسان إن شهر تشرين الثاني شهد زيادةً في حصيلة الضحايا مقارنةً بسابقه تشرين الأول. وقد وثق التقرير مقتل 64 مدنياً في سوريا، بينهم 16 مدنياً في محافظة إدلب، كما سجل هجوماً بذخائر عنقودية على يد قوات النظام السوري استهدف منطقةً مكتظةً بمخيماتٍ للنازحين في ريف إدلب، وهو الهجوم الأول بهذه الذخائر منذ الـ8 من حزيران 2020 آخر هجوم موثق لاستخدام الذخائر العنقودية.\n\nاخترنا لك\n\nالأكثر قراءة",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

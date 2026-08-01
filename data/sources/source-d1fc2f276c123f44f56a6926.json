@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/gnvpo"
+    "https://archive.ph/gnvpo",
+    "https://web.archive.org/web/20251031221957id_/https://www.aa.com.tr/ar/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%87%D8%AC%D9%88%D9%85-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D8%B4%D9%86%D9%87-%D9%88%D8%A7%D9%8A-%D8%A8%D9%8A-%D8%AC%D9%8A/2603102"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Anadolu Agency",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "d868580f8a2e0900e4777ce0514134f6e0138975fc47c4854a662339846bc580",
+  "content_variants": [
+    {
+      "bytes": 1538,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:59:14+00:00",
+      "sha256": "d868580f8a2e0900e4777ce0514134f6e0138975fc47c4854a662339846bc580",
+      "source_url": "https://web.archive.org/web/20251031221957id_/https://www.aa.com.tr/ar/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%87%D8%AC%D9%88%D9%85-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D8%B4%D9%86%D9%87-%D9%88%D8%A7%D9%8A-%D8%A8%D9%8A-%D8%AC%D9%8A/2603102",
+      "text": "سوريا.. إصابة 3 مدنيين في هجوم إرهابي شنه \"واي بي جي\"\n\nسوريا / الأناضول\n\nأصيب 3 مدنيين بجروح، الأربعاء، في هجوم صاروخي شنه إرهابيون من تنظيم \"واي بي جي/ بي كي كي\" (YPG/PKK) بمنطقة عملية درع الفرات شمالي سوريا.\n\nوعلم مراسل الأناضول من مصادر طبية بمستشفى جرابلس، أن قذيفة حرارية أطلقها عناصر من تنظيم \"واي بي جي\" (ذارع بي كي كي في سوريا)، استهدفت سيارة في جرابلس وأدت إلى إصابة 3 مدنيين.\n\nوتم نقل المدنيين الثلاثة إلى مستشفى جرابلس لتلقي العلاج، وعقب الهجوم استهدفت القوات المسلحة التركية مواقع التنظيم الإرهابي بمدافع هاوترز.\n\nيذكر أن القوات التركية بالتعاون مع الجيش الوطني السوري، نفذت عمليات \"درع الفرات\" و\"غصن الزيتون\" و\"نبع السلام\" شمالي سوريا، ضد تنظيمي \"داعش\" و\"بي كي كي/ واي بي جي\"، وطهرت آلاف الكيلومترات من الأراضي من الإرهابيين، وأتاحت الفرصة لآلاف السوريين للعودة إلى أراضيهم والعيش فيها بأمان.\n\nأخبار ذات صلة\n\nواشنطن: ندعم رفع عقوبات قانون \"قيصر\" عن سوريا"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:59:13+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:59:14+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20251031221957id_/https://www.aa.com.tr/ar/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%87%D8%AC%D9%88%D9%85-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D8%B4%D9%86%D9%87-%D9%88%D8%A7%D9%8A-%D8%A8%D9%8A-%D8%AC%D9%8A/2603102"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20251031221957id_/https://www.aa.com.tr/ar/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%87%D8%AC%D9%88%D9%85-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D8%B4%D9%86%D9%87-%D9%88%D8%A7%D9%8A-%D8%A8%D9%8A-%D8%AC%D9%8A/2603102",
   "incident_ids": [
     "airwars-83793"
   ],
@@ -85,10 +109,10 @@
     "https://www.aa.com.tr/ar/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%87%D8%AC%D9%88%D9%85-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D8%B4%D9%86%D9%87-%D9%88%D8%A7%D9%8A-%D8%A8%D9%8A-%D8%AC%D9%8A/2603102"
   ],
   "original_url": "https://www.aa.com.tr/ar/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%87%D8%AC%D9%88%D9%85-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D8%B4%D9%86%D9%87-%D9%88%D8%A7%D9%8A-%D8%A8%D9%8A-%D8%AC%D9%8A/2603102",
-  "page_title": "",
+  "page_title": "سوريا.. إصابة 3 مدنيين في هجوم إرهابي شنه \"واي بي جي\" سوريا.. إصابة 3 مدنيين في هجوم إرهابي شنه \"واي بي جي\" سوريا.. إصابة 3 مدنيين في هجوم إرهابي شنه \"واي بي جي\"",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys135-june-1-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:59:14+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-d1fc2f276c123f44f56a6926",
   "source_type": "news_article",
   "stable_id_basis": "https://www.aa.com.tr/ar/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-3-%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%87%D8%AC%D9%88%D9%85-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D8%B4%D9%86%D9%87-%D9%88%D8%A7%D9%8A-%D8%A8%D9%8A-%D8%AC%D9%8A/2603102",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "سوريا.. إصابة 3 مدنيين في هجوم إرهابي شنه \"واي بي جي\"\n\nسوريا / الأناضول\n\nأصيب 3 مدنيين بجروح، الأربعاء، في هجوم صاروخي شنه إرهابيون من تنظيم \"واي بي جي/ بي كي كي\" (YPG/PKK) بمنطقة عملية درع الفرات شمالي سوريا.\n\nوعلم مراسل الأناضول من مصادر طبية بمستشفى جرابلس، أن قذيفة حرارية أطلقها عناصر من تنظيم \"واي بي جي\" (ذارع بي كي كي في سوريا)، استهدفت سيارة في جرابلس وأدت إلى إصابة 3 مدنيين.\n\nوتم نقل المدنيين الثلاثة إلى مستشفى جرابلس لتلقي العلاج، وعقب الهجوم استهدفت القوات المسلحة التركية مواقع التنظيم الإرهابي بمدافع هاوترز.\n\nيذكر أن القوات التركية بالتعاون مع الجيش الوطني السوري، نفذت عمليات \"درع الفرات\" و\"غصن الزيتون\" و\"نبع السلام\" شمالي سوريا، ضد تنظيمي \"داعش\" و\"بي كي كي/ واي بي جي\"، وطهرت آلاف الكيلومترات من الأراضي من الإرهابيين، وأتاحت الفرصة لآلاف السوريين للعودة إلى أراضيهم والعيش فيها بأمان.\n\nأخبار ذات صلة\n\nواشنطن: ندعم رفع عقوبات قانون \"قيصر\" عن سوريا",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

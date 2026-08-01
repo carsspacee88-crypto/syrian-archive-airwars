@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/hbyor"
+    "https://archive.is/hbyor",
+    "https://web.archive.org/web/20240423135022id_/https://www.zamanalwsl.net/news/article/148182/"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Zaman Al Wasl",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "31beaa81bc3db62cf56ed43c6830e5dca79351c099ea20f5def2fa3b18c231e3",
+  "content_variants": [
+    {
+      "bytes": 253,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:29:04+00:00",
+      "sha256": "31beaa81bc3db62cf56ed43c6830e5dca79351c099ea20f5def2fa3b18c231e3",
+      "source_url": "https://web.archive.org/web/20240423135022id_/https://www.zamanalwsl.net/news/article/148182/",
+      "text": "19 آب 2022\n\n\"قسد\" والأسد يرتبكان مجزرة في مدينة \"الباب\" شرقي حلب\n\n0\n\nالتعليقات\n\nالباب\n\nمدينة\n\nسوق\n\nقوات\n\nالنظام\n\nإثر\n\nالوصل\n\nشرقي\n\nتعليقات حول الموضوع"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:29:03+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:29:04+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20240423135022id_/https://www.zamanalwsl.net/news/article/148182/"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20240423135022id_/https://www.zamanalwsl.net/news/article/148182/",
   "incident_ids": [
     "airwars-84682"
   ],
@@ -85,10 +109,10 @@
     "https://www.zamanalwsl.net/news/article/148182/"
   ],
   "original_url": "https://www.zamanalwsl.net/news/article/148182/",
-  "page_title": "",
+  "page_title": "\"قسد\" والأسد يرتبكان مجزرة في مدينة \"الباب\" شرقي حلب | زمان الوصل قسد والأسد يرتبكان مجزرة في مدينة الباب شرقي حلب قسد والأسد يرتبكان مجزرة في مدينة الباب شرقي حلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys149-august-19-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:29:04+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-11049aaa679174cd651b2051",
   "source_type": "other_web_page",
   "stable_id_basis": "https://www.zamanalwsl.net/news/article/148182/",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "19 آب 2022\n\n\"قسد\" والأسد يرتبكان مجزرة في مدينة \"الباب\" شرقي حلب\n\n0\n\nالتعليقات\n\nالباب\n\nمدينة\n\nسوق\n\nقوات\n\nالنظام\n\nإثر\n\nالوصل\n\nشرقي\n\nتعليقات حول الموضوع",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

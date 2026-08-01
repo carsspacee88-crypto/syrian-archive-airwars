@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.ph/VMvxu"
+    "https://archive.ph/VMvxu",
+    "https://web.archive.org/web/20260422235933id_/https://shaam.org/news/syria-news/shhyd-wjrha-mdnywn-bqsf-lmylyshya-qsd-ala-mhyt-mara-shmaly-hlb"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Sham",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "5dd9a9ac5bb2f9c0bc562d8b5faf7c6f8fa9f7b6b2784bd287eccb05cf6577be",
+  "content_variants": [
+    {
+      "bytes": 2485,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:29:15+00:00",
+      "sha256": "5dd9a9ac5bb2f9c0bc562d8b5faf7c6f8fa9f7b6b2784bd287eccb05cf6577be",
+      "source_url": "https://web.archive.org/web/20260422235933id_/https://shaam.org/news/syria-news/shhyd-wjrha-mdnywn-bqsf-lmylyshya-qsd-ala-mhyt-mara-shmaly-hlb",
+      "text": "شهيد وجرحى مدنيون بقصف لميليشيا \"قسد\" على محيط \"مارع\" شمالي حلب\n\nشهيد وجرحى مدنيون بقصف لميليشيا \"قسد\" على محيط \"مارع\" شمالي حلب\n\nقصفت ميليشيات قوات سوريا الديمقراطية \"قسد\"، اليوم الخميس 18 آب/ أغسطس، محيط مدينة مارع بريف حلب الشمالي، ما أدى إلى استشهاد شاب وجرح آخرين ضمن سيارة مدنية طالتها قذائف \"قسد\".\n\nوقال \"مكتب مارع الإعلامي\"، عبر صفحته الرسمية على فيسبوك إن شهيدا ارتقى وجرحى عدد من الأشخاص جراء استهداف ميليشيا قسد سيارة على طريق \"إعزاز - مارع\"، ولفت ناشطون إلى أن الشهيد هو الشاب \"محمد ناصر\".\n\nوتظهر المشاهد التي وثقت الحادثة قيام فرق الدفاع المدني السوري بالاستجابة لمكان الحدث، وتداول ناشطون مقطعا مصورا يظهر آثار الخراب الناتجة استهداف سيارة مدنية وسط معلومات عن استهدافها بصاروخ موجه.\n\nوأعلن الجيش الوطني يوم أمس قتل عناصر من قسد وإصابة آخرين بعملية نوعية على جبهة \"مريمين\" بريف حلب الشمالي، فيما قالت مصادر إعلامية إنه استهدف اليوم مواقع مليشيات قسد في محيط قريتي \"بيلونية\" و\"الشيخ عيسى\" شمالي حلب.\n\nفي حين أعلنت وزارة الدفاع التركية عن تحييد 9 عناصر من ميليشيات قوات سوريا الديمقراطية \"قسد\" كانوا يعدون لهجوم يستهدف منطقة \"نبع السلام\" شمال شرقي سوريا.\n\nوتجدر الإشارة إلى أن العديد من المناطق المحررة في الشمال السوري تقع على تماس مباشر مع مواقع سيطرة \"قوات سوريا الديمقراطية\"، لا سيّما في أرياف حلب والحسكة والرقة وطالما تستهدف قوات \"قسد\"، مواقع المدنيين بعمليات القصف والقنص والتسلل علاوة على إرسال المفخخات والعبوات الناسفة ما يسفر عن استشهاد وجرح مدنيين بشكل متكرر."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:29:15+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:29:15+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260422235933id_/https://shaam.org/news/syria-news/shhyd-wjrha-mdnywn-bqsf-lmylyshya-qsd-ala-mhyt-mara-shmaly-hlb"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260422235933id_/https://shaam.org/news/syria-news/shhyd-wjrha-mdnywn-bqsf-lmylyshya-qsd-ala-mhyt-mara-shmaly-hlb",
   "incident_ids": [
     "airwars-84671"
   ],
@@ -85,10 +109,10 @@
     "https://shaam.org/news/syria-news/shhyd-wjrha-mdnywn-bqsf-lmylyshya-qsd-ala-mhyt-mara-shmaly-hlb"
   ],
   "original_url": "https://shaam.org/news/syria-news/shhyd-wjrha-mdnywn-bqsf-lmylyshya-qsd-ala-mhyt-mara-shmaly-hlb",
-  "page_title": "",
+  "page_title": "شهيد وجرحى مدنيون بقصف لميليشيا \"قسد\" على محيط \"مارع\" شمالي حلب | شبكة شام الإخبارية شهيد وجرحى مدنيون بقصف لميليشيا \"قسد\" على محيط \"مارع\" شمالي حلب شهيد وجرحى مدنيون بقصف لميليشيا \"قسد\" على محيط \"مارع\" شمالي حلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys148-august-18-2022/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:29:15+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-162d2f1dc26a30c1ffc6ca50",
   "source_type": "other_web_page",
   "stable_id_basis": "https://shaam.org/news/syria-news/shhyd-wjrha-mdnywn-bqsf-lmylyshya-qsd-ala-mhyt-mara-shmaly-hlb",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "شهيد وجرحى مدنيون بقصف لميليشيا \"قسد\" على محيط \"مارع\" شمالي حلب\n\nشهيد وجرحى مدنيون بقصف لميليشيا \"قسد\" على محيط \"مارع\" شمالي حلب\n\nقصفت ميليشيات قوات سوريا الديمقراطية \"قسد\"، اليوم الخميس 18 آب/ أغسطس، محيط مدينة مارع بريف حلب الشمالي، ما أدى إلى استشهاد شاب وجرح آخرين ضمن سيارة مدنية طالتها قذائف \"قسد\".\n\nوقال \"مكتب مارع الإعلامي\"، عبر صفحته الرسمية على فيسبوك إن شهيدا ارتقى وجرحى عدد من الأشخاص جراء استهداف ميليشيا قسد سيارة على طريق \"إعزاز - مارع\"، ولفت ناشطون إلى أن الشهيد هو الشاب \"محمد ناصر\".\n\nوتظهر المشاهد التي وثقت الحادثة قيام فرق الدفاع المدني السوري بالاستجابة لمكان الحدث، وتداول ناشطون مقطعا مصورا يظهر آثار الخراب الناتجة استهداف سيارة مدنية وسط معلومات عن استهدافها بصاروخ موجه.\n\nوأعلن الجيش الوطني يوم أمس قتل عناصر من قسد وإصابة آخرين بعملية نوعية على جبهة \"مريمين\" بريف حلب الشمالي، فيما قالت مصادر إعلامية إنه استهدف اليوم مواقع مليشيات قسد في محيط قريتي \"بيلونية\" و\"الشيخ عيسى\" شمالي حلب.\n\nفي حين أعلنت وزارة الدفاع التركية عن تحييد 9 عناصر من ميليشيات قوات سوريا الديمقراطية \"قسد\" كانوا يعدون لهجوم يستهدف منطقة \"نبع السلام\" شمال شرقي سوريا.\n\nوتجدر الإشارة إلى أن العديد من المناطق المحررة في الشمال السوري تقع على تماس مباشر مع مواقع سيطرة \"قوات سوريا الديمقراطية\"، لا سيّما في أرياف حلب والحسكة والرقة وطالما تستهدف قوات \"قسد\"، مواقع المدنيين بعمليات القصف والقنص والتسلل علاوة على إرسال المفخخات والعبوات الناسفة ما يسفر عن استشهاد وجرح مدنيين بشكل متكرر.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

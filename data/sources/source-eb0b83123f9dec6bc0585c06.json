@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.md/EqQuH"
+    "https://archive.md/EqQuH",
+    "https://web.archive.org/web/20241207225826id_/https://syria.liveuamap.com/en/2021/24-november-three-members-of-the-syrian-armed-forces-were"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Liveuamap",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "fbde9ce1c2deb068580e44a31fe62b725b75bf5e9977d9bf2c228bb600606885",
+  "content_variants": [
+    {
+      "bytes": 444,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T15:03:42+00:00",
+      "sha256": "fbde9ce1c2deb068580e44a31fe62b725b75bf5e9977d9bf2c228bb600606885",
+      "source_url": "https://web.archive.org/web/20241207225826id_/https://syria.liveuamap.com/en/2021/24-november-three-members-of-the-syrian-armed-forces-were",
+      "text": "Three members of the Syrian Armed Forces were killed overnight during Israeli airstrikes in Homs\n\nLiveuamap is no longer providing historic data for previous years in free version\n\nBuy one of our premium plans:Buy \"PRO\" from $7/month PRO account removes advertising, enables satellite maps, allowing to create own regions and opens additional features\n\nBuy \"Adv free\" for $9.54/half-year Adv free account removes advertising only\n\nBack to Syria"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T15:03:41+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T15:03:42+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20241207225826id_/https://syria.liveuamap.com/en/2021/24-november-three-members-of-the-syrian-armed-forces-were"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20241207225826id_/https://syria.liveuamap.com/en/2021/24-november-three-members-of-the-syrian-armed-forces-were",
   "incident_ids": [
     "airwars-80293"
   ],
@@ -85,10 +109,10 @@
     "https://syria.liveuamap.com/en/2021/24-november-three-members-of-the-syrian-armed-forces-were"
   ],
   "original_url": "https://syria.liveuamap.com/en/2021/24-november-three-members-of-the-syrian-armed-forces-were",
-  "page_title": "",
+  "page_title": "Three members of the Syrian Armed Forces were killed overnight during Israeli airstrikes in Homs Homs‎, Homs Governorate - Map of Syrian Civil War - Syria news and incidents today - syria.liveuamap.com Three members of the Syrian Armed Forces were killed overnight during Israeli airstrikes in Homs. Explore Syrian Civil War news on live map in English. Civil war and International intervention in Syria. War on terrorism in Syria Three members of the Syrian Armed Forces were killed overnight during Israeli airstrikes in Homs Homs‎, Homs Governorate - Map of Syrian Civil War - Syria news and incidents today - syria.liveuamap.com",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/issy020-november-24-2021/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T15:03:42+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-eb0b83123f9dec6bc0585c06",
   "source_type": "other_web_page",
   "stable_id_basis": "https://syria.liveuamap.com/en/2021/24-november-three-members-of-the-syrian-armed-forces-were",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "Three members of the Syrian Armed Forces were killed overnight during Israeli airstrikes in Homs\n\nLiveuamap is no longer providing historic data for previous years in free version\n\nBuy one of our premium plans:Buy \"PRO\" from $7/month PRO account removes advertising, enables satellite maps, allowing to create own regions and opens additional features\n\nBuy \"Adv free\" for $9.54/half-year Adv free account removes advertising only\n\nBack to Syria",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,

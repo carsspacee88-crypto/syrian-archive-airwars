@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/0tme0"
+    "https://archive.is/0tme0",
+    "https://web.archive.org/web/20260416073629id_/https://shaam.org/news/syria-news/jrha-mdnywn-bqsf-msdrh-alnzam-w-qsd-tal-mkhym-llnazhyn-shmaly-hlb"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Shaam News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "2ae0c71b4a8a4ddfcc681ba7322731b756d21070358b7c55035daa443d62de93",
+  "content_variants": [
+    {
+      "bytes": 2723,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:51:21+00:00",
+      "sha256": "2ae0c71b4a8a4ddfcc681ba7322731b756d21070358b7c55035daa443d62de93",
+      "source_url": "https://web.archive.org/web/20260416073629id_/https://shaam.org/news/syria-news/jrha-mdnywn-bqsf-msdrh-alnzam-w-qsd-tal-mkhym-llnazhyn-shmaly-hlb",
+      "text": "جرحى مدنيون بقصف مصدره النظام و\"قسد\" طال مخيم للنازحين شمالي حلب\n\nجرحى مدنيون بقصف مصدره النظام و\"قسد\" طال مخيم للنازحين شمالي حلب\n\nتعرض مخيم \"الأمل\" قرب مخيم \"كويت الرحمة\" قرب مدينة عفرين بريف حلب الشمالي، اليوم السبت 17 حزيران/ يونيو، لقصف صاروخي مصدره قوات النظام و\"قوات سوريا الديمقراطية\"، (قسد).\n\nوأعلنت مؤسسة \"الدفاع المدني السوري\"، (الخوذ البيضاء) في بيان لها عن إصابة 4 مدنيين بينهم طفلة وامرأتان، وحالة هلع بين المدنيين إثر قصف صاروخي مصدره المناطق التي تسيطر عليها قوات النظام و\"قسد\".\n\nوأكدت أن فرق الإنقاذ والإسعاف التابعة للمنظومة أسعفت المصابين وتفقدت المخيم الذي تعرض للقصف وأمّنت المكان، وتداول ناشطون في مواقع التواصل الاجتماعي مشاهد تظهر آثار القصف والدمار الكبير الذي لحق بالوحدات السكنية ضمن المخيم المستهدف.\n\nوذكر الدفاع المدني السوري بوقت سابق أن مخيم كويت الرحمة في ريف عفرين شمالي حلب، الذي يضم أيضاً عدداً من المخيمات العشوائية القريبة، يشهد هجمات إرهابية تصل حتى إلى مخيمات التهجير.\n\nوكان استهدف قصف صاروخي مخيم \"وادي الحمام\" القريب من مخيم \"كويت الرحمة\" بتاريخ 25 تشرين الأول من العام 2022 الماضي وبلغ عدد الاستهدافات للمخيمين 5 استهدافات خلال شهر واحد فقط.\n\nويتعرض مخيم \"كويت الرحمة\" والمخيمات القريبة منه، في منطقة إرندة بريف عفرين، لقصف شبه يومي من مواقع قوات سوريا الديمقراطية، التي تكشف المنطقة بشكل كامل، حيث تواصل استهداف المخيم والمناطق المحيطة به بشكل ممنهج ومقصود.\n\nووجه أهالي المخيم العديد من النداءات للجهات المعنية في المنطقة، لنقل مناطق سكنهم إلى مكان آخر، بعد أن غدت أجساد أطفالهم دروعاً بشرية، تقوم \"قسد\" باستهدافهم بشكل متكرر، سبق أن سببت سقوط ضحايا بين المدنيين هناك."
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:51:21+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:51:21+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20260416073629id_/https://shaam.org/news/syria-news/jrha-mdnywn-bqsf-msdrh-alnzam-w-qsd-tal-mkhym-llnazhyn-shmaly-hlb"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20260416073629id_/https://shaam.org/news/syria-news/jrha-mdnywn-bqsf-msdrh-alnzam-w-qsd-tal-mkhym-llnazhyn-shmaly-hlb",
   "incident_ids": [
     "airwars-89594"
   ],
@@ -85,10 +109,10 @@
     "https://shaam.org/news/syria-news/jrha-mdnywn-bqsf-msdrh-alnzam-w-qsd-tal-mkhym-llnazhyn-shmaly-hlb"
   ],
   "original_url": "https://shaam.org/news/syria-news/jrha-mdnywn-bqsf-msdrh-alnzam-w-qsd-tal-mkhym-llnazhyn-shmaly-hlb",
-  "page_title": "",
+  "page_title": "جرحى مدنيون بقصف مصدره النظام و\"قسد\" طال مخيم للنازحين شمالي حلب | شبكة شام الإخبارية جرحى مدنيون بقصف مصدره النظام و\"قسد\" طال مخيم للنازحين شمالي حلب جرحى مدنيون بقصف مصدره النظام و\"قسد\" طال مخيم للنازحين شمالي حلب",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ys166-june-17-2023/",
@@ -108,15 +132,15 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:51:21+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-9cad4544e5f7610b2fa4d614",
   "source_type": "news_article",
   "stable_id_basis": "https://shaam.org/news/syria-news/jrha-mdnywn-bqsf-msdrh-alnzam-w-qsd-tal-mkhym-llnazhyn-shmaly-hlb",
   "text_ar": "",
-  "text_original": "",
+  "text_original": "جرحى مدنيون بقصف مصدره النظام و\"قسد\" طال مخيم للنازحين شمالي حلب\n\nجرحى مدنيون بقصف مصدره النظام و\"قسد\" طال مخيم للنازحين شمالي حلب\n\nتعرض مخيم \"الأمل\" قرب مخيم \"كويت الرحمة\" قرب مدينة عفرين بريف حلب الشمالي، اليوم السبت 17 حزيران/ يونيو، لقصف صاروخي مصدره قوات النظام و\"قوات سوريا الديمقراطية\"، (قسد).\n\nوأعلنت مؤسسة \"الدفاع المدني السوري\"، (الخوذ البيضاء) في بيان لها عن إصابة 4 مدنيين بينهم طفلة وامرأتان، وحالة هلع بين المدنيين إثر قصف صاروخي مصدره المناطق التي تسيطر عليها قوات النظام و\"قسد\".\n\nوأكدت أن فرق الإنقاذ والإسعاف التابعة للمنظومة أسعفت المصابين وتفقدت المخيم الذي تعرض للقصف وأمّنت المكان، وتداول ناشطون في مواقع التواصل الاجتماعي مشاهد تظهر آثار القصف والدمار الكبير الذي لحق بالوحدات السكنية ضمن المخيم المستهدف.\n\nوذكر الدفاع المدني السوري بوقت سابق أن مخيم كويت الرحمة في ريف عفرين شمالي حلب، الذي يضم أيضاً عدداً من المخيمات العشوائية القريبة، يشهد هجمات إرهابية تصل حتى إلى مخيمات التهجير.\n\nوكان استهدف قصف صاروخي مخيم \"وادي الحمام\" القريب من مخيم \"كويت الرحمة\" بتاريخ 25 تشرين الأول من العام 2022 الماضي وبلغ عدد الاستهدافات للمخيمين 5 استهدافات خلال شهر واحد فقط.\n\nويتعرض مخيم \"كويت الرحمة\" والمخيمات القريبة منه، في منطقة إرندة بريف عفرين، لقصف شبه يومي من مواقع قوات سوريا الديمقراطية، التي تكشف المنطقة بشكل كامل، حيث تواصل استهداف المخيم والمناطق المحيطة به بشكل ممنهج ومقصود.\n\nووجه أهالي المخيم العديد من النداءات للجهات المعنية في المنطقة، لنقل مناطق سكنهم إلى مكان آخر، بعد أن غدت أجساد أطفالهم دروعاً بشرية، تقوم \"قسد\" باستهدافهم بشكل متكرر، سبق أن سببت سقوط ضحايا بين المدنيين هناك.",
   "text_original_language": "ar",
   "translation": {
     "chunks": [],

@@ -1,7 +1,8 @@
 {
   "airwars_source_ids": [],
   "archived_urls": [
-    "https://archive.is/7hgrR"
+    "https://archive.is/7hgrR",
+    "https://web.archive.org/web/20230604200355id_/https://hawarnews.com/en/haber/death-toll-of-the-turkish-attack-on-tal-rifaat-has-risen-to-3-h32545.html"
   ],
   "attempt_history": [
     {
@@ -64,12 +65,35 @@
   "author": "Hawar News",
   "captions": [],
   "collection_policy": "archived_url_only",
-  "content_hash": null,
-  "content_variants": [],
+  "content_hash": "8526ce3c3879f9c49590b759de637a289495e3dd46487d70aba989ee1b2e1dbd",
+  "content_variants": [
+    {
+      "bytes": 922,
+      "provenance": "wayback_capture",
+      "retrieved_at": "2026-08-01T14:34:28+00:00",
+      "sha256": "8526ce3c3879f9c49590b759de637a289495e3dd46487d70aba989ee1b2e1dbd",
+      "source_url": "https://web.archive.org/web/20230604200355id_/https://hawarnews.com/en/haber/death-toll-of-the-turkish-attack-on-tal-rifaat-has-risen-to-3-h32545.html",
+      "text": "ANHA correspondent reported the martyrdom of Fatima Othman Ma'mo (21 years), in Afreen Hospital in Fafen district.\n\nToday, a suicide drone belonging to the Turkish occupation army targeted the center of Tal Rifaat district in Shahba Canton, which led to the death and injury of 9 citizens, including children and women.\n\nAccording to ANHA correspondents, Rashed Aliko (28 years) martyred, while the identity of the other martyr was not known.\n\nAs for the injured, they are:\n\n* Hussein Murad Qrouki (13 years old)\n\n* Manan Rashid Hussein (57 years old)\n\n* Aged Fakhry Sheikho (32 years old)\n\n* Samer Abd al-Qader Rasho (31 years old)\n\n* Zuhair Abd al-Rahman Mohammed (36 years old)\n\nSh-S\n\nANHA\n\nOther news\n\n​​​​​​​Mine exploded in a vehicle of the Turkish occupation in Afrin\n\n​​​​​​​SDF hands over new batch of ISIS mercenaries; their families to Iraq\n\nSDF capture 21 of ISIS mercenaries in May"
+    }
+  ],
   "descriptions": [],
-  "extraction_status": "pending",
-  "failure_reason": "archive_lookup_failed",
-  "final_redirected_url": "",
+  "direct_archive_attempts": [
+    {
+      "at": "2026-08-01T14:34:27+00:00",
+      "provider": "wayback",
+      "status": 200
+    },
+    {
+      "at": "2026-08-01T14:34:28+00:00",
+      "provider": "wayback",
+      "role": "archive_replay",
+      "status": 200,
+      "url": "https://web.archive.org/web/20230604200355id_/https://hawarnews.com/en/haber/death-toll-of-the-turkish-attack-on-tal-rifaat-has-risen-to-3-h32545.html"
+    }
+  ],
+  "extraction_status": "text_extracted",
+  "failure_reason": null,
+  "final_redirected_url": "https://web.archive.org/web/20230604200355id_/https://hawarnews.com/en/haber/death-toll-of-the-turkish-attack-on-tal-rifaat-has-risen-to-3-h32545.html",
   "incident_ids": [
     "airwars-84499"
   ],
@@ -85,10 +109,10 @@
     "https://hawarnews.com/en/haber/death-toll-of-the-turkish-attack-on-tal-rifaat-has-risen-to-3-h32545.html"
   ],
   "original_url": "https://hawarnews.com/en/haber/death-toll-of-the-turkish-attack-on-tal-rifaat-has-risen-to-3-h32545.html",
-  "page_title": "",
+  "page_title": "​​​​​​​Death toll of the Turkish attack on Tal Rifaat has risen to 3 - ANHA | HAWARNEWS | English ​​​​​​​Death toll of the Turkish attack on Tal Rifaat has risen to 3 - ANHA | HAWARNEWS | English ​​​​​​​Death toll of the Turkish attack on Tal Rifaat has risen to 3 - ANHA | HAWARNEWS | English",
   "parser_version": "1.0.0",
   "pdf": null,
-  "preservation_status": "metadata_only",
+  "preservation_status": "archived_text_preserved",
   "provenance": [
     {
       "airwars_incident_url": "https://airwars.org/civilian-casualties/ts553-august-24-2022/",
@@ -108,16 +132,16 @@
     "reason": "archive_lookup_failed",
     "status": "deferred"
   },
-  "retrieval_status": "archive_lookup_failed",
-  "retrieved_at": null,
+  "retrieval_status": "successful",
+  "retrieved_at": "2026-08-01T14:34:28+00:00",
   "review_flags": [],
   "schema_version": "1.0.0",
   "source_id": "source-35c5bfb910db844baf3c1edd",
   "source_type": "news_article",
   "stable_id_basis": "https://hawarnews.com/en/haber/death-toll-of-the-turkish-attack-on-tal-rifaat-has-risen-to-3-h32545.html",
   "text_ar": "",
-  "text_original": "",
-  "text_original_language": "ar",
+  "text_original": "ANHA correspondent reported the martyrdom of Fatima Othman Ma'mo (21 years), in Afreen Hospital in Fafen district.\n\nToday, a suicide drone belonging to the Turkish occupation army targeted the center of Tal Rifaat district in Shahba Canton, which led to the death and injury of 9 citizens, including children and women.\n\nAccording to ANHA correspondents, Rashed Aliko (28 years) martyred, while the identity of the other martyr was not known.\n\nAs for the injured, they are:\n\n* Hussein Murad Qrouki (13 years old)\n\n* Manan Rashid Hussein (57 years old)\n\n* Aged Fakhry Sheikho (32 years old)\n\n* Samer Abd al-Qader Rasho (31 years old)\n\n* Zuhair Abd al-Rahman Mohammed (36 years old)\n\nSh-S\n\nANHA\n\nOther news\n\n​​​​​​​Mine exploded in a vehicle of the Turkish occupation in Afrin\n\n​​​​​​​SDF hands over new batch of ISIS mercenaries; their families to Iraq\n\nSDF capture 21 of ISIS mercenaries in May",
+  "text_original_language": "en",
   "translation": {
     "chunks": [],
     "generated_in_pilot": false,
