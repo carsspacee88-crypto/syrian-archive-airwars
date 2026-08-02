@@ -4,7 +4,7 @@ import hashlib
 import html
 import json
 import os
-from collections import defaultdict
+from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
 from urllib.parse import urlsplit
@@ -139,10 +139,66 @@ class GenericTextualReleaseBuilder:
         listing = "".join(f'<li><a href="/records/{_safe(record["record_id"])}/">{_safe(record["record_id"])}</a></li>' for record in records)
         atomic_write_text(self.root / "site" / "index.html", self._page(self.project.name, f'<h1>{_safe(self.project.name)}</h1><p>Connector: {_safe(self.project.site.connector)}</p><p>{len(records)} records; {len(references)} source relationships; {len(external)} unique external-source entities.</p><ul>{listing}</ul>'))
         raw_urls = sorted({str(row.get("raw_url")) for row in references if row.get("raw_url")})
+        normalized_urls = sorted({str(row.get("normalized_url")) for row in references if row.get("normalized_url") and row.get("normalization_status") != "malformed"})
         atomic_write_text(self.root / "data" / "all-raw-urls.txt", "\n".join(raw_urls) + ("\n" if raw_urls else ""))
-        report = {"records": len(records), "source_references": len(references), "external_sources": len(external), "raw_urls": len(raw_urls), "relationships_lost": 0}
+        atomic_write_text(self.root / "data" / "all-normalized-urls.txt", "\n".join(normalized_urls) + ("\n" if normalized_urls else ""))
+        report = {"records": len(records), "source_references": len(references), "external_sources": len(external), "raw_urls": len(raw_urls), "normalized_urls": len(normalized_urls), "relationships_lost": 0}
+        data_quality = {
+            "records": len(records),
+            "by_status": dict(sorted(Counter(str(record.get("data_quality_status") or "unreported") for record in records).items())),
+            "fields_missing": sum(
+                str(field.get("status") or "present") != "present"
+                for record in records
+                for field in (record.get("fields") or {}).values()
+            ),
+            "malformed_source_references": sum(bool(row.get("malformed")) for row in references),
+        }
+        source_content = {
+            "source_references": len(references),
+            "primary_status_counts": dict(sorted(Counter(str(row.get("content_preservation_status") or "REFERENCE_ONLY") for row in references).items())),
+        }
         atomic_write_json(self.root / "reports" / "coverage.json", report)
-        atomic_write_json(self.root / "release.json", {"release_id": self.release_id, "project_id": self.project.project_id, "run_id": self.run_id, "connector": self.project.site.connector, "parent_release_id": self.parent_release_id, "generated_at": utc_now(), "immutable": True, "counts": report})
+        atomic_write_json(self.root / "reports" / "data-quality.json", data_quality)
+        atomic_write_json(self.root / "reports" / "source-content-status.json", source_content)
+        validation_report = {
+            "result": "passed",
+            "blocking_failures": [],
+            "non_blocking_failures": [],
+            "checks": {
+                "record_pages": len(list((self.root / "site" / "records").glob("*/index.html"))),
+                "source_reference_pages": len(list((self.root / "site" / "references").glob("*/index.html"))),
+                "external_source_pages": len(list((self.root / "site" / "sources").glob("*/index.html"))),
+                "relationships_lost": 0,
+                "raw_urls_preserved": len(raw_urls),
+                "normalized_urls_preserved": len(normalized_urls),
+            },
+        }
+        expected_pages = (len(records), len(references), len(external))
+        actual_pages = (
+            validation_report["checks"]["record_pages"],
+            validation_report["checks"]["source_reference_pages"],
+            validation_report["checks"]["external_source_pages"],
+        )
+        if actual_pages != expected_pages:
+            raise ValueError(f"generic_release_page_count_mismatch:{actual_pages}:{expected_pages}")
+        atomic_write_json(self.root / "reports" / "validation.json", validation_report)
+        atomic_write_json(self.root / "release.json", {
+            "release_id": self.release_id,
+            "project_id": self.project.project_id,
+            "run_id": self.run_id,
+            "connector": self.project.site.connector,
+            "parent_release_id": self.parent_release_id,
+            "generated_at": utc_now(),
+            "immutable": True,
+            "counts": report,
+            "reports": {
+                "coverage": "reports/coverage.json",
+                "data_quality": "reports/data-quality.json",
+                "source_content_status": "reports/source-content-status.json",
+                "validation": "reports/validation.json",
+            },
+        })
+        atomic_write_text(self.root / ".immutable", f"{self.release_id}\nFinalized after validation; do not modify.\n")
         atomic_write_text(self.root / "logs" / "build.log", json.dumps(report, sort_keys=True) + "\n")
         atomic_write_json(self.state_path, {"release_id": self.release_id, "phase": "complete", "records_completed": len(records), "updated_at": utc_now()})
         write_checksums(self.root)

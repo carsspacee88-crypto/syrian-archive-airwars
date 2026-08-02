@@ -44,6 +44,20 @@ class MappingFetcher:
         return FetchResponse(url, url, 200, "text/html; charset=utf-8", body, CollectionStatus.FETCHED, [])
 
 
+class RetryGapFetcher(MappingFetcher):
+    def __init__(self, bodies: dict[str, bytes], blocked_url: str):
+        super().__init__(bodies)
+        self.blocked_url = blocked_url
+        self.block_once = True
+
+    def fetch(self, url: str) -> FetchResponse:
+        self.calls += 1
+        if url == self.blocked_url and self.block_once:
+            self.block_once = False
+            return FetchResponse(url, url, 403, "text/html", b"blocked", CollectionStatus.BLOCKED, [])
+        return FetchResponse(url, url, 200, "text/html; charset=utf-8", self.bodies[url], CollectionStatus.FETCHED, [])
+
+
 class ConcurrentFetcher(MappingFetcher):
     def __init__(self, bodies: dict[str, bytes]):
         super().__init__(bodies)
@@ -205,6 +219,19 @@ class EngineRecoveryAndReleaseTests(unittest.TestCase):
         self.assertEqual(resumed.counts["completed"], 2)
         self.assertEqual(len(store.read_json("runs/resume-run/checkpoint.json")["completed"]), 2)
 
+    def test_retry_reprocesses_only_prior_gaps(self) -> None:
+        store = ProjectStore(self.root / "retry-store")
+        fetcher = RetryGapFetcher(self.bodies, "https://library.example/records/1")
+        engine = ArchiveEngine(store, SyntheticLibraryConnector(), fetcher)
+        run = engine.create_run(self.project, "full", "retry-gaps")
+        first = engine.execute(self.project, run)
+        self.assertEqual(first.status, RunStatus.COMPLETED_WITH_GAPS)
+        self.assertEqual(fetcher.calls, 2)
+        first.mode = "retry"
+        second = engine.execute(self.project, first)
+        self.assertEqual(second.status, RunStatus.COMPLETED)
+        self.assertEqual(fetcher.calls, 3)
+
     def test_max_workers_is_an_enforced_concurrency_boundary(self) -> None:
         store = ProjectStore(self.root / "concurrent-store")
         engine = ArchiveEngine(store, SyntheticLibraryConnector(), ConcurrentFetcher(self.bodies), RunPolicy(max_workers=2, checkpoint_every=1))
@@ -252,6 +279,11 @@ class EngineRecoveryAndReleaseTests(unittest.TestCase):
         self.assertEqual(result["source_references"], 3)
         self.assertEqual(result["external_sources"], 2)  # one shared valid URL plus one malformed raw value
         self.assertEqual(result["relationships_lost"], 0)
+        self.assertTrue((release1 / ".immutable").is_file())
+        self.assertTrue((release1 / "reports" / "data-quality.json").is_file())
+        self.assertTrue((release1 / "reports" / "source-content-status.json").is_file())
+        self.assertEqual(json.loads((release1 / "reports" / "validation.json").read_text())["result"], "passed")
+        self.assertEqual(len((release1 / "data" / "all-normalized-urls.txt").read_text().splitlines()), 1)
         shared = [json.loads(path.read_text()) for path in (release1 / "data" / "external-sources").glob("*.json") if len(json.loads(path.read_text())["reference_ids"]) == 2]
         self.assertEqual(len(shared), 1)
         self.assertTrue(ReleaseValidator().validate(release1).passed)

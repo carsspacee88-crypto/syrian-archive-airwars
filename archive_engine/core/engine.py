@@ -90,6 +90,16 @@ class ArchiveEngine:
         targets = self._load_targets(project, run)
         checkpoint = self.store.read_json(f"runs/{run.run_id}/checkpoint.json", {"completed": {}, "attempted": 0})
         completed: dict[str, str] = dict(checkpoint.get("completed") or {})
+        if run.mode == "retry":
+            # A retry run keeps successful work immutable and schedules every
+            # prior gap again.  Treating BLOCKED/DEAD/MALFORMED as completed
+            # here would make the Retry button a no-op.
+            successful = {CollectionStatus.NORMALIZED.value, CollectionStatus.PARSED.value}
+            completed = {
+                identity: status
+                for identity, status in completed.items()
+                if status in successful
+            }
         control = EngineControl(self.store, run.run_id)
         if control.action() == "resume":
             self.store.write_json(f"runs/{run.run_id}/control.json", {"action": None, "resumed_at": utc_now()})
