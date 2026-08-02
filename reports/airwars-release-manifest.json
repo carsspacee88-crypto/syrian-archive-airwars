@@ -1,0 +1,60 @@
+{
+  "checksum_strategy": "SHA-256 for every regular release file except checksums/sha256.txt itself; paths are release-relative.",
+  "coordinate_counts": {
+    "drawable": 6679,
+    "malformed": 1,
+    "missing": 1432,
+    "outside_accepted_range": 2
+  },
+  "counts": {
+    "duplicate_source_relationships": 526,
+    "incident_pages": 8114,
+    "incident_records": 8114,
+    "link_evidence_rows": 1409809,
+    "malformed_source_relationships": 12,
+    "map_points": 6679,
+    "search_documents": 53195,
+    "source_entities": 45081,
+    "source_entity_pages": 45081,
+    "source_reference_pages": 50332,
+    "source_reference_records": 50332,
+    "sources_requires_manual_review": 16817,
+    "unique_normalized_source_urls": 45069,
+    "unique_raw_source_urls": 45098
+  },
+  "description": "Complete Airwars Syria textual structural skeleton; no media-completeness claim.",
+  "direct_verification_counts": {
+    "BLOCKED_HTTP_403": 8114
+  },
+  "finalized_at": "2026-08-02T15:22:29+00:00",
+  "generated_at": "2026-08-02T15:05:33+00:00",
+  "git_commit": "9076019654124071fcaa71feebc935fa1c601618",
+  "immutable": true,
+  "parent_release_id": "20260802T120828Z-3bfc76f",
+  "paths": {
+    "checksums": "checksums/sha256.txt",
+    "data": "data/",
+    "exports": "exports/",
+    "logs": "logs/",
+    "reports": "reports/",
+    "site": "site/"
+  },
+  "release_id": "airwars-syria-v0-structured-text-20260802T145259Z-9076019",
+  "schema_version": "1.0.0",
+  "semantic_identity": "airwars-syria-v0-structured-text",
+  "source_content_status_counts": {
+    "BLOCKED": 12602,
+    "DEAD": 465,
+    "FULL_TEXT_ARCHIVED": 1,
+    "FULL_TEXT_DIRECT": 17521,
+    "MALFORMED": 12,
+    "METADATA_ONLY": 706,
+    "NEEDS_MANUAL_REVIEW": 12,
+    "PARTIAL_TEXT": 13762
+  },
+  "storage": {
+    "git_policy": "generated release content is excluded from Git and retained in immutable VPS release storage; release.json and checksums enumerate it",
+    "release_root": "/srv/site-releases/releases/airwars-syria-v0-structured-text-20260802T145259Z-9076019"
+  },
+  "validation_status": "passed"
+}

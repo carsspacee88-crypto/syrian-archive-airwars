@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0.0",
+  "completed_at": "2026-08-02T15:30:08Z",
+  "result": "passed",
+  "public_url": "http://153.92.222.234/",
+  "previous_release": "20260802T120828Z-3bfc76f",
+  "new_release": "airwars-syria-v0-structured-text-20260802T145259Z-9076019",
+  "events": [
+    {"at": "2026-08-02T15:27:39Z", "action": "atomic_publish", "result": "passed"},
+    {"at": "2026-08-02T15:28:34Z", "action": "rollback_to_previous", "result": "passed", "http_status": 200},
+    {"at": "2026-08-02T15:29:11Z", "action": "atomic_republish_new", "result": "passed", "http_status": 200}
+  ],
+  "live_checks": {
+    "homepage": 200,
+    "map": 200,
+    "search": 200,
+    "reports_index": 200,
+    "ground_truth_json": 200,
+    "incident_0001": 200,
+    "incident_4771": 200,
+    "incident_8114": 200,
+    "source_full_text_direct": 200,
+    "source_full_text_archived": 200,
+    "source_partial_text": 200,
+    "source_metadata_only": 200,
+    "source_blocked": 200,
+    "source_dead": 200,
+    "source_malformed": 200,
+    "source_needs_manual_review": 200,
+    "source_reference": 200,
+    "health": 200,
+    "admin_login": 200
+  },
+  "services": {
+    "caddy": "running",
+    "web": "healthy",
+    "worker": "running",
+    "postgres": "healthy",
+    "redis": "healthy"
+  },
+  "active_pointer": "/root/projects/syrian-archive-airwars/site-releases/releases/airwars-syria-v0-structured-text-20260802T145259Z-9076019"
+}

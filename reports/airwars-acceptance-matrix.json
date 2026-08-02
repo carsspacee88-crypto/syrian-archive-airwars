@@ -1,0 +1,92 @@
+{
+  "blocking_failures": [],
+  "criteria": [
+    {
+      "criterion": "canonical_counters_recomputed",
+      "passed": true
+    },
+    {
+      "criterion": "45075_vs_45081_explained",
+      "passed": true
+    },
+    {
+      "criterion": "every_canonical_incident_represented",
+      "passed": true
+    },
+    {
+      "criterion": "every_incident_has_one_page",
+      "passed": true
+    },
+    {
+      "criterion": "every_source_reference_represented",
+      "passed": true
+    },
+    {
+      "criterion": "every_source_entity_has_page",
+      "passed": true
+    },
+    {
+      "criterion": "every_raw_reference_url_exported",
+      "passed": true
+    },
+    {
+      "criterion": "every_normalized_reference_url_exported",
+      "passed": true
+    },
+    {
+      "criterion": "source_relationships_complete",
+      "passed": true
+    },
+    {
+      "criterion": "http_403_never_counted_success",
+      "passed": true
+    },
+    {
+      "criterion": "metadata_never_counted_full",
+      "passed": true
+    },
+    {
+      "criterion": "empty_source_never_counted_archived",
+      "passed": true
+    },
+    {
+      "criterion": "unvalidated_source_never_counted_full",
+      "passed": true
+    },
+    {
+      "criterion": "search_index_and_filters_present",
+      "passed": true
+    },
+    {
+      "criterion": "map_every_drawable_point",
+      "passed": true
+    },
+    {
+      "criterion": "map_exclusions_explicit",
+      "passed": true
+    },
+    {
+      "criterion": "zero_broken_internal_links",
+      "passed": true
+    },
+    {
+      "criterion": "release_has_independent_local_assets",
+      "passed": true
+    },
+    {
+      "criterion": "release_has_complete_layout",
+      "passed": true
+    },
+    {
+      "criterion": "generic_engine_separated_from_airwars_connector",
+      "passed": true
+    },
+    {
+      "criterion": "validation_has_no_blocking_failures",
+      "passed": true
+    }
+  ],
+  "release_id": "airwars-syria-v0-structured-text-20260802T145259Z-9076019",
+  "result": "passed",
+  "schema_version": "1.0.0"
+}

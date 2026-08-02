@@ -1,0 +1,566 @@
+{
+  "canonical_policy": {
+    "direct_verification": "current direct Airwars endpoint/live-page attempts only; archived copies are separate",
+    "incidents": "data/incidents stable IDs enriched with the restored historical structural package",
+    "source_content": "primary mutually-exclusive preservation categories; local page generation is not content preservation",
+    "source_entities": "data/sources unique stable source records",
+    "source_references": "all historical occurrences plus additional relationships recoverable from normalized provenance"
+  },
+  "discrepancy_45075_45081": {
+    "canonical_source_entity_count": 45081,
+    "cause": "Six source entities recovered from the archived Airwars copy for incident sequence 4771 remained valid local records, but the later full-run worklist was rebuilt from that incident's empty normalized sources array and omitted them. They are source entities, not index/utility pages or duplicate IDs.",
+    "difference": 6,
+    "explained": true,
+    "full_run_catalog_count": 45075,
+    "records": [
+      {
+        "incident_sequences": [
+          4771
+        ],
+        "provenance": [
+          {
+            "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1033-june-19-2017/",
+            "airwars_source_id": null,
+            "incident_id": "airwars-32716",
+            "incident_sequence": 4771,
+            "observed_original_url": "http://baladi-news.com/ar/news/details/20532/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF_11_%D9%85%D8%AF%D9%86%D9%8A%D8%A7_%D9%81%D9%8A_%D8%A7%D9%84%D8%B1%D9%82%D8%A9",
+            "source_type": "airwars_archive"
+          }
+        ],
+        "scope": "3000-5999",
+        "source_id": "source-0b65993be9d09db6cb3933ee",
+        "status": "recovery_deferred",
+        "url": "http://baladi-news.com/ar/news/details/20532/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF_11_%D9%85%D8%AF%D9%86%D9%8A%D8%A7_%D9%81%D9%8A_%D8%A7%D9%84%D8%B1%D9%82%D8%A9"
+      },
+      {
+        "incident_sequences": [
+          4771
+        ],
+        "provenance": [
+          {
+            "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1033-june-19-2017/",
+            "airwars_source_id": null,
+            "incident_id": "airwars-32716",
+            "incident_sequence": 4771,
+            "observed_original_url": "http://rfsmediaoffice.com/2017/06/20/%D8%A7%D9%84%D8%B1%D9%82%D8%A9-%D9%85%D9%86-%D9%84%D9%85-%D9%8A%D9%85%D8%AA-%D8%A8%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D9%85%D8%A7%D8%AA-%D8%A8%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D8%AF%D8%A7%D8%B9%D8%B4/",
+            "source_type": "airwars_archive"
+          }
+        ],
+        "scope": "3000-5999",
+        "source_id": "source-3992eac147bec71a8a866096",
+        "status": "recovery_deferred",
+        "url": "http://rfsmediaoffice.com/2017/06/20/%D8%A7%D9%84%D8%B1%D9%82%D8%A9-%D9%85%D9%86-%D9%84%D9%85-%D9%8A%D9%85%D8%AA-%D8%A8%D8%A7%D9%84%D9%82%D8%B5%D9%81-%D9%85%D8%A7%D8%AA-%D8%A8%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D8%AF%D8%A7%D8%B9%D8%B4/"
+      },
+      {
+        "incident_sequences": [
+          4771
+        ],
+        "provenance": [
+          {
+            "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1033-june-19-2017/",
+            "airwars_source_id": null,
+            "incident_id": "airwars-32716",
+            "incident_sequence": 4771,
+            "observed_original_url": "https://twitter.com/24Raqqa/status/877177989179604993",
+            "source_type": "airwars_archive"
+          }
+        ],
+        "scope": "3000-5999",
+        "source_id": "source-4db2cb82be45b81e732c32de",
+        "status": "recovery_deferred",
+        "url": "https://twitter.com/24Raqqa/status/877177989179604993"
+      },
+      {
+        "incident_sequences": [
+          4771
+        ],
+        "provenance": [
+          {
+            "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1033-june-19-2017/",
+            "airwars_source_id": null,
+            "incident_id": "airwars-32716",
+            "incident_sequence": 4771,
+            "observed_original_url": "https://syrianpc.com/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D9%88%D9%82%D9%88%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/",
+            "source_type": "airwars_archive"
+          }
+        ],
+        "scope": "3000-5999",
+        "source_id": "source-5807d6a207f89eeff690bd1d",
+        "status": "recovery_deferred",
+        "url": "https://syrianpc.com/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D9%85%D8%AF%D9%86%D9%8A%D9%88%D9%86-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D9%88%D9%82%D9%88%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/"
+      },
+      {
+        "incident_sequences": [
+          4771
+        ],
+        "provenance": [
+          {
+            "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1033-june-19-2017/",
+            "airwars_source_id": null,
+            "incident_id": "airwars-32716",
+            "incident_sequence": 4771,
+            "observed_original_url": "https://www.facebook.com/Raqqa.Sl/posts/1588371401174105",
+            "source_type": "airwars_archive"
+          }
+        ],
+        "scope": "3000-5999",
+        "source_id": "source-5c378944d2b9d0b4b7989dbf",
+        "status": "successful",
+        "url": "https://www.facebook.com/Raqqa.Sl/posts/1588371401174105"
+      },
+      {
+        "incident_sequences": [
+          4771
+        ],
+        "provenance": [
+          {
+            "airwars_incident_url": "https://airwars.org/civilian-casualties/cs1033-june-19-2017/",
+            "airwars_source_id": null,
+            "incident_id": "airwars-32716",
+            "incident_sequence": 4771,
+            "observed_original_url": "https://www.alaraby.co.uk/politics/2017/6/20/%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D9%85%D9%84%D9%8A%D8%B4%D9%8A%D8%A7%D8%AA-%D9%8A%D9%88%D8%B3%D8%B9%D8%A7%D9%86-%D8%B3%D9%8A%D8%B7%D8%B1%D8%AA%D9%87%D9%85%D8%A7",
+            "source_type": "airwars_archive"
+          }
+        ],
+        "scope": "3000-5999",
+        "source_id": "source-dda3f9afcab65dc627177fe6",
+        "status": "recovery_deferred",
+        "url": "https://www.alaraby.co.uk/politics/2017/6/20/%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A3%D9%84%D8%BA%D8%A7%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D9%85%D9%84%D9%8A%D8%B4%D9%8A%D8%A7%D8%AA-%D9%8A%D9%88%D8%B3%D8%B9%D8%A7%D9%86-%D8%B3%D9%8A%D8%B7%D8%B1%D8%AA%D9%87%D9%85%D8%A7"
+      }
+    ]
+  },
+  "exports": {
+    "normalized_urls": "exports/all-normalized-urls.txt",
+    "raw_urls": "exports/all-raw-urls.txt",
+    "rows": 50332,
+    "source_reference_csv": "exports/all-source-references.csv",
+    "source_reference_jsonl": "exports/all-source-references.jsonl",
+    "unique_normalized_urls": 45069,
+    "unique_raw_urls": 45098
+  },
+  "generated_at": "2026-08-02T15:16:47+00:00",
+  "incident_origin_counts": {
+    "historical_local_normalized": 8102,
+    "mixed_historical_and_archived_airwars": 12
+  },
+  "metrics": {
+    "direct_airwars_fetch_blocked_403": {
+      "calculation_method": "Count 403 status or circuit evidence regardless of archived-copy recovery.",
+      "canonical_input": "data/incidents retrieval_status.airwars_endpoint/live_page",
+      "definition": "Incidents whose current direct Airwars attempts contain HTTP 403 evidence.",
+      "old_claim": 8102,
+      "result": 8114
+    },
+    "direct_airwars_fetch_other_failure": {
+      "calculation_method": "Residual direct-attempt category.",
+      "canonical_input": "data/incidents retrieval_status.airwars_endpoint/live_page",
+      "definition": "Direct Airwars attempts neither successful nor evidenced as HTTP 403.",
+      "old_claim": null,
+      "result": 0
+    },
+    "direct_airwars_fetch_success": {
+      "calculation_method": "Classify only direct attempts, excluding page_extraction from archives.",
+      "canonical_input": "data/incidents retrieval_status.airwars_endpoint/live_page",
+      "definition": "Incidents whose current direct Airwars endpoint or live-page request succeeded; archived copies do not count.",
+      "old_claim": 12,
+      "result": 0
+    },
+    "external_links_blocked": {
+      "calculation_method": "Reachability classifier BLOCKED among checked sources.",
+      "canonical_input": "data/sources attempt_history",
+      "definition": "Checked source entities with explicit block evidence.",
+      "old_claim": null,
+      "result": 12611
+    },
+    "external_links_checked": {
+      "calculation_method": "Count source IDs with non-empty attempt_history.",
+      "canonical_input": "data/sources attempt_history",
+      "definition": "Unique source entities with at least one recorded public retrieval attempt.",
+      "old_claim": null,
+      "result": 45081
+    },
+    "external_links_dead": {
+      "calculation_method": "Reachability classifier DEAD among checked sources.",
+      "canonical_input": "data/sources attempt_history",
+      "definition": "Checked source entities with HTTP 404/410 evidence.",
+      "old_claim": null,
+      "result": 465
+    },
+    "external_links_discovered": {
+      "calculation_method": "Distinct non-empty raw_url values.",
+      "canonical_input": "derived source-reference index",
+      "definition": "Distinct raw external source URLs represented by references.",
+      "old_claim": null,
+      "result": 45098
+    },
+    "external_links_not_checked": {
+      "calculation_method": "Source entity total minus checked source IDs.",
+      "canonical_input": "data/sources attempt_history",
+      "definition": "Unique source entities without a recorded public retrieval attempt.",
+      "old_claim": null,
+      "result": 0
+    },
+    "external_links_reachable": {
+      "calculation_method": "Reachability classifier FETCHED among checked sources.",
+      "canonical_input": "data/sources retrieval and attempt records",
+      "definition": "Checked source entities with a successful/cached retrieval state.",
+      "old_claim": null,
+      "result": 31285
+    },
+    "historical_or_local_text_records": {
+      "calculation_method": "Count non-empty structural descriptions with historical/local in origin.",
+      "canonical_input": "enriched incident record_origin_status",
+      "definition": "Incident records whose usable structural text originates from a historical/local or mixed origin.",
+      "old_claim": null,
+      "result": 8114
+    },
+    "incident_ids_duplicate": {
+      "calculation_method": "Total rows minus distinct incident_id values.",
+      "canonical_input": "data/incidents/*.json",
+      "definition": "Incident rows sharing the same stable identifier.",
+      "old_claim": null,
+      "result": 0
+    },
+    "incident_ids_unique": {
+      "calculation_method": "Distinct incident_id values.",
+      "canonical_input": "data/incidents/*.json",
+      "definition": "Distinct stable incident identifiers.",
+      "old_claim": null,
+      "result": 8114
+    },
+    "incident_pages_generated": {
+      "calculation_method": "Count canonical sequence directories with index.html.",
+      "canonical_input": "release site/cases/*/index.html",
+      "definition": "Canonical incident pages present in the inspected release.",
+      "old_claim": 8114,
+      "result": 8114
+    },
+    "incident_pages_missing": {
+      "calculation_method": "Canonical sequence page IDs minus generated page IDs.",
+      "canonical_input": "canonical incident IDs + release site",
+      "definition": "Canonical incidents without a page.",
+      "old_claim": null,
+      "result": 0
+    },
+    "incident_pages_orphaned": {
+      "calculation_method": "Generated page IDs minus canonical sequence page IDs.",
+      "canonical_input": "canonical incident IDs + release site",
+      "definition": "Generated incident pages without a canonical incident.",
+      "old_claim": null,
+      "result": 0
+    },
+    "incident_records_total": {
+      "calculation_method": "Count valid JSON records with a stable internal_id.",
+      "canonical_input": "data/incidents/*.json",
+      "definition": "Canonical normalized Airwars Syria incident records.",
+      "old_claim": 8114,
+      "result": 8114
+    },
+    "incidents_outside_coordinate_range": {
+      "calculation_method": "Coordinate classifier result outside_accepted_range.",
+      "canonical_input": "data/incidents latitude/longitude",
+      "definition": "World-valid coordinates outside the accepted display range.",
+      "old_claim": 2,
+      "result": 2
+    },
+    "incidents_with_malformed_coordinates": {
+      "calculation_method": "Coordinate classifier result malformed.",
+      "canonical_input": "data/incidents latitude/longitude",
+      "definition": "Incidents with non-numeric or world-invalid coordinates.",
+      "old_claim": 1,
+      "result": 1
+    },
+    "incidents_with_valid_coordinates": {
+      "calculation_method": "Coordinate classifier result drawable.",
+      "canonical_input": "data/incidents latitude/longitude",
+      "definition": "Incidents with a world-valid pair inside the accepted display range.",
+      "old_claim": 6679,
+      "result": 6679
+    },
+    "incidents_without_coordinates": {
+      "calculation_method": "Coordinate classifier result missing.",
+      "canonical_input": "data/incidents latitude/longitude",
+      "definition": "Incidents missing latitude or longitude.",
+      "old_claim": 1432,
+      "result": 1432
+    },
+    "internal_links_broken": {
+      "calculation_method": "Validator-reported broken count.",
+      "canonical_input": "release validation.json",
+      "definition": "Internal hyperlinks whose target does not exist.",
+      "old_claim": 0,
+      "result": 0
+    },
+    "internal_links_checked": {
+      "calculation_method": "Validator-reported links_checked.",
+      "canonical_input": "release validation.json",
+      "definition": "Internal hyperlinks checked by the release validator.",
+      "old_claim": 499177,
+      "result": 1294531
+    },
+    "local_source_entity_pages_generated": {
+      "calculation_method": "Count canonical source IDs with an index page.",
+      "canonical_input": "release site/sources/*/index.html",
+      "definition": "Local pages describing unique source entities; this does not assert content preservation.",
+      "old_claim": null,
+      "result": 45081
+    },
+    "records_without_usable_incident_text": {
+      "calculation_method": "Count empty textual_description values.",
+      "canonical_input": "enriched incident textual_description",
+      "definition": "Incidents without an original narrative, archived narrative, or historical structured summary.",
+      "old_claim": null,
+      "result": 0
+    },
+    "source_record_files_total": {
+      "calculation_method": "Count valid source JSON records.",
+      "canonical_input": "data/sources/*.json",
+      "definition": "Unique external source entity records stored locally.",
+      "old_claim": "45,075 or 45,081",
+      "result": 45081
+    },
+    "source_record_ids_duplicate": {
+      "calculation_method": "Files minus distinct source IDs.",
+      "canonical_input": "data/sources/*.json",
+      "definition": "Source files sharing a stable source_id.",
+      "old_claim": null,
+      "result": 0
+    },
+    "source_record_ids_unique": {
+      "calculation_method": "Distinct source_id values.",
+      "canonical_input": "data/sources/*.json",
+      "definition": "Distinct source entity IDs.",
+      "old_claim": null,
+      "result": 45081
+    },
+    "source_reference_duplicate_relationships": {
+      "calculation_method": "Count reference rows whose duplicate_relationship attribute is true.",
+      "canonical_input": "derived source-reference index duplicate_relationship",
+      "definition": "Reference occurrences explicitly identified as a repeated incident-to-raw-URL relationship; retained rather than deduplicated away.",
+      "old_claim": null,
+      "result": 526
+    },
+    "source_reference_ids_duplicate": {
+      "calculation_method": "Rows minus distinct IDs.",
+      "canonical_input": "derived source-reference index",
+      "definition": "Duplicate stable source-reference IDs.",
+      "old_claim": null,
+      "result": 0
+    },
+    "source_reference_ids_unique": {
+      "calculation_method": "Distinct source_reference_id values.",
+      "canonical_input": "derived source-reference index",
+      "definition": "Distinct stable source-reference occurrence IDs.",
+      "old_claim": null,
+      "result": 50332
+    },
+    "source_reference_malformed_urls": {
+      "calculation_method": "Count reference rows whose malformed attribute is true.",
+      "canonical_input": "derived source-reference index normalization_status",
+      "definition": "Reference rows whose raw URL could not be normalized to a valid HTTP(S) URL.",
+      "old_claim": null,
+      "result": 12
+    },
+    "source_reference_manual_review": {
+      "calculation_method": "Count reference rows whose manual_review attribute is true.",
+      "canonical_input": "derived source-reference index manual_review",
+      "definition": "Reference rows explicitly marked for manual review.",
+      "old_claim": null,
+      "result": 19449
+    },
+    "source_reference_pages_generated": {
+      "calculation_method": "Count canonical reference IDs with an index page.",
+      "canonical_input": "release site/references/*/index.html",
+      "definition": "Local pages representing individual incident-to-source occurrences.",
+      "old_claim": null,
+      "result": 50332
+    },
+    "source_reference_pages_missing": {
+      "calculation_method": "Canonical reference IDs minus generated page IDs.",
+      "canonical_input": "reference index + release site",
+      "definition": "Canonical reference occurrences without a local page.",
+      "old_claim": null,
+      "result": 0
+    },
+    "source_reference_pages_orphaned": {
+      "calculation_method": "Generated reference page IDs minus canonical IDs.",
+      "canonical_input": "reference index + release site",
+      "definition": "Reference pages without a canonical reference record.",
+      "old_claim": null,
+      "result": 0
+    },
+    "source_reference_records_total": {
+      "calculation_method": "Union historical occurrences with additional provenance relationships absent from the historical rows; preserve duplicates.",
+      "canonical_input": "historical package cases/*/data.json + normalized source provenance + normalized incident sources",
+      "definition": "Every incident-to-source occurrence, including duplicates and locally recovered relationships.",
+      "old_claim": null,
+      "result": 50332
+    },
+    "source_reference_url_reuse_occurrences": {
+      "calculation_method": "Total non-empty raw-URL rows minus distinct raw URL strings.",
+      "canonical_input": "derived source-reference index raw_url",
+      "definition": "Reference occurrences beyond the first occurrence of each distinct raw URL across the whole archive.",
+      "old_claim": null,
+      "result": 5234
+    },
+    "sources_blocked": {
+      "calculation_method": "Primary mutually-exclusive source content classifier.",
+      "canonical_input": "data/sources attempt_history",
+      "definition": "Source entities without text whose recorded attempts show a public-access block (401/403/429/451 or explicit block evidence).",
+      "old_claim": null,
+      "result": 12602
+    },
+    "sources_dead": {
+      "calculation_method": "Primary mutually-exclusive source content classifier.",
+      "canonical_input": "data/sources attempt_history",
+      "definition": "Source entities without text whose attempts returned 404 or 410.",
+      "old_claim": null,
+      "result": 465
+    },
+    "sources_duplicate_content": {
+      "calculation_method": "Count records in hash groups of size greater than one.",
+      "canonical_input": "data/sources content_hash",
+      "definition": "Source records participating in a non-empty identical content-hash group.",
+      "old_claim": null,
+      "result": 8481
+    },
+    "sources_full_text_archived": {
+      "calculation_method": "Primary mutually-exclusive source content classifier.",
+      "canonical_input": "data/sources content_quality + preservation_status",
+      "definition": "Source entities with validated complete text obtained from a public archived copy.",
+      "old_claim": null,
+      "result": 1
+    },
+    "sources_full_text_direct": {
+      "calculation_method": "Primary mutually-exclusive source content classifier.",
+      "canonical_input": "data/sources content_quality + preservation_status",
+      "definition": "Source entities with non-empty text that passed quality validation as complete and came from direct public retrieval.",
+      "old_claim": null,
+      "result": 17521
+    },
+    "sources_full_text_local_snapshot": {
+      "calculation_method": "Primary mutually-exclusive source content classifier.",
+      "canonical_input": "data/sources content_quality + preservation_status",
+      "definition": "Source entities with validated complete text preserved only in a local snapshot.",
+      "old_claim": null,
+      "result": 0
+    },
+    "sources_link_only": {
+      "calculation_method": "REFERENCE_ONLY + URL_PRESERVED primary categories.",
+      "canonical_input": "data/sources",
+      "definition": "Source entities with a preserved URL but neither text nor metadata nor stronger failure state.",
+      "old_claim": null,
+      "result": 0
+    },
+    "sources_malformed": {
+      "calculation_method": "Primary mutually-exclusive source content classifier; malformed remains a secondary attribute when text exists.",
+      "canonical_input": "data/sources original_url",
+      "definition": "Source entities without text whose raw URL cannot normalize to an HTTP(S) URL.",
+      "old_claim": null,
+      "result": 12
+    },
+    "sources_metadata_only": {
+      "calculation_method": "Primary mutually-exclusive source content classifier.",
+      "canonical_input": "data/sources",
+      "definition": "Source entities with metadata but no preserved text and no stronger blocked/dead/malformed state.",
+      "old_claim": null,
+      "result": 706
+    },
+    "sources_partial_text": {
+      "calculation_method": "Primary classifier assigns PARTIAL_TEXT when completeness is partial, absent, or quality is not accepted.",
+      "canonical_input": "data/sources text_original + content_quality",
+      "definition": "Source entities with non-empty text not proven to be the complete main text.",
+      "old_claim": null,
+      "result": 13762
+    },
+    "sources_requires_manual_review": {
+      "calculation_method": "Distinct source IDs satisfying the review predicate.",
+      "canonical_input": "data/sources review_flags + primary status",
+      "definition": "Source entities with review flags or a manual-review/malformed primary state.",
+      "old_claim": null,
+      "result": 16817
+    },
+    "unique_normalized_source_urls": {
+      "calculation_method": "Distinct normalized_url where normalization did not fail.",
+      "canonical_input": "derived source-reference index",
+      "definition": "Distinct successfully normalized HTTP(S) source URLs.",
+      "old_claim": null,
+      "result": 45069
+    },
+    "unique_raw_source_urls": {
+      "calculation_method": "Distinct raw_url strings without normalization.",
+      "canonical_input": "derived source-reference index",
+      "definition": "Distinct non-empty raw URL evidence values across reference occurrences.",
+      "old_claim": null,
+      "result": 45098
+    }
+  },
+  "reconciliation_equations": {
+    "coordinate_reconciliation": {
+      "balanced": true,
+      "left": 8114,
+      "right": 8114,
+      "terms": {
+        "drawable": 6679,
+        "malformed": 1,
+        "missing": 1432,
+        "outside_accepted_range": 2
+      }
+    },
+    "direct_attempt_reconciliation": {
+      "balanced": true,
+      "left": 8114,
+      "right": 8114,
+      "terms": {
+        "blocked_403": 8114
+      }
+    },
+    "source_entity_primary_status_reconciliation": {
+      "balanced": true,
+      "left": 45081,
+      "right": 45081,
+      "terms": {
+        "BLOCKED": 12602,
+        "DEAD": 465,
+        "FULL_TEXT_ARCHIVED": 1,
+        "FULL_TEXT_DIRECT": 17521,
+        "MALFORMED": 12,
+        "METADATA_ONLY": 706,
+        "NEEDS_MANUAL_REVIEW": 12,
+        "PARTIAL_TEXT": 13762
+      }
+    },
+    "source_reference_origin_reconciliation": {
+      "balanced": true,
+      "left": 50332,
+      "right": 50332,
+      "terms": {
+        "historical_airwars_source_row": 50326,
+        "recovered_archived_incident_source": 6
+      }
+    }
+  },
+  "schema_version": "1.0.0",
+  "source_reachability_counts": {
+    "BLOCKED": 12611,
+    "DEAD": 465,
+    "FETCHED": 31285,
+    "NEEDS_MANUAL_REVIEW": 13,
+    "RETRYABLE_FAILURE": 707
+  },
+  "source_reference_origin_counts": {
+    "historical_airwars_source_row": 50326,
+    "recovered_archived_incident_source": 6
+  },
+  "source_status_counts": {
+    "BLOCKED": 12602,
+    "DEAD": 465,
+    "FULL_TEXT_ARCHIVED": 1,
+    "FULL_TEXT_DIRECT": 17521,
+    "MALFORMED": 12,
+    "METADATA_ONLY": 706,
+    "NEEDS_MANUAL_REVIEW": 12,
+    "PARTIAL_TEXT": 13762
+  },
+  "validation_source": "/srv/site-releases/releases/airwars-syria-v0-structured-text-20260802T145259Z-9076019"
+}

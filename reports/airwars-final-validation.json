@@ -1,0 +1,97 @@
+{
+  "blocking_failures": [],
+  "checks": {
+    "canonical_counts": {
+      "coordinates": {
+        "drawable": 6679,
+        "malformed": 1,
+        "missing": 1432,
+        "outside_accepted_range": 2
+      },
+      "direct_verification": {
+        "BLOCKED_HTTP_403": 8114
+      },
+      "incidents": 8114,
+      "source_entities": 45081,
+      "source_references": 50332,
+      "source_statuses": {
+        "BLOCKED": 12602,
+        "DEAD": 465,
+        "FULL_TEXT_ARCHIVED": 1,
+        "FULL_TEXT_DIRECT": 17521,
+        "MALFORMED": 12,
+        "METADATA_ONLY": 706,
+        "NEEDS_MANUAL_REVIEW": 12,
+        "PARTIAL_TEXT": 13762
+      },
+      "usable_incident_text": 8114
+    },
+    "checksums": {
+      "checked": 164974
+    },
+    "internal_links": {
+      "broken": 0,
+      "broken_samples": [],
+      "escaped": 0,
+      "escaped_samples": [],
+      "links_checked": 1294531
+    },
+    "map": {
+      "excluded": 1435,
+      "points": 6679
+    },
+    "normalized_urls": {
+      "expected": 45069,
+      "exported": 45069
+    },
+    "pages": {
+      "incidents": 8114,
+      "source_references": 50332,
+      "sources": 45081
+    },
+    "raw_urls": {
+      "expected": 45098,
+      "exported": 45098
+    },
+    "relationships": {
+      "missing_incidents": 0,
+      "missing_sources": 0
+    },
+    "required_artifacts": {
+      "missing": [],
+      "required": [
+        "release.json",
+        "data",
+        "site",
+        "reports",
+        "logs",
+        "checksums/sha256.txt"
+      ]
+    },
+    "search": {
+      "documents": 53195,
+      "required_fields": [
+        "Airwars code",
+        "actor",
+        "allegation",
+        "date",
+        "incident identifier",
+        "location",
+        "narrative",
+        "original URL",
+        "source domain",
+        "source preservation status",
+        "source title",
+        "victim"
+      ]
+    },
+    "truthfulness": {
+      "empty_sources_counted_full": 0,
+      "http_403_counted_success": 0,
+      "metadata_sources_counted_full": 0,
+      "unvalidated_sources_counted_full": 0
+    }
+  },
+  "non_blocking_failures": [],
+  "result": "passed"
+}

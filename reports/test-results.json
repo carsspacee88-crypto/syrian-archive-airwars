@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0.0",
+  "executed_at": "2026-08-02T15:06:43Z",
+  "command": "docker compose -f compose.vps.yaml run --rm --no-deps --user 0 -v /root/projects/syrian-archive-airwars:/srv/archive site-builder python -m unittest discover -s tests -v",
+  "result": "passed",
+  "totals": {
+    "run": 74,
+    "passed": 74,
+    "failed": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "suites": [
+    {"file": "tests/test_archive_engine.py", "run": 22, "passed": 22, "failed": 0},
+    {"file": "tests/test_control_plane.py", "run": 7, "passed": 7, "failed": 0},
+    {"file": "tests/test_modern_site.py", "run": 2, "passed": 2, "failed": 0},
+    {"file": "tests/test_pipeline.py", "run": 10, "passed": 10, "failed": 0},
+    {"file": "tests/test_speed_pilot.py", "run": 20, "passed": 20, "failed": 0},
+    {"file": "tests/test_v4_engine.py", "run": 13, "passed": 13, "failed": 0}
+  ],
+  "supplementary_checks": {
+    "caddy_configuration": "valid",
+    "postgres_backup_archive_listing": "valid",
+    "acceptance_matrix": "21/21 passed",
+    "release_checksum_entries_verified": 164974
+  }
+}

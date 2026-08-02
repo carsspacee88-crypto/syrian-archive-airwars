@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-08-02T15:30:08Z",
+  "release_id": "airwars-syria-v0-structured-text-20260802T145259Z-9076019",
+  "semantic_identity": "airwars-syria-v0-structured-text",
+  "git_policy": "Code, tests, configuration, documentation, and these small canonical reports are tracked. Bulk generated release content, exports, engine state, cache packages, secrets, and backups are excluded from Git.",
+  "artifacts": {
+    "immutable_release": {
+      "host_path": "/root/projects/syrian-archive-airwars/site-releases/releases/airwars-syria-v0-structured-text-20260802T145259Z-9076019",
+      "container_path": "/srv/site-releases/releases/airwars-syria-v0-structured-text-20260802T145259Z-9076019",
+      "apparent_size_bytes": 1753435857,
+      "regular_files": 164975,
+      "directories": 103575,
+      "mode_policy": "directories 0555; files 0444",
+      "release_manifest_sha256": "611813e5d89293978727e1ff75d881b0441f94481d758a0b96b144c189c3e67c",
+      "checksum_manifest": "checksums/sha256.txt",
+      "checksum_manifest_sha256": "22a945e550d2b309dca9f85e657e2411bbc276a8b350985e60ebe1d817ba9c1c",
+      "checksummed_files": 164974
+    },
+    "release_groups": {
+      "public_site": "site/",
+      "canonical_release_data": "data/",
+      "reports": "reports/",
+      "logs": "logs/",
+      "complete_link_exports": "exports/"
+    },
+    "final_validation": "/root/projects/syrian-archive-airwars/site-releases/operations/airwars-syria-v0-structured-text-20260802T145259Z-9076019-final-validation.json",
+    "historical_input_package": {
+      "path": "/root/projects/syrian-archive-airwars/data/cache/syrian-archive-historical.zip",
+      "size_bytes": 81855462,
+      "sha256": "9f35a90d92f9fb0334cb61ffd8434aac03fd0ee61622908a11923dac40da35f3"
+    },
+    "previous_release": "/root/projects/syrian-archive-airwars/site-releases/releases/20260802T120828Z-3bfc76f",
+    "retained_failed_candidate": "/root/projects/syrian-archive-airwars/site-releases/releases/airwars-syria-v0-structured-text-20260802T142700Z-3fa3cc7",
+    "backups": [
+      {
+        "path": "/root/projects/_backups/syrian-archive-code-pre-master-20260802T1320Z.tar.gz",
+        "size_bytes": 185759,
+        "sha256": "0129cf8b922bae3778fd5861537830731df1a9851fe51da112a42c1c4f68eaec"
+      },
+      {
+        "path": "/root/projects/_backups/syrian-archive-db-pre-publish-20260802T151145Z.dump",
+        "size_bytes": 3676826,
+        "sha256": "60dd387187abc07e694faa5612d0dcbc04c26eb0bca664675335a4a8ade128e9"
+      }
+    ]
+  }
+}
