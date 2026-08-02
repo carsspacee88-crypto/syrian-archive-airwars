@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block title %}مشاريع الأرشفة النصية{% endblock %}
+{% block content %}
+<section class="hero-row"><div><p class="eyebrow">المحرك العام</p><h1>مشاريع الأرشفة النصية</h1><p class="muted">الموصل يحدد بنية الموقع، بينما يبقى الجمع والحفظ والتدقيق والإصدار في النواة العامة.</p></div><a class="button primary" href="/admin/archive/projects/new">مشروع جديد</a></section>
+{% if projects %}<section class="job-list">{% for project in projects %}<a class="job-card" href="/admin/archive/projects/{{ project.id }}"><div class="job-card-top"><div><span class="job-id">{{ project.connector }}</span><h3>{{ project.name }}</h3></div><span class="status">{{ project.status }}</span></div><p class="ltr">{{ project.target_url }}</p></a>{% endfor %}</section>{% else %}<section class="card empty"><h2>لا توجد مشاريع بعد</h2></section>{% endif %}
+{% endblock %}

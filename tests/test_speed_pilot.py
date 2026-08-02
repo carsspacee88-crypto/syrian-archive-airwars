@@ -3,6 +3,7 @@ from __future__ import annotations
 import asyncio
 import json
 import tempfile
+import time
 import unittest
 from pathlib import Path
 from unittest.mock import Mock
@@ -11,20 +12,17 @@ import httpx
 
 from archive_pipeline.fetcher import AsyncHostFetcher, CircuitBreakingFetcher, FetchResult, HostCircuitBreaker
 from archive_pipeline.io_utils import utc_now
+from archive_pipeline.source_cache import SourceCacheStore
 from archive_pipeline.speed_pilot import (
-    _enforce_archived_only,
+    SpeedPilotRunner,
     _inherit_airwars_circuit_classification,
     _merge_previous_source,
     _new_source_record,
     _record_exact_content_duplicate_groups,
     _scope_sequences,
-    SpeedPilotRunner,
-)
-from archive_pipeline.v4 import (
-    ARCHIVE_HOSTS,
-    is_archive_url,
-    normalize_archive_url,
-    source_has_archived_text,
+    assess_content_quality,
+    canonical_fetch_key,
+    should_defer_archive,
 )
 
 
@@ -42,6 +40,29 @@ def failed_result(url: str) -> FetchResult:
 
 
 class CircuitBreakerTests(unittest.TestCase):
+    def test_item_level_404_does_not_slow_the_entire_host(self) -> None:
+        fetcher = AsyncHostFetcher(
+            delay_seconds=0.05,
+            workers=4,
+            per_host_workers=2,
+            adaptive_pacing=True,
+        )
+        fetcher._note_host_result(
+            "facebook.com",
+            FetchResult(
+                url="https://facebook.com/missing",
+                final_url="https://facebook.com/missing",
+                status=404,
+                content_type="text/html",
+                body=b"missing",
+                retrieved_at=utc_now(),
+                elapsed_seconds=0.01,
+                error="http_404",
+            ),
+        )
+        self.assertNotIn("facebook.com", fetcher._adaptive_delays)
+        self.assertEqual(fetcher._host_result_counts["facebook.com"]["item_miss"], 1)
+
     def test_sync_fetcher_opens_after_three_equivalent_host_failures(self) -> None:
         fetcher = CircuitBreakingFetcher(delay_seconds=0, retries=1, circuit_threshold=3)
         fetcher.inner.fetch = Mock(side_effect=lambda url, accept: failed_result(url))
@@ -86,85 +107,246 @@ class CircuitBreakerTests(unittest.TestCase):
         self.assertEqual(skipped, 17)
         self.assertEqual(sum(result.attempts == 0 for result in results), 17)
 
-    def test_archive_redirect_cannot_escape_to_a_live_source(self) -> None:
-        requested_hosts: list[str] = []
 
-        def handler(request: httpx.Request) -> httpx.Response:
-            requested_hosts.append(request.url.host)
-            if request.url.host == "archive.is":
-                return httpx.Response(
-                    302,
-                    request=request,
-                    headers={"Location": "https://www.facebook.com/forbidden"},
-                )
-            raise AssertionError(f"live host was contacted: {request.url.host}")
+class SourceCacheTests(unittest.TestCase):
+    def test_sqlite_cache_imports_v2_json_once_and_persists_incrementally(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            legacy = root / "source-url-index.json"
+            database = root / "source-cache-v3.sqlite3"
+            legacy.write_text(json.dumps({
+                "schema_version": "2.0.0",
+                "urls": {"https://example.org/a": {"source_id": "source-a"}},
+            }), encoding="utf-8")
+            original_legacy = legacy.read_bytes()
 
-        async def scenario() -> FetchResult:
-            fetcher = AsyncHostFetcher(delay_seconds=0, retries=1)
-            async with fetcher:
-                assert fetcher._client is not None
-                await fetcher._client.aclose()
-                fetcher._client = httpx.AsyncClient(
-                    transport=httpx.MockTransport(handler),
-                    follow_redirects=True,
-                    trust_env=False,
-                )
-                return await fetcher.fetch(
-                    "https://archive.is/example",
-                    allowed_redirect_hosts=ARCHIVE_HOSTS,
-                )
+            cache = SourceCacheStore(database, legacy)
+            self.assertEqual(
+                cache.get("https://example.org/a")["source_id"], "source-a"
+            )
+            cache.set("https://example.org/b", {"source_id": "source-b"})
+            self.assertEqual(cache.flush(), 1)
+            cache.close()
 
-        result = asyncio.run(scenario())
-        self.assertEqual(requested_hosts, ["archive.is"])
-        self.assertEqual(result.error, "redirect_blocked_outside_archive:facebook.com")
+            reopened = SourceCacheStore(database, legacy)
+            self.assertEqual(
+                reopened.get("https://example.org/b")["source_id"], "source-b"
+            )
+            self.assertEqual(reopened.count(), 2)
+            reopened.close()
+            self.assertEqual(legacy.read_bytes(), original_legacy)
+
+    def test_resolved_text_with_invalid_digest_is_not_promoted_to_cache(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            runner = SpeedPilotRunner(
+                root, root / "missing.zip", first_sequence=1, last_sequence=1
+            )
+            record = {
+                "source_id": "source-invalid-digest",
+                "original_url": "https://example.org/article",
+                "retrieval_status": "successful",
+                "text_original": "Public evidence text whose digest must be verified.",
+                "content_hash": "not-the-real-sha256",
+                "content_quality": {"score": 100},
+            }
+            try:
+                runner._update_cache(record)
+                runner.cache.flush()
+                self.assertEqual(
+                    runner.cache.get(canonical_fetch_key(record["original_url"])),
+                    {},
+                )
+            finally:
+                runner.close()
 
 
 class SpeedPilotPolicyTests(unittest.TestCase):
-    def test_source_extraction_fetches_the_listed_archive_and_never_the_original(self) -> None:
-        class FakeArchiveFetcher:
-            def __init__(self) -> None:
-                self.calls: list[str] = []
+    def test_existing_preserved_text_skips_network_entirely(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            runner = SpeedPilotRunner(root, root / "missing.zip", first_sequence=1, last_sequence=1)
+            seed = {
+                "original_url": "https://facebook.com/example/posts/1",
+                "publisher": "Example",
+                "publisher_ar": "",
+                "author": "",
+                "publication_date": "",
+                "content": "",
+                "declared_language": "Arabic",
+            }
+            record = _new_source_record(seed, "source-existing")
+            record["text_original"] = "هذا نص موثق محفوظ سابقًا من المصدر نفسه"
+            record["content_hash"] = "abc"
 
-            async def fetch(self, url: str, **_: object) -> FetchResult:
-                if not is_archive_url(url):
-                    raise AssertionError(f"non-archive request: {url}")
-                self.calls.append(url)
-                return FetchResult(
-                    url=url,
-                    final_url=url,
-                    status=200,
-                    content_type="text/html; charset=utf-8",
-                    body=b"<html><main><h1>Archived report</h1><p>Preserved testimony text.</p></main></html>",
-                    retrieved_at=utc_now(),
-                    elapsed_seconds=0.01,
-                )
+            class NeverFetch:
+                async def fetch(self, *_args, **_kwargs):
+                    raise AssertionError("network must not be called")
 
-            async def latest_wayback_capture(self, _: str) -> tuple[None, dict[str, object]]:
-                raise AssertionError("listed archive should be used before a CDX lookup")
+            result, archive = asyncio.run(runner._live_source(NeverFetch(), record))
+            self.assertFalse(archive)
+            self.assertEqual(result["retrieval_status"], "embedded_text_preserved")
 
-            def note_application_failure(self, *_: object) -> None:
-                return None
+    def test_unavailable_listed_archive_enters_durable_recovery_not_failure(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            runner = SpeedPilotRunner(
+                root, root / "missing.zip", first_sequence=1, last_sequence=1,
+                inline_wayback=False,
+            )
+            seed = {
+                "original_url": "https://facebook.com/example/posts/2",
+                "publisher": "Example",
+                "publisher_ar": "",
+                "author": "",
+                "publication_date": "",
+                "content": "",
+                "declared_language": "Arabic",
+                "archived_urls": ["https://archive.is/example"],
+            }
+            record = _new_source_record(seed, "source-deferred")
 
-        seed = {
-            "original_url": "https://www.facebook.com/example/posts/1",
-            "publisher": "Example",
-            "publisher_ar": "",
-            "author": "",
-            "publication_date": "",
-            "content": "",
-            "declared_language": "English",
-        }
-        record = _new_source_record(seed, "source-test")
-        record["archived_urls"] = [
-            record["original_url"],
-            "https://archive.is/abc123",
-        ]
-        fetcher = FakeArchiveFetcher()
-        runner = object.__new__(SpeedPilotRunner)
-        result = asyncio.run(runner._archive_source(fetcher, record))
-        self.assertEqual(fetcher.calls, ["https://archive.is/abc123"])
-        self.assertEqual(result["preservation_status"], "archived_text_preserved")
-        self.assertIn("Preserved testimony", result["text_original"])
+            class FailedArchive:
+                async def fetch(self, url, **_kwargs):
+                    return failed_result(url)
+
+                def note_application_failure(self, *_args, **_kwargs):
+                    return None
+
+            result = asyncio.run(runner._archive_source(FailedArchive(), record))
+            self.assertEqual(result["retrieval_status"], "recovery_deferred")
+            self.assertIsNone(result["failure_reason"])
+            self.assertIn("source-deferred", runner.recovery["items"])
+
+    def test_facebook_uses_lightweight_public_embed_before_full_page(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            runner = SpeedPilotRunner(
+                root, root / "missing.zip", first_sequence=1, last_sequence=1,
+                fast_timeout=2, timeout=4,
+            )
+            seed = {
+                "original_url": "https://www.facebook.com/example/posts/3",
+                "publisher": "Example",
+                "publisher_ar": "",
+                "author": "",
+                "publication_date": "",
+                "content": "",
+                "declared_language": "Arabic",
+            }
+            record = _new_source_record(seed, "source-facebook")
+            requested: list[str] = []
+
+            class EmbedFetcher:
+                async def fetch(self, url, **_kwargs):
+                    requested.append(url)
+                    return FetchResult(
+                        url=url, final_url=url, status=200, content_type="text/html",
+                        body="<article><p>هذا نص منشور عام موثق وكامل للاختبار</p></article>".encode(),
+                        retrieved_at=utc_now(), elapsed_seconds=0.01,
+                    )
+
+                def note_application_failure(self, *_args, **_kwargs):
+                    return None
+
+            result, archive = asyncio.run(runner._live_source(EmbedFetcher(), record))
+            self.assertFalse(archive)
+            self.assertEqual(result["retrieval_status"], "successful")
+            self.assertEqual(len(requested), 1)
+            self.assertIn("/plugins/post.php?", requested[0])
+
+    def test_low_quality_facebook_item_does_not_open_host_circuit(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            runner = SpeedPilotRunner(
+                root, root / "missing.zip", first_sequence=1, last_sequence=1,
+                fast_timeout=2, timeout=4,
+            )
+            seed = {
+                "original_url": "https://www.facebook.com/example/posts/deleted",
+                "publisher": "Example",
+                "publisher_ar": "",
+                "author": "",
+                "publication_date": "",
+                "content": "",
+                "declared_language": "Arabic",
+            }
+            record = _new_source_record(seed, "source-facebook-shell")
+            circuit_notes: list[tuple[bool, str]] = []
+
+            class ShellFetcher:
+                async def fetch(self, url, **_kwargs):
+                    return FetchResult(
+                        url=url, final_url=url, status=200, content_type="text/html",
+                        body=b"<main>Log in to Facebook Create new account</main>",
+                        retrieved_at=utc_now(), elapsed_seconds=0.01,
+                    )
+
+                def note_application_failure(self, _url, failed, reason):
+                    circuit_notes.append((failed, reason))
+
+            accepted = asyncio.run(runner._facebook_embed(ShellFetcher(), record))
+            self.assertFalse(accepted)
+            self.assertEqual(circuit_notes, [(False, "facebook_embed_item_low_quality")])
+
+    def test_fetch_cache_unifies_x_and_twitter_without_changing_source_ids(self) -> None:
+        twitter = "https://twitter.com/example/status/123?utm_source=test"
+        x_url = "https://x.com/example/status/123"
+        self.assertEqual(canonical_fetch_key(twitter), canonical_fetch_key(x_url))
+
+    def test_quality_validator_rejects_platform_shell_and_keeps_short_social_text(self) -> None:
+        shell = assess_content_quality(
+            "Log in to Facebook Create new account See more on Facebook",
+            "public_facebook_post",
+        )
+        post = assess_content_quality("قصف جوي استهدف البلدة مساء اليوم", "public_x_post")
+        self.assertFalse(shell["accepted"])
+        self.assertIn("access_or_platform_shell", shell["reasons"])
+        self.assertTrue(post["accepted"])
+
+    def test_archive_lane_starts_before_all_live_jobs_finish(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            order: list[str] = []
+
+            class StreamingRunner(SpeedPilotRunner):
+                async def _live_source(self, fetcher, record):
+                    if record["source_id"] == "source-a":
+                        await asyncio.sleep(0.01)
+                        return record, True
+                    await asyncio.sleep(0.15)
+                    order.append("slow_live_finished")
+                    record["retrieval_status"] = "successful"
+                    record["content_quality"] = {"accepted": True, "score": 100}
+                    return record, False
+
+                async def _archive_source(self, fetcher, record):
+                    order.append("archive_started")
+                    await asyncio.sleep(0.01)
+                    record["retrieval_status"] = "successful"
+                    record["content_quality"] = {"accepted": True, "score": 100}
+                    return record
+
+            runner = StreamingRunner(
+                root, root / "missing.zip", first_sequence=1, last_sequence=1,
+                delay=0, timeout=1, workers=2, per_host_workers=1,
+                archive_workers=1, checkpoint_every=2,
+            )
+            records = [
+                {
+                    "source_id": source_id,
+                    "source_type": "other_web_page",
+                    "original_url": f"https://{source_id}.example/item",
+                    "retrieval_status": "pending",
+                    "failure_reason": None,
+                    "attempt_history": [],
+                    "text_original": "",
+                    "content_hash": None,
+                }
+                for source_id in ("source-a", "source-b")
+            ]
+            asyncio.run(runner._collect_source_batch(records))
+            self.assertLess(order.index("archive_started"), order.index("slow_live_finished"))
 
     def test_exact_content_duplicates_are_recorded_without_merging_sources(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
@@ -212,40 +394,58 @@ class SpeedPilotPolicyTests(unittest.TestCase):
         self.assertEqual(skipped["retrieval_status"]["airwars_endpoint"]["circuit_open_status"], 403)
         self.assertEqual(skipped["completeness_status"], "blocked")
 
+    def test_airwars_circuit_inheritance_tolerates_empty_attempt_slots(self) -> None:
+        records = [{
+            "retrieval_status": {"airwars_endpoint": None, "live_page": None},
+            "review_flags": [],
+        }]
+        self.assertEqual(_inherit_airwars_circuit_classification(records), 0)
+
+    def test_v3_migration_keeps_resolved_v2_content_and_requeues_v2_gaps(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            progress_path = root / "data/pilot/speed-pilot-0001-0001-progress.json"
+            source_root = root / "data/sources"
+            progress_path.parent.mkdir(parents=True)
+            source_root.mkdir(parents=True)
+            progress_path.write_text(json.dumps({
+                "engine_version": "2.0.0",
+                "source_completed_ids": ["source-resolved", "source-gap"],
+                "source_outcomes": {
+                    "source-resolved": {"status": "successful"},
+                    "source-gap": {"status": "archive_lookup_failed"},
+                },
+            }), encoding="utf-8")
+            (source_root / "source-resolved.json").write_text(json.dumps({
+                "source_id": "source-resolved",
+                "text_original": "Preserved evidence text",
+                "content_hash": "abc",
+            }), encoding="utf-8")
+            (source_root / "source-gap.json").write_text(json.dumps({
+                "source_id": "source-gap",
+                "text_original": "",
+                "content_hash": None,
+            }), encoding="utf-8")
+
+            runner = SpeedPilotRunner(
+                root, root / "missing.zip", first_sequence=1, last_sequence=1,
+            )
+            self.assertEqual(runner.progress["source_completed_ids"], ["source-resolved"])
+            self.assertNotIn("source-gap", runner.progress["source_outcomes"])
+            self.assertEqual(
+                runner.progress["engine_migrations"][-1]["requeued_unresolved_sources"],
+                1,
+            )
+
     def test_default_comparison_scope_is_exactly_0101_through_0150(self) -> None:
         values = _scope_sequences(101, 150)
         self.assertEqual(len(values), 50)
         self.assertEqual(values[0], 101)
         self.assertEqual(values[-1], 150)
 
-    def test_only_recognized_archive_hosts_are_accepted(self) -> None:
-        self.assertTrue(is_archive_url("https://archive.ph/abc"))
-        self.assertTrue(is_archive_url("https://web.archive.org/web/2020/https://example.org"))
-        self.assertFalse(is_archive_url("https://x.com/example/status/1"))
-        self.assertFalse(is_archive_url("https://airwars.org/source/example"))
-        self.assertEqual(
-            normalize_archive_url("https://archive.is/wip/abc123"),
-            "https://archive.is/abc123",
-        )
-
-    def test_live_or_embedded_text_is_discarded_by_archive_only_policy(self) -> None:
-        record = {
-            "text_original": "Live text",
-            "content_hash": "live",
-            "preservation_status": "live_text_preserved",
-            "retrieval_status": "successful",
-            "extraction_status": "text_extracted",
-            "archived_urls": [
-                "https://x.com/example/status/1",
-                "https://archive.is/example",
-            ],
-            "content_variants": [],
-        }
-        prepared = _enforce_archived_only(record)
-        self.assertEqual(prepared["text_original"], "")
-        self.assertEqual(prepared["archived_urls"], ["https://archive.is/example"])
-        self.assertEqual(prepared["collection_policy"], "archived_url_only")
-        self.assertFalse(source_has_archived_text(prepared))
+    def test_archive_is_deferred_only_when_original_text_exists(self) -> None:
+        self.assertTrue(should_defer_archive({"text_original": "Preserved verbatim text"}))
+        self.assertFalse(should_defer_archive({"text_original": ""}))
 
     def test_previous_successful_source_is_merged_without_losing_new_relationships(self) -> None:
         seed = {

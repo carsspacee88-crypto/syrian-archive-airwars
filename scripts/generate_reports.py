@@ -10,10 +10,13 @@ from archive_pipeline.reports import generate_collection_summary, generate_map_c
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--legacy-zip", required=True)
+    parser.add_argument("--legacy-zip")
+    parser.add_argument("--modern-only", action="store_true")
     parser.add_argument("--output-root", default=".")
     args = parser.parse_args()
-    legacy_zip = Path(args.legacy_zip)
+    if not args.modern_only and not args.legacy_zip:
+        parser.error("--legacy-zip is required unless --modern-only is used")
+    legacy_zip = None if args.modern_only else Path(args.legacy_zip)
     output_root = Path(args.output_root)
     collection = generate_collection_summary(legacy_zip, output_root)
     map_report = generate_map_coverage(legacy_zip, output_root)

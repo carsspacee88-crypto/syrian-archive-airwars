@@ -31,6 +31,10 @@ PILOT_SOURCE_STATUSES = {
     "successful", "blocked", "timed_out", "not_found", "gone", "login_required",
     "archive_lookup_failed", "no_archive_capture", "parsing_failed",
     "unsupported_content_type", "unavailable", "pending_manual_review",
+    # V4 terminal states. Deferred is a truthful foreground outcome whose
+    # recovery remains queued; it is not a validation failure.
+    "successful_partial", "cached", "embedded_text_preserved",
+    "media_metadata_preserved", "recovery_deferred", "failed", "internal_error",
 }
 
 
@@ -73,7 +77,12 @@ def _validate_internal_links(validation: Validation, site_root: Path) -> None:
     checked = 0
     broken = 0
     root_paths = 0
-    for path in html_files:
+    for position, path in enumerate(html_files, 1):
+        if position == 1 or position % 5000 == 0 or position == len(html_files):
+            print(
+                f"VALIDATION_PROGRESS phase=internal_links pages={position}/{len(html_files)} links={checked}",
+                flush=True,
+            )
         relative = path.relative_to(site_root)
         text = path.read_text(encoding="utf-8")
         for raw in LINK_RE.findall(text):
@@ -344,7 +353,13 @@ def _validate_pilot(validation: Validation, site_root: Path, project_root: Path)
     source_records: dict[str, dict[str, Any]] = {}
     normalized_urls: dict[str, list[str]] = defaultdict(list)
     content_hashes: dict[str, list[str]] = defaultdict(list)
-    for path in sorted((project_root / "data" / "sources").glob("*.json")):
+    source_paths = sorted((project_root / "data" / "sources").glob("*.json"))
+    for position, path in enumerate(source_paths, 1):
+        if position == 1 or position % 5000 == 0 or position == len(source_paths):
+            print(
+                f"VALIDATION_PROGRESS phase=sources records={position}/{len(source_paths)}",
+                flush=True,
+            )
         record = load_json(path, {})
         source_id = record.get("source_id")
         if source_id in source_records:
@@ -355,7 +370,7 @@ def _validate_pilot(validation: Validation, site_root: Path, project_root: Path)
         if record.get("content_hash"):
             content_hashes[record["content_hash"]].append(source_id)
         if record.get("retrieval_status") not in PILOT_SOURCE_STATUSES:
-            validation.add("critical", "unknown_source_retrieval_status", str(path.relative_to(project_root)), "Source retrieval status is not in the pilot taxonomy.", status=record.get("retrieval_status"))
+            validation.add("critical", "unknown_source_retrieval_status", str(path.relative_to(project_root)), "Source retrieval status is not in the supported taxonomy.", status=record.get("retrieval_status"))
         if not isinstance(record.get("text_original"), str) or not isinstance(record.get("text_ar"), str):
             validation.add("critical", "source_text_not_separated", str(path.relative_to(project_root)), "Original and Arabic source text must be separate strings.")
         source_page = site_root / "sources" / str(source_id) / "index.html"
@@ -455,13 +470,34 @@ def _markdown(report: dict[str, Any]) -> str:
     return "\n".join(lines) + "\n"
 
 
-def validate(site_root: Path, project_root: Path, legacy_zip: Path, report_root: Path) -> dict[str, Any]:
+def validate(site_root: Path, project_root: Path, legacy_zip: Path | None, report_root: Path) -> dict[str, Any]:
     site_root = site_root.resolve()
     project_root = project_root.resolve()
     validation = Validation()
-    with LegacyArchive(legacy_zip) as archive:
-        summaries = list(archive.iter_summaries())
+    if legacy_zip is not None:
+        with LegacyArchive(legacy_zip) as archive:
+            summaries = list(archive.iter_summaries())
+    else:
+        summaries = []
+        for path in sorted((project_root / "data" / "incidents").glob("*.json")):
+            record = load_json(path, {})
+            if record:
+                summaries.append({
+                    "sequence": int(record.get("legacy_sequence") or 0),
+                    "code": record.get("incident_code"),
+                })
+        summaries.sort(key=lambda row: int(row["sequence"]))
     total = len(summaries)
+    expected_sequences = list(range(1, total + 1))
+    actual_sequences = [int(row.get("sequence") or 0) for row in summaries]
+    if actual_sequences != expected_sequences:
+        validation.add(
+            "critical", "non_contiguous_modern_sequence", "data/incidents",
+            "Normalized incident sequence must be contiguous from 1 through the total.",
+            expected_total=total,
+            missing=sorted(set(expected_sequences) - set(actual_sequences)),
+            unexpected=sorted(set(actual_sequences) - set(expected_sequences)),
+        )
     for required in ["index.html", "map.html", "methodology.html", ".nojekyll", "assets/css/style.css", "assets/js/site.js", "assets/js/archive-search.js"]:
         if not (site_root / required).exists():
             validation.add("critical", "missing_required_site_file", required, "Required site artifact file is missing.")
@@ -471,16 +507,19 @@ def validate(site_root: Path, project_root: Path, legacy_zip: Path, report_root:
     _validate_normalized(validation, site_root, project_root)
     _validate_map(validation, project_root)
     _validate_no_media_binaries(validation, project_root)
-    _validate_pilot(validation, site_root, project_root)
+    if legacy_zip is not None:
+        _validate_pilot(validation, site_root, project_root)
+    else:
+        validation.checks["legacy_package"] = {"required": False, "opened": False}
 
     legacy_codes: dict[str, list[int]] = defaultdict(list)
     for row in summaries:
         if row.get("code"):
             legacy_codes[str(row["code"])].append(int(row["sequence"]))
     duplicates = {code: sequences for code, sequences in legacy_codes.items() if len(sequences) > 1}
-    validation.checks["legacy_duplicate_public_codes"] = duplicates
+    validation.checks["duplicate_public_codes_by_sequence"] = duplicates
     for code, sequences in duplicates.items():
-        validation.add("warning", "duplicate_legacy_public_incident_code", "data/cases-summary.json", "Duplicate public code preserved as separate sequences.", incident_code=code, sequences=sequences)
+        validation.add("warning", "duplicate_public_incident_code_by_sequence", "data/cases-summary.json", "Duplicate public code preserved as separate sequences.", incident_code=code, sequences=sequences)
 
     report = validation.report()
     report_root.mkdir(parents=True, exist_ok=True)
@@ -493,14 +532,18 @@ def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description="Validate the generated archive and normalized incident records")
     parser.add_argument("--site-root", required=True)
     parser.add_argument("--project-root", default=".")
-    parser.add_argument("--legacy-zip", required=True)
+    parser.add_argument("--legacy-zip")
+    parser.add_argument("--modern-only", action="store_true")
     parser.add_argument("--report-root", default="data/reports")
     return parser
 
 
 def main() -> None:
     args = build_parser().parse_args()
-    report = validate(Path(args.site_root), Path(args.project_root), Path(args.legacy_zip), Path(args.report_root))
+    if not args.modern_only and not args.legacy_zip:
+        parser.error("--legacy-zip is required unless --modern-only is used")
+    legacy_zip = None if args.modern_only else Path(args.legacy_zip)
+    report = validate(Path(args.site_root), Path(args.project_root), legacy_zip, Path(args.report_root))
     print(json.dumps({"result": report["result"], "issue_counts": report["issue_counts"], "checks": report["checks"]}, ensure_ascii=False, indent=2))
     raise SystemExit(1 if report["issue_counts"]["critical"] else 0)
 

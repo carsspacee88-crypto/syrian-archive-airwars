@@ -19,8 +19,7 @@ from .io_utils import sha256_bytes, utc_now
 
 
 USER_AGENT = (
-    "SyrianArchiveAirwars/1.0 "
-    "(+https://github.com/carsspacee88-crypto/syrian-archive-airwars; archival research)"
+    "SyrianArchiveAirwars/4.0 (archival research; public text and metadata only)"
 )
 
 
@@ -38,6 +37,11 @@ class FetchResult:
     error: str | None = None
     attempts: int = 1
     waiting_seconds: float = 0.0
+    queue_waiting_seconds: float = 0.0
+    scheduler_waiting_seconds: float = 0.0
+    pacing_waiting_seconds: float = 0.0
+    retry_waiting_seconds: float = 0.0
+    response_truncated: bool = False
     attempt_history: list[dict[str, Any]] | None = None
     etag: str = ""
     last_modified: str = ""
@@ -179,7 +183,7 @@ class RespectfulFetcher:
                 if error.code not in {429, 500, 502, 503, 504}:
                     return last
                 retry_after = self._retry_after_seconds(error.headers.get("Retry-After") if error.headers else None)
-                if retry_after:
+                if retry_after and attempt < self.retries:
                     time.sleep(retry_after)
                     waiting += retry_after
                     self.total_waiting_seconds += retry_after
@@ -435,7 +439,13 @@ class CircuitBreakingFetcher:
 
 
 class AsyncHostFetcher:
-    """Connection-pooled async fetcher with per-host pacing and persisted circuits."""
+    """Connection-pooled async fetcher with fair, non-blocking host rate gates.
+
+    V3 slept while holding both the host and global semaphores and multiplied a
+    hostname delay up to eight seconds after item-level failures.  V4 reserves a
+    token before acquiring either semaphore, sleeps outside all capacity gates,
+    and only honors an explicit server throttle (`429`/`Retry-After`).
+    """
 
     def __init__(
         self,
@@ -448,6 +458,8 @@ class AsyncHostFetcher:
         circuit_state: dict[str, Any] | None = None,
         circuit_threshold: int = 3,
         circuit_reprobe_every: int = 100,
+        host_policies: dict[str, dict[str, float | int]] | None = None,
+        adaptive_pacing: bool = True,
     ):
         self.delay_seconds = max(0.0, delay_seconds)
         self.timeout_seconds = timeout_seconds
@@ -455,6 +467,8 @@ class AsyncHostFetcher:
         self.max_bytes = max_bytes
         self.workers = max(1, workers)
         self.per_host_workers = max(1, per_host_workers)
+        self.host_policies = host_policies or {}
+        self.adaptive_pacing = adaptive_pacing
         self.circuit = HostCircuitBreaker(
             threshold=circuit_threshold,
             reprobe_every=circuit_reprobe_every,
@@ -462,11 +476,20 @@ class AsyncHostFetcher:
         )
         self._global = asyncio.Semaphore(self.workers)
         self._host_semaphores: dict[str, asyncio.Semaphore] = {}
-        self._last_request_at: dict[str, float] = {}
+        self._host_start_locks: dict[str, asyncio.Lock] = {}
+        self._host_theoretical_arrival: dict[str, float] = {}
+        self._host_cooldown_until: dict[str, float] = {}
+        # Kept as an empty compatibility surface for older progress/tests.
+        # V4 never multiplies a hostname delay after item-level failures.
+        self._adaptive_delays: dict[str, float] = {}
+        self._host_result_counts: dict[str, dict[str, int]] = {}
         self._client: httpx.AsyncClient | None = None
         self.total_requests = 0
         self.total_retries = 0
         self.total_waiting_seconds = 0.0
+        self.total_scheduler_waiting_seconds = 0.0
+        self.total_pacing_waiting_seconds = 0.0
+        self.total_retry_waiting_seconds = 0.0
         self.circuit_skips = 0
 
     async def __aenter__(self) -> "AsyncHostFetcher":
@@ -478,11 +501,12 @@ class AsyncHostFetcher:
             pool=self.timeout_seconds,
         )
         self._client = httpx.AsyncClient(
-            headers={"User-Agent": USER_AGENT, "Accept-Encoding": "identity"},
+            headers={"User-Agent": USER_AGENT},
             follow_redirects=True,
             limits=limits,
             timeout=timeout,
             trust_env=False,
+            http2=True,
         )
         return self
 
@@ -491,35 +515,126 @@ class AsyncHostFetcher:
             await self._client.aclose()
             self._client = None
 
+    def _host_policy(self, host: str) -> dict[str, float | int]:
+        selected: dict[str, float | int] = {}
+        selected_length = -1
+        for domain, policy in self.host_policies.items():
+            normalized = domain.casefold().removeprefix("www.")
+            if (host == normalized or host.endswith("." + normalized)) and len(normalized) > selected_length:
+                selected = policy
+                selected_length = len(normalized)
+        return selected
+
+    def _base_delay(self, host: str) -> float:
+        return max(0.0, float(self._host_policy(host).get("delay", self.delay_seconds)))
+
+    def _rate_per_second(self, host: str) -> float:
+        policy = self._host_policy(host)
+        configured = float(policy.get("rate", 0.0))
+        if configured > 0:
+            return configured
+        delay = self._base_delay(host)
+        return 1.0 / delay if delay > 0 else 1_000.0
+
+    def _burst(self, host: str) -> int:
+        policy = self._host_policy(host)
+        return max(1, int(policy.get("burst", policy.get("workers", self.per_host_workers))))
+
     def _host_semaphore(self, host: str) -> asyncio.Semaphore:
         if host not in self._host_semaphores:
-            self._host_semaphores[host] = asyncio.Semaphore(self.per_host_workers)
+            limit = max(1, int(self._host_policy(host).get("workers", self.per_host_workers)))
+            self._host_semaphores[host] = asyncio.Semaphore(min(limit, self.workers))
         return self._host_semaphores[host]
 
     async def _wait_for_host(self, host: str) -> float:
-        remaining = self.delay_seconds - (time.monotonic() - self._last_request_at.get(host, 0.0))
-        if remaining > 0:
+        """Reserve a GCRA start slot, release the lock, then sleep.
+
+        The burst tolerance permits the configured host workers to start
+        together. Backlogs never hold network semaphores while waiting.
+        """
+        lock = self._host_start_locks.setdefault(host, asyncio.Lock())
+        async with lock:
+            now = time.monotonic()
+            rate = max(0.001, self._rate_per_second(host))
+            interval = 1.0 / rate
+            burst_tolerance = max(0, self._burst(host) - 1) * interval
+            theoretical = max(now, self._host_theoretical_arrival.get(host, now))
+            allowed_at = theoretical - burst_tolerance
+            cooldown_until = self._host_cooldown_until.get(host, 0.0)
+            scheduled_at = max(now, allowed_at, cooldown_until)
+            self._host_theoretical_arrival[host] = max(theoretical, scheduled_at) + interval
+            remaining = max(0.0, scheduled_at - now)
+        if remaining:
+            started = time.monotonic()
             await asyncio.sleep(remaining)
-            self.total_waiting_seconds += remaining
-            return remaining
+            actual = time.monotonic() - started
+            self.total_waiting_seconds += actual
+            self.total_pacing_waiting_seconds += actual
+            return actual
         return 0.0
+
+    def _note_host_result(
+        self,
+        host: str,
+        result: FetchResult,
+        retry_after: float = 0.0,
+    ) -> None:
+        counts = self._host_result_counts.setdefault(
+            host,
+            {
+                "successful": 0,
+                "item_miss": 0,
+                "blocked": 0,
+                "throttled": 0,
+                "failed": 0,
+            },
+        )
+        if result.ok:
+            counts["successful"] += 1
+            return
+        if result.status == 429:
+            counts["throttled"] += 1
+            if self.adaptive_pacing:
+                cooldown = retry_after if retry_after > 0 else 1.0
+                self._host_cooldown_until[host] = max(
+                    self._host_cooldown_until.get(host, 0.0),
+                    time.monotonic() + min(cooldown, 30.0),
+                )
+        elif result.status in {401, 403, 408, 425, 451}:
+            counts["blocked"] += 1
+        elif result.status is None or result.status >= 500:
+            counts["failed"] += 1
+            if retry_after > 0 and self.adaptive_pacing:
+                self._host_cooldown_until[host] = max(
+                    self._host_cooldown_until.get(host, 0.0),
+                    time.monotonic() + min(retry_after, 30.0),
+                )
+        else:
+            # A missing/deleted individual URL (for example 404 or 410) says
+            # nothing about the health of the hostname.  Slowing the entire
+            # social/archive host for item-level misses was a V2 bottleneck.
+            counts["item_miss"] += 1
+            return
 
     async def fetch(
         self,
         url: str,
         accept: str = "text/html,application/json;q=0.9,*/*;q=0.1",
-        allowed_redirect_hosts: frozenset[str] | set[str] | None = None,
+        *,
+        timeout_seconds: float | None = None,
+        max_bytes: int | None = None,
     ) -> FetchResult:
         host = _host(url)
         if self._client is None:
             raise RuntimeError("AsyncHostFetcher must be used as an async context manager")
         last: FetchResult | None = None
         history: list[dict[str, Any]] = []
-        waiting = 0.0
-        # Acquire the host slot first so queued requests to one busy domain do not
-        # consume every global worker. Re-check the circuit only after that slot is
-        # acquired; otherwise hundreds of already-scheduled tasks can slip through.
-        async with self._host_semaphore(host), self._global:
+        scheduler_waiting = 0.0
+        pacing_waiting = 0.0
+        retry_waiting = 0.0
+        request_timeout = max(0.5, float(timeout_seconds or self.timeout_seconds))
+        response_limit = max(64 * 1024, int(max_bytes or self.max_bytes))
+        for attempt in range(1, self.retries + 1):
             if not self.circuit.allow(url):
                 self.circuit_skips += 1
                 reason, status = self.circuit.open_context(url)
@@ -533,177 +648,281 @@ class AsyncHostFetcher:
                     elapsed_seconds=0.0,
                     error="host_circuit_open_after_repeated_block_or_timeout",
                     attempts=0,
+                    queue_waiting_seconds=round(scheduler_waiting, 3),
+                    scheduler_waiting_seconds=round(scheduler_waiting, 3),
+                    pacing_waiting_seconds=round(pacing_waiting, 3),
+                    retry_waiting_seconds=round(retry_waiting, 3),
                     attempt_history=[{"attempt": 0, "result": "host_circuit_open", "host": host}],
                     circuit_open_reason=reason,
                     circuit_open_status=status,
                 )
-            for attempt in range(1, self.retries + 1):
-                waiting += await self._wait_for_host(host)
-                started = time.monotonic()
-                if attempt > 1:
-                    self.total_retries += 1
-                try:
-                    request_url = url
-                    redirect_count = 0
-                    response_headers: dict[str, str] = {}
-                    normalized_allowed_hosts = {
-                        value.casefold().removeprefix("www.")
-                        for value in (allowed_redirect_hosts or set())
-                    }
-                    while True:
-                        self.total_requests += 1
-                        async with self._client.stream(
-                            "GET",
-                            request_url,
-                            headers={"Accept": accept},
-                            follow_redirects=allowed_redirect_hosts is None,
-                        ) as response:
-                            response_headers = dict(response.headers)
-                            if allowed_redirect_hosts is not None and response.is_redirect:
-                                location = response.headers.get("Location", "")
-                                redirected_url = urllib.parse.urljoin(str(response.url), location)
-                                redirected_host = _host(redirected_url)
-                                if not location or redirected_host not in normalized_allowed_hosts:
-                                    last = FetchResult(
-                                        url=url,
-                                        final_url=str(response.url),
-                                        status=response.status_code,
-                                        content_type=response.headers.get("Content-Type", ""),
-                                        body=b"",
-                                        retrieved_at=utc_now(),
-                                        elapsed_seconds=round(time.monotonic() - started, 3),
-                                        error=f"redirect_blocked_outside_archive:{redirected_host or 'unknown'}",
-                                        attempts=attempt,
-                                        waiting_seconds=round(waiting, 3),
-                                    )
-                                    break
-                                redirect_count += 1
-                                if redirect_count > 10:
-                                    raise RuntimeError("too_many_archive_redirects")
-                                request_url = redirected_url
-                                continue
-                            body = bytearray()
-                            async for chunk in response.aiter_bytes():
-                                body.extend(chunk)
-                                if len(body) > self.max_bytes:
-                                    raise ValueError(f"response_exceeds_{self.max_bytes}_bytes")
-                            payload = bytes(body)
-                            last = FetchResult(
-                                url=url,
-                                final_url=str(response.url),
-                                status=response.status_code,
-                                content_type=response.headers.get("Content-Type", ""),
-                                body=payload,
-                                retrieved_at=utc_now(),
-                                elapsed_seconds=round(time.monotonic() - started, 3),
-                                error=None if 200 <= response.status_code < 300 else f"http_{response.status_code}",
-                                attempts=attempt,
-                                waiting_seconds=round(waiting, 3),
-                                etag=response.headers.get("ETag", ""),
-                                last_modified=response.headers.get("Last-Modified", ""),
-                            )
-                        break
-                    assert last is not None
-                    history.append({
-                        "attempt": attempt,
-                        "retrieved_at": last.retrieved_at,
-                        "status": last.status,
-                        "elapsed_seconds": last.elapsed_seconds,
-                        "result": "successful" if last.ok else "http_error",
-                        "error": last.error,
-                    })
-                    retry_after = RespectfulFetcher._retry_after_seconds(response_headers.get("retry-after"))
-                    self._last_request_at[host] = time.monotonic()
-                    if last.ok or last.status not in {429, 500, 502, 503, 504}:
-                        break
-                    if retry_after:
-                        await asyncio.sleep(retry_after)
-                        waiting += retry_after
-                        self.total_waiting_seconds += retry_after
-                except Exception as error:
-                    last = FetchResult(
-                        url=url,
-                        final_url=url,
-                        status=None,
-                        content_type="",
-                        body=b"",
-                        retrieved_at=utc_now(),
-                        elapsed_seconds=round(time.monotonic() - started, 3),
-                        error=f"{type(error).__name__}: {error}",
-                        attempts=attempt,
-                        waiting_seconds=round(waiting, 3),
-                    )
-                    history.append({
-                        "attempt": attempt,
-                        "retrieved_at": last.retrieved_at,
-                        "status": None,
-                        "elapsed_seconds": last.elapsed_seconds,
-                        "result": "timed_out" if "timeout" in str(error).casefold() else "network_error",
-                        "error": last.error,
-                    })
-                    self._last_request_at[host] = time.monotonic()
-                if attempt < self.retries:
-                    backoff = (2 ** (attempt - 1)) + random.uniform(0.0, 0.5)
-                    await asyncio.sleep(backoff)
-                    waiting += backoff
-                    self.total_waiting_seconds += backoff
+
+            pacing_waiting += await self._wait_for_host(host)
+            queued_at = time.monotonic()
+            host_gate = self._host_semaphore(host)
+            host_acquired = False
+            global_acquired = False
+            try:
+                await host_gate.acquire()
+                host_acquired = True
+                await self._global.acquire()
+                global_acquired = True
+            except BaseException:
+                # Cancellation while waiting for the global gate must not leak
+                # the already-acquired host permit.  A leaked permit caused a
+                # permanently shrinking lane after pause/cancel in V3.
+                if global_acquired:
+                    self._global.release()
+                if host_acquired:
+                    host_gate.release()
+                raise
+            acquired_at = time.monotonic()
+            scheduler_delta = acquired_at - queued_at
+            scheduler_waiting += scheduler_delta
+            self.total_scheduler_waiting_seconds += scheduler_delta
+            # Other requests may have opened the circuit while this request
+            # waited for capacity. Recheck at the last safe point so an entire
+            # queued wave does not hit a host already proven unavailable.
+            if not self.circuit.allow(url):
+                self.circuit_skips += 1
+                reason, status = self.circuit.open_context(url)
+                if global_acquired:
+                    self._global.release()
+                    global_acquired = False
+                if host_acquired:
+                    host_gate.release()
+                    host_acquired = False
+                return FetchResult(
+                    url=url,
+                    final_url=url,
+                    status=None,
+                    content_type="",
+                    body=b"",
+                    retrieved_at=utc_now(),
+                    elapsed_seconds=0.0,
+                    error="host_circuit_open_after_repeated_block_or_timeout",
+                    attempts=0,
+                    queue_waiting_seconds=round(scheduler_waiting, 3),
+                    scheduler_waiting_seconds=round(scheduler_waiting, 3),
+                    pacing_waiting_seconds=round(pacing_waiting, 3),
+                    retry_waiting_seconds=round(retry_waiting, 3),
+                    attempt_history=[{"attempt": 0, "result": "host_circuit_open", "host": host}],
+                    circuit_open_reason=reason,
+                    circuit_open_status=status,
+                )
+            started = time.monotonic()
+            self.total_requests += 1
+            if attempt > 1:
+                self.total_retries += 1
+            retry_after = 0.0
+            try:
+                timeout = httpx.Timeout(
+                    connect=min(request_timeout, 5.0),
+                    read=request_timeout,
+                    write=request_timeout,
+                    pool=request_timeout,
+                )
+                truncated = False
+                # HTTPX timeouts are inactivity limits.  The outer deadline is
+                # a true wall-clock cap for redirects plus the complete body,
+                # preventing slow-drip responses from monopolising a worker.
+                async with asyncio.timeout(request_timeout):
+                    async with self._client.stream(
+                        "GET", url, headers={"Accept": accept}, timeout=timeout
+                    ) as response:
+                        body = bytearray()
+                        async for chunk in response.aiter_bytes():
+                            remaining = response_limit - len(body)
+                            if remaining <= 0:
+                                truncated = True
+                                break
+                            body.extend(chunk[:remaining])
+                            if len(chunk) > remaining:
+                                truncated = True
+                                break
+                        payload = bytes(body)
+                        last = FetchResult(
+                            url=url,
+                            final_url=str(response.url),
+                            status=response.status_code,
+                            content_type=response.headers.get("Content-Type", ""),
+                            body=payload,
+                            retrieved_at=utc_now(),
+                            elapsed_seconds=round(time.monotonic() - started, 3),
+                            error=None if 200 <= response.status_code < 300 else f"http_{response.status_code}",
+                            attempts=attempt,
+                            waiting_seconds=round(pacing_waiting + retry_waiting, 3),
+                            queue_waiting_seconds=round(scheduler_waiting, 3),
+                            scheduler_waiting_seconds=round(scheduler_waiting, 3),
+                            pacing_waiting_seconds=round(pacing_waiting, 3),
+                            retry_waiting_seconds=round(retry_waiting, 3),
+                            response_truncated=truncated,
+                            etag=response.headers.get("ETag", ""),
+                            last_modified=response.headers.get("Last-Modified", ""),
+                        )
+                        retry_after = RespectfulFetcher._retry_after_seconds(
+                            response.headers.get("Retry-After")
+                        )
+                self._note_host_result(host, last, retry_after)
+                history.append({
+                    "attempt": attempt,
+                    "retrieved_at": last.retrieved_at,
+                    "status": last.status,
+                    "elapsed_seconds": last.elapsed_seconds,
+                    "result": "successful" if last.ok else "http_error",
+                    "error": last.error,
+                    "queue_waiting_seconds": round(scheduler_delta, 3),
+                    "scheduler_waiting_seconds": round(scheduler_delta, 3),
+                    "pacing_waiting_seconds": round(pacing_waiting, 3),
+                    "retry_waiting_seconds": round(retry_waiting, 3),
+                    "response_truncated": truncated,
+                })
+            except Exception as error:
+                last = FetchResult(
+                    url=url,
+                    final_url=url,
+                    status=None,
+                    content_type="",
+                    body=b"",
+                    retrieved_at=utc_now(),
+                    elapsed_seconds=round(time.monotonic() - started, 3),
+                    error=f"{type(error).__name__}: {error}",
+                    attempts=attempt,
+                    waiting_seconds=round(pacing_waiting + retry_waiting, 3),
+                    queue_waiting_seconds=round(scheduler_waiting, 3),
+                    scheduler_waiting_seconds=round(scheduler_waiting, 3),
+                    pacing_waiting_seconds=round(pacing_waiting, 3),
+                    retry_waiting_seconds=round(retry_waiting, 3),
+                )
+                history.append({
+                    "attempt": attempt,
+                    "retrieved_at": last.retrieved_at,
+                    "status": None,
+                    "elapsed_seconds": last.elapsed_seconds,
+                    "result": "timed_out" if "timeout" in str(error).casefold() else "network_error",
+                    "error": last.error,
+                    "queue_waiting_seconds": round(scheduler_delta, 3),
+                    "scheduler_waiting_seconds": round(scheduler_delta, 3),
+                    "pacing_waiting_seconds": round(pacing_waiting, 3),
+                    "retry_waiting_seconds": round(retry_waiting, 3),
+                })
+                self._note_host_result(host, last)
+            finally:
+                if global_acquired:
+                    self._global.release()
+                if host_acquired:
+                    host_gate.release()
+
+            assert last is not None
+            if last.ok or last.status not in {429, 500, 502, 503, 504}:
+                break
+            if attempt < self.retries:
+                pause = retry_after or ((2 ** (attempt - 1)) + random.uniform(0.0, 0.5))
+                pause = min(pause, 30.0)
+                pause_started = time.monotonic()
+                await asyncio.sleep(pause)
+                actual_pause = time.monotonic() - pause_started
+                retry_waiting += actual_pause
+                self.total_waiting_seconds += actual_pause
+                self.total_retry_waiting_seconds += actual_pause
         assert last is not None
-        last.waiting_seconds = round(waiting, 3)
+        last.waiting_seconds = round(pacing_waiting + retry_waiting, 3)
+        last.queue_waiting_seconds = round(scheduler_waiting, 3)
+        last.scheduler_waiting_seconds = round(scheduler_waiting, 3)
+        last.pacing_waiting_seconds = round(pacing_waiting, 3)
+        last.retry_waiting_seconds = round(retry_waiting, 3)
         last.attempt_history = history
         if _circuit_failure(last):
             self.circuit.note(url, True, last.error or str(last.status))
+        else:
+            self.circuit.note(url, False, last.error or str(last.status))
         return last
 
     def note_application_failure(self, url: str, failed: bool, result: str) -> None:
         self.circuit.note(url, failed, result)
 
-    async def latest_wayback_capture(self, target_url: str) -> tuple[dict[str, str] | None, dict[str, Any]]:
+    async def wayback_captures(
+        self,
+        target_url: str,
+        limit: int = 5,
+    ) -> tuple[list[dict[str, str]], dict[str, Any]]:
         params = [
             ("url", target_url),
             ("output", "json"),
             ("fl", "timestamp,original,statuscode,digest,mimetype"),
             ("filter", "statuscode:200"),
-            ("filter", "mimetype:text/html"),
             ("collapse", "digest"),
-            ("limit", "-10"),
+            ("limit", f"-{max(1, min(limit * 3, 30))}"),
         ]
         cdx_url = "https://web.archive.org/cdx/search/cdx?" + urllib.parse.urlencode(params)
-        result = await self.fetch(
-            cdx_url,
-            accept="application/json",
-            allowed_redirect_hosts={"web.archive.org"},
-        )
+        result = await self.fetch(cdx_url, accept="application/json")
         metadata = result.metadata()
         metadata["ok"] = result.ok
         if not result.ok:
-            return None, metadata
+            return [], metadata
         self.circuit.note(cdx_url, False, "successful_cdx_response")
         try:
             rows = json.loads(result.body.decode("utf-8"))
         except (UnicodeDecodeError, json.JSONDecodeError):
             metadata["lookup_result"] = "invalid_response"
-            return None, metadata
+            return [], metadata
         if len(rows) < 2:
             metadata["lookup_result"] = "no_capture"
-            return None, metadata
+            return [], metadata
         headers = rows[0]
         captures = [dict(zip(headers, row)) for row in rows[1:] if len(row) == len(headers)]
         if not captures:
             metadata["lookup_result"] = "no_capture"
-            return None, metadata
-        capture = max(captures, key=lambda row: row.get("timestamp", ""))
-        capture["cdx_url"] = cdx_url
-        capture["replay_url"] = f"https://web.archive.org/web/{capture['timestamp']}id_/" + target_url
+            return [], metadata
+        supported = [
+            capture for capture in captures
+            if str(capture.get("mimetype") or "").casefold().startswith(
+                ("text/", "application/pdf", "application/json", "application/xml")
+            )
+        ]
+        selected = sorted(
+            supported or captures,
+            key=lambda row: row.get("timestamp", ""),
+            reverse=True,
+        )[: max(1, limit)]
+        for capture in selected:
+            capture["cdx_url"] = cdx_url
+            capture["replay_url"] = (
+                f"https://web.archive.org/web/{capture['timestamp']}id_/"
+                + str(capture.get("original") or target_url)
+            )
         metadata["lookup_result"] = "capture_found"
-        return capture, metadata
+        metadata["capture_count"] = len(selected)
+        return selected, metadata
+
+    async def latest_wayback_capture(self, target_url: str) -> tuple[dict[str, str] | None, dict[str, Any]]:
+        captures, metadata = await self.wayback_captures(target_url, limit=1)
+        return (captures[0] if captures else None), metadata
 
     def stats(self) -> dict[str, Any]:
+        now = time.monotonic()
         return {
             "requests": self.total_requests,
             "retries": self.total_retries,
             "waiting_seconds": round(self.total_waiting_seconds, 3),
+            "scheduler_waiting_seconds": round(self.total_scheduler_waiting_seconds, 3),
+            "pacing_waiting_seconds": round(self.total_pacing_waiting_seconds, 3),
+            "retry_waiting_seconds": round(self.total_retry_waiting_seconds, 3),
             "circuit_skips": self.circuit_skips,
             "circuit_state": self.circuit.snapshot(),
+            "adaptive_host_delays": {},
+            "host_rate_state": {
+                host: {
+                    "rate_per_second": round(self._rate_per_second(host), 3),
+                    "burst": self._burst(host),
+                    "cooldown_remaining_seconds": round(max(0.0, until - now), 3),
+                }
+                for host, until in sorted(self._host_cooldown_until.items())
+            },
+            "host_result_counts": {
+                host: dict(counts)
+                for host, counts in sorted(self._host_result_counts.items())
+            },
         }
 
 

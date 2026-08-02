@@ -4,9 +4,13 @@ __pycache__/
 .venv/
 .venv-vps/
 _site/
+site-releases/
 site.zip
 *.tmp
 .env.vps
 secrets/
 data/cache/
 data/generated/
+data/archive-engine/
+exports/
+reports/status-index.json

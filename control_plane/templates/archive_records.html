@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block title %}سجلات {{ status }}{% endblock %}
+{% block content %}
+<section class="hero-row"><div><p class="eyebrow">السجلات وراء العداد</p><h1 class="ltr">{{ group }} / {{ status }}</h1><p class="muted">{{ "{:,}".format(total) }} سجلًا مطابقًا؛ لا يخفي العرض المختصر العدد الكامل.</p></div><a class="button ghost" href="/admin">العودة</a></section>
+<section class="card"><ol class="event-log">{% for record in records[:1000] %}<li><span class="ltr">{{ record }}</span></li>{% endfor %}</ol>{% if total > 1000 %}<p class="muted">يُعرض أول 1,000 سجل فقط؛ العدد القانوني أعلاه، والتصدير الكامل متاح في الإصدار.</p>{% endif %}</section>
+{% endblock %}

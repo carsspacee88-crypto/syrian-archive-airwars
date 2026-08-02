@@ -77,6 +77,8 @@ class CollectionItem(Base):
     __tablename__ = "collection_items"
     __table_args__ = (
         Index("uq_job_kind_identity", "job_id", "kind", "identity", unique=True),
+        Index("ix_collection_items_job_kind_updated", "job_id", "kind", "updated_at"),
+        Index("ix_collection_items_job_kind_status", "job_id", "kind", "status"),
     )
 
     id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)
@@ -112,3 +114,68 @@ class JobEvent(Base):
     )
 
     job: Mapped[CollectionJob] = relationship(back_populates="events")
+
+
+class ArchiveProjectRecord(Base):
+    """Persisted configuration for a connector-neutral archive project."""
+
+    __tablename__ = "archive_projects"
+
+    id: Mapped[str] = mapped_column(String(36), primary_key=True, default=lambda: str(uuid4()))
+    name: Mapped[str] = mapped_column(String(160), nullable=False)
+    target_url: Mapped[str] = mapped_column(Text, nullable=False)
+    connector: Mapped[str] = mapped_column(String(64), nullable=False, index=True)
+    allowed_domains: Mapped[list[str]] = mapped_column(JSON, nullable=False, default=list)
+    scope: Mapped[dict[str, Any]] = mapped_column(JSON, nullable=False, default=dict)
+    collection_limits: Mapped[dict[str, Any]] = mapped_column(JSON, nullable=False, default=dict)
+    rate_policy: Mapped[dict[str, Any]] = mapped_column(JSON, nullable=False, default=dict)
+    text_only: Mapped[bool] = mapped_column(Boolean, nullable=False, default=True)
+    release_name: Mapped[str] = mapped_column(String(160), nullable=False, default="textual-release")
+    status: Mapped[str] = mapped_column(String(32), nullable=False, default="CREATED", index=True)
+    analysis: Mapped[dict[str, Any]] = mapped_column(JSON, nullable=False, default=dict)
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=now_utc, nullable=False)
+    updated_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=now_utc, onupdate=now_utc, nullable=False)
+
+    engine_runs: Mapped[list[GeneralEngineRunRecord]] = relationship(back_populates="project", cascade="all, delete-orphan")
+    releases: Mapped[list[ArchiveReleaseRecord]] = relationship(back_populates="project", cascade="all, delete-orphan")
+
+
+class GeneralEngineRunRecord(Base):
+    __tablename__ = "general_engine_runs"
+
+    id: Mapped[str] = mapped_column(String(36), primary_key=True, default=lambda: str(uuid4()))
+    project_id: Mapped[str] = mapped_column(ForeignKey("archive_projects.id", ondelete="CASCADE"), index=True)
+    mode: Mapped[str] = mapped_column(String(24), nullable=False)
+    status: Mapped[str] = mapped_column(String(40), nullable=False, default="CREATED", index=True)
+    requested_action: Mapped[str | None] = mapped_column(String(24), nullable=True)
+    task_id: Mapped[str | None] = mapped_column(String(64), nullable=True)
+    engine_run_id: Mapped[str] = mapped_column(String(64), nullable=False)
+    configuration: Mapped[dict[str, Any]] = mapped_column(JSON, nullable=False, default=dict)
+    counts: Mapped[dict[str, Any]] = mapped_column(JSON, nullable=False, default=dict)
+    checkpoint: Mapped[dict[str, Any]] = mapped_column(JSON, nullable=False, default=dict)
+    result: Mapped[dict[str, Any]] = mapped_column(JSON, nullable=False, default=dict)
+    last_error: Mapped[str | None] = mapped_column(Text, nullable=True)
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=now_utc, nullable=False)
+    started_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), nullable=True)
+    updated_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=now_utc, onupdate=now_utc, nullable=False)
+    finished_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), nullable=True)
+
+    project: Mapped[ArchiveProjectRecord] = relationship(back_populates="engine_runs")
+
+
+class ArchiveReleaseRecord(Base):
+    __tablename__ = "archive_releases"
+
+    id: Mapped[str] = mapped_column(String(180), primary_key=True)
+    project_id: Mapped[str] = mapped_column(ForeignKey("archive_projects.id", ondelete="CASCADE"), index=True)
+    run_id: Mapped[str | None] = mapped_column(String(36), nullable=True)
+    parent_release_id: Mapped[str | None] = mapped_column(String(180), nullable=True)
+    release_path: Mapped[str] = mapped_column(Text, nullable=False)
+    status: Mapped[str] = mapped_column(String(32), nullable=False, default="BUILDING_RELEASE", index=True)
+    manifest: Mapped[dict[str, Any]] = mapped_column(JSON, nullable=False, default=dict)
+    validation: Mapped[dict[str, Any]] = mapped_column(JSON, nullable=False, default=dict)
+    published: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=now_utc, nullable=False)
+    published_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), nullable=True)
+
+    project: Mapped[ArchiveProjectRecord] = relationship(back_populates="releases")

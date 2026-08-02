@@ -8,41 +8,19 @@ x-archive-app: &archive-app
     ARCHIVE_DATABASE_HOST: postgres
     ARCHIVE_REDIS_URL: redis://redis:6379/0
     ARCHIVE_PROJECT_ROOT: /srv/archive
-    ARCHIVE_LEGACY_ZIP: /var/cache/archive/syrian-archive-site.zip
   secrets:
     - postgres_password
     - admin_password_hash
     - session_secret
   volumes:
     - ./data:/srv/archive/data
-    - legacy_cache:/var/cache/archive
+    - ./site-releases:/srv/site-releases
 
 services:
-  legacy-init:
-    build:
-      context: .
-      dockerfile: Dockerfile.vps
-    user: "0:0"
-    restart: "no"
-    command:
-      - python
-      - -m
-      - control_plane.cli
-      - prepare-legacy
-      - --source
-      - /srv/archive/site-package
-      - --output
-      - /var/cache/archive/syrian-archive-site.zip
-    volumes:
-      - ./site-package:/srv/archive/site-package:ro
-      - legacy_cache:/var/cache/archive
-
   web:
     <<: *archive-app
     command: ["uvicorn", "control_plane.main:app", "--host", "0.0.0.0", "--port", "8000", "--proxy-headers", "--forwarded-allow-ips=*"]
     depends_on:
-      legacy-init:
-        condition: service_completed_successfully
       postgres:
         condition: service_healthy
       redis:
@@ -58,12 +36,22 @@ services:
     command: ["celery", "-A", "control_plane.tasks:celery_app", "worker", "--loglevel=INFO", "--concurrency=1"]
     stop_grace_period: 2m
     depends_on:
-      legacy-init:
-        condition: service_completed_successfully
       postgres:
         condition: service_healthy
       redis:
         condition: service_healthy
+
+  site-builder:
+    build:
+      context: .
+      dockerfile: Dockerfile.vps
+    profiles: ["tools"]
+    user: "0:0"
+    restart: "no"
+    working_dir: /srv/archive
+    volumes:
+      - ./data:/srv/archive/data
+      - ./site-releases:/srv/site-releases
 
   postgres:
     image: postgres:17-alpine
@@ -105,6 +93,7 @@ services:
       - "443:443/udp"
     volumes:
       - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - ./site-releases:/srv/site-releases:ro
       - caddy_data:/data
       - caddy_config:/config
     depends_on:
@@ -120,7 +109,6 @@ secrets:
     file: ./secrets/session_secret
 
 volumes:
-  legacy_cache:
   postgres_data:
   redis_data:
   caddy_data:

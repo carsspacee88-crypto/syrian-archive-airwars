@@ -7,6 +7,9 @@ from pydantic import Field, model_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
+CONTROL_PLANE_ENGINE_VERSION = "4.0.0"
+
+
 def _secret(value: str, path: Path | None) -> str:
     if value:
         return value.strip()
@@ -24,7 +27,9 @@ class Settings(BaseSettings):
     )
 
     project_root: Path = Path("/srv/archive")
-    legacy_zip: Path = Path("/var/cache/archive/syrian-archive-site.zip")
+    legacy_zip: Path = Path("/srv/archive/data/cache/syrian-archive-historical.zip")
+    engine_store_root: Path = Path("/srv/archive/data/archive-engine")
+    releases_root: Path = Path("/srv/site-releases")
     database_url: str = ""
     database_host: str = "postgres"
     database_port: int = 5432
@@ -41,13 +46,24 @@ class Settings(BaseSettings):
     session_secret_file: Path | None = Path("/run/secrets/session_secret")
     secure_cookies: bool = True
 
-    collector_delay: float = Field(default=0.75, ge=0)
-    collector_timeout: float = Field(default=10.0, gt=0)
+    collector_delay: float = Field(default=0.05, ge=0)
+    collector_timeout: float = Field(default=6.0, gt=0)
+    collector_fast_timeout: float = Field(default=3.0, gt=0)
     collector_retries: int = Field(default=1, ge=0, le=5)
-    collector_workers: int = Field(default=6, ge=1, le=32)
-    collector_per_host_workers: int = Field(default=1, ge=1, le=4)
-    incident_chunk_size: int = Field(default=10, ge=1, le=100)
-    source_chunk_size: int = Field(default=100, ge=1, le=1000)
+    collector_workers: int = Field(default=64, ge=1, le=128)
+    collector_per_host_workers: int = Field(default=4, ge=1, le=16)
+    collector_social_workers: int = Field(default=12, ge=1, le=24)
+    collector_archive_workers: int = Field(default=12, ge=1, le=24)
+    collector_checkpoint_every: int = Field(default=5000, ge=1, le=5000)
+    incident_chunk_size: int = Field(default=250, ge=1, le=1000)
+    source_chunk_size: int = Field(default=5000, ge=1, le=5000)
+    live_update_interval: float = Field(default=0.5, ge=0.25, le=10)
+    dashboard_item_limit: int = Field(default=30, ge=10, le=100)
+    dashboard_event_limit: int = Field(default=30, ge=10, le=100)
+    dashboard_metric_sample_size: int = Field(default=500, ge=60, le=2000)
+    progress_stale_after: float = Field(default=30.0, ge=10, le=600)
+    incident_mode: str = "network_refresh"
+    inline_wayback: bool = False
 
     @property
     def resolved_database_url(self) -> str:
@@ -73,6 +89,14 @@ class Settings(BaseSettings):
             raise ValueError(
                 "collector_per_host_workers cannot exceed collector_workers"
             )
+        if self.collector_archive_workers > self.collector_workers:
+            raise ValueError("collector_archive_workers cannot exceed collector_workers")
+        if self.collector_social_workers > self.collector_workers:
+            raise ValueError("collector_social_workers cannot exceed collector_workers")
+        if self.collector_fast_timeout > self.collector_timeout:
+            raise ValueError("collector_fast_timeout cannot exceed collector_timeout")
+        if self.incident_mode not in {"snapshot_first", "network_refresh"}:
+            raise ValueError("incident_mode must be snapshot_first or network_refresh")
         return self
 
     def require_web_secrets(self) -> None:

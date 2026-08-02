@@ -5,6 +5,7 @@ import json
 import re
 import sys
 import time
+from copy import deepcopy
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -126,7 +127,10 @@ def collect_one(
 ) -> dict[str, Any]:
     summary = archive.summary_by_sequence(sequence)
     legacy = archive.case_data(sequence)
-    record = build_legacy_record(summary, legacy)
+    normalized_seed = legacy.get("_normalized_record")
+    record = deepcopy(normalized_seed) if normalized_seed else build_legacy_record(summary, legacy)
+    record.setdefault("retrieval_status", {})
+    record.setdefault("review_flags", [])
     incident_url = record["canonical_url"]
     internal_id = record["internal_id"]
     normalized_path = output_root / "data" / "incidents" / f"{internal_id}.json"

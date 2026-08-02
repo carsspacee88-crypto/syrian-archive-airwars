@@ -1,9 +1,42 @@
 {$ARCHIVE_DOMAIN} {
     encode zstd gzip
-    reverse_proxy web:8000
+
+    redir /zahf-nassi /zahf-nassi/ 308
+
+    handle_path /zahf-nassi/* {
+        reverse_proxy zahf-nassi-upstream:8000 {
+            health_uri /api/health/ready
+            health_interval 15s
+            health_timeout 3s
+            flush_interval -1
+        }
+    }
+
+    @control_plane path /health /admin /admin/*
+    handle @control_plane {
+        reverse_proxy web:8000 {
+            # V4 uses Server-Sent Events for sub-second progress updates.
+            flush_interval -1
+        }
+    }
+
+    handle_path /release-data/* {
+        root * /srv/site-releases/current/data
+        file_server
+    }
+
+    handle {
+        root * /srv/site-releases/current
+        # New immutable releases keep public files under site/.  The final two
+        # candidates preserve compatibility with the previously published
+        # root-layout release during an atomic pointer switch or rollback.
+        try_files /site{path}/index.html /site{path} {path}/index.html {path}
+        file_server
+    }
+
     header {
         Strict-Transport-Security "max-age=31536000; includeSubDomains"
-        Content-Security-Policy "default-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"
+        Content-Security-Policy "default-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; script-src 'self' https://unpkg.com; style-src 'self' 'unsafe-inline' https://unpkg.com; img-src 'self' data: https://*.tile.openstreetmap.org; connect-src 'self'"
         X-Content-Type-Options "nosniff"
         X-Frame-Options "DENY"
         Referrer-Policy "same-origin"

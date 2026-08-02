@@ -275,6 +275,11 @@ def _extract_html(body: bytes, final_url: str) -> dict[str, str]:
     decoded = body.decode("utf-8", errors="replace")
     document = html.fromstring(decoded, base_url=final_url)
     title = clean_text(" ".join(document.xpath("//title/text()")))
+    social_description = clean_text(" ".join(document.xpath(
+        '//meta[@property="og:description"]/@content | '
+        '//meta[@name="twitter:description"]/@content | '
+        '//meta[@name="description"]/@content'
+    )))
     author = clean_text(" ".join(document.xpath('//meta[@name="author"]/@content | //meta[@property="article:author"]/@content')))
     publication_date = clean_text(" ".join(document.xpath(
         '//meta[@property="article:published_time"]/@content | //meta[@name="date"]/@content | //time/@datetime'
@@ -293,6 +298,24 @@ def _extract_html(body: bytes, final_url: str) -> dict[str, str]:
     text = "\n\n".join(blocks)
     if len(text) < 120:
         text = clean_text(root.text_content())
+    structured_bodies: list[str] = []
+    for raw in document.xpath('//script[@type="application/ld+json"]/text()'):
+        try:
+            payload = json.loads(raw)
+        except (TypeError, json.JSONDecodeError):
+            continue
+        queue = payload if isinstance(payload, list) else [payload]
+        while queue:
+            value = queue.pop()
+            if isinstance(value, list):
+                queue.extend(value)
+            elif isinstance(value, dict):
+                article_body = clean_text(value.get("articleBody") or value.get("text") or "")
+                if article_body:
+                    structured_bodies.append(article_body)
+                queue.extend(item for item in value.values() if isinstance(item, (dict, list)))
+    candidates = [text, social_description, *structured_bodies]
+    text = max((candidate for candidate in candidates if candidate), key=len, default="")
     return {"title": title, "author": author, "publication_date": publication_date, "text": text}
 
 

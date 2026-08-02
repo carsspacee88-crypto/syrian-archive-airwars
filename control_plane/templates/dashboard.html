@@ -1,35 +1,100 @@
 {% extends "base.html" %}
 {% block content %}
-<div class="page-heading">
+<section class="hero-row">
   <div>
-    <p class="eyebrow">مركز التحكم</p>
+    <p class="eyebrow">مركز العمليات</p>
     <h1>مهام الجمع</h1>
-    <p class="muted">الحالة محفوظة في قاعدة البيانات، ويمكن إيقاف المهمة واستئنافها.</p>
+    <p class="muted">V{{ engine_version.split('.')[0] }} يفصل النص المحسوم والوسائط المكتملة حسب السياسة عن الاسترداد المؤجل، ويكشف عنق الزجاجة لحظيًا.</p>
   </div>
-  <a class="button primary" href="/admin/jobs/new">مهمة جديدة</a>
-</div>
-
-<section class="card table-card">
-  {% if jobs %}
-  <div class="table-wrap">
-    <table>
-      <thead><tr><th>النطاق</th><th>الحالة</th><th>المرحلة</th><th>الحوادث</th><th>المصادر</th><th>آخر تحديث</th></tr></thead>
-      <tbody>
-      {% for job in jobs %}
-        <tr>
-          <td><a href="/admin/jobs/{{ job.id }}">{{ "%04d"|format(job.first_sequence) }}–{{ "%04d"|format(job.last_sequence) }}</a></td>
-          <td><span class="status status-{{ job.status }}">{{ job.status }}</span></td>
-          <td>{{ job.current_stage }}</td>
-          <td>{{ job.incident_completed }}/{{ job.incident_total }}</td>
-          <td>{{ job.source_completed }}/{{ job.source_total }}</td>
-          <td>{{ job.updated_at.strftime('%Y-%m-%d %H:%M') if job.updated_at else '—' }}</td>
-        </tr>
-      {% endfor %}
-      </tbody>
-    </table>
-  </div>
-  {% else %}
-    <div class="empty"><h2>لا توجد مهام بعد</h2><p>أنشئ نطاقًا، راجع الخيارات، ثم ابدأ الجمع.</p></div>
-  {% endif %}
+  <a class="button primary button-large" href="/admin/jobs/new"><span aria-hidden="true">＋</span> مهمة جديدة</a>
 </section>
+
+{% if canonical %}
+<section class="section-heading"><div><h2>الحقيقة الأرضية للإصدار المنشور</h2><p class="muted">آخر حساب: {{ canonical_generated_at or 'غير متاح' }} · كل بطاقة تفتح السجلات خلف العداد</p></div><a class="button ghost" href="/reports/">التقارير العامة</a></section>
+
+<section class="card">
+  <div class="section-heading inline"><div><h2>تغطية الحوادث</h2><p>الأصل التاريخي منفصل عن التحقق المباشر الحالي</p></div></div>
+  <div class="summary-grid">
+    <a class="metric-card" href="/admin/archive/records?group=incidents&status=all"><span>إجمالي السجلات</span><strong>{{ "{:,}".format(canonical.get('incident_records_total',0)) }}</strong></a>
+    <a class="metric-card" href="/admin/archive/records?group=incidents&status=all"><span>صفحات الحوادث</span><strong>{{ "{:,}".format(canonical.get('incident_pages_generated',0)) }}</strong></a>
+    <a class="metric-card" href="/admin/archive/records?group=incidents&status=historical_or_local_origin"><span>هيكل نصي صالح</span><strong>{{ "{:,}".format(canonical.get('historical_or_local_text_records',0)) }}</strong></a>
+    <a class="metric-card warning" href="/admin/archive/records?group=incidents&status=without_usable_text"><span>دون وصف صالح</span><strong>{{ "{:,}".format(canonical.get('records_without_usable_incident_text',0)) }}</strong></a>
+    <a class="metric-card" href="/admin/archive/records?group=incidents&status=DIRECT_FETCH_SUCCESS"><span>تحقق مباشر ناجح</span><strong>{{ "{:,}".format(canonical.get('direct_airwars_fetch_success',0)) }}</strong></a>
+    <a class="metric-card warning" href="/admin/archive/records?group=incidents&status=BLOCKED_HTTP_403"><span>حجب HTTP 403</span><strong>{{ "{:,}".format(canonical.get('direct_airwars_fetch_blocked_403',0)) }}</strong></a>
+    <a class="metric-card" href="/admin/archive/records?group=coordinates&status=drawable"><span>إحداثيات قابلة للرسم</span><strong>{{ "{:,}".format(canonical.get('incidents_with_valid_coordinates',0)) }}</strong></a>
+    <a class="metric-card" href="/admin/archive/records?group=coordinates&status=missing"><span>بلا إحداثيات</span><strong>{{ "{:,}".format(canonical.get('incidents_without_coordinates',0)) }}</strong></a>
+  </div>
+</section>
+
+<section class="card">
+  <div class="section-heading inline"><div><h2>تغطية مراجع المصادر</h2><p>العلاقة والروابط لا تختفي عند التكرار</p></div></div>
+  <div class="summary-grid">
+    <a class="metric-card" href="/admin/archive/records?group=references&status=all"><span>كل علاقات المصادر</span><strong>{{ "{:,}".format(canonical.get('source_reference_records_total',0)) }}</strong></a>
+    <a class="metric-card" href="/admin/archive/records?group=source_urls&status=raw"><span>روابط خام فريدة</span><strong>{{ "{:,}".format(canonical.get('unique_raw_source_urls',0)) }}</strong></a>
+    <a class="metric-card" href="/admin/archive/records?group=references&status=duplicate"><span>علاقات مكررة صريحة</span><strong>{{ "{:,}".format(canonical.get('source_reference_duplicate_relationships',0)) }}</strong></a>
+    <a class="metric-card warning" href="/admin/archive/records?group=references&status=malformed"><span>روابط مشوهة</span><strong>{{ "{:,}".format(canonical.get('source_reference_malformed_urls',0)) }}</strong></a>
+    <a class="metric-card" href="/admin/archive/records?group=references&status=all"><span>صفحات المراجع</span><strong>{{ "{:,}".format(canonical.get('source_reference_pages_generated',0)) }}</strong></a>
+  </div>
+</section>
+
+<section class="card">
+  <div class="section-heading inline"><div><h2>حفظ محتوى المصادر</h2><p>فئات أولية متبادلة الاستبعاد؛ الصفحة المحلية وحدها ليست أرشيفًا</p></div></div>
+  <div class="summary-grid">
+    <a class="metric-card accent" href="/admin/archive/records?group=sources&status=full"><span>نص كامل مثبت</span><strong>{{ "{:,}".format(canonical.get('sources_full_text_total',0)) }}</strong></a>
+    <a class="metric-card" href="/admin/archive/records?group=sources&status=PARTIAL_TEXT"><span>نص جزئي</span><strong>{{ "{:,}".format(canonical.get('sources_partial_text',0)) }}</strong></a>
+    <a class="metric-card" href="/admin/archive/records?group=sources&status=METADATA_ONLY"><span>بيانات وصفية فقط</span><strong>{{ "{:,}".format(canonical.get('sources_metadata_only',0)) }}</strong></a>
+    <a class="metric-card" href="/admin/archive/records?group=sources&status=link_only"><span>رابط/مرجع فقط</span><strong>{{ "{:,}".format(canonical.get('sources_link_only',0)) }}</strong></a>
+    <a class="metric-card warning" href="/admin/archive/records?group=sources&status=BLOCKED"><span>محجوب</span><strong>{{ "{:,}".format(canonical.get('sources_blocked',0)) }}</strong></a>
+    <a class="metric-card warning" href="/admin/archive/records?group=sources&status=DEAD"><span>ميت</span><strong>{{ "{:,}".format(canonical.get('sources_dead',0)) }}</strong></a>
+    <a class="metric-card" href="/admin/archive/records?group=sources&status=FULL_TEXT_ARCHIVED"><span>نص كامل مؤرشف</span><strong>{{ "{:,}".format(canonical.get('sources_full_text_archived',0)) }}</strong></a>
+    <a class="metric-card" href="/admin/archive/records?group=sources&status=FULL_TEXT_DIRECT"><span>نص كامل مباشر</span><strong>{{ "{:,}".format(canonical.get('sources_full_text_direct',0)) }}</strong></a>
+    <a class="metric-card" href="/admin/archive/records?group=sources&status=FULL_TEXT_LOCAL_SNAPSHOT"><span>لقطة محلية كاملة</span><strong>{{ "{:,}".format(canonical.get('sources_full_text_local_snapshot',0)) }}</strong></a>
+    <a class="metric-card warning" href="/admin/archive/records?group=sources&status=manual_review"><span>مراجعة بشرية</span><strong>{{ "{:,}".format(canonical.get('sources_requires_manual_review',0)) }}</strong></a>
+  </div>
+</section>
+{% endif %}
+
+<section class="section-heading"><div><h2>مشاريع محرك الهيكل النصي العام</h2><p class="muted">تحليل، عينة، تشغيل كامل، تحقق، إصدار ونشر</p></div><a class="button primary" href="/admin/archive/projects/new">مشروع جديد</a></section>
+{% if archive_projects %}<section class="job-list">{% for project in archive_projects %}<a class="job-card" href="/admin/archive/projects/{{ project.id }}"><div class="job-card-top"><div><span class="job-id">{{ project.connector }}</span><h3>{{ project.name }}</h3></div><span class="status">{{ project.status }}</span></div><p class="ltr">{{ project.target_url }}</p></a>{% endfor %}</section>{% endif %}
+
+<section class="summary-grid" aria-label="ملخص العمليات">
+  <article class="metric-card accent"><span>نشطة الآن</span><strong>{{ summary.active }}</strong><small>قيد التنفيذ أو الانتظار</small></article>
+  <article class="metric-card"><span>مكتملة</span><strong>{{ summary.completed }}</strong><small>مهام محفوظة</small></article>
+  <article class="metric-card"><span>مصادر معالجة</span><strong>{{ "{:,}".format(summary.sources) }}</strong><small>في كل المهام</small></article>
+  <article class="metric-card {% if summary.failed_sources %}warning{% endif %}"><span>أخطاء تشغيلية</span><strong>{{ "{:,}".format(summary.failed_sources) }}</strong><small>لا تشمل الاسترداد المؤجل</small></article>
+</section>
+
+<section class="section-heading">
+  <div><h2>سجل المهام</h2><p class="muted">الأحدث أولًا</p></div>
+  <span class="count-chip">{{ jobs|length }} مهمة</span>
+</section>
+
+{% if jobs %}
+<section class="job-list">
+  {% for job in jobs %}
+  {% set total = job.incident_total + job.source_total %}
+  {% set completed = job.incident_completed + job.source_completed %}
+  {% set percent = ((completed / total * 100) if total else 0) %}
+  <a class="job-card" href="/admin/jobs/{{ job.id }}">
+    <div class="job-card-top">
+      <div>
+        <span class="job-id">#{{ job.id[:8] }}</span>
+        <h3>{{ "%04d"|format(job.first_sequence) }}–{{ "%04d"|format(job.last_sequence) }}</h3>
+      </div>
+      <span class="status status-{{ job.status }}" data-status="{{ job.status }}">{{ job.status }}</span>
+    </div>
+    <div class="job-stage-row"><span>{{ job.current_stage }}</span><b>{{ "%.1f"|format(percent) }}٪</b></div>
+    <div class="progress-track"><i style="width: {{ percent }}%"></i></div>
+    <div class="job-card-stats">
+      <span><small>الحوادث</small><b>{{ job.incident_completed }}/{{ job.incident_total }}</b></span>
+      <span><small>المصادر</small><b>{{ job.source_completed }}/{{ job.source_total }}</b></span>
+      <span><small>خطأ تشغيلي</small><b>{{ job.source_failed }}</b></span>
+      <span><small>آخر تحديث</small><b>{{ job.updated_at.strftime('%H:%M') if job.updated_at else '—' }}</b></span>
+    </div>
+  </a>
+  {% endfor %}
+</section>
+{% else %}
+<section class="card empty"><div class="empty-icon">＋</div><h2>ابدأ أول مهمة</h2><p>حدد نطاق الحوادث واختر إعداد الأداء، ثم تابع النتائج لحظيًا من الهاتف.</p><a class="button primary" href="/admin/jobs/new">إنشاء مهمة</a></section>
+{% endif %}
 {% endblock %}

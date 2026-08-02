@@ -1,48 +1,119 @@
 {% extends "base.html" %}
-{% block title %}المهمة {{ "%04d"|format(job.first_sequence) }}–{{ "%04d"|format(job.last_sequence) }}{% endblock %}
+{% block title %}المهمة {{ "%04d"|format(job.first_sequence) }}–{{ "%04d"|format(job.last_sequence) }} — V{{ engine_version.split('.')[0] }}{% endblock %}
 {% block content %}
-<div class="page-heading">
-  <div>
-    <p class="eyebrow">مهمة {{ job.id[:8] }}</p>
-    <h1>{{ "%04d"|format(job.first_sequence) }}–{{ "%04d"|format(job.last_sequence) }}</h1>
-  </div>
-  <a class="button secondary" href="/admin">كل المهام</a>
-</div>
+{% set total = job.incident_total + job.source_total %}
+{% set completed = job.incident_completed + job.source_completed %}
+{% set percent = ((completed / total * 100) if total else 0) %}
 
-<section class="stats" data-job-id="{{ job.id }}">
-  <article class="card"><span>الحالة</span><strong id="job-status" class="status status-{{ job.status }}">{{ job.status }}</strong></article>
-  <article class="card"><span>المرحلة</span><strong id="job-stage">{{ job.current_stage }}</strong></article>
-  <article class="card"><span>الحوادث</span><strong id="incident-progress">{{ job.incident_completed }}/{{ job.incident_total }}</strong><small>{{ job.incident_failed }} فشل</small></article>
-  <article class="card"><span>المصادر</span><strong id="source-progress">{{ job.source_completed }}/{{ job.source_total }}</strong><small>{{ job.source_failed }} غير ناجح</small></article>
+<section class="job-hero" data-job-id="{{ job.id }}" data-initial-status="{{ job.status }}">
+  <div class="job-hero-top">
+    <div>
+      <div class="breadcrumb"><a href="/admin">المهام</a><span>/</span><span>#{{ job.id[:8] }}</span></div>
+      <h1>{{ "%04d"|format(job.first_sequence) }}–{{ "%04d"|format(job.last_sequence) }}</h1>
+      <div class="hero-badges"><span id="job-status" class="status status-{{ job.status }}">{{ job.status }}</span><span class="engine-badge">المحرك {{ job.configuration.get('engine_version', '1.0.0') }}</span><span id="live-state" class="live-state connecting"><i></i> جارٍ الاتصال</span></div>
+    </div>
+    <a class="button ghost" href="/admin">كل المهام</a>
+  </div>
+  <div class="overall-row"><span>التقدم الكلي</span><strong id="overall-percent">{{ "%.1f"|format(percent) }}٪</strong></div>
+  <div class="progress-track large"><i id="overall-bar" style="width: {{ percent }}%"></i></div>
 </section>
 
-<section class="card actions">
-  <h2>التحكم</h2>
-  <div class="button-row">
-    {% for action, label in [('pause','إيقاف مؤقت'), ('resume','استئناف'), ('cancel','إلغاء آمن'), ('retry_failed','إعادة الفاشل فقط')] %}
-    <form method="post" action="/admin/jobs/{{ job.id }}/action">
+<section class="live-metrics" aria-label="مؤشرات المهمة">
+  <article class="metric-card accent"><span>المرحلة الحالية</span><strong id="job-stage">{{ job.current_stage }}</strong><small id="stage-hint">يُحدّث لحظيًا</small></article>
+  <article class="metric-card"><span>السرعة الآن</span><strong id="job-rate">—</strong><small>آخر 30ث · متوسط 5د <b id="job-rate-average">—</b></small></article>
+  <article class="metric-card"><span>الوقت المتبقي</span><strong id="job-eta">—</strong><small>تقدير متحرك</small></article>
+  <article class="metric-card"><span>المحتوى المحسوم</span><strong id="decision-rate">—</strong><small>نص مستخرج أو مكتمل بالسياسة</small></article>
+</section>
+
+<section class="progress-panels">
+  <article class="card progress-panel">
+    <div class="panel-head"><span class="panel-icon">ح</span><div><h2>الحوادث</h2><p id="incident-progress">{{ job.incident_completed }}/{{ job.incident_total }}</p></div><strong id="incident-percent">{{ "%.0f"|format((job.incident_completed / job.incident_total * 100) if job.incident_total else 0) }}٪</strong></div>
+    <div class="progress-track"><i id="incident-bar" style="width: {{ (job.incident_completed / job.incident_total * 100) if job.incident_total else 0 }}%"></i></div>
+    <small id="incident-failed">{{ job.incident_failed }} فشل</small>
+  </article>
+  <article class="card progress-panel">
+    <div class="panel-head"><span class="panel-icon">م</span><div><h2>المصادر</h2><p id="source-progress">{{ job.source_completed }}/{{ job.source_total }}</p></div><strong id="source-percent">{{ "%.0f"|format((job.source_completed / job.source_total * 100) if job.source_total else 0) }}٪</strong></div>
+    <div class="progress-track"><i id="source-bar" style="width: {{ (job.source_completed / job.source_total * 100) if job.source_total else 0 }}%"></i></div>
+    <small id="source-failed">{{ job.source_failed }} خطأ تشغيلي</small>
+  </article>
+</section>
+
+<section class="card control-panel">
+  <div class="section-heading inline"><div><h2>التحكم الآمن</h2><p>تُنفذ الأوامر عند أقرب نقطة حفظ.</p></div><span id="last-update" class="count-chip">الآن</span></div>
+  <div class="control-grid">
+    {% for action, label, icon in [('pause','إيقاف مؤقت','Ⅱ'), ('resume','استئناف','▶'), ('cancel','إلغاء آمن','■'), ('retry_failed','استرداد المتعذر','↻')] %}
+    <form method="post" action="/admin/jobs/{{ job.id }}/action" data-action-form="{{ action }}">
       <input type="hidden" name="csrf" value="{{ csrf_token }}"><input type="hidden" name="action" value="{{ action }}">
-      <button class="{% if action == 'cancel' %}danger{% else %}secondary{% endif %}" type="submit">{{ label }}</button>
+      <button class="control-button control-{{ action }}" type="submit"><span aria-hidden="true">{{ icon }}</span><b>{{ label }}</b></button>
     </form>
     {% endfor %}
   </div>
-  {% if job.last_error %}<div class="alert error"><strong>آخر خطأ بنيوي:</strong> {{ job.last_error }}</div>{% endif %}
+  {% if job.last_error %}<div id="structural-error" class="alert error"><strong>خطأ بنيوي:</strong> {{ job.last_error }}</div>{% else %}<div id="structural-error" class="alert error hidden"></div>{% endif %}
 </section>
 
-<div class="grid-two wide">
-  <section class="card">
-    <h2>السجل</h2>
-    <ol id="event-log" class="event-log">
-      {% for event in events %}<li class="event-{{ event.level }}"><time>{{ event.created_at.strftime('%H:%M:%S') }}</time> {{ event.message }}</li>{% endfor %}
-    </ol>
-  </section>
-  <section class="card">
-    <h2>آخر العناصر</h2>
-    <div class="table-wrap">
-      <table><thead><tr><th>النوع</th><th>المعرّف</th><th>الحالة</th><th>المدة</th></tr></thead>
-      <tbody>{% for item in items %}<tr><td>{{ item.kind }}</td><td class="ltr">{{ item.identity }}</td><td>{{ item.status }}</td><td>{{ "%.2f"|format(item.duration_seconds) }}ث</td></tr>{% endfor %}</tbody></table>
+<section id="bottleneck-panel" class="card bottleneck-panel hidden" aria-live="polite">
+  <span class="bottleneck-icon" aria-hidden="true">!</span>
+  <div><small>عنق الزجاجة في النافذة الأخيرة</small><strong id="bottleneck-host">—</strong><p id="bottleneck-detail">—</p></div>
+  <b id="backlog-count">—</b>
+</section>
+
+<section class="diagnostic-grid">
+  <article class="card mini-metrics">
+    <div class="section-heading inline"><div><h2>الأداء</h2><p>آخر نافذة معالجة</p></div></div>
+    <dl>
+      <div><dt>المدة المنقضية</dt><dd id="elapsed-time">—</dd></div>
+      <div><dt>إجمالي P50 / P90</dt><dd><span id="p50-time">—</span> / <span id="p90-time">—</span></dd></div>
+      <div><dt>الشبكة P50 / P90</dt><dd><span id="network-p50">—</span> / <span id="network-p90">—</span></dd></div>
+      <div><dt>الطابور P50 / P90</dt><dd><span id="queue-p50">—</span> / <span id="queue-p90">—</span></dd></div>
+      <div><dt>التهدئة P50 / P90</dt><dd><span id="pacing-p50">—</span> / <span id="pacing-p90">—</span></dd></div>
+      <div><dt>الحفظ P50 / P90</dt><dd><span id="persist-p50">—</span> / <span id="persist-p90">—</span></dd></div>
+      <div><dt>غير منسوب P50</dt><dd id="unattributed-p50">—</dd></div>
+      <div><dt>المتبقي</dt><dd id="performance-backlog">—</dd></div>
+      <div><dt>استخراج النص</dt><dd id="success-rate">—</dd></div>
+      <div><dt>تغطية النطاق</dt><dd id="coverage-rate">—</dd></div>
+      <div><dt>سلامة التشغيل</dt><dd id="reliability-rate">—</dd></div>
+      <div><dt>العمال</dt><dd id="worker-count">{{ job.configuration.get('workers', 6) }}</dd></div>
+    </dl>
+  </article>
+  <article class="card">
+    <div class="section-heading inline"><div><h2>المضيفون النشطون</h2><p>توزيع آخر النتائج</p></div></div>
+    <div id="host-breakdown" class="host-list"><div class="skeleton-line"></div><div class="skeleton-line short"></div></div>
+  </article>
+  <article class="card">
+    <div class="section-heading inline"><div><h2>الاسترداد والملاحظات</h2><p>تعذر خارجي مؤجل، لا فشل للمهمة</p></div></div>
+    <div id="failure-breakdown" class="failure-list"><p class="empty-small">لا توجد بيانات بعد</p></div>
+  </article>
+</section>
+
+<section class="activity-grid">
+  <article class="card activity-card">
+    <div class="section-heading inline"><div><h2>آخر العناصر</h2><p>تظهر فور حفظها</p></div><span id="items-count" class="count-chip">{{ items|length }}</span></div>
+    <div id="recent-items" class="recent-items">
+      {% for item in items %}
+      <div class="item-row"><span class="kind-pill">{{ item.kind }}</span><div><b class="ltr">{{ item.identity }}</b><small>{{ item.status }}</small></div><time>{{ "%.2f"|format(item.duration_seconds) }}ث</time></div>
+      {% endfor %}
     </div>
-  </section>
-</div>
+  </article>
+  <article class="card activity-card">
+    <div class="section-heading inline"><div><h2>سجل المهمة</h2><p>الأحداث البنيوية والتحكم</p></div><span class="count-chip">حي</span></div>
+    <ol id="event-log" class="event-log">
+      {% for event in events %}<li class="event-{{ event.level }}"><time>{{ event.created_at.strftime('%H:%M:%S') }}</time><span>{{ event.message }}</span></li>{% endfor %}
+    </ol>
+  </article>
+</section>
+
+<details class="card configuration-card">
+  <summary>إعدادات هذه المهمة</summary>
+  <div class="configuration-grid">
+    <span><small>العمال الكليون</small><b>{{ job.configuration.get('workers', '—') }}</b></span>
+    <span><small>لكل مضيف</small><b>{{ job.configuration.get('per_host_workers', '—') }}</b></span>
+    <span><small>عمال المنصات</small><b>{{ job.configuration.get('social_workers', '—') }}</b></span>
+    <span><small>عمال الأرشيف</small><b>{{ job.configuration.get('archive_workers', '—') }}</b></span>
+    <span><small>الفاصل</small><b>{{ job.configuration.get('delay', '—') }}ث</b></span>
+    <span><small>المهلة</small><b>{{ job.configuration.get('timeout', '—') }}ث</b></span>
+    <span><small>المهلة السريعة</small><b>{{ job.configuration.get('fast_timeout', '—') }}ث</b></span>
+    <span><small>نمط الحوادث</small><b>{{ job.configuration.get('incident_mode', '—') }}</b></span>
+    <span><small>حجم الدفعة</small><b>{{ job.configuration.get('source_chunk_size', '—') }}</b></span>
+  </div>
+</details>
 {% endblock %}
-{% block scripts %}<script src="{{ url_for('admin-static', path='/admin.js') }}" defer></script>{% endblock %}

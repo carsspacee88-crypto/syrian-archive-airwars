@@ -210,22 +210,41 @@ def _add_search_script(text: str, prefix: str) -> str:
 
 def _patch_map(text: str, report: dict[str, Any]) -> str:
     counts = report.get("counts", {})
-    hero = f'''<section class="hero"><div class="wrap hero-grid"><div>
-        <p class="eyebrow">خريطة أولية لسوريا</p><h1>مواقع الحوادث ذات الإحداثيات المقبولة</h1>
-        <p class="lead">تعرض الخريطة الإحداثيات الموجودة في مجموعة البيانات الحالية فقط. لا تُخترع الإحداثيات ولا تُصحح القيم المشبوهة بصمت؛ تُحفظ القيمة الأصلية ويُسجل سبب الاستبعاد.</p>
-      </div><aside class="hero-note"><strong>{_fmt(counts.get("incidents_included_on_map"))} نقطة</strong><p>تمثل {counts.get("map_coverage_percentage", 0)}% من إجمالي الحوادث. الضغط على النقطة يفتح ملخصًا ورابط صفحة الحالة.</p></aside></div></section>'''
-    text, count = re.subn(r'<section class="hero">.*?</section>', hero, text, count=1, flags=re.DOTALL)
-    if count != 1:
-        raise ValueError("map_hero_not_found")
-    coverage = f'''<section class="content-section map-coverage" aria-labelledby="coverage-title"><div class="section-heading"><div><p class="eyebrow">تغطية قابلة للتدقيق</p><h2 id="coverage-title">تغطية الخريطة</h2></div><a href="data/reports/map-coverage.json">تنزيل تقرير JSON</a></div>
-      <div class="stats-strip stats-strip--six"><div class="stat"><strong>{_fmt(counts.get("total_incidents"))}</strong><span>إجمالي الحوادث</span></div><div class="stat"><strong>{_fmt(counts.get("incidents_with_world_valid_latitude_and_longitude"))}</strong><span>زوج صالح عالميًا</span></div><div class="stat"><strong>{_fmt(counts.get("incidents_missing_coordinates"))}</strong><span>إحداثيات ناقصة</span></div><div class="stat"><strong>{_fmt(counts.get("incidents_with_invalid_coordinates"))}</strong><span>إحداثيات غير صالحة</span></div><div class="stat"><strong>{_fmt(counts.get("incidents_outside_expected_region"))}</strong><span>خارج نطاق التحقق</span></div><div class="stat"><strong>{_fmt(counts.get("incidents_excluded_from_map"))}</strong><span>مستبعدة من الخريطة</span></div></div>
-      <p>نسبة التمثيل: <strong>{counts.get("map_coverage_percentage", 0)}%</strong>. يتضمن التقرير معرّفات الحالات والقيم الأصلية وأسباب الاستبعاد.</p></section>'''
-    marker = '    <section class="map-shell" aria-label="خريطة الحوادث">'
-    if marker not in text:
-        raise ValueError("map_shell_not_found")
-    text = text.replace(marker, f"    {coverage}\n{marker}", 1)
-    text = text.replace("في ملف Excel فقط", "في مجموعة البيانات الحالية فقط")
-    return text
+    total = int(counts.get("total_incidents") or 0)
+    included = int(counts.get("incidents_included_on_map") or 0)
+    excluded = int(counts.get("incidents_excluded_from_map") or 0)
+    return f'''<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="خريطة شاشة كاملة تعرض كل حوادث الأرشيف السوري ذات الإحداثيات المتاحة">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>خريطة الحوادث | الأرشيف السوري</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="assets/css/map.css">
+</head>
+<body>
+<main class="map-screen" aria-label="خريطة الحوادث">
+  <div id="map"><div class="map-fallback"><p>جارٍ تحميل الخريطة والنقاط…</p></div></div>
+  <header class="map-topbar">
+    <a class="map-brand" href="index.html" aria-label="العودة إلى قائمة الحوادث"><span class="map-brand-mark" aria-hidden="true">س</span><span class="map-brand-copy"><strong>الأرشيف السوري</strong><small>خريطة الحوادث الكاملة</small></span></a>
+    <form class="map-search" id="map-search" role="search"><input id="map-search-input" type="search" autocomplete="off" placeholder="ابحث برمز الحادثة أو الموقع" aria-label="ابحث في نقاط الخريطة"><button type="submit">بحث</button></form>
+    <button class="map-icon-button" id="map-summary-toggle" type="button" aria-controls="map-summary" aria-expanded="true">الأعداد</button>
+  </header>
+  <aside class="map-summary" id="map-summary" aria-labelledby="map-title">
+    <h1 id="map-title">كل النقاط القابلة للرسم</h1>
+    <dl class="map-counts"><div><dt>إجمالي السجلات</dt><dd>{_fmt(total)}</dd></div><div><dt>مرسومة الآن</dt><dd id="map-shown-count">0</dd></div><div><dt>بلا نقطة صالحة</dt><dd>{_fmt(excluded)}</dd></div></dl>
+    <p class="map-status"><strong id="map-status-text">تهيئة الخريطة…</strong><br>لا تستخدم الخريطة التجميع الذي يخفي النقاط؛ تُرسم النقاط كلها على Canvas. السجلات البالغ عددها {_fmt(excluded)} غير قابلة للرسم لعدم وجود زوج إحداثيات مقبول. <a href="data/reports/map-coverage.json">تقرير التغطية</a>.</p>
+  </aside>
+  <div class="map-legend" aria-label="مفتاح الخريطة"><span class="map-dot" aria-hidden="true"></span><span>{_fmt(included)} حادثة ذات إحداثيات مقبولة</span></div>
+  <noscript><div class="map-fallback"><p>تحتاج الخريطة إلى JavaScript. <a href="index.html">تصفح الحوادث</a>.</p></div></noscript>
+</main>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" defer></script>
+<script src="assets/js/map-points.js" defer></script>
+<script src="assets/js/map.js" defer></script>
+</body>
+</html>'''
 
 
 def _case_provenance(record: dict[str, Any] | None, sequence: int) -> str:
@@ -313,7 +332,7 @@ def _pilot_case_html(
         for field, entries in sorted((record.get("field_provenance") or {}).items())
     )
     return f'''<section class="pilot-archive" aria-labelledby="pilot-title">
-      <div class="pilot-heading"><div><p class="eyebrow">المحتوى النصي المحفوظ · الحالة {sequence:04d}</p><h2 id="pilot-title">السجل النصي والمنظّم الكامل المتاح</h2></div><span class="pilot-badge">{_e(record.get("completeness_status"))}</span></div>
+      <div class="pilot-heading"><div><p class="eyebrow">طيار المحتوى الكامل · الحالات 0001–0100</p><h2 id="pilot-title">السجل النصي والمنظّم الكامل المتاح</h2></div><span class="pilot-badge">{_e(record.get("completeness_status"))}</span></div>
       <section class="pilot-section"><h2>1. تفاصيل الحادثة</h2><dl class="pilot-fields">{field_html}</dl><p><a href="{_e(record.get('canonical_url'))}" target="_blank" rel="noopener noreferrer">فتح صفحة Airwars القانونية</a></p></section>
       <section class="pilot-section"><h2>2. السرد الكامل الأصلي</h2><div class="preserved-text" dir="auto">{_text_blocks(record.get("narrative_original"))}</div></section>
       <section class="pilot-section"><h2>3. حالة الترجمة</h2><p class="status-line">الحالة: {_e(translation.get("status") or "disabled_by_user")} · الإصدار: <span class="ltr">{_e(translation.get("version") or "disabled-no-translation-v1")}</span></p><p>الترجمة معطلة في هذا الطيار بطلب المستخدم. يُحفظ النص الأصلي المسترجع ويُعرض كما هو في القسم السابق، ولا يُنشأ نص مترجم جديد.</p></section>
@@ -338,7 +357,7 @@ def _patch_case(
     if marker not in text:
         raise ValueError(f"case_main_not_found:{sequence}")
     pilot = ""
-    if record and record.get("pilot", {}).get("in_scope"):
+    if record and record.get("pilot", {}).get("in_scope") and 1 <= sequence <= 100:
         pilot = _pilot_case_html(record, sequence, source_records or {}, source_ids or [], media_records or [])
     panel = f'\n  <div class="wrap provenance-wrap">{_case_provenance(record, sequence)}{pilot}</div>'
     return text.replace(marker, marker + panel, 1)
@@ -616,13 +635,8 @@ def build_site(site_root: Path, project_root: Path) -> dict[str, Any]:
     methodology = _methodology_html(collection, map_report, {**legacy_report, "generated_at": build_timestamp, "generated_at_utc": build_timestamp})
     atomic_write_text(methodology_path, methodology)
     shutil.copy2(project_root / "web" / "archive-search.js", site_root / "assets" / "js" / "archive-search.js")
-    map_script_path = site_root / "assets" / "js" / "map.js"
-    if map_script_path.is_file():
-        map_script = map_script_path.read_text(encoding="utf-8")
-        marker = "    var canvasRenderer = L.canvas({ padding: 0.45 });"
-        if marker in map_script and 'mapNode.innerHTML = "";' not in map_script:
-            map_script = map_script.replace(marker, '    mapNode.innerHTML = "";\n' + marker, 1)
-            atomic_write_text(map_script_path, map_script)
+    shutil.copy2(project_root / "web" / "map.js", site_root / "assets" / "js" / "map.js")
+    shutil.copy2(project_root / "web" / "map.css", site_root / "assets" / "css" / "map.css")
     css_path = site_root / "assets" / "css" / "style.css"
     css = css_path.read_text(encoding="utf-8")
     if "Direct-ingestion and methodology enhancements" not in css:

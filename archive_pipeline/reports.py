@@ -29,9 +29,11 @@ COLLECTION_STATUSES = [
 ]
 
 
-def generate_collection_summary(legacy_zip: Path, output_root: Path) -> dict[str, Any]:
-    with LegacyArchive(legacy_zip) as archive:
-        summaries = list(archive.iter_summaries())
+def generate_collection_summary(legacy_zip: Path | None, output_root: Path) -> dict[str, Any]:
+    summaries: list[dict[str, Any]] = []
+    if legacy_zip is not None:
+        with LegacyArchive(legacy_zip) as archive:
+            summaries = list(archive.iter_summaries())
     baseline = {
         "complete": sum(1 for row in summaries if row.get("completion") == "complete"),
         "partial": sum(1 for row in summaries if row.get("completion") != "complete"),
@@ -61,14 +63,23 @@ def generate_collection_summary(legacy_zip: Path, output_root: Path) -> dict[str
         for item in normalized
         if item.get("completeness_status") in {"pending_review", "conflicting_sources"} or item.get("review_flags")
     ]
+    verified_ids = [
+        item.get("internal_id")
+        for item in normalized
+        if item.get("page_extraction") or item.get("api_extraction")
+    ]
     latest_dates = sorted(filter(None, (item.get("retrieved_at") for item in normalized)))
+    total = len(summaries) if summaries else len(normalized)
     report = {
         "generated_at": utc_now(),
-        "total_incidents": len(summaries),
-        "legacy_baseline": baseline,
+        "total_incidents": total,
+        "legacy_baseline": baseline if summaries else None,
         "direct_collection": {
             "processed": len(normalized),
-            "pending": max(0, len(summaries) - len(normalized)),
+            "normalized_records": len(normalized),
+            "source_verified_records": len(set(filter(None, verified_ids))),
+            "source_verified_incident_ids": sorted(set(filter(None, verified_ids))),
+            "pending": max(0, total - len(normalized)),
             "latest_successful_collection": latest_dates[-1] if latest_dates else None,
             "status_counts": direct_counts,
             "status_incident_ids": status_ids,
@@ -94,7 +105,8 @@ def generate_collection_summary(legacy_zip: Path, output_root: Path) -> dict[str
         },
         "policy": {
             "excel_active_source_of_truth": False,
-            "legacy_values_status": "legacy_import_until_verified",
+            "legacy_values_status": "legacy_import_until_verified" if summaries else "not_used_by_site_build",
+            "report_source": "legacy_scope_plus_normalized_records" if summaries else "normalized_records_only",
             "media_binaries_downloaded": 0,
         },
     }
@@ -102,9 +114,10 @@ def generate_collection_summary(legacy_zip: Path, output_root: Path) -> dict[str
     lines = [
         "# تقرير الجمع المباشر من Airwars",
         "",
-        f"- إجمالي الحوادث: **{len(summaries):,}**",
-        f"- عولجت مباشرة: **{len(normalized):,}**",
-        f"- بانتظار الجمع: **{max(0, len(summaries) - len(normalized)):,}**",
+        f"- إجمالي الحوادث: **{total:,}**",
+        f"- ملفات موحّدة موجودة: **{len(normalized):,}**",
+        f"- تحقق لها مصدر حي أو مؤرشف: **{len(set(filter(None, verified_ids))):,}**",
+        f"- بانتظار الجمع: **{max(0, total - len(normalized)):,}**",
         f"- رُقيت من جزئية إلى مكتملة: **{len(upgrades):,}**",
         f"- تحتاج إلى مراجعة: **{len(set(filter(None, review_ids))):,}**",
         "",
@@ -119,7 +132,10 @@ def generate_collection_summary(legacy_zip: Path, output_root: Path) -> dict[str
     else:
         lines.append("- لم تتعذر قراءة أي ملف JSON موحّد.")
     lines.append("- لا تتضمن عملية الجمع أي تنزيل لملفات الصور أو الفيديو أو الصوت.")
-    lines.append("- القيم المهاجرة تبقى موسومة `legacy_import` إلى أن تُراجع من مصدر حي أو مؤرشف.")
+    if summaries:
+        lines.append("- القيم المهاجرة تبقى موسومة `legacy_import` إلى أن تُراجع من مصدر حي أو مؤرشف.")
+    else:
+        lines.append("- أُنشئ هذا التقرير من السجلات الموحّدة فقط، دون فتح الحزمة التاريخية.")
     atomic_write_text(output_root / "data" / "reports" / "collection-summary.md", "\n".join(lines) + "\n")
     return report
 
@@ -150,67 +166,81 @@ def coordinate_reasons(latitude: Any, longitude: Any) -> list[str]:
     return reasons
 
 
-def generate_map_coverage(legacy_zip: Path, output_root: Path) -> dict[str, Any]:
+def generate_map_coverage(legacy_zip: Path | None, output_root: Path) -> dict[str, Any]:
     exclusions: list[dict[str, Any]] = []
     points: list[dict[str, Any]] = []
     world_valid_pairs = 0
-    with LegacyArchive(legacy_zip) as archive:
-        summaries = list(archive.iter_summaries())
-        for row in summaries:
-            sequence = int(row["sequence"])
-            internal_id = stable_internal_id(row.get("airwars_id"), sequence)
-            normalized_path = output_root / "data" / "incidents" / f"{internal_id}.json"
-            normalized = load_json(normalized_path, {})
-            latitude_raw = normalized.get("latitude", row.get("latitude"))
-            longitude_raw = normalized.get("longitude", row.get("longitude"))
-            if not normalized and (latitude_raw is None or longitude_raw is None):
-                legacy_case = archive.case_data(sequence).get("incident", {})
-                if latitude_raw is None:
-                    latitude_raw = legacy_case.get("خط العرض")
-                if longitude_raw is None:
-                    longitude_raw = legacy_case.get("خط الطول")
-            lat = as_number(latitude_raw)
-            lon = as_number(longitude_raw)
-            coordinate_source = "normalized_direct_record" if normalized else "legacy_import"
-            world_valid = (
-                lat is not None
-                and lon is not None
-                and -90 <= float(lat) <= 90
-                and -180 <= float(lon) <= 180
-            )
-            if world_valid:
-                world_valid_pairs += 1
-            reasons = coordinate_reasons(latitude_raw, longitude_raw)
-            if reasons:
-                exclusions.append({
-                    "legacy_sequence": sequence,
-                    "internal_id": internal_id,
-                    "incident_code": row.get("code"),
-                    "airwars_id": str(row.get("airwars_id") or ""),
-                    "original_latitude": latitude_raw,
-                    "original_longitude": longitude_raw,
-                    "coordinate_source": coordinate_source,
-                    "reasons": reasons,
-                    "action": "excluded_without_correction",
-                })
-                continue
-            points.append({
+    rows: list[tuple[dict[str, Any], dict[str, Any]]] = []
+    if legacy_zip is not None:
+        with LegacyArchive(legacy_zip) as archive:
+            for summary in archive.iter_summaries():
+                sequence = int(summary["sequence"])
+                internal_id = stable_internal_id(summary.get("airwars_id"), sequence)
+                normalized = load_json(output_root / "data" / "incidents" / f"{internal_id}.json", {})
+                if not normalized:
+                    normalized = {"legacy_sequence": sequence, "internal_id": internal_id}
+                rows.append((summary, normalized))
+    else:
+        for path in sorted((output_root / "data" / "incidents").glob("*.json")):
+            normalized = load_json(path, {})
+            if normalized:
+                rows.append(({}, normalized))
+        rows.sort(key=lambda item: int(item[1].get("legacy_sequence") or 0))
+
+    for row, normalized in rows:
+        sequence = int(normalized.get("legacy_sequence") or row.get("sequence") or 0)
+        internal_id = str(normalized.get("internal_id") or stable_internal_id(row.get("airwars_id"), sequence))
+        latitude_raw = normalized.get("latitude")
+        longitude_raw = normalized.get("longitude")
+        lat = as_number(latitude_raw)
+        lon = as_number(longitude_raw)
+        provenance = normalized.get("field_provenance") or {}
+        source_types = {
+            str(entry.get("source_type") or "")
+            for field in ("latitude", "longitude")
+            for entry in provenance.get(field, [])
+        }
+        coordinate_source = "+".join(sorted(filter(None, source_types))) or "normalized_record"
+        world_valid = (
+            lat is not None
+            and lon is not None
+            and -90 <= float(lat) <= 90
+            and -180 <= float(lon) <= 180
+        )
+        if world_valid:
+            world_valid_pairs += 1
+        reasons = coordinate_reasons(latitude_raw, longitude_raw)
+        if reasons:
+            exclusions.append({
                 "sequence": sequence,
-                "number": row.get("number") or f"{sequence:04d}",
                 "internal_id": internal_id,
-                "code": row.get("code") or "",
-                "date": row.get("date") or "",
-                "location": row.get("location_ar") or row.get("location_original") or "",
-                "lat": lat,
-                "lon": lon,
-                "path": row.get("path") or f"cases/{sequence:04d}/",
+                "incident_code": normalized.get("incident_code") or row.get("code"),
+                "airwars_id": str(normalized.get("airwars_id") or row.get("airwars_id") or ""),
+                "original_latitude": latitude_raw,
+                "original_longitude": longitude_raw,
                 "coordinate_source": coordinate_source,
+                "reasons": reasons,
+                "action": "excluded_without_correction",
             })
+            continue
+        points.append({
+            "sequence": sequence,
+            "number": row.get("number") or f"{sequence:04d}",
+            "internal_id": internal_id,
+            "code": normalized.get("incident_code") or row.get("code") or "",
+            "date": normalized.get("incident_date") or row.get("date") or "",
+            "location": normalized.get("location_ar") or normalized.get("location") or row.get("location_ar") or row.get("location_original") or "",
+            "lat": lat,
+            "lon": lon,
+            "path": row.get("path") or f"cases/{sequence:04d}/",
+            "coordinate_source": coordinate_source,
+            "status": normalized.get("completeness_status") or "unknown",
+        })
     reasons_count = Counter(reason for item in exclusions for reason in item["reasons"])
     total = len(points) + len(exclusions)
     report = {
         "generated_at": utc_now(),
-        "source": "normalized_direct_records_with_legacy_import_fallback",
+        "source": "normalized_records_only" if legacy_zip is None else "normalized_records_in_legacy_scope",
         "expected_region": EXPECTED_REGION,
         "counts": {
             "total_incidents": total,
